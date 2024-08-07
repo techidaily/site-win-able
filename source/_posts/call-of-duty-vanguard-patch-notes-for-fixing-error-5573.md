@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty: Vanguard Patch Notes for Fixing Error 5573"
-date: 2024-08-05 10:20:43
-updated: 2024-08-07 11:22:59
+date: 2024-08-06T09:04:49.497Z
+updated: 2024-08-07T09:04:49.497Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/b1557e3d9700a9810b8b9bbec88362c53ba5a3f98
 
 Call of Duty Vanguard, one of the most anticipated games of this year, is finally here. If you’re already playing the game but encountered random crashes with a fatal dev error 5573, don’t worry. After reading this post, you’ll learn how to fix it easily and quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 5 fixes that helped other players solve the dev error 5573 in Vanguard. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -31,6 +34,9 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
  As many players reported, the dev error 5573 is related to specific operator skins or actions you’re performing. If you’re using other skins or outfits on your operators, try**switching to the Base skin/outfit** and see how it works. This trick should apply to all the players on PC or console. But if it doesn’t help your case, move on to more fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2 – Verify the integrity of game files
 
  If Vanguard is constantly crashing with a dev error code, there may be something wrong with the game files. To scan and repair any missing or damaged game files, you need to do an integrity check.
@@ -41,6 +47,9 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
  Wait for the process to complete. Then restart the game to check if the issue persists. If Yes, continue to the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  One of the most common causes of CoD Vanguard crash and error code is a faulty or outdated graphics driver. So you should update the graphics driver to see if it fixes your problem. There are two ways you can do so:
@@ -51,14 +60,24 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
  Reboot your computer for the changes to take effect. If the error code reoccurs, try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### Fix 4 – Close background applications
 
  If you’re running multiple applications in the background, they might interfere with Vanguard and lead to a fatal dev error like 5573\. To enjoy a smooth gaming experience, it’s recommended you disable all the unnecessary programs such as antivirus, overlay programs or gaming optimization tools like_NZXT CAM, MSI Afterburner_ , and _Razer Cortex_ . Here is how:
@@ -72,6 +91,9 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
  Launch the game to see if you’re able to play it normally. If not, there’s one more fix you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5 – Repair corrupt system files
 
  If none of the solutions above works, the last thing you need to do is to check your system. System file corruption will also crash your games and trigger a dev error code. You can check for any missing or damaged system files with a professional PC repair tool like **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  and optimize your computer for maximum performance.

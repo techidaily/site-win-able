@@ -1,7 +1,7 @@
 ---
 title: Resolving Installation Issues with Age of Empires IV on Microsoft's Digital Shop
-date: 2024-08-05 12:32:16
-updated: 2024-08-07 11:56:49
+date: 2024-08-06T09:04:47.006Z
+updated: 2024-08-07T09:04:47.006Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 
 ## Top Solutions to Resolve Issues with Tiny Tina's Calm Kingdom on Your PC Build
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/tiny-tinas-wonderlands.jpg)
 
  Tiny Tina’s Wonderlands is an exciting Borderland game of this year. While many players are enjoying the fun and engaging gameplay, there are quite a lot of complaints about the game crashes. If you’re also experiencing Tiny Tina’s Wonderlands crashing on your Windows PC, don’t worry. We’ve got some simple fixes for you.
@@ -29,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1 – Disable peripherals
 
  According to some players, Tiny Tina’s Wonderlands crashes when they have a controller connected. While peripherals can add more fun to games, they might trigger compatibility issues with new titles. So if you’re using any peripherals like   **a wheel, controller, other USB devices or even the second monitor** , simply unplug them and see how thing goes. If the problem persists, check out more solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2 – Run the game on DX11
 
  The game launches in DX12 by default. But if you receive a specific error saying DX12 is not supported, you should force the DX11 mode. This may eliminate the crashes and make your game more stable at a lower performance.
@@ -53,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
@@ -64,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 
  See if a driver update gives you luck. If the game is still crashing, try the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4 – Verify integrity of game files
 
  Missing or damaged game file is another known culprit of game issues or errors. To see if that’s the reason for Tiny Tina’s Wonderlands crashing, you could use the built-in tool of your game launcher to identify and repair the faulty files easily.
@@ -71,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 1. Open the Epic Games Launcher and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/verify-game-files-2.jpg)
 2. Locate Tiny Tina’s Wonderlands. Click the**three-dot icon** and select**Verify** .  
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/verify-game-files.jpg)
 
  It will take a while for the process to complete. Once done, restart the game to see how it works. If it keeps crashing, there’s the last fix to try.

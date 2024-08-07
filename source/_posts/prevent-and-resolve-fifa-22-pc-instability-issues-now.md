@@ -1,7 +1,7 @@
 ---
 title: Prevent and Resolve FIFA 22 PC Instability Issues Now
-date: 2024-08-04 16:50:13
-updated: 2024-08-07 11:17:35
+date: 2024-08-06T09:05:00.200Z
+updated: 2024-08-07T09:05:00.200Z
 tags:
   - win11
   - win10
@@ -28,6 +28,9 @@ Any avid sport game fans won’t want to miss out on FIFA 22, the latest fantast
 5. **[Optimize the graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1 – Verify the integrity of game files
 
  Before trying anything more complicated, you could check if the game files are missing or corrupted. That will prevent your FIFA 22 from running normally. Below is the detailed instruction for an integrity check on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  or **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -35,8 +38,14 @@ Any avid sport game fans won’t want to miss out on FIFA 22, the latest fantast
 #### If you’re on Steam
 
 1. Launch your Steam client and select**Library** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-1.jpg)
 2. Right-click**FIFA 22** and click**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-16-14-3.jpg)
 3. Select the**Local Files** tab and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files.jpg)
@@ -76,6 +85,9 @@ Here are two ways you can update the graphics driver easily and quickly:
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -83,6 +95,10 @@ Here are two ways you can update the graphics driver easily and quickly:
 
  Now all your device drivers are the latest. Check if FIFA 22 is back to the normal state. If not, there are three more fixes to try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Fix 3 – Change the DirectX settings
 
  If you’re running into FIFA 22 crashing with a specific DirectX error, a possible method is to change the DirectX settings. Take the steps below to see if that helps your case.
@@ -95,6 +111,9 @@ Here are two ways you can update the graphics driver easily and quickly:
 
  Test if FIFA 22 runs smoothly after the tweaks. If your game is still unplayable, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4 – Disable overlay
 
  In some cases, the overlay of the game launcher like Steam or Origin may cause FIFA 22 to crash or function improperly. It is an interface that allows you to access voice chat or other features. If that’s not necessary for you, just turn it off.
@@ -106,6 +125,9 @@ Here are two ways you can update the graphics driver easily and quickly:
 2. From the game list, right-click**FIFA** **22** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-16-14-3.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-steam-overaly.jpg)
 
  Play the game again to see if this method does the trick. If not, follow[Fix 5](https://tools.techidaily.com/drivereasy/download/) to adjust the in-game settings.
@@ -113,8 +135,14 @@ Here are two ways you can update the graphics driver easily and quickly:
 #### On Origin
 
 1. Launch Origin. Select**My Game Library** , and choose the FIFA 22 tile.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/origin-verify-game-files.jpg)
 2. Click the**gear icon** and click**Game Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-origin-in-game.jpg)
 3. Make sure**Enable Origin In Game for FIFA 22 Ultimate Edition** is**unticked** . Click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-origin-in-game-2.jpg)
@@ -130,10 +158,16 @@ Here are two ways you can update the graphics driver easily and quickly:
 2. Select the**Windowed** or**Windowed** **Borderless** mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/game-settings-2.jpg)
 3. Select**Lock to 60fps** under Frame Rates, and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/game-settings-3.jpg)
 
  Open the game to check out on its performance. Still no luck? Try the last method.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 6 – Reinstall the game
 
  If none of the fixes above resolves your FIFA 22 crashing issue, try reinstalling the game from scratch. After uninstalling FIFA 22, also remember to**delete the remaining game files** . And if possible,**install the game on SSD** , which, according to some players, solved the crashing dramatically.

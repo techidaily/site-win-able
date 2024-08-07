@@ -1,7 +1,7 @@
 ---
 title: Mastering Roblox Starts Up – Essential Fixes to Get You Playing Again
-date: 2024-08-05 11:12:56
-updated: 2024-08-07 10:27:24
+date: 2024-08-06T09:05:05.430Z
+updated: 2024-08-07T09:05:05.430Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
  Roblox is definitely fun, but we’ve seen many players reporting that Roblox is not working. Somehow it just won’t launch and not letting people play the games. If you’re in the same boat, no worries! We’ve got a few working fixes you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -43,6 +46,18 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
 If rebooting your PC doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Check your browser
 
  When you choose a game on Roblox’s website and click to play, there should be a pop-up window that allows you to open the Roblox app. If the pop-up window doesn’t show in your browser, or it won’t launch Roblox with your permission, then you can**try using another browser** .
@@ -51,6 +66,9 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 
  If your browser doesn’t seem to be the reason for Roblox not working, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Reset your Internet options
 
 [**FIX IT NOW >>**](https://tools.techidaily.com/drivereasy/download/)
@@ -65,6 +83,9 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 3. Switch to the**Advanced** tab, then click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/reset-1.png)
 4. Check the option of**Delete personal settings** , then click**Reset** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/delete-personal-settings.png)
 5. Restart your PC to let the changes take effect.
 
@@ -79,16 +100,25 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
  Another common reason for Roblox not working is when you’re using a proxy server for Internet connection. Here’s how to configure your proxy settings:
 
 1. In the search bar next to your Start button (or in the Start menu), type**proxy** then click**Change proxy settings** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-proxy.png)
 2. Make sure that**User setup script** and**Use a proxy server** are set to**off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/proxy-settings.png)  
 
  For Windows 11 users, your screen will look slightly different.  
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows 11 configure proxy settings](https://images.drivereasy.com/wp-content/uploads/2021/06/win11-proxy-off.jpg)
 
 If this fix doesn’t help, there’s one more fix you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Fix 5: Reinstall Roblox desktop app
 
  Many gamers were able to get Roblox working again after they reinstall the Roblox desktop app. Just make sure you fully uninstall the app before you reinstall it. Here’s all you need to do:
@@ -98,6 +128,9 @@ If this fix doesn’t help, there’s one more fix you can try.
 1. First, make sure **all other programs are closed and not running in the background** to avoid anything that could interfere with the reinstallation.
 2. On your keyboard, press the**Windows logo key** and**R** to invoke the Run box.
 3. Type**control panel** , then click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 4. Switch to**View by: Small icons** , then click**Programs & Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/programs-and-features.png)
@@ -118,6 +151,9 @@ If this fix doesn’t help, there’s one more fix you can try.
 
  If the automatic installation fails to work, you can[download the Roblox app](https://www.roblox.com/Download) here.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus: How to keep your PC at top condition and bring a better gaming experience
 
  One of the easiest PC maintenance tips is to keep your drivers up-to-date. Updating your drivers regularly helps prevent many random issues you may run into.

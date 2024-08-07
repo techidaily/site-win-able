@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes for Smooth Play: Improve Your Frames Per Second (FPS) on Elden Ring."
-date: 2024-08-04 22:10:18
-updated: 2024-08-07 11:20:25
+date: 2024-08-06T09:04:53.014Z
+updated: 2024-08-07T09:04:53.014Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/5996397f505d52b0f60ffe77c36fd8859621590a5
 
 Having**low FPS** in**Apex Legends** ? If the answer is yes, don’t panic – you’re not alone. This is a rather common problem, and it’s usually not very hard to solve. Also, if you wish to boost your PC performance in gaming, you’ll find this post helpful as well.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 6 Ways to boost FPS in Apex Legends
 
  Here’re 6 ways that have proved useful to many players. You may not need to try them all; just work your way down the list until you find the one that works for you.
@@ -57,6 +61,9 @@ Listed below are the recommended graphics settings for Apex Legends:
 * **Ambient Occlusion Quality** : Disabled
 * **Sun Shadow Coverage** : Low
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-609.png)
 
 * **Sun Shadow Detail** : Low
@@ -74,6 +81,9 @@ Listed below are the recommended graphics settings for Apex Legends:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Way 2: Remove FPS Cap
 
  After modifying your graphics settings, it’s about time you remove the FPS Cap in Apex Legends to maximize the frame rate.
@@ -94,6 +104,9 @@ In case your low FPS problem still remains, move on to the next method.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Way 3: Update graphics drivers**
 
  Low FPS in Apex Legends is sometimes caused by out-dated graphics drivers. If that’s indeed your problem, you should keep the drivers up-to-date in order to optimize your frame rate.
@@ -108,12 +121,18 @@ In case your low FPS problem still remains, move on to the next method.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
  3) Click the **Update**  button next to your graphics driver to automatically download its correct version, then you can manually install the driver (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -128,6 +147,9 @@ In case your low FPS problem still remains, move on to the next method.
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5ae0331bc08e4-5.png) and**S** to invoke the search box (you may also see it on the taskbar). Type in**game mode** and click**Game Mode settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-450.png)
 
  2) In the pop-up window, toggle off**Game Mode** .
@@ -140,12 +162,18 @@ In case your low FPS problem still remains, move on to the next method.
 
  4) Go to the **Captures** tab and toggle off the option under **Record in the background while I’m playing a game** and **Record audio when I record a game** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-538.png)
 
  5) Now you need to close all the unnecessary programs running on your computer. To do this, switch to an unwanted program, and close it as you normally would (e.g. by clicking the × at the top right of the program).
 
  If the program cannot be shut down in the normal way, you can force it to close by the following procedure:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
  1\. on your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5ae0331bc08e4-5.png) and**X** at the same time. Then select**Task Manager** .
 
 ![This image has an empty alt attribute; its file name is image-449.png](https://images.drivereasy.com/wp-content/uploads/2019/08/image-449.png)
@@ -164,12 +192,18 @@ In case your low FPS problem still remains, move on to the next method.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Way 5: Delete temporary/junk files**
 
  Deleting temporary/junk files may free up your disk space, thereby boosting your FPS in Apex Legends. Here’s how:
 
  If you feel uncomfortable getting rid of computer cache manually, you can do it automatically with **[CCleaner](https://tools.techidaily.com/drivereasy/download/)**  – a powerful and reliable tool used to clean out your files.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5ae0331bc08e4-5.png) and **R** at the same time to invoke the Run dialog box. Type in **%temp%** and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-305.png)
@@ -184,6 +218,9 @@ In case your low FPS problem still remains, move on to the next method.
 
  4) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box again. Type in **temp** and hit **Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-302.png)
 
  5) Repeat **Step 2** through **Step 3** to delete all the files in your **temp** folder.
@@ -196,6 +233,9 @@ In case your low FPS problem still remains, move on to the next method.
 
  8) Don’t forget to empty your **Recycle Bin** after everything’s done.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-280.png)
 
  If you need to free up more space in your disks, you should do a disk cleanup. For more details, please refer to **[this post](https://support.microsoft.com/en-us/help/4026616/windows-10-disk-cleanup)**  from Windows Support.
@@ -204,6 +244,9 @@ In case your low FPS problem still remains, move on to the next method.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Way 6: Adjust Windows power settings**
 
  Some people said adjusting Window power settings gave them a boost in FPS. Under the**Adjust for best performance** power plan, Windows will allow your CPU to run at a higher speed (for demanding games however, this tweak may not make a big difference) but your computer will also generate more heat and noise. To change your Windows power plan, here’re the steps:
@@ -214,6 +257,9 @@ In case your low FPS problem still remains, move on to the next method.
 
  2) Expand **View by:** and select **Category** . Then click **System and Security** .
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-313.png)
 
  3) Select **System** .
@@ -226,6 +272,9 @@ In case your low FPS problem still remains, move on to the next method.
 
  5) In the System Properties window, click the **Advanced**  tab. Then click **Settings…** in the **Performance** section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-317.png)
 
  6) Go to the **Visual Effects** tab and click **Adjust for best performance** . Then click**Apply > OK** . (You can also click**Custom** and configure the options to your liking.)

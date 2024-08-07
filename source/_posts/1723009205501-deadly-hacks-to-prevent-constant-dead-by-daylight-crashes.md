@@ -1,7 +1,7 @@
 ---
 title: Deadly Hacks to Prevent Constant Dead by Daylight Crashes !
-date: 2024-08-04 10:18:36
-updated: 2024-08-07 11:33:38
+date: 2024-08-06T09:04:38.412Z
+updated: 2024-08-07T09:04:38.412Z
 tags:
   - win11
   - win10
@@ -15,10 +15,17 @@ thumbnail: https://thmb.techidaily.com/452af84849e74b7985a3e6edc7ef7272ddba7eb34
 
 ## BlueStacks Freezing? Discover Easy Solutions to Prevent Crashes Now
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/bluestacks.png)
 
  It’s very fascinating that you can play over two million mobile games on your PC with this FREE Android emulator. However, many of us may have experienced game crashes in Bluestacks. If you’re getting random BlueStacks crashes and don’t know how to deal with it, don’t worry. In this post, you will learn how to fix it easily and quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Adjust the game setting](https://tools.techidaily.com/drivereasy/download/) [s](https://tools.techidaily.com/drivereasy/download/)**
@@ -32,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/452af84849e74b7985a3e6edc7ef7272ddba7eb34
  First, you need to make sure that you have allocated enough RAM and CPU cores in BlueStacks Settings. This will increase performance and avoid game crashing/lagging. Here’s how to do it:
 
 1. Click the gear button on the lower right corner to open the**Settings** menu.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings.jpg)
 2. The **Settings**  page will appear with the **Engine** tab highlighted, as shown below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings-engine.jpg)
@@ -90,16 +101,25 @@ There are mainly two ways for you to update the graphics driver:
 
  Now other programs stop consuming a high amount of RAM, you can launch BlueStacks again to check if the crashing problem is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Turn off antivirus
 
  It’s possible that your antivirus program will interfere with the BlueStacks. To check if this is causing your BlueStacks crashing issue, you can disable it or uninstall it temporarily because sometimes disabling it won’t work.
 
 1. On your keyboard, press the**Windows logo** key and**R** key at the same time to open the Run box.
 2. Type**appwiz.cpl** and hit**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 3. Right-click your antivirus and choose**Uninstall** , and follow the on-screen instructions.
 4. Reboot your computer and launch BlueStacks to check if the issue persists.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ### Fix 5: Enable Virtualization for BlueStacks
 
  If the methods above didn’t do the trick, you can run a quick check before reinstalling the whole software. If this feature is turned off, your BlueStacks would become very laggy and even start crashing a lot.
@@ -107,6 +127,9 @@ There are mainly two ways for you to update the graphics driver:
 1. Press the**Ctrl + Shift + Esc** to open the Task Manager.
 2. Go to the**Performance** tab.
 3. You can view the**Virtualization** status under the CPU tab.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/on.jpg)
 
  If this feature is disabled, you should follow[this guide](https://support.bluestacks.com/hc/en-us/articles/115003174386) to turn it on in the BIOS settings. However, if everything seems alright but you still get the crashing issues, you can reinstall BlueStacks (be sure to remove all its files and then reinstall it again).

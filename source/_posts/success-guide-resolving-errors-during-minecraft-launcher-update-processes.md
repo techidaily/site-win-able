@@ -1,7 +1,7 @@
 ---
 title: "Success Guide: Resolving Errors During Minecraft Launcher Update Processes"
-date: 2024-08-05 18:57:15
-updated: 2024-08-07 10:59:14
+date: 2024-08-06T09:05:03.739Z
+updated: 2024-08-07T09:05:03.739Z
 tags:
   - win11
   - win10
@@ -32,6 +32,9 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Run Program Compatibility Troubleshooter
 
  Windows has many built-in troubleshooters. The Program Compatibility Troubleshooter can help games that are not downloaded from the Windows 10 Store.  
@@ -41,6 +44,9 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 2. In the Search bar, type Minecraft and click**Open file location** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_16-01-37.jpg)
 3. Right-click on the Minecraft Launcher and click**Troubleshoot compatibility** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_15-55-11.jpg)
 4. Follow the on-screen instructions to finish the process.
 
@@ -52,12 +58,21 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 
 1. Go to the[Minecraft download page](https://www.minecraft.net/en-us/download) .
 2. Click**Try an alternative download** below the big green Download button.  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_16-28-23.jpg)
 3. Then download the Minecraft.exe and install it.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_16-30-37.jpg)
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Check your antivirus software
 
  One common cause for the crashing issue is your antivirus software blocking some features of the game and causing problems. So go to your antivirus software and unblock the game program to fix it.
@@ -66,6 +81,9 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Fix 4: Reinstall the Minecraft
 
  If no fix works, reinstalling Minecraft is a good option to try. The main purpose is that by downloading a fresh copy of the game from the official website and clean the old one completely.
@@ -112,6 +130,9 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .

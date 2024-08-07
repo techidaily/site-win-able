@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Racing Experience: A Step-by-Step Guide to Upgrade Graphics Driver for Forza Horizon 5"
-date: 2024-08-05 22:32:32
-updated: 2024-08-07 10:45:57
+date: 2024-08-06T09:04:39.289Z
+updated: 2024-08-07T09:04:39.289Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
 ## Boosting Forza Horizon 5 Visuals? Update Your Graphic Drivers Today
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/forza-horizon-5-code-FH301.jpg)
 
  Forza Horizon 5 is finally here. However, some players reported that they were unable to launch the game and got the message saying that “**Please update your graphics driver…(Code: FH301)** ”. If you’re facing the same error, don’t worry. Here we’ll tell you how to update your graphics driver easily and quickly.
@@ -30,17 +33,38 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
  You can update your graphics driver via Device Manager. To do so, follow the instructions below:
 
 1. Right-click the**Start** button and then select**Device Manager** .  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/start-device-manager.jpg)
 2. In Device Manager, double-click**Display adapters** to expand it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/display-adapter.jpg)
 3. Right-click your**graphics card** and select**Update driver** .  
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/graphics-update-driver.jpg)
 4. Select**Search automatically for drivers** . Windows will automatically search for the latest driver for your graphics card and then install it.  
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/search-automatically-for-drivers.jpg)
 5. Once the process is complete, restart your computer.
 
  If Windows doesn’t find a new driver, you can try looking for one from your graphics card manufacturer’s website or by using a third-party driver updater.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Update graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update your graphics driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -58,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
  After installing the latest graphics driver, restart your PC for the changes to take effect. Now you should be able to launch Forza Horizon 5.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Method 3: Update your graphics driver manually
 
  You can also go to your graphics card manufacturer’s website to download and update your graphics driver. It takes time and computer skills to update your graphics driver this way. If you’re a tech-savvy user, you can try the following steps to download and install the latest graphics driver on your own.

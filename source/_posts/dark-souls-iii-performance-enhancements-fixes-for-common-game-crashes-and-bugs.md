@@ -1,7 +1,7 @@
 ---
 title: Dark Souls III Performance Enhancements – Fixes for Common Game Crashes and Bugs
-date: 2024-08-05 13:49:45
-updated: 2024-08-07 12:33:24
+date: 2024-08-06T09:04:44.510Z
+updated: 2024-08-07T09:04:44.510Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 
 The final Fantasy series brings us a lot of fun and excitement until it crashes on your PC, among which Final Fantasy XV crashes frequently. The good news is, you can fix Final Fantasy crashing quite easily. This post puts together the possible solutions for you to fix**Final Fantasy XV crashing** .
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Do not overclock your CPU](https://tools.techidaily.com/drivereasy/download/)
@@ -32,6 +35,9 @@ The final Fantasy series brings us a lot of fun and excitement until it crashes 
 
  So if your computer is overclocking your CPU, try to**set it back to default** and see if it helps with your Final Fantasy crashing issue.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Verify the game files
 
  Final Fantasy may crash if there is any corrupted game file, so you can try verifying integrity of game files in Steam app if games crash. Here’s how to do it:
@@ -40,10 +46,20 @@ The final Fantasy series brings us a lot of fun and excitement until it crashes 
 
 2) Click**Library** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap34.jpg)
 
  3) Right click on your game (for example, Final Fantasy XV), and click**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap35.jpg)
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
@@ -76,6 +92,9 @@ This requires time and computer skills.
 
  2) Click**Tools** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap37.jpg)
 
  3) Click**Driver Restore** . Then click**Browse…** .
@@ -102,10 +121,16 @@ To do so, follow these steps:
 
  2) Click**System** .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap41.jpg)
 
  3) Click**Advanced system settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap42.jpg)
 
  4) When the**System Properties** pane pops up, click**Settings** under the**Performance** section.
@@ -128,12 +153,18 @@ To do so, follow these steps:
  d. Click**Set** .  
  e. Click**OK** to save.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap50.jpg)
 
 7) After changing your pagefile size, restart Windows.
 
  Open Final Fantasy and see if it stops crashing. Still no luck? Don’t give up hope. There are other solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Disable NVIDIA Turf Effects
 
  NVIDIA Turf Effects simulates and renders large grass areas, which provides you with a best possible experience when playing Final Fantasy. However, Turf Effects may cause a memory problem and that could be a reason of your game crashing.
@@ -152,6 +183,9 @@ To resolve Final Fantasy crashing, you can disable NVIDIA Turf Effects.
 
 Hopefully your game will be running up again properly.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Reinstall your game
 
  If, unfortunately, the methods above didn’t help resolve your game crashing issue, try uninstalling it from your computer, then reinstall it.

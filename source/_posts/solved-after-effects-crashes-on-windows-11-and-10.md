@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] After Effects Crashes on Windows 11 & 10"
-date: 2024-08-04 16:51:57
-updated: 2024-08-07 11:58:33
+date: 2024-08-06T09:05:05.825Z
+updated: 2024-08-07T09:05:05.825Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/97308f979ef9767cdb33e037debbc9d1c528c201f
 
 Many iPhone users have experienced the**iTunes not recognizing iPhone** issue. But don’t worry if you happen to be one of them. According to user feedback, we’ve put together some fixes down below. Try them and get your iTunes working in a snap.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Basic troubleshooting steps
 
  Before you continue to anything more advanced, make sure you’ve tried the following:
@@ -27,6 +30,9 @@ Many iPhone users have experienced the**iTunes not recognizing iPhone** issue. B
 
  If these basic steps didn’t give you luck, you can move on to the advanced fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Advanced fixes
 
  You might not need to try them all. Simply work down the list until you find the one that solves your problem.
@@ -45,6 +51,9 @@ Many iPhone users have experienced the**iTunes not recognizing iPhone** issue. B
 
  Also, if you’re using a USB 3.0 port, try switching to a USB 2.0 port, and vice versa.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/usb2-usb3.jpg)
 
 USB ports
@@ -65,6 +74,9 @@ If you don’t know how, use these steps to check:
 
 If it’s not tethering in your case, simply check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Make sure your drivers are up to date
 
  One of the most common causes of this issue is that you’re using**broken or outdated computer drivers** . A large number of users reported that iTunes works after a driver update. So before you attempt anything more complicated, definitely**make sure you’re using the latest drivers** .
@@ -108,6 +120,9 @@ You can use the following steps to remove iTunes completely.
 **Bonjour**  
 **Apple Application Support 32-bit**  
 **Apple Application Support 64-bit**  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/uninstall-itunes-0.jpg)
 
  After you uninstall a component, you might be prompted to restart your computer. Don’t reboot until you’ve finished removing all of the components.
@@ -115,12 +130,18 @@ You can use the following steps to remove iTunes completely.
 Then you need to remove the remaining files:
 
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run dialog. Type or paste**%programfiles%** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/programfiles.jpg)
 2. Delete the following folders if exist:  
  **iTunes**  
  **Bonjour**  
  **iPod**
 3. Open the**Common Files** folder, then the**Apple** folder.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/uninstall-itunes-1.jpg)
 4. Delete the following folders if exist:  
  **Mobile Device Support**  
@@ -144,8 +165,14 @@ Then remove the following folders according to your operating system.
  Microsoft releases updates for Windows on a regular basis, mostly addressing compatibility issues. It might be a potential fix to your problem with iTunes:
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -154,6 +181,9 @@ Then remove the following folders according to your operating system.
 
 If the issue lingers on, try the next solution below.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Try your iPhone on another PC
 
  In some cases, it could be your phone that’s causing all the hassle. You can**try connecting your iPhone to another computer** to find out what went wrong exactly.

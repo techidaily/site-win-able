@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Battlefield 5 Won't Load Dilemma with Our Expert Tips
-date: 2024-08-05 15:27:21
-updated: 2024-08-07 10:34:42
+date: 2024-08-06T09:04:50.888Z
+updated: 2024-08-07T09:04:50.888Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
  Seeing an error “**Unable to complete version check** ” on your Final Fantasy XIV game launcher? Don’t worry! You’re not the only person to experience it. A lot of FFXIV players have experienced this issue when booting their game launcher. Although this error is common, it’s still fixable…
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -55,6 +58,9 @@ Now launch your game and see if the error is gone.
 
  You can get a decent deal for the**NordVPN services** . Check out the **[NordVPN coupons](https://tools.techidaily.com/drivereasy/download/)**  here!
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd81b2168bf1.jpg)
 
  Once you set it up, use it to launch and update your FFXIV launcher. Hopefully it’s helpful for you to resolve your problem.
@@ -66,6 +72,9 @@ Now launch your game and see if the error is gone.
  You can adjust the version check setting to fix the “Unable to complete version check” error. Here is what and how you should adjust:
 
 1. Press the**Windows logo key** on your keyboard and type “notepad”, then select**Notepad** in the results.  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-447.png)
 2. Open**File Explorer** (by pressing the**Windows logo key** and**E** on your keyboard at the same time).
 3. Go to the following location (by copying the path below and pasting it to the address bar, then pressing**Enter** ):  
@@ -73,8 +82,14 @@ Now launch your game and see if the error is gone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-448.png)
 4. Open the**FFXIV\_BOOT.cfg** file with Notepad (click and drag it to the Notepad window).  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-452.png)
 5. Change the value of**BootVersionCheckMode** from 0 to**1** .  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-454.png)
 6. Press the**Ctrl** key and**S** on your keyboard at the same time to save your change.
 7. Close the file, then run your FFXIV launcher to see if this fixes your version check error.
@@ -111,6 +126,9 @@ OR
 
 **2)** Run Driver Easy and click the Scan Now button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-251.png)
 
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).

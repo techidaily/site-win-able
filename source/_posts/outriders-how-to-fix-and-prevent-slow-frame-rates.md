@@ -1,7 +1,7 @@
 ---
 title: "Outriders: How to Fix and Prevent Slow Frame Rates"
-date: 2024-08-06 10:56:28
-updated: 2024-08-07 11:35:42
+date: 2024-08-06T09:05:00.604Z
+updated: 2024-08-07T09:05:00.604Z
 tags:
   - win11
   - win10
@@ -39,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
 | RAM              | 8 GB                                                         |
 | HDD space        | 30 GB                                                        |
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## 6 fixes for Fallout 4 freezing issue
 
  There are**6** easy-to-apply methods that have helped other users fix their lag issues in Fallout 4\. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -50,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
 5. **[Change your game mode and correct the resolutions by modifying your game file](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Adjust the frame rate](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### Fix 1: Verify your game cache
 
  If your game freezes on Fallout 4 startup, it’s possible that the installation of Fallout 4 is corrupted. Then you can use this fix to redownload files and fix crashes.
@@ -57,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
 1. Run Steam.
 2. In the **LIBRARY** tab, right-click on Fallout 4.
 3. Under the **LOCAL FILES** tab, click **Verify integrity of game cache** .  
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 4. After the process, relaunch the game and check the crash will appear or not.
 
@@ -69,16 +78,25 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
 
  If this resolves your problem, you may need to remove the program or contact the vendor of the software for advice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Run your game in compatibility mode
 
  You may be having compatibility issues with your Fallout 4 so the game frozen in the midway. To fix these issues, you should try running your game in compatibility mode. Here’s how you can do it:
 
 1. Right click the _executable (.exe) file_ or the _shortcut_ for your game, then click **Properties** .  
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56cae670797.png)
 2. Click the **Compatibility** tab, check **Run this program in compatibility mode** , and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56cbe70a295.jpg)
 3. Run your game to see if this works for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  Outdated graphics drivers may cause the “Fallout 4 freezing” issue. So you can try to update the graphics driver to fix the problem.

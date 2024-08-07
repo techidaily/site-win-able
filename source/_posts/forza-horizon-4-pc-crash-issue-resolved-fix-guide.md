@@ -1,7 +1,7 @@
 ---
 title: Forza Horizon 4 PC Crash Issue Resolved - Fix Guide
-date: 2024-08-06 14:13:33
-updated: 2024-08-07 10:34:24
+date: 2024-08-06T09:05:09.734Z
+updated: 2024-08-07T09:05:09.734Z
 tags:
   - win11
   - win10
@@ -32,12 +32,18 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
  The Discord streams not loading issue could simply be a connection problem. Having a quick and simple check on your network connection should be your first fix to try.
 
 1. **Reboot your network** . Simply unplug your modem and router from their power supply. Wait for a minute to let them cool off and then plug them back to their power supply. This can help with better network connectivity by refreshing the RAM and renewing the IP address.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 2. **Try using a LAN cable** instead if you’re using **Wi-Fi**  connection**.**  Convenient as it is, yet most of the time **Wi-Fi**  is not stable enough for computer games. A wired connection would be a better option for your network stability.
 
  If network connection is not where the problem is, try the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2 Update your graphics driver
 
  Outdated or corrupt drivers are the common reason for game crashing. Most game crashing errors can be fixed by **updating your graphics driver** . What’s more, the latest driver can improve your gaming experience. You can head to graphics manufacturers’ websites (like **[Nvidia](https://www.nvidia.com/Download/index.aspx?lang=en-us)**  or **[AMD](https://www.amd.com/en/support)** ) to download the latest drivers. However, if you don’t have the time, patience, or computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -48,10 +54,16 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-scan-now-11.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  Or, you can click the **Update** button next to the flagged graphics driver to automatically download the **correct version** of that driver, then you can manually install it (you can do this with the FREE version). ![](https://images.drivereasy.com/wp-content/uploads/2023/06/de-uodate-all.jpg)
 
 **The Pro version of Driver Easy**  comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3 Repair common disk issues
 
  Fixing common disk problems like errors, bad sectors, or file system corruption can resolve game freezing issues. Repairing the disk ensures proper installation and smooth reading of game data from the storage device, preventing bugs that lead to the Forza 5 getting stuck.
@@ -60,6 +72,10 @@ Follow the steps below to repair common disk issues:
 
 1. Go to**This PC** .
 2. Locate the disk drive where you have installed the **Forza Horizon 5** , Right-click on it and go to **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/properties.jpg)
 3. Go to the **Tools** tab, click **Check** , and then click **Scan drive** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/scan-drive.jpg)
@@ -67,6 +83,9 @@ Follow the steps below to repair common disk issues:
 
  Now, play the Forza 5 and see if it has worked. If not, please read on and try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Fix 4 Use a VPN
 
  Using a VPN can help get around your Forza 5 getting stuck on loading screen due to connection issues. By encrypting your internet traffic and routing it through remote servers, a VPN provides a more stable and consistent connection that may resolve internet related problems.
@@ -78,6 +97,10 @@ Here’s how to use it:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/nordvpn-pc.jpg)
 3. Check to see if you can open the website without problems this time. If yes, then you’ve worked around the issue. If no, please head on to Fix 7, below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Fix 5 Run in clean boot
 
  Some other programs may hinder the game’s smooth running as well, they can be fixed by performing a clean boot.
@@ -86,8 +109,18 @@ To do so, you can:
 
 1. Press the **Windows logo key**  and **R**  together on your keyboard to open the Run box.
 2. Type **msconfig**  and click **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 3. Choose the **Services**  tab and check the **Hide all Microsoft services** box.![](https://images.drivereasy.com/wp-content/uploads/2023/06/services1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 4. Click **Disable all** and **Apply** . Then reboot your computer.![](https://images.drivereasy.com/wp-content/uploads/2023/06/services2.jpg)
 5. Launch the Forza 5 after your PC restarts and see if it runs properly now.
 
@@ -99,6 +132,9 @@ If your issue persists, then move on to the next fix below.
 
  Simply right click the Forza 5 on Steam, choose to**Delete Local Content** , and then**Download** it again will do the trick.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 7 Update Windows to the latest version
 
  Updating Windows to the latest version can resolve stuck issues by patching bugs, improving stability, and enhancing compatibility. Installing the most recent Windows updates provides critical security fixes, resolves system file corruption, and ensures games have access to the latest improvements and features needed to run smoothly without freezing.

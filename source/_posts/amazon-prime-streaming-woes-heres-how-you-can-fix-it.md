@@ -1,7 +1,7 @@
 ---
 title: Amazon Prime Streaming Woes? Here's How You Can Fix It!
-date: 2024-08-05 13:38:11
-updated: 2024-08-07 10:16:54
+date: 2024-08-06T09:04:35.721Z
+updated: 2024-08-07T09:04:35.721Z
 tags:
   - win11
   - win10
@@ -41,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/5e51a6387f9a892e242df734bd7d8aebcab09cf33
 
  Before we dive into anything advanced, make sure your account is not suspended or banned. A quick way to verify is to **try another account, or log in with your account on another device** . If you suspect your account is locked, contact[Steam support](https://help.steampowered.com/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Fix 1: Check your credentials
 
  When you’re having trouble logging in to Steam, the first thing you should always do is to make sure your credentials are correct. This may sound silly, but it does work. Make sure you’re**logging in with your username, not your email** . For password, you can type it down somewhere and paste it in Steam to make sure it’s correct.
@@ -58,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/5e51a6387f9a892e242df734bd7d8aebcab09cf33
 
 If the server is working just fine, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Fix 3: Log in from a web browser
 
  Sometimes the problem is with the Steam client instead of your account. If you can’t log in via the Steam client, try the web browser.
@@ -68,6 +74,9 @@ If the server is working just fine, try the next fix.
 
 If this doesn’t work, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 4: Clear Steam cache
 
  Broken cache files can prevent you from logging in to Steam via the Steam client. You can delete the local files to get it fixed. Here’s how:
@@ -90,6 +99,9 @@ If this doesn’t work, try the next fix.
 
  If your Internet connection is valid but you still get the login error from Steam, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Fix 6: Check your firewall and antivirus
 
  Your firewall or antivirus, if you use any, can block Steam if it thinks Steam is risky. The connection to the Steam server could be interfered with, so you keep getting login errors. In this case, you can allow Steam through your firewall and/or your antivirus.
@@ -98,10 +110,16 @@ If this doesn’t work, try the next fix.
 
 1. Press the**Windows key** and**R** on your keyboard to invoke the Run box.
 2. Type**control panel** , then click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-19-54.jpg)
 3. Select**View by: Small icons** . Click**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-21-09.jpg)
 4. Click**Allow an app or feature through Windows Defender Firewall** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-25-19.jpg)
 5. Scroll down and you should see**Steam.exe** , and other Steam related programs. You can**tick the box of Private** to allow Steam through the firewall when you’re using a private network. Click**OK** to save.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-35-52.jpg)
@@ -111,14 +129,35 @@ If this doesn’t work, try the next fix.
 1. Click**Change Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-40-16.jpg)
 2. Click**Allow another app** .  
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-41-32.jpg)
 3. Click**Browse** then navigate to the Steam local folder. The default path is**C:\\Program Files (x86)\\Steam** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-42-30.jpg)
 4. Select**Steam.exe** , then click**Open** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-43-21.jpg)
 5. If you want to add other Steam-related programs to the exception list, you can repeat Step 3 and 4\. Once you’re done, select all the programs you wish to add to the list, then click**Add** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-45-12.jpg)
 6. **Tick the box of Private** to allow Steam.exe (and other programs if you need) through the firewall when you’re using a private network. Click**OK** to apply the changes.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-31_10-35-52.jpg)
 
  The steps for your antivirus software should be similar. You’ll need to add the Steam executable file or select the Steam client, then add it to the whitelist of your antivirus.
@@ -134,6 +173,10 @@ If this doesn’t solve your problem, try the next fix.
 1. Right-click your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that you think could be problematic. Right-click it then select**End task** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
  If this doesn’t give you luck, there’s one more fix you can try.

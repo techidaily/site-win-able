@@ -1,7 +1,7 @@
 ---
 title: Trouble with Starting Multiversus on Your Computer? Let’s Fix That Now!
-date: 2024-08-05 23:56:20
-updated: 2024-08-07 12:23:39
+date: 2024-08-06T09:05:05.470Z
+updated: 2024-08-07T09:05:05.470Z
 tags:
   - win11
   - win10
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 3. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Disable in-game overlays](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### Fix 1: Verify the integrity of game files
 
  In some cases, the not launching or crashing during game issue indicates that some game files are missing or corrupted. Before furthering your efforts into fixes that are more complicated, run a scan and check if there’re any integrity issues.
@@ -35,11 +38,17 @@ Follow these steps:
 1. Open your**Epic Games** launcher. From the left pane, select**Library** . At the bottom right corner of the Rogue Company box, click the**ellipse** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/rogue-company-verify-0.jpg)
 2. Select**Verify** . Then wait for the process to complete.  
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/rogue-company-verify-1.jpg)
 3. Once done, launch your game and check if the problem persists.
 
  If this fix doesn’t give you luck, take a look at the next one below.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  More often than not, especially in new titles, the constant crashes are graphics-related. Aside from misconfigurations, one of the common causes is that you’re using**a broken or outdated graphics driver** . You should always keep your driver up to date and don’t wait until an issue occurs. New drivers can, sometimes, bring your game performance to a whole new level.
@@ -72,11 +81,18 @@ Follow these steps:
 
  If the latest GPU driver doesn’t stop the game crash, you can check out the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
  Windows 10 receives continuous support in the form of updates. These patches and feature updates address major compatibility issues and could be a potential fix to your crashing issue. Usually Windows will schedule updates for you, but you can make it happen manually:
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -87,6 +103,9 @@ Once completed, restart your PC and check if Rogue Company crashes again.
 
  If updating your system doesn’t help, you can check out the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Fix 4: Disable in-game overlays
 
  Overlay allows you to chat, place orders and interact with friends on another platform during game. This feature is included in apps like**Steam, Discord and NVIDIA GeForce Experience** and is usually turned on by default.

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Stop Your Witcher N3 From Freezing – PC Optimization Tips Included!
-date: 2024-08-06 22:14:12
-updated: 2024-08-07 10:49:56
+date: 2024-08-06T09:04:46.102Z
+updated: 2024-08-07T09:04:46.102Z
 tags:
   - win11
   - win10
@@ -28,10 +28,16 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 * [Fix 5: Exit full-screen mode](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 6: Reinstall Zoom](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Fix 1: Restart your computer
 
  If you haven’t tried this yet, give it a shot. A simple reboot almost always works when it comes to software glitches.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Turn off automatic GPU switching
 
 **GPU switching** allows you to maximize your graphic performance and prolong battery life when you have more than one graphics card. For many users, turning off the auto GPU switching feature fix the Zoom black screen issues.
@@ -42,10 +48,16 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
  2) Select**Manage 3D Settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/6-5.jpg)
 
  3) Select**Program Settings** , then click**Add** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/8.jpg)
 
  4) Click**Browse** .
@@ -58,6 +70,9 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
  6) Under Select the preferred graphics processor for this program, select**Integrated graphics**
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/11.jpg)
 
  7) Click**Apply** .
@@ -86,6 +101,14 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-4.jpg)
 
  You can do it for free if you want, but it’s partly manual.
@@ -97,6 +120,9 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
 If you still have the problem, then try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 4: Turn on/off Hardware Acceleration
 
  When you run an application, it uses the standard CPU on your computer. If you run a heavy task, such as sharing your screen from Zoom, your app will use other hardware components on your PC to work more effectively.
@@ -109,6 +135,9 @@ If you still have the problem, then try the next fix below.
 
 2) Go to Setting > Share screen > Advanced.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/zoom-settings.png)
 
  3)**Uncheck** Enable hardware acceleration to optimize video sharing.
@@ -117,6 +146,9 @@ If you still have the problem, then try the next fix below.
 
  Try screen sharing again with Zoom. If the black screen issue happens again, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 5: Exit full-screen mode
 
  If you’re running Zoom on the full-screen mode when the issue occurs, try exiting out of the full screen and then share your screen.
@@ -131,6 +163,9 @@ If you still have the problem, then try the next fix below.
 
 If the issue still exists, then move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 6: Reinstall Zoom
 
  If you still can’t get Zoom to work correctly, it could be an issue with Zoom installation files. In this case, uninstalling Zoom then reinstalling it could help.

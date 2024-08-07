@@ -1,7 +1,7 @@
 ---
 title: "Stop Battlefield 5 From Freezing: Fixes That Work"
-date: 2024-08-05 15:56:30
-updated: 2024-08-07 10:18:57
+date: 2024-08-06T09:04:59.810Z
+updated: 2024-08-07T09:04:59.810Z
 tags:
   - win11
   - win10
@@ -62,6 +62,9 @@ This award-winning Arkham trilogy offers the ultimate and complete Batman experi
 
  Now try launching your game again and play for a while to test the issue. If Batman Arkham Knight crashing persists, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ### Fix 2\. Update the GPU driver
 
  Make sure you have the most up-to-date graphics driver and sound drivers installed for your system. Outdated graphics drivers (and sometimes outdated sound drivers) can cause your game to crash. This is especially necessary if you haven’t updated your device drivers for a long time.
@@ -84,6 +87,9 @@ There are mainly two ways for you to download the latest drivers:
 
  3) Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
@@ -93,18 +99,27 @@ There are mainly two ways for you to download the latest drivers:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Fix 3\. Disable third-party graphic tools
 
  Another possible cause of Batman Arkham Knight crashing is software interference. You can try disabling unnecessary apps running in the background, especially graphics tools, software with game-overlay features like Discord.
 
  I know there are some incredible mods you can use to drastically improve your game experience. But when your game is crashing, we suggest removing those mods temporarily.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4\. Stop overclocking
 
  It’s always important to stay slightly under the safe limit while you’re overclocking your PC. Also, it’s worth mentioning that not all GPUs and CPUs can be overclocked.
 
  If your Batman Arkham Knight keeps crashing, you should reset them to chipset manufacturer specifications. Sometimes, the latest graphics driver may affect the safe limit, so if this issue happens after a driver update, you can either roll back the driver or stop overclocking.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5\. Rename your DLL files
 
  Some users fixed this crashing issue by renaming the PhysXDevice64.dll file in the installation folder. If the DLL file gets corrupted, it’s very likely that your Batman Arkham Knight will keep crashing. Here’s how to fix this:
@@ -121,6 +136,9 @@ There are mainly two ways for you to download the latest drivers:
 
 If the crashing issue still persists, you can reinstall the whole game.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6\. Turn off smoke/fog
 
  The latest NVIDIA driver powers some fancy Batman Arkham Knight effects but the game may crash with these on. You can turn off smoke/fog.
