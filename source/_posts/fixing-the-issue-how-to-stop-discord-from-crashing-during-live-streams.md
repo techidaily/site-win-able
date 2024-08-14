@@ -1,0 +1,251 @@
+---
+title: "Fixing the Issue: How to Stop Discord From Crashing During Live Streams"
+date: 2024-08-13T10:12:13.889Z
+updated: 2024-08-14T10:12:13.889Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Fixing the Issue: How to Stop Discord From Crashing During Live Streams"
+excerpt: "This Article Describes Fixing the Issue: How to Stop Discord From Crashing During Live Streams"
+thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751f8e67cea228594ebc93d2a9.jpg
+---
+
+## Fixing PC Issues: Stop Red Dead Online From Crashing
+
+Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/reddeadonline) as a standalone game. While enjoying the multiplayer-only mode for the game, you may be experiencing some annoying game crashes, such as Red Dead Online crashes at launch or randomly, the game exited unexpectedly, etc.
+
+ In this article, you will find the most effective fixes and workarounds that have helped many other PC players.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Check your PC specs first
+
+ Before you try the following fixes, please make sure your PC specs meets the minimum requirements for Red Dead Online.
+
+| **OS**         | Windows 7 – Service Pack 1 (6.1.7601)              |
+| -------------- | -------------------------------------------------- |
+| **Processor**  | Intel® Core™ i5-2500K / AMD FX-6300                |
+| **Graphics**   | Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB |
+| **Network**    | Broadband Internet connection                      |
+| **Storage**    | 150 GB available space                             |
+| **Sound Card** | Direct X Compatible                                |
+
+**MINIMUM**
+
+| **OS**         | Windows 10 – April 2018 Update (v1803)              |
+| -------------- | --------------------------------------------------- |
+| **Processor**  | Intel® Core™ i7-4770K / AMD Ryzen 5 1500X           |
+| **Graphics**   | Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB |
+| **Network**    | Broadband Internet connection                       |
+| **Storage**    | 150 GB available space                              |
+| **Sound Card** | Direct X Compatible                                 |
+
+**RECOMMENDED**
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+## Try these fixes
+
+ You don’t have to try them all; just work your way down the list until you find the one that works for you. The first three are some basic troubleshooting steps, you can skip these fixes if you’ve already tried them.
+
+1. **[Verify game integrity](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Disable third-party software](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Run Red Dead Online as admin](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Stop overclocking your GPU](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Install Graphic Tools](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Verify game integrity
+
+ The first thing to do when Red Dead Online crashes (or any game crashes) is to verify the game integrity. Corrupt or incomplete game files can cause your game to crash. To see if this is the culprit, here’s how:
+
+1. Launch Steam.
+2. Go to**Library** .
+3. Locate Red Dead Online.
+4. Right-click the game and select**Properties** .
+5. Select the**Local files** tab and click the**Verify integrity of game files…** button.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-on-Steam-1.png)
+6. Steam will verify the game’s files – this process may take several minutes.
+
+If you’re on Rockstar game launcher, you can verify integrity by:
+
+* Navigate to**Settings**
+* Select Red Dead Online from the list under**My installed games** on the left
+* Select**Verify Integrity** under Verify game file integrity from the options on the right
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
+### Fix 2: Disable third-party software
+
+ Some third-party tools or software can interfere with your Red Dead Online, especially if you’re using tools like MSI Afterburner or RGB software, OBS, and Bandicam. Open Task Manager (**Esc** +**Shift** +**Esc** ) to close all these background apps or simply uninstall them.
+
+ In addition, another possible cause of Red Dead Online crashing is your**antivirus software** . Disabling some of these services won’t always work. You can temporarily uninstall the software or add Red Dead Online to its exclusions.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+### Fix 3: Run Red Dead Online as admin
+
+ Red Dead Online crashing can be caused by a lack of admin rights. So it’s recommended to run Red Dead Online as administrator.
+
+1. Right-click the game’s executable file and select**Properties** .
+2. Click the **Compatibility** tab, tick both **Run this Program as an Administrator** and **Disable Fullscreen Optimizations** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/drivereasy-run-as-admin.jpg)
+3. Click**Apply** \>**OK** and now you can run this game as administrator permanently.
+
+ Now launch Red Dead Online and see if the game crashes again. If running it as an administrator did not work, you can try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 4: Update your graphics driver
+
+ Graphics card manufacturers keep releasing new drivers to fix known bugs and add new features. Outdated or corrupt graphics drivers can cause your game to crash. For game players, it’s important to keep your graphics drivers (and sometimes sound card drivers) to make sure your game runs smoothly.
+
+There are two ways you can update your graphics driver:
+
+**[Option 1 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it and install it step by step.
+
+OR
+
+**[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/red-dead-online-crashing-fix-pc/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
+
+#### Option 1 – Manually update your graphics card
+
+ To manually update your graphics driver, you can head to its official website:
+
+* [NVIDIA](https://tools.techidaily.com/drivereasy/download/)
+* [AMD](https://www.amd.com/en/support)
+
+ Note that you should download the driver for your operating system, and install it manually.
+
+#### Option 2 –**Automatically update your drivers** (recommended)
+
+ If you prefer to do it in a much easier way and update your graphics driver as soon as there’s an update, you can do it with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  it takes just 2 clicks:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
+3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+4. Restart your computer for the changes to take effect.
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+### Fix 5: Stop overclocking your GPU
+
+ If your Red Dead Online is still crashing, the reason might be your GPU. If you’re overclocking your GPU, you can revert it back to its default GPU clock.
+
+ But if you don’t feel like messing with the GPU clock, you can lock the game’s max FPS instead.
+
+1. Right-click the desktop and select**NVIDIA Control Panel** .
+2. Go to**Manage 3D Settings** on the left pane. Then select**Program Settings** \> select**Red Dead Online** /**Red Dead Redemption 2** .  
+![program settings](https://images.drivereasy.com/wp-content/uploads/2021/01/manage-3d-settings.png)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. Turn on**Max FPS Limit** and set the value to**30** . This will lock the game to 30 FPS and will reduce CPU and GPU load.
+
+### Fix 6: Install Graphics Tools
+
+ Some players find adding a Graphics Tool helped fix their Red Dead Online crashing issue. So if these methods above didn’t do the trick, you may want to have a try:
+
+1. In the Windows Search bar, start typing **feature** , and select **Manage** **optional features** .
+2. Click **Add a feature** .  
+![add graphics tools](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-feature-1.jpg)
+3. Choose **Graphics Tools** from the results list.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-graphics-tool.jpg)
+4. Launch your game again to see if you can get rid of game crashes now.
+5. If not, you can go to**Graphics Settings** \>**Advanced Graphics** , and make sure**Graphics API** is set to**DirectX 12** .  
+![change Vulkan to DX12](https://images.drivereasy.com/wp-content/uploads/2021/01/DX12.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+6. If changing it to DX12 didn’t help, you can try reverting it back to Vulkan.
+
+---
+
+ Did the fixes above solve your**Red Dead Online crashing** issue? Feel free to drop us a line if you have any suggestions or questions. We’ll see what we can do to help.
+
+ If none of these methods worked, you can try[performing a clean boot](https://support.microsoft.com/en-us/help/929135/how-to-perform-a-clean-boot-in-windows) , or contact[Rockstar game support](https://support.rockstargames.com/) .
+
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [Red Dead Redemption 2](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/fixed-why-does-adobe-after-effects-keep-crashing-on-windows-11-and-10-solutions-inside/"><u>[FIXED] Why Does Adobe After Effects Keep Crashing on Windows 11 & 10? Solutions Inside!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-premium-tools-for-virtual-meeting-efficiency-for-2024/"><u>[New] Premium Tools for Virtual Meeting Efficiency for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tiktoks-voyage-to-twitter-success-stories/"><u>[New] TikTok's Voyage to Twitter Success Stories</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-channel-roundup-best-unboxing-youtube-channels-of-the-year-2024/"><u>[New] Ultimate Channel Roundup  Best Unboxing YouTube Channels of the Year, 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-mastery-in-recreating-visual-stories/"><u>[Updated] In 2024, Instagram  Mastery in Recreating Visual Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-advanced-ai-solutions-to-upgrade-your-phones-chat-functionality/"><u>10 Advanced AI Solutions to Upgrade Your Phone's Chat Functionality</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-guide-to-fetching-superior-quality-fb-videos/"><u>2024 Approved  Guide to Fetching Superior Quality FB Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-preserve-your-virtual-adventures-with-top-pc-screen-techniques/"><u>2024 Approved  Preserve Your Virtual Adventures with Top PC Screen Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-professional-meeting-aesthetics-blur-backgrounds-tips/"><u>2024 Approved  Professional Meeting Aesthetics  Blur Backgrounds Tips</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-closer-look-at-razers-portable-solution-for-gamers-enhanced-wi-fi-connectivity-unveiled/"><u>A Closer Look at Razer’s Portable Solution for Gamers - Enhanced Wi-Fi Connectivity Unveiled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-lag-expert-strategies-for-smoother-dying-light-gameplay/"><u>Beat the Lag: Expert Strategies for Smoother Dying Light Gameplay</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/breaking-through-on-tiktok-personal-branding-and-differentiation/"><u>Breaking Through on TikTok  Personal Branding and Differentiation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-step-by-step-for-youtube-chapters-the-complete-guide/"><u>Comprehensive Step-by-Step for YouTube Chapters  The Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-the-causes-of-drastic-fps-fluctuations-a-comprehve-solution-guide/"><u>Decoding the Causes of Drastic FPS Fluctuations: A Comprehve Solution Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-experience-expert-tips-for-eliminating-stutter-and-improving-frame-rates-in-gaming/"><u>Elevate Your Experience: Expert Tips for Eliminating Stutter and Improving Frame Rates in Gaming</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enhance-visibility-in-igtv-6-insider-tips-for-video-size-mastery-for-2024/"><u>Enhance Visibility in IGTV  6 Insider Tips for Video Size Mastery for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-to-overcome-dreamlight-valley-stability-problems-on-pc/"><u>Essential Tips to Overcome Dreamlight Valley Stability Problems on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-overcoming-the-challenge-of-assassins-creed-valhalla-pc-stability-problems-and-recurring-crashes/"><u>Expert Advice: Overcoming the Challenge of Assassin's Creed Valhalla PC Stability Problems & Recurring Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-troubleshooting-counter-strike-2-desktop-issues/"><u>Expert Tips for Troubleshooting Counter-Strike 2 Desktop Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996533955-fix-your-pc-once-and-for-all-discover-6-proven-methods-to-prevent-stray-crashes/"><u>Fix Your PC Once and For All! Discover 6 Proven Methods to Prevent Stray Crashes.</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-error-4201-on-genshin-impact-simple-solutions-for-gamers/"><u>Fixing Error 4201 on Genshin Impact - Simple Solutions for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-r-type-final-2-pc-game-crash-issues-effective-solutions/"><u>Fixing the R-Type Final 2 PC Game Crash Issues: Effective Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-season-8-unveiling-the-new-frame-rate-updates/"><u>Fortnite Season 8: Unveiling the New Frame Rate Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-amd-smbus-drivers-swift-and-straightforward-installation-guide/"><u>Get the Latest AMD SMBus Drivers - Swift and Straightforward Installation Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-your-steam-games-running-smoothly-again-on-windows-11-troubleshooting-steps/"><u>How to Get Your Steam Games Running Smoothly Again on Windows 11 - Troubleshooting Steps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-c12-plus-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia C12 Plus</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-connection-fixing-pc-downtime-in-rockstar-titles/"><u>How to Restore Connection: Fixing PC Downtime in Rockstar Titles</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12plus-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme 12+ 5G Phone without PIN</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-supercharging-video-views-fbs-secrets-revealed/"><u>In 2024, Supercharging Video Views  FB's Secrets Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-valorant-mechanics-solutions-for-stutter-free-gaming-and-optimal-frame-rates/"><u>Mastering Valorant Mechanics: Solutions for Stutter-Free Gaming and Optimal Frame Rates</u></a></li>
+<li><a href="https://win-able.techidaily.com/new-chapter-begins-baldurs-gate-3-now-launch-ready-for-enthusiastic-gamers/"><u>New Chapter Begins: Baldur's Gate 3 Now Launch-Ready for Enthusiastic Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-your-blockades-how-to-stop-diablo-iii-from-crashing-mid-game/"><u>Overcome Your Blockades: How to Stop Diablo III From Crashing Mid-Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/proven-solutions-for-helldivers-2-pc-glitches-and-bugs/"><u>Proven Solutions for Helldivers 2 PC Glitches and Bugs</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-call-of-duty-vanguard-lagging-problems-step-by-step-fixes/"><u>Resolve Call of Duty: Vanguard Lagging Problems – Step-by-Step Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/spotify-web-player-performance-issues-troubleshooting-tips/"><u>Spotify Web Player Performance Issues : Troubleshooting Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-stop-your-witcher-n3-from-freezing-pc-optimization-tips-included/"><u>The Ultimate Guide to Stop Your Witcher N3 From Freezing – PC Optimization Tips Included!</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-for-enhancing-fallout-76-performance-eliminating-lag-and-increasing-fps/"><u>Top Strategies for Enhancing Fallout 76 Performance : Eliminating Lag and Increasing FPS</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-persistent-crashes-in-beat-saber/"><u>Troubleshooting: How to Fix Persistent Crashes in Beat Saber</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-addressing-repeated-crashes-in-the-beat-saber-game/"><u>Ultimate Guide to Addressing Repeated Crashes in the Beat Saber Game</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-130-music-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Nokia 130 Music Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-bridging-gaps-in-storytelling-effective-scene-connections/"><u>Updated Bridging Gaps in Storytelling Effective Scene Connections</u></a></li>
+</ul></div>

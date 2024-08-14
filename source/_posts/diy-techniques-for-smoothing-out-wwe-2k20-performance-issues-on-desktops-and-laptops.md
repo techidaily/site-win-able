@@ -1,0 +1,311 @@
+---
+title: DIY Techniques for Smoothing Out WWE 2K20 Performance Issues on Desktops and Laptops
+date: 2024-08-13T10:13:57.646Z
+updated: 2024-08-14T10:13:57.646Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes DIY Techniques for Smoothing Out WWE 2K20 Performance Issues on Desktops and Laptops
+excerpt: This Article Describes DIY Techniques for Smoothing Out WWE 2K20 Performance Issues on Desktops and Laptops
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
+---
+
+## Ultimate Guide to Resolve Terraria Game Crashes - Top Techniques for a Smooth Play in 2 #
+
+**_Terraria_** keeps crashing on startup, or it constantly closes to the desktop in the middle of the game? You’re not alone. Many players are reporting it.
+
+ But don’t worry. Here is a general guide for resolving_Terraria_ crashing issues. You may not have to try them all; just work your way down the list until you find the one that works.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Fixes to try
+
+1. **[Restart your computer](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Disable your antivirus temporarily](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Run your game as an administrator](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Verify the integrity of your game files](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: **Restart your computer**
+
+ Sometimes a game can crash or stop responding because of a temporary issue that you can fix by restarting your device.
+
+ If the Terraria crashing issue still exists after the reboot, then move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 2: **Disable your antivirus temporarily**
+
+ Your problem is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
+
+ If_Terraria_ works properly after you disable the antivirus software, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
+
+ Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
+
+If this didn’t help in resolving your problem, try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 3: **Run your game as an administrator**
+
+ By default, Windows runs programs as a user, with limited permission to access system control. This means that_Terraria_ doesn’t have full access to all game files and folders on your computer.
+
+ To see if that’s the core issue, try running your game as an administrator. Here is how to do it:
+
+**1)** Exit Steam.
+
+**2)**  Right-click the **Steam icon** on your desktop and select **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
+
+**3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
+
+**4)**  Relaunch Steam and_Terraria_ to test your issue.
+
+ You can hopefully run the game without crashing now. If the problem still exists, then go ahead with the fix below.
+
+### Fix 4: **Update your graphics driver**
+
+ One of the most common causes of the_Terraria_ crashing issue is a faulty or outdated graphics driver.
+
+ You can update your device drivers manually, if you’re happy to do them one at a time. But this takes quite a while. Or you can update them all with just a couple of clicks with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+ **1)[](https://tools.techidaily.com/drivereasy/download/) [Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+**2)**  Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
+
+**3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+
+ You can do it for free if you like, but it’s partly manual.
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+**4)** Relaunch your game to test your issue.
+
+ If_Terraria_ still crashes, then go ahead with the next fix below.
+
+### Fix 5: Verify the integrity of your game files
+
+_Terraria_ may crash when one or more certain game file is damaged or missing. To fix it, try verifying the integrity of your game files on the Steam client. Here is how to do it:
+
+**1)** Run Steam.
+
+**2)**  Click **LIBRARY** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
+
+**3)**  Right-click**Terraria** and select **Properties.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-251.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+
+**4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-252.png)
+
+**5)** Relaunch your game to see if your problem has been resolved.
+
+If not, try the next fix.
+
+### Fix 6: Run your game in compatibility mode
+
+ Some Windows updates may not be compatible with_Terraria_ , keeping it from function properly. Try running your game in compatibility mode to see if it can fix your issue. Here is how to do it:
+
+**1)** Right-click the **Terraria icon** , then select **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-253.png)
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-254.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+
+**3)**  Click the list box below to select **Windows 8** , then click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-255.png)
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**4)**  Relaunch your game to check if your issue had been resolved.
+
+ If your game crashes again under Windows 8 mode, repeat **steps 1 – 3** and select **Windows 7**  from the list box.
+
+If this didn’t work for you, check the fix, below.
+
+### Fix 7: Reinstall your game and/or Steam
+
+ If none of the fixes worked for you, your issue might be caused by corrupted or damaged game files. In this case, reinstalling**_Terraria_** and/or Steam is very likely the solution to your issue. Here is how to do it:
+
+* **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
+* **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+#### Reinstall your game
+
+**1)** Run Steam.
+
+**2)** Click**LIBRARY** .
+
+**3)** Right-click**Terraria** , then click **Uninstall** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-250.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+
+**4)**  Click**DELETE** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-257.png)
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**5)** Download and install _Terraria_  again.
+
+ Now, relaunch your game to check if this has fixed your issue. If not, you’ll need to reinstall Steam as well.
+
+#### Reinstall Steam
+
+**1)** Right-click the Steam icon and select **Open file location** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
+
+**2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
+
+**3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+**4)** Under **View by** , select **Category** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
+
+**5)** Select **Uninstall a program** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+**6)**  Right-click **Steam** , and then click **Uninstall** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
+
+ **8)[Download](https://store.steampowered.com/about/)**  Steam.
+
+**9)** Open the downloaded file and install Steam.
+
+**10)** Right-click the **Steam icon**  and select **Open file location** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
+
+**11)**  Move the backup **steamapps folder**  you create before to your current directory location.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
+
+**12)**  Relaunch Steam and your game.
+
+ Hopefully, one of the fixes above helped in resolving your issue. Feel free to leave a comment below if you have any questions or suggestions.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 7](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 8](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-10-top-ranked-offline-ios-gaming-hacks-you-need/"><u>[New] 2024 Approved  10 Top-Ranked Offline iOS Gaming Hacks You Need</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-3d-lut-expertise-in-a-quick-learning-journey/"><u>[New] 3D LUT Expertise in a Quick Learning Journey</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-critical-equipment-items-to-start-your-channel-right/"><u>[New] 5 Critical Equipment Items to Start Your Channel Right</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-videopilot-social-networks-to-files/"><u>[Updated] 2024 Approved  VideoPilot  Social Networks to Files</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/utube-time-savers-that-will-skyrocket-engagement-rates-for-2024/"><u>20 YouTube Time Savers That Will Skyrocket Engagement Rates for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-ultimate-drone-propeller-rankings-for-top-flyers/"><u>2024 Approved  Ultimate Drone Propeller Rankings for Top Flyers</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-se-2020-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone SE (2020) Waze | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/adept-at-british-vernacular-your-new-language-companion/"><u>Adept at British Vernacular: Your New Language Companion</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010714500-battling-the-beast-of-processing-power-top-fixes-for-baldurs-gate-3-cpu-problems/"><u>Battling the Beast of Processing Power: Top Fixes for Baldur's Gate 3 CPU Problems,</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-insufficient-memory-error-tips-and-tricks-for-god-of-war-gamers/"><u>Bypassing the 'Insufficient Memory' Error: Tips and Tricks for God of War Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/clownfish-voice-effect-malfunctions-heres-how-to-repair-them/"><u>Clownfish Voice Effect Malfunctions? Here's How to Repair Them</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cultivating-bilingual-competence-via-esl/"><u>Cultivating Bilingual Competence via ESL</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-solutions-for-your-kernelbasedll-errors-quick-and-painless-repair-methods/"><u>Easy Solutions for Your KernelBase.dll Errors: Quick & Painless Repair Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-ways-to-troubleshoot-overwatch-2s-launch-problems-2024-edition/"><u>Effective Ways to Troubleshoot Overwatch 2'S Launch Problems - 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/farming-simulator-22-troubled-boot-heres-how-to-solve-it/"><u>Farming Simulator 22 Troubled Boot? Here’s How to Solve It!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-a-constant-loading-screen-in-sea-of-thieves-a-step-by-step-guide/"><u>How to Fix a Constant Loading Screen in Sea of Thieves - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-fallout-3-crashing-issues-in-windows-11/"><u>How to Fix Fallout 3 Crashing Issues in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-constant-crashes-in-secret-of-mana-sedenium-manus-for-pc-players/"><u>How to Resolve Constant Crashes in Secret of Mana (SEDENIUM MANUS) for PC Players</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-money-making-on-reddit-in-just-a-few-simple-steps/"><u>In 2024, Master Money-Making on Reddit in Just a Few Simple Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/latest-fixes-for-cant-start-forza-horizon-ebeam-2024-guide/"><u>Latest Fixes for 'Can't Start Forza Horizon Ebeam - 2024 Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/lost-arc-adventure-stuck-at-the-doorstep-heres-how-to-fix-it/"><u>Lost Arc Adventure Stuck at the Doorstep? Here's How to Fix It !</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-video-boost-the-essential-handbook-for-vce-22/"><u>Mastering Video Boost  The Essential Handbook for VCE 2.2</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-obstacles-division-n-2-solutions-updated/"><u>Overcoming Launch Obstacles: Division N 2 Solutions Updated</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-online-pc-troubles-a-comprehensive-guide-to-fixing-persistent-crashes-and-freezes/"><u>Red Dead Online PC Troubles: A Comprehensive Guide to Fixing Persistent Crashes and Freezes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcoming-the-issue-of-modern-warfare-career-mode-wont-start/"><u>Resolved: Overcoming the Issue of Modern Warfare Career Mode Won't Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-the-fixes-for-common-rust-graphical-errors/"><u>Resolved: Troubleshooting the Fixes for Common Rust Graphical Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-of-fluctuating-frame-rates-a-comprehensive-guide/"><u>Resolving the Issue of Fluctuating Frame Rates: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-end-crusader-kings-3-pc-crashing-issues/"><u>Solution Found! End Crusader Kings 3 PC Crashing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-to-get-your-fallout-3-running-smoothly-again-updated-guide/"><u>Step-by-Step Fixes to Get Your Fallout 3 Running Smoothly Again - Updated Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-minecraft-from-freezing-and-crashing-with-these-quick-solutions/"><u>Stop Minecraft From Freezing & Crashing with These Quick Solutions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-resolve-game-crashes-for-dragon-age-origins-on-windows-11-tips-and-tricks/"><u>Troubleshoot and Resolve Game Crashes for Dragon Age: Origins on Windows 11 - Tips & Tricks!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-pathfinder-wrath-of-the-righteous-launch-failures/"><u>Troubleshooting Guide: Resolving Issues with Pathfinder: Wrath of the Righteous Launch Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-why-cant-i-download-or-install-age-of-empires-iv-from-the-microsoft-store/"><u>Troubleshooting: Why Can't I Download or Install Age of Empires IV From the Microsoft Store?</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-overcome-black-screen-error-in-far-cry-6/"><u>Ultimate Guide to Overcome Black Screen Error in Far Cry 6</u></a></li>
+</ul></div>

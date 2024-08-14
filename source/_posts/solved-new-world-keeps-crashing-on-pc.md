@@ -1,0 +1,208 @@
+---
+title: "[SOLVED] New World Keeps Crashing on PC"
+date: 2024-08-13T10:12:46.194Z
+updated: 2024-08-14T10:12:46.194Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes [SOLVED] New World Keeps Crashing on PC
+excerpt: This Article Describes [SOLVED] New World Keeps Crashing on PC
+thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af6da8adb2858a8e66532d628.jpg
+---
+
+## [Solved] DayZ Keeps Crashing | Quickly & Easily
+
+**DayZ keeps crashing on your PC?**  Don’t worry! You’re not alone. Many DayZ users have reported this issue. But the good news is you can fix it on your own. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
+
+## Try these fixes
+
+ Here’s a list of fixes that have resolved this problem for other DayZ players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
+
+1. **[Check if your PC meets the system requirements for DayZ](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Install the latest DayZ patch](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your drivers](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Verify the integrity of the game](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Turn off Steam Overlay](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Add DayZ as an exception to your third-party antivirus application](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Reinstall DayZ](https://tools.techidaily.com/drivereasy/download/)**
+
+---
+
+### Fix 1: Check if your PC meets the system requirements for DayZ
+
+ DayZ crashing issue often occurs when the specs of your PC fails to meet the system requirements for DayZ. Before trying other fixes, you should make sure your PC meet the minimum system requirements for the game.
+
+Below are the minimum and recommended system requirements for DayZ:
+
+#### The minimum system requirements for DayZ
+
+| **OS:**         | Windows 7/8.1 64-bit                  |
+| --------------- | ------------------------------------- |
+| **Processor:**  | Intel Core i5-4430                    |
+| **Memory:**     | 8 GB RAM                              |
+| **Graphics:**   | NVIDIA GeForce GTX 760 or AMD R9 270X |
+| **DirectX:**    | Version 11                            |
+| **Storage:**    | 16 GB available space                 |
+| **Sound Card:** | DirectX®-compatible                   |
+| **Network:**    | Internet connection                   |
+
+#### The recommended system requirements for DayZ
+
+| **OS:**         | Windows 10 64-bit                     |
+| --------------- | ------------------------------------- |
+| **Processor:**  | Intel Core i5-6600K or AMD R5 1600X   |
+| **Memory:**     | 12 GB RAM                             |
+| **Graphics:**   | NVIDIA GeForce GTX 1060 or AMD RX 580 |
+| **DirectX:**    | Version 11                            |
+| **Storage:**    | 25 GB available space                 |
+| **Sound Card:** | DirectX®-compatible                   |
+| **Network:**    | Internet connection                   |
+
+ If your PC fails to meet DayZ minimum system requirements, you may not be able to run the game properly on your PC. In such a case, you need to **upgrade your hardware first** . If you don’t know how to check the DirectX version on your PC, you can refer to the first step in the post: [ Download DirectX 12 for Windows 10 \[SOLVED\]](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 2: Install the latest DayZ patch
+
+ The developers of DayZ release regular game patches to fix bugs. It’s possible that a recent patch has caused the game crashing issue, and that a new patch is required to fix it.
+
+ If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 3: Update your drivers
+
+ Corrupted or outdated graphics / sound drivers usually trigger the DayZ crashing issue. To resolve this issue, you just need to update the drivers on your PC to the latest version.
+
+ Updating your graphics driver to the latest version can make your game run smoother and prevents many issues or errors. If you don’t have the time, patience or skills to update your driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen-1.png)
+3. Click **Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-network-driver.png)
+
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4: Verify the integrity of the game
+
+ Corrupted game files may also crash the game. To fix this issue, you need to verify the game files. Here is how to do it:
+
+1. Open the Steam client and navigate to **the LIBRARY tab** , then **right-click** on**DayZ** and select **Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-1.png)
+2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+ Launch DayZ after verifying the game file to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 5: Turn off Steam Overlay
+
+ The Steam Overlay may interfere with DayZ, and sometimes it may even crash the game. Some DayZ players reported that after disabling Steam Overlay, the crashing issue disappears. You can follow the steps below to turn off Steam Overlay:
+
+1. In Steam, click the**Steam** tab on the upper left corner and select**Settings** to open the Settings page of the Steam client.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-settings.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
+2. Navigate to the**In-Game** tab, then_**untick**_ **Enable the Steam Overlay while in-game** . Click**OK** to save the change.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-Settings2.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Run DayZ again after you disabled Steam Overlay to see if you can play the game without crashes. If not, try the next fix, below.
+
+### Fix 6: Add DayZ as an exception to your third-party antivirus application
+
+ This issue may also be triggered by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with DayZ.
+
+ Since DayZ consumes a lot of memory and CPU usage when you’re playing a game, many third-party antivirus application may regard it as a potential threat. You can try   **adding DayZ as an exception to your third-party antivirus application** .
+
+ Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+ See if you can run DayZ without crashes. If not, try the next fix below to reinstall the game.
+
+### Fix 7: Reinstall DayZ
+
+ If none of the fixes works, you may need to reinstall DayZ to fix this issue. To reinstall DayZ:
+
+1. Open Steam and go to **LIBRARY** .
+2. **Right-click** DayZ and select **Delete Local Content…** . to uninstall the game.
+3. When the uninstalling process completes, click the game name within your Library to reinstall the game.
+
+---
+
+ Hopefully, after reading this post, you fixed the DayZ crashing issue on your own. If you have any questions or suggestions on this issue, please feel free to leave us a comment below. Thanks for reading!
+
+* [crash](https://tools.techidaily.com/drivereasy/download/)
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unveiling-hidden-functionalities-of-instagrams-question-marker/"><u>[New] 2024 Approved  Unveiling Hidden Functionalities of Instagram’s Question Marker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-breaking-barriers-7-top-tools-for-artists-transforming-into-nfts/"><u>[New] Breaking Barriers  7 Top Tools for Artists Transforming Into NFTs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-follow-the-leaders-on-igtv-for-inspiration/"><u>[New] Follow the Leaders on IGTV for Inspiration</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-elegant-departures-from-zero-costs-to-paid-options/"><u>[Updated] Elegant Departures  From Zero Costs to Paid Options</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-startup-failures-of-red-dead-redemption-2-effective-fixes-for-gamers/"><u>Addressing Startup Failures of Red Dead Redemption 2: Effective Fixes for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/banishing-discord-disruptions-effective-strategies-to-fix-data-transfer-delays/"><u>Banishing Discord Disruptions: Effective Strategies to Fix Data Transfer Delays</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-stuck-loading-phase-in-football-manager-202n1-a-comprehensive-guide/"><u>Bypassing the Stuck Loading Phase in Football Manager 202N1 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-fixing-amd-radean-software-that-refuses-to-open/"><u>Effective Solutions for Fixing AMD Radean Software That Refuses To Open</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enabling-virtual-reality-on-your-phone-a-step-by-step-approach/"><u>Enabling Virtual Reality on Your Phone  A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-improve-fps-drops-and-enhance-your-play-of-resident-evil-village-on-pc/"><u>Expert Tips to Improve FPS Drops and Enhance Your Play of Resident Evil Village on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-dota-2s-stalled-loading-scenes-a-step-by-step-guide-to-restarting-your-game/"><u>Fix Dota 2'S Stalled Loading Scenes - A Step-by-Step Guide to Restarting Your Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-has-bethesda-improved-performance-issues-for-mass-effect-ultimate-collection/"><u>How Has Bethesda Improved Performance Issues for Mass Effect Ultimate Collection?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-6s-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-and-fix-oxygen-not-included-gameplay-interruptions/"><u>How to Prevent and Fix 'Oxygen Not Included' Gameplay Interruptions</u></a></li>
+<li><a href="https://win-able.techidaily.com/hyper-scape-no-more-pc-crashing-solutions-unveiled/"><u>Hyper Scape No More PC Crashing - Solutions Unveiled</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-aesthetic-adjustments-iphones-pro-image-cropping-apps/"><u>In 2024, Aesthetic Adjustments  IPhone's Pro Image Cropping Apps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-8-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 8</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-instagram-photo-addition-a-simple-guide/"><u>In 2024, Instagram Photo Addition  A Simple Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-call-of-duty-warzone-on-pc-fixes-for-common-crash-issues/"><u>Mastering Call of Duty Warzone on PC - Fixes for Common Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-your-gaming-fun-with-splitgate-a-guide-on-overcoming-performance-hiccups-like-low-fps-and-stutters/"><u>Maximize Your Gaming Fun with Splitgate: A Guide on Overcoming Performance Hiccups Like Low FPS and Stutters</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-lag-effective-solutions-for-deadlock-free-gaming-on-pc-and-ps5-platforms/"><u>Overcome Lag: Effective Solutions for Deadlock-Free Gaming on PC and PS5 Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/preventing-and-repairing-gray-zone-warfare-crashes-on-your-computer/"><u>Preventing and Repairing Gray Zone Warfare Crashes on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-troubleshooting-effective-solution-for-error-3-0x0001000b/"><u>Rainbow Six Siege Troubleshooting: Effective Solution for Error 3-0X0001000B</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reinforce-win10s-networked-printer-setup/"><u>Reinforce WIN10's Networked Printer Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-why-cant-i-play-starfield-how-to-fix-launch-problems-in-steam-and-xbox/"><u>Solution Guide: Why Can't I Play Starfield? How to Fix Launch Problems in Steam and Xbox</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-battle-royale-memory-glitches-xbox-and-pc/"><u>Step-by-Step Solutions for Battle Royale Memory Glitches (Xbox & PC)</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-fixing-rfid-scanning-errors/"><u>Step-by-Step Solutions for Fixing RFID Scanning Errors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-art-of-storytelling-integrating-captions-into-your-instagram-videos/"><u>The Art of Storytelling  Integrating Captions Into Your Instagram Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-opening-epic-games-launcher-here-are-easy-solutions/"><u>Trouble with Opening Epic Games Launcher? Here Are Easy Solutions!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-x-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone X</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-stability-issues-in-crackdown-3-on-pc-platforms/"><u>Troubleshooting Guide: Resolving Stability Issues in Crackdown 3 on PC Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-why-fifa-22-keeps-exiting-prematurely-on-pc/"><u>Troubleshooting: Why FIFA 22 Keeps Exiting Prematurely on PC</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unveiling-the-secrets-of-successful-youtube-videos/"><u>Unveiling the Secrets of Successful YouTube Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/war-thunder-continuous-crash-problems-discover-these-fixes-made/"><u>War Thunder Continuous Crash Problems? Discover These Fixes Made !</u></a></li>
+</ul></div>

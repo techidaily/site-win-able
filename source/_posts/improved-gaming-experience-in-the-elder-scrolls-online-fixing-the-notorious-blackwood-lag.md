@@ -1,0 +1,216 @@
+---
+title: "Improved Gaming Experience in The Elder Scrolls Online: Fixing the Notorious Blackwood Lag"
+date: 2024-08-13T10:07:02.757Z
+updated: 2024-08-14T10:07:02.757Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Improved Gaming Experience in The Elder Scrolls Online: Fixing the Notorious Blackwood Lag"
+excerpt: "This Article Describes Improved Gaming Experience in The Elder Scrolls Online: Fixing the Notorious Blackwood Lag"
+thumbnail: https://thmb.techidaily.com/2b40a723a6077cb6c79bfb5924e552b293609acafd7a9691ad956f89a6aa172b.jpg
+---
+
+## Trouble Launching Civilization VI? Solve the Problems for a Smooth Windows #10 Experience
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-bot-launching-featured.jpg)
+
+ Looks like the recent update of[Civilization VI](https://www.epicgames.com/store/en-US/p/sid-meiers-civilization-vi?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=cd14dcaa4f3443f19f7169a980559c62) didn’t go so well, and many gamers start reporting a**game not launching** issue. But annoying as the problem may be, it might not be so hard to fix.
+
+## Try these fixes
+
+ We’ve gathered the latest working fixes for your Civ 6 not launching issue. Simply work your way down until you find the one that gives you luck.
+
+1. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your graphics drivers](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Install the latest Visual C++ redistributable](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Switch your DirectX version](https://tools.techidaily.com/drivereasy/download/)**
+
+ If you have trouble updating the game, you might just need a simple reboot.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 1: Verify the integrity of game files
+
+ You can’t expect your game to work fine if there’re files missing or broken. So first you need to**run a scan of your game folder** .
+
+Here’s how to do it on the Epic Games client:
+
+1. Open your Epic Games client and go to**Library** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
+2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+Now you can try again and see if Civ 6 launches.
+
+If this doesn’t help, you can take a look at the next fix below.
+
+### Fix 2: Update your graphics driver
+
+ It’s very likely that your game won’t run when you’re using**a broken or outdated graphics driver** . If you’re an avid gamer, you should always keep your drivers up to date so as to avoid compatibility and performance issues.
+
+ You can update your drivers manually if you’re a tech savvy user: you need to go to the manufacturer’s website, then search, download and install the driver step by step. If you’re not comfortable playing with device drivers, you can leave it to**Driver Easy** . It’s a tool that detects, downloads and installs any driver updates your computer needs.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating your graphics driver, restart your computer and check if Civ 6 works now.
+
+ If the latest graphics driver doesn’t do the charm, you can check out the next fix.
+
+### Fix 3: Install all Windows updates
+
+ Civ 6 has been out for several years now, so it’s possible it’ll run into compatibility issues with the latest Windows 10\. Microsoft releases system updates for Windows 10 on a regular basis. It’s important to**make sure you install all the system updates** .
+
+1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
+![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
+2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+ To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
+
+ Once you’ve installed all the system updates, check if you can get Civ 6 working now.
+
+If this solution doesn’t help, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+### Fix 4: Perform a clean boot
+
+ Given we all have different desktop environments, the cause of the issue could be**interfering programs** . If you’re not sure, do a clean boot to rule out this possibility.
+
+1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
+2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
+3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
+4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
+5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+6. Restart your PC.
+
+ Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
+
+If a clean boot doesn’t help, you can check out the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 5: Install the latest Visual C++ redistributable
+
+ Some gamers reported that**installing the latest Visual C++ redistributable package** fixes the issue, so you can try the same and see how it goes.
+
+1. Go to the support page of Microsoft. Under the**Visual Studio 2015, 2017 and 2019 section** , click**vc\_redist.x64.exe** and download the installer.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/latest-c.jpg)
+2. Open the installer and follow the on-screen instructions to install.
+
+ You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 6: Switch your DirectX version
+
+ According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+
+---
+
+ Hopefully, you’ve fixed the issue and can get your game working as expected. If you have any problems, simply leave a comment and we’ll get back to you.
+
+* [Civilization VI](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-variations-panoramic-and-virtual-reality-films/"><u>[New] Exploring Variations  Panoramic & Virtual Reality Films</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-stream-success-secrets-are-you-a-fan-of-vmix-or-wirecast/"><u>[New] Stream Success Secrets  Are You a Fan of VMix or Wirecast?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-ultimate-guide-to-cinematography-on-youtube/"><u>[New] The Ultimate Guide to Cinematography on YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-battlefield-5-crashing-on-pc/"><u>[SOLVED] Battlefield 5 Crashing on PC</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-social-snippets-showcase-twitters-trending-threads/"><u>[Updated] Social Snippets Showcase  Twitter’s Trending Threads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beat-explorers-playlist-accessible-free-online-tools/"><u>2024 Approved  Beat Explorers' Playlist  Accessible, Free Online Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011648204-cod-wwii-the-forgotten-map-pacific-crash-site-unveiled/"><u>COD: WWII - The Forgotten Map, Pacific Crash Site Unveiled!</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-wwii-troubleshooting-for-persistent-black-screen-issues-in-windows-environments/"><u>COD: WWII Troubleshooting for Persistent Black Screen Issues in Windows Environments</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-wealth-like-a-mythical-dragon-expert-strategies-for-infinite-gains-on-your-computer/"><u>Conquer Wealth Like a Mythical Dragon: Expert Strategies for Infinite Gains on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-lag-on-pandoras-battlefield-in-avatar-game-with-these-optimization-techniques/"><u>Eliminate Lag on Pandora’s Battlefield in Avatar Game with These Optimization Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-stuttering-and-unexpected-quits-during-your-serious-sam-grope-on-pc-a-comprehensive-fix-guide/"><u>Eliminating Stuttering & Unexpected Quits During Your Serious Sam Grope on PC – A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-game-lag-and-crashes-in-mordhau-ultimate-fix-guide-revealed/"><u>End Game Lag & Crashes in Mordhau – Ultimate Fix Guide Revealed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-overcoming-black-display-glitches-in-far-cry-6/"><u>Expert Guide: Overcoming Black Display Glitches in Far Cry 6</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-get-your-counter-strike-2-up-and-running-again/"><u>Expert Tips to Get Your Counter-Strike 2 Up and Running Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-implemented-cod-black-ops-cold-war-now-functional-on-windows/"><u>Fixes Implemented: Cod: Black Ops Cold War Now Functional on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-nox-player-from-continuously-crashing/"><u>Fixing the Issue: How to Stop Nox Player From Continuously Crashing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-15-pro-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 15 Pro without Apple ID?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-blackout-problem-in-discord-when-sharing-your-screen-solution-found/"><u>How to Overcome the Blackout Problem in Discord When Sharing Your Screen – Solution Found!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-and-resolve-tribes-of-midgard-freezing-issues-expert-tips-and-tricks/"><u>How to Prevent and Resolve 'Tribes of Midgard' Freezing Issues - Expert Tips & Tricks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-nokia-105-classic-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Nokia 105 Classic FRP Without Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-rumors-and-expected-costs-for-the-next-gen-google-pixel-watch-series-3/"><u>Inside Rumors & Expected Costs for the Next Gen Google Pixel Watch Series 3</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722986498163-league-of-legends-performance-hiccups-heres-how-to-tackle-them-swiftly/"><u>League of Legends Performance Hiccups? Here's How to Tackle Them Swiftly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterclass-overcoming-frequent-gameplay-interruptions-in-wwe-2k22-for-computer-users/"><u>Masterclass: Overcoming Frequent Gameplay Interruptions in WWE 2K22 for Computer Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-halo-infinite-performance-a-guide-to-fixing-persistent-lag-and-crashes-on-your-computer-7-tips/"><u>Mastering Halo Infinite Performance: A Guide to Fixing Persistent Lag and Crashes on Your Computer [7 Tips]</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashing-enjoy-a-bug-free-experience-in-remnant-from-the-ashes/"><u>No More Crashing: Enjoy a Bug-Free Experience in Remnant: From the Ashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-call-of-duty-black-ops-iv-overcoming-lag-issues-and-boosting-performance/"><u>Optimizing Call of Duty: Black Ops IV - Overcoming Lag Issues and Boosting Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/portable-driver-easy-unveiled-a-users-manual-for-quick-and-easy-setup-on-any-device/"><u>Portable Driver Easy Unveiled: A User's Manual for Quick and Easy Setup on Any Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premiere-pro-solutions-to-perfect-iphone-hd-video-exposure-balance-for-2024/"><u>Premiere Pro Solutions to Perfect iPhone HD Video Exposure Balance for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-overcoming-launch-hurdles-with-overwatch-2/"><u>Quick Fixes for Overcoming Launch Hurdles with Overwatch 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-to-stop-the-division-2-from-crashing-effectively/"><u>Quick Solutions to Stop The Division 2 From Crashing Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-ark-crashing-problems-with-these-proven-techniques/"><u>Resolve ARK Crashing Problems with These Proven Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-dota-2-crashing-issues-a-comprehensive-guide/"><u>Resolve Your Dota 2 Crashing Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-of-division-2-failure-to-start-a-step-by-step-guide/"><u>Resolving the Issue of Division 2 Failure to Start : A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/scalability-strategies-adapting-to-large-scale-meetings-with-zoom-in-windows-11-for-2024/"><u>Scalability Strategies  Adapting to Large-Scale Meetings with Zoom in Windows 11 for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-chrome-stalling-issue-in-windows-11-with-these-simple-tips/"><u>Solve Your Chrome Stalling Issue in Windows 11 with These Simple Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-eradicating-helldivers-2-bsod-blue-screen-issue/"><u>Step-by-Step Guide: Eradicating 'Helldivers 2' BSOD (Blue Screen) Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-for-fixing-warzones-dev-error-6634-expert-tips-and-solutions/"><u>Step-by-Step Troubleshooting for Fixing Warzone's Dev Error #6634 - Expert Tips & Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-best-of-ice-artistry-2022-edition/"><u>The Best of Ice Artistry  2022 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-enhancing-utorrents-downloading-efficiency/"><u>Troubleshooting and Enhancing uTorrent's Downloading Efficiency</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-frame-drops-and-flickering-problems-on-warzone/"><u>Troubleshooting Frame Drops and Flickering Problems on Warzone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-resolving-metro-exodus-stability-problems-on-computers/"><u>Ultimate Troubleshooting Guide: Resolving Metro Exodus Stability Problems on Computers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-superior-communication-optimal-use-of-zoom-in-skype-sessions-for-2024/"><u>Unlocking Superior Communication  Optimal Use of ZOOM in Skype Sessions for 2024</u></a></li>
+</ul></div>
