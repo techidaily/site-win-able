@@ -1,0 +1,213 @@
+---
+title: Cyberpunk 2077 Now Delivers Smoother Frame Rates - Performance Boosted
+date: 2024-08-18T16:28:23.289Z
+updated: 2024-08-19T16:28:23.289Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Cyberpunk 2077 Now Delivers Smoother Frame Rates - Performance Boosted
+excerpt: This Article Describes Cyberpunk 2077 Now Delivers Smoother Frame Rates - Performance Boosted
+thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b65951332a255432e2acfb47.jpg
+---
+
+## Play Smoother than Ever: Cyberpunk 2077'S Persistent Latency Challenges Fixed
+
+Cyberpunk 2077 is a AAA class game that requires a good GPU to support the game. The game is super great but not perfect, there’re bugs, glitches, and weird issues happened, one of the issues is lagging. Don’t worry, these fixes may help.
+
+ Before start doing fixes, make sure your PC specs have reached the[requirement](https://tools.techidaily.com/drivereasy/download/) .
+
+## Try these fixes
+
+ There’re 5 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
+
+1. [Change graphic card settings](https://tools.techidaily.com/drivereasy/download/)
+2. [Lower in-game graphic settings](https://tools.techidaily.com/drivereasy/download/)
+3. [Update graphics driver](https://tools.techidaily.com/drivereasy/download/)
+4. [Turn off the Xbox game bar](https://tools.techidaily.com/drivereasy/download/)
+5. [Shut down unnecessary apps](https://tools.techidaily.com/drivereasy/download/)
+
+ If you feel the mouse movement snappy or slow, check[this Input lag post](https://tools.techidaily.com/drivereasy/download/) .
+
+### Fix 1: Change graphics card settings
+
+ If you’re an NVIDIA user, open NVIDIA’s control panel to change the settings.
+
+1. Open NVIDIA control panel.
+2. Click Manage 3D Settings and click**Program Settings** .
+3. Find Cyberpunk 2077\. If you can’t find it in the list, you can add it manually.
+4. Change the settings below:  
+**Monitor Tech:**   _G-Sync (If available)_  
+**Maximum Pre-rendered frames:**   _2_  
+**Threaded optimization:**   _On_  
+**Power Management:**   _Prefer Maximum Performance_  
+**Texture Filtering – Quality:**   _Performance_  
+**Vertical sync** : _Off_  
+**Low Latency Mode** : _Off_
+
+ If you’re using AMD graphics card, use AMD control panel to set up your card.
+
+1. Run AMD Radeon Software.
+2. Click on the**Gaming** tab >**Global Graphics** .
+3. Set your graphics to**eSport** .
+4. Change the settings as below:  
+**Radeon Anti-Lag** :_Disabled_  
+**Radeon Chill** :_Disabled_  
+**Boost** :_Disabled_  
+**Image Sharpening** :_Disabled_  
+**Vertical Refresh** :_Always Off_
+5. Click**Advance** . Then change the following settings:  
+**Anti-Aliasing:** _Use Application settings_  
+**Anti-aliasing Method:** _Multi-sampling_  
+**Morphological Anti-Aliasing:** _Disabled_  
+**Anisotropic Filtering:** _Disabled_  
+**Texture Filtering Quality:**   _Performance_  
+**Surface Format Optimization:** _Enabled_  
+**Tessellation Mode:** _Override application settings_  
+**Maximum Tessellation Level:** _Off_  
+**OpenGL Triple Buffering:** _Disabled_  
+**GPU Workload:** _Graphics_
+
+ Both NVIDIA and AMD released specific updates for their graphics cards on Cyberpunk 2077’s launch day. You can[update](https://tools.techidaily.com/drivereasy/download/) your AMD or NVIDIA with the latest update, it will improve the gaming performance on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 2: Lower in-game graphic settings
+
+ One common fix for lagging is to change the in-game graphic settings. This fix has been proved by some gamers, it works for them. If you’re playing on PS4 and Xbox One, why not have a try. It may help.
+
+1. Run Cyberpunk 2077 and go to **SETTINGS** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-1.jpg)
+2. Go to the GAMEPLAY tab. Set**Crowd Density** as**Low** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
+3. Move to the Miscellaneous section, turn **Enable Analytics** to **OFF** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-3.jpg)
+4. In the**GRAPHICS** tab. Find Basic section and set**Film Grain** and**Chromatic** Aberration to**OFF** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-4.jpg)
+5. Ray Tracing is the new feature in the game. DLSS is the AI-powered performance-enhancing setting that makes Ray Tracing frame rates more playable. Turning them off and see the lagging issue is solved or not.  
+**NOTE** : Ray Tracing is not for the AMD cards right now.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-5.jpg)
+6. Back to the game and check.
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+If this fix doesn’t work, move to the next one.
+
+### Fix 3: Update graphics driver
+
+ One reason for the lagging issue is outdated or incorrect drivers. So make sure you have got the latest graphics driver. Both NVIDIA and AMD released specific updates for their graphics cards on Cyberpunk 2077’s launch day, you can update drivers[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
+
+#### Option 1: Update your graphics driver manually
+
+1. Go to the official website ( **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  / **[AMD](https://www.amd.com/en/support)**  ).
+2. Search for your exact graphic card.
+3. Choose the operating system and download the correct driver.
+4. Download and install it correctly.
+
+#### **Option 2 – Automatically update drivers** (Recommended)
+
+ If you don’t have time or patience to manually update your graphics drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
+3. Click the **Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Reboot your PC and check how’s the game running. If it doesn’t work, move to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4: Turn off the Xbox game bar
+
+ Windows 10 OS will automatically running its gaming geature when you’re running a game. You can ignore the program when playing other games, while Cyberpunk 2077 may be affected by this feature. Turning off the utility if you don’t need it.
+
+1. Press the**Windows logo key** +**I** (the ‘i’ key) together.
+2. Click**Gaming** .
+3. Go to the**Game bar** tab, make sure the toggle is off.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_14-33-30.jpg)
+4. Relaunch the game and check.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+### Fix 5: Shut down unnecessary apps
+
+ If you can play the game, but it’s lagging and viewers get spikes, shutting down unnecessary background applications is a good option. It’s because Stream requires some CPU power too, the less other stuff, the more power for Cyberpunk 2077.
+
+---
+
+ So these are the fixes for the lagging issue in Cyberpunk 2077\. Wish you enjoy the game. If you have any questions or suggestions, leave a comment and we’ll try to help.
+
+* [Cyberpunk 2077](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-ace-facebooks-social-calendar-with-2023s-no-cost-resources/"><u>[New] 2024 Approved  Ace Facebook's Social Calendar with 2023'S No-Cost Resources</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-bandicam-key-takeaways-and-tips-for-2024/"><u>[New] Mastering Bandicam - Key Takeaways and Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-beginners-roadmap-to-free-youtube-intro-videos/"><u>[New] The Beginner's Roadmap to Free YouTube Intro Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-80plus-creative-cooking-channel-names-to-attract-more-audience-for-2024/"><u>[Updated] 80+ Creative Cooking Channel Names to Attract More Audience for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-inexpensive-pcs-mastering-best-obs-arrangements/"><u>[Updated] In 2024, Inexpensive PCs  Mastering Best OBS Arrangements</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unleashing-creativity-crafting-compelling-fb-video-campaigns-for-2024/"><u>[Updated] Unleashing Creativity  Crafting Compelling FB Video Campaigns for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-elevate-your-vimeo-media-with-well-defined-chapters/"><u>2024 Approved  Elevate Your Vimeo Media with Well-Defined Chapters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-free-camera-apps-for-high-quality-slo-mo-photos/"><u>2024 Approved  Leading Free Camera Apps for High-Quality Slo-Mo Photos</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-bug-start-your-adventure-with-robocop-rogue-city-on-windows-machines-now/"><u>Beat the Bug: Start Your Adventure with RoboCop: Rogue City on Windows Machines Now</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/cutting-edge-captures-top-10-online-video-recorders-for-2024/"><u>Cutting-Edge Captures  Top 10 Online Video Recorders for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-smooth-play-experience-strategies-to-improve-frame-rate-and-reduce-delays-in-fall-guys/"><u>Enhancing Smooth Play Experience: Strategies to Improve Frame Rate & Reduce Delays in Fall Guys</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-fixing-rocket-league-continuous-crashes-update-for-202/"><u>Expert Advice on Fixing Rocket League Continuous Crashes (Update for 202</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-for-when-your-steam-client-just-wont-respond-get-back-on-track-now/"><u>Expert Tips & Fixes for When Your Steam Client Just Won't Respond - Get Back on Track Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-lag-issues-in-discord-updated/"><u>Expert Tips for Resolving Lag Issues in Discord (Updated )</u></a></li>
+<li><a href="https://win-able.techidaily.com/flawless-gaming-setup-dealing-with-and-correcting-geforce-experience-shutdown-errors-for-an-uninterrupted-flow/"><u>Flawless Gaming Setup: Dealing with and Correcting GeForce Experience Shutdown Errors for an Uninterrupted Flow</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-versatile-video-tools-for-linux-windows-and-macos-for-2024/"><u>Free, Versatile Video Tools for Linux, Windows & MacOS for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-free-up-iphone-13-pro-max-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up iPhone 13 Pro Max Space | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-boot-overwatch-2-a-step-by-step-guide-to-solving-2024-launch-hiccups/"><u>How To Successfully Boot Overwatch 2 – A Step-By-Step Guide to Solving 2024 Launch Hiccups</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-from-facebook-to-the-friends-inbox-sharing-videos-through-whatsapp/"><u>In 2024, From Facebook to the Friend's Inbox  Sharing Videos Through WhatsApp</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-lava-yuva-3-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-instagrams-regulations-for-song-posts/"><u>In 2024, Instagram's Regulations for Song Posts</u></a></li>
+<li><a href="https://win-able.techidaily.com/ls-0013-missile-glitch-in-fortnite-resolved/"><u>LS-0013 Missile Glitch in Fortnite Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/monster-hunter-rise-not-launching-quick-fixes-you-can-try/"><u>Monster Hunter Rise Not Launching - Quick Fixes You Can Try!</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-interruptions-in-naval-combat-swift-repairs-for-wows-crashing-issues/"><u>No More Interruptions in Naval Combat: Swift Repairs for WowS Crashing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-your-gameplay-with-these-fixes-to-combat-lag-in-resident-evil-village-on-pc/"><u>Optimize Your Gameplay with These Fixes to Combat Lag in Resident Evil Village on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-game-errors-fix-your-ring-of-elysium-stability-issues-once-and-for-all/"><u>Overcome Game Errors: Fix Your Ring of Elysium Stability Issues Once & For All!</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solution-how-to-stop-outriders-from-frequently-freezing/"><u>Quick Solution: How to Stop Outriders From Frequently Freezing</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-steps-for-fixing-swtor-launch-problems/"><u>Resolved: Troubleshooting Steps for Fixing SWTOR Launch Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-resolve-players-experience-issues-with-pokemon-go-freezing-and-lag/"><u>Step-by-Step Guide to Resolve Players' Experience Issues with Pokemon Go (Freezing and Lag)</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-techniques-to-solve-overwatch-2-not-working-problem/"><u>Top Techniques to Solve 'Overwatch 2 Not Working' Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-correcting-battlefield-2042s-directx-compatibility-problems/"><u>Troubleshooting and Correcting Battlefield 2042'S DirectX Compatibility Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-correcting-rusts-display-errors/"><u>Troubleshooting and Correcting Rust's Display Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-to-fixing-hogwarts-legacy-stutter-in-the-latest-update/"><u>Ultimate Troubleshooting Guide to Fixing Hogwarts Legacy Stutter in the Latest Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/verify-game-files/"><u>Verify Game Files</u></a></li>
+</ul></div>
