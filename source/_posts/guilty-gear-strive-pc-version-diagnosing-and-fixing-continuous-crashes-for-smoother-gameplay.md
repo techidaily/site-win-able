@@ -1,0 +1,265 @@
+---
+title: "Guilty Gear Strive PC Version: Diagnosing and Fixing Continuous Crashes for Smoother Gameplay"
+date: 2024-08-23T11:27:09.430Z
+updated: 2024-08-24T11:27:09.430Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Guilty Gear Strive PC Version: Diagnosing and Fixing Continuous Crashes for Smoother Gameplay"
+excerpt: "This Article Describes Guilty Gear Strive PC Version: Diagnosing and Fixing Continuous Crashes for Smoother Gameplay"
+thumbnail: https://thmb.techidaily.com/ebdad2a840dec3c1268566b70a55752afebf362104fe97ee34bca7557147f02e.jpg
+---
+
+## Boosting FPS in The Division 2 - Expert Tips and Tricks for a Smoother Gameplay in 2 #
+
+Compared to the first game, The Division 2 presents a much stronger campaign experience. But players would still wish to maximize FPS and hopefully get rid of any performance issues to smooth the gameplay. This is definitely achievable. In this tutorial, we’ll show you how to boost FPS and fix the stuttering issues on The Division 2.
+
+## Try these fixes
+
+ You may not need to try them all; simply work your way down the list until you find the one that works.
+
+1. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Disable Windows 10 Game Mode](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Set the game’s priority to high](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Optimize in-game settings](https://tools.techidaily.com/drivereasy/download/)**
+
+## 1\. Close unnecessary programs
+
+ Programs such as Google Chrome and Adobe apps are resource-heavy and will most likely drain your system. If you have many programs running in the background when playing The Division 2, issues such as the game stutters and framerate drops can occur. To prevent these issues from happening, you’re supposed to disable those programs running in the background:
+
+ 1) On your keyboard, press the **Windows logo key** and **R**  at the same time to invoke the Run box.
+
+ 2) Type **taskmgr** , then press **Enter**  on your keyboard.  
+  
+![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
+
+ 3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing The Division 2 and select **End task** .
+
+![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
+
+ Also, too many startup apps can be a drag on your computer’s performance. In this case, you can prevent some apps from automatically starting when you sign into Windows:
+
+ 1) Select the**Startup** tab. Right-click the apps that you want to stop from running automatically at startup and select**Disable** .  
+  
+![disable apps from running automatically at startup](https://images.drivereasy.com/wp-content/uploads/2021/04/startup-disable.png)
+
+ After you’ve done these, play The Division 2 and check if your game looks better.
+
+---
+
+## 2\. Disable Windows 10 Game Mode
+
+ Game mode is a feature in Windows 10 that focuses system resources on games when enabled. It was supposed to give you a performance boost. But there are some circumstances that you would experience performance loss. To get rid of it, you’re supposed to disable Windows 10 Game Mode:
+
+ 1) On your keyboard, press the **Windows logo key**  and **I**  to open Settings.
+
+ 2) Click **Gaming** .
+
+![disable windows 10 gaming features disable game mode](https://images.drivereasy.com/wp-content/uploads/2021/01/gaming-in-the-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
+
+![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
+
+ After applying the changes, play The Division 2 to check if your issues persist. If disabling Windows 10 Game Mode didn’t do the trick, proceed to the next fix.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Disable overlays
+
+ Overlay technology is commonly used in various programs. The Ubisoft Connect and GeForce Experience in-game overlays enable you to access GPU-accelerated video recording, screen-shot capture, broadcasting, and cooperative gameplay capabilities. But if you don’t really need to use these features, you can disable in-game overlays by following the instructions below:
+
+**To disable Ubisoft Connect overlay, take these steps:**
+
+ 1) Open your Ubisoft Connect. On the top left corner of your screen, click on the three lines to open the menu.
+
+ 2) Select**Settings** .
+
+ 3) Under the**General** tab, uncheck**Enable in-game overlay for supported games** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-ubisoft-connect-overlay-1200x655.png)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+**To disable GeForce Experience Overlay, take these steps:**
+
+ 1) From the GeForce Experience app, click on the**Settings icon** located on the top right corner.  
+  
+![disable GeForce Experience overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/settings-icon.png)
+
+ 2) In the GENERAL tab, toggle off**IN-GAME OVERLAY** and exit.  
+  
+![disable GeForce Experience overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/toggle-off-in-game-overlay.png)
+
+ After disabling in-game overlays, launch The Division 2 to check if this mitigates your problems. If you’re still getting low framerate and experiencing constant stutters during gameplay, try the next fix below.
+
+---
+
+## 4\. Update your graphics driver
+
+ Most video games are graphics-intensive. If you run into any performance issues such as low FPS and constant stutters during the gameplay, your outdated or faulty graphics driver can be the culprit. To pinpoint the root cause, you should try updating your graphics driver. This is essential as driver updates come with bug fixes and bring new features.
+
+ There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[**automatically**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Option 1: Manually update your graphics driver
+
+ To update your graphics driver manually, you can go to the official website:
+
+[NVIDIA](https://tools.techidaily.com/drivereasy/download/)
+[AMD](https://www.amd.com/en/support)
+
+ Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Option 2: Automatically update your graphics driver (recommended)
+
+ If you are not familiar with computer hardware, and if you don’t have the time to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically recognizes your system and finds the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
+
+Here’s how to update drivers with Driver Easy:
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
+
+![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating drivers, restart your computer and launch your game to check if the problem is solved. If not, then continue trying the fixes below.
+
+---
+
+## 5\. Set the game’s priority to high
+
+ By default, every program runs on “normal” which means Windows handles the system resources automatically. But you can tell your computer that your game, The Division 2 should have a higher priority than others to make sure that it uses system resources first. This may give you a considerable framerate boost.
+
+To set your game’s priority to high, you can take these steps:
+
+ 1) On your keyboard, press the**Window logo key + R** at the same time to open the Run dialog box.
+
+ 2) Type**taskmgr** and press Enter.  
+  
+![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Under the**Processes** tab, find your game title. Right-click it and select**Go to details** and you’ll be directed to the**Details** tab.  
+  
+![set The Division 2 priority to high](https://images.drivereasy.com/wp-content/uploads/2021/04/Task-Manager-Go-to-details.png)
+
+ 4) Your game should be highlighted. Make sure to right-click it and select**Set priority > High** .  
+  
+![set The Division 2 priority to high](https://images.drivereasy.com/wp-content/uploads/2021/04/set-priority-to-high.png)
+
+ After applying the changes, launch The Division 2 and it should be running with high priority.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6\. Optimize in-game settings
+
+ If the methods listed above didn’t help you get higher fps or fix the stuttering issues, we suggest you tweak the in-game settings:
+
+1) Launch The Division 2 and then open Settings.
+
+2) Select the**Graphics** tab. Then adjust the following items:
+
+**V-Sync Mode: Off**
+**Frame Rate Limit: Off**
+**Shadow Quality: Low**
+**Spot Shadows: Low**
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
+ After applying the changes, play The Division 2 and you should be able to notice the difference.
+
+---
+
+ Hopefully, this post helps you have a great gaming experience as expected. If you have any suggestions or questions, do not hesitate to drop us a line in the comment section below.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-navigational-aids-for-increased-proximity-in-roblox-games-for-2024/"><u>[New] Navigational Aids for Increased Proximity in Roblox Games for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-master-the-art-of-easy-webinar-recordings-windows-and-macos-advice/"><u>2024 Approved  Master the Art of Easy Webinar Recordings  Windows & macOS Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008963145-arma-3-crashing-woes-heres-the-ultimate-guide-to-solve-them/"><u>Arma 3 Crashing Woes? Here's the Ultimate Guide to Solve Them !</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/cardiotoxic-substances-can-cause-arrhythmias-by-altering-the-electrical-conduction-system-of-the-heart/"><u>Cardiotoxic Substances Can Cause Arrhythmias by Altering the Electrical Conduction System of the Heart</u></a></li>
+<li><a href="https://win-able.techidaily.com/civilization-6-wont-start-heres-how-to-fix-it-on-your-windows-10-pc/"><u>Civilization 6 Wont Start? Here's How to Fix It on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-making-your-vrchat-run-smoothly-again/"><u>Comprehensive Troubleshooting: Making Your VRChat Run Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosis-and-fixes-to-curb-gas-station-simulator-regular-system-interruptions-on-desktops/"><u>Diagnosis & Fixes to Curb Gas Station Simulator Regular System Interruptions on Desktops</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oneplus-ace-2v-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass OnePlus Ace 2V FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-when-you-cant-play-dead-space-remake/"><u>Effective Solutions for When You Can't Play Dead Space Remake</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-steps-to-rectify-severe-startup-malfunctions-in-the-new-year-tips/"><u>Essential Steps to Rectify Severe Startup Malfunctions in the New Year (Tips)</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-how-to-fix-continuous-crashes-in-assassins-creed-odyssey-when-playing-on-a-computer/"><u>Expert Advice: How to Fix Continuous Crashes in Assassin's Creed Odyssey When Playing on a Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-resolve-call-of-duty-black-ops-4-not-starting/"><u>Expert Tips to Resolve Call of Duty Black Ops 4 Not Starting</u></a></li>
+<li><a href="https://win-able.techidaily.com/far-cry-5-freezes-on-boot-troubleshooting-and-fixes/"><u>Far Cry 5 Freezes on Boot: Troubleshooting and Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/final-fixes-released-stabilized-total-war-warhammer-iii-say-goodbye-to-pc-freezes/"><u>Final Fixes Released: [STABILIZED] Total War: Warhammer III - Say Goodbye to PC Freezes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-mute-button-on-pubg-tips-to-restore-your-sound-experience/"><u>Fixing the Mute Button on PUBG - Tips to Restore Your Sound Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-repair-your-battlenet-connection-issues-in-windows-environments/"><u>How to Repair Your Battle.net Connection Issues in Windows Environments</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-zte-axon-40-lite-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror ZTE Axon 40 Lite to Roku | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-gt-10-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix GT 10 Pro Phone Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-11-pro-max-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 11 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-the-top-race-rc-rock-crawler-conquering-any-terrain/"><u>In-Depth Review of the Top Race RC Rock Crawler: Conquering Any Terrain</u></a></li>
+<li><a href="https://win-able.techidaily.com/microsoft-flight-simulator-2020-update-issue-problem-solved/"><u>Microsoft Flight Simulator 2020 Update Issue: Problem Solved</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-v-purse-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of V Purse</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-fifa-2022-game-crashes-on-windows-systems/"><u>Resolved: Fixes for FIFA 2022 Game Crashes on Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-installation-issues-with-age-of-empires-iv-on-microsofts-digital-shop/"><u>Resolving Installation Issues with Age of Empires IV on Microsoft's Digital Shop</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-stability-problems-in-total-war-warhammer-ii-a-comprehensive-guide/"><u>Resolving Stability Problems in Total War: Warhammer II - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-game-performance-sluggishness-quick-fixes-and-tips/"><u>Solving Game Performance Sluggishness - Quick Fixes & Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/starcraft-2-pc-troubleshooting-how-to-address-unexpected-game-closures/"><u>StarCraft 2 PC Troubleshooting - How to Address Unexpected Game Closures</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-resolve-cs-go-launch-errors/"><u>Step-by-Step Guide to Resolve CS: GO Launch Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-to-tackle-crashing-problems-in-diablo-iv-for-a-smooth-gaming-experience/"><u>Top Strategies to Tackle Crashing Problems in Diablo IV for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-call-of-dutys-black-ops-cold-war-understanding-error-887a0005/"><u>Troubleshooting Call of Duty's Black Ops Cold War - Understanding Error 887A0005</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-davinci-resolve-launch-issues-on-your-windows-machine/"><u>Troubleshooting DaVinci Resolve Launch Issues on Your Windows Machine</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-resolving-star-citizens-windows-crash-issues/"><u>Troubleshooting: Resolving Star Citizen's Windows Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-trouble-shoot-beating-the-dead-by-daylight-e-code-8014-glitch/"><u>Ultimate Trouble Shoot: Beating the Dead by Daylight E-Code 8014 Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-issues-in-ffxiv-navigating-incomplete-version-checks/"><u>Update Issues in FFXIV: Navigating Incomplete Version Checks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-11-guide-eradicating-persistent-mouse-hiccups-and-jitter/"><u>Windows 11 Guide: Eradicating Persistent Mouse Hiccups and Jitter</u></a></li>
+<li><a href="https://win-able.techidaily.com/xbox-live-connection-stability-confirming-whether-its-up-and-running-or-down/"><u>Xbox Live Connection Stability - Confirming Whether It’s Up and Running or Down!</u></a></li>
+</ul></div>

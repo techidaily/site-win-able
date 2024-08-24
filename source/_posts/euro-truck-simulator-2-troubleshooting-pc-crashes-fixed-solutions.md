@@ -1,0 +1,184 @@
+---
+title: "Euro Truck Simulator 2: Troubleshooting PC Crashes - Fixed Solutions"
+date: 2024-08-23T11:21:48.433Z
+updated: 2024-08-24T11:21:48.433Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Euro Truck Simulator 2: Troubleshooting PC Crashes - Fixed Solutions"
+excerpt: "This Article Describes Euro Truck Simulator 2: Troubleshooting PC Crashes - Fixed Solutions"
+thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b39460885352e6b8c3f7846969574b.jpg
+---
+
+## Troubleshooting Your PC for Continuous Dirt ^_^ Crashes: Solutions Inside
+
+Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on their PC. If you’re running into the exact same issue, don’t worry. Although it’s quite frustrating, the good news is that this issue can be fixed easily!
+
+ Here we’ve gathered the latest fixes that helped other players resolve the Dirt 5 crashing issue. Whether Dirt 5 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
+
+## Try these fixes
+
+ You don’t have to try them all, Just work your way through the list until you find the one that does the trick for you.
+
+1. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Verify the game files](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
+
+## Fix 1: Update your graphics driver
+
+The outdated or broken graphics driver often crashes the game.
+
+ The graphics card manuafacturers like Nvidia and AMD keeps releasing new graphics drivers so that they can fix bugs in the previous versions of graphics drivers and enhance graphics performance for their products.
+
+ Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
+
+ If you’re not comfortable playing with device drivers, you can use[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and **you get full support and a 30-day money back guarantee** ):
+
+1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
+3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
+
+ Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+4. Restart your PC after you finished updating your graphics driver.
+
+ See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+## Fix 2: Verify the game files
+
+ The game crash issue can also be caused by the corrupted game files. To fix this issue, you need to verify the game files. Here is how to do it:
+
+1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
+![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
+2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
+![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
+
+## Fix 3: Install the latest game patch
+
+ The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
+
+ If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
+
+ Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+## Fix 4: Disable Steam Overlay
+
+ It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
+
+1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
+![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
+2. Uncheck**Enable Steam Overlay while in-game** .  
+![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
+
+ Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 5: Set launch options on Steam
+
+ If your PC didn’t meet the recommended system requirements for Dirt 5, and you’re suffering from the game crashing issue, you can also try using Steam launch options for Dirt 5\. If you want a full FPS boost, you can follow the steps below to Launch the game:
+
+1. Launch the Steam client and go to Steam **Library** .**Right-click on DIRT 5** and select **Properties** .
+2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
+![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
+3. Copy and paste the commands below and click **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+`-useallavailablecores -high`
+
+ Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
+## Fix 6: Stop overclocking
+
+ Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
+
+ To reduce the frequency of game crashing issues, you should reset the CPU or the graphics card to the manufacturer specifications.
+
+ See if the game crashes after you stopped overclocking. If this fix still didn’t work, try reinstalling the game. Normally, after reinstalling the game, you’ll be able to fix the crashing issue.
+
+---
+
+ Hopefully, one of the fixes above helped you fix Dirt 5 crash issue. If you have any questions or suggestions, feel free to leave us a comment below. Thanks for reading!
+
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-indulge-in-9-holiday-blockbusters-free-online-christmas-viewing/"><u>[New] 2024 Approved  Indulge in 9 Holiday Blockbusters  Free Online Christmas Viewing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-power-of-4k-in-the-samsung-galaxy-s8-experience/"><u>[New] In 2024, The Power of 4K in the Samsung Galaxy S8 Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-key-tactics-for-implementing-films-in-school-curriculum/"><u>[New] Key Tactics for Implementing Films in School Curriculum</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-best-5-non-youtube-editing-tools-for-vids-for-2024/"><u>[Updated] Best 5 Non-YouTube Editing Tools for Vids for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-become-a-social-media-sensation-top-9-tips-for-instagram-stardom/"><u>2024 Approved  Become a Social Media Sensation  Top 9 Tips for Instagram Stardom</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-quality-web-resources-for-glossy-3d-letters/"><u>2024 Approved  High-Quality Web Resources for Glossy 3D Letters</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-hover-and-watch-utilizing-the-float-feature-on-netflix/"><u>2024 Approved  Hover & Watch  Utilizing the Float Feature on Netflix</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-atomic-heart-challenges-for-a-smooth-initial-boot-process/"><u>Bypassing Atomic Heart Challenges for a Smooth Initial Boot Process</u></a></li>
+<li><a href="https://win-able.techidaily.com/crash-free-gaming-solutions-for-left-4-dead-2-stability-problems/"><u>Crash-Free Gaming: Solutions for Left 4 Dead 2 Stability Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/decode-the-error-expert-advice-for-playing-far-cry-6-on-your-pc/"><u>Decode the Error: Expert Advice for Playing Far Cry 6 on Your PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-htc-u23-pro-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from HTC U23 Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-online-play-issues-how-to-restore-connection-and-enjoy-with-friends/"><u>Elden Ring Online Play Issues - How to Restore Connection and Enjoy with Friends</u></a></li>
+<li><a href="https://video-capture.techidaily.com/enhancing-professionalism-blurring-teambackgrounds-effectively/"><u>Enhancing Professionalism  Blurring TeamBackgrounds Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-sword-and-faery-legend-vii-pc-crashes-solutions-inside/"><u>Fix Sword & Faery Legend VII PC Crashes - Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-the-insufficient-memory-problem-in-god-of-war-solutions-and-tips/"><u>Fix the 'Insufficient Memory' Problem in God of War - Solutions and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-tweaks-resolving-baldurs-gate-iii-failure-to-start-issues/"><u>Fixes and Tweaks: Resolving Baldur's Gate III Failure to Start Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/gyimah-r-et-al-2017-a-quantitative-review-of-the-toxicity-and-carcinogenic-potential-of-glyphosate-using-data-from-the-open-literature-published-1960-2015-c384/"><u>Gyimah, R., Et Al (2017). A Quantitative Review of the Toxicity and Carcinogenic Potential of Glyphosate Using Data From the Open Literature Published 1960-2015. Crit Rev Toxicol, 47(8), 739-50</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-starfield-from-halting-or-collapsing-mid-play-on-personal-laptops-and-desktops/"><u>How to Prevent Starfield From Halting or Collapsing Mid-Play on Personal Laptops and Desktops</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-sidestep-and-solve-fatal-error-issues-while-playing-tales-of-arise-on-ue4/"><u>How to Sidestep and Solve Fatal Error Issues While Playing Tales of Arise on UE4</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-3-dimensions-chatgpt-wolfram-alpha-interaction/"><u>Navigating 3 Dimensions: ChatGPT-Wolfram Alpha Interaction</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-10plus-best-image-to-video-makers-online-free-and-paid-for-2024/"><u>New 10+ Best Image to Video Makers Online Free & Paid for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unlock-4k-the-top-free-video-converters/"><u>New 2024 Approved Unlock 4K The Top Free Video Converters</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixing-techniques-for-the-sea-of-thieves-crashing-woes/"><u>Step-by-Step Fixing Techniques for the Sea of Thieves Crashing Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-interruptions-mastering-uninterrupted-live-streaming-on-discord/"><u>Stop Interruptions: Mastering Uninterrupted Live Streaming on Discord</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-guide-to-stabilizing-your-chrome-display-issues-on-windows/"><u>The Definitive Guide to Stabilizing Your Chrome Display Issues on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-text-adding-bings-intelligent-chat-feature-to-android-keyboards/"><u>Transforming Text: Adding Bing's Intelligent Chat Feature to Android Keyboards</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-adobe-premiere-pro-stability-enhanced-for-windows-11-and-10-users/"><u>Troubleshooting Guide: Adobe Premiere Pro Stability Enhanced for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-hiccups-for-a-smooth-outriders-experience/"><u>Troubleshooting PC Hiccups for a Smooth Outriders Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-resolve-shadowplays-inability-to-capture-screens-on-windows-computers/"><u>Troubleshooting Steps to Resolve Shadowplay's Inability to Capture Screens on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-strategies-for-the-new-world-connection-error/"><u>Troubleshooting Strategies for the 'New World Connection Error'</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tactics-for-a-persistent-outlook-connection-issue/"><u>Troubleshooting Tactics for a Persistent Outlook Connection Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-solve-your-minecraft-performance-issues-top-tricks-for-pc-in-2eby/"><u>Ultimate Guide: Solve Your Minecraft Performance Issues - Top Tricks for PC in 2Eby</u></a></li>
+</ul></div>

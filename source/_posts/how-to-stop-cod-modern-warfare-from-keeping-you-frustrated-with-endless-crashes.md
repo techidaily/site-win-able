@@ -1,0 +1,250 @@
+---
+title: "How to Stop COD: Modern Warfare From Keeping You Frustrated with Endless Crashes"
+date: 2024-08-23T11:24:20.835Z
+updated: 2024-08-24T11:24:20.835Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes How to Stop COD: Modern Warfare From Keeping You Frustrated with Endless Crashes"
+excerpt: "This Article Describes How to Stop COD: Modern Warfare From Keeping You Frustrated with Endless Crashes"
+thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd58483ee49e8397ad83cab217.jpg
+---
+
+## Trouble with Fall Guys? Here’s How to Stop It From Crashing at Launch
+
+Fall Guys: Ultimate Knockout is a fascinating battle royale game. But like most of the others, it’s also not free from bugs and issues.
+
+ If you’re encountering launch errors with Fall Guys: Ultimate Knockout crashing at startup, don’t worry. In this guide, we set out to resolve launch problems with the game by addressing common errors.
+
+## Fixes to try
+
+ You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Check Fall Guys server status](https://tools.techidaily.com/drivereasy/download/)**
+2. **[End unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update the graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Verify game files](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Run as administrator](https://tools.techidaily.com/drivereasy/download/)**
+6. [**Reinstall the game**](https://tools.techidaily.com/drivereasy/download/)
+7. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
+
+### Check your computer specs first
+
+ Before you attempt to try any of the below solutions, ensure that your device meets the minimum specifications to run Fall Guys: Ultimate Knockout. If you’re sure your PC does meet the requirements, you can skip to fixes directly.
+
+| **OS:**        | Windows 10 64bit only                |
+| -------------- | ------------------------------------ |
+| **Processor:** | Intel Core i5 or AMD equivalent      |
+| **Memory:**    | 8 GB RAM                             |
+| **Graphics:**  | NVIDIA GTX 660 or AMD Radeon HD 7950 |
+| **Storage:**   | 2 GB available space                 |
+
+ If unfortunately, your PC doesn’t meet the system requirements for the game, then you’ll need to either update your hardware or play the game on another device that supports it.
+
+### Fix 1: Check Fall Guys server status
+
+ Sometimes, the launching problem is an issue with Steam or with Fall Guys server. Try doing a quick Google search to see the official status of Fall Guys servers, or check **[@FallGuysOwl](https://twitter.com/FallGuysOwl)**  on Twitter.
+
+ If it turns out to be a server issue, then wait patiently for the developer to fix it. If the game server works fine, then the issue may be on your side. Move on to the next fix below.
+
+### Fix 2: End unnecessary programs
+
+ If your game is unable to gain access to the memory it needs, it will either crash or run into other performance issues. So, it’s always wise to close background programs that take up a lot of PC memory. Follow the instructions below:
+
+**1)** On your keyboard, press the**Ctrl, Shift and Esc keys** at the same time to open Task Manager.
+
+**2)** Right-click the programs you want to close and select **End Task** .
+
+ Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** Restart Fall Guys to see if it runs correctly.
+
+If this doesn’t help, read on and try Fix 3.
+
+### Fix 3: Update the graphics driver
+
+ Your graphics card (GPU) is the most important component when it comes to determining gaming performance. If you’re using an outdated graphics driver, or the driver is corrupted, you’re likely to encounter game issues like game crashing. So, make sure your graphics driver is updated.
+
+ You can update your graphics driver manually by going to the manufacturer’s website for your graphics product, (such as **[AMD](https://www.amd.com/en)**  ,[**Intel**](https://www.intel.com/content/www/us/en/homepage.html) or **[Nvidia](https://tools.techidaily.com/drivereasy/download/)**  ,) and searching for the most recent correct driver. Be sure to choose only driver that is compatible with your Windows version.
+
+ If you’re not comfortable playing with device drivers, we recommend using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for you.
+
+ You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ **1)[](https://tools.techidaily.com/drivereasy/download/) [Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+**2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
+
+**3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
+
+ You can do it for free if you like, but it’s partly manual.
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+**4)**  Relaunch the game to test your issue.
+
+ If the game still won’t launch, then move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4: Verify game files
+
+ The Fall Guys not launching issue may occur when you have one or more game files corrupted or deleted by malware. To fix this, you can try verifying the integrity of your game files. Here’s how to do it:
+
+1) Run Steam.
+
+2) Click **LIBRARY** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
+ 3) Right-click **Fall Guys: Ultimate Knockout** and select **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 4) Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
+5) Relaunch your game to test your issue.
+
+If the game is still unplayable, then continue with the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 5: Run as administrator
+
+ Running PCs under a standard user mode can give a hard time to gamers as limited user rights may cause your game to run into problems while trying to access certain game files.
+
+ In this case, running Steam and Fall Guys as administrator should fix the issue for you. To do this, follow the instructions below:
+
+ 1) Right-click the Fall Guys desktop icon and select**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_16-59-37.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
+ 2) Click the **Compatibility** tab and check **Run this program as an administrator** . Then click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-00-12.jpg)
+
+4) Repeat steps 1-2 to grant Steam admin rights.
+
+5) Relaunch the game to see if it works.
+
+If the game still won’t launch, then try the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 6: Reinstall the game
+
+ This issue might happen if Fall Guys isn’t properly installed on your PC. Try reinstalling it to see if that’s the issue for you. Follow the instructions below:
+
+1) Run Steam.
+
+2) Right-click**Fall Guys: Ultimate Knockout** , then click**Manage > Uninstall.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-24-38.jpg)
+
+ 3) Click **Uninstall** to proceed.
+
+ 4) Reinstall the game on your PC, then restart the game.
+
+If the issue continues to occur, go to the next solution.
+
+### Fix 7: Check for Windows updates
+
+ If your game won’t launch at all, it’s not likely that out-of-date Windows components are the core issue, but you should rule out the possibility. Follow the instructions below:
+
+ 1) On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-20.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
+ 2) Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
+
+**3)**  Restart your computer and your game.
+
+ Hopefully, you can play Fall Guys: Ultimate Knockout without errors now! Enjoy the game! If you have any questions or suggestions, feel free to leave a comment below.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-tumblr-id-visualization-guide-size-format-duration-for-2024/"><u>[New] Tumblr ID Visualization Guide  Size, Format, Duration for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-create-compelling-animation-subscribe-bars-for-your-youtube-channel-filmora/"><u>[Updated] 2024 Approved  Create Compelling Animation Subscribe Bars for Your YouTube Channel (Filmora)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-pure-summer-magic-the-top-10-classic-kids-films/"><u>2024 Approved  Pure Summer Magic  The Top 10 Classic Kid's Films</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unmatched-closure-in-cyberspace-quest/"><u>2024 Approved  Unmatched Closure in Cyberspace Quest</u></a></li>
+<li><a href="https://win-able.techidaily.com/amazon-prime-video-malfunction-heres-how-you-can-fix-it/"><u>Amazon Prime Video Malfunction? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://win-able.techidaily.com/civilization-vi-wont-start-on-windows-10-fixes-and-solutions/"><u>Civilization VI Wont Start on Windows 10 – Fixes & Solutions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/dissecting-ffmpeg-the-gateway-to-original-audio-retention-for-2024/"><u>Dissecting FFmpeg  The Gateway to Original Audio Retention for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/experts-reveal-ultimate-tips-to-prevent-your-sword-and-faery-epic-continuation-from-breaking-down-on-pc/"><u>Experts Reveal Ultimate Tips to Prevent Your Sword & Faery Epic Continuation From Breaking Down on PC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/exploring-toolwiz-photosapp-in-depth-review-2023/"><u>Exploring Toolwiz PhotosApp In-Depth Review, 2023</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997859783-fixing-pc-crashes-during-gameplay-play-wrc-10-the-thrilling-fia-world-rally-challenge/"><u>Fixing PC Crashes During Gameplay: Play WRC 10 - The Thrilling FIA World Rally Challenge</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-sons-of-the-forest-glitches-for-smooth-gaming-on-your-computer/"><u>Fixing Sons of the Forest Glitches for Smooth Gaming on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/helldivers-2-and-msvcr110dll-troubleshooting-a-dll-file-not-found-issue/"><u>Helldivers 2 and MSVCR110.dll - Troubleshooting a DLL File Not Found Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-dark-screen-issue-in-hitman-3-pc-guide/"><u>How to Fix the Dark Screen Issue in Hitman 3 - PC Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-14-pro-max-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 14 Pro Max In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-scrutiny-the-hero4-black-universe-for-2024/"><u>In-Depth Scrutiny  The Hero4 Black Universe for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-toms-hardware-haven-the-ultimate-guide-to-computer-components/"><u>Inside Tom's Hardware Haven: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://win-able.techidaily.com/lego-star-wars-the-skywalker-saga-troubleshooting-pc-instability-before-launch/"><u>Lego Star Wars The Skywalker Saga - Troubleshooting PC Instability Before Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-trouble-free-gameplay-correcting-serious-faults-in-tales-of-arise-ue4-version/"><u>Mastering Trouble-Free Gameplay: Correcting Serious Faults in Tales of Arise, UE4 Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-constant-freezes-and-crashes-on-red-dead-redemption-2-solutions-explored/"><u>Overcoming Constant Freezes and Crashes on Red Dead Redemption 2: Solutions Explored</u></a></li>
+<li><a href="https://win-able.techidaily.com/pathfinder-wrath-of-the-righteous-persistent-game-crashes-resolved/"><u>Pathfinder: Wrath of the Righteous - Persistent Game Crashes Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-for-persistent-ghost-recon-breakpoint-crashes/"><u>Quick Solutions for Persistent Ghost Recon Breakpoint Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-endless-launches-solutions-for-a-constant-loading-fiasco-in-minecraft/"><u>Resolving Endless Launches: Solutions for a Constant 'Loading' Fiasco in Minecraft</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-directx-error-in-warzone-a-quick-4-step-guide/"><u>Resolving the 'DirectX Error in Warzone': A Quick 4-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-battle-royale-bloopers-resolve-call-of-duty-mobiles-warzone-read-errors/"><u>Solving Battle Royale Bloopers: Resolve Call of Duty Mobile's Warzone Read Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-persistent-problem-of-new-world-games-crashing-on-your-computer/"><u>Solving the Persistent Problem of 'New World' Games Crashing on Your Computer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/speedy-download-for-samsung-c46/"><u>Speedy Download for Samsung C46</u></a></li>
+<li><a href="https://win-able.techidaily.com/stabilizing-your-gameplay-overcoming-pc-collapses-in-formula-one-2021/"><u>Stabilizing Your Gameplay: Overcoming PC Collapses in Formula One 2021</u></a></li>
+<li><a href="https://win-able.techidaily.com/success-story-seamless-start-for-your-resident-evil-village-adventure/"><u>Success Story: Seamless Start for Your Resident Evil Village Adventure</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tips-for-eliminating-latency-and-lag-in-rainbow-six-siege/"><u>Top Tips for Eliminating Latency and Lag in Rainbow Six Siege</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-resolve-the-elder-scrolls-online-launching-issues/"><u>Troubleshooting Tips: How to Resolve 'The Elder Scrolls Online' Launching Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/untangling-technical-glitches-how-to-correctly-diagnose-and-repair-your-desktops-thaumaturge-problem/"><u>Untangling Technical Glitches: How to Correctly Diagnose and Repair Your Desktop's Thaumaturge Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-are-my-chrome-pages-not-loading-find-out-and-solve-the-problem-now/"><u>Why Are My Chrome Pages Not Loading? Find Out and Solve the Problem Now</u></a></li>
+</ul></div>
