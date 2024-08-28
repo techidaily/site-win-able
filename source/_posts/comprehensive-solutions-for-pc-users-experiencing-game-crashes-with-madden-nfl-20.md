@@ -1,0 +1,554 @@
+---
+title: Comprehensive Solutions for PC Users Experiencing Game Crashes with Madden NFL 20
+date: 2024-08-27T20:44:58.552Z
+updated: 2024-08-28T20:44:58.552Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Comprehensive Solutions for PC Users Experiencing Game Crashes with Madden NFL 20
+excerpt: This Article Describes Comprehensive Solutions for PC Users Experiencing Game Crashes with Madden NFL 20
+thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a7bd1aa24fbe3ea34de877b1.jpg
+---
+
+## Overcome Dead By Daylight's 2024 Crash Glitches with These Proven Solutions & Tips
+
+_Dead by Daylight (DBD)_ keeps crashing on startup, or it constantly closes to desktop while you’re in the middle of the game?
+
+ This is extremely frustrating, and you’re certainly not alone. Many players are reporting it, but the good news is that you can fix it. Here is a list of fixes that have proved useful to many players.
+
+## Select your gaming platform
+
+Before you move on, select your gaming platform first:
+
+* **[PC](https://tools.techidaily.com/drivereasy/download/)**
+* **[Xbox One](https://tools.techidaily.com/drivereasy/download/)**
+* **[PlayStation 4](https://tools.techidaily.com/drivereasy/download/)**
+
+### PC
+
+ If you’re experiencing_Dead by Daylight_ crashing issue on your PC, check the fixes below.
+
+### Try these fixes
+
+ You may not have to try them all. Just work your way down the list until you find the one that works for you.
+
+1. [**Meet the minimum system requirements**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Restart your computer**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Run your game as an administrator**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Repair the EasyAntiCheat**](https://tools.techidaily.com/drivereasy/download/)
+6. [**Verify the integrity of your game files**](https://tools.techidaily.com/drivereasy/download/)
+7. [**Change the power settings**](https://tools.techidaily.com/drivereasy/download/)
+8. [**Run your game in compatibility mode**](https://tools.techidaily.com/drivereasy/download/)
+9. [**Reinstall Steam**](https://tools.techidaily.com/drivereasy/download/)
+
+#### Fix 1: Meet the minimum system requirements
+
+ To run_Dead by Daylight_ correctly, you should verify that your computer meets the minimum system requirements; otherwise, you’ll need to play the game on another computer.
+
+ **Here are the minimum system requirements to run Dead by Daylight:**
+**OS:** 64-bit Operating Systems (Windows 7, Windows 8.1)  
+**Processor:** Intel Core i3-4170 or AMD FX-8120  
+**Memory:** 8 GB RAM  
+**Graphics:** DX11 Compatible GeForce GTX 460 1GB or AMD HD 6850 1GB  
+**DirectX:** Version 11  
+**Storage:** 25 GB available space
+
+ If you’re not sure whether your computer meets the requirements, follow the instructions below to view your hardware information:
+
+1. On your keyboard, press the **Windows logo**  key and **R** at the same time. Type **dxdiag**  and click **OK** .  
+![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
+2. Check your **Operating System, Processor, Memory** and **DirectX Version** .  
+![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
+3. Click the **Display** tab, and then check your graphics card’s information.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
+
+ Make sure your computer meets the minimum requirements to run_DBD_ , then read on and check the fix, below.
+
+#### Fix 2: Restart your computer
+
+ Some programs running on your computer may conflict with _Dead by Daylight_ or Steam, resulting in crashing issues. In this case, you can try a simple reboot to end unwanted programs completely.
+
+ After your computer restarts, relaunch_DBD_ to see if your issue has been fixed. If not, move on to the next fix, below.
+
+#### Fix 3: Run your game as an Administrator
+
+ Under normal user mode,_Dead by Daylight_  or Steam sometimes may fail to access certain game files on your PC, which could be the reason why the game keeps crashing.
+
+ To see if that’s the problem for you, try running Steam as an administrator, then launch your game from Steam. Here is how to do it:
+
+1. Right-click your **Steam** icon and select **Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-56.png)
+2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-57.png)
+3. Relaunch Steam and _DBD_ to test your issue.
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
+
+ You can hopefully run the game without crashing now. If your problem still exists, then move on to the fix below.
+
+#### Fix 4: Update your graphics driver
+
+ One of the most common causes of_Dead by Daylight_ (and other games) crashing issues is an outdated or faulty graphics driver. It’s essential that you have the latest correct graphics driver at all times. There are two ways you can update your graphics driver:
+
+**[Option 1 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
+
+OR
+
+**[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/fixed-dead-by-daylight-keeps-crashing-2019-tips/#g2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+##### Option 1 – Download and install the driver manually
+
+ The manufacturer of your graphics product keeps updating drivers. To get the latest graphics driver, you need to go to the manufacturer website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
+
+ Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+##### Option 2 – Automatically update your graphics drivers
+
+ If you don’t have the time, patience or computer skills to update the graphics driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making mistakes when installing.
+
+ You can update your drivers automatically with either the [**7 days free trial**](https://tools.techidaily.com/drivereasy/download/) or the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. It takes just 2 clicks, and you get full support and a 30-day money-back guarantee with the Pro version:
+
+1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
+3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
+![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
+4. After updating, restart your computer to take effect.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+If your issue persists, then move on and try the next fix.
+
+#### Fix 5: Repair the EasyAntiCheat
+
+ The EasyAntiCheat service is installed automatically with your game. When the service becomes corrupted somehow, your game may not be able to run properly. Follow the instructions below to see if that’s the issue for you:
+
+1. On your keyboard, press the **Windows logo** **key**  and **E** at the same time.  
+![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-428.png)
+2. Type **easyanticheat**  in the search box and press **Enter**  on your keyboard.  
+![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-458.png)
+3. Right-click **EasyAntiCheat\_Setup.exe** , and then select **Run as administrator** . If you’re prompted about permissions, select Continue.  
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-190.png)
+4. Click the box, and then select**Dead by Daylight** from the drop-down list.  
+![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-191.png)
+5. Click**Repair Service** .  
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-192.png)
+
+ After the process is complete, relaunch your game to check if your problem has been resolved. If not, read on and try the fix, below.
+
+#### Fix 6: Verify the integrity of your game files
+
+ The_Dead by Daylight_ crashing issue happens when a certain game file is damaged or missing. Try verifying the integrity of your game files on Steam to see if that’s the cause of your issue. Here is how to do it:
+
+1. Launch Steam.
+2. In the**LIBRARY** , right-click on**Dead by Daylight** and select**Properties** from the drop-down menu.  
+
+![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
+3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
+
+![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
+4. Steam will verify the game’s files – this process may take several minutes.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
+
+ Relaunch _DBD_ after the process is complete. If your game still crashes**,** unfortunately, try the fix below.
+
+#### Fix 7: Change the power settings
+
+ The power plan on all computers is set to Balanced by default to save more energy, so your computer sometimes will slow down to save energy, which could cause _Dead by Daylight_ to crash.
+
+Follow the instructions below to see how to fix it:
+
+1. On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .  
+![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
+2. Under **View by,** click **Large icons** .  
+![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
+3. Select **Power Options.**  
+![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
+4. Select **High Performance** .  
+![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
+
+#### Fix 8: Run your game in compatibility mode
+
+ Some Windows updates may not be compatible with_Dead by Daylight_ , keeping it from function properly. Try running your game in compatibility mode to see if it can fix your issue. Here is how to do it:
+
+1. Right-click the**Dead by Daylight icon** , then select **Properties** .  
+![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-215.png)
+2. Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-264.png)
+3. Click the list box below to select **Windows 8** , then click **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-267.png)
+4. Relaunch your game to check if your issue had been resolved.
+
+ If your game crashes again under Windows 8 mode, repeat **steps 1 – 3** and select **Windows 7**  from the list box.
+
+If this didn’t work for you, check the fix, below.
+
+#### Fix 9: Reinstall Steam
+
+ Dead by Daylight players may also encounter crashing issues when certain Steam files are corrupted. In this case, reinstalling Steam is very likely the solution to the issue. Follow the instructions below:
+
+1. Right-click your Steam icon and select **Open file location** .  
+![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
+2. Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.  
+![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
+3. On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .  
+![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
+4. Under **View by,** click **Large icons** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
+5. Select **Uninstall a program** .  
+![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
+6. Right-click **Steam** , and then click **Uninstall** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
+7. Follow the on-screen instructions to uninstall your Steam.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
+8. **[Download](https://store.steampowered.com/about/)**  and install Steam.
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
+9. Right-click your **Steam icon**  and select **Open file location** .  
+![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
+10. Move the backup **steamapps folder**  you create before to your current directory location.  
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
+11. Restart_Dead by Daylight_ to see if this fixed your issue.
+
+ Hopefully, one of the fixes above fixed your issue and you’re now able to actually play! If you have any questions, please leave a comment below.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+### Xbox One
+
+ If you’re playing_Dead by Daylight_ on Xbox One, check the solutions below.
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Try these fixes
+
+ You may not have to try them all. Just work your way down the list until you find the one that works for you.
+
+1. **[Sign out and back in](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Restart your console](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your console](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Reset your console](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
+
+#### Fix 1: Sign out and back in
+
+ One quick fix to the_Dead by Daylight_ crashing issue is signing out of your Xbox One, and then signing back in.
+
+ After logging into your account again, relaunch your game to test your issue. If your issue still exists, then go ahead and try the fix, below.
+
+#### Fix 2: Restart your console
+
+ Restarting your console is another solution to try when game issues happen. Here is how to do it:
+
+1. Press and hold the **power button**  on the front of the console for 10 seconds to turn off your Xbox One.
+2. Wait for **1** minute, then turn your console back on.
+3. Relaunch your game.
+
+ If the crashing issue persists after the reboot, move on to the fix, below.
+
+#### Fix 3: Update your console
+
+ An outdated Xbox One system might also cause_Dead by Daylight_ crashing problems. So, it’s important to keep your console up to date. Here is how to do update your console:
+
+1. On the home screen, press the **Xbox** button to open the guide.  
+![](https://www.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920.jpg)
+2. Select **Settings** .  
+![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
+3. Select **System** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
+4. Select **Update console.**  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-93.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ After the update is complete, restart Dead by Daylight to see if it runs correctly now. If your problem still exists, read on and try the fix below.
+
+#### Fix 4: Reset your console
+
+ Improper console settings could also be the reason why DBD keeps crashing your Xbox one. In this case, try resetting your Xbox one to default factory settings. Here is how to do it:
+
+1. On the home screen, press the **Xbox** button to open the guide.  
+![](https://www.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920.jpg)
+2. Select **Settings** .  
+![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
+3. Select **System** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
+4. Select **Console info.**  
+![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-94.png)
+5. Select **Reset console** .  
+![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-97.png)
+6. Select **Reset and keep my games & apps** .  
+![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-99.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ After resetting your console, restart Dead by Daylight to test your issue. If your problem persists, check the fix below.
+
+#### Fix 5: Reinstall your game
+
+ You’re likely to run into the_DBD_ crashing issue when a certain game file is corrupted or damaged. To fix it, you’ll need to reinstall your game. Here is how to do it:
+
+**1)** On the home screen, press the **Xbox button**  to open the guide.
+
+![This image has an empty alt attribute; its file name is xbox-one-controller-2206687_1920-1024x671.jpg](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1024x671.jpg)
+
+**2)**  Select **My games & apps** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-95.png)
+
+**3)**  Press the **A button** on your controller.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1-1024x671.jpg)
+
+**4)** Highlight your game, then press the **☰ button** on your controller.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-175-1024x439.png)
+
+**5)**  Select **Uninstall** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-108.png)
+
+**6)** After the game is uninstalled, insert **the game disc** into the drive to download and install Dead by Daylight.
+
+ Hope one of the solutions here worked for you. Feel free to leave a comment below if you have any questions.
+
+### PlayStation 4
+
+ If the Dead by Daylight crashing issue happens while gaming on your PlayStation 4, try the fixes below.
+
+### Try these fixes
+
+ You may not have to try them all. Just work your way down the list until you find the one that works for you.
+
+1. **[Log out of your PS4 and log back in](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Restart your PS4](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your PS4 system software](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Restore your PS4 settings to default](https://tools.techidaily.com/drivereasy/download/)**
+
+#### Fix 1: Log out of your PS4 and log back in
+
+ This is the quickest and easiest fix to try when the Dead by Daylight crashing issue appears on PlayStation 4\. Just sign out of your account, then sign back in.
+
+ Now run the game again and test to see whether your game can run properly. If it’s not, move on to Fix 2, below.
+
+#### Fix 2: Restart your PS4
+
+ Another quick fix to_DBD_ crashing issue on PS4 is restarting your device. Here is how to do it:
+
+**1)**  On the front panel of your PS4, press the **power**  button to turn it off.
+
+**2)** After your PS4 is turned off completely**,** unplug the **power cord**  from the back of the console.
+
+**3)** Wait for **3** minutes, and then plug the **power cord** back into your PS4.
+
+**4)** Press and hold the **power**  button again to restart your PS4.
+
+**5)**  Restart your game to see if this helped.
+
+ If your problem still exists after the reboot, don’t worry. There are still 2 more fixes to try.
+
+#### Fix 3: Update your PS4 system software
+
+ You’re likely to encounter game crashing issues when the version of your PS4 system software is outdated. In this case, updating your PS4 system software is very likely the solution to your problem. Follow the instructions here:
+
+**1)**  On the home screen of your PS4 system, press the **up**  button on your controller to go to the function area.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1080.png)
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+**2)** Select **Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1077-1024x217.png)
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
+**3)** Select **System Software Update,** and then follow the on-screen instructions to update the system software for your PS4.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1076.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
+**4)**  Restart your game to see if this resolved your issues.
+
+ If your issue persists after the latest version of the system software is installed, try the fix below.
+
+#### Fix 4: Restore your PS4 settings to default
+
+ If none of the fixes worked, restoring your PS4 to the default factory settings is very likely the solution to your issue. Here is how:
+
+**1)**  On the front panel of your PS4, press the **power**  button to turn it off.
+
+**2)** After your PS4 is turned off completely**,** press and hold the **power**  button.
+
+**3)**  After you hear **two beeps**  from your PS4**, release** the button.
+
+**4)** Connect your controller to your PS4 with a USB cable.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1099.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
+**5)**  Press the **PS button** on your controller.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1094.png)
+
+**6)** Select **Restore to Default Settings** .  
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1095.png)
+
+**7)**  Select **Yes**  and wait for the process to be complete.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1096.png)
+
+**8)**  Restart your game to see if this fix worked.
+
+ Hopefully, this article helped in resolving your problem! If you have any questions or suggestions, please feel free to leave a comment below.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [PlayStation 4 (PS4)](https://www.drivereasy.com/tag-search/?tagId=180)
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 7](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 8](https://tools.techidaily.com/drivereasy/download/)
+* [Xbox](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/days-gone-play-the-epic-open-world-ps4-game-exclusively-on-pc/"><u>'Days Gone': Play the Epic Open World PS4 Game Exclusively on PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-extracting-youtube-music-three-secure-ways-without-financial-burden/"><u>[New] 2024 Approved  Extracting YouTube Music  Three Secure Ways Without Financial Burden</u></a></li>
+<li><a href="https://win-able.techidaily.com/software-name-new-improvement-tackles-pc-stability-and-avoids-sudden-shutdowns/"><u>[Software Name]: New Improvement Tackles PC Stability and Avoids Sudden Shutdowns</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-guilty-gear-strive-wont-launch/"><u>[SOLVED] Guilty Gear -Strive- Won't Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-steam-friends-network-unreachable/"><u>[SOLVED] Steam Friends Network Unreachable</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-amd-graphics-relic/"><u>[Updated] In 2024, AMD Graphics Relic</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-no-caps-lock-required-android-and-ios-downloader-hacks/"><u>[Updated] No Caps Lock Required  Android and iOS Downloader Hacks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-humor-unleashed-easymeme-tutorial-without-cost/"><u>2024 Approved  Humor Unleashed  EasyMeme Tutorial Without Cost</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-night-owls-techniques-for-long-exposure-iphone-pics/"><u>2024 Approved  Night Owls' Techniques for Long-Exposure iPhone Pics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-workflow-paste-and-mouse-jump-techniques/"><u>Accelerate Workflow: Paste & Mouse Jump Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-higher-performance-in-horizon-zero-dawn-by-increasing-fps/"><u>Achieve Higher Performance in Horizon Zero Dawn by Increasing FPS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/amplify-engagement-through-linked-story-sharing-for-2024/"><u>Amplify Engagement Through Linked Story Sharing for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/budget-savvy-gopro-upgrades-for-starters-for-2024/"><u>Budget Savvy GoPro Upgrades for Starters for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997530655-crack-the-code-on-counter-strike-global-offensive-warzone-bug-6328-for-an-unstoppable-gaming-experience/"><u>Crack the Code on Counter-Strike: Global Offensive Warzone Bug #6328 for an Unstoppable Gaming Experience!</u></a></li>
+<li><a href="https://win-able.techidaily.com/definitive-fix-for-escape-from-tarkov-stability-end-pc-game-crashes-once-and-for-all-with-these-steps/"><u>Definitive Fix for 'Escape From Tarkov' Stability: End PC Game Crashes Once & For All with These Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/divide-and-conquer-fixing-your-dying-division-2-game-rapidly-and-easily/"><u>Divide and Conquer: Fixing Your Dying Division 2 Game Rapidly & Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-fixes-for-overcoming-the-directx-error-in-fifa-19-gameplay/"><u>DIY Fixes for Overcoming the DirectX Error in FIFA 19 Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/experiencing-trouble-with-steam-remote-play-discover-effective-solutions-inside/"><u>Experiencing Trouble With Steam Remote Play? Discover Effective Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-addressing-pc-malfunctions-and-stability-issues-in-watch-dogs-legion-gameplay/"><u>Expert Tips for Addressing PC Malfunctions and Stability Issues in Watch Dogs: Legion Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013282204-expert-tips-for-fixing-ghostrunner-malfunctions-in-windows-11-no-more-crashes/"><u>Expert Tips for Fixing GhostRunner Malfunctions in Windows 11 - No More Crashes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-get-rid-of-the-elden-ring-startup-black-screen-glitch-once-and-for-all/"><u>Expert Tips to Get Rid of the Elden Ring Startup Black Screen Glitch Once and For All!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-game-instantly-resolve-apex-legends-wont-load/"><u>Fix Your Game: Instantly Resolve 'Apex Legends Won't Load'</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-r-type-final-2-continuous-pc-crash-issues-solutions-inside/"><u>Fixes for R-Type Final 2 Continuous PC Crash Issues - Solutions Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-unloading-dilemma-top-7-techniques-to-conquer-steam-black-screens/"><u>Fixing the Unloading Dilemma: Top 7 Techniques to Conquer Steam Black Screens</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-your-computers-bug-with-gray-zone-warfare-crash-fixes-on-pc/"><u>Fixing Your Computer's Bug with Gray Zone Warfare Crash Fixes on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/garrys-mod-suddenly-closes-discover-top-strategies-for-fixes-in-2e4/"><u>Garry's Mod Suddenly Closes? Discover Top Strategies for Fixes in 2E4</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-enhance-performance-and-stop-manor-lords-from-freezing/"><u>How to Enhance Performance and Stop Manor Lords From Freezing</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-pubg-no-sound-issues/"><u>How to Fix PUBG No Sound Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-your-fall-guys-experience-essential-tricks-for-higher-fps-and-reduced-latency/"><u>Improve Your Fall Guys Experience: Essential Tricks for Higher FPS & Reduced Latency</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-8-best-screen-capture-tools-for-linux/"><u>In 2024, Top 8 Best Screen Capture Tools for Linux</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-xiaomi-redmi-k70e-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Xiaomi Redmi K70E IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998150401-in-depth-analysis-troubleshooting-and-eliminating-slow-response-times-for-a-smoother-back-4-blood-experience-now-solved/"><u>In-Depth Analysis: Troubleshooting & Eliminating Slow Response Times for a Smoother 'Back 4 Blood' Experience - Now Solved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007791355-is-your-xbox-live-experience-interrupted-today-heres-the-latest-status-report/"><u>Is Your Xbox Live Experience Interrupted Today? Here's the Latest Status Report</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashes-in-sea-of-thieves-your-complete-solution/"><u>No More Crashes in Sea of Thieves – Your Complete Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-connectivity-problems-in-path-of-exile-essential-tips-and-solutions/"><u>Overcoming Connectivity Problems in Path of Exile – Essential Tips and Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-network-delays-a-comprehensive-guide-to-improving-your-gameplay-experience-in-back-4-blood/"><u>Overcoming Network Delays: A Comprehensive Guide to Improving Your Gameplay Experience in 'Back 4 Blood'</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-ubisoft-connect-malfunctions-top-solutions-of-2024/"><u>Overcoming Ubisoft Connect Malfunctions - Top Solutions of 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/patch-usb-protocol-mismatch/"><u>Patch USB Protocol Mismatch</u></a></li>
+<li><a href="https://win-able.techidaily.com/phasmophobia-performance-optimization-fixing-overwhelming-cpu-usage-issues/"><u>Phasmophobia Performance Optimization: Fixing Overwhelming CPU Usage Issues</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pixeled-play-logbook-for-2024/"><u>Pixeled Play Logbook for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808226973-resolved-windows-error-during-drive-formatting-now-successful/"><u>Resolved: Windows Error During Drive Formatting – Now Successful!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-improper-installation-issues-with-the-ryzen-master-software/"><u>Resolving Improper Installation Issues with the Ryzen Master Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-issues-with-audio-setup-on-itunes-a-quick-guide/"><u>Resolving Issues With Audio Setup on iTunes - A Quick Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-query-troubleshooting-the-missing-vanguard-setup-in-valorant/"><u>Solved Query: Troubleshooting the Missing Vanguard Setup in Valorant</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-instructions-eliminating-steam-error-code-130-once-and-for-all/"><u>Step-by-Step Instructions: Eliminating Steam Error Code 130 Once and For All!</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-pc-fails-in-elex-ii-comprehensive-solutions-and-hacks/"><u>Stop PC Fails in Elex II: Comprehensive Solutions and Hacks</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-naraka-path-of-the-warrior-issues/"><u>Troubleshooting Steps For Resolving Naraka: Path of the Warrior Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-preventing-unexpected-shutdowns-in-genshin-impact-for-pc-users/"><u>Troubleshooting Tips: Preventing Unexpected Shutdowns in Genshin Impact for PC Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000754751-ultimate-fixes-to-stop-cyberpunk-2077-from-freezing-lag-and-stutter-no-more/"><u>Ultimate Fixes to Stop Cyberpunk #2077 From Freezing: Lag & Stutter No More!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-the-secrets-to-getting-farming-simulator-22-running-smoothly-again/"><u>Unlocking the Secrets to Getting Farming Simulator 22 Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-your-logitech-g403-controller-software-on-laptopdesktop/"><u>Update Your Logitech G403 Controller Software on Laptop/Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722992715963-why-does-my-new-world-game-keep-freezing-solve-the-mystery/"><u>Why Does My 'New World' Game Keep Freezing? Solve the Mystery!</u></a></li>
+</ul></div>

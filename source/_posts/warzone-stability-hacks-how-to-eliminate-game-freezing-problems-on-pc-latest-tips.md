@@ -1,0 +1,428 @@
+---
+title: "Warzone Stability Hacks: How to Eliminate Game-Freezing Problems on PC – Latest Tips"
+date: 2024-08-27T20:41:53.731Z
+updated: 2024-08-28T20:41:53.731Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Warzone Stability Hacks: How to Eliminate Game-Freezing Problems on PC – Latest Tips"
+excerpt: "This Article Describes Warzone Stability Hacks: How to Eliminate Game-Freezing Problems on PC – Latest Tips"
+thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a33822b3eddfa44a23282ff28.jpg
+---
+
+## Troubleshooting Tips: Eliminate the Black Screen Error on Your Epic Games Launcher Today
+
+The Epic Games Launcher is such a wonderful platform that you can play your favorite games there. But chances are, you might encounter a black screen once you open the launcher. If that’s your case, don’t worry, here are some working fixes for you.
+
+![Epic Games Launcher black screen](https://images.drivereasy.com/wp-content/uploads/2020/09/Picture1-1200x924.png)
+
+## Try these fixes
+
+ You might not need to try them all; simply work your way down the list until you find the one that works for you.
+
+1. **[Reset your screen resolution](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Run the launcher as an administrator](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Adjust compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Run compatibility troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Allow the launcher through the firewall](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Change your DNS server to the Google Public DNS](https://tools.techidaily.com/drivereasy/download/)**
+8. **[Flush the DNS cache](https://tools.techidaily.com/drivereasy/download/)**
+9. **[Change high DPI settings](https://tools.techidaily.com/drivereasy/download/)**
+10. **[Use a VPN](https://tools.techidaily.com/drivereasy/download/)**
+
+---
+
+## Fix 1: Reset your screen resolution
+
+ Your screen resolution adjusts to fit the screen but it might default to the wrong view. In this case, you can reset it.
+
+Here’s how you can do this:
+
+ 1) Right-click on the empty space from your desktop and select**Display settings** .
+
+![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-1.png)
+
+ 2) Scroll down to**Display resolution** and click on the**down arrow** button.
+
+![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-2-2.png)
+
+ 3) Scroll down and choose**1280×768** .
+
+![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-3-2.png)
+
+ After resetting the resolution, open the launcher to check if it’s loading correctly. If not, try the next fix.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 2: Run the launcher as an administrator
+
+ Many issues can be fixed by running the program as an administrator. So for the black screen when opening Epic Games Launcher issue, you can try this too. To do this, you can:
+
+ 1) Right-click on the launcher shortcut from your desktop and select**Run as administrator** .
+
+![run Epic Games Launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-epic-games-launcher-as-administrator.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) Open the launcher to see if the screen is in black. If it is, move on to the next fix.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 3: Update your graphics driver
+
+ When you have a black screen, whether on your computer or any app, your outdated or faulty graphics driver might be the culprit. If you can’t remember when was the last time you updated your graphics driver, then you should do it. And you can benefit a lot from updating the graphics driver. Because it can fix performance bottlenecks and introduce improvements that make games run significantly faster.
+
+ There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Option 1 – Manually update your graphics driver
+
+[NVIDIA](https://tools.techidaily.com/drivereasy/download/) ,[AMD](https://www.amd.com/en/support) , and[Intel](https://downloadcenter.intel.com/product/80939/Graphics-Drivers) keep updating drivers. To get them, you need to go to the official websites, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32-bit) and download the drivers manually.
+
+ Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
+
+### **Option 2 – Automatically update your graphics driver** (recommended)
+
+ Manually updating drivers can be a challenge. You’ll need to identify your system specs, find the drivers, and then download and install them. If that sounds a lot, consider doing it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
+
+ 3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating your drivers, restart your computer for them to take effect.
+
+---
+
+## Fix 4: Adjust compatibility mode
+
+ Adjusting the compatibility mode has been tested to work for many gamers. So it’s worth a try.
+
+ 1) Right-click on the launcher shortcut from your desktop and select**Properties** .
+
+![adjust compatibility mode epic games launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher.png)
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) Select the tab**Compatibility** and check the box**Run this program in compatibility mode for:** and make sure that**Windows 8** is selected. Then check the box**Disable fullscreen optimizations** . After that, click**Apply > OK** .
+
+![adjust compatibility mode epic games launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+ 3) After applying the changes, open the launcher, and check if the problem is resolved. If not, proceed to the next fix.
+
+---
+
+## Fix 5: Run compatibility troubleshooter
+
+ Running the compatibility troubleshooter can help you find out the root of the problem and probably fix it. Here’s how to do this:
+
+ 1) Right-click on the launcher shortcut and select**Properties** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher-1.png)
+
+ 2? Select the tab**Compatibility** and click**Run compatibility troubleshooter** . (Make sure that you’ve unchecked any boxes under the Compatibility tab.)
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-1-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Once the window**Program Compatibility Troubleshooter** pops up, click**Try recommended settings** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-2-1.png)
+
+ 4) Click**Test the program** and you’ll be directed to the launcher.
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-3.png)
+
+ 5) Go back to the**Program Compatibility Troubleshooter** window and click**Next** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-4.png)
+
+ 6) If there’s no black screen on the launcher, then congratulations! You can choose**Yes, save these settings for this program** . Till then, enjoy your games.
+
+ If the problem persists, then select**No, try again using different settings** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-5.png)
+
+ 7) Uncheck the box **The program worked in earlier versions of Windows but won’t install or run now** . Then check the box**The program opens but doesn’t display correctly** and click**Next** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-6-1.png)
+
+ 8) Check the box **Error message saying the problem needs to run in 256 colors or 8-bit color mode** . Then click**Next** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-10.png)
+
+ 9) Check**Yes, try again using different settings,** and click**Next** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-8.png)
+
+ 10) Click**Test the program…** \>**Next** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-11-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+ 11) Click**Yes, save these settings for this program** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-12.png)
+
+12) Now, the issue is fixed.
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-13.png)
+
+ If you’ve been troubleshooting multiple times and still didn’t fix the issue, don’t worry. There are other working fixes for you.
+
+---
+
+## Fix 6: Allow the launcher through the firewall
+
+ There is a possibility that your firewall blocks the launcher. So if this is your case, you’re supposed to allow the launcher through the firewall.
+
+ 1) In the**Search** box, type**firewall** . From the results, click**Firewall & network protection** .
+
+![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection.png)
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ 2) Scroll down and click**Allow an app through firewall** .
+
+![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection-2.png)
+
+ 3) Go through the list and check if**Epic Games Launcher** is added to it.
+
+ If not, click**Change settings** and follow the on-screen instructions to add**Epic Games Launch** to the list and let it through the firewall.
+
+![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If you’ve done all of these, and still it’s a black screen when you open the launcher. Then try the next method.
+
+---
+
+## Fix 7: Change your DNS server to the Google Public DNS
+
+ Sometimes changing the DNS server can fix many issues. So here you can also do this to fix the black screen issue.
+
+ 1) In the**Search** box, type**control panel** and click**Control Panel** from the results.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/open-control-panel-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) Click**Network and Internet** . (Note: make sure that it’s**View by: Category** .)
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
+ 3) Click**Network and Sharing Center** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 4) Click on your**Connections** , whether it’s**Ethernet, Wifi or others** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+ 5) Click**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+ 6) Click**Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 7) Click**Use the following DNS server addresses:** .  
+ In**Preferred DNS server:** section, type**8888** .  
+ In**Alternate DNS server:** section, type**8844** .  
+ Then click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-DNS-server.png)
+
+---
+
+## Fix 8: Flush the DNS cache
+
+ If you’ve changed the DNS server to Google Public DNS and still the app just displays a black screen, then you’re supposed to clear your DNS cache.
+
+To do this, simply follow the instructions below:
+
+ 1) Press **Windows logo key + R**  together on your keyboard. Type **cmd**  and press **Shift + Ctrl + Enter** at the same time.
+
+![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+ 2) When a prompt appears, simply click **Yes** .
+
+ 3) Type the command **ipconfig /flushdns** and hit **Enter** .
+
+![flush the DNS cache](https://images.drivereasy.com/wp-content/uploads/2020/09/flush-DNS-cache.png)
+
+ After successfully clearing your DNS cache, try opening your launcher again to check if it fixes the issue.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 9: Change high DPI settings
+
+ 1) Right-click on the launcher’s shortcut and select**Properties** .
+
+![change high DPI settings Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher.png)
+
+ 2) Select the**Compatibility** tab and click**Change high DPI settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+ 3) Check the box**Override high DPI scaling behavior** and click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings-2.png)
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 10: Use a VPN
+
+ Many players reported that using a VPN when opening the launcher fixed the issue. So you can give it a shot. But be advised: lots of problems may arise if you use a free VPN. Therefore, we suggest you use a paid VPN.
+
+Below is the VPN we would like to recommend:
+
+* **[NordVPN](https://tools.techidaily.com/drivereasy/download/)**
+
+ There are reports claiming that using a VPN might result in accounts being banned. To be safe, consider it as the last resort.
+
+---
+
+ Found this post helpful? Then don’t forget to support us by using the creator code **` DRIVEREASY `**  . In connection with Epic Games’ Support-A-Creator Program, we may receive a commission from your in-game purchases, at no additional cost to you.
+
+**How can you support us?**
+
+ 1) Visit the[Epic Games Store](https://www.epicgames.com/store/en-US/) to see what games are available.  
+ 2) At checkout, enter the creator tag **`DRIVEREASY`**  . Your support is much appreciated!
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-4.png)
+
+* [black screen](https://tools.techidaily.com/drivereasy/download/)
+* [Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-overwatch-playback-techniques-explained/"><u>[New] 2024 Approved  Overwatch Playback Techniques Explained</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-epic-historical-combat-showdowns-the-top-7-games/"><u>[Updated] 2024 Approved  Epic Historical Combat Showdowns – The Top 7 Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-learning-leaders-expert-picks-of-10-best-classroom-recorders/"><u>[Updated] 2024 Approved  Learning Leaders  Expert Picks of 10 Best Classroom Recorders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-6-metaverse-examples-to-help-you-have-a-deep-insight-about-it-useful/"><u>[Updated] 6 Metaverse Examples to Help You Have a Deep Insight About It [Useful]</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-guide-to-premium-zero-fee-video-meeting-solutions/"><u>[Updated] Guide to Premium, Zero-Fee Video Meeting Solutions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-cross-platform-content-transfer-youtube-meets-facebook/"><u>[Updated] In 2024, Cross-Platform Content Transfer  YouTube Meets Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-screenflix-recorder-insider-report/"><u>[Updated] ScreenFlix Recorder Insider Report</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-iphone-camera-apps-for-pro-shots-and-free-use/"><u>2024 Approved  Best iPhone Camera Apps for Pro Shots and Free Use</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-honor-magic-5-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Honor Magic 5 to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/a-beginners-roadmap-to-professional-video-sound-recording/"><u>A Beginner's Roadmap to Professional Video Sound Recording</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-reno-10-proplus-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo Reno 10 Pro+ 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-song-of-ice-and-fire-top-sites-to-snatch-game-of-thrones-ringtones/"><u>A Song of Ice and Fire  Top Sites to Snatch Game of Thrones Ringtones</u></a></li>
+<li><a href="https://win-able.techidaily.com/alan-wake-2-stability-guide-essential-troubleshooting-techniques/"><u>Alan Wake 2 Stability Guide: Essential Troubleshooting Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/automate-your-keyboard-setup-with-windows-11/"><u>Automate Your Keyboard Setup with Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/battle-through-warzones-visual-disruptions-fixing-persistent-flicker-problems/"><u>Battle Through Warzone's Visual Disruptions - Fixing Persistent Flicker Problems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/best-in-class-iphone-and-android-video-enhancers/"><u>Best-In-Class iPhone and Android Video Enhancers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-key-to-dynamic-dandd-storytelling/"><u>ChatGPT, the Key to Dynamic D&D Storytelling</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-addressing-the-graphics-state-issue-in-red-dead-redemption-2-errgfxstate/"><u>Comprehensive Guide to Addressing the Graphics State Issue in Red Dead Redemption 2 (ERR_GFX_STATE)</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-the-code-on-steams-locked-file-conundrum-a-comprehensive-fix/"><u>Cracking the Code on Steam’s Locked File Conundrum – A Comprehensive Fix</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-smart-escort-ix-innovative-gps-jammer-alerts-and-adaptable-detection-tech-reviewed/"><u>Discover the Smart Escort iX: Innovative GPS Jammer Alerts and Adaptable Detection Tech Reviewed</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-for-resolving-batman-arkham-knight-crash-problems-and-critical-errors/"><u>Essential Tips for Resolving Batman: Arkham Knight Crash Problems & Critical Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/everstop-crashes-in-everspace-2-heres-how-to-get-smooth-gameplay-on-pc/"><u>Everstop Crashes in Everspace 2? Here's How to Get Smooth Gameplay on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-for-the-pervasive-black-screen-troubles-on-magic-the-gathering-esports-app/"><u>Expert Solutions for the Pervasive Black Screen Troubles on Magic: The Gathering eSports App</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-launch-problems-with-days-gone-on-windowsmac/"><u>Expert Tips for Resolving Launch Problems with Days Gone on Windows/Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-4-screen-issue-fixed-a-step-by-step-troubleshooting-guide/"><u>Fallout 4 Screen Issue Fixed - A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-solutions-for-helldivers-2-failure-to-start-on-steam/"><u>Fixed! Solutions for Helldivers 2 Failure to Start on Steam</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-text-to-talk-ai-breathing-life-into-prompts-and-commands/"><u>From Text to Talk: AI Breathing Life Into Prompts and Commands</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-gaming-now-a-step-by-step-guide-to-solving-overwatch-2s-boot-difficulties/"><u>Get Gaming Now: A Step-by-Step Guide to Solving Overwatch 2'S Boot Difficulties</u></a></li>
+<li><a href="https://win-able.techidaily.com/grand-theft-auto-v-performance-hacks-how-to-prevent-unexpected-game-stalls-and-freezes/"><u>Grand Theft Auto V Performance Hacks: How to Prevent Unexpected Game Stalls and Freezes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-boosting-youtube-popularity-two-simple-strategies/"><u>In 2024, Boosting YouTube Popularity  Two Simple Strategies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchats-money-making-opportunities-exposed/"><u>In 2024, Snapchat's Money-Making Opportunities Exposed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-the-power-of-engaging-headline-crafting/"><u>In 2024, Unleash the Power of Engaging Headline Crafting</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011845344-launching-struggles-beat-the-forza-horizon-4-boot-problems-now/"><u>Launching Struggles? Beat the Forza Horizon 4 Boot Problems Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/lightsabers-onscreen-once-more-how-to-repair-the-star-wars-battlefront-ii-midnight-void-bug/"><u>Lightsabers Onscreen Once More - How to Repair the 'Star Wars Battlefront II' Midnight Void Bug</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-launch-sequence-fixes-for-back-4-blood-game-not-starting-on-different-windows-platforms/"><u>Mastering the Launch Sequence: Fixes for 'Back 4 Blood' Game Not Starting on Different Windows Platforms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/primary-record-breakdown-and-supplemental-choices-for-2024/"><u>Primary Record Breakdown and Supplemental Choices for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-rodent-problems-in-resident-evil-village/"><u>Resolved: Fixing Rodent Problems in Resident Evil Village</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-steps-to-update-your-minecraft-graphics-card-driver/"><u>Resolved: Steps to Update Your Minecraft Graphics Card Driver</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-recurrent-freezing-and-closure-issues-with-microsoft-outlook/"><u>Resolving Recurrent Freezing & Closure Issues with Microsoft Outlook</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-steams-error-code-130-a-comprehensive-solution-guide/"><u>Resolving Steam's Error Code 130: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/restoring-audio-in-your-twitch-stream-a-comprehensive-guide-to-sound-solutions/"><u>Restoring Audio in Your Twitch Stream: A Comprehensive Guide to Sound Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/rolling-into-victory-the-definitive-2024-roller-champions-pc-playbook-and-tactics-manual/"><u>Rolling Into Victory: The Definitive 2024 Roller Champions PC Playbook and Tactics Manual</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-the-silence-audio-troubles-with-discords-screen-sharing-feature/"><u>Solve the Silence: Audio Troubles with Discord's Screen Sharing Feature</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-correcting-the-dark-mystery-of-hitman-solved-3-pc-error/"><u>Step-by-Step Guide: Correcting The Dark Mystery of Hitman ^ [SOLVED] 3 PC Error</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-downloading-your-canon-mg3620-drivers-safe-and-sound/"><u>Step-by-Step Instructions for Downloading Your Canon MG3620 Drivers - Safe & Sound!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-cant-i-start-evil-genius-2-game/"><u>Troubleshooting Guide: Why Can't I Start Evil Genius 2 Game?</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-bugs-for-a-smooth-grounded-gaming-experience-tips-and-guides/"><u>Troubleshooting PC Bugs for a Smooth 'Grounded' Gaming Experience : Tips and Guides</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-why-your-outriders-game-keeps-failing-to-launch/"><u>Troubleshooting: Why Your Outriders Game Keeps Failing to Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-when-armored-core-vi-doesnt-load-a-comprehensive-solution-to-the-fires-of-rubicon-not-launching-problem/"><u>Ultimate Fixes for When Armored Core VI Doesn't Load: A Comprehensive Solution to the 'Fires of Rubicon Not Launching' Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/unveiling-the-secret-fixes-for-cyberpunk-2077-black-screen-malfunction/"><u>Unveiling the Secret Fixes for Cyberpunk 2077 Black Screen Malfunction</u></a></li>
+</ul></div>

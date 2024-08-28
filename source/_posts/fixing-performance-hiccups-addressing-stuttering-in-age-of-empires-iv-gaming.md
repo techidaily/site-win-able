@@ -1,0 +1,226 @@
+---
+title: "Fixing Performance Hiccups: Addressing Stuttering in Age of Empires IV Gaming"
+date: 2024-08-27T20:48:14.168Z
+updated: 2024-08-28T20:48:14.168Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Fixing Performance Hiccups: Addressing Stuttering in Age of Empires IV Gaming"
+excerpt: "This Article Describes Fixing Performance Hiccups: Addressing Stuttering in Age of Empires IV Gaming"
+thumbnail: https://thmb.techidaily.com/025f6d9d96521fea43b8d17c7244b091345a22a6d0cc7e77077266caaed2704c.jpg
+---
+
+## Fixing Valheim's PC Performance: Stop Freezing & Stuttering Issues
+
+Valheim is an enjoyable survival/ open-world exploration sandbox. But players still would run into issues such as the game freezing and stuttering. This could happen when the world is saving or during the gameplay, which is obviously an unpleasant experience. Though the root cause is unclear, there is something you can do to mitigate the problem.
+
+## Try these fixes
+
+ You may not need to try them all; simply work your way down the list until you find the one that works.
+
+1. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your game](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Run your game as administrator](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
+
+## 1\. Verify integrity of game files
+
+ Whenever you run into performance issues with a certain game, you should consider utilizing the built-in tool of verifying the game files. This will help you check if any of your game files are missing or corrupted:
+
+ 1) Open your Steam Client. Under the **LIBRARY**  tab, find your game title and right-click it. Then select **Properties** .  
+  
+![verify integrity of game files Valheim](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-intergrity-of-game-files-properties-2.png)
+
+ 2) Select **LOCAL FILES**  and then click on the **Verify integrity of game files…**  tab.  
+  
+![verify integrity of game files Valheim](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-integrity.png)
+
+ This will take some minutes to redownload and replace any missing or corrupted game files. Simply wait for the process to complete. After that, you can launch Valheim and check if the stuttering and freezing are frequent.
+
+---
+
+## 2\. Update your game
+
+ Devs keep rolling out updates to fix the known game bugs and bring further optimization tweaks to make sure that players can enjoy the most from playing Valheim. Therefore, it’s always a good idea to keep your game updated to have the best gaming experience.
+
+Here’s how you can check if your game version is up-to-date:
+
+ 1) Open your Steam Client. Under the **LIBRARY**  tab, find your game title and right-click it. Then select **Properties** .  
+  
+![verify integrity of game files Valheim](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-intergrity-of-game-files-properties-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ 2) Select the **UPDATES** tab. Then click on the down arrow in the **AUTOMATIC UPDATES**  section. Then select **Always keep this game updated**  from the list.
+
+![how to keep Valheim always updated](https://images.drivereasy.com/wp-content/uploads/2021/03/always-keep-your-game-updated.png)
+
+ 3) Click on the **DOWNLOADING**  tab located at the bottom of the screen to see if you have any update pending. If not, click **Steam** in the top left and then click **Exit** .
+
+![how to update Valaheim](https://images.drivereasy.com/wp-content/uploads/2021/03/downloads-tab.png)
+
+ After restarting Steam, it should check for an update especially after the next time you launch Valheim.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+## 3\. Update your graphics driver
+
+ Graphical glitches or other performance issues such as freezing and stuttering may be caused by an outdated or corrupted graphics driver. Therefore, if you can’t remember when was the last time you updated your drivers, definitely do it right now as it would fix your issue with no hassle.
+
+ There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
+### Option 1: Manually update your graphics driver
+
+ If you’re familiar with computer hardware, you can update your graphics driver manually by going to the manufacturer’s official website:
+
+[NVIDIA](https://tools.techidaily.com/drivereasy/download/)
+[AMD](https://www.amd.com/en/support)
+
+ Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+### Option 2: Automatically update your graphics driver (recommended)
+
+ If you don’t have the time, patience or computer skills to update your audio driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for your exact device, and your Windows version, and it will download and install them correctly:
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
+
+![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating your drivers, restart your computer and play Valheim to see if it helps you fix the issue. If the problem persists, proceed to the next fix.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+## 4\. Run your game as administrator
+
+ Sometimes, programs might not function properly just because they lack the administrative rights. The same could apply to your Valheim. To check if that’s your case, you should run Valheim as an administrator:
+
+ 1) Open your Steam Client. Under the **LIBRARY**  tab, find your game title and right-click it. Then select **Manage > Browse local files** . This will bring you to the game’s installation folder.  
+  
+![run Valheim as administrator](https://images.drivereasy.com/wp-content/uploads/2021/03/browse-local-file-1.png)
+
+ 2) Find the valheim.exe file. Right-click it and select**Properties** .  
+  
+![run Valheim as administrator](https://images.drivereasy.com/wp-content/uploads/2021/03/administrator-propertities.png)
+
+ 3) Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
+  
+![run Valheim as administrator](https://images.drivereasy.com/wp-content/uploads/2021/03/apply-okay.png)
+
+ After applying the changes, launch Vaheim to see if this helps you get rid of stutters and freezes during the gameplay. If running as an administrator didn’t do the trick, try the next fix below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Stop overclocking
+
+ Some players may use GPU tweaking programs such as MSI Afterburner to hopefully get a performance increase. But there are some titles that don’t really support cards that are overclocked. Otherwise, your game would suffer and it may be getting to the point that your Valheim is unplayable. Therefore, we suggest you stop overclocking.
+
+---
+
+## 6\. Close unnecessary programs
+
+ Programs such as Google Chrome and Adobe apps are resource-heavy and will most likely drain your system. To guarantee that you can get the best gaming experience, you should close those programs that you don’t necessarily use when playing Valheim. Here’s how you can do this:
+
+ 1) On your keyboard, press the **Windows logo key** and **R**  at the same time to invoke the Run box.
+
+ 2) Type **taskmgr** , then press **Enter**  on your keyboard.  
+  
+![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
+ 3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Valheim and select **End task** .
+
+![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
+
+ After you’ve done these, try to play Valheim to check if your game still stutters or freezes.
+
+---
+
+ Hopefully, this post helps you drastically stabilize your Valheim. If you have any ideas or questions, do not hesitate to drop us a line in the comment section below.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-learning-vector-artistry-an-overview-for-starters-and-software-picks/"><u>[New] Learning Vector Artistry  An Overview for Starters & Software Picks</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-logitech-options-not-working-on-windows/"><u>[SOLVED] Logitech Options Not Working on Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-achieve-uninterrupted-youtube-experience-across-os-platforms-for-2024/"><u>[Updated] Achieve Uninterrupted YouTube Experience Across OS Platforms for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-definition-audio-essentials-the-top-6-mics-for-livestreaming/"><u>[Updated] High-Definition Audio Essentials  The Top 6 Mics for Livestreaming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-directory-easy-classics-ringtone-websites/"><u>[Updated] Ultimate Directory  Easy Classics Ringtone Websites</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhancing-youtube-presence-creating-professional-thumbnails-from-smartphones/"><u>2024 Approved  Enhancing YouTube Presence  Creating Professional Thumbnails From Smartphones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-from-creator-to-business-transforming-your-youtube-experience/"><u>2024 Approved  From Creator to Business  Transforming Your YouTube Experience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-can-i-view-friends-shared-vids-and-photos/"><u>2024 Approved  How Can I View Friend’s Shared Vids and Photos?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-itel-p55plus-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Itel P55+ FRP</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-google-pixel-6-expert-insights-and-conclusions/"><u>Comprehensive Analysis of the Google Pixel 6 - Expert Insights and Conclusions</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-nk-2077-how-to-eliminate-stuttering-and-smooth-performance/"><u>Cyberpunk Nk 2077: How to Eliminate Stuttering and Smooth Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-fixing-pc-malfunctions-during-no-rest-for-the-wicked-playbacks/"><u>Expert Tips on Fixing PC Malfunctions During 'No Rest for the Wicked' Playbacks</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-diablo-2-resurrected-sudden-shutdowns/"><u>Fixes for 'Diablo 2: Resurrected' Sudden Shutdowns</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-prey-the-starsign-descending-continuously-failing-on-windows/"><u>Fixes for Prey: The Starsign Descending Continuously Failing on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996354120-getting-elden-ring-online-play-up-and-running-again-expert-advice/"><u>Getting Elden Ring Online Play Up & Running Again – Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/guilty-gear-strive-pc-version-diagnosing-and-fixing-continuous-crashes-for-smoother-gameplay/"><u>Guilty Gear Strive PC Version: Diagnosing and Fixing Continuous Crashes for Smoother Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-continuous-crashes-in-madden-nfl-21-on-your-windows-computer/"><u>How to Fix Continuous Crashes in Madden NFL 21 on Your Windows Computer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mass-effect-ultimate-collection-bug-fixes-now-include-stutteringstutter-free-experience-guarantee/"><u>Mass Effect Ultimate Collection Bug Fixes Now Include Stuttering/Stutter-Free Experience Guarantee</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/maximizing-wifi-coverage-an-expert-review-on-the-tp-link-re505x-expander/"><u>Maximizing WiFi Coverage: An Expert Review on the TP-Link RE505X Expander</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-your-league-of-legends-experience-by-overcoming-latency-challenges/"><u>Optimize Your League of Legends Experience by Overcoming Latency Challenges</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-troubleshooting-tips-preventing-granblue-fantasy-relinks-from-crashing/"><u>PC Troubleshooting Tips: Preventing Granblue Fantasy Relinks From Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/proven-solutions-for-keeping-fortnite-running-smoothly-on-your-pc-this-year/"><u>Proven Solutions for Keeping Fortnite Running Smoothly on Your PC This Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-trouble-heres-how-to-get-rid-of-that-annoying-black-screen/"><u>Rainbow Six Siege Trouble? Here's How to Get Rid of That Annoying Black Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-strategies-to-prevent-fifa-21-from-exiting-unexpectedly-on-pc/"><u>Step-by-Step Strategies to Prevent FIFA 21 From Exiting Unexpectedly on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-abcs-airway-breathing-circulation-are-the-first-priority-in-managing-any-patient-with-suspected-poisoning/"><u>The ABCs (Airway, Breathing, Circulation) Are the First Priority in Managing Any Patient with Suspected Poisoning</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-to-keep-diablo-iv-running-smoothly-on-pc-ps5-and-xbox-devices/"><u>Top Strategies to Keep Diablo IV Running Smoothly on PC, PS5, and Xbox Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/tormented-souls-game-stability-issues-how-to-fix-crashes-on-windows/"><u>Tormented Souls Game Stability Issues: How to Fix Crashes on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-the-sound-heres-how-you-can-resolve-audio-problems-in-minecraft-for-windowsmac/"><u>Trouble with the Sound? Here's How You Can Resolve Audio Problems in Minecraft for Windows/Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-cod-vanguard-error-code-0x00001338-on-windows-detailed-instructions/"><u>Ultimate Fix for CoD Vanguard Error Code 0X00001338 on Windows - Detailed Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-razer-driver-download-tutorial-for-windows-operating-systems-10-8-7-xp-vista/"><u>Ultimate Razer Driver Download Tutorial for Windows Operating Systems: 10, 8, 7, XP, Vista</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-resolving-frame-rate-drops-in-pc-versions-of-farming-simulator-cuaderno-de-laboratorio-22/"><u>Understanding and Resolving Frame Rate Drops in PC Versions of Farming Simulator Cuaderno De Laboratorio 22</u></a></li>
+</ul></div>

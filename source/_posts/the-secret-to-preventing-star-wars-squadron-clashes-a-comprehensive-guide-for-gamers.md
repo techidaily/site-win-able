@@ -1,0 +1,271 @@
+---
+title: The Secret to Preventing Star Wars Squadron Clashes - A Comprehensive Guide for Gamers.
+date: 2024-08-27T20:38:56.200Z
+updated: 2024-08-28T20:38:56.200Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes The Secret to Preventing Star Wars Squadron Clashes - A Comprehensive Guide for Gamers.
+excerpt: This Article Describes The Secret to Preventing Star Wars Squadron Clashes - A Comprehensive Guide for Gamers.
+thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282754802f441bb66f0c3a3719.jpg
+---
+
+## The Secret to Preventing Star Wars Squadron Clashes - A Comprehensive Guide for Gamers
+
+Recently many players reported Star Wars Squadrons crashing on PC when they were flying the starfighters or completing a mission. If you also run into the game crashing issue, don’t worry. In this post, we’ll walk you through all the possible fixes and help you get back to the virtual spaces easily.
+
+## How to fix Star Wars Squadrons crashing
+
+ You don’t need to try them all; simply work your way down the list until you find the one that solves your problem.
+
+1. **[Run Star Wars Squadrons as an administrator](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Verify the integrity of your game files](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Adjust the graphics settings](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
+
+ Please first check out **[Star Wars Squadrons minimum requirements](https://www.ea.com/games/starwars/squadrons/overview/pc-system-requirements)**  to ensure your rig is able to handle the game. Otherwise, you need to upgrade the PC for enjoyable gameplay.
+
+### Fix 1 – Run Star Wars Squadrons as an administrator
+
+ In some cases, Star Wars Squadrons requires elevated permissions to work as intended, or else it crashes randomly. To run the game in the administrator mode, follow the steps below:
+
+**1)** Right-click the**Star Wars Squadrons icon** on your desktop and click**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
+
+**2)** Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-8.jpg)
+
+Check if the game runs normally now. If not, move on to the second fix.
+
+### Fix 2 – Verify the integrity of your game files
+
+ Star Wars Squadrons crashing may be caused by missing or corrupted game files. So an integrity check is necessary at the very start. We’ll show you how to do this both on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
+
+#### If you’re playing on Steam
+
+**1)** Launch the Steam client, and navigate to the**Library** tab.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+**2)** Right-click**Star Wars Squadrons** from the game list and click**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+ Wait for the repair process to finish. Then launch the game to see how it works. If crashing persists, try **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  to update your GPU driver.
+
+#### If you’re playing on Origin
+
+**1)** Launch Origin and select**My Game Library** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-4.jpg)
+
+**2)** Select**Star Wars Squadrons** from the list. Then, click the**settings icon** and click**Repair** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/0.jpg)
+
+ Relaunch the game after repair finishes. If crashing remains, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+### Fix 3 – Update your graphics driver
+
+ Game crashes are usually driver-related and can indicate a wrong, faulty or outdated graphics driver. To keep Star Wars Squadrons running smoothly and boost the game’s performance, you should update your graphics driver to the latest.
+
+There are mainly two ways you can do the driver update:
+
+**Option 1 – Manually** – You can search for the most recent graphics driver on your GPU manufacturer’s websites such as **[AMD](https://www.amd.com/en/support)**  or **[NVIDIA](https://www.nvidia.com/Download/index.aspx)**  . Then download the driver corresponding with your Windows version, and install it manually.
+
+**Option 2 – Automatically** – If you don’t have the time, patience or computer skills to update your graphics drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your exact GPU, and your Windows version, and it will download and install them correctly:
+
+**1)** **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+**2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
+
+**3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ If all the device drivers are up-to-date but the crashes don’t stop, there are more methods to try below.
+
+### Fix 4 – Turn off overlays
+
+ If you’re using the overlay feature, that might be the reason for Star Wars Squadrons crashing. You can follow the instruction below to turn it off on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  , **[Origin](https://tools.techidaily.com/drivereasy/download/)**  and **[NVIDIA GeForce Experience](https://tools.techidaily.com/drivereasy/download/)**  .
+
+#### On Steam
+
+**1)** Launch Steam and go to the**Library** tab.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1-1.jpg)
+
+**2)** Right-click**Star Wars Squadrons** and click**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+**3)** Untick**Enable the Steam Overlay while in-game** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1.jpg)
+
+#### On Origin
+
+**1)** Launch the Origin game launcher.
+
+**2)** Select**My Game Library** on the left pane and click the**Star Wars Squadrons** tile.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1200x625.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** Click the**settings icon** and click**Game Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3.jpg)
+
+**4)** Untick**Enable Origin In Game for STAR WARS: Squadrons** and click**Save** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4.jpg)
+
+#### On GeForce Experience
+
+**1)** Run GeForce Experience.
+
+**2)** Click the**cogwheel icon** in the upper right corner.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/7-1-1.jpg)
+
+**3)** Toggle off**In-Game Overlay** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-00.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+ Restart the game to see whether crashing is fixed or not. If not, head towards the next method.
+
+### Fix 5 – Adjust the graphics settings
+
+ Improper settings of Star Wars Squadrons can trigger unexpected crashing, especially if the setup is too demanding for your machine. By adjusting the settings appropriately, you can reduce the number of crashes and the game will still look beautiful. Here’s how:
+
+**1)** Launch the game, and press the**Esc key** on your keyboard to enter the Options menu.
+
+**2)** Click**Video** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-1.jpg)
+
+**3)** Click the**Change** button next to Screen Settings.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+**4)** Set Fullscreen Mode to**Windowed** or**Borderless** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
+**5)** Scroll down to Volumetric Quality, and set it to**Medium** or**Low** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4.jpg)
+
+ According to your needs, you can also set other options under Advanced Settings to**Low** or**Medium** . After the changes are applied, run the game to check if crashes go away. If not, take a look at the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 6 – Reinstall the game
+
+ Reinstalling always sounds troublesome, but it’s a solid fix for stubborn gaming problems. After you uninstall the game, make sure to**delete all the related game files** . Then, download the latest version of Star Wars Squadrons and it should be working without any issues.
+
+ Hopefully the 6 simple tricks above get you out of the constant crashes. If you have further questions or suggestions, feel free to leave a comment below.
+
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [Origin](https://tools.techidaily.com/drivereasy/download/)
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-evaluating-the-top-video-streaming-apps-for-phones/"><u>[New] 2024 Approved  Evaluating the Top Video Streaming Apps for Phones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-record-your-screen-on-windows-8-for-2024/"><u>[Updated] How To Record Your Screen On Windows 8 for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ascent-launch-successfully-achieved-overcoming-initial-hurdles/"><u>Ascent Launch Successfully Achieved – Overcoming Initial Hurdles</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-glitch-expert-fixes-for-ps4-system-crashes-and-hangs/"><u>Beat the Glitch: Expert Fixes for PS4 System Crashes & Hangs</u></a></li>
+<li><a href="https://win-able.techidaily.com/bioshock-2-remastered-updated-fixes-and-enhancements/"><u>Bioshock 2 Remastered: Updated Fixes & Enhancements</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-computer-component-analysis-by-toms-hardware-gurus/"><u>Comprehensive Computer Component Analysis by Tom's Hardware Gurus</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-solving-amazon-prime-video-connectivity-problems/"><u>Comprehensive Guide: Solving Amazon Prime Video Connectivity Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-how-to-fix-game-lags-and-eliminate-frameskipping/"><u>Cyberpunk 2077: How to Fix Game Lags & Eliminate Frameskipping</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-resolving-discords-continuous-loading-problem-during-streaming/"><u>Effective Solutions for Resolving Discord's Continuous Loading Problem During Streaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/financial-arrangements-in-buying-guides-online-in-2024/"><u>Financial Arrangements in Buying Guides Online, In 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-no-rest-for-the-wicked-pc-performance-problems-and-preventing-crashes/"><u>Fixing 'No Rest for the Wicked' PC Performance Problems and Preventing Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-solve-praey-for-the-gods-game-continuous-pc-crashes/"><u>Guide to Solve Praey: For The Gods Game Continuous PC Crashes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-infinix-smart-8-screen-sharing-drfone-by-drfone-android/"><u>How To Do Infinix Smart 8 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-sims-4-lagging-on-pc-pro-tips-2024/"><u>How to Fix Sims 4 Lagging on PC – Pro Tips 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-overwatch-from-crashing-due-to-graphics-drivers/"><u>How to Stop Overwatch From Crashing Due to Graphics Drivers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-cooking-crusaders-youtube-stars-serving-up-deliciousness/"><u>In 2024, Cooking Crusaders  YouTube Stars Serving Up Deliciousness</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oppo-a2-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Oppo A2 Is Unlocked</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-your-gaming-setup-eliminate-stutter-and-improve-divisions-2s-fps/"><u>Master Your Gaming Setup: Eliminate Stutter & Improve Divisions 2'S FPS</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-troubleshooting-overcoming-instances-of-game-crashing-in-arise/"><u>Mastering Troubleshooting: Overcoming Instances of Game Crashing in Arise</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-fun-overcoming-lag-and-fps-drops-in-forza-horizon-5-on-pc-setup/"><u>Maximizing Fun: Overcoming Lag and FPS Drops in Forza Horizon 5 on PC Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-start-up-issues-with-pathfinder-wrath-of-the-righteous-a-comprehensive-troubleshooting-guide/"><u>Overcoming Start-Up Issues with Pathfinder: Wrath of the Righteous - A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-error-code-0x80040610-in-depth-outlook-troubleshooting-guide/"><u>Resolving Windows Error Code 0X80040610: In-Depth Outlook Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/sid-meiers-civ6-constant-disruptions-solved-top-tech-tweaks-and-adjustments-revealed/"><u>Sid Meier's Civ6 Constant Disruptions Solved: Top Tech Tweaks & Adjustments Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-for-overcoming-vrchat-loading-and-functionality-problems/"><u>Solution Steps for Overcoming VRChat Loading and Functionality Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-understanding-and-resolving-two-point-decrease-in-frame-rate-on-pc-platforms/"><u>Solved: Understanding and Resolving Two-Point Decrease in Frame Rate on PC Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-dreamlight-valley-pc-issues-6-critical-fixes-and-solutions/"><u>Solving Dreamlight Valley PC Issues: 6 Critical Fixes & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-lag-issues-effective-techniques-to-reduce-your-back-4-blood-gameplay-latency/"><u>Solving Lag Issues: Effective Techniques to Reduce Your 'Back 4 Blood' Gameplay Latency</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/strategies-for-captivating-end-moments/"><u>Strategies for Captivating End Moments</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-final-stand-zombie-army-4-dead-war-now-running-flawlessly-after-critical-pc-bug-fixes/"><u>The Final Stand - Zombie Army 4: Dead War Now Running Flawlessly After Critical PC Bug Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-comprehensive-guide-and-reviews/"><u>Tom's Tech Hub - Comprehensive Guide and Reviews</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-helldivers-ii-solutions-for-black-screen-at-game-start/"><u>Troubleshooting Helldivers II: Solutions for Black Screen at Game Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-low-fps-on-dying-light-tips-and-tricks-to-optimize-performance/"><u>Troubleshooting Low FPS on Dying Light: Tips and Tricks to Optimize Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-overcome-wolcen-lords-of-mayhem-pc-instability-issues/"><u>Ultimate Guide to Overcome Wolcen Lords of Mayhem PC Instability Issues</u></a></li>
+</ul></div>

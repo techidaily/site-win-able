@@ -1,0 +1,230 @@
+---
+title: "Clearing the Path for Fortnite Success: Solving ‘You Lack Permissions’ Issues"
+date: 2024-08-27T20:29:17.436Z
+updated: 2024-08-28T20:29:17.436Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Clearing the Path for Fortnite Success: Solving ‘You Lack Permissions’ Issues"
+excerpt: "This Article Describes Clearing the Path for Fortnite Success: Solving ‘You Lack Permissions’ Issues"
+thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f5621896796311364cd34b031c122e69.jpg
+---
+
+## In-Depth Analysis: Troubleshooting & Eliminating Slow Response Times for a Smoother 'Back 4 Blood' Experience - Now Solved
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-11_11-34-12.png)
+
+ Back 4 Blood’s finally here! Players have been enjoying the game during beta, but many also reported some issues causing poor game performance. One of the returning issues in Back 4 Blood seems to be the**high ping and constant lag spikes** . If you also experience similar problems, no worries. We’ve prepared a few fixes for you to try!
+
+## Try these fixes…
+
+[1: Check the server status](https://tools.techidaily.com/drivereasy/download/)
+
+[2: Test internet connection](https://tools.techidaily.com/drivereasy/download/)
+
+[3: Close bandwidth-hogging programs](https://tools.techidaily.com/drivereasy/download/)
+
+[4: Update network driver](https://tools.techidaily.com/drivereasy/download/)
+
+[5: Check your DNS settings](https://tools.techidaily.com/drivereasy/download/)
+
+[Bonus tip: try with a VPN](https://tools.techidaily.com/drivereasy/download/)
+
+ Before we dive into anything advanced, make sure you’ve installed all the game updates. The devs will be releasing patches to fix any known issues.
+
+## Fix 1: Check the server status
+
+ Crowded servers are common on launch days. If the game is too laggy to play, you can check the server status first to see if the problem is with the server-end. You can also visit[Back 4 Blood official site](https://www.back4blood.com/en-us/news) ,[Twitter](https://twitter.com/back4blood) ,[Discord](https://discord.com/invite/turtlerockstudios) or the[Steam forum](https://steamcommunity.com/app/924970/discussions/) to see if there’s any announcement.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 2: Test internet connection
+
+ If there’s nothing wrong with the server, then you can start troubleshooting from your side. Since high ping and lag issues are network-related, you should first test your internet connection. Here’s a few general steps you can do:
+
+* P**ower cycle your router and modem** . First, unplug the power cables from both your router and your modem. Then leave them disconnected for a minute. After that you can plug the cables back into both devices. When your Internet is working again, launch Back 4 Blood to see if you still get a high ping.
+* It’s recommended to**play the game on an Ethernet connection** . It’ll provide a fast and reliable connection.
+* If you’re playing Back 4 Blood on Wi-Fi, make sure other devices are not using Wi-Fi so there’s no overcrowding. You can **turn off the Wi-Fi on the devices you don’t need at the moment** .
+* If your internet speed is slow, it could lead to an unstable connection. You can google “Internet speed test” and pick a tool to **test your Internet speed** . When your Internet connection seems unreasonably slow, consider contacting your Internet service provider for help.
+
+ If you’ve checked your internet connection but the ping is still high, try the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 3: Close bandwidth-hogging programs
+
+ You’re more likely to experience lag spikes and get a high ping in-game when other programs are hogging your bandwidth. If your browser is running with tons of tabs open or videos loading in the background, your connection will become very slow.
+
+ To stop the programs from running in the background and hogging your bandwidth, you can:
+
+1. Right-click your taskbar, then click**Task Manager** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
+2. Under the**Processes** tab, look for the processes that are network-hogging. Select it then click**End task** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
+
+ If you’re still getting a high ping and game seems laggy, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+## Fix 4: Update network driver
+
+ An outdated or faulty network driver may cause connection problems. For example, it could affect the stability of game performance and therefore you may experience extreme lags. It’s important to make sure your network driver is up-to-date and functioning properly. If not, you would need to install the latest version.
+
+ To get the right driver for your network adapter, there are two ways:**manually** or**automatically** .
+
+**Manual driver update** – You can manually update your network driver[](https://tools.techidaily.com/drivereasy/download/) [via Device Manager](https://tools.techidaily.com/drivereasy/download/) . If Device Manager fails to detect an available update, you can search on the manufacturer’s website. Be sure to choose only the driver that is compatible with your Windows version.
+
+**Automatic driver update** – If you don’t have the time, patience, or computer skills to update your drivers manually, you can, instead, do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system and find the correct driver for your exact network adapter and your Windows version, then it’ll download and install the driver correctly:
+
+ 1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
+
+ 3) Click the **Update**  button next to the flagged network driver to automatically download the correct version of the drivers, then you can manually install them (you can do this with the FREE version).
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update both your graphics driver and network driver with just one click. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Restart your PC for the new drivers to take effect. Launch Back 4 Blood to see if the problem persists. If your ping is still high and experiences lags in game, no worries, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
+## Fix 5: Check your DNS settings
+
+ Crowded or broken DNS cache could cause random connection issues. To solve the high ping problem and fix the lag spikes in Back 4 Blood, there are two things you can do:
+
+[1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
+
+[2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
+
+### 1: Flush your DNS
+
+ The action of flushing DNS will clear the DNS cache from your PC. When the DNS cache is removed, your PC will need to obtain the address from the DNS server every time it needs to access a new website. This may solve the lagging issue in Back 4 Blood if it’s triggered by invalid or corrupt DNS cache data. Here’s how to do it:
+
+1. Press the **Windows logo key** and **R** on your keyboard to invoke the Run box.
+2. Type **cmd** , then press **Shift** and **Enter** at the same time. If prompted for permission, click **Yes** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
+3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
+4. Your DNS cache is successfully cleared.  
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+
+### 2: Switch to a public DNS server
+
+ We also recommend using a public DNS server to test the issue. Here we’ll use the Google DNS server as an example, since it may improve your ping. Here’s how:
+
+1. On your taskbar, right-click the **network icon** , then click **Open Network & Internet settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-11_15-44-44.png)
+2. Click **Change adapter options** .  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
+3. Right-click **the network you’re using** , then click **Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
+4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
+5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
+
+ **Preferred DNS server: 8.8.8.8**  
+ **Alternate DNS server: 8.8.4.4**  
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+## Bonus tip: try with a VPN
+
+ If you want to avoid peak time in your region or just want to play on other servers, you can try using a VPN. VPN grants you access to different servers, helps prevent bandwidth throttling, and builds a stable connection. As long as you use a secure and reliable VPN, you shouldn’t get a high ping.
+
+ Note that free VPNs are not recommended, as they can be risky, slow your connection down, and are probably on the blacklist of most games. Here are a few gaming VPNs we recommend:
+
+* [NordVPN](https://tools.techidaily.com/drivereasy/download/)
+* [SurfShark](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fr.brandreward.com%2F%3Fkey%3D3882aba4cadd4473e0195097fdf20855%26url%3Dhttp%253A%252F%252Fsurfshark.com%26id%3Ddrivereasyen155457)
+* [CyberGhost](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.cyberghostvpn.com%2F&id=drivereasyen155457)
+
+---
+
+ Hopefully this article has been helpful! If you have any questions or suggestions, please feel free to leave a comment down below!
+
+* [high ping](https://tools.techidaily.com/drivereasy/download/)
+* [Lag](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-confirming-youtube-pro-rated-earnings-for-2024/"><u>[Updated] Confirming YouTube Pro-Rated Earnings for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-boosting-revenue-the-content-creators-playbook/"><u>[Updated] In 2024, Boosting Revenue  The Content Creator's Playbook</u></a></li>
+<li><a href="https://article-posts.techidaily.com/a-closer-look-at-high-end-vr-walking-machines/"><u>A Closer Look at High-End VR Walking Machines</u></a></li>
+<li><a href="https://fox-links.techidaily.com/audiovisual-amplification-harness-no-cost-tools-for-dynamic-voice-effects-for-2024/"><u>Audiovisual Amplification  Harness No-Cost Tools for Dynamic Voice Effects for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-roblox-lag-and-downtime-essential-fixes-that-work-new-6-step-guide-for-gamers/"><u>Beat Roblox Lag & Downtime: Essential Fixes That Work - New 6-Step Guide for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-black-ops-cold-war-mishap-resolving-the-frustrating-error-code-80070057-successfully/"><u>COD: Black Ops Cold War Mishap – Resolving the Frustrating Error Code 80070057 Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-resolve-your-nvidia-geforce-experiences-error-e0x0003/"><u>Comprehensive Guide to Resolve Your NVIDIA GeForce Experience's Error E_0x0003</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2-fixes-ensure-smooth-startup-and-gameplay-experience/"><u>Cyberpunk 2# Fixes Ensure Smooth Startup & Gameplay Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2s-beyond-light-stability-issues-fixed-for-pc-gamers/"><u>Destiny 2'S Beyond Light Stability Issues Fixed for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-fixing-crash-issues-with-no-rest-for-the-wicked-on-your-computer/"><u>Expert Advice: Fixing Crash Issues with 'No Rest for the Wicked' On Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-steam-remote-play-problems-now-top-troubleshooting-tips/"><u>Fix Your Steam Remote Play Problems Now – Top Troubleshooting Tips!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/giggles-galaxy-a-guide-to-hilarious-youtube-stars-for-2024/"><u>Giggles Galaxy  A Guide to Hilarious YouTube Stars for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-combat-excessive-disk-space-and-cpu-consumption-in-wsappx-applications/"><u>How to Combat Excessive Disk Space & CPU Consumption in WSAPPX Applications</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-discord-from-failing-while-streaming-solutions-explored/"><u>How to Stop Discord From Failing While Streaming - Solutions Explored</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-correct-nvidias-geforce-error-code-0x0003/"><u>How to Troubleshoot and Correct NVIDIA's GeForce Error Code 0X0003</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-xs-by-drfone-ios/"><u>How to Unlock Verizon iPhone XS</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-your-battlefield-v-gameplay-the-ultimate-fixes-for-lag-issues/"><u>Improve Your Battlefield V Gameplay: The Ultimate Fixes for Lag Issues</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-motorola-moto-g23-by-drfone-android/"><u>In 2024, How to Bypass FRP on Motorola Moto G23?</u></a></li>
+<li><a href="https://win-able.techidaily.com/launch-unveiled-the-dual-forces-behind-it-takes-two-success/"><u>Launch Unveiled: The Dual Forces Behind 'It Takes Two' Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-game-sounds-a-comprehensive-fix-for-halo-infinites-audio-problems/"><u>Mastering Game Sounds: A Comprehensive Fix for Halo Infinite's Audio Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-cold-start-ensuring-seamless-launch-of-cod-black-ops-cold-war-on-pc-systems/"><u>Mastering The Cold Start: Ensuring Seamless Launch of Cod: Black Ops Cold War on PC Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-nba-2k21-pc-glitches-solutions-that-work/"><u>Say Goodbye to NBA 2K21 PC Glitches - Solutions That Work</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-enable-your-pcs-graphics-card-for-optimal-gameplay-in-call-of-duty-warzone-under-windows-amoled/"><u>Solved: Enable Your PC's Graphics Card for Optimal Gameplay in Call of Duty: Warzone Under Windows Amoled</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-overcoming-pc-startup-problems-for-far-cry-6/"><u>Solved! Overcoming PC Startup Problems for Far Cry 6</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-for-league-of-legends-persistent-black-screen-problem/"><u>Step-by-Step Troubleshooting for League of Legends' Persistent Black Screen Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-youtube-crashes-in-their-tracks-expert-fixes-unveiled-here/"><u>Stop YouTube Crashes in Their Tracks: Expert Fixes Unveiled Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-solving-the-deathloop-stuttering-issue-on-pc-and-playstation-5/"><u>Ultimate Troubleshooting Guide: Solving the Deathloop Stuttering Issue on PC and PlayStation 5</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-resolve-hogwarts-legacys-stutter-issues/"><u>Ultimate Troubleshooting Tips: Resolve Hogwarts Legacy's Stutter Issues</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultra-hd-and-smart-assistant-combined-a-look-into-the-insignia-43df710ns-fire-tv-stick-for-less/"><u>Ultra HD & Smart Assistant Combined - A Look Into the Insignia 43DF710NS Fire TV Stick for Less</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-arm-support-arrives-filmora-x-update-now-live/"><u>Updated In 2024, ARM Support Arrives Filmora X Update Now Live</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-20-ping-optimization-techniques-for-faster-gameplay-tips-and-tricks/"><u>Warzone 2.0 Ping Optimization Techniques for Faster Gameplay - Tips & Tricks</u></a></li>
+</ul></div>

@@ -1,0 +1,353 @@
+---
+title: How to Stop Modern Warfare From Freezing on Your Computer - Solutions Implemented Successfully
+date: 2024-08-27T20:41:49.019Z
+updated: 2024-08-28T20:41:49.019Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes How to Stop Modern Warfare From Freezing on Your Computer - Solutions Implemented Successfully
+excerpt: This Article Describes How to Stop Modern Warfare From Freezing on Your Computer - Solutions Implemented Successfully
+thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc88406680edc99866453f0d22.jpg
+---
+
+## Trouble Starting Valorant on Your Desktop Computer? Uncover the Latest Solutions
+
+Being the second game from Riot after its blockbuster League of Legends, Valorant is surely a must-play for all the FPS fans. But recently, we received many reports saying that**Valorant won’t start on PC** . If you’re dealing with the same issue, don’t worry. According to our users, you can usually fix it with just a few clicks.
+
+## Before you start
+
+ Before you go any further, first try**restarting your PC** and see how it goes. Also, you should make sure your PC meets the minimum requirements:
+
+**Minimum requirements for Valorant (30 FPS):**
+
+| **Operating System:** | Windows 7 / 8 / 10 64-bit |
+| --------------------- | ------------------------- |
+| **Processor:**        | Intel Core 2 DUO E8400    |
+| **Memory:**           | 4 GB RAM                  |
+| **Graphics Card:**    | Intel HD 4000             |
+
+ If you’ve already done these, you can move on to the advanced troubleshooting below.
+
+## Try these fixes
+
+ Here’re the advanced fixes for your**Valorant not launching issue** . You might not need to try them all, just work down the list until you find the one that does the trick.
+
+1. [**Change your computer resolution**](https://tools.techidaily.com/drivereasy/download/)
+2. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+3. [**Run Valorant in compatible mode**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Run Valorant as Administrator**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Close all Riot related processes**](https://tools.techidaily.com/drivereasy/download/)
+6. [**Temporarily disable your antivirus**](https://tools.techidaily.com/drivereasy/download/)
+7. [**This game is not available on your operating system**](https://tools.techidaily.com/drivereasy/download/)
+8. **[Release Standby Memory](https://tools.techidaily.com/drivereasy/download/)**
+9. **[Reinstall Valorant](https://tools.techidaily.com/drivereasy/download/)**
+
+## Fix 1: Change your computer resolution
+
+ Manufacturers will**stop updating drivers** for some GPUs after a period of time, that way they can phase out outdated graphics cards. Therefore some graphics cards might not have decent support for high resolution gaming.
+
+ If you’re using an old graphics card, you should try**switching to a lower computer resolution** . Here’s how to do that:
+
+1. **Right click** on the empty area of your desktop, then select **Display settings.**  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_14-42-27.jpg)
+2. Under the**Scale and layout** section, select an option from the drop down menu.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_14-47-42.jpg)
+3. Choose a**lower** resolution.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_14-51-18.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ You can test all the resolution options with Valorant and see which one solve your problem. If this method doesn’t work for you, don’t worry, just try the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+## Fix 2: Update your graphics driver
+
+ This issue can be caused by**buggy or outdated graphics drivers** . Some players reported that Valorant won’t launch because their graphics drivers were little out of date. So before trying anything more complicated, first**make sure you’re using the latest graphics driver** .
+
+ One option is to update manually: You can visit the manufacturer website ([NVIDIA](https://www.nvidia.com/Download/index.aspx) ,[AMD](https://www.amd.com/en/support) or[Intel](https://downloadcenter.intel.com/product/80939/Graphics) ), then search, download and install the video driver. But if you’re not comfortable playing with device drivers, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a tool that detects, downloads and installs any driver updates your computer needs.
+
+ You can update your drivers automatically with either the [**7 days free trial**](https://tools.techidaily.com/drivereasy/download/) or the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. It takes just 2 clicks, and you get full support and a 30-day money-back guarantee with the Pro version:
+
+1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
+3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
+![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Once you’ve updated your graphics driver,**launch Valorant** and see if the issue persists.
+
+If this trick doesn’t work for you, simply try the next one.
+
+## Fix 3: Run Valorant in compatible mode
+
+ Some Windows updates may conflict with Valorant. If that’s the case, you can try to**launch Valorant in compatible mode** . Here’re the steps:
+
+1. On your desktop,**right click** the Valorant icon and select**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-16-07-1.jpg)
+2. Select the**Compatibility** tab. Under**Compatibility mode** section,**check** the box before**Run this program in compatibility mode for** . If you’re on Windows 10, set it to**Windows 8** . If you’re on Windows 8, set it to Windows 7\. Click**OK** to finish.  
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-21-11.jpg)
+3. **Restart** your computer and**launch Valorant** .
+
+ If this solve your problem, congratulations! If not, you can move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 4: Run Valorant as an Administrator
+
+ By default, Windows executes a program as a regular user, which has limited access to some directories.**Running Valorant as an Administrator** avoids the permission issue. To do so, simply follow these steps:
+
+1. On your desktop,**right click** the Valorant icon and select**Run as administrator** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-10_9-53-24-1.jpg)  
+**If you can launch the game this way** , continue to the next step to set Valorant to always run in administrator mode.**If the problem persists** , please jump to the next method.
+2. On your desktop,**right click** the Valorant icon and select**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-16-07-1.jpg)
+3. Select the**Compatibility** tab. Under**Settings** section,**check** the box before**Run this program as an Administrator** . Click**OK** to finish.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-44-49-1.jpg)
+4. Launch Valorant and see if you can log in.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+
+## Fix 5: Close all Riot related processes
+
+ Some players commented that Valorant won’t start when a process is not working properly. That means you need to exit all the Riot related processes and launch Valorant again. Here’re 3 things you need to do:
+
+1. **Right click** Task Bar to open**task manager** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-58-59.jpg)
+2. **Scroll through** all the processes and search for Riot related processes (**Those with a Riot or Valorant logo** ). If you find any, select them and click**End task** to stop them.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_17-17-24.jpg)  
+ (Note you**should not** **stop** the**Vanguard** process. Otherwise you’ll have to restart your computer before launching Valorant again.)
+3. When you’ve exited all the riot related processes,**launch Valorant** and see if you’re still have errors.
+
+ If this fix doesn’t work for you, there’s still a last fix you can try.
+
+## Fix 6: Temporarily disable your antivirus
+
+ If you’re seeing an error telling you Valorant is “**unable to start correctly (0xc000005)** ” or “**couldn’t install a required dependency** “, then maybe it’s your antivirus that’s triggering the issue. In this case, you can try disabling it and see how things go.
+
+Here’s an example of how to disable Windows Security:
+
+1. On your keyboard, press**Win+I** (the Windows logo key and the I key) to open Windows Settings. Click**Update & Security** .  
+![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
+2. In the left pane, click**Windows Security** . Then select**Virus & threat protection** .  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-windows-defender-1.png)
+3. Scroll to the**Virus & threat protection settings**  section and click **Manage settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-windows-defender-2.png)
+4. Under the **Real-time protection**  section, click the toggle button and turn it to **Off** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-windows-defender-3-1.png)
+5. Now test if you can launch Valorant.
+
+ If this fix doesn’t help you, turn the antivirus back on and continue to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
+## Fix 7: This game is not available on your operating system
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/game-not-available.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Recently we received reports of a Valorant startup error that reads “**This game is not available on your operating system** “. This error doesn’t seem to be system-related, since players are getting it even on Windows 10\. If you’re seeing this error, there’s one fix you can try before reinstalling.
+
+1. On your keyboard, press**Ctrl+Shift+Esc** to open**Task Manager** . Then right-click**VALORANT** and select**End task** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/end-valorant-task-mgr.jpg)
+2. Press**Win+R** to invoke the Run box, then type or paste**%localappdata%\\VALORANT\\Saved** and press**Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/valorant-purge-config-1.jpg)
+3. Delete all the files in the**Config** and**Logs** folder. Then restart your PC and check if Valorant launches now.
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+## Fix 8: Release Standby Memory
+
+ One common reason Valorant won’t launch is that your PC doesn’t have the available RAM for the game. Windows uses part of the physical RAM as cache, or what is called**Standby Memory** . The system might run into issues when standby memory isn’t released on time. In that case, you can clear the standby memory manually and see how it goes.
+
+1. On your keyboard, press**Ctrl+Shift+Esc** together to open**Task Manager** . Navigate to the**Performance** tab, click**Open Resource Monitor** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-1.jpg)
+2. In Resource Monitor, navigate to the**Memory** tab. In the**Physical Memory** section, you’ll see the current memory usage. Check if**Standby Memory** is taking up too much of your total RAM.![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-2.jpg)
+3. You can empty the standby memory manually.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ First, download[**EmptyStandbyList**](https://wj32.org/wp/software/empty-standby-list) . This is a command line tool that can help you empty standby memory.
+4. Once downloaded, right click the**EmptyStandbyList** program and select**Run as an Administrator** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist.jpg)
+5. Go back to**Resource Monitor** and check if the standby memory has been cleared. Then you can check if the issue persists.
+
+**(Optional)** You can also use**Task Scheduler** to clear the standby memory automatically. Theoretically, you can achieve the same result with a reboot, but it’ll be a different story while you’re in the middle of the game.
+
+1. Right click**EmptySandbyList.exe** and select**Property** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist-2.jpg)
+2. Navigate to the**Compatibility** tab, check the box next to**Run this program as an administrator** . Click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist-3.jpg)
+3. On your keyboard, press**Win+R** to invoke the**Run** box. Type or paste**taskchd.msc** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/taskschd.msc_.jpg)
+4. In the right pane, select**Create Task** .  
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-1.jpg)
+5. In the**Name** section, type or paste**Empty Standby Memory** . Then click**Change User or Group.** …  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-3.jpg)
+6. In the pop-up window, click**Advanced…** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-4.jpg)
+7. Click**Find Now** . In the search results, select**SYSTEM** . Then click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-5.jpg)
+8. Click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-6-2.jpg)
+9. Navigate to the**Actions** tab, click**New…** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-7.jpg)
+10. Browse and select the**EmptyStandbyList.exe** program. Click**OK** .  
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-8.jpg)
+11. Then navigate to the**Triggers** tab, click**New..** ..  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ Under the**Advanced settings** , set**Repeat task** to**every 10 minutes** . Set**for a duration of** to**Indefinitely** .  
+ Click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-9.jpg)
+12. After finishing the setup, you can select**Task Scheduler Library** in the left pane to view the pending tasks.  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
+## Fix 9: Reinstall Valorant
+
+ So this is the final solution for you: reinstalling Valorant. This is only necessary when you have inconsistent game files, which often happens when you have an**unstable network connection** . To uninstall Valorant, try these steps:
+
+1. On your keyboard, press the**windows logo key** and**R** at the same time to invoke the**Run** box. Type “**control** ” and click**OK** to open Control Panel.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_17-45-57.jpg)
+2. Select**Programs and Features** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-10_10-03-56.jpg)
+3. One at a time,**double click** **Valorant and Riot Vanguard** to uninstall them.  
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_17-52-29.jpg)
+4. Go to the[Valorant official website](https://playvalorant.com/en-us/) and download the latest version.
+
+ That’s it. Hopefully you can launch Valorant without any problems. If you have any questions or suggestions, feel free to leave a comment.
+
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-a-complete-beginners-guide-to-tiktok-on-mac-for-2024/"><u>[New] A Complete Beginner's Guide to TikTok on Mac for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-beam-your-best-selecting-the-stirring-photos-on-instagram/"><u>[New] In 2024, Beam Your Best  Selecting the Stirring Photos on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-your-presentation-potential-with-these-high-quality-templates/"><u>[New] Unlock Your Presentation Potential with These High-Quality Templates</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-essential-templates-and-makers-insights-for-end-credits-for-2024/"><u>[Updated] Essential Templates & Makers' Insights for End Credits for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-powerhouse-guide-to-innovative-mobizen-screencasting-techniques-for-2024/"><u>[Updated] Powerhouse Guide to Innovative Mobizen Screencasting Techniques for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android/"><u>[Updated] Premier Platforms  Identifying the Finest PS2 Emulation Tools for Android</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-audacitys-guide-to-effortless-audio-transitions/"><u>2024 Approved  Audacity's Guide to Effortless Audio Transitions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-wit-within-walls-a-guide-to-crafting-metaverse-jokes/"><u>2024 Approved  Unleashing Wit Within Walls – A Guide to Crafting Metaverse Jokes</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-no-user-can-login-hurdle-in-cs-go-using-our-top-five-fix-techniques/"><u>Beat the ‘No User Can Login’ Hurdle in CS: GO Using Our Top Five Fix Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fixes-for-the-life-is-strange-true-colors-game-malfunctions/"><u>Comprehensive Fixes for the Life Is Strange: True Colors Game Malfunctions</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-the-phenomenon-of-simultaneous-two-fps-drops-in-pc-gaming-experiences/"><u>Decoding the Phenomenon of Simultaneous Two FPS Drops in PC Gaming Experiences</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-solutions-for-resolving-csgo-frame-rate-hiccups/"><u>Effortless Solutions for Resolving CS:GO Frame Rate Hiccups</u></a></li>
+<li><a href="https://win-able.techidaily.com/escape-stuck-screens-expert-fixes-for-far-cry-5s-endless-load-time/"><u>Escape Stuck Screens: Expert Fixes for Far Cry 5'S Endless Load Time</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-keeping-halo-3-running-smoothly-and-avoiding-pc-crashes/"><u>Expert Advice on Keeping Halo 3 Running Smoothly and Avoiding PC Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-fixing-the-persistent-problem-of-discordeventsnotopenerror/"><u>Expert Guide: Fixing the Persistent Problem of DiscordeventsNotOpenError</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-steam-from-hanging-or-crashing/"><u>Fixing the Issue: How to Stop Steam From Hanging or Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/hogwarts-legacy-stuck-on-not-launching-master-these-techniques-to-get-back-in-the-game/"><u>Hogwarts Legacy Stuck on 'Not Launching'? Master These Techniques to Get Back in the Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-reconnect-loop-issue-in-league-of-legends-latest-fixes-and-patch-notes/"><u>How to Overcome the Reconnect Loop Issue in League of Legends - Latest Fixes and Patch Notes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-doom-eternal-from-unexpectedly-crashing/"><u>How to Prevent DOOM Eternal From Unexpectedly Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-repair-a-black-screen-glitch-in-steam-games-updated-strategies/"><u>How to Repair a Black Screen Glitch in Steam Games (Updated Strategies )</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-frame-rate-and-eliminating-glitches-expert-tips-for-smoother-gameplay-on-the-ascent/"><u>Improving Frame Rate & Eliminating Glitches: Expert Tips for Smoother Gameplay on 'The Ascent'</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-s24-ultra-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy S24 Ultra to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-y27-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo Y27 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/innovative-connectivity-simplified-an-insightful-look-at-the-tp-link-deco-p9-router/"><u>Innovative Connectivity Simplified: An Insightful Look at the TP-Link Deco P9 Router</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphoneipad-photography-tips-learn-to-zoom-with-precision/"><u>IPhone/iPad Photography Tips: Learn to Zoom with Precision</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722989014410-modern-warfare-2-wont-launch-here-are-solutions-that-worked-for-me/"><u>Modern Warfare 2 Won't Launch? Here Are Solutions that Worked for Me</u></a></li>
+<li><a href="https://win-able.techidaily.com/nioh-2-fps-drops-solved/"><u>Nioh 2 FPS Drops [SOLVED]</u></a></li>
+<li><a href="https://win-able.techidaily.com/phoenix-point-stability-issues-heres-how-you-can-solve-them/"><u>Phoenix Point Stability Issues? Here's How You Can Solve Them</u></a></li>
+<li><a href="https://win-able.techidaily.com/reactivate-and-fix-your-windows-11-spotlight-issue-a-step-by-step-guide/"><u>Reactivate and Fix Your Windows 11 Spotlight Issue - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-hyper-scape-pc-troubles-a-step-by-step-guide-to-uninterrupted-gaming/"><u>Resolve Your Hyper Scape PC Troubles: A Step-by-Step Guide to Uninterrupted Gaming</u></a></li>
+<li><a href="https://win-dash.techidaily.com/revamping-communication-how-to-refresh-the-drivers-for-your-serial-port-converter/"><u>Revamping Communication: How to Refresh the Drivers for Your Serial Port Converter</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-unreal-engine-4-crash-in-outriders-overcoming-the-infamous-madness-bug/"><u>Solved! Unreal Engine 4 Crash in Outriders – Overcoming the Infamous Madness Bug</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-performance-hiccups-in-mass-effect-legendary-edition-for-both-pc-gamers-and-xbox-users/"><u>Solving Performance Hiccups in Mass Effect Legendary Edition for Both PC Gamers and Xbox Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-stop-fifa-22-from-shutting-down-unexpectedly-on-your-pc-gaming-rig/"><u>Step-by-Step: Stop FIFA 22 From Shutting Down Unexpectedly on Your PC Gaming Rig</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-resolving-dragons-dogma-2-freezing-issues-on-pc/"><u>Troubleshooting and Resolving Dragon's Dogma 2 Freezing Issues on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-issues-how-to-stop-no-rest-for-the-wicked-from-freezing/"><u>Troubleshooting PC Issues: How to Stop 'No Rest for the Wicked' From Freezing</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-players-unable-to-start-pathfinder-wrath-of-the-righteous-game/"><u>Troubleshooting Tips for Players Unable to Start Pathfinder: Wrath of the Righteous Game</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-x-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone X? 5 Tips You Must Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-of-youtube-to-mp4mpeg-mastery-for-2024/"><u>Unveiling the Secrets of YouTube to MP4/MPEG Mastery for 2024</u></a></li>
+</ul></div>

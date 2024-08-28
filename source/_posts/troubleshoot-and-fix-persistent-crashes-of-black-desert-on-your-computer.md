@@ -1,0 +1,224 @@
+---
+title: "Troubleshoot & Fix: Persistent Crashes of Black Desert on Your Computer"
+date: 2024-08-27T20:30:06.447Z
+updated: 2024-08-28T20:30:06.447Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Troubleshoot & Fix: Persistent Crashes of Black Desert on Your Computer"
+excerpt: "This Article Describes Troubleshoot & Fix: Persistent Crashes of Black Desert on Your Computer"
+thumbnail: https://thmb.techidaily.com/5fe7ecb89bcc6e1487d4d4a1019dead48cda049eb81dcbc464d7190885cdca32.jpg
+---
+
+## Troubleshooting Crashes: Fix Your Outriders UE4 Errors Effortlessly
+
+If you’re getting this error message ‘**An Unreal process has crashed: UE4-Madness** .’, don’t worry. Usually, it means the game engine has crashed and it’s hard to troubleshoot the exact cause. Below, you will find every possible fix you can find online or in forums.
+
+## Try these fixes
+
+1. **[Quit MSI Afterburner](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Verify the game integrity](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Force Outriders to run in DX11](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Launch the game in your game folder](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Allow your game to run through Firewall](https://tools.techidaily.com/drivereasy/download/)**
+
+### 1\. Quit MSI Afterburner
+
+ Many players find it helps when they stop using MSI Afterburner. On your keyboard, press the**Ctrl + Shift + Esc** , and then end the related process in**Task Manager** .
+
+ Now you can try launching your Outriders again to see if the problem has gone. But if the Unreal Engine crashing persists, you may want to try the following fixes.
+
+### 2\. Update your graphics driver
+
+ The GPU driver might be causing the error ‘**An Unreal process has crashed: UE4-Madness** .’ in Outriders. If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver.
+
+There are mainly two methods for you to update the graphics driver:
+
+**Manually –** To update your graphics driver to the latest version, you’ll need to visit the manufacturer’s website, download the exact driver, and then install it manually.
+
+* **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**
+* **[AMD](https://www.amd.com/en/support)**
+* **[Intel](https://downloadcenter.intel.com/)**
+
+**Automatically –** If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for your graphics card, and your Windows version, and it will download and install them correctly:
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)
+
+ 4) Once the driver is updated, reboot your PC for the changes to take effect.
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### 3\. Verify the game integrity
+
+ Another possible cause of ‘**Unreal process has crashed: UE4-Madness error** ‘ in Outriders is corrupted or missing game files. To check if this is causing the Unreal Engine to crash, you can try this simple troubleshooting:
+
+ 1) Launch Steam, and go to the**Library** tab
+
+ 2) Right-click **OUTRIDERS Demo** and select **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties.jpg)
+
+ 3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)
+
+ 4) Wait for the process to complete. It may take a few seconds to verify the integrity of your game files.
+
+ Once complete, you can restart the game to check if the Unreal Engine error has been solved by now.
+
+### 4\. Force Outriders to run in DX11
+
+ When you click the Play button, and you’ll be prompted to choose DirectX 12 or DirectX 11\. You can try playing the game in DX11 this way or you can force Outriders to run in DX11 so that you don’t need to do this every time:
+
+ 1) Right-click **OUTRIDERS Demo** and select **Properties** .
+
+ 2) In the**GENERAL** tab, copy and paste**\-force -dx11** in the**LAUNCH OPTIONS** box.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-in-dx-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Now when you click the Play button, the game is always run in DX11\. If this method doesn’t do the trick, you can change the launch option back to**\-force -dx12** .
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+### 5\. Launch the game in your game folder
+
+ This method has helped many players solve the Unreal Game crashes. If you don’t know the exact installation location of your game, here’s how to do it:
+
+ 1) Go to your game folder (it depends, for me is**D:\\Steam\\SteamApps\\common\\OUTRIDERS Demo** ). Or you can browse the game folder in Steam.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/browse.jpg)
+
+ 2) Right-click**OUTRIDERS-Win64-Shipping** and select**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-game-exe.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+ 3) Go to the**Compatibility** tab, and check**Run this program as an administrator** .
+
+ 4) Launch the game from the exe.
+
+ Granting enough access and running the game directly worked for many other players. If Outriders is still crashing with ‘Unreal process has crashed: UE4-Madness error’, you can try the fix below.
+
+### 6\. Allow your game to run through Firewall
+
+ If the issue persists, you can check if it’s caused by an over-protective Firewall or your Antivirus software (you can temporarily uninstall your antivirus software). To make sure the Windows Defender Firewall is not blocking your game, here’s how:
+
+1) On your keyboard, press the Windows + R key at the same time.
+
+2) Type**firewall.cpl** in the box, and press**Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
+
+ 3) On the left pane, click**Allow an app or feature through Windows Defender Firewall** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/allow-firewall.jpg)
+
+ 4) Now you can click**Change settings** and scroll down to Outriders to make sure the**Private** and**Public** boxes are both checked.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/allowed.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
+ 5) If Outriders is not on the list, you can select**Allow another app..** . and then add your Outriders.
+
+ Now you can launch your game again to check the ‘Unreal process has crashed: UE4-Madness error’ is gone.
+
+---
+
+ There you have it – six possible solutions for the Unreal Engine error in Outriders. If unfortunately, none of these workarounds above fixed your issue, you can wait for the next game patch.
+
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-fun-for-the-whole-family-revisiting-a-goofy-movie/"><u>[New] 'Fun for the Whole Family'  Revisiting a 'Goofy Movie'</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-amplifying-your-playlists-on-instagram/"><u>[New] Amplifying Your Playlists on Instagram</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-exclusive-tools-to-elevate-your-horizontal-and-vertical-igtv-posts-for-2024/"><u>[New] Exclusive Tools to Elevate Your Horizontal and Vertical IGTV Posts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-step-by-step-methods-for-iphone-screen-capture/"><u>[New] Step-by-Step Methods for iPhone Screen Capture</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-virtual-zoos-galore-androids-best-animal-games-for-2024/"><u>[New] Virtual Zoos Galore  Android's Best Animal Games for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-aim-for-affluence-enroll-now-in-youtubes-partner-programme/"><u>[Updated] Aim for Affluence  Enroll Now in YouTube's Partner Programme</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-infographic-spotlight-on-emerging-23-trends/"><u>[Updated] Infographic Spotlight on Emerging '23 Trends</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-for-truly-tuning-into-your-iphone-podcasts/"><u>[Updated] Tips for Truly Tuning Into Your iPhone Podcasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-benq-bl2711u-review-the-zenith-of-high-definition-professional-monitors/"><u>2024 Approved  BenQ BL2711U Review  The Zenith of High-Definition Professional Monitors</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-heartfelt-goodbyes-free-or-subscribed-video-endings/"><u>2024 Approved  Heartfelt Goodbyes  Free or Subscribed Video Endings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-visual-storytelling-in-business-marketing/"><u>2024 Approved  Visual Storytelling in Business Marketing</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragon-age-origins-solved-game-stability-for-windows-11-operating-system/"><u>Dragon Age: Origins - Solved Game Stability for Windows 11 Operating System</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-steps-to-fix-your-discord-setup-hurdles/"><u>Effortless Steps to Fix Your Discord Setup Hurdles</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-co-op-connectivity-issues-how-to-get-online-play-running-smoothly-again/"><u>Elden Ring Co-Op Connectivity Issues - How to Get Online Play Running Smoothly Again</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-video-consumption-constructing-an-ideal-watch-later-list-on-youtube-for-2024/"><u>Elevate Video Consumption  Constructing an Ideal 'Watch Later' List on YouTube for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/elite-dangerous-pc-version-stability-improvements-no-more-crashes/"><u>Elite Dangerous PC Version Stability Improvements – No More Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-racing-adventure-updating-gpu-driver-in-forza-horizon-5/"><u>Enhance Your Racing Adventure: Updating GPU Driver in Forza Horizon 5</u></a></li>
+<li><a href="https://win-able.techidaily.com/everspace-2-stability-enhanced-top-tips-for-a-seamless-gaming-session-on-your-computer/"><u>Everspace #2 Stability Enhanced: Top Tips for a Seamless Gaming Session on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-errors-what-to-do-when-qbittorrent-performance-drops/"><u>Fixing Errors: What to Do When qBittorrent Performance Drops</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-pc-game-stability-issues-heres-how-you-fixed-it/"><u>Fortnite PC Game Stability Issues? Here's How You Fixed It!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-persistent-startup-problems-in-the-cold-war-game-tips-for-xbox-and-pc-gamers/"><u>How to Resolve Persistent Startup Problems in the Cold War Game - Tips for Xbox and PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-windows-critical-error-ntdlldll-failed-to-load-on-pc/"><u>How to Resolve Window's Critical Error: ntdll.dll Failed To Load on PC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-exploring-cinema-best-filming-cameras-from-35mm-to-point-and-shoot/"><u>In 2024, Exploring Cinema  Best Filming Cameras From 35Mm to Point-and-Shoot</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-navigating-instagram-the-essential-guide-to-mastering-reels/"><u>In 2024, Navigating Instagram  The Essential Guide to Mastering Reels</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-honor-play-40c-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Honor Play 40C Location | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/instantly-resolve-gamepad-issues-say-goodbye-to-constant-disconnects/"><u>Instantly Resolve Gamepad Issues - Say Goodbye to Constant Disconnects</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/jumpstart-your-latvian-language-learning-today/"><u>Jumpstart Your Latvian Language Learning Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-low-frames-per-second-in-dayz-fast-and-easy-solutions-for-gamers/"><u>Master Low Frames Per Second in DayZ: Fast and Easy Solutions for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-game-crashing-here-are-8-proven-fixes-for-marvels-guardians-of-the-galaxy-issues/"><u>PC Game Crashing? Here Are 8 Proven Fixes for Marvel's Guardians of the Galaxy Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/r-type-final-groo-how-to-prevent-pc-game-from-unexpectedly-shutting-down/"><u>R-Type Final Groo: How to Prevent PC Game From Unexpectedly Shutting Down</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-starting-problems-heres-how-you-can-get-the-game-running-smoothly-again/"><u>Rainbow Six Siege Starting Problems? Here's How You Can Get the Game Running Smoothly Again</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reconnecting-with-iphone-x-reviving-facial-biometrics-for-2024/"><u>Reconnecting with iPhone X  Reviving Facial Biometrics for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-baldurs-gate-3-launching-problem-on-pcmac/"><u>Resolving Baldur's Gate 3 Launching Problem on PC/MAC</u></a></li>
+<li><a href="https://win-able.techidaily.com/revive-your-steam-vr-experience-quick-fixes-if-its-not-detected-by-system/"><u>Revive Your Steam VR Experience: Quick Fixes if It's Not Detected by System</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-eliminate-the-unwanted-black-screens-in-hitman-3-on-windows/"><u>Step-by-Step Guide to Eliminate the Unwanted Black Screens in Hitman 3 on Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-12-pro-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 12 Pro 5G FRP</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-thunder-tier-1s-stability-problems-a-guide-to-preventing-in-game-collapses-on-desktops/"><u>Tackling Thunder Tier 1'S Stability Problems: A Guide to Preventing In-Game Collapses on Desktops</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-no-user-logged-in-issue-in-cs-go/"><u>Top 5 Solutions for Resolving 'No User Logged In' Issue in CS: GO</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-nwstoreexe-software-failures-effectively/"><u>Troubleshooting and Solving NW_store.exe Software Failures Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-does-my-new-world-game-keep-freezing-solve-the-mystery/"><u>Why Does My 'New World' Game Keep Freezing? Solve the Mystery</u></a></li>
+</ul></div>
