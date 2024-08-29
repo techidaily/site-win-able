@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft Excel: A Comprehensive Guide on Leveraging the Subtotal Formula"
-date: 2024-08-28 19:34:23
-updated: 2024-08-29 11:47:47
+date: 2024-08-28T05:23:40.387Z
+updated: 2024-08-29T05:23:40.387Z
 tags:
   - excel
 categories:
@@ -65,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 ![Basic subtotal formula in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/BasicFormula-ExcelSubtotal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For this next example, we hid rows 4 and 5\. Using this first formula, we can obtain our sum using the number 9 for the first argument to include the hidden data.
 
 =SUBTOTAL(9,B2:B6)
@@ -93,6 +96,9 @@ Related: [How to Sum a Column in Microsoft Excel](https://techtrends.techidaily.
 
 ![SUBTOTAL function excluding hidden rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/AverageExcludeHidden-ExcelSubtotal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ###  Notes on the SUBTOTAL Function
 
  Here are a few things to keep in mind when using the SUBTOTAL function in Excel:
@@ -113,6 +119,9 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
 
 ![Subtotal in the Outline menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/OutlineSubtotal-ExcelSubtotal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
  When the Subtotal box opens, choose how you want to add the subtotals.
 
 * **At Each Change In** **:** Select the column you want to use for the grouping. Here, we picked Month so that a new group is created when the Month changes in the sheet.
@@ -123,6 +132,9 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
 
 ![Subtotal settings for the Sum function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalSettingsSum-ExcelSubtotal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
  You'll then see your data update to group _and_ subtotal the rows and create a grand total at the bottom. Use the plus, minus, and number buttons to collapse or expand the groups for easier viewing.
 
 ![Subtotal for the Sum function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalSum-ExcelSubtotal.png) 
@@ -135,14 +147,23 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
 
 ![Subtotal settings for the Average function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalSettingsAverage-ExcelSubtotal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We now have our rows grouped by student with an average grade for each and an overall average at the bottom. Again, you can use the buttons on the left to collapse and expand the groups.
 
 ![Subtotal for the Average function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalAverage-ExcelSubtotal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
  If you decide to ungroup the rows after you use the Subtotal feature, the rows return to normal. However, those containing the SUBTOTAL function used by Excel remain for you to continue using or simply delete if you prefer.
 
 ![Subtotal average for ungrouped rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalAverageUngrouped-ExcelSubtotal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
  The Subtotal feature can become complex if you plan to use many groups. However, these basic examples should help get you started if you're interested in this function.
 
  One thing to note is that you can't [add an Excel table](https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/) subtotal with this feature. If you have your data in a table, you can either insert the Excel formula for SUBTOTAL as described earlier or [convert your table to a cell range](https://video-capture.techidaily.com/new-2024-approved-revolutionize-your-laptop-experience-innovative-methods-for-screen-capture/) to use the feature. If you choose the latter, you'll lose the table functionality.
@@ -169,3 +190,49 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/sons-of-the-forest-sudden-shutdowns-on-pc-diagnosis-and-solutions-explained/"><u>'Sons of the Forest' Sudden Shutdowns on PC: Diagnosis & Solutions Explained</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlock-free-youtube-introend-customization/"><u>[New] Unlock Free YouTube Intro/End Customization</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-reviving-cut-off-livestreams-solving-facebook-streaming-hiccups/"><u>[Updated] 2024 Approved  Reviving Cut-Off Livestreams  Solving Facebook Streaming Hiccups</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-clones-playbook-secrets-to-mirror-success-on-the-tiktok-sphere-for-2024/"><u>[Updated] The Clone's Playbook  Secrets to Mirror Success on the TikTok Sphere for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-essentials-of-youtubes-latest-payment-policy/"><u>[Updated] The Essentials of YouTube's Latest Payment Policy</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-how-to-safely-capture-your-favorite-youtube-audio-for-free/"><u>2024 Approved  How to Safely Capture Your Favorite YouTube Audio for Free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-infinix-smart-7-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Infinix Smart 7 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ark-software-bug-fixes-resolving-common-stability-problems/"><u>ARK Software Bug Fixes: Resolving Common Stability Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-buffering-pro-tips-for-optimizing-your-pcs-performance-in-street-fighter-6/"><u>Beat the Buffering: Pro Tips for Optimizing Your PC's Performance in Street Fighter 6</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/behind-the-scenes-with-vlc-player-features-for-2024/"><u>Behind the Scenes with VLC Player Features for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/black-screen-issue-resolution-tactics-covered-here/"><u>Black Screen Issue Resolution Tactics Covered Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-download-speeds-on-ubisoft-connect-platforms/"><u>Boosting Download Speeds on Ubisoft Connect Platforms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-find-x7-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Find X7</u></a></li>
+<li><a href="https://win-able.techidaily.com/directx-errors-in-fifa-19-heres-how-to-fix-them-quickly-and-efficiently/"><u>DirectX Errors in FIFA 19? Here's How to Fix Them Quickly and Efficiently</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-address-apex-legends-networking-glitches/"><u>Effective Solutions to Address Apex Legends Networking Glitches</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-advice-fresh-driver-updates-for-corsair-headset-and-microphone-combo-on-windows-systems/"><u>Expert Advice: Fresh Driver Updates for Corsair Headset & Microphone Combo on Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-eliminating-mordhaus-crash-bug-for-smooth-gaming/"><u>Expert Guide: Eliminating Mordhau's Crash Bug for Smooth Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-fixing-unable-to-connect-to-configuration-services-problems/"><u>Expert Tips on Fixing 'Unable to Connect to Configuration Services' Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-stop-your-horizon-forbidden-west-100-edition-from-freezing-on-windows-and-mac/"><u>Expert Tips to Stop Your Horizon Forbidden West 100%% Edition From Freezing on Windows and Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-prevent-enshrouded-title-crashes-in-your-windows-gaming-experience/"><u>Guide to Prevent Enshrouded Title Crashes in Your Windows Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-resolve-no-sound-problems-in-fallout-n-4-for-windows-users/"><u>Guide to Resolve No Sound Problems in Fallout N 4 for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005175065-how-to-overcome-unloading-twitch-broadcasts-discover-7-essential-fixes/"><u>How to Overcome Unloading Twitch Broadcasts? Discover 7 Essential Fixes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-nova-y91-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Nova Y91</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-12-mini-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 12 mini with a Broken Screen?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-choreographies-to-filters-a-comparison-of-content-creation-on-tiktok-and-snap/"><u>In 2024, From Choreographies to Filters  A Comparison of Content Creation on TikTok & Snap</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/initiating-a-thriving-youtube-channel-avoid-these-8-essential-blunders-in-2024/"><u>Initiating a Thriving YouTube Channel? Avoid These 8 Essential Blunders, In 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/mount-and-blade-ii-bannerlord-how-to-fix-and-prevent-game-crashing-issues/"><u>Mount & Blade II: Bannerlord - How to Fix and Prevent Game Crashing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-staring-at-darkness-effective-fixes-for-elden-rings-black-screen-hurdle/"><u>No More Staring at Darkness: Effective Fixes for Elden Ring's Black Screen Hurdle</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-continuous-crashes-in-tower-of-fantasy-game-on-your-computer/"><u>Resolved: How to Fix Continuous Crashes in Tower of Fantasy Game on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-pc-issues-comprehensive-guide-to-avoiding-lost-ark-game-crashes/"><u>Resolving PC Issues: Comprehensive Guide to Avoiding Lost Ark Game Crashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-available-display-preferences-on-nvidia/"><u>Restoring Available Display Preferences on NVIDIA</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-icloud-images-the-ultimate-7-tips-for-syncing-photos-back-onto-your-iphone-seamlessly/"><u>Reviving iCloud Images: The Ultimate 7 Tips for Syncing Photos Back Onto Your iPhone Seamlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/rust-debugging-guide-effective-solutions-for-unresponsive-codes/"><u>Rust Debugging Guide: Effective Solutions for Unresponsive Codes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-city-building-game-crashes-expert-fixes-and-strategies/"><u>Solve Your City Building Game Crashes: Expert Fixes and Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-valorant-lag-issues-optimize-performance-on-pc-2024-edition/"><u>Solving Valorant Lag Issues - Optimize Performance on PC, 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-secret-to-preventing-star-wars-squadron-clashes-a-comprehensive-guide-for-gamers/"><u>The Secret to Preventing Star Wars Squadron Clashes - A Comprehensive Guide for Gamers.</u></a></li>
+<li><a href="https://win-able.techidaily.com/tower-of-fantasy-on-pc-ultimate-fix-guide-to-stop-the-constant-crashing/"><u>Tower of Fantasy on PC - Ultimate Fix Guide to Stop the Constant Crashing!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-stop-chrome-from-locking-up-in-windows-11-quickly/"><u>Troubleshoot and Stop Chrome From Locking Up in Windows 11 Quickly</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-cities-skylines-game-crashes-a-comprehensive-tips-list/"><u>Ultimate Fixes for Cities: Skylines Game Crashes - A Comprehensive Tips List</u></a></li>
+<li><a href="https://win-able.techidaily.com/waste-disposal/"><u>Waste Disposal</u></a></li>
+</ul></div>

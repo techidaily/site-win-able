@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Formula: Easily Computing Your or Someone's Age Using Excel"
-date: 2024-08-27 20:39:24
-updated: 2024-08-29 12:46:23
+date: 2024-08-28T05:23:10.431Z
+updated: 2024-08-29T05:23:10.431Z
 tags:
   - excel
 categories:
@@ -59,6 +59,9 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![A sample spreadsheet to find age in months in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/5-age-months-spreadsheet.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
  In this spreadsheet, we'll click the C2 cell where we want to display the age in months.
 
 ![Click the C2 cell in the spreadsheet in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/6-c2-cell.png) 
@@ -73,6 +76,13 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Age in months in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/8-age-months-answer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  How to Calculate Age in Days
 
  Excel's `DATEDIF` function is so powerful that you can use it to find someone's age in days as well.
@@ -91,12 +101,26 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Type =DATEDIF(B2,TODAY(),"D") in the C2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/11-enter-day-formula.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
  Press Enter and you'll see the age in days in the C2 cell.
 
 ![Age in days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/12-age-days-answer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
  You can use Excel to [add and subtract dates](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-s17-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/), too.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  How to Calculate Age in Years, Months, and Days at the Same Time
 
  To display someone's age in years, months, and days at the same time, use the `DATEDIF` function with all the arguments combined. You can also [combine text from multiple cells into one cell](https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/) in Excel.
@@ -105,12 +129,18 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![A sample spreadsheet to find age in years, months, and days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/13-age-combination-spreadsheet.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In this spreadsheet, we'll click the C2 cell, type the following function, and press Enter:
 
 =DATEDIF(B2,TODAY(),"Y") & " Years " & DATEDIF(B2,TODAY(),"YM") & " Months " & DATEDIF(B2,TODAY(),"MD") & " Days"
 
 ![Enter =DATEDIF(B2,TODAY(),"Y") & " Years " & DATEDIF(B2,TODAY(),"YM") & " Months " & DATEDIF(B2,TODAY(),"MD") & " Days" in the C2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/14-enter-age-formula.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the C2 cell, you'll see the age in years, months, and days.
 
 ![Age in years, months, and days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/15-age-combination-answer.png) 
@@ -133,6 +163,9 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Enter =DATEDIF(B2,C2,"Y") in the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/18-enter-specific-formula.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  Press Enter and you'll see the age in years in the D2 cell.
 
 ![Age on a specific date in the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/19-specific-formula-answer.png) 
@@ -163,3 +196,52 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/last-epoch-crash-on-pc-master-the-art-of-fixing-with-our-comprehensive-guide-to-solutions-featuring-latest-insights-from-2-top-developer-troubleshooting-tec547/"><u>'Last Epoch Crash' On PC? Master the Art of Fixing with Our Comprehensive Guide to Solutions - Featuring Latest Insights From 2# Top Developer Troubleshooting Techniques: End 'Last Epoch' Malfunctions for Good in Your Personal and Work Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-red-dead-online-crashing-on-pc/"><u>[Solved] Red Dead Online Crashing on PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-audacitys-guide-to-effortless-audio-transitions/"><u>[Updated] Audacity's Guide to Effortless Audio Transitions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-bridging-the-gap-youtube-editing-mastered-in-imovie-workflows/"><u>[Updated] Bridging the Gap  YouTube Editing Mastered in iMovie Workflows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-v30-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-blues-with-madden-nfl-20-solve-common-pc-compatibility-crashes-now/"><u>Beat the Blues with Madden NFL '20 - Solve Common PC Compatibility Crashes Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-guide-solving-cannot-launch-far-cry-6-on-computer/"><u>Complete Guide: Solving 'Cannot Launch Far Cry 6 on Computer'</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-for-pc-users-experiencing-game-crashes-with-madden-nfl-20/"><u>Comprehensive Solutions for PC Users Experiencing Game Crashes with Madden NFL 20</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/discover-the-joy-of-real-time-broadcasting-with-fb-and-roku/"><u>Discover the Joy of Real-Time Broadcasting with FB & Roku</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-system-reactivated-post-failure/"><u>Display System Reactivated Post-Failure</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-s24-ultra-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Samsung Galaxy S24 Ultra in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-resolving-steams-error-in-connecting-locally/"><u>Expert Advice on Resolving Steam's Error in Connecting Locally</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-thx-spatial-audio-malfunction-in-windows-11-and-10/"><u>Fixes for 'THX Spatial Audio' Malfunction in Windows 11 and 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-implemented-overcoming-death-stranding-pc-game-crash-issues/"><u>Fixes Implemented: Overcoming 'Death Stranding' PC Game Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-risk-of-rain-2-crash-issue-expert-solutions/"><u>Fixing the 'Risk of Rain 2' Crash Issue: Expert Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994139816-genshin-impact-boot-up-problems-here-are-5-simple-remedies/"><u>Genshin Impact Boot-Up Problems? Here Are 5 Simple Remedies!</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-correcting-internet-explorers-inability-to-display-web-content/"><u>Guide: Correcting Internet Explorer's Inability to Display Web Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-hogsitters-legacy-freezing-glitch-a-step-by-step-solution/"><u>How to Fix Hogsitters Legacy Freezing Glitch : A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-microsoft-flight-simulator-2020-when-it-wont-update/"><u>How to Fix Microsoft Flight Simulator 2020 When It Won't Update</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-zte-axon-40-lite-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from ZTE Axon 40 Lite to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-lava-blaze-2-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Lava Blaze 2 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-z-fold-5-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy Z Fold 5 Phone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-master-mac-gif-archiver/"><u>In 2024, Master Mac GIF Archiver</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-trailblazing-technique-use-apple-watch-for-mac/"><u>In 2024, Trailblazing Technique  Use Apple Watch for Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-lol-gameplay-solving-your-frame-rate-drop-problems-easily/"><u>Mastering LoL Gameplay: Solving Your Frame Rate Drop Problems Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-tv-maintenance-remedies-for-frequent-electronic-glitches/"><u>Mastering Tv Maintenance: Remedies for Frequent Electronic Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-image-crisis-solved-sharper-graphics-unveiled-for-players/"><u>Outriders Image Crisis Solved: Sharper Graphics Unveiled for Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stuttering-issues-solutions-to-prevent-warzone-20-from-crashing-on-windows-computers/"><u>Overcoming Stuttering Issues – Solutions to Prevent Warzone 2.0 From Crashing on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/praey-fixed-issues-with-stability-and-no-more-crashes-on-windows-computers/"><u>Praey: Fixed Issues with Stability and No More Crashes on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/pro-level-solutions-for-a-seamless-sims-4-on-pc-lag-troubleshooting-guide-updated/"><u>Pro-Level Solutions for a Seamless Sims #4 on PC – Lag Troubleshooting Guide (Updated )</u></a></li>
+<li><a href="https://windows11.techidaily.com/quash-insufficient-requirement-notice-windows-11/"><u>Quash Insufficient Requirement Notice Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-how-to-resolve-winwordexe-software-issues/"><u>Quick Solutions: How to Resolve WINWORD.EXE Software Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/rapid-fixes-overcome-slowdown-problems-in-assassins-creed-valhalla-easily/"><u>Rapid Fixes: Overcome Slowdown Problems in Assassin's Creed: Valhalla Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/revive-the-roar-of-the-wasteland-fixing-sound-issues-in-fallout-4-on-desktop-systems/"><u>Revive the Roar of the Wasteland: Fixing Sound Issues in Fallout 4 on Desktop Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/screenflow-extensive-review-unveiling-the-mac-experience/"><u>ScreenFlow Extensive Review  Unveiling the Mac Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-launch-problems-in-dota-2-overcoming-loading-screen-freezes-and-game-failures/"><u>Solving Launch Problems in Dota 2: Overcoming Loading Screen Freezes and Game Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-techniques-to-resolve-hitches-and-amplify-performance-metrics-in-valorant/"><u>Step-by-Step Techniques to Resolve Hitches & Amplify Performance Metrics in Valorant</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-prevent-recurring-glitches-and-crashes-in-valorant-on-desktop-computers/"><u>Steps to Prevent Recurring Glitches and Crashes in Valorant on Desktop Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-stop-palworld-from-frequently-freezing-or-crashing-on-pc/"><u>Steps to Stop PalWorld From Frequently Freezing or Crashing on PC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-nba-2k19-game-ultimate-virtual-basketball-experience/"><u>Top NBA 2K19 Game: Ultimate Virtual Basketball Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-fix-path-of-exile-stuttering-effective-solutions-shared/"><u>Troubleshoot & Fix Path of Exile Stuttering: Effective Solutions Shared</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007673609-troubleshooting-masterclass-eliminate-among-us-crashing-problems-in-the-new-year-2024/"><u>Troubleshooting Masterclass: Eliminate 'Among Us' Crashing Problems in the New Year, 2024!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-real-time-lag-issues-when-using-obs-for-livestreamingrecording/"><u>Troubleshooting Real-Time Lag Issues When Using OBS for Livestreaming/Recording</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-to-prevent-fortnite-from-freezing-and-crashing-on-pcs/"><u>Ultimate Solution to Prevent Fortnite From Freezing and Crashing on PCs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/understanding-subscription-tiers-youtube-tv-explained-for-2024/"><u>Understanding Subscription Tiers  YouTube TV Explained for 2024</u></a></li>
+</ul></div>
