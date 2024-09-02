@@ -1,0 +1,204 @@
+---
+title: Fixing High Input Delay in Your Gameplay of Cyberpunk 2#Dark Dreams Digital - Official Site for CD Projekt Red Games, Witcher Series, Cyberpunk 2077, and More!
+date: 2024-09-01T08:11:13.048Z
+updated: 2024-09-02T08:11:13.048Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Fixing High Input Delay in Your Gameplay of Cyberpunk 2#Dark Dreams Digital - Official Site for CD Projekt Red Games, Witcher Series, Cyberpunk 2077, and More!
+excerpt: This Article Describes Fixing High Input Delay in Your Gameplay of Cyberpunk 2#Dark Dreams Digital - Official Site for CD Projekt Red Games, Witcher Series, Cyberpunk 2077, and More!
+thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d7819f0fe370579d848f9daaea.jpg
+---
+
+## Fatal Issues Resolved: Optimizing Gameplay and Stability for Tales of Arise in Unreal Engine # User: I've Overcome the Major Issues with 'Tales of Arise' Running on Unreal Engine 4
+
+Many Tales of Arise players have reported getting a fatal error, which leads the game to crash. It’s a known issue related to Unreal Engine 4, and luckily there are some fixes for it. Before the developers address this issue and release an official patch, you can try the workarounds in this article.
+
+## Try these fixes…
+
+ You don’t have to try them all, just work your way down until you find the one that does the trick!
+
+[1: Verify game files integrity](https://tools.techidaily.com/drivereasy/download/)
+
+[2: Install the latest Windows updates](https://tools.techidaily.com/drivereasy/download/)
+
+[3: Check your antivirus software](https://tools.techidaily.com/drivereasy/download/)
+
+[4: Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)
+
+[5: Reinstall Microsoft Visual C++ Redistributable](https://tools.techidaily.com/drivereasy/download/)
+
+[6: Disable overclocking and overlays](https://tools.techidaily.com/drivereasy/download/)
+
+ Before we dive into anything advanced, try restarting the game and your PC to see if it was just a glitch.
+
+## Fix 1: Verify game files integrity
+
+ Incomplete or damaged local game files can trigger the fatal error and cause the game to crash. To verify and fix this issue, you can do it via the Steam client. Here’s how:
+
+1. Open your Steam library and find Tales of Arise. Right-click the game and click**Properties.**  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
+2. In the**Local files** tab, click**Verify integrity of game files** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-2.jpg)
+3. Steam will scan the game files in your local game folder and compare them with those on the server. If anything seems wrong, Steam will fix it for you.
+4. Once the scan is done, restart the game.
+
+ If you’ve verified your game files but still get the UE4 fatal error crash, try the next fix.
+
+## Fix 2: Install the latest Windows updates
+
+ Keeping your system up-to-date may solve, or at least help prevent some compatibility issues that can trigger the fatal error. Here’s how to install the latest Windows updates:
+
+ If your system isn’t updated regularly, there could be compatibility issues that cause the game to crash. Make sure that you always install the available updates. Here’s how:
+
+1. In the search bar on your taskbar, type**update** , then click C**heck for updates** .  
+ (If you don’t see the search bar, click the Start button and you’ll find it in the pop-up menu.)  
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
+2. Windows will scan for available updates. If there aren’t any, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
+3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
+4. Restart your PC to let it take effect.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+ If installing the Windows updates doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 3: Check your antivirus software
+
+ Antivirus software may interfere with games and cause a fatal error crash. Try temporarily disabling the antivirus software on your PC if you use any, then run the game and test the issue.
+
+ If you don’t get the fatal error message anymore, then your antivirus might be the problem. You can either add Tales of Arise and Steam to the whitelist of your antivirus or consult the antivirus supplier company for help. If you decide to completely get rid of your antivirus, be cautious and avoid downloading files from the internet for safety concerns.
+
+If this doesn’t solve your problem, try the next fix.
+
+## Fix 4: Update your graphics driver
+
+ An up-to-date graphics driver is essential for UE4-based games like Tales of Arise. If your graphics driver is outdated or faulty, it may cause fatal errors and game crashes. You may want to make sure yours is up-to-date and functioning properly.
+
+ There are two ways to keep your graphics driver up-to-date. One is to manually update it[via Device Manager](https://tools.techidaily.com/drivereasy/download/) . If Windows doesn’t have the latest available version of the driver you need, you can search for it on the manufacturer’s website. Be sure to choose only the driver that is compatible with your Windows version.
+
+* [NVIDIA](https://tools.techidaily.com/drivereasy/download/)
+* [INTEL](https://downloadcenter.intel.com/product/80939/Graphics)
+* [AMD](https://www.amd.com/en/support)
+* [Asus](https://www.asus.com/support/Download-Center/)
+
+**Automatic driver update** – If you don’t have the time, patience, or computer skills to update your driver manually, you can, instead, do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system and find the correct driver for your exact graphics card and your Windows version, then it will download and install it correctly:
+
+1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
+3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Restart your PC for the new driver to take effect. If updating the graphics driver doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 5: Reinstall Microsoft Visual C++ Redistributable
+
+ Some players were able to solve the problem by reinstalling the Microsoft Visual C++ Redistributable files on their PC. These files are essential for games and if they are corrupt, it may interfere with UE4 and cause a fatal error crash. Here’s how to reinstall it:
+
+1. Navigate to   **C: Program Files (x86)SteamsteamappscommonSteamworks Shared\\\_CommonRedistvcredist** .
+2. You may see a few**folders named 20xx** . On my PC they are 2012, 2013, and 2019.
+3. Open each folder and run the following executable files in these folders. (If you have different folders, run the vc\_redist.x64.exe in those folders.)  
+
+ **2012vc\_redist.x64.exe**  
+ **2013vc\_redist.x64.exe**  
+ **2019vc\_redist.x64.exe**
+4. Reboot your PC.
+
+ If reinstalling Microsoft Visual C++ Redistributable doesn’t give you luck, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## Fix 6: Disable overclocking and overlays
+
+ UE4-built games are prone to fatal errors when players overclock their GPU, since the game engine doesn’t support overclocked graphics cards that well. If you’re using MSI Afterburner or other overclocking software for Tales of Arise, try to disable it then test the issue.
+
+ You may also want to turn off the overlays since they may cause performance issues in-game and trigger the fatal error. Some common ones include Steam, Twitch, Zoom, Discord, and Geforce Experience. Try disabling these program overlays then run Tales of Arise to see if you still get a fatal error crash.
+
+---
+
+ Hopefully this article helps! Please feel free to leave a comment if you have any questions or suggestions.
+
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [game error](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-channel-title-genius-ideas-for-your-video-hub-for-2024/"><u>[New] Channel Title Genius  Ideas for Your Video Hub for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-steps-to-skip-the-water-stained-stock-photos/"><u>[New] Steps to Skip the Water-Stained Stock Photos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-hd-lens-guide-for-pro-level-cinematography/"><u>[Updated] 2024 Approved  Ultimate HD Lens Guide for Pro-Level Cinematography</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-the-moment-a-guide-to-superior-webcam-recorders/"><u>[Updated] Capture the Moment - A Guide to Superior WebCam Recorders</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-boosting-conversions-with-immersive-fb-video-campaigns/"><u>[Updated] In 2024, Boosting Conversions with Immersive FB Video Campaigns</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-earn-on-youtube-beginners-path-to-profitability/"><u>[Updated] In 2024, Earn on YouTube  Beginner's Path to Profitability</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-insiders-guide-to-preserving-whatsapp-chat-history-for-2024/"><u>[Updated] The Insider's Guide to Preserving WhatsApp Chat History for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/cold-war-woes-in-cod-black-ops-resolving-gameplay-issues-without-cost/"><u>Cold War Woes in COD: Black Ops - Resolving Gameplay Issues Without Cost</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-chaos-in-your-strategy-game-hearts-of-iron-the-end-to-system-errors/"><u>Conquer Chaos in Your Strategy Game: Hearts of Iron The End to System Errors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/digital-revolution-integrating-dslr-into-online-platforms-from-home-pcsmacs/"><u>Digital Revolution  Integrating DSLR Into Online Platforms From Home PCs/Macs</u></a></li>
+<li><a href="https://win-able.techidaily.com/elite-gamers-only-defeat-grounded-pc-performance-problems-with-these-latest-strategies/"><u>Elite Gamers Only: Defeat 'Grounded' PC Performance Problems with These Latest Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/epa-2018-glyphosate-retrieved-from-(httpswwwepagovingredients-used-pesticide-productsglyphosate)/"><u>EPA (2018). Glyphosate. Retrieved From <https://www.epa.gov/ingredients-used-pesticide-products/glyphosate></u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-overcoming-dragon-age-origins-crashing-woes-in-windows-10/"><u>Expert Advice: Overcoming Dragon Age: Origins' Crashing Woes in Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-to-overcoming-the-crash-dilemma-of-thunder-tier-one-while-playing-on-your-desktop/"><u>Expert Guide to Overcoming the Crash Dilemma of Thunder TIER One While Playing on Your Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-stop-sovled-warno-from-continuously-crashing-on-your-pc/"><u>Fixes & Solutions: How to Stop [SOVLED] Warno From Continuously Crashing on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-tips-eliminating-fps-dips-and-lags-in-call-of-duty-black-ops-4/"><u>Fixes & Tips: Eliminating FPS Dips & Lags in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-installed-overcoming-blackwood-dlc-issues-in-the-elder-scrolls-online/"><u>Fixes Installed: Overcoming Blackwood DLC Issues in The Elder Scrolls Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-crash-bug-in-football-manager-2019-for-a-seamless-gaming-experience/"><u>Fixing the Crash Bug in Football Manager 2019 for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/gtfo-fixes-implemented-tackling-sudden-lag-drops-reducing-stutter-in-gameplay-and-enhancing-system-responsiveness/"><u>GTFO Fixes Implemented: Tackling Sudden Lag Drops, Reducing Stutter in Gameplay and Enhancing System Responsiveness</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999961120-half-life-alyx-optimization-guide-stop-the-lag-and-frame-drops-now/"><u>Half-Life: Alyx Optimization Guide - Stop the Lag and Frame Drops Now</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-sony-xperia-10-v-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Sony Xperia 10 V Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimize-performance-mac-screen-recording-made-easy/"><u>In 2024, Optimize Performance  Mac Screen Recording Made Easy</u></a></li>
+<li><a href="https://fox-that.techidaily.com/issues-with-your-iphones-adaptive-brightness-here-are-seven-fixes-that-work/"><u>Issues with Your iPhone's Adaptive Brightness? Here Are Seven Fixes That Work</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915403078-masterclass-how-to-successfully-update-and-maintain-device-drivers-in-windows-cuhmmm/"><u>Masterclass: How to Successfully Update and Maintain Device Drivers in Windows Cuhmmm</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-your-matches-the-definitive-guide-to-overcoming-fps-drops-in-valorant-tips-and-tricks/"><u>Maximize Your Matches: The Definitive Guide to Overcoming FPS Drops in Valorant - Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/nox-emulator-instability-on-desktops-identifying-and-fixing-persistent-issues/"><u>Nox Emulator Instability on Desktops: Identifying and Fixing Persistent Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-optimization-tips-for-a-stable-playthrough-of-final-fantasy-xv/"><u>PC Optimization Tips for a Stable Playthrough of Final Fantasy XV</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-the-unresponsive-epic-games-launcher-problem/"><u>Quick Fixes for the Unresponsive Epic Games Launcher Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-cold-snap-issues-in-call-of-duty-black-ops-cold-war-a-comprehensive-guide/"><u>Resolving Cold Snap Issues in Call of Duty: Black Ops Cold War - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010881148-sea-of-thieves-stuck-on-loading-screen-heres-how-to-get-past-it/"><u>Sea of Thieves Stuck on Loading Screen? Here's How to Get Past It!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723006780892-shadowplay-recording-not-working-on-windows-try-these-proven-fixes/"><u>ShadowPlay Recording Not Working on Windows? Try These Proven Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-enabling-msi-afterburner-detection-for-gpus-on-latest-windows-operating-systems/"><u>Solution Guide: Enabling MSI Afterburner Detection for GPUs on Latest Windows Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fixing-persona-3-reload-pc-game-crashes/"><u>Solved: Fixing PERSONA 3 RELOAD PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-activating-and-setting-up-hyper-v-on-your-windows-10-pc/"><u>Step-by-Step Guide: Activating and Setting Up Hyper-V on Your Windows 10 PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-art-of-angling-images-a-comprehensive-instagram-rotation-handbook-for-2024/"><u>The Art of Angling Images  A Comprehensive Instagram Rotation Handbook for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-8-step-troubleshooting-guide-for-uninterrupted-vrchat-experience-on-windows/"><u>The Ultimate 8-Step Troubleshooting Guide for Uninterrupted VRChat Experience on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-your-mass-effect-legendary-edition-wont-start/"><u>Troubleshooting Guide: Why Your Mass Effect Legendary Edition Won't Start</u></a></li>
+<li><a href="https://extra-information.techidaily.com/understanding-the-price-tag-on-youtube-promo/"><u>Understanding the Price Tag on Youtube Promo</u></a></li>
+</ul></div>

@@ -1,0 +1,208 @@
+---
+title: Tackling the 'Detected Intrusion' Problem in Gaming Software
+date: 2024-09-01T08:06:25.268Z
+updated: 2024-09-02T08:06:25.268Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Tackling the 'Detected Intrusion' Problem in Gaming Software
+excerpt: This Article Describes Tackling the 'Detected Intrusion' Problem in Gaming Software
+thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcfecec9d6029a84b03a72309d.jpg
+---
+
+## Fixing the Freezing Problem in Dying Light's High-Octane Action
+
+If you got frame drops during the game for no reason, don’t worry, you’re not alone. This post has gathered all fixes that have been proved by other players.
+
+ If you’re playing with a laptop, make sure you plugged in and charging while you play. Playing with charing makes a huge difference. Also, make sure you’ve met the minimum system requirement.
+
+| **OS**               | Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit                  |
+| -------------------- | ---------------------------------------------------------------------------- |
+| **Processor**        | Intel® Core™ i5-2500 @3.3 GHz / AMD FX-8320 @3.5 GHz                         |
+| **Graphics**         | NVIDIA® GeForce® GTX 560 / AMD Radeon™ HD 6870 (1GB VRAM)                    |
+| **Memory**           | 4 GB RAM DDR3                                                                |
+| **Hard Drive**       | 40 GB free space                                                             |
+| **Additional Notes** | Laptop versions of graphics cards may work but are NOT officially supported. |
+
+## Try these fixes
+
+ You don’t have to try them all; just work your way down the list until you find the one that works for you.
+
+1. [Switch programs & move the game to SSD](https://tools.techidaily.com/drivereasy/download/)
+2. [Lower video settings](https://tools.techidaily.com/drivereasy/download/)
+3. [Change NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)
+4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
+5. [Change priority](https://tools.techidaily.com/drivereasy/download/)
+6. [Verify the game files](https://tools.techidaily.com/drivereasy/download/)
+
+## Fix 1: Switch programs & move the game to SSD
+
+ This tip is from a player who figured out if his frames drop, he can use the**Alt+Tab** shortcut to switch out and back in. After that, the game starts running flawlessly.
+
+ Did you install the game in HDD or SSD? We recommend installing the game on SSD so the problem might go.
+
+ Since the FPS issue varies from person to person, we can’t promise this tip is working for everyone, but it’s worth trying.
+
+## Fix 2: Lower video settings
+
+ Lowering some of the video settings would fix the FPS issue in some situations. Make sure you’ve closed all unnecessary programs running in the background before launching the game.
+
+| **Resolution**            | 1366X768 |
+| ------------------------- | -------- |
+| **Full Screen**           | OFF      |
+| **Borderless Window**     | ON       |
+| **Frame Rate Cap**        | UNCAPPED |
+| **View Distance**         | LOW      |
+| **Vsync**                 | OFF      |
+| **Nvidia Depth of Field** | OFF      |
+
+ It’s suggested to disable all NVIDIA options in the settings. These drain a lot of performance.
+
+If this fix doesn’t help, move to the next fix.
+
+## Fix 3: Change NVIDIA settings
+
+ If you have a NVIDIA graphic card, change the NVIDIA program settings would fix the issue.
+
+1. Open NVIDIA Control Panel. If you don’t have it,[download](https://www.microsoft.com/store/apps/9NF8H0H7WMLT) and install it.
+2. Click**Manage 3D Settings > Program settings** .
+3. Find Dying Light then select High performance NVIDIA processor.
+4. Click**Apply** to save changes.
+5. Reboot the game to check.
+
+If it doesn’t help, move to the next fix.
+
+## Fix 4: Update your driver
+
+ Graphic card and its driver are related to the FPS issue. The outdated or wrongly installed driver might be the culprit of the issue. Therefore, make sure you have the latest drivers installed on your computer is important. What’s more, updating your drivers would improve your computer performance.
+
+ There’re mainly 2 ways you can update your graphics driver: manually or automatically.
+
+#### Option 1: Update your graphics driver manually
+
+ You can spend some time updating drivers manually by visiting your GPU manufacturer’s official websites and search for the latest driver which suits your operating system.
+
+#### Option 2: Update your graphics driver automatically (Recommended)
+
+ If you don’t have the time, patience, or computer skills to update your video drivers manually, you can, instead, do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for your exact graphics card, and your Windows version, and it will download and install them correctly:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+## Fix 5: Change priority
+
+ Some players found changing the game priority would fix the FPS issue. Although some players said it’s a partial fix, it’s worth trying. Follow the steps below to get rid of the FPS drop issue.
+
+1. Press the**Ctrl + Shift + Esc** together to open Task Manager.
+2. Go to the**Details** tab and find the DyingLightGame.exe file.
+3. Right-click on it and select**Set priority > Realtime** or**High** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_16-56-17.jpg)
+4. Reboot the game and change Game Settings to**Windowed Full-Screen** mode.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
+5. Check the FPS.
+
+ Next time, check the priority settings in the Task Manager before you play. Because it sometimes changes back to Normal.
+
+If it’s not working, move to the next fix.
+
+## Fix 6: Verify the game files
+
+ Sometimes there’re some missing files that cause the FPS drop issue. You can fix it by Verify the game files.
+
+1. Launch Steam.
+2. Right-click on Dying Light and select**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_17-10-14.png)
+3. Click**LOCAL FILES** and click**Verify integrity of game files…**  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify.png)
+4. When the process is finished, reboot the game to check.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+
+If it’s not working, reinstall the game might help.
+
+---
+
+ That’s all the common fixes for Dying light FPS issues. If you still have the issue, contact Techland support ([support@techland.pl](https://tools.techidaily.com/drivereasy/download/) ) to see if they can offer any help.
+
+Hope this post helps and you can enjoy the game. Have fun!
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-first-choice-webcams-ready-for-zoom-mastery/"><u>[New] First Choice Webcams, Ready for Zoom Mastery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-complete-analysis-of-the-high-def-sony-fdr-x1000-videographer/"><u>[New] In 2024, Complete Analysis of the High-Def Sony FDR-X1000 Videographer</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-battlefront-2-long-load-times-on-pc/"><u>[Solved] Battlefront 2 Long Load Times on PC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-frontier-of-gesture-based-technology-advancements/"><u>[Updated] 2024 Approved  The Frontier of Gesture-Based Technology Advancements</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-premier-list-top-free-video-recorder-software-explored/"><u>[Updated] In 2024, Premier List - Top Free Video Recorder Software Explored</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unlock-the-power-of-montage-in-digital-media/"><u>[Updated] In 2024, Unlock the Power of Montage in Digital Media</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-next-gen-samsung-gear-360-finding-your-perfect-replacement/"><u>2024 Approved  The Next Gen Samsung Gear 360 - Finding Your Perfect Replacement</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997821483-common-issues-launching-resident-evil-village-resolve-them-now/"><u>Common Issues Launching Resident Evil Village - Resolve Them Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-vsco-image-enhancement-for-2024/"><u>Comprehensive Guide to VSCO Image Enhancement for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-the-realm-of-wealth-in-like-a-dragon-on-pc-top-techniques-revealed-for-unlimited-success/"><u>Conquer the Realm of Wealth in 'Like a Dragon' On PC: Top Techniques Revealed for Unlimited Success</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/deciphering-printer-alert-xf1/"><u>Deciphering Printer Alert #XF1</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-to-address-freezing-problems-while-playing-valheim-on-desktop/"><u>Expert Solutions to Address Freezing Problems While Playing Valheim on Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-display-issues-how-we-overcame-the-notorious-black-screen/"><u>Fixing Display Issues: How We Overcame the Notorious Black Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-resident-evil-village-game-crash-on-windows-machines/"><u>Fixing the Resident Evil Village Game Crash on Windows Machines</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-ensure-smooth-gaming-addressing-the-f1-2020-crash-problems-on-your-pc/"><u>How to Ensure Smooth Gaming - Addressing the F1 2020 Crash Problems on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-monster-hunter-stories-2-wings-of-ruin-when-it-refuses-to-launch-correctly/"><u>How to Fix Monster Hunter Stories 2: Wings of Ruin When It Refuses to Launch Correctly</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-gain-access-and-fix-the-permission-denied-for-fortnite-issue/"><u>How to Gain Access and Fix the 'Permission Denied for Fortnite' Issue</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-practices-for-stream-backgrounds/"><u>In 2024, Best Practices for Stream Backgrounds</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-iphone-12-pro-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your iPhone 12 Pro has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/latest-fixes-for-the-device-cant-cast-with-miracast-problem/"><u>Latest Fixes for the 'Device Can't Cast With Miracast' Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/league-of-legends-bug-fix-in-action-the-reconnect-loop-solution/"><u>League of Legends Bug Fix in Action: The Reconnect Loop Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-frame-rates-strategies-to-boost-fps-in-the-world-of-ring-of-elysium/"><u>Mastering Frame Rates: Strategies to Boost FPS in the World of Ring of Elysium</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-art-of-installation-plugging-issues-with-tiny-tinas-wonderlands-pc-version/"><u>Mastering the Art of Installation: Plugging Issues with Tiny Tina's Wonderlands [PC Version]</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010011421-overcome-discord-access-challenges-quick-solutions-inside/"><u>Overcome Discord Access Challenges – Quick Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-not-opening-heres-how-to-resolve-it/"><u>Rainbow Six Siege Not Opening? Here's How to Resolve It!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-step-by-step-guide-to-repair-connection-issues-in-outlook/"><u>Resolved: Step-by-Step Guide to Repair Connection Issues in Outlook</u></a></li>
+<li><a href="https://win-able.techidaily.com/revive-your-gaming-experience-fixing-non-detection-of-steam-vr-units-in-6-simple-ways/"><u>Revive Your Gaming Experience: Fixing Non-Detection of Steam VR Units in 6 Simple Ways</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-stop-the-endless-loop-of-content-warning-software-failures-on-windowsmac/"><u>Solution Guide: Stop the Endless Loop of 'Content Warning' Software Failures on Windows/Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-professionalising-a-roadmap-in-graphic-design-for-2024/"><u>The Art of Professionalising  A Roadmap in Graphic Design for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-far-cry-(sys)5s-stubborn-loading-screen-dilemma/"><u>Troubleshooting Far Cry <|Sys>5's Stubborn Loading Screen Dilemma</u></a></li>
+<li><a href="https://win-able.techidaily.com/vanderperren-s-et-al-2008-the-impact-of-glyphosate-on-the-amphibian-rana-lessonae-evidence-for-a-non-target-effect-and-endocrine-disruption-at-environmental523/"><u>Vanderperren S., Et Al (2008). The Impact of Glyphosate on the Amphibian Rana Lessonae: Evidence for a Non-Target Effect and Endocrine Disruption at Environmentally Realistic Concentrations. Environ Sci Pollut Res, 15(6), 397-402.</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-is-my-origin-not-starting-in-windows-11-find-out-why-and-how-to-fix-it/"><u>Why Is My Origin Not Starting in Windows 11? Find Out Why and How to Fix It</u></a></li>
+</ul></div>

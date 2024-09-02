@@ -1,0 +1,220 @@
+---
+title: Resolving 'Anticheat Server Not Responding' In Escape From Tarkov
+date: 2024-09-01T08:02:14.584Z
+updated: 2024-09-02T08:02:14.584Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Resolving 'Anticheat Server Not Responding' In Escape From Tarkov
+excerpt: This Article Describes Resolving 'Anticheat Server Not Responding' In Escape From Tarkov
+thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b12482bc1fecd3d439c888dea97.png
+---
+
+## Troubleshoot and Resolve Chrome Hitches in Windows 11 – Expert Advice Needed
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd48d0de70.jpg)
+
+ If Google Chrome has been freezing your computer since Windows 10 updates, you’ve come to the right place! This article gives practical solutions to your problem.
+
+## Try these fixes
+
+ You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+1. [**Update your graphics card driver**](https://tools.techidaily.com/drivereasy/download/)
+2. **[Run System File Checker](https://tools.techidaily.com/drivereasy/download/)**
+3. [**Clear your browsing data**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Disable your extensions**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Reset Chrome settings to default**](https://tools.techidaily.com/drivereasy/download/)
+6. [**Disconnect and reconnect your Internet**](https://tools.techidaily.com/drivereasy/download/)
+7. [**Uninstall and reinstall Chrome**](https://tools.techidaily.com/drivereasy/download/)
+
+### Fix 1: Update your graphics card driver
+
+ If your graphics card driver is corrupted after Windows 10 updates, it may stop Chrome from working properly. To better troubleshoot the problem, you should update your graphics card driver.
+
+ There are two ways to update your graphics card driver:**manually** and**automatically** .
+
+**Update your graphics card driver manually** — You can update your driver manually by going to the hardware manufacturer’s website, and searching for the latest driver for your graphics card. But if you take this approach, be sure to choose the driver that’s compatible with the exact model number of your hardware, and your version of Windows.
+
+OR
+
+**Update your graphics card driver automatically** — If you don’t have the time, patience or computer skills to update your driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. Driver Easy handles it all.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebea95ea01f.jpg)
+3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebeaa6e3f18.jpg)
+4. Restart your computer and check if Chrome now works properly.
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+---
+
+### Fix 2: Run System File Checker
+
+ If some system files get corrupted after Windows 10 updates, you can run the System File Checker tool to repair those files and help unfreeze your computer. Here’s how to run System File Checker:
+
+1. In the Windows search box, type**cmd** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf26b5a09e.png)
+2. From the results, right-click**Command Prompt** , and select**Run as administrator** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf2dea44e4.jpg)
+3. At Command Prompt, type **sfc /scannow** and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf301acd5c.jpg)
+4. It should begin running a system scan, and will take some time. When it finishes, restart your computer.
+5. Launch Chrome and check if the freezing issue is solved. If not, try Fix 3, below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 3: Clear your browsing data
+
+ Alternatively, you can try clearing your browsing data in Chrome. This can help remove any nasty cookies that might be causing Chrome to freeze. Here’s how to clear your browsing data in Chrome:
+
+1. At the top right in Chrome, click the**three dots** \>**More tools** \>**Clear browsing data** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd67382c1b.jpg)
+2. From the**Basic** tab, set the**Time range** to**All time** , and select all the checkboxes below.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd6c593c29.jpg)
+3. From the**Advanced** tab, set the**Time range** to**All time** . Select **Browsing history** ,**Cookies and other site data** ,**Cache images and files** .  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd72498d93.jpg)
+4. Click**Clear data** .
+5. When the data is cleared, type**chrome://restart** in the URL bar then press**Enter** to restart Chrome and check if the problem is resolved. If not, try Fix 4, below.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd79e829e0.png)
+
+---
+
+### Fix 4: Disable your extensions
+
+ Extensions are also known to cause Chrome to freeze. Sometimes they may have compatibility issues with your Chrome browser. You can disable all your extensions in Chrome and see if this solves your problem.
+
+1. Type **chrome://extensions** in the address bar and press**Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebc3f96a48a.png)
+2. **Toggle off** all extensions to disable them.  
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebc40d4679a.jpg)
+3. Restart Chrome and test if it works properly. If not, move on to Fix 5, below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+### Fix 5: Reset Chrome settings to default
+
+ If Chrome conflicts with some other program on your computer, it may also cause Chrome to freeze. You can reset Chrome to its default settings to better troubleshoot the problem.
+
+1. At the top right in Chrome, click the**three dots** \>**Settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd83fd4eb4.jpg)
+2. At the bottom, click**Advanced** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd88de8b45.png)
+3. Under**Reset and cleanup** , click**Reset settings to their original defaults** \>**Reset Settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd8ccdaa7a.jpg)
+4. Relaunch Chrome and check. If the problem still exists, try the next fix.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+### Fix 6: Disconnect and reconnect your Internet
+
+ Some users have reported that the Chrome freezing problem may be caused by an Internet problem — when they by chance disconnected and reconnected their Internet, Chrome worked again. You can also give this a try.
+
+1. You can simply click the**Network icon** on the taskbar, then select**Airplane mode** to**turn** it**on** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebcffb97b0e.jpg)
+2. A few seconds later, select the**Airplane mode** again to**turn** it**off** .
+3. Restart Chrome to check the issue.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+### Fix 7: Uninstall and reinstall Chrome
+
+ If none of the above worked for you, reinstalling Chrome is also worth a try — you can first go to Control Panel to uninstall Chrome, then download the latest version of Chrome from[its official website](https://www.google.com/chrome/) .
+
+---
+
+ If you have any question or suggestion, please feel free to leave a comment below.
+
+* [Chrome](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-find-the-disappeared-watch-tile/"><u>[New] In 2024, Find the Disappeared Watch Tile</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unlock-potential-the-15-best-tools-for-transforming-fb-revenue/"><u>[New] In 2024, Unlock Potential  The 15 Best Tools for Transforming FB Revenue</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pinnacle-of-video-quality-the-best-5-low-speed-recorders/"><u>[New] Pinnacle of Video Quality  The Best 5 Low-Speed Recorders</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ailoring-textual-terminals/"><u>[New] Tailoring Textual Terminals</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-virtual-space-clearing-perfecting-your-backdrop-in-zoom-and-google-meet/"><u>[New] Virtual Space Clearing  Perfecting Your Backdrop in Zoom & Google Meet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-advanced-practices-for-capturing-iptv-visuals-for-2024/"><u>[Updated] Advanced Practices for Capturing IPTV Visuals for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-eastern-echoes-comparable-gaming-experiences-to-tsushinian-worlds/"><u>[Updated] Eastern Echoes  Comparable Gaming Experiences to Tsushinian Worlds</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/0-driver-download-unleash-performance-now-update-to-the-latest-amd-ryzen/"><u>0 Driver Download | Unleash Performance Now!: Update To The Latest AMD Ryzen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-beginners-comprehensive-guide-exploring-past-versions-of-websites-using-wayback-machine/"><u>A Beginner’s Comprehensive Guide: Exploring Past Versions of Websites Using Wayback Machine</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-your-raccoon-woes-in-resident-evil-village-expert-tips-to-correct-mouse-issues/"><u>Banish Your Raccoon Woes in Resident Evil Village – Expert Tips to Correct Mouse Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-to-prevent-days-gone-from-crashing-on-latest-systems-in-202n/"><u>Comprehensive Solutions to Prevent Days Gone From Crashing on Latest Systems in 202N</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-updating-your-epson-v600-scan-software-fetch-the-latest-version-now/"><u>Easy Guide to Updating Your Epson V600 Scan Software – Fetch the Latest Version Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-blue-screen-errors-on-helldivers-game-version-2/"><u>Effective Fixes for Blue Screen Errors on Helldivers Game (Version 2)</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-when-path-of-exile-wont-respond/"><u>Effective Fixes for When Path of Exile Won't Respond</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722989842178-end-of-trouble-make-sure-obs-records-your-screen-now/"><u>End of Trouble: Make Sure OBS Records Your Screen Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-swiftly-enhancing-shader-effects-in-star-wars-battlefront-ii/"><u>Expert Tips for Swiftly Enhancing Shader Effects in Star Wars Battlefront II</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixes-and-solutions-how-to-resolve-non-responsive-spotify-issues-on-pc/"><u>Fixes & Solutions: How to Resolve Non-Responsive Spotify Issues on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-issues-how-to-repair-non-functional-logitech-options-in-windows/"><u>Fixing Issues: How to Repair Non-Functional Logitech Options in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/future-proof-gaming-anticipated-changes-to-rainbow-six-siege/"><u>Future-Proof Gaming: Anticipated Changes to Rainbow Six Siege</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-i-regained-access-overcoming-wow-server-connectivity-problems/"><u>How I Regained Access: Overcoming WoW Server Connectivity Problems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-galaxy-xcover-7-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Galaxy XCover 7? </u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-tecno-pova-5-to-mac-drfone-by-drfone-android/"><u>How to Mirror Tecno Pova 5 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-steamvr-error-message-308-easily-and-quickly/"><u>How to Resolve SteamVR Error Message #308 Easily and Quickly</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-glitches-resolving-recurring-valheim-pc-game-crashes/"><u>No More Glitches: Resolving Recurring Valheim PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-sea-of-thieves-game-crash-difficulties-a-step-by-step-fix/"><u>Overcome Sea of Thieves Game Crash Difficulties: A Step-by-Step Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-release-fixes-and-enhancements-in-days-gone-action-packed-fps-game/"><u>PC Release: Fixes and Enhancements in 'Days Gone' Action-Packed FPS Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-remedies-to-launch-and-load-palworld-without-a-glitch/"><u>Quick Remedies to Launch and Load Palworld Without a Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-for-resolving-javascript-issues-in-discord/"><u>Quick Solutions for Resolving JavaScript Issues in Discord</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-optimized-solutions-to-gameplay-lag-and-freezing-problems/"><u>Red Dead Redemption 2 Optimized: Solutions to Gameplay Lag and Freezing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009621197-solution-found-for-pathfinder-wrath-of-the-righteous-no-more-freezes-on-windows-machines/"><u>Solution Found for 'Pathfinder: Wrath of the Righteous'; No More Freezes on Windows Machines</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-solution-correcting-corrupted-gaming-software-data-on-your-desktop-computer/"><u>The Definitive Solution: Correcting Corrupted Gaming Software Data on Your Desktop Computer</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-enigma-of-turkish-korean-dialogue/"><u>The Enigma of Turkish-Korean Dialogue</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-gaming-issues-fix-crashes/"><u>Troubleshooting PC Gaming Issues: Fix Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-registry-edits-in-cmd/"><u>Unveiling the Secrets of Registry Edits in CMD</u></a></li>
+</ul></div>
