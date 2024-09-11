@@ -1,7 +1,7 @@
 ---
 title: WindowsとiPhone、Androidにおすすめ! オールナイトニッポンを簡単に録音するためのベストプラクティス
-date: 2024-09-08 10:30:41
-updated: 2024-09-11 10:48:58
+date: 2024-09-10T14:03:40.636Z
+updated: 2024-09-11T14:03:40.636Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a1754ee9632a9d2f7f9073f37e2.jpg
@@ -19,11 +19,51 @@ Best software to download music videos from 300+ sites!
 
 [![WonderFox Logo](https://www.videoconverterfactory.com/tips/img-autofit/logo.png "WonderFox - the Fastest DVD Ripper and HD Video Converter")](http://www.videoconverterfactory.com/) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## ![Software](https://www.videoconverterfactory.com/tips/img-autofit/header-tit1.png)How to & Tips
 
 ![Video Formats](https://www.videoconverterfactory.com/tips/img-autofit/header-tit2-video.png)Convert Video
 
 ![Resources](https://www.videoconverterfactory.com/tips/img-autofit/header-r.png)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Top 7 Sites to Download Music Video of Good Quality Free |2024
 
@@ -64,19 +104,95 @@ _Free, clean, and simple to use! Get it here now!_
 
 [![Free Download](https://www.videoconverterfactory.com/tips/img-autofit/download1.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [![Free Download](https://www.videoconverterfactory.com/tips/img-autofit/mobile-download1.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## The Best 7 Sites to Download Music Video
 
 ### 1\. Vimeo vimeo.com
 
 ![Music video on Vimeo](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-02.jpg)Music video on Vimeo 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Vimeo is probably the best HD music video download site, given the high audio quality ([320kbps MP3](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)) Vimeo support for their videos (which is quite exceptional and worthy since many similars can’t do so, including YouTube). There is no doubt about the quality of their music videos. Additionally, Vimeo is steadily gaining its popularity among the world, let us look forward to its enriching music video collection, and an increasing number of musicians, artists, enthusiasts gathering with the common love. 
 
 For: Quality means the most!
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### 2\. YouTube youtube.com
 
 ![Music video on YouTube](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-03.jpg)Music video on YouTube
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 As the biggest giant in video sharing/hosting, YouTube has it all. YouTube practically has the largest video collection in any category, including video songs.
 
@@ -84,15 +200,63 @@ Another reason that makes YouTube a good place to download music video is more a
 
 For: No more "There’s no accounting for taste." 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### 3\. Billboard billboard.com
 
 ![Music video on Billboard](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-04.jpg)Music video on Billboard
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 What makes Billboard so special is that they measure the value of every musician for the customers. Although, it seems there’s no one can ever name what exactly is they are measuring, and based on what criteria. But it’s always broadly in line with popular aesthetics.
 
 The Billboard Hot 100 is, and always will be the standard by which a song's popularity is measured in the United States.
 
 For: Have no idea what's on-trend? Check out the Billboard hot 100!
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### 4\. MTV Music mtv.com/music
 
@@ -101,6 +265,20 @@ For: Have no idea what's on-trend? Check out the Billboard hot 100!
 MTV has become the world's largest TV network! You’re going to love how sleek their layout is, how easy it is to navigate on, and rich contents provided aiming the youth. Speaking of “aiming the youth”, they have: shows of many kinds; news about TV, life, movies, celebrity, politics; the music of all genres - everyday topics of the youth. And the stuffs they provide for you are all the latest! 
 
 For: Daily news and pushes.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### 5\. Dailymotion dailymotion.com
 
@@ -124,6 +302,20 @@ For: Find the hottest song of every single day & Explore various sounds from dif
 
 ![Music video on Yahoo](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-08.jpg)Music video on Yahoo
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Last but not the least. Do enjoy the upcoming news in music fields! Besides the music videos, you can acquire a lot of information about the musicians you like: new album reveals, interviews, Q&A with fans, etc.
 
 The only drawback could be that you can’t easily find the content you want on Yahoo, with the search function it provides. 
@@ -142,6 +334,20 @@ How to download music videos if download link/button isn’t provided? A highly-
 
 Before start, please [free download](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)[free download](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) the software.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Step 1\. Copy the URL of the Desired Music Video
 
 Navigate to the page of the music video you intend to download. Copy the URL.
@@ -149,6 +355,20 @@ Navigate to the page of the music video you intend to download. Copy the URL.
 For those websites that plays music videos in a mini-player at lower right of the page, right-click on it > Copy video URL
 
 ![Download music video using URL](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-10.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Step 2\. Paste the URL into the Music Video Downloader 
 
@@ -210,3 +430,56 @@ More Related Articles
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
+
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-auditory-anchors-keeping-streamed-music-intact-for-2024/"><u>[New] Auditory Anchors Keeping Streamed Music Intact for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-convenient-steps-upside-down-video-via-vlc-application/"><u>[New] In 2024, Convenient Steps Upside Down Video via VLC Application</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/vercoming-youtube-disqualification/"><u>[New] Overcoming YouTube Disqualification</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-peeling-back-layers-what-hides-beneath-each-snapchat-emoji-for-2024/"><u>[Updated] Peeling Back Layers What Hides Beneath Each Snapchat Emoji for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-calculating-costs-music-video-filming/"><u>2024 Approved Calculating Costs Music Video Filming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-steps-to-cure-intermittent-obs-frames/"><u>2024 Approved Steps to Cure Intermittent OBS Frames</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/arise-epic-unraveled-mastering-ue4-and-eliminating-deadly-glitches/"><u>Arise Epic Unraveled: Mastering UE4 and Eliminating Deadly Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-ice-easy-ways-to-unfreeze-mozilla-firefox-expert-guide/"><u>Beat the Ice: Easy Ways to Unfreeze Mozilla Firefox - Expert Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-guilty-gear-strive-crash-issues-on-the-windows-platform/"><u>Diagnosing & Repairing Guilty Gear Strive Crash Issues on the Windows Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-methods-to-prevent-assassins-creed-unity-glitches-and-crashes-recent-insights/"><u>Effective Methods to Prevent Assassin's Creed Unity Glitches & Crashes – Recent Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-lag-best-fixes-for-smooth-gameplay-in-hogwarts-legacy-2024-edition/"><u>Eliminate Lag: Best Fixes for Smooth Gameplay in Hogwarts Legacy - 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-dayzs-performance-issues-fast-and-user-friendly-methods/"><u>Fixing DayZ's Performance Issues: Fast and User-Friendly Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-gta-v-crashes-a-comprehensive-guide/"><u>Fixing GTA V Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2023-struggling-to-boot-heres-how-you-can-resolve-it/"><u>Football Manager 2023 Struggling to Boot? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-red-dead-redemption-2-up-and-running-a-comprehensive-guide/"><u>Getting Red Dead Redemption 2 Up and Running: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correctly-install-and-troubleshoot-the-amd-ryzen-master-driver-issues/"><u>How to Correctly Install and Troubleshoot the AMD Ryzen Master Driver Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-your-star-wars-battlefront-2-gaming-experience-by-cutting-down-pc-loading-delays/"><u>Improve Your Star Wars Battlefront 2 Gaming Experience by Cutting Down PC Loading Delays</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-budget-conscious-pc-capture-programs/"><u>In 2024, Budget-Conscious PC Capture Programs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-redmi-a2plus-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-depth-look-at-ipad-display-logging/"><u>In-Depth Look at iPad Display Logging</u></a></li>
+<li><a href="https://win-able.techidaily.com/logitech-g403-driver-and-software-upgrade-for-pc-get-it-here/"><u>Logitech G403 Driver & Software Upgrade for PC – Get It Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-fix-ending-frontier-gaming-disruptions-on-your-personal-computer/"><u>Master the Fix: Ending 'Frontier' Gaming Disruptions on Your Personal Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-arma-3-essential-fixes-for-crash-free-gaming-in-the-enhanced-engine-update-e4/"><u>Mastering Arma 3: Essential Fixes for Crash-Free Gaming in the Enhanced Engine Update (E4)</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-virtualization-enabling-hyper-v-functionality-on-windows-10-devices/"><u>Mastering Virtualization: Enabling Hyper-V Functionality on Windows 10 Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimized-display-on-windows-11-updated/"><u>Optimized Display on Windows 11 Updated</u></a></li>
+<li><a href="https://win-able.techidaily.com/origin-account-login-error-corrected-secure-access-to-your-profile-restored/"><u>Origin Account Login Error Corrected – Secure Access to Your Profile Restored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-procedure-disconnected-gpu-with-nvidia/"><u>Quick Fix Procedure: Disconnected GPU with NVIDIA</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-wins-against-cs2-latency-how-to-achieve-low-ping-and-improve-pc-performance/"><u>Quick Wins Against CS2 Latency: How to Achieve Low Ping and Improve PC Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-hitman-e3-link-up-problems-in-minutes/"><u>Resolve Your Hitman E3 Link-Up Problems in Minutes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-game-interruptions-a-guide-to-fixing-the-crashes-in-psychonauts-2-for-pc-gamers/"><u>Resolving Game Interruptions: A Guide to Fixing the Crashes in 'Psychonauts 2' For PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-playback-issues-making-your-dolby-atmos-audio-work-in-windows-11-and-10/"><u>Resolving Playback Issues: Making Your Dolby Atmos Audio Work in Windows 11 & 10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/secrets-of-effective-screen-capture-with-dell-devices-for-2024/"><u>Secrets of Effective Screen Capture with Dell Devices for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010957159-solving-the-puzzle-how-sandstorms-game-bugs-are-finally-squashed/"><u>Solving the Puzzle – How Sandstorm's Game Bugs Are Finally Squashed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-repair-successfully-downloading-minecraft-onto-windows-11/"><u>Step-by-Step Repair: Successfully Downloading Minecraft Onto Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/streamlined-recording-the-very-best-fullscreen-software-for-2024/"><u>Streamlined Recording The Very Best Fullscreen Software for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-fix-crashes-in-madden-20-on-your-computer-with-ease/"><u>Troubleshoot and Fix Crashes in Madden 20 on Your Computer With Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-stop-spellbreak-from-freezing-on-your-computer/"><u>Troubleshooting Guide: How to Stop Spellbreak From Freezing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-fixing-the-issue-when-nvidia-game-overlay-fails/"><u>Troubleshooting: Fixing the Issue When NVIDIA Game Overlay Fails</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-gpeditmsc-feature-for-windows-home-users-easy-fixes-and-workarounds/"><u>Unlock gpedit.msc Feature for Windows Home Users - Easy Fixes and Workarounds</u></a></li>
+<li><a href="https://win-able.techidaily.com/unresolved-issues-with-doom-eternal-release-discover-a-quick-solution/"><u>Unresolved Issues with DOOM Eternal Release? Discover a Quick Solution</u></a></li>
+</ul></div>
+
+
+
+

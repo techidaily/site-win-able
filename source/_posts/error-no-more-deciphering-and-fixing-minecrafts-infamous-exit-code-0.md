@@ -1,0 +1,558 @@
+---
+title: "Error No More: Deciphering and Fixing Minecraft's Infamous 'Exit Code 0'"
+date: 2024-09-10T14:11:10.600Z
+updated: 2024-09-11T14:11:10.600Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Error No More: Deciphering and Fixing Minecraft's Infamous 'Exit Code 0'"
+excerpt: "This Article Describes Error No More: Deciphering and Fixing Minecraft's Infamous 'Exit Code 0'"
+thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c41df6f1ffba84998a5d1054.jpg
+---
+
+## Silent Blocky World? Uncover Why Minecraft Sounds Are Missing and How to Bring Them Back
+
+Recently, many Minecraft players have found that there is no sound when they play Minecraft on PC. If you also happen to run into this frustrating issue, you’ve come to the right place!
+
+ In this article, we provide you with several fixes for you to try. You should be able to fix the Minecraft no-sound issue easily with one of the fixes in this article.
+
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+
+
+## Fixes to try
+
+ Here’s a list of fixes that have resolved this problem for other Minecraft players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
+
+1. **[Refresh your game](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Check if you muted Minecraft by accident](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Change the “Mipmap Levels” option in the video settings](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Modify the sound settings of your Windows system](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Repair missing or corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
+
+---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+### Fix 1: Refresh your game
+
+ Sometimes this might be a temporary glitch, and a simple refresh can solve this.
+
+ Try pressing**F3** and**S** at the same time on your keyboard to**force reload the game** . If this key combination doesn’t work, then try pressing**F3** and**T**  at the same time. Many players have resolved the Minecraft no sound issue with this fix.
+
+ Wait several seconds and then check if the no sound issue reappears. If not, it suggests that you’ve fixed this issue. If the Minecraft no sound issue persists, don’t worry! Try the next fix, below.
+
+## Fix 2: Check if you muted Minecraft by accident
+
+ Before you try the fixes below, make sure that you didn’t mute your PC or Minecraft by accident. Follow the instructions to check if you muted your PC or Minecraft by accident:
+
+1. Try playing a song on your PC. If you can hear it clearly, it means that you don’t mute your PC; if you can’t hear it,**move your mouse to the notification area** (in the lower-right corner) and **right-click** **the Volume icon** . Then select **Open Volume Mixer** .  
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap1-5.jpg)
+2. Drag the slider under **Minecraft** to **turn up its volume** .  
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap81.jpg)
+3. If there is still no sound in Minecraft, follow the steps below to**check the audio settings of Minecraft** .  
+   * Launch Minecraft and click**Options… (or Settings)** .  
+   ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap82.jpg)  
+   * Click**Music & Sound…** or**Audio** to view the audio settings of the game.  
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+   ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap84-1.jpg)  
+   ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap85.jpg)  
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+   * Make sure all of the audio settings are set to 100%. Click**Done** to save the settings.  
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+   ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap86-1.jpg)
+
+ Run Minecraft again to check if the no sound issue persists. If so, try the next fix.
+
+## Fix 3: Update your audio driver
+
+ A missing or outdated audio driver in your computer can cause the Minecraft no sound issue, so make sure your audio driver is up to date.
+
+ There are two ways to update your audio driver: **manually** and **automatically** .
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+### Manually update the driver
+
+ You should go to the manufacturer’s website of your sound card, find the latest version of the driver, and install it on your computer. Ensure to download the latest correct driver that is compatible with your computer operating system. This requires time and computer skills.
+
+### Automatically update the driver
+
+ If you don’t have the time, patience or computer skills to update your audio driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making mistakes when installing.
+
+ You can update your drivers automatically with either the [**7 days free trial**](https://tools.techidaily.com/drivereasy/download/) or the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. It takes just 2 clicks, and you get full support and a 30-day money-back guarantee with the Pro version:
+
+1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
+3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
+![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
+4. After updating, restart your computer to take effect.
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+## Fix 4: Change the “Mipmap Levels” option in the video settings
+
+ If your Minecraft is**JAVA Edition** , try changing the “**Mipmap Levels** ”**option** in the video settings to see if this issue persists. Here is how to do it:
+
+1. Launch Minecraft. Then click**Options…** .  
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap82.jpg)
+2. Click**Video Settings…** .  
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap104.jpg)
+3. **Move the slider** to change Mipmap Levels. Then click **Done**  to save the changes.  
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap105-1.jpg)
+
+ Run Minecraft again to see if you resolved this issue. If not, try modifying the sound settings of your Windows system.
+
+## Fix 5: Modify the sound settings of your Windows system
+
+ Try modifying the sound settings of your Windows System to see if you can resolve this issue. Here is how to do it:
+
+1. **Move your mouse to the notification area** (in the lower-right corner) and**right-click the Volume icon** . Then select **Sound** .  
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap106.jpg)
+2. Navigate to the**Playback** tab. Select your **default playback device** and then click **Configure** .  
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap107.jpg)
+3. For**Audio channels** , select **Stereo** and click **Next** .  
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap108.jpg)
+4. Check the box next to the**Front left and right** . Then click **Next** .  
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
+5. Click**Finish** to save the new settings.  
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+ Launch Minecraft to check if the no-sound issue is fixed. If not, try reinstalling Minecraft.
+
+## Fix 6: Reinstall Minecraft
+
+ If all the fixes above fail to help you resolve the Minecraft no sound issue, try reinstalling Minecraft. By reinstalling the game, you may resolve this issue. Here is how to do it:
+
+### If you downloaded Minecraft from the Microsoft Store
+
+1. On your keyboard, press**the Windows logo key** and type **Minecraft** . In the list of search results, right-click the**MInecraft app** and select **Uninstall**  to uninstall MInecraft.  
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap116-2.jpg)
+2. Download Minecraft from Microsoft Store and reinstall it on your PC.
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+### If you downloaded Minecraft JAVA Edition from its official website
+
+1. On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control** and press **Enter** to open the Control Panel.  
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap117.jpg)
+2. **View** the Control Panel **by Category** . Click **Uninstall a program** .  
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap118.jpg)
+3. **Right-click** Minecraft and then select **Uninstall** to uninstall it.  
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap119.jpg)
+4. Download Minecraft from its **[official website](https://www.minecraft.net/)**  . Then reinstall it on your PC.
+
+ Launch Minecraft after you reinstall the game. Normally, the no-sound issue will be fixed after the re-installation.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+## Fix 7: Repair missing or corrupted system files
+
+ If all else fails, it’s time to check if you have missing or corrupted system files. System files are important components that allow Windows and programs like Minecraft to function properly. Over time, these files can become damaged or go missing, which can lead to problems like having no audio in Minecraft.
+
+ Performing a system scan and repairing any issues it finds is an important troubleshooting step when dealing with the no-sound problem in Minecraft. A system scan will check for any corrupted, damaged, or missing files and components and attempt to restore or fix them. This helps ensure that Windows and programs have all the files they need to work correctly.
+
+To perform a system scan and repair on Windows:
+
+### Use the SFC tool
+
+1. On your keyboard, press the **Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/windows-logo.png) , type in**command prompt** , and select **Run as administrator.** (If Windows prompts for permission, click **OK** to continue.)  
+![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
+2. Type in **SFC /Scannow** , and then press **Enter** .  
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
+3. It’ll take some time for the SFC to repair the corrupted system files if it detects any.  
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
+4. When the process is completed, reboot your computer and test Minecraft again to see if sound is restored.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+### Utilize Fortect – a dedicated repair tool
+
+ While sfc can detect and restore some corrupted system files, it is limited in scope. sfc only scans protected Windows system files and cannot repair other issues outside the core OS. It also cannot optimize the system by cleaning junk files or defragmenting the registry.
+
+ In contrast, **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  provides a more comprehensive scan that looks at the entire system, while also offering automatic repairs for a wider range of problems.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
+2. Open Fortect and click**Yes** to run a free scan of your PC.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
+3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+ The full version of Fortect comes with a**60-day money-back guarantee** . If you are not satisfied with it or you don’t need it anymore, contact their support team at[support@fortect.com](https://tools.techidaily.com/drivereasy/download/) .
+
+ After the repair, restart your computer and launch Minecraft to check if your problem has been solved.
+
+---
+
+ Hopefully one of the fixes above can help you resolve the Minecraft no-sound issue. Please leave your comment below if you have any questions.
+
+* [Minecraft](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capturing-moments-with-the-best-5-photo-and-video-apps-for-iphonesandroid/"><u>[New] In 2024, Capturing Moments with the Best 5 Photo & Video Apps for iPhones/Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-this-years-narrative-pioneers-youtubes-top-20-channels/"><u>[New] This Year’s Narrative Pioneers YouTube's Top 20 Channels</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unleash-your-social-media-potential-find-the-best-8-instagram-timers-for-2024/"><u>[New] Unleash Your Social Media Potential Find the Best 8 Instagram Timers for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-what-are-your-rights-exploring-legalities-of-video-sharing-on-fb-for-2024/"><u>[New] What Are Your Rights? Exploring Legalities of Video Sharing on FB for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-cyberpunk-2077-freezing/"><u>[SOLVED] Cyberpunk 2077 Freezing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-seamless-soundscape-design-with-expert-crossfading-techniques-audacity/"><u>[Updated] 2024 Approved Seamless Soundscape Design with Expert Crossfading Techniques (Audacity)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spark-interest-on-instagram-with-top-unboxing-video-techniques/"><u>2024 Approved Spark Interest on Instagram with Top Unboxing Video Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/battle-tested-tricks-for-a-smooth-experience-in-modern-warfare-npc-on-windows/"><u>Battle-Tested Tricks for a Smooth Experience in Modern Warfare Npc on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/century-age-of-ashes-game-stabilization-tips-for-pc-users/"><u>Century: Age of Ashes Game Stabilization Tips for PC Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-resolved-issue-steady-frame-rates-achieved/"><u>Cyberpunk 2077: Resolved Issue - Steady Frame Rates Achieved!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/easing-into-cinematic-scene/"><u>Easing Into Cinematic Scene</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-driver-update-instructions-for-samsungs-high-performance-ssd-models/"><u>Easy Driver Update Instructions for Samsung's High-Performance SSD Models</u></a></li>
+<li><a href="https://win-able.techidaily.com/f1-2021-optimization-guide-for-increased-performance-and-stability-on-pcs/"><u>F1 2021 Optimization Guide for Increased Performance and Stability on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-4-no-sound-issue-fixes-for-windows-users-expert-tips-and-tricks/"><u>Fallout ^4 No Sound Issue Fixes for Windows Users: Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-errgfxbackenderror-for-a-smoother-gameplay-experience-in-gta-v/"><u>Fixing ERR_GFX_BACKEND_ERROR for a Smoother Gameplay Experience in GTA V</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-stuttering-problems-in-the-mass-effect-trilogy-on-next-gen-consoles/"><u>How to Fix Stuttering Problems in the Mass Effect Trilogy on Next-Gen Consoles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-symphony-of-selection-trailer-music-mastery/"><u>In 2024, The Symphony of Selection Trailer Music Mastery</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/e-out-the-realities-of-youtubing-earning-for-2024/"><u>Inside Out The Realities of YouTubing Earning for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-tutorial-easily-insert-subtitles-and-closed-captions-into-any-video-content/"><u>IPhone Tutorial: Easily Insert Subtitles and Closed Captions Into Any Video Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-gaming-smoothness-how-to-solve-lag-issues-and-enhance-fps-on-war-thunder/"><u>Maximize Gaming Smoothness: How to Solve Lag Issues and Enhance FPS on War Thunder</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-interruptions-solving-red-dead-redemption-2s-pc-performance-problems/"><u>No More Interruptions: Solving Red Dead Redemption 2'S PC Performance Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-in-game-glitches-top-strategies-for-stable-among-us-playbacks/"><u>Overcome In-Game Glitches: Top Strategies for Stable Among Us Playbacks</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-freezes-and-crashes-masterclass-on-keeping-alan-wake-2-stable/"><u>Overcoming Freezes and Crashes: Masterclass on Keeping Alan Wake 2 Stable</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-obstacles-fixing-lost-ark-on-pcmac-2024-edition/"><u>Overcoming Launch Obstacles: Fixing Lost Ark on PC/Mac - 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-obstacles-in-our-progress-as-a-species/"><u>Overcoming Obstacles in Our Progress as a Species</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-steam-hitches-stop-the-game-from-freezing-or-ignoring-your-commands-in/"><u>Resolving Steam Hitches: Stop the Game From Freezing or Ignoring Your Commands In</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-world-of-warships-pc-issues-with-these-five-quick-remedies-crashing/"><u>Resolving World of Warships PC Issues with These Five Quick Remedies [Crashing]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-removing-your-windows-recovery-partition/"><u>Step-by-Step Guide: Removing Your Windows Recovery Partition</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-xiaomi-13t-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Xiaomi 13T FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-stutter-and-lag-in-avatar-frontiers-of-pandora/"><u>Troubleshooting and Fixing Stutter & Lag in Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-connection-failures-with-live-configuration-servers/"><u>Troubleshooting Guide: Fixing Connection Failures with Live Configuration Servers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-when-asus-laptops-function-keys-stop-working-properly/"><u>Troubleshooting Tips When ASUS Laptop's Function Keys Stop Working Properly</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-overcoming-minecraft-launcher-error-0x803f8001-in-windows-11-and-windows-10/"><u>Troubleshooting Tips: Overcoming Minecraft Launcher Error 0X803f8001 in Windows 11 and Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-troubleshooting-and-resolving-lack-of-sound-in-zoom-for-desktop-users/"><u>Ultimate Guide: Troubleshooting and Resolving Lack of Sound in Zoom for Desktop Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/unable-to-play-verify-your-installation-for-seamless-gaming-experience/"><u>Unable to Play? Verify Your Installation for Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-stability-hacks-how-to-eliminate-game-freezing-problems-on-pc-latest-tips/"><u>Warzone Stability Hacks: How to Eliminate Game-Freezing Problems on PC – Latest Tips</u></a></li>
+</ul></div>
+
+
+
+
