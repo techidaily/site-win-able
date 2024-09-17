@@ -1,7 +1,7 @@
 ---
 title: "Resident Evil Village Performance Optimized: Overcoming PC Gameplay's Frame Rate Decreases"
-date: 2024-09-10T14:25:25.545Z
-updated: 2024-09-11T14:25:25.545Z
+date: 2024-09-12T19:59:43.361Z
+updated: 2024-09-16T20:02:30.329Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/2ade3a49b6280463f663d29a0a9aed4a110f8560d
 
 Resident Evil Village is a great survival horror game in the storied Resident Evil franchise. But the cursor became annoying while in-game with Village. This post gives you some possible fixes, give it a try.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -33,20 +30,6 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 2. [Change resolution](https://tools.techidaily.com/drivereasy/download/)
 3. [Change mouse settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Update device driver](https://tools.techidaily.com/drivereasy/download/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Download an invisible cursor theme file
 
@@ -59,53 +42,13 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device.jpg)
 3. Click**Mouse** on the left panel, then click**Additional mouse options** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
 4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
 5. Click**Apply** . Your mouse cursor will disappear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cursor.gif)
 6. If you want the cursor back, click**Use Default** in the Mouse Properties window, then click**Apply** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Change resolution
 
@@ -117,20 +60,6 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-14-23.jpg)
 4. Make sure you’re in full screen, not borderless window.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 **Note** : This fix might let the image lose a lot of quality.
 
 ### Fix 3: Change mouse settings
@@ -141,27 +70,14 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-8.png)
 
-
-
-
+If this fix brings no luck, move to the next one.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-If this fix brings no luck, move to the next one.
 
 ### Fix 4: Update device driver
 
@@ -184,6 +100,13 @@ There are two ways you can update your device drivers:
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the device driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
@@ -200,8 +123,6 @@ There are two ways you can update your device drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,45 +130,22 @@ There are two ways you can update your device drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-enhancing-your-roblox-experience-close-up-techniques/"><u>[Updated] Enhancing Your Roblox Experience Close-Up Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-pixelstreamer-os-native-screen-recording-for-2024/"><u>[Updated] PixelStreamer OS-Native Screen Recording for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/achieve-smooth-gaming-boosting-frames-per-second-fps-in-ring-of-elysium/"><u>Achieve Smooth Gaming - Boosting Frames Per Second (FPS) in Ring of Elysium</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/best-low-end-screen-recorder-options-summarized/"><u>Best Low-End Screen Recorder Options Summarized</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/client-triumph-tales-real-stories-of-business-growth-and-success/"><u>Client Triumph Tales: Real Stories of Business Growth and Success</u></a></li>
-<li><a href="https://win-able.techidaily.com/crack-the-code-to-beat-constant-loading-problems-in-among-us-step-by-step-guide/"><u>Crack the Code to Beat Constant Loading Problems in Among Us - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/crash-free-gaming-fix-for-hearthstones-pc-performance-problems/"><u>Crash-Free Gaming: Fix for Hearthstone's PC Performance Problems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-smooth-performance-with-newly-released-realtek-drivers-for-windows-11-download-here/"><u>Ensure Smooth Performance with Newly Released Realtek Drivers for Windows 11 – Download Here!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-fixes-to-enhance-playing-tiny-tinas-epic-expeditions-pc-game-guide/"><u>Expert Fixes to Enhance Playing Tiny Tina's Epic Expeditions: PC Game Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/f1-2020-pc-version-solutions-to-stop-frequent-game-crashes/"><u>F1 2020 PC Version - Solutions to Stop Frequent Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/fast-track-to-flawless-steam-playback-remedying-performance-issues-now/"><u>Fast Track to Flawless Steam Playback: Remedying Performance Issues Now</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-persona-5-strikers-not-launching-properly-on-windows/"><u>Fixes for Persona 5 Strikers Not Launching Properly on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-case-no-civ-6-addressed-and-rectified-unauthorized-entry-violations/"><u>How Case No. CIV #6 Addressed and Rectified Unauthorized Entry Violations</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify some outdated your hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-the-notorious-code-12707-in-call-of-duty-modern-warfare-3/"><u>How to Overcome the Notorious Code 12707 in Call of Duty Modern Warfare 3?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-setup-and-use-hyper-v-virtualization-on-windows-10-a-comprehensive-tutorial/"><u>How to Setup and Use Hyper-V Virtualization on Windows 10: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-resolve-directdraw-problems-effectively/"><u>How to Troubleshoot and Resolve DirectDraw Problems Effectively</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 13 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-tecno-spark-10c-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Tecno Spark 10C Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-blade-a73-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock ZTE Blade A73 5G Bootloader Easily</u></a></li>
-<li><a href="https://win-able.techidaily.com/minecraft-quitting-unexpectedly-conquer-that-exit-code-0-dilemma-here/"><u>Minecraft Quitting Unexpectedly? Conquer that Exit Code 0 Dilemma Here!</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-top-10plus-slow-motion-video-editing-software-for-2024/"><u>New Top 10+ Slow Motion Video Editing Software for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-quiet-twitch-streams-a-simple-fix-for-audio-problems-on-live-video/"><u>No More Quiet Twitch Streams: A Simple Fix for Audio Problems on Live Video</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-outrider-game-lag-problem-a-comprehensive-guide/"><u>Resolving the Outrider Game Lag Problem: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-nvidia-control-panel-glitches-tips-to-restore-opening-functionality/"><u>Solving NVIDIA Control Panel Glitches: Tips to Restore Opening Functionality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-recommended-kid-friendly-tablets-your-ultimate-guide/"><u>Top Recommended Kid-Friendly Tablets : Your Ultimate Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-persona-4-goldens-stability-problems/"><u>Troubleshooting and Solving Persona 4 Golden's Stability Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-discords-audio-issues-during-screen-shares/"><u>Troubleshooting Guide: Fixing Discord's Audio Issues During Screen Shares</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fix-for-persistent-dirt-5-pc-crashes-a-step-by-step-solution/"><u>Ultimate Fix for Persistent Dirt 5 PC Crashes - A Step-by-Step Solution</u></a></li>
-<li><a href="https://win-able.techidaily.com/upgraded-arsenal-discovering-the-improved-bullet-drop-mechanics-of-me-le/"><u>Upgraded Arsenal - Discovering the Improved Bullet Drop Mechanics of ME LE</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-sony-xperia-1-v-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Sony Xperia 1 V? Here is How | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-iptv-transmission-across-devices/"><u>[New] 2024 Approved IPTV Transmission Across Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonize-your-hours-synchronized-video-playback-across-platforms/"><u>[Updated] 2024 Approved Harmonize Your Hours Synchronized Video Playback Across Platforms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-master-iphone-motion-blur-effects-in-images/"><u>[Updated] In 2024, Master iPhone Motion-Blur Effects in Images</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-zooming-success-detailed-instruction-for-exceptional-podcast-recording-quality-for-2024/"><u>[Updated] Zooming Success Detailed Instruction for Exceptional Podcast Recording Quality for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-optimize-oust-and-outperform-youtube-titles-that-dominate/"><u>2024 Approved Optimize, Oust & Outperform YouTube Titles That Dominate</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-your-frame-rate-tips-to-increase-fps-and-minimize-delays-in-fall-guys/"><u>Boosting Your Frame Rate: Tips to Increase FPS & Minimize Delays in Fall Guys</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-15-plus-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone 15 Plus Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-s23-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy S23 Fingerprint Lock</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/keeping-track-saving-insta-visuals-on-iphone/"><u>Keeping Track Saving Insta Visuals on iPhone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-wireless-keyboard-driver-for-windows-10-download-easily/"><u>Logitech Wireless Keyboard Driver for Windows 10 Download Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-pc-compatibility-solutions-for-detroit-become-human/"><u>Mastering PC Compatibility: Solutions for 'Detroit: Become Human'</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-accessing-group-policy-editor-gpeditmsc-on-windows-home-systems/"><u>Solution Guide: Accessing Group Policy Editor (gpedit.msc) on Windows Home Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-free-gospel-songs-effortless-downloading-from-youtube-and-more/"><u>Ultimate Guide to FREE Gospel Songs: Effortless Downloading From YouTube & More!</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-installation-tips-for-streaming-classic-sweet-and-salty-treats-on-your-kodi-device-with-leia-and-krypton-themes/"><u>Ultimate Installation Tips for Streaming Classic Sweet and Salty Treats on Your Kodi Device with Leia and Krypton Themes</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows/"><u>Windows上で動画形式のファイルサイズ調整ガイド</u></a></li>
 </ul></div>
-
-
-
 

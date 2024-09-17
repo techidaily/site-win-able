@@ -1,7 +1,7 @@
 ---
 title: "Improve Your Playthrough: Tips to Eliminate Stuttering in Fallout 76"
-date: 2024-09-10T14:24:50.669Z
-updated: 2024-09-11T14:24:50.669Z
+date: 2024-09-11T18:42:22.152Z
+updated: 2024-09-16T21:36:26.356Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 
 Halo Infinite is available now and some gamers have noticed that the game has been stuttering, lagging, and having low frame rates. If you encounter this issue and want to get it fixed, you’ve come to the right place. This post has gathered fixes that would help.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -49,20 +46,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -77,20 +60,6 @@ There are mainly two ways you can update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
@@ -117,55 +86,34 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 7) Run the game to check.
 
@@ -183,26 +131,6 @@ If it’s not working, move to the next fix.
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 5: Change NVIDIA resolution
 
  Open the NVIDIA control panel and change the resolution from 4k to 1440p. Click**Apply > Yes** to save the change.
@@ -219,8 +147,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,44 +154,19 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-profiles-profits-and-partnerships-joining-a-youtube-mcn/"><u>[Updated] In 2024, Profiles, Profits & Partnerships Joining a YouTube MCN</u></a></li>
-<li><a href="https://win-able.techidaily.com/alien-fireteam-elite-game-stability-issues-on-pc-solved/"><u>Alien Fireteam Elite Game Stability Issues on PC - Solved!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/amd-radeon-rx-5700-xt-official-drivers-downloads-compatible-with-win-11-10-8-and-7/"><u>AMD Radeon RX 5700 XT - Official Drivers Downloads Compatible with Win 11, 10, 8 & 7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/detecting-suspicious-friend-suggestions-for-your-safety/"><u>Detecting Suspicious Friend Suggestions for Your Safety</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-do-you-upgrade-old-minecraft-video-card-drivers-heres-the-solution/"><u>How Do You Upgrade Old Minecraft Video Card Drivers? Here's the Solution</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-your-dragon-quest-xi-adventure-from-halting-unexpectedly/"><u>How to Prevent Your Dragon Quest XI Adventure From Halting Unexpectedly</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-essential-strategies-for-documenting-ps3-matches/"><u>In 2024, Essential Strategies for Documenting PS3 Matches</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y27-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y27 5G Devices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-7-plus-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 7 Plus Without iTunes in 5 Ways | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/kernelbasedll-dilemma-overcome-instant-crashing-issues-now/"><u>KernelBase.dll Dilemma? Overcome Instant Crashing Issues Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/masterful-maneuvers-resolving-stuck-update-problems-in-the-minecraft-native-launcher/"><u>Masterful Maneuvers: Resolving Stuck Update Problems in the Minecraft Native Launcher</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-troubleshooting-tips-to-eliminate-crashes-during-your-yakuza-3-remastered-gameplay-on-pc/"><u>Mastering Troubleshooting Tips to Eliminate Crashes During Your Yakuza 3 Remastered Gameplay on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/modern-warfare-3s-gameplay-issues-understanding-the-notorious-fps-hiccups/"><u>Modern Warfare 3'S Gameplay Issues: Understanding the Notorious FPS Hiccups</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimize-your-pc-to-stop-stuttering-during-fortnite-battles/"><u>Optimize Your PC to Stop Stuttering During Fortnite Battles</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-for-when-apex-legends-fails-to-launch/"><u>Quick Fixes for When Apex Legends Fails to Launch</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-adventures-awaits-strategies-for-overcoming-stutters-and-boosting-frames-on-the-ascent/"><u>Seamless Adventures Awaits: Strategies for Overcoming Stutters & Boosting Frames on 'The Ascent'</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-does-spotify-keep-closing-on-iphone-lock-what-can-you-do/"><u>Solving the Issue: Why Does Spotify Keep Closing on iPhone Lock? What Can You Do?</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-puzzle-top-11-ways-to-get-borderlands-3-running-smoothly/"><u>Solving the Puzzle: Top 11 Ways to Get Borderlands 3 Running Smoothly</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-for-getting-past-the-launch-error-of-persona-3-fe/"><u>Step-by-Step Troubleshooting for Getting Past the Launch Error of Persona 3 FE</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-itel-a05s-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-common-opengl-errors-in-minecraft-effective-techniques-explored/"><u>Troubleshooting Common OpenGL Errors in Minecraft – Effective Techniques Explored</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-failed-game-start-how-to-check-and-fix-your-game-files/"><u>Troubleshooting Failed Game Start: How to Check and Fix Your Game Files</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-gimp-software-instability-and-crashes-on-desktop-pc/"><u>Troubleshooting GIMP Software Instability and Crashes on Desktop PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-gpu-activation-issues-for-call-of-duty-warzone-players-on-windows-11-systems/"><u>Troubleshooting GPU Activation Issues for Call of Duty: Warzone Players on Windows 11 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steam-downloads-to-stop-call-of-duty-black-ops-cold-war-from-freezing-guide/"><u>Troubleshooting Steam Downloads to Stop Call of Duty: Black Ops Cold War From Freezing (Guide)</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-fixing-code-887a0005-in-black-ops-cold-war-game/"><u>Troubleshooting Steps for Fixing Code 887A0005 in Black Ops Cold War Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-why-cant-i-play-call-of-duty-black-ops-4/"><u>Troubleshooting: Why Can't I Play Call of Duty Black Ops 4?</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlock-seamless-gaming-tackle-and-correct-apex-legends-startup-glitches-swiftly/"><u>Unlock Seamless Gaming - Tackle and Correct Apex Legends' Startup Glitches Swiftly</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/whats-mia-from-playstation-5-essential-ps4-features-that-arent-there-yet/"><u>What's MIA From PlayStation 5? Essential PS4 Features That Aren't There Yet.</u></a></li>
-<li><a href="https://win-able.techidaily.com/wwe-2k22-pc-version-why-is-it-continuously-freezing-troubleshooting-tips/"><u>WWE 2K22 PC Version: Why Is It Continuously Freezing? - Troubleshooting Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-your-videos-potential-with-smooth-narrative-flows/"><u>2024 Approved Unlocking Your Videos' Potential with Smooth Narrative Flows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-proven-methods-to-fix-a-broken-guided-access-feature-on-ios-devices/"><u>6 Proven Methods to Fix a Broken Guided Access Feature on iOS Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-forza-horizon-5-visuals-update-your-graphic-drivers-today/"><u>Boosting Forza Horizon 5 Visuals? Update Your Graphic Drivers Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/enabling-virtualization-a-comprehensive-tutorial-for-hyper-v-in-windows-11/"><u>Enabling Virtualization: A Comprehensive Tutorial for Hyper-V in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/hp-visual-unit-failure-heres-how-to-get-your-screen-working-again/"><u>HP Visual Unit Failure? Here’s How to Get Your Screen Working Again</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-motorola-moto-g24-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Motorola Moto G24? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-yt-cover-art-the-key-to-more-views/"><u>In 2024, YT Cover Art The Key to More Views</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-the-security-risks-of-modern-office-software-by-microsoft/"><u>Navigating Through the Security Risks of Modern Office Software by Microsoft</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-motorola-moto-g13-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Motorola Moto G13 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-stabilizing-age-of-wonders-planetfall-resolving-pc-crash-issues/"><u>Ultimate Guide to Stabilizing Age of Wonders: Planetfall - Resolving PC Crash Issues</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-professional-results-without-the-professionals-diy-movie-making-for-beginners/"><u>Updated 2024 Approved Professional Results Without the Professionals DIY Movie Making for Beginners</u></a></li>
 </ul></div>
-
-
-
 

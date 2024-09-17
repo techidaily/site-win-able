@@ -1,7 +1,7 @@
 ---
 title: Solving Keyboard Malfunctions in Pathfinder's Wrath of the Righteous - A Step-by-Step Tutorial
-date: 2024-09-10T14:27:12.951Z
-updated: 2024-09-11T14:27:12.951Z
+date: 2024-09-15T19:23:31.219Z
+updated: 2024-09-17T00:01:55.431Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ thumbnail: https://thmb.techidaily.com/b291d1186c17a0e27af028a28ffb312d4304bf88d
 
  Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes…
 
@@ -52,20 +35,6 @@ thumbnail: https://thmb.techidaily.com/b291d1186c17a0e27af028a28ffb312d4304bf88d
 [3: Delete Rewired_DirectInput.dll file](https://tools.techidaily.com/drivereasy/download/)
 
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 1: Check for hardware issues
 
@@ -88,20 +57,6 @@ If you didn’t find any hardware issues, try the next fix.
 
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
  This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
@@ -109,6 +64,14 @@ If you didn’t find any hardware issues, try the next fix.
 1. Open your Steam library and find Pathfinder: Wrath of the Righteous. Right-click the game and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
@@ -117,19 +80,12 @@ If you didn’t find any hardware issues, try the next fix.
 
  If this fix doesn’t solve your problem, there’s one more fix you can try.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 4: Update your keyboard driver
 
@@ -146,38 +102,10 @@ If you didn’t find any hardware issues, try the next fix.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -194,8 +122,6 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,54 +129,21 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-conciseness-in-content-editing-your-youtube-videos-smartly/"><u>[New] 2024 Approved Conciseness in Content Editing Your YouTube Videos Smartly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-download-youtube-thumbnail-in-3-waysonlinewinmac/"><u>[Updated] 2024 Approved How to Download Youtube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-benq-bl2711u-the-artisans-choice-for-high-end-4k-display-enthusiasts/"><u>[Updated] BenQ BL2711U - The Artisan's Choice for High-End 4K Display Enthusiasts</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-get-every-detail-of-your-favorite-movies-macscreencasting-netflix/"><u>[Updated] Get Every Detail of Your Favorite Movies MacScreencasting Netflix</u></a></li>
-<li><a href="https://win-able.techidaily.com/10/"><u>10?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-detailed-handbook-for-optimizing-googles-ai-powered-text-conversion/"><u>2024 Approved Detailed Handbook for Optimizing Google's AI-Powered Text Conversion</u></a></li>
-<li><a href="https://win-able.techidaily.com/addressing-unending-initialization-error-on-anthem-interface/"><u>Addressing Unending Initialization Error on Anthem Interface</u></a></li>
-<li><a href="https://win-able.techidaily.com/common-issues-and-solutions-restoring-your-discord-camera-functionality/"><u>Common Issues & Solutions: Restoring Your Discord Camera Functionality</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-fixes-for-smooth-minecraft-gaming-on-your-computer/"><u>Comprehensive Fixes for Smooth Minecraft Gaming on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-pacific-drive-malfunctions-a-user-friendly-guide-to-resolving-pc-software-crashes/"><u>Diagnosing Pacific Drive Malfunctions: A User-Friendly Guide to Resolving PC Software Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/discord-display-troubles-fixing-screen-sharing-issues-that-cause-a-black-outage-on-screens/"><u>Discord Display Troubles: Fixing Screen Sharing Issues That Cause a Black Outage on Screens</u></a></li>
-<li><a href="https://win-able.techidaily.com/echoes-lost-voices-found-correcting-fallout-amoanqf4-no-output-problems-on-desktop/"><u>Echoes Lost, Voices Found: Correcting Fallout Amoanqf4 No Output Problems on Desktop</u></a></li>
-<li><a href="https://win-able.techidaily.com/five-effortless-methods-to-overcome-bluestacks-crashes-effectively/"><u>Five Effortless Methods to Overcome Bluestacks Crashes Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-for-nier-automata-replica-startup-issues/"><u>Fixes and Solutions for NieR: Automata Replica Startup Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-implemented-for-seamless-play-r-type-final-2-now-stable-on-windows-machines/"><u>Fixes Implemented for Seamless Play - R-Type Final 2 Now Stable on Windows Machines</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-persistent-lag-solutions-to-prevent-valheims-freeze-stutter-issues-on-desktop/"><u>Fixing Persistent Lag: Solutions to Prevent Valheim's Freeze-Stutter Issues on Desktop</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-adobe-failed-to-launch-properly-error-code-0xc0000022/"><u>Fixing the 'Adobe Failed to Launch Properly' Error Code 0xC0000022</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-dota-2-vac-ban-glitch-a-comprehensive-guide/"><u>Fixing the DotA 2 VAC Ban Glitch : A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-correctly-address-and-overcome-the-ue4-madness-error-in-outriders/"><u>How to Correctly Address and Overcome the 'UE4 Madness' Error in Outriders</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-hunger-malfunctions-and-improve-performance-in-dread-game-for-windows-users/"><u>How to Resolve Hunger Malfunctions and Improve Performance in Dread Game for Windows Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-revolutionize-your-humor-learn-through-kinemaster/"><u>In 2024, Revolutionize Your Humor Learn Through KineMaster</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-itel-p55-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Itel P55 5G Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/iphone-hdr-mastery-a-complete-workshop/"><u>IPhone HDR Mastery A Complete Workshop</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/mastering-live-twitch-streams-top-5-tips-for-2024/"><u>Mastering Live Twitch Streams Top 5 Tips for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-witcher-3-on-pc-fixing-and-avoiding-frustrating-game-crashes/"><u>Mastering The Witcher 3 on PC: Fixing and Avoiding Frustrating Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-performance-to-prevent-game-crashes-in-assassins-creed-valhalla-pc-version/"><u>Optimizing Performance to Prevent Game Crashes in Assassin's Creed: Valhalla PC Version</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-2024s-common-fortnite-game-crashes-on-your-pc-with-these-expert-tips/"><u>Overcome 2024'S Common Fortnite Game Crashes on Your PC with These Expert Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-compatibility-hurdles-making-logitech-options-work-seamlessly-in-windows-environment/"><u>Overcoming Compatibility Hurdles: Making Logitech Options Work Seamlessly in Windows Environment</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-new-gen-game-latency-a-comprehensive-guide-for-smooth-play/"><u>Overcoming New-Gen Game Latency: A Comprehensive Guide for Smooth Play</u></a></li>
-<li><a href="https://win-able.techidaily.com/pathfinder-wrath-of-the-righteeous-crash-troubleshooting-guide/"><u>Pathfinder: Wrath of the Righteeous Crash Troubleshooting Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-launch-issues-with-red-dead-redemption-2-on-pcconsole/"><u>Resolving Launch Issues with Red Dead Redemption 2 on PC/Console</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-rocket-league-freezing-issues-fixes-and-tips-for-optimal-gameplay/"><u>Say Goodbye to Rocket League Freezing Issues: Fixes and Tips for Optimal Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/soil-testing-identifies-specific-soil-needs-allowing-for-targeted-amendments-which-improves-crop-yields-reduces-waste-and-minimizes-environmental-harm-from-613/"><u>Soil Testing Identifies Specific Soil Needs, Allowing for Targeted Amendments, Which Improves Crop Yields, Reduces Waste, and Minimizes Environmental Harm From Over-Fertilization.</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-comprehensive-fixers-guide-for-stabilizing-fifa-20-on-personal-computers/"><u>The Comprehensive Fixer's Guide for Stabilizing FIFA 20 on Personal Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-get-your-windows-10-sound-back-on-track/"><u>Troubleshooting Steps to Get Your Windows 10 Sound Back on Track</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-redred2-errgfxstate-issue-a-comprehensive-guide/"><u>Troubleshooting the RED_RED2 ERR_GFX_STATE Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-stardew-valley-pc-game-crashes/"><u>Troubleshooting Tips: Resolving Stardew Valley PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-solving-deathloop-gameplay-crashes-on-pc-and-playstation-5/"><u>Troubleshooting Tips: Solving Deathloop Gameplay Crashes on PC and PlayStation 5</u></a></li>
-<li><a href="https://win-able.techidaily.com/vanguard-initialization-errors-addressed-a-step-by-step-resolution-for-valorant-players/"><u>Vanguard Initialization Errors Addressed: A Step-by-Step Resolution for Valorant Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-hasnt-elden-ring-hit-the-market-exploring-the-reasons-behind-its-hold-up/"><u>Why Hasn't Elden Ring Hit the Market? Exploring the Reasons Behind Its Hold-Up</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reassessing-the-updates-to-sonys-s6500-bdhd-player/"><u>[Updated] Reassessing the Updates to Sony's S6500 BD/HD Player</u></a></li>
+<li><a href="https://win-able.techidaily.com/aiffm4a/"><u>「一発でAIFFファイルをM4A形式へのスムーズな変換ガイド」</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024windows-1011dvd/"><u>2024年対応の安心セキュリティ付きWindows 10/11用フリーDVDプレイヤー推薦</u></a></li>
+<li><a href="https://win-able.techidaily.com/5yuv55s744gu5lik44gr55s75yop44ks6ywn572u44gz44kl44gf44kb44gu44k344o844og44os44k544gq44k944ov44oi44km44kn44ki44o744oe44o844or44ks44kk44oj/"><u>動画の上に画像を配置するためのシームレスなソフトウェア・ツールガイド</u></a></li>
+<li><a href="https://win-able.techidaily.com/acquire-efficient-digital-filing-solutions-with-wonderfox/"><u>Acquire Efficient Digital Filing Solutions with WonderFox</u></a></li>
+<li><a href="https://win-able.techidaily.com/adding-clear-audio-to-your-videography-without-a-watermark/"><u>Adding Clear Audio to Your Videography Without a Watermark</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-apple-iphone-xs-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>In 2024, Change Location on Yik Yak For your Apple iPhone XS to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-navigating-backward-image-hunt-on-the-worlds-largest-social-site/"><u>In 2024, Navigating Backward Image Hunt on the World's Largest Social Site</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-multi-monitor-magic-your-step-by-step-manual-for-using-three-screens-simultanenously/"><u>Master Multi-Monitor Magic: Your Step-by-Step Manual for Using Three Screens Simultanenously</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-repairing-your-surfaces-wi-fi-connection-woes/"><u>Step-by-Step Solution: Repairing Your Surface's Wi-Fi Connection Woes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-techniques-for-professional-voice-capture-for-2024/"><u>Top Techniques for Professional Voice Capture for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winxdvd-ruckerstattungen-klare-richtlinien-bei-software-entschadigung-digiartis/"><u>WinXDVD Rückerstattungen - Klare Richtlinien Bei Software-Entschädigung | DigiArtis</u></a></li>
+<li><a href="https://win-able.techidaily.com/44k744kk44og44o844ow5yuv55s744gu5a6j5ywo44gq44oa44km44oz44ot44o844oj5oml6acg/"><u>セイムーブ動画の安全なダウンロード手順</u></a></li>
 </ul></div>
-
-
-
 

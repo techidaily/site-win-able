@@ -1,7 +1,7 @@
 ---
 title: Overcoming Unexpected App Halts in COD Modern Warfare 3 - Fix Guide
-date: 2024-09-10T14:27:48.124Z
-updated: 2024-09-11T14:27:48.124Z
+date: 2024-09-13T20:27:27.539Z
+updated: 2024-09-16T22:03:18.257Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/2c72878e4c5b851b7d621c520b7075b9d80e911d0
 
 A recent update of Warzone triggered a surge in reports of the**Dev Error 6034** issue, which keeps crashing the game, especially in battle royale. If you happen to be seeing the same error, worry not. According to our users, there’re already some fixes that can help you get rid of the error right away.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Fixes to try
 
@@ -33,20 +30,6 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 2. [**Remove broken game files (PC)**](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix2)
 3. **[Remove Multiplayer game packs (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix3)**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Update your graphics driver (PC)
 
@@ -75,19 +58,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -111,26 +81,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  If this method doesn’t do the trick, you can take a look at the next one.
 
 ### Fix 3: Remove Multiplayer game packs
@@ -141,53 +91,26 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 If this trick doesn’t help you, simply check out the next one.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Reinstall Warzone
 
@@ -205,8 +128,6 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,44 +135,19 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-distribute-your-videos-a-vimeo-guide/"><u>[New] 2024 Approved Distribute Your Videos A Vimeo Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-engage-viewers-with-3-innovative-description-styles-on-instagram-vids/"><u>[New] In 2024, Engage Viewers with 3 Innovative Description Styles on Instagram Vids</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-best-video-equipment-for-documenting-dynamic-musical-performances/"><u>[Updated] 2024 Approved Best Video Equipment for Documenting Dynamic Musical Performances</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-avoid-the-biggest-slip-ups-for-new-youtube-enthusiasts-for-2024/"><u>[Updated] How to Avoid the Biggest Slip-Ups for New YouTube Enthusiasts for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unlocking-the-full-potential-of-youtube-video-interactions/"><u>[Updated] In 2024, Unlocking the Full Potential of YouTube Video Interactions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-pro-video-editing-compatible-software-across-windows-systems-for-2024/"><u>[Updated] Pro Video Editing Compatible Software Across Windows Systems for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-f15-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Samsung Galaxy F15 5G</u></a></li>
-<li><a href="https://win-able.techidaily.com/elevate-your-spreadsheets-with-top-5-unknown-excel-shortcuts-and-tricks/"><u>Elevate Your Spreadsheets with Top 5 Unknown Excel Shortcuts and Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/excel-basics-unveiled-easy-techniques-for-incorporating-percentage-formulas-into-your-spreadsheets/"><u>Excel Basics Unveiled: Easy Techniques for Incorporating Percentage Formulas Into Your Spreadsheets</u></a></li>
-<li><a href="https://win-able.techidaily.com/excels-powerful-lookup-function-mastering-vlookup-without-an-external-table/"><u>Excel's Powerful Lookup Function: Mastering VLOOKUP Without an External Table</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-building-a-dynamic-summary-chart-with-microsoft-excel/"><u>Expert Guide: Building a Dynamic Summary Chart with Microsoft Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-reorganizing-your-spreadsheet-moving-cells-up-or-down-in-ms-excel/"><u>Expert Guide: Reorganizing Your Spreadsheet - Moving Cells Up or Down in MS Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/fast-and-efficient-ways-to-delete-images-in-an-excel-spreadsheet/"><u>Fast and Efficient Ways to Delete Images in an Excel Spreadsheet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/google-pixelbook-go-analysis-exceptionally-crafted-chromeos-device-with-an-expensive-price-point/"><u>Google Pixelbook Go Analysis: Exceptionally Crafted ChromeOS Device with an Expensive Price Point</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-best-practices-for-documenting-lol-playthroughs/"><u>In 2024, Best Practices for Documenting LOL Playthroughs</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo Y78t? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/keyboard-shortcuts-adding-rows-in-microsoft-excel-a-step-by-step-guide/"><u>Keyboard Shortcuts: Adding Rows in Microsoft Excel - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-data-arrangement-in-microsoft-excel-discover-the-7-most-effective-techniques/"><u>Mastering Data Arrangement in Microsoft Excel: Discover the 7 Most Effective Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-keyboard-shortcuts-how-to-undo-redo-and-repeat-actions-quickly-in-ms-excel/"><u>Mastering Keyboard Shortcuts: How to Undo, Redo, and Repeat Actions Quickly in MS Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-art-of-custom-borders-in-microsoft-excel/"><u>Mastering the Art of Custom Borders in Microsoft Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-art-of-making-text-fit-into-excel-cells-a-step-by-step-guide/"><u>Mastering the Art of Making Text Fit Into Excel Cells: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-use-of-ampersand-symbols-in-microsoft-excel-headerfooter-formatting/"><u>Mastering the Use of Ampersand Symbols in Microsoft Excel Header/Footer Formatting</u></a></li>
-<li><a href="https://win-able.techidaily.com/microsofts-decision-to-discontinue-currency-features-in-excel/"><u>Microsoft's Decision to Discontinue Currency Features in Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-guide-incorporating-macros-on-microsoft-offices-quick-access-toolbar/"><u>Quick Guide: Incorporating Macros on Microsoft Office's Quick Access Toolbar</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-crafting-a-personalized-pareto-diagram-using-microsoft-excel/"><u>Step-by-Step Guide: Crafting a Personalized Pareto Diagram Using Microsoft Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-mastering-the-art-of-summing-up-entire-columns-in-ms-excel/"><u>Step-by-Step Guide: Mastering the Art of Summing Up Entire Columns in MS Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-revealing-all-custom-cell-references-across-an-excel-file/"><u>Step-by-Step Tutorial on Revealing All Custom Cell References Across an Excel File</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-enabling-macs-quick-look-on-your-windows-pc/"><u>Step-by-Step Tutorial: Enabling Mac's Quick Look on Your Windows PC</u></a></li>
-<li><a href="https://article-helps.techidaily.com/syncing-socials-a-step-by-step-guide-to-linking-instagram-and-tiktok-for-2024/"><u>Syncing Socials A Step-by-Step Guide to Linking Instagram and TikTok for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-formula-easily-computing-your-or-someones-age-using-excel/"><u>The Ultimate Formula: Easily Computing Your or Someone's Age Using Excel</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-quickcapture-studio-chrome-os-snapper/"><u>[New] 2024 Approved QuickCapture Studio Chrome OS Snapper</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-art-of-youtube-thumbnails-for-mac-professionals/"><u>[New] 2024 Approved The Art of YouTube Thumbnails for Mac Professionals</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-achieving-precision-with-obs-implementing-timer-functionality-for-2024/"><u>[New] Achieving Precision with OBS Implementing Timer Functionality for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-cloud-services-with-infinite-capacity/"><u>[New] Ideal Cloud Services with Infinite Capacity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-vector-image-fundamentals-introduction-and-categories/"><u>[New] Vector Image Fundamentals Introduction & Categories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exclusive-guide-to-top-youtube-to-webm-conversion-software/"><u>[Updated] 2024 Approved Exclusive Guide to Top YouTube-to-WebM Conversion Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/mkv-to-mp4-4/"><u>無料変換技術🔄 MKV to MP4: 4つの最適手法を紹介する</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-technique-of-isolating-audio-from-mov-file-formats/"><u>Mastering the Technique of Isolating Audio From MOV File Formats</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-visuals-and-minimize-space-transform-dvd-to-h265-for-stellar-quality-and-smaller-files/"><u>Maximize Visuals & Minimize Space - Transform DVD to H.265 For Stellar Quality and Smaller Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-fixing-flawed-installation-of-ccleaner/"><u>Restoring Functionality: Fixing Flawed Installation of CCleaner</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-unable-to-connect-to-remote-server-issues/"><u>Troubleshooting Steps: Resolving 'Unable to Connect to Remote Server' Issues</u></a></li>
 </ul></div>
-
-
-
 

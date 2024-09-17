@@ -1,7 +1,7 @@
 ---
 title: Fixing the Elite Dangerous Game Crash Issue on Your Windows Computer
-date: 2024-09-10T14:18:34.728Z
-updated: 2024-09-11T14:18:34.728Z
+date: 2024-09-16T00:04:02.111Z
+updated: 2024-09-16T21:24:43.238Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/7210d597b33981cf8e8bc74bc3a1da89a343d982e
 
 Many Elite Dangerous players have been reporting the game crashing issue. It occurs randomly, at launch or mid-game, causing extreme annoyance. In this guide, we’ll take a look at Elite Dangerous crashing fixes.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## How to Fix Elite Dangerous Crashing
 
@@ -45,20 +42,6 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 2 – Verify the integrity of game files
 
  Files of your game installation might get corrupt sometimes, or be deleted as a false positive by antivirus, which could cause crashing issues during gameplay. Fortunately, you can verify the integrity of the game’s installation through Steam.
@@ -68,20 +51,6 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 **2)** Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
@@ -97,19 +66,12 @@ This could take several minutes. Wait for the process to be complete.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 3 – Update your graphics driver
 
@@ -127,61 +89,46 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch the game to test your issue. If the crash still occurs, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 5 – Disable unnecessary programs
 
@@ -195,37 +142,9 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **3)** Restart your game to see if it runs correctly now.
 
 Your game still won’t work correctly? Read on and try Fix 5.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 6 – Lower your graphics settings
 
@@ -269,8 +188,6 @@ If the crashing still happens, continue with the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -278,48 +195,16 @@ If the crashing still happens, continue with the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-expert-tips-for-enhancing-your-gopro-cinematic-vision/"><u>[New] 2024 Approved Expert Tips for Enhancing Your GoPro Cinematic Vision</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-free-video-magic-top-5-effect-tools/"><u>[New] In 2024, Free Video Magic Top 5 Effect Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-powerful-cinema-titles-that-bring-you-joy-and-strength/"><u>[New] Powerful Cinema Titles That Bring You Joy & Strength</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-where-creators-converge-and-craft-visual-stories-in-youtube-studio/"><u>[New] Where Creators Converge and Craft Visual Stories in Youtube Studio</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-a-beginners-guide-to-seo-skyrocket-your-view-count/"><u>[Updated] 2024 Approved A Beginner’s Guide to SEO Skyrocket Your View Count</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-hangout-history-capture-and-keep/"><u>[Updated] 2024 Approved Hangout History Capture & Keep</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-exclusive-environmentally-safe-recording-tools-for-2024/"><u>[Updated] Exclusive Environmentally Safe Recording Tools for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-obs-or-wirecast-your-ultimate-guide-to-broadcast-software/"><u>[Updated] OBS or Wirecast? Your Ultimate Guide to Broadcast Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/46602101-updated-simple-guide-youtube-to-mp3-on-mac-for-2024/"><u>[Updated] Simple Guide YouTube to MP3 on Mac for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-essential-tips-for-creating-films-with-movie-maker-in-w11/"><u>2024 Approved Essential Tips for Creating Films with Movie Maker in W11</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-troubleshooting-and-stabilizing-everspace-ii-on-computer-systems/"><u>Comprehensive Guide to Troubleshooting and Stabilizing Everspace II on Computer Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/cut-down-zooms-high-cpu-usage-with-these-6-effective-remedies/"><u>Cut Down Zoom’s High CPU Usage with These 6 Effective Remedies</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-fixes-for-unresponsive-chrome-issues-on-your-windows-11-pc/"><u>Effortless Fixes for Unresponsive Chrome Issues on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/essential-tips-for-resolving-gta-5-online-malfunctions/"><u>Essential Tips for Resolving GTA 5 Online Malfunctions</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-repair-your-windows-11-start-menu-problem-solved/"><u>How to Repair Your Windows 11 Start Menu – Problem Solved</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-and-prevent-slime-rancher-2-from-crashing-on-windowspc-a-comprehensive-guide/"><u>How to Resolve and Prevent 'Slime Rancher 2' From Crashing on Windows/PC – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/immortals-of-fenyx-rising-game-stability-issues-resolved/"><u>Immortals of Fenyx Rising Game Stability Issues - Resolved</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mafia-definitive-edition-release-delayed-inside-story-revealed/"><u>Mafia Definitive Edition Release Delayed - Inside Story Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-stability-addressing-praey-for-the-gods-pc-performance-problems/"><u>Mastering Stability: Addressing Praey for the Gods' PC Performance Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-battlefield-resolve-epic-games-dev-error-6634-warzone-cheat-sheet/"><u>Mastering the Battlefield: Resolve Epic Games' Dev Error 지원 제외 [6634] Warzone Cheat Sheet</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-world-of-warcraft-performance-top-tips-to-counteract-low-fps/"><u>Mastering World of Warcraft Performance: Top Tips to Counteract LOW FPS !</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximize-gaming-speed-expert-advice-on-overcoming-low-fps-challenges-in-valheim/"><u>Maximize Gaming Speed: Expert Advice on Overcoming LOW FPS Challenges in Valheim</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-pc-stability-problems-fixing-constant-overwatch-2-crashes/"><u>Overcoming PC Stability Problems: Fixing Constant Overwatch 2 Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-yakuza-6-gameplay-disruptions-for-a-smoother-experience-on-desktop/"><u>Overcoming Yakuza 6 Gameplay Disruptions for a Smoother Experience on Desktop</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-guide-restoring-connection-in-fallout-nv-game-crashes/"><u>PC Guide: Restoring Connection in Fallout Nv Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-how-to-fix-star-wars-jedi-fallen-order-not-starting-issue/"><u>Solved: How to Fix 'Star Wars Jedi: Fallen Order' Not Starting Issue</u></a></li>
-<li><a href="https://video-capture.techidaily.com/thriving-in-digital-discussions-essential-strategies-for-proficient-zoom-chats/"><u>Thriving in Digital Discussions Essential Strategies for Proficient ZOOM Chats</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-ark-game-crash-problems-tips-and-fixes-for-a-smooth-experience/"><u>Troubleshooting ARK Game Crash Problems: Tips and Fixes for a Smooth Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-prevent-warzone-from-stuttering-on-your-computer/"><u>Troubleshooting Steps to Prevent Warzone From Stuttering on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-resolving-persistent-sovled-warno-pc-app-crashes/"><u>Troubleshooting Tips for Resolving Persistent [SOVLED] Warno PC App Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/ui-flaw-in-black-ops-cold-war-corrected-eliminating-error-27711-on-playstation-and-pc/"><u>UI Flaw in Black Ops Cold War Corrected: Eliminating Error 27711 on PlayStation and PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722995115910-valorant-playback-woes-heres-how-to-solve-them/"><u>Valorant Playback Woes? Here's How to Solve Them</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-culinary-callings-innovative-naming-for-foodie-channels-for-2024/"><u>[Updated] Culinary Callings Innovative Naming for Foodie Channels for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-sliceshot-synopsis/"><u>[Updated] SliceShot Synopsis</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-top-6-reel-enhancing-applications-for-instagram/"><u>[Updated] Top 6 Reel-Enhancing Applications for Instagram</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oppo-reno-8t-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Oppo Reno 8T 5G Phones with/without a PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-solutions-resolve-your-netflix-audio-problems-instantly/"><u>Quick & Simple Solutions: Resolve Your Netflix Audio Problems Instantly</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-accessing-group-policy-editor-gpeditmsc-on-windows-home-systems/"><u>Solution Guide: Accessing Group Policy Editor (gpedit.msc) on Windows Home Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-installation-tips-for-streaming-classic-sweet-and-salty-treats-on-your-kodi-device-with-leia-and-krypton-themes/"><u>Ultimate Installation Tips for Streaming Classic Sweet and Salty Treats on Your Kodi Device with Leia and Krypton Themes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-stop-motion-on-instagram-like-a-pro-a-beginners-guide/"><u>Updated 2024 Approved Stop Motion on Instagram Like a Pro A Beginners Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows/"><u>Windows上で動画形式のファイルサイズ調整ガイド</u></a></li>
 </ul></div>
-
-
-
 

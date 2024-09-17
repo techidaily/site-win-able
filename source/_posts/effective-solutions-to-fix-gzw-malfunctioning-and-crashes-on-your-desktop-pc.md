@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions to Fix GZW Malfunctioning and Crashes on Your Desktop PC
-date: 2024-09-10T14:20:59.599Z
-updated: 2024-09-11T14:20:59.599Z
+date: 2024-09-09T22:03:37.721Z
+updated: 2024-09-16T16:51:08.167Z
 tags:
   - win11
   - win10
@@ -29,13 +29,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 | GPU              | NVIDIA GeForce GTX 660 or similar |
 | Storage          | 20 GB                             |
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -46,20 +43,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -69,35 +52,7 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 If it’s not working, move to next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Disable overclocking
 
@@ -110,20 +65,6 @@ If it’s not working, move to next fix.
 3. Restart the game and check.
 
 No luck with this one? Move to the next.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Update your drivers
 
@@ -156,22 +97,15 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -184,18 +118,12 @@ OR
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -214,8 +142,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,49 +149,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-platform-predicament-choosing-the-right-space/"><u>[Updated] 2024 Approved Platform Predicament Choosing the Right Space</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-top-igtv-gurus-you-cant-miss/"><u>[Updated] 2024 Approved Top IGTV Gurus You Can't Miss</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-question-of-streaming-fb-moviesvideos-via-tv/"><u>[Updated] In 2024, The Question of Streaming FB Movies/Videos via TV</u></a></li>
-<li><a href="https://win-able.techidaily.com/1-teaspoon-salt/"><u>1 Teaspoon Salt</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-8-free-instagram-to-mp4-converters-that-you-can-try-onlinewindowsmac/"><u>2024 Approved 8 Free Instagram to MP4 Converters That You Can Try [Online/Windows/Mac]</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-aligning-phonetablet-zoom-schedules-with-pc-plans/"><u>2024 Approved Aligning Phone/Tablet Zoom Schedules with PC Plans</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-breathing-new-life-into-anime-with-impactful-tiktoks/"><u>2024 Approved Breathing New Life Into Anime with Impactful TikToks</u></a></li>
-<li><a href="https://win-able.techidaily.com/ark-ii-on-pc-crashes-discover-these-9-fixes-for-a-smooth-gaming-experience/"><u>ARK II on PC Crashes? Discover These 9 Fixes for a Smooth Gaming Experience!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cant-view-hevc-h265-content-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/compile-and-connect-videos-on-youtv/"><u>Compile and Connect Videos on YouTV</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-website-analytics-and-tracking/"><u>Cookiebot-Driven Website Analytics and Tracking</u></a></li>
-<li><a href="https://win-able.techidaily.com/dragon-age-origins-no-longer-crashes-on-windows-11-solution-found/"><u>Dragon Age: Origins No Longer Crashes on Windows 11 - Solution Found!</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-starting-saints-row-on-pc-without-errors/"><u>Effective Solutions for Starting Saints Row on PC Without Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-pc-application-errors-discover-6-dependable-fixes-for-stray-crashing-issues/"><u>Eliminate PC Application Errors: Discover 6 Dependable Fixes for 'Stray Crashing' Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/ensuring-steam-game-data-syncs-with-the-cloud-a-comprehebate-guide/"><u>Ensuring Steam Game Data Syncs with the Cloud - A Comprehebate Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-and-tricks-to-eliminate-resident-evil-village-stuttering-issues-on-personal-computers/"><u>Expert Tips & Tricks to Eliminate Resident Evil Village Stuttering Issues on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-repairing-launch-issues-with-the-thaumaturge-software-on-desktop-systems/"><u>Expert Tips for Repairing Launch Issues with the Thaumaturge Software on Desktop Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-guide-how-to-resolve-city-skylines-2-not-starting-issue/"><u>Fix Guide: How to Resolve City Skylines 2 Not Starting Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-fallout-76-lag-eliminating-gameplay-interruptions-successfully/"><u>Fix Your Fallout ^76 Lag: Eliminating Gameplay Interruptions Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-call-of-duty-black-ops-cold-war-error-code-0xc0000005-successfully/"><u>Fixing Call of Duty: Black Ops Cold War Error Code 0xC0000005 Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/game-on-without-glitches-solving-rocket-league-crashing-issues/"><u>Game On Without Glitches: Solving 'Rocket League' Crashing Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/game-on-without-stutters-troubleshooting-fallout-76-performance-problems/"><u>Game On Without Stutters: Troubleshooting Fallout 76 Performance Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-issues-when-star-wars-jedi-fallen-order-game-doesnt-open/"><u>How to Fix Issues When Star Wars Jedi: Fallen Order Game Doesn't Open</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-persistent-connection-failed-bug-for-game-cheaters-on-eft/"><u>How to Fix the Persistent 'Connection Failed' Bug for Game Cheaters on EFT</u></a></li>
-<li><a href="https://win-able.techidaily.com/mlb-the-show-21-online-play-troubleshooting-guide-for-smooth-gaming/"><u>MLB The Show 21 Online Play Troubleshooting Guide for Smooth Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/red-dead-online-not-working-solve-persistent-pc-game-crashing-problems-here/"><u>Red Dead Online Not Working? Solve Persistent PC Game Crashing Problems Here!</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-fix-resolving-relink-issues-within-the-granblue-fantasy-game-on-pc/"><u>Step-by-Step Fix: Resolving Relink Issues Within the Granblue Fantasy Game on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-strategies-to-stop-your-pc-from-continuously-crashing-during-frontier-sessions/"><u>Step-by-Step Strategies to Stop Your PC From Continuously Crashing During Frontier Sessions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tackling-windows-glitches-expert-tips-for-resolving-the-notorious-error-code-19/"><u>Tackling Windows Glitches: Expert Tips for Resolving the Notorious Error Code 19</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-complete-guide-to-solve-windows-pc-screen-trembling-in-google-chrome-expert-advice-from-2024/"><u>The Complete Guide to Solve Windows PC Screen Trembling in Google Chrome - Expert Advice From 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-stop-manor-lords-game-from-freezing-on-pc/"><u>Troubleshoot and Stop Manor Lords Game From Freezing on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-504-errors-effective-solutions-and-tips/"><u>Troubleshooting 504 Errors: Effective Solutions and Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-audio-glitches-in-dying-light-solutions-unveiled/"><u>Troubleshooting Audio Glitches in Dying Light: Solutions Unveiled</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-fixing-the-error-when-ubisoft-connect-fails/"><u>Troubleshooting Steps: Fixing the Error When Ubisoft Connect Fails</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlock-pc-potential-mtk-usb-for-windows-oses/"><u>Unlock PC Potential - MTK USB for Windows OSes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-from-baking-to-boiling-top-15-innovative-tiktok-dishes/"><u>[Updated] From Baking to Boiling Top 15 Innovative TikTok Dishes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-how-to-make-duet-on-tiktok/"><u>[Updated] How to Make Duet On TikToK?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-my-top-six-picks-for-enjoying-music-vids-on-the-internet/"><u>Discover My Top Six Picks for Enjoying Music Vids on the Internet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-y28-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo Y28 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g14-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Motorola Moto G14 Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-htc-u23-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock HTC U23 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-amplifying-your-videos-using-pc-software/"><u>Step-by-Step Guide to Amplifying Your Videos Using PC Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-incorporating-videos-into-your-google-slides/"><u>Step-by-Step Guide: Incorporating Videos Into Your Google Slides</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-mastering-youtube-videos-conversion-with-factorypro/"><u>Step-by-Step Guide: Mastering YouTube Videos Conversion with FactoryPro</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-transforming-mp4-audio-files-into-mp3-format-with-windows-media-player/"><u>Step-by-Step Guide: Transforming MP4 Audio Files Into MP3 Format with Windows Media Player</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-transforming-dvd-content-into-mkvmp4avi-format-and-adding-personalized-subtitles/"><u>Step-by-Step Tutorial on Transforming DVD Content Into MKV/MP4/AVI Format and Adding Personalized Subtitles</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-how-to-turn-your-dvd-media-into-mp4-format-without-cost-on-windows-11/"><u>Step-by-Step Tutorial: How to Turn Your DVD Media Into MP4 Format Without Cost on Windows 11</u></a></li>
 </ul></div>
-
-
-
 
