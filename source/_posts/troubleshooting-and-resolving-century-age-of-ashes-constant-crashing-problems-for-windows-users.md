@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Resolving 'Century: Age of Ashes' Constant Crashing Problems for Windows Users"
-date: 2024-09-14T20:47:29.805Z
-updated: 2024-09-16T21:36:15.287Z
+date: 2024-09-18T17:08:37.779Z
+updated: 2024-09-21T21:01:17.744Z
 tags:
   - win11
   - win10
@@ -88,16 +88,10 @@ There’re mainly two ways you can update your graphics drivers:
 **Or**
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
@@ -128,10 +122,10 @@ There’re mainly two ways you can update your graphics drivers:
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Purge memory & disk cache
@@ -142,19 +136,26 @@ There’re mainly two ways you can update your graphics drivers:
 ![Purge all memory and disk cache](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache.jpg)
 2. Click**OK** to delete all files from your disk cache.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If After Effects works well after you purged memory and disk cache, it may suggests that currently your computer doesn’t has sufficient RAM or storage for After Effects to run properly and you may need to upgrade the memory or storage to prevent crashes due to insufficient resources in the future.
 
  The mechanical hard drive may also be the culprit of the crashing issue. As we all know, the mechanical hard drive is prone to damage. Bad sectors may corrupt the files stored on it and cause crashing. If it is the case, you may want to replace the mechanical hard drive to a solid-state drive (SSD).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Delete the temp folder of After Effects
 
@@ -165,13 +166,6 @@ There’re mainly two ways you can update your graphics drivers:
 3. Look for**the After Effects folder** and delete it.  
 ![Delete the temp folder of After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Delete-the-temp-folder-of-After-Effects.jpg)
 4. Launch After Effects to see if this issue persists.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If After Effects still crashes, try the next fix, below.
 
@@ -213,21 +207,21 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-the-world-of-igs-reels-and-stories/"><u>[New] 2024 Approved Mastering the World of IG’s Reels and Stories</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-expanding-social-footprint-tying-igtv-and-facebook-together/"><u>[New] In 2024, Expanding Social Footprint Tying IGTV & Facebook Together</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-social-media-to-mp3-converter/"><u>[Updated] Social Media to Mp3 Converter</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unlocking-advanced-screen-captures-on-android-for-2024/"><u>[Updated] Unlocking Advanced Screen Captures on Android for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/pnggif-3/"><u>「最適なフリーツールで効率的にPNGからGIFへの変換ガイド: 上位3品目」</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-breakthrough-methodology-introducing-chapters-in-your-youtube-videos/"><u>2024 Approved Breakthrough Methodology Introducing Chapters in Your YouTube Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-stuck-on-loading-screen-in-red-dead-redemption-2-tips-and-solutions/"><u>Fixing the 'Stuck on Loading Screen' In Red Dead Redemption 2 - Tips & Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-bridging-moments-creating-fluid-edits-with-inshot/"><u>In 2024, Bridging Moments Creating Fluid Edits with Inshot</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-m3u-files-comprehensive-insights-on-crafting-and-streaming-with-m3u-playlists/"><u>Mastering M3U Files: Comprehensive Insights on Crafting and Streaming with M3U Playlists</u></a></li>
-<li><a href="https://win-able.techidaily.com/mtswindowsmov/"><u>MTSビデオをWindowsでMOVに変換する初心者用の包括的な方法</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-unlock-the-power-of-microsoft-video-editor-windows-video-editing-tips-and-tricks-for-2024/"><u>New Unlock the Power of Microsoft Video Editor Windows Video Editing Tips and Tricks for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-methods-for-transforming-lengthy-youtube-clips-into-high-quality-mp3-files/"><u>Quick Methods for Transforming Lengthy YouTube Clips Into High-Quality MP3 Files</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-prores-editing-on-windows-get-the-codec-and-playback-solution/"><u>Seamless ProRes Editing on Windows - Get the Codec and Playback Solution</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-capturing-live-webcasts-and-podcasts-with-windows-11/"><u>Step-by-Step Guide: Capturing Live Webcasts and Podcasts with Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-incorporating-videos-into-your-google-slides/"><u>Step-by-Step Guide: Incorporating Videos Into Your Google Slides</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-iphone-and-android-tips-direct-video-sharing-to-twitter-no-retweets/"><u>[New] In 2024, IPhone & Android Tips Direct Video Sharing to Twitter No Retweets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-upgrade-your-photo-presence-best-border-selection-tips-for-instagram/"><u>[New] In 2024, Upgrade Your Photo Presence Best Border Selection Tips for Instagram</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-creating-immersive-experiences-with-quality-video-voice-over/"><u>[Updated] 2024 Approved Creating Immersive Experiences with Quality Video Voice Over</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-drafting-an-exciting-cinema-flashbacks-series-for-2024/"><u>[Updated] Drafting an Exciting Cinema Flashbacks Series for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-audio-archivers-for-teachings-for-2024/"><u>[Updated] Premier Audio Archivers for Teachings for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/emphasis-on-the-importance-of-electrical-resistivity-in-determining-how-well-particles-can-be-charged-and-collected-without-causing-operational-issues/"><u>Emphasis on the Importance of Electrical Resistivity in Determining How Well Particles Can Be Charged and Collected without Causing Operational Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-nokia-is-unlocked-by-drfone-android/"><u>How To Check if Your Nokia Is Unlocked</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-create-amazing-birthday-videos-our-selection-of-the-10-best-free-online-tools/"><u>How to Create Amazing Birthday Videos : Our Selection of the 10 Best Free Online Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-cod-black-ops-cold-war-issue-with-error-80070057/"><u>How to Overcome the Cod: Black Ops Cold War Issue with Error 80070057</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-play-divx-videos-everything-you-need-to-know-about-divx-formats-and-compatibility/"><u>How to Play DivX Videos: Everything You Need to Know About DivX Formats and Compatibility</u></a></li>
+<li><a href="https://win-able.techidaily.com/innovative-tech-integrated-educational-blueprints-crafting-engaging-lesson-plans-with-digital-tools/"><u>Innovative Tech-Integrated Educational Blueprints: Crafting Engaging Lesson Plans with Digital Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/movavi-transformez-vos-images-au-format-w64-en-version-adaptee-a-la-web-gratuitement/"><u>Movavi : Transformez Vos Images Au Format W64 en Version Adaptée À La Web, Gratuitement!</u></a></li>
+<li><a href="https://win-able.techidaily.com/ogm-naar-vob-omzetten-online-met-movavi-gratuite-gemakkelijke-uploadprocess/"><u>OGM Naar VOB Omzetten Online Met Movavi - Gratuite, Gemakkelijke Uploadprocess</u></a></li>
+<li><a href="https://win-able.techidaily.com/online-bild-verarbeitung-and-konvertierung-kostenlose-losungen-von-movavi-definiert/"><u>Online Bild Verarbeitung & Konvertierung: Kostenlose Lösungen Von Movavi Definiert</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-lg-k51-impressive-aesthetics-overshadowed-by-processor-speed-issues/"><u>Unveiling the LG K51: Impressive Aesthetics Overshadowed by Processor Speed Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/jpeggifmovavi/"><u>オンラインフリー変換: JPEGおよびGIFをMovaviでシームレスに変換する方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Clear the Haze: Techniques for Enhancing COD: Warzone Graphics on Desktop Systems"
-date: 2024-09-14T16:59:02.158Z
-updated: 2024-09-16T16:29:12.295Z
+date: 2024-09-14T22:35:03.676Z
+updated: 2024-09-21T21:45:07.925Z
 tags:
   - win11
   - win10
@@ -106,19 +106,6 @@ If your problem persists, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-896.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **DOOM** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-13.jpg)
@@ -131,6 +118,19 @@ If your problem persists, then go ahead with the next fix below.
 
 If this didn’t work, try the fix, below.
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Lower your in-game settings
 
  Improper game settings can also cause the game to fail. If the game isn’t running smoothly, try lowing the graphics settings. Here is how:
@@ -142,13 +142,6 @@ If this didn’t work, try the fix, below.
 **3)** Find the**Virtual Texture Pool Size** , and turn it to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_17-36-42.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Relaunch the game to see if this worked.
 
@@ -165,16 +158,10 @@ If not, move on and try the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click **View advanced system settings.**
@@ -218,15 +205,22 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-575.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Restart your computer after the update is complete, then try running DOOM again.
@@ -249,22 +243,16 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Highlight the **DOOM Eternal folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_12-34-56-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall DOOM.
 
@@ -291,12 +279,20 @@ If not, move on and try the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-experts-pathway-navigating-fullscreen-realms-in-premiere-pro-for-2024/"><u>[Updated] Expert's Pathway Navigating Fullscreen Realms in Premiere Pro for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/camsphere-exploration-what-else-can-we-see-in-2024/"><u>CamSphere Exploration What Else Can We See, In 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/combat-the-code-fixing-pc-woes-with-warzone-version-50-and-31-disc-read-issues/"><u>Combat the Code: Fixing Pc Woes with Warzone Version 5.0 and 3.1 Disc Read Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/dvd-compatibility-with-ps4-easy-method-enables-universal-playback/"><u>DVD Compatibility with PS4: Easy Method Enables Universal Playback</u></a></li>
-<li><a href="https://win-able.techidaily.com/dvd-iso/"><u>DVD パッケージ用に ISO ファイルを最適化する方法：初心者向けガイド</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-techniques-for-correcting-dvd-copy-protection-issue-with-error-0x80/"><u>Effective Techniques for Correcting 'DVD Copy Protection' Issue with Error 0X80</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-itel-p55-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Itel P55 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-7-must-have-metaverse-devices-you-need-to-prepare/"><u>[New] 7 Must-Have Metaverse Devices You Need to Prepare</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-proven-ways-to-archive-roblox-games-on-apple-devices/"><u>[New] In 2024, Proven Ways to Archive Roblox Games on Apple Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-pros-guide-from-playback-to-perfected-overwatch-recordings/"><u>2024 Approved The Pro's Guide From Playback to Perfected Overwatch Recordings</u></a></li>
+<li><a href="https://win-able.techidaily.com/adobe-launch-failure-explained-understanding-and-solving-error-0xc00amo0022/"><u>Adobe Launch Failure Explained: Understanding and Solving Error 0xC00amo0022</u></a></li>
+<li><a href="https://techtrends.techidaily.com/aol-mail-not-responding-how-to-tell-if-its-a-server-outage-or-connectivity-problem/"><u>AOL Mail Not Responding: How to Tell If It's a Server Outage or Connectivity Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/blackout-no-more-fixing-your-epic-games-launchers-visual-glitches/"><u>Blackout No More: Fixing Your Epic Games Launcher's Visual Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-the-challenge-of-a-reliable-nba-2k21-experience-no-more-pc-crashes/"><u>Conquering the Challenge of a Reliable NBA 2K21 Experience - No More PC Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-rockstar-games-launcher-errors-expert-tips-for-a-flawless-fix/"><u>Dealing With Rockstar Games Launcher Errors? Expert Tips for a Flawless Fix!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-poco-f5-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Poco F5 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-unleashing-the-power-of-xml-in-final-cut-pro-x/"><u>In 2024, Unleashing the Power of XML in Final Cut Pro X</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/leveraging-url-posts-for-maximum-impact-on-insta-storypost/"><u>Leveraging URL Posts for Maximum Impact on Insta Story/Post</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-overwatch-performance-hiccups-improve-frame-rates-easily/"><u>Overcome Overwatch Performance Hiccups - Improve Frame Rates Easily</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/professional-insights-on-the-latest-kobo-clara-colour-ereader-full-product-assessment-and-opinions/"><u>Professional Insights on the Latest Kobo Clara Colour eReader – Full Product Assessment & Opinions</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-instructions-to-correct-connection-unavailable-to-live-servers-mistakes/"><u>Step-by-Step Instructions to Correct 'Connection Unavailable to Live Servers' Mistakes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/telecharger-et-convertir-des-fichiers-ogg-en-mp4-facilement-grace-a-movavi-le-meilleur-tutoriel-gratuit/"><u>Télécharger Et Convertir Des Fichiers OGG en MP4 Facilement Grâce À Movavi - Le Meilleur Tutoriel Gratuit</u></a></li>
 </ul></div>
 

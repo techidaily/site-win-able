@@ -1,7 +1,7 @@
 ---
 title: "COD: Modern Warfare 3 Performance Issues & Latency Drops Expected for Players"
-date: 2024-09-10T21:27:13.681Z
-updated: 2024-09-16T17:56:08.436Z
+date: 2024-09-18T22:18:09.725Z
+updated: 2024-09-21T20:49:20.056Z
 tags:
   - win11
   - win10
@@ -80,6 +80,14 @@ You can do it with only 2 steps:
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
@@ -88,13 +96,6 @@ You can do it with only 2 steps:
  Once you’ve updated your graphics driver, restart your computer and join a game in Modern Warfare. You can now test the gameplay and see if the driver update helps your case.
 
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -114,6 +115,13 @@ And it’s quite easy to update too:
 
  If this method doesn’t help your case, please move on to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5:**Clean up resource-hungry processes**
 
  Sometimes your game becomes laggy when you have some background tasks eating up your RAM or CPU resources. Before opening a game in Modern Warfare, first make sure you’ve exited programs like**Chrome** ,**Discord** ,**Skype** or**Windows Update** that might exhaust your computer resources.
@@ -131,40 +139,28 @@ Here’s how to enable this power plan:
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
-4. In the command prompt, type or paste the following command and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
+4. In the command prompt, type or paste the following command and press**Enter** .  
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
 
@@ -187,15 +183,17 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-strategic-instagram-video-marketing-secrets-to-captivating-audiences/"><u>[New] 2024 Approved Strategic Instagram Video Marketing Secrets to Captivating Audiences</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-renewal-of-windows-photo-viewer-two-efficient-methods-in-windows-10-for-2024/"><u>[New] Renewal of Windows Photo Viewer Two Efficient Methods in Windows 10 for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-yearly-recorder-real-time-social-media-events/"><u>[Updated] 2024 Approved Yearly Recorder Real-Time Social Media Events</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-essential-guide-best-top-10-fb-videos-on-android-downloader/"><u>[Updated] Essential Guide Best Top 10 FB Videos on Android Downloader</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-visual-impact-crafting-effective-thumbnails/"><u>2024 Approved YouTube's Visual Impact Crafting Effective Thumbnails</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-easily-save-youtube-content-for-offline-viewing-on-your-ipad-a-step-by-step-tutorial/"><u>How To Easily Save YouTube Content for Offline Viewing on Your iPad - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-isolate-audio-from-dvds-with-dvd-decryptor-tool/"><u>How to Isolate Audio From DVDs with DVD Decryptor Tool</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-quickly-flip-your-videos-right-on-windows-7-step-by-step-guide/"><u>How To Quickly Flip Your Videos Right on Windows 7 (Step-by-Step Guide)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-8-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 8?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/online-angebot-macx-dvd-ripping-masterkey-bei-einem-reduzierten-preis-fugen-sie-jetzt-hinzu/"><u>Online-Angebot: MacX DVD Ripping Masterkey Bei Einem Reduzierten Preis Fügen Sie Jetzt Hinzu!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-from-followers-to-brand-ambassadors-the-five-pillars-of-influencer-success/"><u>[New] 2024 Approved From Followers to Brand Ambassadors The Five Pillars of Influencer Success</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-elevate-farming-fun-with-these-top-7-stardew-valley-enhancements-for-2024/"><u>[New] Elevate Farming Fun with These Top 7 Stardew Valley Enhancements for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-youtubes-golden-rule-for-profit-partnership/"><u>[New] In 2024, YouTube's Golden Rule for Profit Partnership</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-first-film-experience-selecting-best-gopro-extras/"><u>[Updated] First Film Experience Selecting Best GoPro Extras</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-high-definition-hd-youtube-and-fb-videos/"><u>[Updated] In 2024, The Ultimate Guide to High Definition (HD) YouTube & FB Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp4webm/"><u>利用移動瓦韋解除 MP4/WEBM 限制：自由、無界的內容轉換器選擇</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125153821-bambu-lab-x1-carbon-3d-printer-examined-ahead-of-its-competitors/"><u>Bambu Lab X1-Carbon 3D Printer Examined: Ahead of Its Competitors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/masterclass-how-to-transfer-and-run-windows-10-on-a-new-hard-drive-efficiently/"><u>Masterclass: How to Transfer and Run Windows 10 on a New Hard Drive Efficiently</u></a></li>
+<li><a href="https://win-able.techidaily.com/movavi-tanulasi-szolgaltatas-jobb-attekfoldezo-kozpontot-hasznos-utmutatoval-es-hosszabb-ervennyel/"><u>Movavi Tanulási Szolgáltatás: Jobb Áttekföldező Központot, Hasznos Útmutatóval És Hosszabb Érvénnyel</u></a></li>
+<li><a href="https://win-able.techidaily.com/movavis-no-cost-tool-for-swiftly-transforming-png-files-into-high-quality-jpegs/"><u>Movavi's No-Cost Tool for Swiftly Transforming PNG Files Into High-Quality JPEGs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-persistent-common-dll-has-stopped-working-in-windows-systems/"><u>Solving the Persistent 'Common Dll Has Stopped Working' In Windows Systems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/video-voyage-to-victory-secrets-from-youtube-stars-for-2024/"><u>Video Voyage to Victory Secrets From YouTube Stars for 2024</u></a></li>
 </ul></div>
 
