@@ -1,7 +1,7 @@
 ---
 title: Madden NFL 21 PC Stability Issues? Here's How to Resolve Them
-date: 2024-09-16T23:31:34.563Z
-updated: 2024-09-21T16:28:25.482Z
+date: 2024-09-20T21:45:57.599Z
+updated: 2024-09-28T00:48:15.520Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ Here’s how to do that on Origin:
 2. Select Madden NFL 21\. Then click the setting icon and select**Repair** . Wait for the process to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-verify-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once done, launch Madden 21 and check if it crashes again.
 
 If the fix doesn’t stop the crash, you can try the next one below.
@@ -59,21 +66,29 @@ If the fix doesn’t stop the crash, you can try the next one below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating the latest graphics driver, restart your PC and test the gameplay in Madden 21.
 
  If the latest graphics driver doesn’t help, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -83,31 +98,18 @@ To minimize conflicts, you also need to install all the system patches:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  If you’re sure your system is up to date, simply check out the next trick below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Switch your DirectX version
 
@@ -125,6 +127,13 @@ To minimize conflicts, you also need to install all the system patches:
 Now you can check if the crash stops.
 
  If changing DirectX version doesn’t give you luck, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphical settings
 
@@ -156,5 +165,26 @@ Once done, restart your game and test the improvement.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-masterclass-syncing-your-social-media-with-urls/"><u>[New] Masterclass Syncing Your Social Media with URLs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reimagining-editing-processes-the-revolutionary-world-of-magix-video-pro-x/"><u>[New] Reimagining Editing Processes The Revolutionary World of Magix Video Pro X</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-10-recording-tips-for-recording-audio-with-high-quality/"><u>[Updated] 10 Recording Tips for Recording Audio with High Quality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagrams-video-chatting-compendium/"><u>[Updated] In 2024, Instagram's Video Chatting Compendium</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-integrating-twitter-content-with-facebook-networks/"><u>[Updated] Integrating Twitter Content with Facebook Networks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-mastery-spotting-unique-audience-groups/"><u>[Updated] Youtube Mastery Spotting Unique Audience Groups</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-closer-look-at-virtual-reality-flaws-for-2024/"><u>A Closer Look at Virtual Reality Flaws for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-overcome-error-0x80072f8f-0x20000/"><u>Expert Tips to Overcome Error 0X80072f8f - 0X20000</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008669317-fix-your-deathloop-starting-problem-with-these-simple-solutions/"><u>Fix Your Deathloop Starting Problem with These Simple Solutions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-and-resolve-game-crashes-on-pc-for-death-stranding-players/"><u>How to Prevent and Resolve Game Crashes on PC for Death Stranding Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/path-of-exile-connection-woes-heres-your-2024-step-by-step-solution/"><u>Path of Exile Connection Woes? Here's Your 2024 Step-by-Step Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-how-to-overcome-pc-black-screen-glitches-and-enjoy-uninterrupted-gameplay/"><u>Rainbow Six Siege: How to Overcome PC Black Screen Glitches and Enjoy Uninterrupted Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/restoring-game-sounds-in-skyrim-a-step-by-step-guide/"><u>Restoring Game Sounds in Skyrim - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revamping-iphone-photography-top-tricks-when-the-lens-refuses-to-focus/"><u>Revamping iPhone Photography: Top Tricks When the Lens Refuses to Focus</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-frame-rate-drops-and-stutters-in-the-latest-game-version/"><u>Solving Frame Rate Drops and Stutters in the Latest Game Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-for-users-facing-problems-with-cortana-service/"><u>Step-by-Step Fixes for Users Facing Problems with Cortana Service</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fix-guide-for-starting-far-cry-6-successfully-on-desktops-and-laptops/"><u>The Ultimate Fix Guide for Starting Far Cry 6 Successfully on Desktops and Laptops</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-isnt-diablo-iii-playing-find-out-how-to-fix-it/"><u>Why Isn't Diablo III Playing? Find Out How to Fix It</u></a></li>
+</ul></div>
 

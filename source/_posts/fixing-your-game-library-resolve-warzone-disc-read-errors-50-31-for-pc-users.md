@@ -1,7 +1,7 @@
 ---
 title: "Fixing Your Game Library: Resolve Warzone Disc Read Errors [5.0, 3.1] for PC Users"
-date: 2024-09-19T21:07:57.251Z
-updated: 2024-09-21T16:18:59.048Z
+date: 2024-09-23T06:00:31.922Z
+updated: 2024-09-28T07:35:15.601Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
  Please first check out **[Star Wars Squadrons minimum requirements](https://www.ea.com/games/starwars/squadrons/overview/pc-system-requirements)**  to ensure your rig is able to handle the game. Otherwise, you need to upgrade the PC for enjoyable gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Star Wars Squadrons as an administrator
 
  In some cases, Star Wars Squadrons requires elevated permissions to work as intended, or else it crashes randomly. To run the game in the administrator mode, follow the steps below:
@@ -49,6 +56,13 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
 Check if the game runs normally now. If not, move on to the second fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Verify the integrity of your game files
 
  Star Wars Squadrons crashing may be caused by missing or corrupted game files. So an integrity check is necessary at the very start. We’ll show you how to do this both on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -58,6 +72,13 @@ Check if the game runs normally now. If not, move on to the second fix.
 **1)** Launch the Steam client, and navigate to the**Library** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Right-click**Star Wars Squadrons** from the game list and click**Properties** .
 
@@ -79,14 +100,14 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0.jpg)
 
- Relaunch the game after repair finishes. If crashing remains, try the next fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Relaunch the game after repair finishes. If crashing remains, try the next fix below.
 
 ### Fix 3 – Update your graphics driver
 
@@ -130,10 +151,10 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Untick**Enable the Steam Overlay while in-game** .
@@ -141,10 +162,10 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### On Origin
@@ -175,14 +196,14 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-00.jpg)
 
- Restart the game to see whether crashing is fixed or not. If not, head towards the next method.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Restart the game to see whether crashing is fixed or not. If not, head towards the next method.
 
 ### Fix 5 – Adjust the graphics settings
 
@@ -202,22 +223,16 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Scroll down to Volumetric Quality, and set it to**Medium** or**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  According to your needs, you can also set other options under Advanced Settings to**Low** or**Medium** . After the changes are applied, run the game to check if crashes go away. If not, take a look at the last fix.
 
@@ -244,5 +259,26 @@ There are mainly two ways you can do the driver update:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-techniques-for-high-quality-in-game-recordings/"><u>[New] Techniques for High-Quality In-Game Recordings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-15-gaming-capture-utilities/"><u>[New] Top 15 Gaming Capture Utilities</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-expert-selection-top-5-free-tools-for-extracting-pin-videos/"><u>[Updated] In 2024, Expert Selection Top 5 Free Tools for Extracting Pin Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-why-watch-hd-switch-to-av1-codec-on-youtube/"><u>[Updated] In 2024, Why Watch HD? - Switch to AV1 Codec on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-the-easiest-fix-on-how-to-livestream-a-podcast/"><u>[Updated] The Easiest Fix on How to Livestream a Podcast</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unlocking-the-potential-of-capturing-digital-entertainment/"><u>2024 Approved Unlocking the Potential of Capturing Digital Entertainment</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-fixing-phasmophobias-vr-connectivity-issues/"><u>Comprehensive Guide to Fixing Phasmophobia's VR Connectivity Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-pc-crashing-master-nba-2k23-stability-with-seven-key-strategies-just-solved/"><u>Conquer PC Crashing: Master NBA 2K23 Stability with Seven Key Strategies Just Solved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortlessly-fix-assassins-creed-odyssey-pc-game-crashes/"><u>Effortlessly Fix Assassin's Creed Odyssey PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-how-to-fix-the-troublesome-dead-by-daylight-error-code-8014/"><u>Expert Advice: How to Fix the Troublesome Dead by Daylight Error Code 8014</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-magic-mouse-driver-downloader-toolkit-quick-guide-and-setup-instructions-for-windows/"><u>Free Magic Mouse Driver Downloader Toolkit: Quick Guide and Setup Instructions for Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-navigating-rights-in-instagram-songs/"><u>In 2024, Navigating Rights in Instagram Songs</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-optimize-your-maplestory-game-on-windows-11-this-year/"><u>Mastering Stability: Optimize Your MapleStory Game on Windows 11 This Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-gameplay-solving-dragons-dogma-iis-low-fps-woes/"><u>Optimizing Your Gameplay: Solving Dragon's Dogma II's Low FPS Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-batman-arkh-issues-fixes-for-crashing-errors-and-system-failures/"><u>Resolving Batman ARKH Issues: Fixes for Crashing Errors and System Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-puzzle-of-football-manager-2022s-missing-debut-tips-and-tricks/"><u>Solving the Puzzle of Football Manager 2022'S Missing Debut – Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-made-easy-now-stable-disco-elysium-for-your-computer/"><u>Troubleshooting Made Easy: Now Stable, Disco Elysium for Your Computer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-effortless-giggle-editor/"><u>Ultimate Effortless Giggle Editor</u></a></li>
+</ul></div>
 

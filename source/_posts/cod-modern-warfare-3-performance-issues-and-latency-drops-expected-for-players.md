@@ -1,7 +1,7 @@
 ---
 title: "COD: Modern Warfare 3 Performance Issues & Latency Drops Expected for Players"
-date: 2024-09-18T22:18:09.725Z
-updated: 2024-09-21T20:49:20.056Z
+date: 2024-09-20T17:55:49.338Z
+updated: 2024-09-28T00:04:56.240Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 
  If you’re confident with your gaming rig, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Change Display Mode
 
  Some Modern Warfare gamers reported that changing the Display Mode from**Fullscreen Borderless** to**Fullscreen** fixes their FPS dropping issue. You can give this a try as it may boost your FPS right away.
@@ -81,13 +88,6 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
@@ -106,6 +106,14 @@ And it’s quite easy to update too:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Settings** app. Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
 
@@ -115,18 +123,18 @@ And it’s quite easy to update too:
 
  If this method doesn’t help your case, please move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5:**Clean up resource-hungry processes**
 
  Sometimes your game becomes laggy when you have some background tasks eating up your RAM or CPU resources. Before opening a game in Modern Warfare, first make sure you’ve exited programs like**Chrome** ,**Discord** ,**Skype** or**Windows Update** that might exhaust your computer resources.
 
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Change your power plan to Ultimate Performance
 
@@ -139,24 +147,24 @@ Here’s how to enable this power plan:
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
@@ -181,5 +189,26 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-securing-your-snapchat-memories-mobile-recording-tips-for-2024/"><u>[New] Securing Your Snapchat Memories Mobile Recording Tips for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-prime-tactics-ensuring-quality-in-live-sport-broadcasts/"><u>[Updated] 2024 Approved Prime Tactics Ensuring Quality in Live Sport Broadcasts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-advanced-tips-for-crafting-vhs-images-on-computers-for-2024/"><u>[Updated] Advanced Tips for Crafting VHS Images on Computers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-master-the-art-of-archiving-with-these-13-key-techniques/"><u>[Updated] In 2024, Master the Art of Archiving with These 13 Key Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726028753549-powerpoint/"><u>「動画の圧縮手順: PowerPoint上で完全ガイド」</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-launch-errors-in-borderlands-3-effective-strategies-you-can-apply-now/"><u>Bypassing Launch Errors in Borderlands 3: Effective Strategies You Can Apply Now</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-obs-tutorial-for-effective-skype-recording/"><u>Expert OBS Tutorial for Effective Skype Recording</u></a></li>
+<li><a href="https://win-able.techidaily.com/guilty-gear-strive-lag-fix-tips-and-techniques-to-enhance-gameplay-performance/"><u>Guilty Gear Strive Lag Fix: Tips and Techniques to Enhance Gameplay Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-game-crash-errors-in-chinese-classic-legends-chapter-seven-for-a-seamless-experience/"><u>Overcoming Game Crash Errors in Chinese Classic Legends Chapter Seven for a Seamless Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-failures-a-users-handbook-for-pacficial-drive-setup/"><u>Overcoming Launch Failures: A User's Handbook for Pacficial Drive Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/play-classic-detective-game-on-pc-the-arrival-of-l-a-noire/"><u>Play Classic Detective Game on PC: The Arrival of L. A. Noire</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/recommendation-best-websites-to-download-classical-ringtones/"><u>Recommendation Best Websites to Download Classical Ringtones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/switching-to-nighttime-activating-dark-theme-on-your-windows-11-system/"><u>Switching to Nighttime: Activating Dark Theme on Your Windows 11 System</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/taking-the-first-steps-towards-vr-technology-mobile-based-headsets-vs-cabled-gear-for-2024/"><u>Taking the First Steps Towards VR Technology Mobile-Based Headsets Vs. Cabled Gear for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-final-epoch-conundrum-a-step-by-step-fix-for-persistent-pc-crashing-updated-tips/"><u>The Final Epoch Conundrum: A Step-by-Step Fix for Persistent PC Crashing (Updated Tips )</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/toms-tech-hub-ultimate-gadget-reviews-and-insights/"><u>Tom's Tech Hub: Ultimate Gadget Reviews and Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/total-war-warhammer-3-stability-improvements-no-more-pc-disruptions/"><u>Total War: Warhammer 3 Stability Improvements – No More PC Disruptions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-to-restore-dolby-atmos-sound-for-windows-operating-systems/"><u>Troubleshooting Tips to Restore Dolby Atmos Sound for Windows Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-the-battle-against-no-record-solutions-for-shadowplay-on-pcs/"><u>Winning the Battle Against No-Record: Solutions for ShadowPlay on PCs</u></a></li>
+</ul></div>
 

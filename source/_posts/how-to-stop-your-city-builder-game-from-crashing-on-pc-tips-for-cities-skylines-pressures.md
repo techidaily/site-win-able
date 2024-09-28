@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Your City Builder Game From Crashing on PC: Tips for Cities: Skylines Pressures"
-date: 2024-09-17T17:30:26.430Z
-updated: 2024-09-21T20:59:51.413Z
+date: 2024-09-23T08:00:42.539Z
+updated: 2024-09-28T10:40:08.881Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-3.jpg)
@@ -67,6 +74,13 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
 
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics card driver
 
@@ -96,6 +110,13 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
@@ -117,16 +138,16 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
 
 See if the crashing issue goes away. If not, try the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Launch World of Warships in safe mode
 
@@ -139,10 +160,16 @@ See if the crashing issue goes away. If not, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Do the crashes disappear now? If not, continue to the next fix.
@@ -156,10 +183,10 @@ Do the crashes disappear now? If not, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
@@ -198,5 +225,26 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mastering-free-video-text-dynamics/"><u>[New] In 2024, Mastering FREE Video Text Dynamics</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boost-online-presence-innovative-youtube-channel-names-for-2024/"><u>[Updated] Boost Online Presence Innovative YouTube Channel Names for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-master-the-art-of-snapchats-boomerangs-for-2024/"><u>[Updated] Master the Art of Snapchat's Boomerangs for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-comparative-review-sns-hdr-pro-and-other-editors/"><u>A Comparative Review SNS HDR Pro and Other Editors</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/a-treasure-trove-of-9-complete-holiday-flicks-free-streaming/"><u>A Treasure Trove of 9 Complete Holiday Flicks, Free Streaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/action-ammo-face-off-prodigy-cameras-compared-black-vs-session-for-2024/"><u>Action Ammo Face-Off Prodigy Cameras Compared – Black vs Session for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-the-issue-of-frequent-system-crashes-for-gamers-using-gas-station-simulator/"><u>Addressing the Issue of Frequent System Crashes for Gamers Using Gas Station Simulator</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solution-to-god-of-war-excess-memory-usage-dilemamaccharide/"><u>Effective Solution to God of War Excess Memory Usage Dilemamaccharide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-razer-man-o-war-headset-microphone-issues-a-comprehensive-guide/"><u>Fixing Your Razer Man O' War Headset Microphone Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010925336-football-manager-2e020-crash-fix-tips-get-back-in-the-game/"><u>Football Manager 2E020 Crash Fix Tips - Get Back in the Game!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/how-to-archive-snaps-on-iphoneandroid-from-snapchat-for-2024/"><u>How To Archive Snaps on iPhone/Android From Snapchat for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/improved-gameplay-experience-with-optimized-frame-rates-for-playing-farming-simulator-22-on-personal-computers/"><u>Improved Gameplay Experience with Optimized Frame Rates for Playing Farming Simulator 22 on Personal Computers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-insta-photo-carousel-magic/"><u>In 2024, Insta-Photo Carousel Magic</u></a></li>
+<li><a href="https://driver-error.techidaily.com/next-gen-dominators-choosing-the-optimal-gaming-system-of-2amoelgmfzbkx/"><u>Next-Gen Dominators: Choosing the Optimal Gaming System of 2Amoelgmfzbkx</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-optimization-techniques-to-ensure-smooth-gameplay-in-guilty-gear-strive/"><u>PC Optimization Techniques to Ensure Smooth Gameplay in Guilty Gear Strive</u></a></li>
+<li><a href="https://win-able.techidaily.com/persistent-problems-solved-stabilizing-genshin-impact-on-personal-computers/"><u>Persistent Problems Solved: Stabilizing Genshin Impact on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-excessive-processor-load-in-zoom-with-these-6-strategies/"><u>Resolve Excessive Processor Load in Zoom with These 6 Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-issue-fixing-the-eac-not-installed-error-during-easy-achievement-unlocker-eac-launch/"><u>Resolved Issue: Fixing the 'EAC Not Installed' Error During Easy Achievement Unlocker (EAC) Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-gaming-with-tiny-tinas-wonderlands-fixing-setup-issues-for-pc-users/"><u>Seamless Gaming with Tiny Tina's Wonderlands: Fixing Setup Issues for PC Users</u></a></li>
+</ul></div>
 

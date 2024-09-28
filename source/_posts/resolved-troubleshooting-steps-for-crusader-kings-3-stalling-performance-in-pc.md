@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Troubleshooting Steps for Crusader Kings 3 Stalling Performance in PC"
-date: 2024-09-20T16:08:11.435Z
-updated: 2024-09-21T18:56:22.016Z
+date: 2024-09-21T19:41:07.519Z
+updated: 2024-09-28T00:54:57.037Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ Necromunda: Hired Gun
 5. **[Add the game as an exception to your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  If some important game files are broken or missing, Necromunda: Hired Gun may crash. If it’s the case, you need to verify and repair the game files. Here’s how to do it:
@@ -76,16 +83,16 @@ It may take some time to complete the verifying process.
 2. Click on the **three dots** under the **Necromunda: Hired Gun** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Necromunda: Hired Gun when the verifying process completed and see if it crashes or not. If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -104,6 +111,19 @@ It may take some time to complete the verifying process.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You need to restart your PC after you finished updating your graphics driver.
 
  Launch the game to see if it crashes or not. Normally, after you updated the graphics driver, the game crashing issue will disappear.
@@ -112,13 +132,6 @@ It may take some time to complete the verifying process.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -140,15 +153,22 @@ It may take some time to complete the verifying process.
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch_Necromunda: Hired Gun_ and see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Add the game as an exception to your 3rd party antivirus software
 
@@ -184,5 +204,26 @@ It may take some time to complete the verifying process.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-stepwise-approach-effortlessly-incorporate-subtitlescc-into-your-youtube-content/"><u>[New] In 2024, Stepwise Approach Effortlessly Incorporate Subtitles/CC Into Your YouTube Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtube-video-cuts-a-beginners-guide/"><u>[New] Mastering YouTube Video Cuts A Beginner's Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-techniques-for-modifying-photo-genders-on-major-social-platforms/"><u>[New] Techniques for Modifying Photo Genders on Major Social Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-yakuza-like-a-dragon-crashing-on-pc/"><u>[SOLVED] Yakuza: Like a Dragon Crashing on PC</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/automotive-acoustic-woes-identifying-causes-of-speaker-breakdown-in-your-car/"><u>Automotive Acoustic Woes: Identifying Causes of Speaker Breakdown in Your Car</u></a></li>
+<li><a href="https://win-able.techidaily.com/debugging-guide-how-to-fix-crashing-issues-with-thaumaturge-program-on-your-pc/"><u>Debugging Guide: How to Fix Crashing Issues with Thaumaturge Program on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-unleash-virtualization-power-win11/"><u>Essential Steps to Unleash Virtualization Power Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-cooler-performance-with-grizzlys-latest-heatspreader-15c-drop-in-cpu-temps-achieved/"><u>Experience Cooler Performance with Grizzly's Latest Heatspreader: 15°C Drop in CPU Temps Achieved!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultimate-shooting-guide-to-immersive-video-top-9-techniques/"><u>In 2024, The Ultimate Shooting Guide to Immersive Video (Top 9 Techniques)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-nokia-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Nokia Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-playtime-effective-fixes-for-low-frames-per-second-fps-in-war-thunder-tips-for-gamers/"><u>Optimizing Playtime: Effective Fixes for Low Frames Per Second (FPS) in War Thunder - Tips for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-trouble-get-your-praey-for-the-gods-running-smoothly-again/"><u>PC Trouble? Get Your Praey for the Gods Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-resolving-winwordexe-program-glitches/"><u>Quick Solutions: Resolving WINWORD.EXE Program Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-gpeditmsc-missing-in-windows-home-edition-fix-steps/"><u>Resolved: 'gpedit.msc' Missing in Windows Home Edition - Fix Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-for-a-smooth-gameplay-in-ghost-recon-breakpoint-crash-troubles-gone/"><u>Simple Steps for a Smooth Gameplay in Ghost Recon Breakpoint - Crash Troubles Gone</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-log-in-troubles-heres-how-to-successfully-access-your-account/"><u>Steam Log-In Troubles? Here’s How to Successfully Access Your Account</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-optimizing-your-gameplay-in-tiny-tinas-wonderlands-for-pc/"><u>Troubleshooting and Optimizing Your Gameplay in Tiny Tina's Wonderlands for PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-20-stability-issues-how-to-prevent-frequent-pc-crashes/"><u>Warzone 2.0 Stability Issues - How to Prevent Frequent PC Crashes</u></a></li>
+</ul></div>
 

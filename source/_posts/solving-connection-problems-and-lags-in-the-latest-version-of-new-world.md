@@ -1,7 +1,7 @@
 ---
 title: Solving Connection Problems & Lags in the Latest Version of 'New World'
-date: 2024-09-20T17:05:59.322Z
-updated: 2024-09-21T22:00:12.099Z
+date: 2024-09-24T18:27:02.544Z
+updated: 2024-09-28T00:27:37.628Z
 tags:
   - win11
   - win10
@@ -56,6 +56,14 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 1. Launch Deathloop and navigate to**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-options.jpg)
 2. Select**Visuals** , and then under**Video Settings** , ensure the**Video Card Selection** is set to your primary graphics card.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-video-card.jpg)
 
 Check if you still have the freezing issue in Deathloop.
@@ -72,13 +80,27 @@ If this does not resolve the problem, proceed to Fix 3\.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -96,10 +118,10 @@ If the game still keeps freezing, take a look at the next fix.
 2. Under the**Processes** tab,**right-click** the processes that are CPU and memory-hogging, and select**End task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/end-task.jpg)
@@ -108,10 +130,10 @@ If the game still keeps freezing, take a look at the next fix.
  If the freezing issue still occurs after closing all the background programs, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Switch to Performance Mode on PS5
@@ -135,13 +157,6 @@ If this method doesn’t do the trick, check out the last fix.
 1. Press and hold the**power button** on your controller.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-power-button.jpg)
 2. Turn off the PS5 with**Turn Off PS5** and not “Enter Rest Mode”.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Make sure the light goes out on the console and then**unplug its power cable** and**wait for 10 seconds** .
 4. Plug the power cable back in and turn the console back on by pressing the**power button** on your controller.
@@ -169,5 +184,20 @@ Check if the game freezes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-diy-tips-for-affordable-youtube-introend-videos/"><u>[New] 2024 Approved DIY Tips for Affordable YouTube Intro/End Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-juggling-jargons-an-experts-guide-to-multiple-youtube-views/"><u>[New] In 2024, Juggling Jargons An Expert's Guide to Multiple YouTube Views</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-enhancing-zoom-with-a-chrome-os-device-for-2024/"><u>[Updated] Enhancing Zoom with a Chrome OS Device for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-micromovie-magic/"><u>[Updated] MicroMovie Magic</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screen-recorder-no-time-limits/"><u>[Updated] Screen Recorder No Time Limits</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-initial-darkness-solving-elden-rings-boot-up-blackout/"><u>How to Overcome the Initial Darkness - Solving Elden Ring's Boot-Up Blackout</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-find-x7-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo Find X7 Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-stealthy-facebook-video-navigator/"><u>In 2024, Stealthy Facebook Video Navigator</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-dvd-video-converter-pro-pack-get-your-free-promo-code-and-save-big-on-professional-software/"><u>MacX DVD Video Converter Pro Pack: Get Your Free Promo Code & Save Big on Professional Software!</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-gaming-ending-maplestorys-freezes-and-crashes-on-windows-10/"><u>Seamless Gaming: Ending MapleStory's Freezes and Crashes on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-hold-up-with-wolcens-release-unveiling-factors-behind-lords-of-mayhems-delayed-drop/"><u>The Hold-Up with Wolcen’s Release: Unveiling Factors Behind Lords of Mayhem’s Delayed Drop</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-crashes-in-valorant-v-essential-tips-and-solutions/"><u>Troubleshooting PC Crashes in 'Valorant V': Essential Tips & Solutions</u></a></li>
+</ul></div>
 

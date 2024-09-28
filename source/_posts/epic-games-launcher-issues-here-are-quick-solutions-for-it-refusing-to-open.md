@@ -1,7 +1,7 @@
 ---
 title: Epic Games Launcher Issues? Here Are Quick Solutions for It Refusing to Open
-date: 2024-09-19T21:41:57.244Z
-updated: 2024-09-21T21:46:09.131Z
+date: 2024-09-22T23:38:31.265Z
+updated: 2024-09-27T17:51:19.739Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/28a9b9137fb476d23de27db8b2b7a6831725824f9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/keyboard.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
@@ -75,16 +82,16 @@ thumbnail: https://thmb.techidaily.com/28a9b9137fb476d23de27db8b2b7a6831725824f9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the**Scale and layout** section, make sure it is set to**100%** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this issue reappears.
 
@@ -104,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/28a9b9137fb476d23de27db8b2b7a6831725824f9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; **it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund** , no questions asked.
@@ -125,10 +125,16 @@ _You can do it for free if you like, but it’s partly manual._
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Change Epic Games Launcher Properties
@@ -139,13 +145,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
 "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe" -OpenGL
@@ -155,10 +154,10 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this fix works.
@@ -197,6 +196,13 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 8: Reinstall Epic Games Launcher
 
  If none of the fixes above work for you, you may need to reinstall Epic Games Launcher. You can follow the steps below:
@@ -205,9 +211,35 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Restart your computer.
 
@@ -235,5 +267,26 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-hurry-up-screen-record-with-audio/"><u>[New] 2024 Approved Hurry-Up Screen Record, With Audio</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-smooth-and-swift-designing-your-best-thumbnails/"><u>[New] Smooth & Swift Designing Your Best Thumbnails</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-telegram-for-newcomers-how-to-make-your-advertising-stand-out-for-2024/"><u>[New] Telegram for Newcomers How to Make Your Advertising Stand Out for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unveiling-vrs-elite-accessories-top-10/"><u>2024 Approved Unveiling VR's Elite Accessories (Top 10)</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefront-ii-stability-solutions-no-more-pc-disruptions/"><u>Battlefront II Stability Solutions - No More PC Disruptions</u></a></li>
+<li><a href="https://facebook.techidaily.com/discover-how-six-factors-make-facebook-indispayer-for-modern-life/"><u>Discover How Six Factors Make Facebook Indispayer for Modern Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-media-experience-fullscreen-playnite-tv/"><u>Elevate Your Media Experience - Fullscreen Playnite TV</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-survival-experience-overcome-2024s-common-state-of-decay-2-game-crash-issues/"><u>Enhance Your Survival Experience: Overcome 2024'S Common State of Decay 2 Game-Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-gta-v-game-crashes-solutions-and-tips/"><u>Fixes for GTA V Game Crashes: Solutions & Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-netflix-up-and-running-again-on-your-xbox-console/"><u>How To Get Netflix Up and Running Again on Your Xbox Console</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-direct-video-tweet-to-twitter-via-smartphone-no-retweeting/"><u>In 2024, Direct Video Tweet to Twitter via Smartphone No Retweeting</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-classpnpsys-error-resolution-for-a-smooth-experience-on-windows-117-systems/"><u>Mastering CLASSPNP.SYS Error Resolution for a Smooth Experience on Windows 11/7 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-madden-nfl-22-persistent-loading-issues/"><u>Resolved: Fixes for Madden NFL 22 Persistent Loading Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994303669-say-goodbye-to-freezes-improving-pc-performance-for-subnautica-below-zero-players/"><u>Say Goodbye to Freezes! Improving PC Performance for Subnautica: Below Zero Players</u></a></li>
+<li><a href="https://windows11.techidaily.com/sync-or-not-addressing-windows-sluggish-internet/"><u>Sync or Not: Addressing Windows' Sluggish Internet</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-game-launches-mastering-division-2s-startup-issues-latest-tips/"><u>Trouble with Game Launches? Mastering Division 2'S Startup Issues - Latest Tips !</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-stutters-and-lags-proven-fixes-for-a-flawless-baldurs-gate-adventure/"><u>Troubleshoot Stutters & Lags: Proven Fixes for a Flawless Baldur's Gate Adventure</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-if-you-cant-launch-gta-5/"><u>Troubleshooting Steps If You Can't Launch GTA 5</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-realtek-pcie-gbe-family-controller-drivers-on-windows-10/"><u>Update Realtek PCIe GBE Family Controller Drivers on Windows 10</u></a></li>
+</ul></div>
 

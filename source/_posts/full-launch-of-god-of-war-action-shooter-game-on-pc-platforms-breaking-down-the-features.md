@@ -1,7 +1,7 @@
 ---
 title: Full Launch of God of War Action Shooter Game on PC Platforms - Breaking Down the Features
-date: 2024-09-10T19:37:02.145Z
-updated: 2024-09-16T20:20:07.403Z
+date: 2024-09-23T06:13:06.680Z
+updated: 2024-09-27T19:47:15.493Z
 tags:
   - win11
   - win10
@@ -64,8 +64,23 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -84,21 +99,7 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch God of War and check if you get a better PFS. If the God of War FPS drops again on your powerful computer, try setting the Windows power plan to Ultimate Performance, a power plan that is not widely known, but is designed to make the most out of high-end setups.
 
@@ -110,7 +111,21 @@ There are mainly two methods for you to update the graphics driver:
 3. If you see a prompt similar to this, go back to the Power Options window in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -167,30 +182,24 @@ There are mainly two methods for you to update the graphics driver:
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch God of War again after you disabled all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
@@ -202,13 +211,6 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key** and **I** key at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
@@ -236,5 +238,26 @@ Launch God of War to see if you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-zooming-ahead-best-practices-for-screenshares/"><u>[Updated] In 2024, Zooming Ahead Best Practices for Screenshares</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-realize-your-vision-a-comprehensible-list-of-3d-animation-software-for-2024/"><u>[Updated] Realize Your Vision A Comprehensible List of 3D Animation Software for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-capturing-gotomeet-pc-and-mobile-recording-tutorial/"><u>2024 Approved Capturing GoToMeet PC & Mobile Recording Tutorial</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-surge-viral-traction-via-youtube-short-content/"><u>2024 Approved Surge Viral Traction via YouTube Short Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/battle-for-honor-other-10-great-games-like-tsushi/"><u>Battle for Honor Other 10 Great Games Like Tsushi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-installing-insignia-ns-pcy5bma2-drivers-on-your-pc-windows-11107/"><u>Easy Guide to Installing Insignia NS-PCY5BMA2 Drivers on Your PC (Windows 11/10/7)</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhanced-gameplay-experience-with-improved-gta-v/"><u>Enhanced Gameplay Experience with Improved GTA V</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-released-resolving-the-problem-when-resident-evil-village-wont-boot-up/"><u>Fix Released! Resolving the Problem When Resident Evil Village Won't Boot Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-dolby-atmos-functionality-on-windows-operating-systems/"><u>How to Restore Dolby Atmos Functionality on Windows Operating Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-s17-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo S17 Pro FRP Bypass</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-challenges-keeping-tower-of-fantasy-running-smoothly-on-pc/"><u>Overcoming the Challenges: Keeping Tower of Fantasy Running Smoothly on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-how-to-resolve-steamvr-is-not-functioning-issues/"><u>Quick Fixes: How to Resolve 'SteamVR Is Not Functioning' Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-constant-disruptions-madden-nfl-21-running-smoothly-on-desktop/"><u>Resolve Constant Disruptions – Madden NFL 21 Running Smoothly on Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-walkthrough-for-using-driver-easys-mobile-app/"><u>The Ultimate Walkthrough for Using Driver Easy's Mobile App</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-lag-in-overwatch-solutions-proven-effective/"><u>Troubleshooting Persistent Lag in Overwatch - Solutions Proven Effective</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-solving-constant-game-crashes-in-watch-dogs-legion-on-windows/"><u>Troubleshooting Tips for Solving Constant Game Crashes in Watch Dogs Legion on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-secret-to-making-friends-anywhere-with-our-top-5-recommended-apps/"><u>Unlock the Secret to Making Friends Anywhere with Our Top 5 Recommended Apps</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-powerhouse-an-in-depth-look-at-the-asus-zephyrus-g14-gaming-laptop/"><u>Unveiling the Powerhouse: An In-Depth Look at the Asus Zephyrus G14 Gaming Laptop</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips & Tricks: Preventing Elite Dangerous Game Crashes on Windows"
-date: 2024-09-16T20:04:19.177Z
-updated: 2024-09-21T22:25:10.395Z
+date: 2024-09-25T19:41:33.869Z
+updated: 2024-09-28T05:39:29.973Z
 tags:
   - win11
   - win10
@@ -91,6 +91,13 @@ _Dota 2_ may not be able to access certain game files on your computer under nor
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
@@ -135,13 +142,6 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click **View advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
@@ -150,6 +150,13 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
@@ -157,6 +164,19 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/paging-file.png)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Click your **C drive** .
 
@@ -204,6 +224,13 @@ Follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-315.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Type**\-safe** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-316.png)
@@ -230,22 +257,16 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-311.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-317.png)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Type**\-autoconfig** and click**OK** .
 
@@ -263,16 +284,16 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-612.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-613.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Click the list box below to select **Windows 7** , then click **Apply > OK** .
 
@@ -296,21 +317,22 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-325.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click**DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-326.png)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
@@ -318,13 +340,6 @@ If Dota 2 still crashes, check the fix below.
 **6)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar, then hit**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2020-07-30_12-27-55.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)** Highlight the **Dota 2 folder** , and then press the **Del** key on your keyboard to delete it.
 
@@ -354,5 +369,26 @@ If Dota 2 still crashes, check the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-breaking-into-the-tiktok-livestream-realm/"><u>[New] Breaking Into the TikTok Livestream Realm</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-buzzing-on-both-platforms-top-10-tiktok-tweets-explored-for-2024/"><u>[New] Buzzing on Both Platforms Top 10 TikTok Tweets Explored for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-demystifying-vimeo-top-choice-for-filmmakers/"><u>[Updated] In 2024, Demystifying Vimeo Top Choice for Filmmakers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-from-novice-to-pro-a-compreenhensive-guide-to-gifs-in-snapchat/"><u>[Updated] In 2024, From Novice to Pro A Compreenhensive Guide to Gifs in Snapchat</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-from-playback-to-printout-top-five-methods-of-documenting-minecraft-on-a-mac/"><u>[Updated] In 2024, From Playback to Printout Top Five Methods of Documenting Minecraft on a Mac</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-master-tiktok-trends-top-30-usernames-to-captivate-audiences-for-2024/"><u>[Updated] Master TikTok Trends Top 30 Usernames to Captivate Audiences for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2-fix-how-to-resolve-the-pc-version-not-starting-issue/"><u>Destiny 2 Fix: How to Resolve the PC Version Not Starting Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-the-recurring-dota-underlords-game-stability-problems/"><u>Effective Fixes for the Recurring Dota Underlords Game Stability Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722991408590-experience-mythology-like-never-before-the-pc-version-of-god-of-war-fps-is-approaching-fast/"><u>Experience Mythology Like Never Before: The PC Version of God of War FPS Is Approaching Fast!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-resolve-dota-2s-changerenderingapi-error-code-2024/"><u>How to Quickly Resolve Dota 2'S ChangeRenderingAPI Error Code 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-muddled-to-clear-mastering-photo-bg-removal/"><u>In 2024, From Muddled to Clear Mastering Photo Bg Removal</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-digital-editing-software-without-cost/"><u>In 2024, Innovative Digital Editing Software Without Cost</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-slowdowns-in-dota-2-expert-tips-for-a-seamless-play-updated/"><u>Resolving Slowdowns in Dota 2? Expert Tips for a Seamless Play, Updated</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-cyberpunk-2077-ignoring-graphics-card-on-windows-11/"><u>Solution: Cyberpunk 2077 Ignoring Graphics Card on Windows 11?</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-dayz-frame-rate-drops-swiftly-expert-strategies-inside/"><u>Solve DayZ Frame Rate Drops Swiftly - Expert Strategies Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-lag-issues-ultimate-guide-to-troubleshooting-pubg-crashes-and-unresponsiveness-on-your-pc/"><u>Solving Lag Issues: Ultimate Guide to Troubleshooting PUBG Crashes and Unresponsiveness on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-pc-crash-problem-in-r-type-final-2-a-comprehensive-guide/"><u>Solving the PC Crash Problem in R-Type Final 2 – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-training-interruptions-troubleshoot-last-epoch-failures-on-pc/"><u>Stop Training Interruptions: Troubleshoot Last Epoch Failures on PC</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-voice-for-2024/"><u>Updated What Is AI Voice for 2024</u></a></li>
+</ul></div>
 

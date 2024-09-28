@@ -1,7 +1,7 @@
 ---
 title: How to Stop V Rising Game Lag and Ensure Fluid Playback on PC
-date: 2024-09-18T23:40:20.408Z
-updated: 2024-09-21T17:13:01.920Z
+date: 2024-09-22T18:03:30.865Z
+updated: 2024-09-27T18:35:00.495Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2 – Verify the integrity of game files
 
  Files of your game installation might get corrupt sometimes, or be deleted as a false positive by antivirus, which could cause crashing issues during gameplay. Fortunately, you can verify the integrity of the game’s installation through Steam.
@@ -52,6 +59,13 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
@@ -61,6 +75,13 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Relaunch your game to test the issue.
 
@@ -83,16 +104,10 @@ This could take several minutes. Wait for the process to be complete.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
@@ -109,13 +124,6 @@ This could take several minutes. Wait for the process to be complete.
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5 – Disable unnecessary programs
 
  Game performance issues happen when your game is unable to gain access to the memory it needs. So, it’s always wise to close background programs that take up a lot of PC memory when playing games.
@@ -128,16 +136,16 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Restart your game to see if it runs correctly now.
 
 Your game still won’t work correctly? Read on and try Fix 5.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6 – Lower your graphics settings
 
@@ -162,13 +170,6 @@ If the crashing still happens, continue with the next solution below.
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Double-click**DisplaySettings.xml** to open the file.
 
@@ -195,5 +196,23 @@ If the crashing still happens, continue with the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-streamline-your-gameplay-professional-ps4-recording-tips/"><u>[New] Streamline Your Gameplay Professional PS4 Recording Tips</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-cost-outline-for-composing-sounds-to-screen-titles-for-2024/"><u>[Updated] Cost Outline for Composing Sounds to Screen-Titles for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-pixelplay-review-system-for-2024/"><u>[Updated] PixelPlay Review System for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ting-your-teaching-toolkit-how-to-craft-exceptional-videos-for-learning-for-2024/"><u>Elevating Your Teaching Toolkit How to Craft Exceptional Videos for Learning for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-the-hurdles-masterful-strategies-for-launching-borderlands-3-successfully/"><u>Eliminate the Hurdles: Masterful Strategies for Launching Borderlands 3 Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-entry-point-not-available-error-in-fortnite/"><u>Fixing the 'Entry Point Not Available' Error in Fortnite</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-diagnose-and-repair-non-responsive-corsair-icue-devices-on-windows-11/"><u>How to Diagnose and Repair Non-Responsive Corsair iCUE Devices on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-resident-evil-village-from-crashing-on-your-pc-a-complete-guide/"><u>How To Stop Resident Evil Village From Crashing on Your PC - A Complete Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-enhancing-youtube-visibility-with-tubebuddy/"><u>In 2024, Enhancing YouTube Visibility with TubeBuddy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rhythm-ringtone-converting-tamil-music-into-phone-chimes/"><u>In 2024, Rhythm Ringtone Converting Tamil Music Into Phone Chimes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/make-every-frame-count-a-list-of-the-hottest-50-video-reducing-apps-for-your-phone/"><u>Make Every Frame Count A List of the Hottest 50 Video-Reducing Apps for Your Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-connectivity-woes-restoring-functionality-of-corsair-icue-with-windows-1011/"><u>Overcoming Connectivity Woes: Restoring Functionality of Corsair iCUE with Windows 10/11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/pro-free-ending-makers-ranked-1-6/"><u>Pro-FREE Ending Makers - Ranked 1-6</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-when-the-msi-mystic-light-wont-activate-in-windows/"><u>Solutions for When the MSI Mystic Light Won't Activate in Windows</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/the-ultimate-list-of-professional-video-editing-tools-for-gamers/"><u>The Ultimate List of Professional Video Editing Tools for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-fixing-ubisoft-connect-issues/"><u>Troubleshooting Steps: Fixing Ubisoft Connect Issues</u></a></li>
+</ul></div>
 

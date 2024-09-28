@@ -1,7 +1,7 @@
 ---
 title: Disco Elysium Won't Launch on Windows – Troubleshooting Steps Inside
-date: 2024-09-14T21:11:06.965Z
-updated: 2024-09-21T19:05:07.422Z
+date: 2024-09-27T05:49:28.497Z
+updated: 2024-09-28T00:48:38.191Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ Here’s how you can check the file integrity on Steam:
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Resident Evil 5 launches now.
@@ -69,10 +76,10 @@ Here’s how you can check the file integrity on Steam:
  If the latest video driver doesn’t help you, check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -83,20 +90,14 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
-
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
@@ -110,6 +111,19 @@ Here’s how you can check the file integrity on Steam:
 
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Replace game files with a fan-made patch
 
  Another hack without installing GFWL would be replacing certain game files of Resident Evil 5 with a fan-made patch. It appears the patch can fix some known bugs of Resident Evil 5\. You can try the patch and see if it gives you luck.
@@ -121,13 +135,6 @@ Here’s how you can check the file integrity on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
 
@@ -141,13 +148,20 @@ Here’s how you can check the file integrity on Steam:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -168,5 +182,26 @@ Here’s how you can check the file integrity on Steam:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-expert-picks-the-finest-photo-frame-software-for-2024/"><u>[New] Expert Picks The Finest Photo Frame Software for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-metaverse-and-multimeva-a-comparative-study-of-features/"><u>[New] Metaverse and Multimeva A Comparative Study of Features</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-top-5-secure-methods-to-maximize-instagram-earnings/"><u>[New] Top 5 Secure Methods to Maximize Instagram Earnings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-transform-your-online-image-top-9-insights-for-insta-stardom-for-2024/"><u>[New] Transform Your Online Image Top 9 Insights for Insta Stardom for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitta-videos-new-audio-formats/"><u>[Updated] 2024 Approved Twitta Videos New Audio Formats</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mp3-recording-made-simple-with-skype-for-free/"><u>[Updated] MP3 Recording Made Simple with Skype for FREE</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-step-by-step-guide-to-fixing-a-broken-steam-disk-with-ease-and-expertise/"><u>A Step-by-Step Guide to Fixing a Broken Steam Disk with Ease and Expertise</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/create-digital-humor-kapwings-meme-builder/"><u>Create Digital Humor Kapwing's Meme Builder</u></a></li>
+<li><a href="https://win-able.techidaily.com/discord-stuck-a-step-by-nstep-solution-for-opening-problems/"><u>Discord Stuck? A Step-by-nStep Solution for Opening Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-apex-legends-crashes-comprehensive-guide-to-resolving-game-engine-issues/"><u>Fixing Apex Legends Crashes: Comprehensive Guide to Resolving Game Engine Issues</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-130-music-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia 130 Music Phones with/without a PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-fallout-3-launch-issues-expert-advice-gamers/"><u>Overcome Fallout 3 Launch Issues - Expert Advice Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-tips-how-to-address-persistent-crashes-while-playing-manor-lords/"><u>PC Gaming Tips: How to Address Persistent Crashes While Playing Manor Lords</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-terrarias-persistent-crashes-with-these-proven-solutions/"><u>Resolve Terraria's Persistent Crashes with These Proven Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-issues-with-launching-civilization-vi-on-windows-10-fixed/"><u>Resolved: Issues with Launching Civilization VI on Windows 10 – Fixed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-minecraft-dungeon-issues-expert-tips-to-prevent-pc-crashes/"><u>Stop Minecraft Dungeon Issues: Expert Tips to Prevent PC Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-seamless-gameplay-overcoming-persistent-crashes-in-tower-of-fantasy-for-your-pc/"><u>Unlock Seamless Gameplay: Overcoming Persistent Crashes in Tower of Fantasy for Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-your-graphics-driver-a-solution-to-optimize-forza-horizon-5-performance/"><u>Update Your Graphics Driver: A Solution to Optimize Forza Horizon #5 Performance</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/wevideo-the-simple-way-to-create-professional-looking-videos-for-2024/"><u>WeVideo The Simple Way to Create Professional-Looking Videos for 2024</u></a></li>
+</ul></div>
 

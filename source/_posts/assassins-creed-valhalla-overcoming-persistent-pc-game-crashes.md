@@ -1,7 +1,7 @@
 ---
 title: Assassin's Creed Valhalla - Overcoming Persistent PC Game Crashes
-date: 2024-09-19T21:02:23.512Z
-updated: 2024-09-21T20:31:41.228Z
+date: 2024-09-26T21:53:50.762Z
+updated: 2024-09-27T20:14:07.395Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ There are mainly two ways to update the graphics driver:
 
  Relaunch the game to check its performance with your newly-installed graphics driver. If the update doesn’t do the trick, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3 – Run the game as an administrator
 
  Granting Assassin’s Creed Valhalla necessary administrative permissions can make sure the game runs properly. Here’s how to enable the administrator mode for it:
@@ -87,32 +80,47 @@ There are mainly two ways to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-3.jpg)
 2. Move your mouse cursor to Assassin’s Creed Valhalla and click the**downward triangle icon** . Then, select**View game details** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-3.jpg)
 3. Select**Properties** on the left pane, and click**Open folder** under Local files.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-2.jpg)
 4. Right-click the**ACValhalla.exe file** and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-5.jpg)
 5. Navigate to the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-6-1.jpg)
 6. Launch the ACValhalla.exe file directly from the installation folder and see how it works.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the issue persists, head to the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Verify the integrity of your game files
 
@@ -121,19 +129,20 @@ If the issue persists, head to the fixes below.
 1. Open Ubisoft Connect, and select the**Games** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-4.jpg)
 2. Move your mouse cursor over the title of Assassin’s Creed Valhalla. Then, click the**downward triangle icon** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-3.jpg)
 3. Click**Verify files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-2.jpg)
 
  After the process completes, relaunch the game to test. If this method doesn’t work, try the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Reinstall Assassin’s Creed Valhalla
 
@@ -143,15 +152,15 @@ If the issue persists, head to the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-5.jpg)
 2. Locate Assassin’s Creed Valhalla and click the**downward triangle** icon on the title. Then, click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-1-2.jpg)
 3. Reinstall the game to the same location where your OS and Ubisoft Connect app are installed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Assassin’s Creed Valhalla not launching issue should be resolved after the fresh reinstallation.
 
@@ -176,5 +185,20 @@ If the issue persists, head to the fixes below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-3d-playback-with-superior-blu-ray-systems/"><u>[New] Premium 3D Playback with Superior Blu-Ray Systems</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-top-10-video-editors-rising-from-vimeos-shadow-for-2024/"><u>[New] Top 10 Video Editors Rising From Vimeo's Shadow for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-are-you-violating-copyright-by-screenrecording-youtube/"><u>[Updated] 2024 Approved Are You Violating Copyright by ScreenRecording YouTube?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/adapting-to-instagrams-evolved-content-curation/"><u>Adapting to Instagram's Evolved Content Curation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/for-added-protection-especially-on-items-like-coasters-or-countertop-backsplashes-that-will-experience-frequent-water-exposure-apply-an-acrylic-sealant-over511/"><u>For Added Protection, Especially on Items Like Coasters or Countertop Backsplashes that Will Experience Frequent Water Exposure, Apply an Acrylic Sealant over the Glazed Tile Once It Has Completely Cooled</u></a></li>
+<li><a href="https://win-able.techidaily.com/helldivers-2-wont-start-on-steam-here-are-quick-fixes/"><u>Helldivers 2 Won't Start on Steam? Here Are Quick Fixes!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-14-plus-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 14 Plus</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-starfield-freezing-issues-optimizing-game-performance-on-windows-computers/"><u>Overcome Starfield Freezing Issues: Optimizing Game Performance on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/struggling-with-assassins-creed-mirage-on-your-pc-or-console-expert-advice-for-24-release/"><u>Struggling with Assassin's Creed Mirage on Your PC or Console? Expert Advice for 2#4 Release</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-triumph-fixing-error-code-84-in-fortnite-for-uninterrupted-parties/"><u>Troubleshoot and Triumph: Fixing Error Code 84 in Fortnite for Uninterrupted Parties</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-steam-unable-to-reach-local-client-issue/"><u>Troubleshooting Guide: Fixing 'Steam Unable to Reach Local Client' Issue</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zoom-meetings-enhanced-by-top-6-webcam-options/"><u>Zoom Meetings Enhanced by Top 6 Webcam Options</u></a></li>
+</ul></div>
 

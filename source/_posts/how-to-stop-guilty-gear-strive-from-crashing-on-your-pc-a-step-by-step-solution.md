@@ -1,7 +1,7 @@
 ---
 title: How to Stop Guilty Gear Strive From Crashing on Your PC - A Step-by-Step Solution
-date: 2024-09-19T18:51:45.937Z
-updated: 2024-09-21T20:48:45.082Z
+date: 2024-09-21T17:37:59.480Z
+updated: 2024-09-28T06:04:41.150Z
 tags:
   - win11
   - win10
@@ -48,8 +48,23 @@ thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open the**Windows Settings** , and then click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/123.png)
 2. **Toggle off** the microphone for Forza Horizon 3.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap14-1.png)
 3. Reboot your Windows system and run the game again.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this fix works, your Forza Horizon 3 won’t crash. If not, please try the next fix.
 
@@ -70,16 +85,10 @@ thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755
  If it won’t crash, you’ve already fixed this annoying issue! If not, there are more solutions below for you to try.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 3: Delete the temporary files of your Forza Horizon 3**
@@ -92,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap22.png)
 3. Click **Temporary files** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap23.png)
 4. Make sure you’ve checked **Temporary files, Temporary Internet Files**  and **Delivery Optimization Files** . Then click **Remove files** .  
@@ -129,7 +131,28 @@ thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-3.png)
 3. Click **Update**  next to your graphics card to automatically download the correct version of this driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All**  ).  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap3-2.png)
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you have any issue with**Driver Easy** , please contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) for advice. You should attach the URL of this article so they can help you better.
 
@@ -140,13 +163,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 1. On your keyboard, press the **Windows logo key**  and **R**  at the same time to open the Run Dialog. Type **msconfig**  and press **Enter**  to open the   **System Configuration**  window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap266.png)
 2. Select the **Services**  tab, check   **Hide all Microsoft services**  and then click **Disable all**  .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2.png)
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
@@ -172,24 +188,17 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap1-1.png)
 2. Click the   **Check for updates**  button to update your Windows system.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap2q.png)
 3. Restart your PC when the Windows update process is completed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this fix works, your game won’t keep crashing again. If not, you may need to reinstall the game to resolve the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 8: Reinstall your Forza Horizon 3**
 
@@ -200,8 +209,23 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 2. Click **Uninstall** to uninstall your Forza Horizon 3.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap29.png)
 3. Open the**Store** app. In the search bar, type**Forza Horizon 3**  and click the**Search** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap32.png)
 4. Select the game you purchased before to start installing the game. Launch the game to see if it will still keep crashing. Hopefully, you will be able to resolve this annoying issue by reinstalling the game.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, you can enjoy the game! Please leave your comment below if you have any questions!
 
@@ -221,5 +245,20 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-advanced-techniques-for-audacity-audio-mastery-for-2024/"><u>[Updated] Advanced Techniques for Audacity Audio Mastery for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/decode-and-solve-pc-specific-dark-screen-dilemma-on-zoom-chats-advanced-guide-updated/"><u>Decode and Solve PC-Specific Dark Screen Dilemma on Zoom Chats – Advanced Guide (Updated )</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frame-it-up-right-expert-approved-photo-editing-software-2023-for-2024/"><u>Frame It Up Right Expert-Approved Photo Editing Software, 2023 for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-realtek-rtl81drivers-for-your-pc-on-windows-107/"><u>Get the Latest Realtek RTL81#Drivers for Your PC on Windows 10/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-successfully-solving-error-code-0x800f0922-during-windows-11-updates-top-8-fixes/"><u>Guide to Successfully Solving Error Code 0X800f0922 During Windows 11 Updates (Top 8 Fixes)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-poco-c65-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ios-leading-video-capture-solutions/"><u>IOS Leading Video Capture Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi-convertidor-online-de-mp3-a-mp4-libre-de-tarifas-conversion-sin-coste/"><u>Movavi Convertidor Online De MP3 a MP4 Libre De Tarifas - Conversión Sin Coste</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-issues-resolving-outriders-freezing-and-stuttering/"><u>Troubleshooting PC Issues: Resolving Outriders' Freezing and Stuttering</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-fixing-your-hp-monitor-issues-successfully/"><u>Troubleshooting Tips: Fixing Your HP Monitor Issues Successfully</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-the-hidden-steam-account-code-digit/"><u>Uncovering the Hidden Steam Account Code Digit</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/understanding-the-metaverse-in-contrast-to-multiplemetaverse-explained-guide/"><u>Understanding the Metaverse in Contrast to MultipleMetaverse (Explained Guide)</u></a></li>
+<li><a href="https://win-able.techidaily.com/victory-lap-getting-rocket-league-back-on-track-with-these-fixes/"><u>Victory Lap: Getting Rocket League Back on Track with These Fixes</u></a></li>
+</ul></div>
 

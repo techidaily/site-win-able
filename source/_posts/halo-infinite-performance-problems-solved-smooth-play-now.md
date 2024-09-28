@@ -1,7 +1,7 @@
 ---
 title: Halo Infinite Performance Problems Solved - Smooth Play Now
-date: 2024-09-12T19:36:03.262Z
-updated: 2024-09-16T16:52:57.856Z
+date: 2024-09-23T03:41:35.569Z
+updated: 2024-09-28T04:33:29.165Z
 tags:
   - win11
   - win10
@@ -70,6 +70,13 @@ There are mainly two ways you can update the graphics driver:
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Change in-game settings
 
  Some gamers found when they turn on VSYN with setting frames rate to 144 or 90, the stuttering issue has gone. You can have a try. It’s a simple and common fix that has helped a lot of gamers. You can give it a try.
@@ -80,6 +87,13 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
@@ -87,16 +101,16 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Set**TEXTURE FILTERING** to**Ultra** .
@@ -112,10 +126,10 @@ There are mainly two ways you can update the graphics driver:
 If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Turn off background apps
@@ -129,13 +143,6 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -160,5 +167,20 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-cutting-edge-techniques-to-elevate-your-tiktok-visual-storytelling/"><u>[New] Cutting-Edge Techniques to Elevate Your TikTok Visual Storytelling</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rasp-the-art-of-steadiness-in-photography/"><u>[New] Grasp the Art of Steadiness in Photography</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-postmycam-seeking-top-notch-alternatives-for-2024/"><u>[New] PostMyCam Seeking Top-Notch Alternatives for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-essential-nintendo-switch-brawlers-guidebook-max-156/"><u>[Updated] 2024 Approved Essential Nintendo Switch Brawlers Guidebook (Max 156)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-unleash-new-sounds-top-7-voice-transformation-android-apps/"><u>2024 Approved Unleash New Sounds Top 7 Voice Transformation Android Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-digital-demons-how-to-debug-call-of-duty-mobiles-version-50-and-31-read-error-on-your-pc/"><u>Defeating Digital Demons: How To Debug Call of Duty Mobile's Version 5.0 and 3.1 Read Error on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-counter-strike-2-fps-expert-advice-to-stop-drops-and-stuttering-on-pc/"><u>Enhance Counter-Strike 2 FPS: Expert Advice to Stop Drops and Stuttering on PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-accessories-10-ps5-hard-drive-mods/"><u>Essential Accessories #10 PS5 Hard Drive Mods</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-frame-rate-lags-in-guilty-gear-strive-a-comprehensive-guide/"><u>Fixing Frame Rate Lags in Guilty Gear Strive: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-guilty-gear-strive-how-to-overcome-lag-challenges-for-a-smoother-experience/"><u>Fixing Guilty Gear - Strive- How to Overcome Lag Challenges for a Smoother Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/huawei-data-retrieval-tool-restore-lost-data-from-huawei-by-fonelab-android-recover-data/"><u>Huawei Data Retrieval tool – restore lost data from Huawei</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-xiaomi-redmi-note-12-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/navigating-bandicams-new-features-the-2023-breakdown/"><u>Navigating Bandicam's New Features – The 2023 Breakdown</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Complete Guide: How to Stop FIFA 2021 From Crashing on PCs"
-date: 2024-09-17T23:26:19.151Z
-updated: 2024-09-21T21:34:03.886Z
+date: 2024-09-24T02:35:26.147Z
+updated: 2024-09-27T20:05:18.970Z
 tags:
   - win11
   - win10
@@ -93,9 +93,23 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -104,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
@@ -123,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -139,16 +146,22 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
@@ -169,10 +182,10 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
@@ -199,5 +212,22 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-secrets-of-filmo/"><u>[New] 2024 Approved Secrets of Filmo</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-harnessing-the-benefits-with-creative-commons-licenses/"><u>[New] In 2024, Harnessing the Benefits with Creative Commons Licenses</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-premium-selection-the-best-8-tripods-for-superior-4k-shooting/"><u>[New] Premium Selection The Best 8 Tripods for Superior 4K Shooting</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-video-edits-with-finalcut-pro-for-2024/"><u>[Updated] Mastering YouTube Video Edits with FinalCut Pro for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719366357478-6-ultimate-methods-to-end-stuck-windows-updates-now/"><u>6 Ultimate Methods to End Stuck Windows Updates Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/busting-the-freeze-frames-optimizing-gameplay-for-cod-black-ops-cold-war-on-any-pc-or-console/"><u>Busting the Freeze Frames: Optimizing Gameplay for COD: Black Ops Cold War on Any PC or Console</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-vanguard-freezing-glitches-easy-fixes-to-keep-the-action-going/"><u>Call of Duty: Vanguard Freezing Glitches - Easy Fixes to Keep the Action Going</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-connection-woes-heres-how-you-can-reconnect-seamlessly/"><u>Minecraft Connection Woes? Here’s How You Can Reconnect Seamlessly</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-list-of-3d-video-makers-free-paid-and-in-between/"><u>New In 2024, The Ultimate List of 3D Video Makers Free, Paid, and In-Between</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcoming-league-of-legends-network-connectivity-problems/"><u>Resolved: Overcoming League of Legends Network Connectivity Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-uncovering-the-causes-of-game-security-breach-alerts/"><u>Resolved: Uncovering the Causes of 'Game Security Breach' Alerts</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-restoring-audio-on-your-discord-screen-shares/"><u>Troubleshooting Guide: Restoring Audio on Your Discord Screen Shares</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722897462184-troubleshooting-missing-mscorwksdll-files-on-your-pc-solutions-inside/"><u>Troubleshooting Missing mscorwks.dll Files on Your PC – Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-when-amd-radeon-drivers-wont-launch/"><u>Troubleshooting When AMD Radeon Drivers Won't Launch</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-essential-list-the-ultimate-collection-of-licensed-chuckle-tunes-for-2024/"><u>Updated Essential List The Ultimate Collection of Licensed Chuckle Tunes for 2024</u></a></li>
+</ul></div>
 

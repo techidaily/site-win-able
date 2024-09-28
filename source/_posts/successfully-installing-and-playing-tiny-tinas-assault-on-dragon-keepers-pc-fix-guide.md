@@ -1,7 +1,7 @@
 ---
 title: Successfully Installing and Playing Tiny Tina's Assault on Dragon Keepers - PC Fix Guide
-date: 2024-09-15T22:34:40.624Z
-updated: 2024-09-21T19:48:26.617Z
+date: 2024-09-25T04:43:44.659Z
+updated: 2024-09-27T18:58:03.676Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC specs meet the requirements
 
  Before you try anything more advanced, first check your PC specs. Immortals Fenyx Rising is a demanding game, both to your skills and PC hardware. A decent setup is a must if you expect a smooth gaming experience. If you find your specs don’t meet the game requirements below, then maybe it’s time for an upgrade.
@@ -59,6 +66,13 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -70,6 +84,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
@@ -99,13 +120,6 @@ If this method doesn’t help, you can take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -126,10 +140,16 @@ And here’s how you can make sure your system is the latest:
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -155,5 +175,23 @@ And here’s how you can make sure your system is the latest:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-constructing-unique-instagram-story-panels/"><u>[New] In 2024, Constructing Unique Instagram Story Panels</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-ultimate-fb-media-downloader-plus-firefox-enhancements/"><u>[New] In 2024, Ultimate FB Media Downloader + Firefox Enhancements</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-a-comprehensive-review-of-screenflows-impact-on-mac-professionals/"><u>[Updated] A Comprehensive Review of ScreenFlow's Impact on Mac Professionals</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/access-all-subtitles-top-10-free-tools-for-youtube-videos-for-2024/"><u>Access All Subtitles Top 10 Free Tools for YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-to-downloading-and-updating-intels-ethernet-drivers-for-windows-os/"><u>Comprehensive Guide to Downloading & Updating Intel's Ethernet Drivers for Windows OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-winwordexe-errors-your-go-to-list-of-effortless-fixes-to-restore-microsoft-wordpad-functionality/"><u>Decoding WINWORD.EXE Errors - Your Go-To List of Effortless Fixes to Restore Microsoft WordPad Functionality</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-fixes-for-prolonged-start-up-of-star-wars-battlefront-ii-on-pcs/"><u>Efficient Fixes for Prolonged Start-Up of Star Wars: Battlefront II on PCs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-v30t-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme V30T Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-redmi-note-12-pro-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi Redmi Note 12 Pro 5G FRP Without Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-and-the-ue4-glitch-understanding-and-fixing-the-process-has-crashed-issue/"><u>Outriders and the UE4 Glitch: Understanding & Fixing the 'Process Has Crashed' Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-nvidia-control-panel-errors-and-crashes-effectively/"><u>Overcoming NVIDIA Control Panel Errors and Crashes Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-persistent-steam-stalls-tips-for-smooth-gameplay/"><u>Solving Persistent Steam Stalls: Tips for Smooth Gameplay</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-final-word-on-vegaspro-2019/"><u>The Final Word on VegasPro 2019</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-a-smooth-fifa-21-gaming-experience-on-your-computer/"><u>Troubleshooting Steps for a Smooth FIFA 21 Gaming Experience on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/vrchat-malfunction-a-guide-to-fixing-common-loading-issues/"><u>VRChat Malfunction: A Guide to Fixing Common Loading Issues</u></a></li>
+</ul></div>
 

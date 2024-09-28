@@ -1,7 +1,7 @@
 ---
 title: Overcome Launch Hurdles for Fallout 3 with These Essential Fixes & 2024 Insights
-date: 2024-09-16T23:08:49.423Z
-updated: 2024-09-21T16:23:10.906Z
+date: 2024-09-21T05:58:11.658Z
+updated: 2024-09-28T04:14:04.137Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ Although Marvel’s Guardians of the Galaxy has received generally positive revi
 6. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
 
@@ -70,9 +77,24 @@ Marvel’s Guardians of the Galaxy system requirements
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Verify the integrity of game files
 
@@ -107,13 +129,21 @@ If this issue persists, try the next fix, below.
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Marvel’s Guardians of the Galaxy_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
@@ -147,22 +177,8 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Wait for Fortect to scan your PC. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. After the scanning process is completed, Fortect will provide you with the PC scan summary.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If there’s any issue, then click the Start Repair button on the lower-right corner, and with just one click, Fortect will start to repair the Windows OS on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)  
@@ -177,14 +193,21 @@ If this fix didn’t work, try the next fix, below.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
@@ -194,14 +217,15 @@ If this fix didn’t work, try the next fix, below.
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and launch Marvel’s Guardians of the Galaxy to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -234,5 +258,26 @@ If this fix didn’t work, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-complete-lowdown-on-io-image-recording-software/"><u>[New] In 2024, The Complete Lowdown on IO Image Recording Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-step-by-step-procedure-to-effective-video-capturing-using-zds-tools-for-2024/"><u>[New] Step-by-Step Procedure to Effective Video Capturing Using ZD's Tools for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-navigating-away-from-tiktoks-silent-ban-for-2024/"><u>[Updated] Navigating Away From TikTok's Silent Ban for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-set-up-grid-layout-for-google-meet-participants-viewing/"><u>[Updated] Set Up Grid Layout for Google Meet Participants' Viewing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-analytics-and-personalization-for-websites/"><u>Cookiebot-Driven Analytics & Personalization for Websites</u></a></li>
+<li><a href="https://win-able.techidaily.com/critical-guide-overcoming-pc-gaming-glitches-in-serious-sam-evolution-iv/"><u>Critical Guide: Overcoming PC Gaming Glitches in Serious Sam Evolution IV</u></a></li>
+<li><a href="https://fox-http.techidaily.com/enhancing-narratives-a-guide-to-using-b-roll-for-2024/"><u>Enhancing Narratives A Guide to Using B-Roll for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-alienware-command-center-back-on-track-resolved-fixes/"><u>Get Your Alienware Command Center Back on Track - Resolved Fixes!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-nokia-105-classic-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Nokia 105 Classic Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-asus-rog-phone-7-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Asus ROG Phone 7 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/league-of-legends-stability-tips-no-more-crashing/"><u>League of Legends Stability Tips - No More Crashing!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010980723-left-4-dead-2-stability-improvements-no-more-game-crashes/"><u>Left #4 Dead 2 Stability Improvements - No More Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-quick-downloads-on-origin-insider-secrets-and-techniques-a-2024-playbook/"><u>Mastering Quick Downloads on Origin: Insider Secrets & Techniques - A 2024 Playbook</u></a></li>
+<li><a href="https://win-able.techidaily.com/microsoft-flight-simulator-2020-fixes-for-persistent-update-loading-problems/"><u>Microsoft Flight Simulator 2020 - Fixes for Persistent Update Loading Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-conexant-smartaudio-hd-lack-of-audio-in-windows-10/"><u>Solving the Conexant SmartAudio HD Lack of Audio in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-viewing-the-complete-dragon-ball-series-chronologically/"><u>Step-by-Step Guide: Viewing the Complete Dragon Ball Series Chronologically</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-stabilizing-adobe-after-effects-on-windows-11-and-10-systems/"><u>Step-by-Step Solutions for Stabilizing Adobe After Effects on Windows 11 & 10 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/terraria-stability-fixes-top-2024-solutions-for-eliminating-game-crashes/"><u>Terraria Stability Fixes: Top 2024 Solutions for Eliminating Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-riot-games-fix-for-the-2024-reconnect-bug-in-lol/"><u>Understanding Riot Games' Fix for the 2024 Reconnect Bug in LoL</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Doesn't My GPU Run Cyberpunk 2077? Solutions for Windows 10 Users
-date: 2024-09-15T23:26:58.327Z
-updated: 2024-09-21T21:40:25.451Z
+date: 2024-09-24T01:54:23.314Z
+updated: 2024-09-27T16:52:54.813Z
 tags:
   - win11
   - win10
@@ -67,14 +67,36 @@ To do so, first visit the website of your graphics card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
 
@@ -91,10 +113,10 @@ Here’s how:
 4. Click **Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
@@ -102,20 +124,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this trick doesn’t solve your problem, you can continue to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -149,5 +164,18 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-optical-opus-the-elite-list-of-8k-cameras/"><u>[New] Optical Opus The Elite List of 8K Cameras</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-discovering-visual-narratives-merging-photography-and-videography-using-pixiz/"><u>[Updated] 2024 Approved Discovering Visual Narratives Merging Photography and Videography Using Pixiz</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-make-a-stunning-lyric-video-with-lyric-video-maker/"><u>[Updated] How to Make a Stunning Lyric Video with Lyric Video Maker</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-fixing-0xc19001e1-boot-failure-on-windows-nk-pcs/"><u>Expert Tips for Fixing '0Xc19001e1' Boot Failure on Windows Nk PCs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srt-to-sub-shift-expert-strategies-and-actions/"><u>In 2024, SRT to SUB Shift Expert Strategies & Actions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-huawei-p60-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Huawei P60 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-your-gaming-experience-with-enhanced-performance-tips-optimize-frame-rates-and-reduce-lag-in-watch-dogs-legion/"><u>Maximizing Your Gaming Experience with Enhanced Performance Tips: Optimize Frame Rates & Reduce Lag in Watch Dogs: Legion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-hardware-expert-advice-from-toms-corner/"><u>Navigating the World of Hardware: Expert Advice From Tom's Corner</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-siri-malfunctions-on-iphones-and-ipads-7-effective-strategies/"><u>Resolving Siri Malfunctions on iPhones and iPads - 7 Effective Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-fixes-for-adobe-error-code-0xc0000022-application-launch-issues-resolved/"><u>Troubleshooting Fixes for Adobe Error Code 0xC0000022 – Application Launch Issues Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-resolving-lag-in-naraka-bladesports/"><u>Ultimate Troubleshooting Guide: Resolving Lag in Naraka Bladesports</u></a></li>
+</ul></div>
 

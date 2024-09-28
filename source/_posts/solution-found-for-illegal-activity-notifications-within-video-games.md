@@ -1,7 +1,7 @@
 ---
 title: Solution Found for 'Illegal Activity' Notifications Within Video Games
-date: 2024-09-19T16:46:44.766Z
-updated: 2024-09-21T20:18:53.896Z
+date: 2024-09-23T04:36:41.740Z
+updated: 2024-09-28T12:05:45.172Z
 tags:
   - win11
   - win10
@@ -64,13 +64,6 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 
  If no programs are consuming your CPU or GPU but FPS drops reoccur, try the third fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3 – Change the PC power plan
 
  Your gaming experience may be limited when your computer runs on the Power saver or Balanced power plan. For enhanced performance, it’s better to opt for High Performance.
@@ -79,20 +72,28 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-1-1.jpg)
 2. Select**High** **performance** . (If you don’t see it, expand**Hide additional plans** .)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re on a high-end PC, the**Ultimate Performance** mode may help you fully unleash the potential of your machine. Here’s how to enable this mode.
 
 1. Type**cmd** in the Windows search box and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ultimate-performance-1.jpg)
 2. In the command prompt, type or paste the following command and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
  When you see a prompt as shown in the picture, Ultimate Performance is enabled and please return to the steps above to set it as your preferred plan.
@@ -100,20 +101,13 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ultimate-performance-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check how the game works. If the issue persists, proceed to the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Disable fullscreen optimizations
 
@@ -128,6 +122,13 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 4. Tick**Override high DPI scaling behaviour** and choose**Application** from the drop-down menu. Then, click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-fullscreen-optimizations-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch EFT to check the game performance. If this gives you no luck, there are two more fixes to try.
 
 ### Fix 5 – Adjust the in-game graphics settings
@@ -141,6 +142,14 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 4. Navigate to the**GAME** tab and uncheck**Always show interface elements** ,**Auto RAM Cleaner** as well as**Use only the physical cores** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/tarkov-settings-2.jpg)
 5. Select the**POSTFX** tab, and make sure to**untick Enable PostFX** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/tarkov-settings-3.jpg)
 6. Click**Save** to apply the changes.
 
@@ -157,16 +166,24 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 2. Select**3D settings** \>**Manage 3D settings** from the left pane.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Navigate to the**Program Settings** and select the**EscapeFromTarkov.exe file** from the drop-down list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-settings.jpg)
 4. Modify the settings as below:  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _Anisotropic filtering_ :**Application-controlled**  
 _Antialiasing – FXAA_ :**Off**  
 _Antialiasing – Gamma correction_ :**On**  
@@ -185,6 +202,19 @@ _Vertical sync_ :**Off**
 1. Right-click the empty area on your desktop and select**AMD Radeon Software** .
 2. Go to**Gaming** \>**Global Settings** and configure the options as in the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-graphics-card-settings.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Restart the game to test, and you should find the FPS increases now.
 
@@ -208,5 +238,26 @@ Restart the game to test, and you should find the FPS increases now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-in-search-of-quality-identifying-the-top-5-virtual-title-designers/"><u>[New] In Search of Quality Identifying the Top 5 Virtual Title Designers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-removing-inaudible-voices-from-obs-recording/"><u>[New] Removing Inaudible Voices From OBS Recording</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-no-cost-humor-in-your-arsenal-ultimate-meme-guide/"><u>[Updated] No-Cost Humor in Your Arsenal – Ultimate Meme Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-use-of-movie-maker-for-digital-storytelling/"><u>2024 Approved Innovative Use of Movie Maker for Digital Storytelling</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/3-simple-methods-for-color-correction-in-adobe-photoshop/"><u>3 Simple Methods for Color Correction in Adobe Photoshop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/5-things-to-consider-before-buying-a-vr-headset/"><u>5 Things to Consider Before Buying a VR Headset</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-continuous-lags-and-pauses-in-overwatch-gameplay/"><u>Effective Solutions for Continuous Lags & Pauses in Overwatch Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-of-the-line-fixing-obs-latency-problems-for-perfect-livestreams-and-captures/"><u>End of the Line: Fixing OBS Latency Problems for Perfect Livestreams & Captures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-graphics-performance-free-nvidia-geforce-gtx-1650-super-driver-update-for-windows-11/"><u>Enhance Graphics Performance: Free NVIDIA GeForce GTX 1650 Supér Driver Update for Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-fixing-rocket-league-continuous-crashes-update-for-202/"><u>Expert Advice on Fixing Rocket League Continuous Crashes (Update for 202</u></a></li>
+<li><a href="https://win-able.techidaily.com/flawless-gaming-setup-dealing-with-and-correcting-geforce-experience-shutdown-errors-for-an-uninterrupted-flow/"><u>Flawless Gaming Setup: Dealing with and Correcting GeForce Experience Shutdown Errors for an Uninterrupted Flow</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-the-elite-circle-unveiling-top-10-gamers-on-tiktok/"><u>In 2024, The Elite Circle Unveiling Top 10 Gamers on TikTok</u></a></li>
+<li><a href="https://win-able.techidaily.com/ls-0013-missile-glitch-in-fortnite-resolved/"><u>LS-0013 Missile Glitch in Fortnite Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-interruptions-in-naval-combat-swift-repairs-for-wows-crashing-issues/"><u>No More Interruptions in Naval Combat: Swift Repairs for WowS Crashing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-resolve-players-experience-issues-with-pokemon-go-freezing-and-lag/"><u>Step-by-Step Guide to Resolve Players' Experience Issues with Pokemon Go (Freezing and Lag)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-green-screen-blues-a-youtube-guide/"><u>Tackling Green Screen Blues: A YouTube Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-correcting-rusts-display-errors/"><u>Troubleshooting and Correcting Rust's Display Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/verify-game-files/"><u>Verify Game Files</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtubes-income-leap-at-500-subs-count-for-2024/"><u>YouTube's Income Leap at 500 Subs Count for 2024</u></a></li>
+</ul></div>
 

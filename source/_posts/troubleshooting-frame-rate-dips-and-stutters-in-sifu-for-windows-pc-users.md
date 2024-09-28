@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Frame Rate Dips and Stutters in Sifu for Windows PC Users
-date: 2024-09-18T17:22:12.128Z
-updated: 2024-09-21T18:56:43.274Z
+date: 2024-09-23T19:32:17.743Z
+updated: 2024-09-27T18:13:56.947Z
 tags:
   - win11
   - win10
@@ -79,6 +79,13 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 5. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run Fortnite again to check if you fixed this issue. If this issue persists, or there was no new game patch available, move on to the next fix, below.
 
 ### **Fix 3: Update your graphics driver**
@@ -108,13 +115,6 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 4: Lower game settings**
 
  Try modifying the video settings of your Fortnite if it keeps stuttering. If your PC fails to meet the recommended system requirements for Fortnite, you may need to**reduce in-game graphics** to ensure that your Fortnite runs smoothly. Here is how to do it:
@@ -126,6 +126,13 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
  Run Fortnite again to see if the Fortnite stuttering issue persists. If not, then you’ve resolved this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 5: Turn off Windows 10 Game Mode**
 
  If you’ve turned on**Windows 10 Game Mode** , it will consume lots of resources in the background when you’re playing Fortnite. So try turning off this feature to see if you can resolve this issue. Here is how to do it:
@@ -134,13 +141,6 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 2. On your keyboard, press**the Windows logo key** and**G** at the same time to open**Game Bar** .
 3. If you turn on Game Mode, then click the Game Mode button to turn it off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap47.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run Fortnite again to see if it will keep stuttering. If the stuttering issue reappears, try the next fix.
 
@@ -154,6 +154,13 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap50.jpg)
 
  Run your Fortnite to see if the stuttering issue reappears. If the issue persists, don’t worry. There are more fixes for you to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 7: Restrict applications and downloads in the background**
 
@@ -174,18 +181,19 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 2. In the pop-up window, expand **Hide additional plans**  and select **High performance**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap70.jpg)
 3. Type **advanced**  in the search box in the upper-right corner and then click **View advanced system settings**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap71.jpg)
 4. In the pop-up window, click **Settings…** in the **Performance**  section.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap72.jpg)
 5. Select **Adjust for best performance** and click **OK**  .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap73.jpg)
 
@@ -204,15 +212,16 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap55.jpg)
 2. View the Control Panel by   **Large icons**  .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap56.jpg)
-3. Select **NVIDIA Control Panel**  to open it.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap56.jpg)
+3. Select **NVIDIA Control Panel**  to open it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap57.jpg)
 4. Click **3D Settings**  and select   **Adjust image settings with preview** . Then select **Use my preference emphasizing**  and **drag the slider to the left**  .  
@@ -236,22 +245,51 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap62.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap63.jpg)
-4. Click **3D**  to open the 3D settings.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap64.jpg)
-5. Click **Scan**  to add your **Fortnite**  to the application list.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap63.jpg)
+4. Click **3D**  to open the 3D settings.  
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap64.jpg)
+5. Click **Scan**  to add your **Fortnite**  to the application list.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap65.jpg)
 6. Modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap67-1.jpg)
 7. Click **Apply**  to save the settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap68.jpg)
 
  Run Fortnite again to see if the stuttering issue persists. If not, then you’ve fixed this annoying issue.
@@ -276,5 +314,24 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-discover-the-best-mac-gif-recorders-now-in-2024/"><u>[Updated] Discover the Best Mac GIF Recorders Now, In 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-master-the-art-of-subtitling-a-brief-blueprint-for-your-fb-video-uploads/"><u>[Updated] In 2024, Master the Art of Subtitling A Brief Blueprint for Your FB Video Uploads</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-ultimate-mp4-to-social-media-focus-on-facebook/"><u>2024 Approved Ultimate MP4 to Social Media Focus on Facebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024-guide-to-resolving-minecraft-black-screen-glitch-tips-and-tricks-for-smooth-gaming/"><u>2024 Guide to Resolving Minecraft Black Screen Glitch: Tips and Tricks for Smooth Gaming</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-poco-c55-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Poco C55 PC | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/bust-assassins-creed-odyssey-pc-freeze-glitches-with-these-new-fixes-202n/"><u>Bust Assassin's Creed Odyssey PC Freeze Glitches with These New Fixes (202N)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/essential-cybersecurity-measures-for-modern-enterprises-mastering-the-cloud-with-insights-from-abbyy/"><u>Essential Cybersecurity Measures for Modern Enterprises: Mastering the Cloud with Insights From ABBYY</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-left-4-dead-2-ultimate-guide-to-resolving-game-crashes/"><u>Fixing Left 4 Dead 2: Ultimate Guide to Resolving Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-steam-launch-failures-in-helldivers-2-tips-and-tricks/"><u>Guide to Fixing Steam Launch Failures in Helldivers 2 - Tips & Tricks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/inshots-ultimate-tune-up-import-music-essentials/"><u>InShot's Ultimate Tune Up Import Music Essentials</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-your-minecraft-black-screen-woes-expert-advice-and-fixes-by-solved/"><u>Overcome Your Minecraft Black Screen Woes: Expert Advice and Fixes by [SOLVED]</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-fifa-21s-unsuccessful-boot-dilemma-a-solution-found/"><u>Overcoming FIFA 21'S Unsuccessful Boot Dilemma: A Solution Found</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723014036325-quick-solutions-upping-the-pace-of-your-utorrent-transfer-speeds/"><u>Quick Solutions: Upping the Pace of Your uTorrent Transfer Speeds!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-of-slow-loading-in-the-elder-scrolls-online-blackwood-region/"><u>Resolving the Issue of Slow Loading in The Elder Scrolls Online - Blackwood Region</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/streamline-video-using-vimeo-record-for-live-captures-for-2024/"><u>Streamline Video Using Vimeo Record for Live Captures for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/stunning-slideshow-for-social-sharing/"><u>Stunning Slideshow for Social Sharing</u></a></li>
+</ul></div>
 

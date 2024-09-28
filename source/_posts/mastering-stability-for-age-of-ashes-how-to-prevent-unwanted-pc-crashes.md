@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability for 'Age of Ashes': How to Prevent Unwanted PC Crashes"
-date: 2024-09-13T22:05:57.224Z
-updated: 2024-09-16T17:51:08.670Z
+date: 2024-09-24T20:04:26.329Z
+updated: 2024-09-28T08:38:10.080Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/xbox-supporting-apps.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have the**Xbox Console Companion** installed, please uninstall it. To do so:
 
 1. On your keyboard, press the**Windows logo key** and**X** together to open the Quick Link menu. Then select**Apps and Features** .  
@@ -52,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-xbox-console-companion.jpg)
 3. Click**Uninstall** again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After that, restart your computer and see if that helps.
 
@@ -94,10 +108,16 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 3. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
@@ -131,6 +151,14 @@ If the crashing issue occurs again, continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**X** together to open the Quick Link menu. Then select**Apps and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then select**Move** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move-app.jpg)
 3. In the pop-up window,**select a new drive** from the drop-down menu, then click**Move** again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move2-1.jpg)
@@ -138,19 +166,6 @@ If the crashing issue occurs again, continue to the next fix.
  After doing that, launch State of Decay 2 and check if the problem has gone away.
 
 If this method doesn’t do the trick, try the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Set English (United States) as the default language
 
@@ -160,20 +175,36 @@ If this method doesn’t do the trick, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/time-language.jpg)
 2. In the left panel, select**Language** . Under the Preferred languages section, click**Add a language** .  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-a-language.jpg)
 3. Select**English (United States)** , then click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/next.jpg)
 4. Click**Install** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/install-language.jpg)
 5. After the language is fully installed, drag it to the first position in the list.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/set-as-default.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now restart your PC and test if State of Decay 2 still crashes.
 
@@ -187,19 +218,20 @@ If this solution doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-service.jpg)
 6. Restart your computer.
 
@@ -208,13 +240,6 @@ If this solution doesn’t work for you, continue to the next fix.
  Once you find out the problematic program that causes the game to crash, you just need to uninstall it to avoid game crashing issues in the future.
 
  If the game still crashes after you disabled all the programs and services, try the last fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall State of Decay 2
 
@@ -247,5 +272,26 @@ If this solution doesn’t work for you, continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-ultimate-guide-top-6-fb-lite-video-extractors-for-2024/"><u>[New] Ultimate Guide Top 6 FB Lite Video Extractors for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersion-boosting-backdrops-for-broadcasts/"><u>[Updated] Immersion-Boosting Backdrops for Broadcasts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-elevating-package-revelation-innovative-ways-for-first-encounters/"><u>2024 Approved Elevating Package Revelation Innovative Ways for First Encounters</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-stepwise-strategies-building-a-playlist-on-youtube/"><u>2024 Approved Stepwise Strategies Building a Playlist on YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-playtime-interruptions-comprehensive-guide-to-resolving-constant-pc-crashes-in-watch-dogs-legion/"><u>Addressing Playtime Interruptions: Comprehensive Guide to Resolving Constant PC Crashes in Watch Dogs: Legion</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-video-editing-software-for-windows-beyond-sony-vegas-for-2024/"><u>Best Video Editing Software for Windows Beyond Sony Vegas for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-ways-to-resolve-continuous-street-fighter-6-freezes-and-crashes-on-your-computer-guide/"><u>Best Ways to Resolve Continuous Street Fighter 6 Freezes and Crashes on Your Computer (Guide)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-profile-photo-impact/"><u>Enhancing Profile Photo Impact</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-rectified-unauthorized-access-in-gaming-alert-cleared-up/"><u>Error Rectified: Unauthorized Access in Gaming Alert Cleared Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/google-meet-camera-not-working-here-are-the-proven-steps-to-restore-functionality/"><u>Google Meet Camera Not Working? Here Are the Proven Steps to Restore Functionality!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gopros-superhero-5-and-sj7-showdown/"><u>GoPro's Superhero 5 and SJ7 Showdown</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-based-worldbuilding-techniques/"><u>GPT-Based Worldbuilding Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/guardians-of-the-galaxy-pc-game-8-troubleshooting-steps-for-a-smooth-play-experience/"><u>Guardians of the Galaxy PC Game: 8 Troubleshooting Steps for a Smooth Play Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-black-screen-problem-in-call-of-duty-wwii-when-playing-on-windows-solutions/"><u>How to Fix the 'Black Screen' Problem in Call of Duty: WWII when Playing on Windows - Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-baffling-warzone-memory-error-0-1766-on-your-xboxpc-setup/"><u>How To Fix The Baffling Warzone Memory Error 0-1766 On Your Xbox/PC Setup</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximize-profits-the-top-13-no-experience-reddit-hacks/"><u>Maximize Profits The Top 13 No-Experience Reddit Hacks</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-why-your-outlook-is-not-launching/"><u>Solving the Issue: Why Your Outlook Is Not Launching</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-5-asf-to-mp4-conversion-software-reviewed-speedy-switch-between-formats/"><u>Top 5 ASF-to-MP4 Conversion Software Reviewed: Speedy Switch Between Formats</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-oculus-link-asap-top-six-methods-to-resolve-black-screen-issues/"><u>Troubleshoot Your Oculus Link ASAP: Top Six Methods to Resolve Black Screen Issues</u></a></li>
+</ul></div>
 

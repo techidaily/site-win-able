@@ -1,7 +1,7 @@
 ---
 title: "Fixing Read Errors in Call of Duty Warzone Versions [5.0, 3.1]: A Comprehensive Guide for Gamers"
-date: 2024-09-16T00:00:20.702Z
-updated: 2024-09-21T21:27:45.547Z
+date: 2024-09-27T00:23:25.299Z
+updated: 2024-09-28T09:51:45.984Z
 tags:
   - win11
   - win10
@@ -43,9 +43,23 @@ thumbnail: https://thmb.techidaily.com/3edb5ed0f59ba6116f7a3ed0872c7594498c971b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 wireless router
 
@@ -72,6 +86,13 @@ wireless router
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Run Warzone on DirectX 11
 
  If Warzone dev error 6328 constantly occurs and the game keeps crashing, you could switch to the DirectX 11 mode, which, as other users reported, gives a smoother gameplay. Here is how to do this:
@@ -81,8 +102,22 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
@@ -93,54 +128,27 @@ wireless router
 1. Click the**Start** button and type**advanced system settings** in the Windows search bar. Then click**View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
-3. Select the**Advanced** tab and click**Change** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
+3. Select the**Advanced** tab and click**Change** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
 
@@ -161,6 +169,13 @@ wireless router
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
@@ -184,5 +199,23 @@ wireless router
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/updated-achieving-professional-level-youtube-streams-using-wirecast/"><u>[Updated] Achieving Professional-Level Youtube Streams Using WireCast</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-natural-landscapes-essential-templates-to-improve-your-film-craft/"><u>[Updated] Natural Landscapes Essential Templates to Improve Your Film Craft</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bing-chat-unveils-latest-upgrade-a-closer-look-at-its-chatgpt-inspired-features/"><u>Bing Chat Unveils Latest Upgrade: A Closer Look at Its ChatGPT-Inspired Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004985997-cold-war-stuck-at-start-heres-how-to-fix-it-on-your-gaming-device/"><u>Cold War Stuck at Start? Here's How to Fix It on Your Gaming Device</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y27s-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-2-resurrected-stability-issues-addressed-and-resolved/"><u>Diablo 2 Resurrected Stability Issues Addressed and Resolved</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/diving-into-instagrams-restriction-for-video-content-for-2024/"><u>Diving Into Instagram's Restriction for Video Content for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723006496429-get-your-discord-overlay-back-on-a-fast-and-simple-guide/"><u>Get Your Discord Overlay Back On - A Fast and Simple Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-doom-eternal-running-if-it-wont-start-expert-fixes-revealed/"><u>How to Get DOOM Eternal Running if It Won’t Start - Expert Fixes Revealed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/key-steps-to-accurate-and-effective-market-research-analysis/"><u>Key Steps to Accurate and Effective Market Research Analysis</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/kindle-buy-guide-maximizing-your-investment/"><u>Kindle Buy Guide: Maximizing Your Investment</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-lag-control-top-strategies-to-address-and-fix-frame-drops-in-bless-unleashed-on-pc/"><u>Mastering Lag Control: Top Strategies to Address and Fix Frame Drops in Bless Unleashed on PC</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-identifying-core-functionalities-in-digital-sound-editors-for-mac/"><u>New In 2024, Identifying Core Functionalities in Digital Sound Editors for Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-sf7-pc-errors-expert-advice-to-ensure-uninterrupted-gaming-experience/"><u>Overcome SF7 PC Errors: Expert Advice to Ensure Uninterrupted Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-6-tips-to-avoid-gameplay-interruptions-street-fighter/"><u>Top 6 Tips to Avoid Gameplay Interruptions - Street Fighter</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-14-pro-without-itunes-or-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 14 Pro without itunes or icloud</u></a></li>
+</ul></div>
 

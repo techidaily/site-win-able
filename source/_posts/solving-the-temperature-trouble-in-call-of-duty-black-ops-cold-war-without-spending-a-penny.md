@@ -1,7 +1,7 @@
 ---
 title: "Solving the Temperature Trouble in Call of Duty: Black Ops Cold War Without Spending a Penny"
-date: 2024-09-20T18:36:56.212Z
-updated: 2024-09-21T18:50:54.157Z
+date: 2024-09-27T10:31:33.744Z
+updated: 2024-09-27T21:20:43.043Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
 ### Fix 3: Update your graphics driver
@@ -80,14 +87,22 @@ You can do it with only 2 steps:
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -95,13 +110,6 @@ You can do it with only 2 steps:
  Once you’ve updated your graphics driver, restart your computer and join a game in Modern Warfare. You can now test the gameplay and see if the driver update helps your case.
 
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -116,10 +124,10 @@ And it’s quite easy to update too:
 3. Once you’ve installed the updates, restart the computer.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To install all the available updates, you might need to repeat these steps several times until Windows prompts that you’re up to date when you click**Check for updates** .
@@ -133,6 +141,13 @@ And it’s quite easy to update too:
  Sometimes your game becomes laggy when you have some background tasks eating up your RAM or CPU resources. Before opening a game in Modern Warfare, first make sure you’ve exited programs like**Chrome** ,**Discord** ,**Skype** or**Windows Update** that might exhaust your computer resources.
 
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Change your power plan to Ultimate Performance
 
@@ -151,13 +166,6 @@ Here’s how to enable this power plan:
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
 
@@ -178,5 +186,26 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-marvelous.techidaily.com/imperator-rome-conquering-power-or-facing-destruction/"><u>'Imperator: Rome': Conquering Power or Facing Destruction?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-lol-gaming-on-air-top-3-recording-methods/"><u>[Updated] 2024 Approved LOL Gaming On Air Top 3 Recording Methods</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-essential-guide-utilizing-vimeo-record-for-screen-and-webcam-capture/"><u>2024 Approved Essential Guide Utilizing Vimeo Record for Screen & Webcam Capture</u></a></li>
+<li><a href="https://win-able.techidaily.com/bulletproof-strategies-for-fixing-first-person-shooter-errors-in-the-latest-call-of-duty-game/"><u>Bulletproof Strategies for Fixing First-Person Shooter Errors in the Latest Call of Duty Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-pc-launch-obstacles-in-days-gone-a-step-by-step-troubleshooting-guide/"><u>Defeating PC Launch Obstacles in 'Days Gone': A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-m6-pro-4g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from M6 Pro 4G</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-crashes-for-good-master-these-easy-fixes-for-a-seamless-call-of-duty-mw3-experience/"><u>Fix Crashes for Good - Master These Easy Fixes for a Seamless Call of Duty MW3 Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-preventing-left-4-dead-2-from-crashing-on-your-pc/"><u>Fixes for Preventing Left 4 Dead 2 From Crashing on Your PC</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-premium-broadcasting-gear-top-rated-software-and-hardware-for-youtubers/"><u>In 2024, Premium Broadcasting Gear Top-Rated Software & Hardware for Youtubers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-gpt-chat-a-practical-api-overview/"><u>Integrating GPT-Chat: A Practical API Overview</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/maplestory-for-windows-nx-users-troubleshooting-tips-to-prevent-game-crashes-latest-fixes/"><u>MapleStory for Windows nX Users: Troubleshooting Tips to Prevent Game Crashes (Latest Fixes)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-how-to-reset-final-cut-pro-x-to-troubleshoot-issues-for-2024/"><u>New How to Reset Final Cut Pro X to Troubleshoot Issues for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-warzone-disk-reading-glitches-a-guide-to-repair-version-50-and-31-pc-problems/"><u>Overcoming Warzone Disk Reading Glitches: A Guide to Repair Version 5.0 & 3.1 PC Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-fixes-for-red-dead-redemption-2-freezing-up-on-your-computer/"><u>Resolving the Issue: Fixes for 'Red Dead Redemption 2' Freezing Up on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/stalled-opera-install-windows-fix-guide/"><u>Stalled Opera Install? Windows Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-elevated-processor-load-after-software-update/"><u>Troubleshooting Elevated Processor Load After Software Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-how-to-resolve-zoom-video-not-working-error/"><u>Ultimate Guide: How To Resolve Zoom Video Not Working Error</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/path-to-youtube-earnings-setting-up-and-selling-content-for-2024/"><u>Your Path to YouTube Earnings Setting Up and Selling Content for 2024</u></a></li>
+</ul></div>
 

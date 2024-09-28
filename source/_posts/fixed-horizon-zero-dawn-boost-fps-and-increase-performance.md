@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Horizon Zero Dawn BOOST FPS and Increase Performance"
-date: 2024-09-16T23:41:34.042Z
-updated: 2024-09-21T17:07:57.005Z
+date: 2024-09-23T16:59:25.414Z
+updated: 2024-09-27T23:34:21.439Z
 tags:
   - win11
   - win10
@@ -70,13 +70,6 @@ Once done, launch Horizon Zero Dawn and check if it crashes again.
 
  If verifying game files doesn’t help your case, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  One of the most common causes to the crash is a**faulty or outdated GPU driver** . Graphics card manufacturers release new drivers on a regular basis, addressing compatibility issues and improving gaming experience. If the last time you updated drivers feels like ages ago, definitely do it now as it might save your day.
@@ -100,6 +93,14 @@ Once done, launch Horizon Zero Dawn and check if it crashes again.
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -119,18 +120,38 @@ And here’s a quick guide to disable Steam overlay:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-steam-overlay-1.jpg)
 2. From the left menu, select**In-Game** . Under the**Steam Overlay** section, uncheck these boxes. Then click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now you can start Horizon Zero Dawn and see if it crashes again.
 
  If this method doesn’t give you luck, simply check out the next one.
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -156,6 +177,14 @@ Here’s how:
 1. Open Horizon Zero Dawn and go to**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hzd-display-mode-1.jpg)
 2. Navigate to the**DISPLAY** tab and set**Display mode** to**Borderless** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hzd-display-mode-2.jpg)
 3. Restart your game and test the gameplay.
 
@@ -177,17 +206,17 @@ You can use this guide to increase your virtual memory:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/virtual-memory-03.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Reboot your PC and check if Horizon Zero Dawn crashes again.
 
 If the crash reoccurs, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Enable HAGS (GeForce 10 series or later/Radeon 5600 or 5700 series)
 
@@ -200,24 +229,25 @@ And here’s how to enable HAGS:
 1. In the empty area of your desktop, right-click and select**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the**Multiple displays** section, click**Graphics settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
-3. Under the**Default settings** section, click**Change default graphics settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
+3. Under the**Default settings** section, click**Change default graphics settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
@@ -240,5 +270,26 @@ And here’s how to enable HAGS:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-cinematic-excellence-discover-the-best-15-gopro-action-cam-luts/"><u>[New] Cinematic Excellence Discover the Best 15 GOPRO Action Cam LUTs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-premier-choices-8-linux-editing-tools/"><u>[Updated] 2024 Approved Premier Choices 8 Linux Editing Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-from-noisy-to-neat-cutting-out-clutter-on-photos/"><u>[Updated] From Noisy to Neat Cutting Out Clutter on Photos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guffaw-generation-generating-7-hilarious-video-moments-online/"><u>[Updated] In 2024, Guffaw Generation Generating 7 Hilarious Video Moments Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-innovative-ways-to-boost-your-snapchat-engagement-for-2024/"><u>[Updated] Innovative Ways to Boost Your Snapchat Engagement for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-insight-visionpro-x-review-the-2023-edition-explored/"><u>2024 Approved Complete Insight VisionPro X Review – The 2023 Edition Explored</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-lost-and-found-30-free-speech-to-text-mac-hits/"><u>2024 Approved Lost and Found 30 Free Speech-to-Text Mac Hits</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-steam-glitches-how-to-stabilize-the-total-collapse-of-horizon-forbidden-west-on-your-pc/"><u>Beat Steam Glitches: How to Stabilize the Total Collapse of Horizon Forbidden West on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-the-pc-wasteland-ultimate-guide-to-solving-scavengers-game/"><u>Conquer the PC Wasteland: Ultimate Guide to Solving Scavengers Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-techniques-for-fixing-recurring-crashing-glitches-in-wow-gaming/"><u>Effortless Techniques for Fixing Recurring Crashing Glitches in WOW Gaming</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-mk710-software-installer-latest-version/"><u>Free Logitech MK710 Software Installer - Latest Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-rainbow-six-mobile-strategies-to-address-and-fix-fps-drops/"><u>Mastering Rainbow Six Mobile: Strategies to Address and Fix FPS Drops</u></a></li>
+<li><a href="https://win-able.techidaily.com/patched-and-enhanced-overwatch-performance-with-new-graphics-driver-fixes/"><u>Patched and Enhanced Overwatch Performance with New Graphics Driver Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/persistent-crashes-in-call-of-duty-modern-warfare-how-to-fix/"><u>Persistent Crashes in Call of Duty: Modern Warfare – How to Fix?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/realms-of-possibility-ai-and-the-reality-shift/"><u>Realms of Possibility: AI and the Reality Shift</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-unresponsive-behavior-in-rust-programs-a-comprehensive-2n4-fix-it-manual/"><u>Resolving Unresponsive Behavior in Rust Programs - A Comprehensive 2N4 Fix-It Manual</u></a></li>
+<li><a href="https://win-able.techidaily.com/restoring-online-talking-features-for-players-of-among-us-on-desktop-computers/"><u>Restoring Online Talking Features for Players of Among Us on Desktop Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-how-to-resolve-ps4-system-freezes-effectively/"><u>Step-by-Step Troubleshooting: How To Resolve PS4 System Freezes Effectively</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-how-the-serious-reader-can-benefit-from-kobo-formas-advanced-features/"><u>The Ultimate Review: How the Serious Reader Can Benefit From Kobo Forma's Advanced Features</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Valorant PC Performance Issue: Fixing the Game's Input Lag"
-date: 2024-09-19T00:30:30.448Z
-updated: 2024-09-21T16:26:03.625Z
+date: 2024-09-25T08:27:08.422Z
+updated: 2024-09-28T10:58:43.436Z
 tags:
   - win11
   - win10
@@ -63,6 +63,13 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dyling-light-2-automatic-updates-1200x850.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### On Epic Games Launcher
 
  1) Open your Epic Games Launcher. Navigate to your game in the**LIBRARY** .
@@ -88,13 +95,6 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
  3) Click the**CPU or Memory tab** to check whether anything is using up large chunks of your CPU or RAM (for instance, a web browser with dozens of tabs open).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Task-Manager-Memory.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Find any programs or processes that can affect the PC performance, right-click on it and select**End task** .
 
@@ -134,6 +134,13 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 
  If updating Windows doesn’t give you any luck, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Update your graphics driver
 
  Your outdated graphics driver is probably the top troublemaker for gaming problems and FPS drops in particular. To solve your issues, you need to download and install the latest graphics driver for your system. Game ready drivers are released regularly to optimize for new titles.
@@ -152,28 +159,28 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating drivers, restart your PC and test your gameplay. If your problem persists, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Verify integrity of game files
@@ -189,6 +196,13 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 2) Under LIBRARY, right-click**Dying Light 2** and select**Properties** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dying-Light-2-verify-integrity-of-game-files-properties-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select the **LOCAL FILES**  tab. Then click **Verify integrity of game files…** .
 
@@ -222,6 +236,13 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Video-settings-Dyling-Light-2-1200x701.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now scroll down and make these changes:
 
 **Particles Quality:** Low  
@@ -233,13 +254,6 @@ Now scroll down and make these changes:
 **Fog Quality:** Low
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/image.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then apply the changes. Press the**Esc** key and click**OK** .
 
@@ -261,6 +275,13 @@ Now scroll down and make these changes:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dyling-Light-2-enable-accelerated-high-gpu-scheduling.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Navigate to your game’s installation folder. If you’re on Steam, follow the instructions below to locate your game’s installation folder.
 
  (If you’re playing it on Epic Games Launcher, it’s Default: **C:\\Program Files\\Epic Games\\\[Game Name\]** by default. )
@@ -271,6 +292,13 @@ Locate the game’s installation folder on Steam:
 * Under LIBRARY, right-click**Dying Light 2** and select**Manage** **\> Browse local files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dying-light-2-browse-local-files.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Then open the files**ph > work > bin > x64** . Click the very top to copy the file path.
 
@@ -285,13 +313,6 @@ Locate the game’s installation folder on Steam:
  6) Choose**High performance** and click**Save** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/high-performance-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Doing this will make sure that the game runs on the best graphics processor you have on your computer, not holding back any performance.
 
@@ -330,5 +351,24 @@ When the process is complete, restart your PC.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-no-cost-online-sensual-playgrounds/"><u>[New] 2024 Approved No-Cost Online Sensual Playgrounds</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722982180885-solved-marvels-avengers-crashing-on-pc/"><u>[SOLVED] Marvel’s Avengers Crashing on PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ultimate-guide-to-non-time-restricted-recorders/"><u>[Updated] In 2024, Ultimate Guide to Non-Time Restricted Recorders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-visual-vibrancy-expertise-in-hue-manipulation-for-2024/"><u>[Updated] Visual Vibrancy Expertise in Hue Manipulation for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-tailoring-a-triad-of-topical-youtube-tracks/"><u>2024 Approved Tailoring a Triad of Topical YouTube Tracks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-heat-management-for-your-graphics-card-types-and-reviews-of-gpu-coolers/"><u>Choosing the Right Heat Management for Your Graphics Card: Types and Reviews of GPU Coolers</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-fixing-interrupted-steam-installation-processes/"><u>Expert Tips on Fixing Interrupted Steam Installation Processes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-these-6-fantastic-budget-friendly-photo-editors-instead-of-photoshop/"><u>Explore These 6 Fantastic Budget-Friendly Photo Editors Instead of Photoshop</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-do-you-want-to-add-a-motion-blur-effect-in-valorant-read-this-guide-to-find-out-how-to-create-a-motion-blur-effect-in-valorant-without-any-hassle/"><u>In 2024, Do You Want to Add a Motion Blur Effect in Valorant? Read This Guide to Find Out How to Create a Motion Blur Effect in Valorant without Any Hassle</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oppo-reno-8t-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Oppo Reno 8T Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-sustained-sky-exploration-the-best-drones-for-distance/"><u>In 2024, Sustained Sky Exploration The Best Drones for Distance</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-game-performance-fixing-cpu-overload-issues-in-phasmophobia/"><u>Optimizing Game Performance: Fixing Cpu Overload Issues in Phasmophobia</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-simultaneous-collision-errors-on-personal-computers-a-comprehamatic-guide/"><u>Resolving Simultaneous Collision Errors on Personal Computers - A Comprehamatic Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-age-of-empires-4s-gaming-hiccups-for-a-smoother-playthrough/"><u>Troubleshooting Age of Empires 4'S Gaming Hiccups for a Smoother Playthrough</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steam-errors-installed-easy-anti-cheat-now-game-launches-successfully/"><u>Troubleshooting Steam Errors: Installed Easy Anti-Cheat, Now Game Launches Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-back-4-blood-on-unreal-engine-4-overcoming-the-gobi-glitch/"><u>Troubleshooting Tips for 'Back 4 Blood on Unreal Engine 4: Overcoming the Gobi Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-stop-minecraft-stuttering-proven-techniques/"><u>Ultimate Guide: Stop Minecraft Stuttering - Proven Techniques</u></a></li>
+</ul></div>
 

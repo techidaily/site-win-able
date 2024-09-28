@@ -1,7 +1,7 @@
 ---
 title: Halo Infinite Sound Troubles? Here's How You Can Get Quality Audio Back
-date: 2024-09-15T19:47:34.592Z
-updated: 2024-09-21T20:47:42.731Z
+date: 2024-09-21T05:12:17.804Z
+updated: 2024-09-27T20:24:25.417Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 
 [3: Configure Windows sound settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Set Dynamic Range to Compressed mode
 
  If you find it hard to hear the game audio sometimes, for example, little spatial sound feedback when enemies approach or when you’re firing a gun, you can try this quick fix first. By changing the game audio setting, dynamic range, to compressed mode, the game audio will be adjusted to play at the same level of volume. Here’s how:
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 3. Play a game to test the issue.
 
 If this fix doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your device drivers
 
@@ -65,6 +79,13 @@ If this fix doesn’t solve your problem, try the next fix.
 
  3) Click the **Update**  button next to the flagged drivers to automatically download their correct version, then you can manually install them (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_15-18-16.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -87,10 +108,17 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-12-24.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Turn on loudness equalization
@@ -104,29 +132,9 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-28-11.jpg)
 3. Switch to the**Enhancements** tab. Tick the checkbox of**Loudness Equalization** , then click**Apply** and**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-28-36.jpg)
 
  If this doesn’t work for you or you wish to revert the change, simply repeat the steps above and uncheck the Loudness Equalization setting.
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Turn on spatial sound
 
@@ -136,23 +144,16 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-27-28.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Disable the communication option
@@ -162,6 +163,13 @@ If this fix doesn’t solve your problem, try the next fix.
 1. On your taskbar, right-click the**speaker icon** and click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-27-44.jpg)
 2. Go to the**Communications** tab, select**Do nothing** , then click**Apply** and**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-22_10-11-57.jpg)
 
@@ -184,5 +192,23 @@ If this fix doesn’t solve your problem, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-instagrams-unique-video-display-a-deep-dive/"><u>[New] Instagram’s Unique Video Display A Deep Dive</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-initiate-xp-project-masterpiece-creation-package/"><u>[Updated] In 2024, Initiate XP Project Masterpiece Creation Package</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/enhancing-tv-experience-watching-fb-content-seamlessly-for-2024/"><u>Enhancing TV Experience Watching Fb Content Seamlessly for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/essential-downloads-leading-6-fb-lite-video-tools-for-2024/"><u>Essential Downloads Leading 6 FB Lite Video Tools for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-discord-streaming-up-and-running-overlay-issues-no-more/"><u>Get Your Discord Streaming Up & Running - Overlay Issues No More!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-monster-hunter-world-conquering-fearsome-creatures/"><u>In-Depth Analysis of 'Monster Hunter: World': Conquering Fearsome Creatures</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revive-lost-connections-a-step-by-step-guide-to-recovering-deleted-contacts-from-your-itunes-backup/"><u>Revive Lost Connections: A Step-by-Step Guide to Recovering Deleted Contacts From Your iTunes Backup</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-terrarias-lost-connections-a-guide-with-proven-techniques-6/"><u>Solving Terraria's Lost Connections: A Guide with Proven Techniques (6)</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-lag-and-stutter-problem-in-fortnite-on-your-computer/"><u>Solving the Lag and Stutter Problem in Fortnite on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-roadblocks-preventing-football-manager-2022-from-dropping-expert-fixes-revealed/"><u>The Roadblocks Preventing Football Manager 2022 From Dropping - Expert Fixes Revealed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-urban-ecosystem-fostering-resilience-through-green-policies-for-2024/"><u>The Urban Ecosystem Fostering Resilience Through Green Policies for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-made-easy-start-genshin-impact-without-a-hitch/"><u>Troubleshooting Made Easy: Start Genshin Impact Without a Hitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-the-dead-space-reboot-starting-issue-2024-tips-and-solutions/"><u>Ultimate Fixes for the Dead Space Reboot Starting Issue - 2024 Tips & Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-youtube-tracks-anytime-without-spending-a-dime-the-best-audio-crackers-for-2024/"><u>Unlock YouTube Tracks Anytime, Without Spending a Dime The Best Audio Crackers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/untangling-the-problems-in-call-of-duty-wwii-decoding-error-4128/"><u>Untangling the Problems in Call of Duty: WWII - Decoding Error 4128</u></a></li>
+</ul></div>
 

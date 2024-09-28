@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Sluggishness: Enhancing Ubisoft's Online Service Performance"
-date: 2024-09-14T23:28:43.268Z
-updated: 2024-09-16T18:40:24.615Z
+date: 2024-09-23T07:46:43.968Z
+updated: 2024-09-27T17:03:26.472Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ Serious Sam 4 is available now! But players have reported some issues like crash
 11. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 12. **[Disable overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Make sure your PC meets the specs
 
 Here are the minimum and recommended system requirements for the game:
@@ -70,6 +77,13 @@ Here are the minimum and recommended system requirements for the game:
  You can press the**Windows logo key** and**R** together on your keyboard type**winver** . Then press**Enter** . Now you can see your Windows version.
 
 ![check Windows version](https://images.drivereasy.com/wp-content/uploads/2020/09/my-windows-version.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Mine is 1903, which doesn’t meet the recommended requirements. So I should have my Windows updated.
 
@@ -131,16 +145,16 @@ Here’s how to update drivers with Driver Easy:
 ![run Steam as an administrator to fix Serious Sam 4 crashing and suttering issue](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-right-click-from-the-desktop-and-select-open-file-location.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Scroll down and find the**Steam application** . (It should be highlighted.) Right-click on it and select**Properties** .
@@ -174,6 +188,13 @@ To do so, you can:
 
 ![allow  an app through controlled folder access Serious Sam 4 ](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-1200x684.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Add an allowed app** **\> Browse all apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-2-1-1200x684.png)
@@ -191,13 +212,6 @@ To do so, you can:
 2) Under the **LIBRARY**  tab, right-click on **Serious Sam 4** and select **Properties** .
 
 ![This image has an empty alt attribute; its file name is steam-select-propertite.jpg](https://images.drivereasy.com/wp-content/uploads/2020/11/steam-select-propertite.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click on the **LOCAL FILES**  tab and click **VERIFY INTEGRITY OF GAME FILES…** .
 
@@ -217,6 +231,13 @@ To do so, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/steam-select-propertite.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select the**GENERAL** tab and uncheck the box next to**Enable the Steam Overlay while in-game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-Steam-overlay-1.jpg)
@@ -235,16 +256,16 @@ To do so, you can:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/steam-select-propertite.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select the**GENERAL** tab and click**SET LAUNCH OPTIONS…** .
 
 ![set launch options to fix Serious Sam 4 crashing and stuttering on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/Steam-set-launch-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) In the text box, type**+gfx\_strAPI Vulkan** and click**OK** .
 
@@ -278,13 +299,6 @@ After you’ve done these, relaunch your game.
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-4-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After applying the changes, close your game and launch it again to check if it fixes the issue.
 
 ---
@@ -299,16 +313,16 @@ After you’ve done these, relaunch your game.
 
 ![set priority as realtime Serious Sam 4 crash and sutter](https://images.drivereasy.com/wp-content/uploads/2020/09/open-task-manager-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the tab**Details** and scroll down the list. Right-click on**Sam4.exe** and then select**Set priority > Realtime** .
 
 ![set priority as realtime Serious Sam 4 crash and sutter](https://images.drivereasy.com/wp-content/uploads/2020/09/set-priority-as-real-time-2-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If setting priority to realtime didn’t work for you, don’t worry. You got a few other fixes.
 
@@ -336,6 +350,13 @@ Here’s how you can do this:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 12: Disable overclocking
 
  If you have any overclocking applications like**RivaTuner** or**MSI Afterburner** running on your computer, disable them. They would cause crashes for many games including Serious Sam 4.
@@ -361,5 +382,21 @@ Here’s how you can do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-audiovisual-authority-the-finest-computers-for-professional-edits/"><u>[New] 2024 Approved Audiovisual Authority The Finest Computers for Professional Edits</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-fifa-video-highlights-top-youtube-data-infographics/"><u>[New] 2024 Approved FIFA Video Highlights Top YouTube Data Infographics</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-vlc-mastery-unveiling-10-secret-capabilities/"><u>[New] 2024 Approved VLC Mastery Unveiling 10 Secret Capabilities</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-guide-shrinking-and-changing-iphone-video-dimensions/"><u>[Updated] Quick Guide Shrinking & Changing iPhone Video Dimensions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2023s-mastered-entry-editor-for-multi-platform-devices/"><u>2023'S Mastered Entry Editor for Multi-Platform Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-update-2024-bug-exposed-solutions-inside/"><u>Cyberpunk 2077 Update 2024 Bug Exposed - Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-red-dead-redemption-2s-errgfxstate-error/"><u>Expert Tips for Resolving Red Dead Redemption 2'S ERR_GFX_State Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-beat-destiny-2s-centipede-error-and-get-back-to-gaming/"><u>How to Beat Destiny 2’S Centipede Error and Get Back to Gaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-your-craft-exclusive-free-templates-and-tips/"><u>In 2024, Master Your Craft Exclusive Free Templates & Tips</u></a></li>
+<li><a href="https://techidaily.com/is-your-oneplus-ace-2v-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your OnePlus Ace 2V working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-crashes-in-everspaced-2-on-desktop-systems-expert-fixes/"><u>Resolving Crashes in EverSpaced 2 on Desktop Systems - Expert Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-warzone-textures-not-loading/"><u>Solved: Warzone Textures Not Loading</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-startup-issues-with-starfield-game-on-steam-and-xbox/"><u>Troubleshooting Guide: Resolving Startup Issues with Starfield Game on Steam & Xbox</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-free-dual-screen-video-editing-software-web-and-desktop-for-2024/"><u>Updated Top Free Dual-Screen Video Editing Software Web & Desktop for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Addressing PC FPS Drops for a Smooth Playthrough of Resident Evil Village [FIXED]"
-date: 2024-09-16T21:11:18.832Z
-updated: 2024-09-21T23:16:06.980Z
+date: 2024-09-21T10:44:05.140Z
+updated: 2024-09-28T09:17:36.991Z
 tags:
   - win11
   - win10
@@ -65,10 +65,24 @@ There are mainly two ways to update your drivers:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click the**Update** button to update certain driver you want.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch Madden 22 to see if the driver update does the trick. If not, check out the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Run the game as an administrator
 
@@ -77,13 +91,6 @@ There are mainly two ways to update your drivers:
 1. Go to the Madden 22 installation folder. Then click the executable file and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 2. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 
@@ -103,10 +110,10 @@ See if the issue persists. If yes, continue to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It may take a few minutes for the process to complete. Upon completion, check whether you can play the game normally. If not, proceed to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -116,22 +123,23 @@ See if the issue persists. If yes, continue to the next solution.
 1. Open Epic Games launcher and select the**Library** tab in the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3-1.jpg)
 2. Locate the Madden NFL 22 title and click the icon with three dots next to it. Then click**Verify** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 
  After the process finishes, restart Madden 22 to test the issue. If it’s still not working, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Temporarily disable your antivirus
@@ -170,5 +178,26 @@ See if the issue persists. If yes, continue to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-screenshots-software-series/"><u>[New] 2024 Approved Best Screenshots Software Series</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-archive-your-albums-in-the-sky-optimal-photo-cloud-storage-compared/"><u>[New] Archive Your Albums in the Sky Optimal Photo Cloud Storage Compared</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-how-samsung-galaxy-s8-changes-high-definition-viewing/"><u>[New] How Samsung Galaxy S8 Changes High-Definition Viewing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-videos-to-vibrant-gifs-youtube-conversion-techniques-for-2024/"><u>[Updated] From Videos to Vibrant GIFs YouTube Conversion Techniques for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-iphone-and-ipad-podcast-recording-manual-for-interviews-for-2024/"><u>[Updated] The Ultimate iPhone & iPad Podcast Recording Manual For Interviews for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-your-personalized-top-10-playlist/"><u>[Updated] Your Personalized Top 10 Playlist</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-inshots-counterparts-for-pc-video-editing/"><u>2024 Approved Inshot's Counterparts for PC Video Editing</u></a></li>
+<li><a href="https://win-able.techidaily.com/biomutant-for-pc-crash-dilemma-discover-the-ultimate-fixes-and-hacks-updated-for-2anno/"><u>Biomutant for PC Crash Dilemma? Discover the Ultimate Fixes and Hacks (Updated for 2Anno)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2-update-broccoli-bug-patched-with-2024-content-enhancements/"><u>Destiny 2 Update: Broccoli Bug Patched with 2024 Content Enhancements</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-pauses-and-hitches-tips-for-a-seamless-overwatch-gaming-experience/"><u>Eliminating Pauses and Hitches: Tips for a Seamless Overwatch Gaming Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-speed-up-your-sluggish-chrome-in-minutes/"><u>How to Speed Up Your Sluggish Chrome in Minutes</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-gameplay-a-guide-to-enhancing-frame-rate-and-resolving-stutters-in-the-ascent/"><u>Improving Gameplay: A Guide to Enhancing Frame Rate & Resolving Stutters in The Ascent</u></a></li>
+<li><a href="https://win-able.techidaily.com/league-of-legends-patched-reconnect-loop-gameplay-improvement-for-2er-year/"><u>League of Legends Patched 'Reconnect Loop' - Gameplay Improvement for 2Er Year</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-safely-why-steer-clear-of-chatgpt-programs-in-your-apple-devices-marketplace/"><u>Navigating Safely: Why Steer Clear of ChatGPT Programs in Your Apple Devices' Marketplace</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722992679506-pharmacogenomics-can-influence-the-risk-of-drug-induced-liver-injury-dili-by-affecting-drug-metabolism-pathways/"><u>Pharmacogenomics Can Influence the Risk of Drug-Induced Liver Injury (DILI) by Affecting Drug Metabolism Pathways</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996530460-quick-solutions-to-overcome-fortnite-login-troubles-effortlessly/"><u>Quick Solutions to Overcome Fortnite Login Troubles Effortlessly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-the-annoying-directx-error-in-anno-1800/"><u>Resolved: How to Fix the Annoying DirectX Error in Anno 1800</u></a></li>
+<li><a href="https://win-able.techidaily.com/warframe-wont-start-heres-how-to-overcome-the-common-error/"><u>Warframe Won’t Start? Here’s How to Overcome the Common Error!</u></a></li>
+</ul></div>
 

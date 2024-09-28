@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Solve Tormented Souls' Constant Crashes on PC"
-date: 2024-09-20T16:37:22.336Z
-updated: 2024-09-22T00:15:27.265Z
+date: 2024-09-23T18:32:52.354Z
+updated: 2024-09-27T17:17:20.073Z
 tags:
   - win11
   - win10
@@ -35,6 +35,14 @@ To do so:
 1. On your keyboard, hold down th**e Windows logo key** then press**R** to bring up the**Run** box.
 2. Type**control** and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b89010276b4b.png)
 3. Select**Programs and Features** when selected to**View by Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b890184befeb.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Right-click**HP My Display** to select**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8901cc8a421.jpg)
 5. Click **Yes**  when prompted by User Account Control.
 
@@ -47,10 +55,17 @@ You can choose to update your device drivers through**Device Manager**to let Win
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the**Pro version** which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)**Note:** You can also do it for free if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b890b1f40fe3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Last, download the latest version of HP My Display to install it on your computer
@@ -60,10 +75,10 @@ You can choose to update your device drivers through**Device Manager**to let Win
 3. **Double-click** the downloaded file and follow the on-screen instructions to install HP My Display on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 HP My Display should then be running without problem after the installation. Do you fix the HP My Display has stopped working error? Feel free to comment below with your own experiences.
@@ -84,5 +99,19 @@ HP My Display should then be running without problem after the installation. Do 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-night-vision-with-iphone-capturing-striking-shadows/"><u>[Updated] Night Vision with iPhone Capturing Striking Shadows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-seeking-a-true-witchs-tongue-are-vocal-changer-apps-legit-find-substitutes/"><u>2024 Approved Seeking a True Witch's Tongue Are Vocal Changer Apps Legit? Find Substitutes</u></a></li>
+<li><a href="https://win-able.techidaily.com/corrected-itunes-sound-setup-enhance-your-listening-experience/"><u>Corrected iTunes' Sound Setup: Enhance Your Listening Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-call-of-duty-vanguard-pc-crashes-comprehensive-fix-guide/"><u>Dealing with Call of Duty: Vanguard PC Crashes - Comprehensive Fix Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-strategies-for-gaining-new-followers-on-instagram/"><u>Effective Strategies for Gaining New Followers on Instagram</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-honor-100-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor 100 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-frame-rate-and-resolution-for-a-smoother-division-2-gaming-experience/"><u>Improving Frame Rate and Resolution for a Smoother Division 2 Gaming Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/record-your-screen-on-any-device-az-screen-recorder-for-windows-and-mac-free-download/"><u>Record Your Screen on Any Device: AZ Screen Recorder for Windows & Mac - Free Download</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-overcoming-the-dark-display-issue-on-halo-infinite-gameplay/"><u>Solutions for Overcoming the Dark Display Issue on Halo Infinite Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-fixing-tribes-of-midgard-a-players-approach-to-eliminating-crashes/"><u>Step-by-Step Guide to Fixing 'Tribes of Midgard': A Player's Approach to Eliminating Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackle-microsoft-store-login-challenges/"><u>Tackle Microsoft Store Login Challenges</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-accessing-oculus-setup-heres-what-you-can-do/"><u>Trouble Accessing Oculus Setup? Here's What You Can Do</u></a></li>
+</ul></div>
 

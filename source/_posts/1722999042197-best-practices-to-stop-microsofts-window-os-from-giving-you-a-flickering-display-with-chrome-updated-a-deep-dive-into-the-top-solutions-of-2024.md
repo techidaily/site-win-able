@@ -1,7 +1,7 @@
 ---
 title: Best Practices to Stop Microsoft's Window OS From Giving You a Flickering Display with Chrome (Updated) - A Deep Dive Into the Top Solutions of 2024
-date: 2024-09-19T19:54:10.358Z
-updated: 2024-09-22T00:15:54.119Z
+date: 2024-09-21T17:59:17.975Z
+updated: 2024-09-28T11:58:04.251Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ Display Cables (HDMI)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/dp-hdmi-adapter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Passive Adapter (DP to HDMI)
 
  If you’re confident about your cable and adapter, simply move on to the next fix.
@@ -65,6 +72,14 @@ Passive Adapter (DP to HDMI)
 1. On the empty area of your desktop, right-click and select**Personalize** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/personalize-01.jpg)
 2. From the left menu, select**Colors** . Under the**Choose your accent color** section, make sure you’ve**unchecked** the box next to**Automatically pick an accent color** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-automatically-pick-an-accent-color-02.jpg)
 3. Open Google Chrome and see if it stops flickering.
 
@@ -98,16 +113,10 @@ Passive Adapter (DP to HDMI)
 If the issue remains, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Check if it’s scroll flickering
@@ -123,19 +132,6 @@ If you don’t know how, simply follow these steps:
 
  If this trick doesn’t give you luck, take a look at the next one below.
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Update Chrome
 
  Chrome updates include bug fixes and compatibility improvements. It’s possible that the flickering issue has been fixed in the latest version. So, you can follow these steps to check for Chrome updates:
@@ -145,21 +141,14 @@ If you don’t know how, simply follow these steps:
 2. In the resulting drop-down menu, select **Help** \> **About Google Chrome** . Opening this page will initiate the update process.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-update.jpg)
 3. Once the browser updates, click the **Relaunch** button to reopen Chrome.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re already using the latest version of Chrome, please continue to the next fix.
 
@@ -176,10 +165,10 @@ If you don’t know how, simply follow these steps:
 2. In the search bar, type**hardware** . Find the**Use hardware acceleration when available** setting, toggle the switch to “off” (grey-out) position. Then click**Relaunch** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-hardware-acceleration-chrome.jpg)
@@ -191,6 +180,13 @@ If this fix doesn’t work for you, go ahead and try the last one.
 ### Fix 9: Downgrade your Chrome version
 
  According to some users, the flickering issue appears to only happen on some certain builds. If you’ve tried all the methods above and none works, you might want to try**downgrading your Chrome version** . To do this, simply go to the[Slimjet download page](https://www.slimjet.com/chrome/google-chrome-old-version.php) and select the previous version of your choice. Once you’ve installed an old version of Chrome, don’t forget to turn off auto-update.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 10: Modify your Registry
 
@@ -207,6 +203,13 @@ If this fix doesn’t work for you, go ahead and try the last one.
 
 If the issue lingers on, you can try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 11: Check for system issues
 
  In the worst case, your system is broken, or some important files are**corrupted or missing** . You’ll need a tool to verify the integrity of your system. If you’re looking for a system repair solution, give **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  a try. It’s a powerful tool that can revive your computer by scanning and fixing all the corrupted files. And you’ll keep all the settings and data.
@@ -215,6 +218,14 @@ If the issue lingers on, you can try the next solution.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -238,5 +249,17 @@ If the issue lingers on, you can try the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-monetization-an-instagram-income-journey-for-2024/"><u>[Updated] Mastering Monetization An Instagram Income Journey for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-sites-like-famebit-where-you-can-find-youtube-sponsorships-for-2024/"><u>[Updated] Sites Like FameBit Where You Can Find YouTube Sponsorships for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-zte-nubia-z60-ultra-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-bottlenecks-in-halo-infinite-to-eliminate-frame-skipping-issues/"><u>Fix Bottlenecks in Halo Infinite to Eliminate Frame Skipping Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correct-problems-with-your-itunes-audio-configuration/"><u>How To Correct Problems With Your iTunes Audio Configuration</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-elevate-your-instagram-imagery-with-striking-borders/"><u>In 2024, Elevate Your Instagram Imagery with Striking Borders</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-transform-your-chromebook-into-a-linux-powerhouse-2023-edition/"><u>New 2024 Approved Transform Your Chromebook Into a Linux Powerhouse (2023 Edition)</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-freezes-how-to-prevent-spellbreak-from-crashing-on-desktops/"><u>No More Freezes: How to Prevent Spellbreak From Crashing on Desktops</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-online-play-a-comprehensive-guide-to-address-high-latency-in-back-n-blood/"><u>Optimizing Online Play: A Comprehensive Guide to Address High Latency in 'Back N Blood'</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-for-inspirational-daily-living-visual-stories/"><u>Steps for Inspirational Daily Living Visual Stories</u></a></li>
+</ul></div>
 

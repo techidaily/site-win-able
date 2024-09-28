@@ -1,7 +1,7 @@
 ---
 title: "Project Triumph: Celebrating the Successful Deployment of 'It Takes Two'"
-date: 2024-09-20T17:51:20.440Z
-updated: 2024-09-21T18:49:37.525Z
+date: 2024-09-25T03:07:06.850Z
+updated: 2024-09-28T09:48:37.844Z
 tags:
   - win11
   - win10
@@ -49,6 +49,14 @@ Looking for fixes to solve It Takes Two not launching issue? You’ve come to th
 2. Go to LIBRARY and right-click on It Takes Two. Select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-steam.jpg)
 3. In the **General** tab, uncheck **Enable the Steam Overlay while in-game** and type **\-windowed –noborder** under **LAUNCH OPTIONS** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_10-37-19.jpg)
 4. Relaunch the game to check.
 
@@ -76,16 +84,24 @@ If it’s not working, move to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable overclocking or turbo boosting
@@ -98,13 +114,6 @@ If it’s not working, move to the next fix.
 
 If this fix doesn’t work, please move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your DirectX files
 
  It Takes Two asks for DirectX 11 to run properly. If the DirectX files is corrupted or missing, the game would not launch or crash on startup. Therefore, updating the DirectX files to the latest version would fix the issue.
@@ -113,6 +122,13 @@ If this fix doesn’t work, please move to the next one.
 2. Click the**Download** button.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Install the downloaded **.exe** file after downloading.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Reboot your PC and check the game.
 
@@ -135,5 +151,24 @@ If this fix doesn’t work, please move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-choose-your-vlog-aspect-on-fb-verticalhorizontal/"><u>[New] Choose Your Vlog Aspect on FB Vertical/Horizontal</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-9-powerful-methods-to-make-money-on-your-youtube-shorts/"><u>[Updated] 9 Powerful Methods to Make Money on Your YouTube Shorts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-discover-how-asmr-boosts-well-being-for-2024/"><u>[Updated] Discover How ASMR Boosts Well-Being for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-exploring-premium-9-digital-mic-capture-tools-for-2024/"><u>[Updated] Exploring Premium 9 Digital Mic Capture Tools for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-how-to-turn-on-hyper-v-for-windows-11-users/"><u>Comprehensive Tutorial: How To Turn On Hyper-V for Windows 11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/dark-souls-iii-resolved-system-glitches-play-uninterrupted/"><u>Dark Souls III: Resolved System Glitches - Play Uninterrupted</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-lol-game-starts-for-good-expert-strategies-to-tackle-launch-problems/"><u>Fix Your LoL Game Starts for Good: Expert Strategies to Tackle Launch Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011361025-fixing-high-input-delay-in-your-gameplay-of-cyberpunk-2dark-dreams-digital-official-site-for-cd-projekt-red-games-witcher-series-cyberpunk-2077-and-more/"><u>Fixing High Input Delay in Your Gameplay of Cyberpunk 2#Dark Dreams Digital - Official Site for CD Projekt Red Games, Witcher Series, Cyberpunk 2077, and More</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-tecno-camon-30-pro-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Tecno Camon 30 Pro 5G online without jailbreak</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-x100-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo X100 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-or-upgrade-your-canon-pixma-ts3222-printer-drivers-now/"><u>Install or Upgrade Your Canon PIXMA TS3222 Printer Drivers Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-performance-tips-for-smoother-gameplay-and-higher-fps-in-fall-guys/"><u>Maximizing Performance: Tips for Smoother Gameplay and Higher FPS in Fall Guys</u></a></li>
+<li><a href="https://win-able.techidaily.com/mlb-the-show-2021-server-issues-fixed-expert-tips-and-solutions-for-a-smooth-experience/"><u>MLB The Show 2021 Server Issues Fixed: Expert Tips & Solutions for a Smooth Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolving-windows-7-network-card-drivers-problems-a-step-by-step-guide/"><u>Resolving Windows 7 Network Card Drivers Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-tv-viewing-on-xbox-series-xs-with-tailored-vrr-settings/"><u>Streamlining TV Viewing on Xbox Series X|S with Tailored VRR Settings</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-gameplay-overcoming-mw-warzones-dev-error-n6068/"><u>Troubleshoot Your Gameplay: Overcoming MW: Warzone's Dev Error N°6068</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-against-maplestory-glitches-a-comprehensive-fix-guide-for-windows-11-enthusiasts/"><u>Winning Against MapleStory Glitches: A Comprehensive Fix Guide for Windows 11 Enthusiasts</u></a></li>
+</ul></div>
 
