@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Getting Your Origin Account Up & Running Again
-date: 2024-09-10T16:19:08.332Z
-updated: 2024-09-16T19:42:08.230Z
+date: 2024-09-29T16:14:19.214Z
+updated: 2024-10-03T16:27:57.653Z
 tags:
   - win11
   - win10
@@ -55,7 +55,21 @@ thumbnail: https://thmb.techidaily.com/65adc82cc3ee9553a2913bedb3e5be45ee26dcc59
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc4523d19203.jpg)
 4. Restart your computer and check if Internet Explorer works properly. If the problem still exists, then move on to **Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable add-ons
 
@@ -72,8 +86,22 @@ thumbnail: https://thmb.techidaily.com/65adc82cc3ee9553a2913bedb3e5be45ee26dcc59
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d0662b2bda.jpg)
 3. You’ll then see a list of all your Internet Explorer add-ons. Disable**each add-on** in the list, one at at time, by clicking it, then clicking**Disable** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d0bb770ebc.jpg)
 4. **Restart** your computer and check if Internet Explorernow works:  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
    * If Internet Explorer does work after disabling all your add-ons, it’s likely one of your add-ons was the problem. Now you just need to figure out which one. To do this, enable the first add-on in the list, then see if Internet Explorer still works. If it doesn’t, then you’ve found the cause of the problem. If Internet Explorer works fine after enabling the first add-on, enable the second and test again. Continue testing each add-on in this way until you find the one that stops Internet Explorer from working. Once you find it, disable it again. If you need it, contact the vendor for support.  
    * If disabling your add-ons doesn’t solve your problem, move on to**Fix 3** .
@@ -91,16 +119,16 @@ thumbnail: https://thmb.techidaily.com/65adc82cc3ee9553a2913bedb3e5be45ee26dcc59
 2. Right-click on **the each toolbar** in your list of programs and features **and clickUninstall** / ****Change .**  
 
 <!-- affiliate ads begin -->
-<span id="1983573">
+<span id="1983471">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1acaa16c1.jpg)
@@ -129,19 +157,6 @@ Here’s how to do it…
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Reset your security zones to their default levels
 
  If you’ve changed Internet Explorer’s s  ecurity zone settings, or if an app has changed them, this can sometimes cause **Internet Explorer has stopped working** problem. You may be able to resolve the problem by resetting your security zones to their default levels.
@@ -161,10 +176,10 @@ Here’s how to do it…
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Internet Explorer
@@ -181,6 +196,20 @@ Here’s how to do it…
 3. Deselect**Internet Explorer** (your version of Internet Explorer may be different to the screenshot below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd4105003d2.jpg)
 4. Click**Yes** to confirm.  
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd414308414.png)
 5. Click **OK** and wait until Internet Explorer turns off.
 
@@ -193,27 +222,14 @@ Here’s how to do it…
 9. Tick the **Internet Explorer**  checkbox, then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd4228e8c23.jpg)
 10. Wait until Internet Explorer turns on.
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 11. Re-launch Internet Explorer and see if it works properly.
 
@@ -236,5 +252,24 @@ Here’s how to do it…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-understanding-and-executing-essential-mukbang-elements/"><u>[New] Understanding and Executing Essential Mukbang Elements</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-epic-games-launcher-wont-open-quickly-and-easily/"><u>[SOLVED] Epic Games Launcher Won’t Open | Quickly & Easily</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-memimagic-create-funny-images-on-the-go/"><u>[Updated] MemiMagic Create Funny Images On-the-Go</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-protecting-privacy-top-10-webcam-covers/"><u>2024 Approved Protecting Privacy Top 10 Webcam Covers</u></a></li>
+<li><a href="https://win-able.techidaily.com/arise-crash-problems-a-comprehensive-guide-to-resolution/"><u>Arise Crash Problems – A Comprehensive Guide to Resolution</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-lag-top-techniques-for-a-seamless-minecraft-experience-on-pc-2023-update/"><u>Eliminating Lag: Top Techniques for a Seamless Minecraft Experience on PC - 2023 Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-resolving-zoom-compatibility-issues-with-new-updates-for-windows-1011-2024-edition/"><u>Expert Advice: Resolving Zoom Compatibility Issues with New Updates for Windows 10/11 - 2024 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-execution-hiccups-in-malwarebytes-for-windows-1110-pcs/"><u>Fixing Execution Hiccups in Malwarebytes for Windows 11/10 PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-when-your-gpu-isnt-detected-by-cyberpunk-2077-on-windows-10/"><u>Fixing the Issue When Your GPU Isn’t Detected by Cyberpunk 2077 on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2020-game-error-expert-guide-to-fixing-and-preventing-sudden-shutdowns/"><u>Football Manager 2020 Game Error: Expert Guide to Fixing and Preventing Sudden Shutdowns</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-excel-2003-files-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a Excel 2003 files free</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-and-prevent-game-integrity-threats-a-comprehensive-solution/"><u>How to Address & Prevent Game Integrity Threats – A Comprehensive Solution</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-essential-user-manual-for-music-licensing-on-insta/"><u>In 2024, The Essential User Manual for Music Licensing on Insta</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeos-no-money-solution-easy-editing-basics/"><u>In 2024, Vimeo's No-Money Solution Easy Editing Basics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-how-to-get-the-mic-working-on-cs-2/"><u>Overcoming Audio Hurdles: How to Get the Mic Working on CS 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-tips-for-correcting-the-directdraw-error-in-windows-systems/"><u>Solution Tips for Correcting the DirectDraw Error in Windows Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visionary-tools-free-environmental-props/"><u>Visionary Tools Free Environmental Props</u></a></li>
+</ul></div>
 

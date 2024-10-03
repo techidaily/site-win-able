@@ -1,7 +1,7 @@
 ---
 title: God of War Performance Issues? Here's How to Lower CPU Usage Effectively!
-date: 2024-09-10T16:48:13.058Z
-updated: 2024-09-16T20:32:46.937Z
+date: 2024-09-27T16:56:16.667Z
+updated: 2024-10-03T16:05:52.864Z
 tags:
   - win11
   - win10
@@ -63,6 +63,13 @@ There are two ways for you to do this:
 
  Does the driver update mitigate the freezes and boost your game’s performance? If the problem reoccurs, please continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Disable fullscreen optimizations
 
  Fullscreen Optimizations is expected to improve games’ performance when they run in fullscreen mode, but that’s not always the case. If you keep running into Cold War freezing, you should disable this option.
@@ -72,18 +79,27 @@ Here are the steps:
 1. Right-click the**CoD Black Ops Cold War icon** on your desktop and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-13.jpg)
 2. Navigate to the**Compatibility** tab. Then, tick**Disable fullscreen optimizations** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/11.jpg)
 3. Click**Change high DPI settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/12.jpg)
 4. Tick**Override** **High DPI** **scaling behavior** and select**Application** from the drop-down menu below. Then, click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-3.jpg)
 5. Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/13.jpg)
@@ -91,10 +107,10 @@ Here are the steps:
  Launch your game to see if the freezing problem goes away. If not, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Scan and repair corrupted game files
@@ -107,14 +123,14 @@ Here are the steps:
 3. Click**Options** and click**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the process completes, relaunch the game to test the issue. If this fix doesn’t help, check out the last one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Lower the in-game graphics settings
 
@@ -126,10 +142,10 @@ Here are the steps:
 3. Lower the parameters under each section according to your needs.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-9.jpg)
@@ -156,5 +172,21 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-enhancing-instagram-video-performance-desktop/"><u>[New] In 2024, Enhancing Instagram Video Performance (Desktop)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-storage-solutions-ps5s-top-10-external-units/"><u>[New] In 2024, Storage Solutions PS5's Top 10 External Units</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-elevating-windows-speaker-output-three-effective-costless-strategies/"><u>2024 Approved Elevating Windows Speaker Output Three Effective, Costless Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/blur-the-backdrop-of-your-video-calls-effortlessly-in-google-meet/"><u>Blur the Backdrop of Your Video Calls Effortlessly in Google Meet</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-in-game-disruptions-solving-valorants-frequent-pc-shutdowns/"><u>Dealing with In-Game Disruptions: Solving Valorant's Frequent PC Shutdowns</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-the-destiny-warzone-memory-error-xboxpc-code-0-1766-a-step-by-step-fix-guide/"><u>Defeat the Destiny Warzone Memory Error (Xbox/PC, Code 0-1766): A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/from-silent-videos-to-engaging-content-swiftly-add-captions-on-fb-for-2024/"><u>From Silent Videos to Engaging Content Swiftly Add Captions on FB for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-integration-select-the-top-6-editing-apps-post-snow-leopard/"><u>In 2024, Innovative Integration Select the Top 6 Editing Apps Post-Snow Leopard</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/melody-meets-momentum-harmonizing-sound-with-imagery-for-2024/"><u>Melody Meets Momentum Harmonizing Sound with Imagery for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimized-performance-fixing-high-cpu-drain-in-cyberpunk-2077/"><u>Optimized Performance: Fixing High CPU Drain in Cyberpunk 2077</u></a></li>
+<li><a href="https://win-able.techidaily.com/pathfinder-wrath-of-the-righteous-resolved-fixes-for-continuous-game-crashes/"><u>Pathfinder: Wrath of the Righteous - Resolved: Fixes for Continuous Game Crashes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-vive-cosmos-face-off-a-stellar-vr-headset-among-formidable-rivals-examined/"><u>The Vive Cosmos Face-Off: A Stellar VR Headset Among Formidable Rivals Examined</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-for-dead-by-daylight-error-8014-start-playing-now/"><u>Ultimate Solution for Dead By Daylight Error 8014 – Start Playing Now</u></a></li>
+</ul></div>
 

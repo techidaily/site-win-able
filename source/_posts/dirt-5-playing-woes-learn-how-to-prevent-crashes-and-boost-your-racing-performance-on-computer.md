@@ -1,7 +1,7 @@
 ---
 title: Dirt 5 Playing Woes? Learn How to Prevent Crashes and Boost Your Racing Performance on Computer
-date: 2024-09-20T22:05:56.379Z
-updated: 2024-09-27T17:40:03.922Z
+date: 2024-09-26T17:01:16.532Z
+updated: 2024-10-03T16:44:16.512Z
 tags:
   - win11
   - win10
@@ -58,14 +58,14 @@ The outdated or broken graphics driver often crashes the game.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
- See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 ## Fix 2: Verify the game files
 
@@ -74,13 +74,6 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
@@ -94,6 +87,13 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -103,22 +103,22 @@ The outdated or broken graphics driver often crashes the game.
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
- Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 ## Fix 5: Set launch options on Steam
 
@@ -130,10 +130,10 @@ The outdated or broken graphics driver often crashes the game.
 3. Copy and paste the commands below and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `-useallavailablecores -high`
@@ -170,21 +170,18 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-effortless-steps-to-obtain-free-audio-for-videos/"><u>[New] Effortless Steps to Obtain Free Audio for Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-mastering-the-art-of-captivating-vimeo-staff-picks/"><u>2024 Approved Mastering the Art of Captivating Vimeo Staff Picks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-your-study-avoiding-edgenuity-videos-efficiently/"><u>2024 Approved Streamline Your Study Avoiding Edgenuity Videos Efficiently</u></a></li>
-<li><a href="https://facebook.techidaily.com/dissecting-metaais-potential-in-dialogue-technology/"><u>Dissecting MetaAI's Potential in Dialogue Technology</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-overcome-the-kof-xv-crash-glitch-when-playing-on-a-desktop-computer/"><u>Expert Tips to Overcome the KOF XV Crash Glitch When Playing on a Desktop Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-eac-error-message-steps-to-install-easy-anti-cheat/"><u>Fixing the EAC Error Message: Steps to Install Easy Anti-Cheat</u></a></li>
-<li><a href="https://extra-information.techidaily.com/generate-humor-picmagic-creation/"><u>Generate Humor PicMagic Creation</u></a></li>
-<li><a href="https://win-able.techidaily.com/is-doom-eternal-still-on-hold-unlock-the-trick-to-start-playing-today/"><u>Is DOOM Eternal Still on Hold? Unlock the Trick to Start Playing Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-coexistence-of-ethernet-and-wi-fi-for-enhanced-productivity/"><u>Mastering the Coexistence of Ethernet & Wi-Fi for Enhanced Productivity</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-critical-issues-in-call-of-duty-black-ops-4/"><u>Resolving Critical Issues in Call of Duty: Black Ops 4</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-steams-controller-recognition-issue-on-a-windows-machine/"><u>Troubleshoot Steam's Controller Recognition Issue on a Windows Machine</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-resolving-issues-with-gray-zone-warfare-game-crashes-on-windows/"><u>Troubleshooting Techniques: Resolving Issues with Gray Zone Warfare Game Crashes on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-overcoming-call-of-duty-world-war-ii-error-code-4128/"><u>Troubleshooting Tips for Overcoming Call of Duty World War II Error Code 4128</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-boosting-your-raspberry-pis-speed-through-effective-overclocking-techniques/"><u>Ultimate Guide: Boosting Your Raspberry Pi's Speed Through Effective Overclocking Techniques</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-things-in-life-are-free-top-10-fcpx-plugins-at-no-cost/"><u>Updated The Best Things in Life Are Free Top 10 FCPX Plugins at No Cost</u></a></li>
-<li><a href="https://win-able.techidaily.com/warzone-20-performance-boosting-tips-how-to-optimize-connection-speed-and-lower-ping/"><u>Warzone 2.0 Performance Boosting Tips: How to Optimize Connection Speed and Lower Ping</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-step-by-step-guide-recording-on-itunes/"><u>[Updated] 2024 Approved Step-by-Step Guide Recording on iTunes</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-pubg-stutters-expert-techniques-for-resolving-computer-unresponsiveness-during-play/"><u>Beat PUBG Stutters: Expert Techniques for Resolving Computer Unresponsiveness During Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/directx-glitch-fixes-enhance-your-battlefield-2042-experience-effortlessly/"><u>DirectX Glitch Fixes: Enhance Your Battlefield 2042 Experience Effortlessly</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oppo-k11-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Oppo K11 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fenyxs-quest-unleashed-fixing-the-delay-immortals-is-now-available/"><u>Fenyx's Quest Unleashed: Fixing the Delay, Immortals Is Now Available</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-s18-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo S18 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-prohibition-of-chatgpt-in-italy-unpacking-the-reasons-behind-the-ban/"><u>Immediate Prohibition of ChatGPT in Italy: Unpacking the Reasons Behind the Ban</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-effective-legal-strategies-for-content-visibility/"><u>In 2024, Effective, Legal Strategies for Content Visibility</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/iphone-methods-for-jpegpng-to-pdf-file-migration/"><u>IPhone Methods for JPEG/PNG to PDF File Migration</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-agni-2-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Agni 2 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-fixes-for-persistent-garrys-mod-crashing-issues-updated-guide/"><u>Top 5 Fixes for Persistent Garry's Mod Crashing Issues - Updated Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vr-in-schools-the-evolving-educational-sphere/"><u>VR in Schools The Evolving Educational Sphere</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

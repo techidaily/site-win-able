@@ -1,7 +1,7 @@
 ---
 title: Steam Error Code 130 - A Comprehensive Fix Manual for Gamers
-date: 2024-09-16T00:26:56.684Z
-updated: 2024-09-16T18:49:53.344Z
+date: 2024-09-29T16:01:48.580Z
+updated: 2024-10-03T16:23:40.637Z
 tags:
   - win11
   - win10
@@ -45,6 +45,14 @@ Here’s a quick guide for that:
 1. Open your **Blizzard Battle.net** client. From the left menu, select **Call of Duty: BOCW** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Wait until the checking finishes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 You can now launch Black Ops Cold War and see if it crashes again.
@@ -65,6 +73,13 @@ If this trick doesn’t help you, simply continue to the next one.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
@@ -82,33 +97,19 @@ And it’s fairly easy to update:
 2. Click **Check for updates** . Then wait for Windows to download and install all available updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, restart your PC and test the gameplay in Black Ops Cold War.
 
  If the updates don’t stop the crash, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable HAGs (GeForce 10 series or later/Radeon 5600 or 5700 series)
 
@@ -121,19 +122,33 @@ Here’s how:
 1. In the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
-3. Under the **Default settings** section, click **Change default graphics settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
+3. Under the **Default settings** section, click **Change default graphics settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn off**Hardware-accelerated GPU scheduling** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this method doesn’t fix your issue, simply check out the next one.
 
@@ -147,6 +162,13 @@ Here’s how:
 2. Navigate to the**GRAPHICS** tab. Under the**RAY TRACING** section, disable all three options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-disable-ray-tracing.jpg)
 3. Restart the game and test the gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  None of these fixes can help you? Check out[this post](https://tools.techidaily.com/drivereasy/download/) for more advanced troubleshooting.
 
@@ -167,5 +189,18 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-twist-tactics-achieving-angles-that-stand-out-on-social-media/"><u>[New] In 2024, Twist Tactics Achieving Angles That Stand Out on Social Media</u></a></li>
+<li><a href="https://win-able.techidaily.com/civilization-vi-no-longer-crashes-during-boot-a-guide-for-windows-10-users/"><u>Civilization VI No Longer Crashes During Boot: A Guide for Windows 10 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005552448-cyberpunk-2077-encounters-critical-error-code-2024-what-players-need-to-know/"><u>Cyberpunk 2077 Encounters Critical Error Code 2024: What Players Need To Know!</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-to-overcome-geforce-software-malfunctioning-and-ensuring-seamless-performance/"><u>Effective Strategies to Overcome GeForce Software Malfunctioning and Ensuring Seamless Performance</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-13-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 13 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-an-apple-tv-worth-it/"><u>Is an Apple TV Worth It?</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>New Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/scripts-that-shaped-cinema-for-2024/"><u>Scripts That Shaped Cinema for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-cyberpunk-2077-not-launching/"><u>Solved: Cyberpunk 2077 Not Launching</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-to-prevent-left-4-dead-2-from-crashing/"><u>Troubleshooting Tips to Prevent Left 4 Dead 2 From Crashing</u></a></li>
+</ul></div>
 

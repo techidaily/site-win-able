@@ -1,7 +1,7 @@
 ---
 title: "Fixing Performance Problems: Optimize Your Resident Evil Village Game on PC"
-date: 2024-09-13T00:29:43.429Z
-updated: 2024-09-16T16:35:33.715Z
+date: 2024-09-30T16:57:45.397Z
+updated: 2024-10-03T16:36:55.384Z
 tags:
   - win11
   - win10
@@ -60,6 +60,20 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If you don’t find Hitman 3, click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/change-settings.jpg)
 5. Click**Allow another app…**  
@@ -70,6 +84,13 @@ Many players are reporting that Hitman 3 is having server issues, and they const
    * In the _**Local files**_ section, press _**Open folder**_ .  
    ![open hitman 3 folder](https://images.drivereasy.com/wp-content/uploads/2021/01/Open-folders.png)
 7. Now launch your game again and test if the**Hitman 3 connection failed error** has been solved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your network driver
 
@@ -89,26 +110,33 @@ OR
 3. Click the **Update** button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Run your game as an administrator
 
@@ -136,39 +164,27 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap8-5.jpg)
 3. You will be prompted for permission. Click **Yes** to run the **Command Prompt** .
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap9-5.jpg)
 5. Then type the command line **ipconfig /release**  and press **Enter**  on your keyboard.  
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap11-5.jpg)
 6. Type the command line **ipconfig /renew**  and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap12-5.jpg)
 7. Play Hitman 3 again.
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -193,5 +209,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-youtube-video-edits-with-adobe-premiere/"><u>[New] Mastering YouTube Video Edits with Adobe Premiere</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-setting-up-your-social-media-presence-with-twitter/"><u>[Updated] 2024 Approved Setting Up Your Social Media Presence with Twitter</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-the-starscape-a-guide-to-influencers-for-your-needs/"><u>[Updated] In 2024, Navigating the Starscape A Guide to Influencers for Your Needs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-tutorial-editing-photos-by-cutting-out-the-surround/"><u>2024 Approved Ultimate Tutorial Editing Photos by Cutting Out the Surround</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-find-x6-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo Find X6 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://extra-information.techidaily.com/explore-and-outshine-cheapest-cloud-plans-for-every-need-2024/"><u>Explore & Outshine Cheapest Cloud Plans for Every Need, 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-sword-and-faery-legend-vii-pc-crashes-solutions-inside/"><u>Fix Sword & Faery Legend VII PC Crashes - Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-tweaks-resolving-baldurs-gate-iii-failure-to-start-issues/"><u>Fixes and Tweaks: Resolving Baldur's Gate III Failure to Start Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guia-passo-a-passo-para-fazer-uma-copia-de-dvd-no-windows-11/"><u>Guia Passo a Passo Para Fazer Uma Cópia De DVD No Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/gyimah-r-et-al-2017-a-quantitative-review-of-the-toxicity-and-carcinogenic-potential-of-glyphosate-using-data-from-the-open-literature-published-1960-2015-c384/"><u>Gyimah, R., Et Al (2017). A Quantitative Review of the Toxicity and Carcinogenic Potential of Glyphosate Using Data From the Open Literature Published 1960-2015. Crit Rev Toxicol, 47(8), 739-50</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-clearance-checking-guidelines-for-pre-upload-to-tiktok/"><u>In 2024, Clearance-Checking Guidelines for Pre-Upload to TikTok</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-interruptions-mastering-uninterrupted-live-streaming-on-discord/"><u>Stop Interruptions: Mastering Uninterrupted Live Streaming on Discord</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-adobe-premiere-pro-stability-enhanced-for-windows-11-and-10-users/"><u>Troubleshooting Guide: Adobe Premiere Pro Stability Enhanced for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-hiccups-for-a-smooth-outriders-experience/"><u>Troubleshooting PC Hiccups for a Smooth Outriders Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-strategies-for-the-new-world-connection-error/"><u>Troubleshooting Strategies for the 'New World Connection Error'</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tactics-for-a-persistent-outlook-connection-issue/"><u>Troubleshooting Tactics for a Persistent Outlook Connection Issue</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-slow-mo-showdown-top-10-video-players-compared/"><u>Updated In 2024, The Slow-Mo Showdown Top 10 Video Players Compared</u></a></li>
+</ul></div>
 

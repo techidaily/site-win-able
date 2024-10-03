@@ -1,7 +1,7 @@
 ---
 title: "Valorant Mastery: Proven Methods to Optimize & Improve FPS for Uninterrupted Gaming"
-date: 2024-09-11T21:01:25.195Z
-updated: 2024-09-16T21:25:28.351Z
+date: 2024-09-29T16:20:09.907Z
+updated: 2024-10-03T16:52:04.074Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 3. It may take a while for Steam to complete the scan. If any game files are found corrupted or missing, Steam will replace or add the new game files for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If verifying and repairing the game files doesn’t solve your problem, try the next fix.
 
 ## Fix 2: Close unnecessary background programs
@@ -72,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 
  Launch Lost Ark to test if the crashing issue is fixed now. If the problem persists, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your graphics driver
 
  Lost Ark crashing may suggest a driver issue because the latest GPU drivers are essential for video games. If your graphics driver is outdated or faulty, it could affect your gaming performance, and you may even get errors and crashes.
@@ -84,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -126,10 +133,10 @@ If this doesn’t help, move on to the next fix.
 If the crashing issue persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Turn off overlays
@@ -149,13 +156,6 @@ If the crashing issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties.jpg)
 2. Under the **General tab** ,**toggle off Enable the Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/Steam-Disable-in-game-overlay.jpg)
 
 ### Discord
@@ -163,15 +163,16 @@ If the crashing issue persists, try the next fix.
 1. Launch Discord. On the bottom-left, click the**gear-shaped icon** to open the user settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-05_15-52-40.jpg)
 2. On the left panel, scroll down and find**Game Overlay** . Toggle off**Enable in-game overlay** .  
-![](https://www.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay.jpg)
-3. Run Lost Ark and test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay.jpg)
+3. Run Lost Ark and test the issue.
 
  You can also check other common overlays that gamers like to use, such as Twitch and NVIDIA GeForce, and turn them off.
 
@@ -192,19 +193,6 @@ If the crashing issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Go to the**Startup** tab, click**Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under the**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
@@ -219,6 +207,14 @@ If the crashing issue persists, try the next fix.
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run dialog box. Type**msconfig** and hit Enter.  
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch Lost Ark. If the game once again crashes, then you know that one of the services you ticked above is conflicting with it. If Lost Ark runs just fine, then the above five services are fine, and you’ll have to keep looking for the offending service.
@@ -231,6 +227,14 @@ If the crashing issue persists, try the next fix.
 1. Right-click anywhere empty on your taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Lost Ark.
 
@@ -238,6 +242,13 @@ If the crashing issue persists, try the next fix.
 5. Disable the problem program and reboot your PC.
 
  If doing a clean boot doesn’t solve your problem, you can safely assume that the Windows services and startup items aren’t responsible for the crashing issue. You can go back to your normal startup. Also, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 8: Try on a different server
 
@@ -255,6 +266,14 @@ If the crashing issue persists, try the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -280,5 +299,22 @@ If the crashing issue persists, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-bridging-story-and-sound-scriptwriting-for-visual-media/"><u>[New] Bridging Story and Sound Scriptwriting for Visual Media</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/vobmp4/"><u>高效率VOB到MP4转码工具：专业人士选用建议</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-launch-failures-play-your-favorite-steam-games-on-windows-11-now/"><u>Bypassing Launch Failures: Play Your Favorite Steam Games on Windows 11 Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-the-constant-freezing-of-gas-station-simulator-on-windowspc/"><u>Effective Solutions for the Constant Freezing of Gas Station Simulator on Windows/PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-steam-interruptions-easy-fixes-for-a-smoother-gaming-experience/"><u>End Steam Interruptions: Easy Fixes for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-a-comprehensive-look-at-vrs-strengths-and-weaknesses/"><u>In 2024, A Comprehensive Look at VR's Strengths and Weaknesses</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-common-problems-with-the-alienware-command-center-interface/"><u>Overcoming Common Problems with the Alienware Command Center Interface</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-resolving-your-discord-install-issues-effortlessly/"><u>Quick Fixes: Resolving Your Discord Install Issues Effortlessly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/replacing-roles-is-chatgpt-the-new-worker/"><u>Replacing Roles: Is ChatGPT the New Worker?</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-diagnose-and-repair-league-of-legends-screen-problem/"><u>Step-by-Step Guide to Diagnose and Repair League of Legends Screen Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/team-fortress-2-now-running-smoothly-after-initial-glitches/"><u>Team Fortress 2 Now Running Smoothly After Initial Glitches</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-free-imovie-replacements-you-need-to-know-about/"><u>The Best Free iMovie Replacements You Need to Know About</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-motorola-moto-g84-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Motorola Moto G84 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-guide-to-screen-grabbers-for-2024/"><u>Ultimate Guide to Screen Grabbers for 2024</u></a></li>
+</ul></div>
 

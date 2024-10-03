@@ -1,7 +1,7 @@
 ---
 title: How to Fix Football Manager 2021 PC Game Crashes and Play Smoothly
-date: 2024-09-13T19:36:35.580Z
-updated: 2024-09-17T00:38:06.254Z
+date: 2024-10-02T16:38:11.756Z
+updated: 2024-10-03T16:53:20.254Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Football Manager 2020**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-43-22.jpg)
@@ -76,9 +83,29 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-46-20.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Restart your game to test your issue.
 
 If your game still crashes, then go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Check for software conflicts
 
@@ -87,13 +114,6 @@ If your game still crashes, then go ahead with the fix below.
 **1)**  Right-click**your taskbar** and select **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-53-50.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)**  Right-click the program you want to close and select **End task** .
 
@@ -113,6 +133,13 @@ If your game still crashes, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-09-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Type**%LocalAppData%\\Sports Interactive\\Football Manager 2020** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-07-35.jpg)
@@ -121,15 +148,22 @@ If your game still crashes, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-02-15-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Restart your game to check if this worked for you.
 
 If your game is still unplayable, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Reinstall _FM20_  and/or Steam
@@ -147,22 +181,22 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Football Manager 2020** , and select **Manage > Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-20-09.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Restart Steam to download and install _Football Manager 2020_ .
 
@@ -184,27 +218,20 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** . Then, click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-51.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-24-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
 
@@ -239,5 +266,26 @@ If your game is still unplayable, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/not-on-pause-anymore-resolving-slow-playback-issues-on-the-spotify-web-player/"><u>(Not) On Pause Anymore: Resolving Slow Playback Issues on the Spotify Web Player</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hire-wisdom-top-10-recruiting-video-guide/"><u>[New] 2024 Approved Hire Wisdom Top 10 Recruiting Video Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-drafting-an-exciting-cinema-flashbacks-series-for-2024/"><u>[Updated] Drafting an Exciting Cinema Flashbacks Series for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990937864-beat-the-waiting-game-quick-fixes-for-long-loading-on-fallout-4/"><u>Beat the Waiting Game - Quick Fixes for Long Loading on Fallout 4!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-10-heavy-lift-drones/"><u>Best 10 Heavy Lift Drones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/boosting-your-posts-secrets-for-viral-instagram-videos/"><u>Boosting Your Posts Secrets for Viral Instagram Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-attention-grabbing-facebook-giveaways/"><u>Crafting Attention-Grabbing Facebook Giveaways</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-the-dota-2-vac-ban-error-message-solutions/"><u>Dealing with the Dota 2 VAC Ban Error Message - Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/farmers-simulator-22-wont-start-heres-your-ultimate-guide-to-fixing-it/"><u>Farmers Simulator 22 Won’t Start? Here’s Your Ultimate Guide to Fixing It!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-stop-the-constant-crashing-of-formula-one-2021-game-on-your-pc/"><u>Fixes and Solutions: How to Stop the Constant Crashing of Formula One 2021 Game on Your PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-lava-yuva-2-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Lava Yuva 2 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-s23-ultra-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy S23 Ultra to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/input-latency-fixed-in-cyberpunk-2077-gaming-performance-improvements/"><u>Input Latency Fixed in Cyberpunk 2077 - Gaming Performance Improvements</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-defeating-the-frustrating-windows-update-error-0x80244022-once-and-for-all/"><u>Mastering the Art of Defeating the Frustrating Windows Update Error (0X80244022) Once and For All</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-call-of-duty-warzone-glitches-fixing-the-elusive-dev-error-6634-updated/"><u>Overcome Call of Duty Warzone Glitches: Fixing the Elusive Dev Error 6634 (Updated )</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-freeze-problem-windows-pointer/"><u>Resolve Freeze Problem: Windows Pointer</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-troubleshooting-steps-for-genshin-impact-startup-issues/"><u>Simple Troubleshooting Steps for Genshin Impact Startup Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-the-latest-in-lgs-ultra-clear-monitoring-for-2024/"><u>The Complete Guide to the Latest in LG’s Ultra-Clear Monitoring for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-persistent-tf2-game-crashes/"><u>Troubleshooting Guide: Fixing Persistent TF2 Game Crashes</u></a></li>
+</ul></div>
 

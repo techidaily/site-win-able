@@ -1,7 +1,7 @@
 ---
 title: "Beat the Bug: Steps to Fix Black Ops Cold War's Error Code 887A005"
-date: 2024-09-20T18:05:56.629Z
-updated: 2024-09-27T16:46:31.546Z
+date: 2024-09-26T16:51:17.695Z
+updated: 2024-10-03T16:20:15.387Z
 tags:
   - win11
   - win10
@@ -33,18 +33,18 @@ If you keep getting the popup**Error Code 80070057** when playing Call of Duty: 
 * [5. Delete the Battle.net Cache folder](https://tools.techidaily.com/drivereasy/download/)
 * [6. Set English as the Windows display language](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Scan and repair
 
 The first thing, as it suggests, is to perform a scan and repair.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/fatal-error.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It’s also a good idea to restart your computer and your game after that. Cliché as it is, sometimes a simple restart can solve some annoying problems.
 
@@ -68,26 +68,13 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Check for Updates** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![check for updates](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-battle.net_.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you already have the latest version of Call of Duty: Black Ops Cold War but the error code just shows up again, try the next fix, below.
@@ -107,25 +94,25 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the **FREE** version), and then install it manually on your computer.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll get full tech support and a 30-day money-back guarantee).
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer and launch your game to test the issue.
 
  Usually, this will fix your Call of Duty: Black Ops Cold War error code 80070057\. But if this error code persists, don’t worry. There’re a few more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run your game in DX11
@@ -138,6 +125,14 @@ The first thing, as it suggests, is to perform a scan and repair.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/game-settings.jpg)
 3. Under**Call of Duty: Black Ops Cold War** , check the box next to**Additional command line arguments** . Then type**\-d3d11** into the box to force the game to run in DX11.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Game-settings-DX11.jpg)
 4. Click**Done** to apply the changes.
 
@@ -155,10 +150,10 @@ The first thing, as it suggests, is to perform a scan and repair.
 4. Restart the Battle.net app and relaunch the game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Set English as the Windows display language
@@ -169,22 +164,16 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Language-settings.jpg)
 2. Makes sure you set**English** (US or UK) as the**Windows display language** .  
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/English.jpg)
 3. If you don’t see English, click**Add a language** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/add.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Restart your computer and relaunch your game again to test the issue.
 
@@ -211,16 +200,24 @@ Restart your computer and relaunch your game again to test the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-enhancing-your-tiktok-presence-through-effective-use-of-hashtags/"><u>2024 Approved Enhancing Your TikTok Presence Through Effective Use of Hashtags</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-tweet-treasure-trove-discovering-the-days-hot-videos/"><u>2024 Approved Tweet Treasure Trove Discovering the Day's Hot Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-epic-stories-for-games-using-ai/"><u>Crafting Epic Stories for Games Using AI</u></a></li>
-<li><a href="https://win-able.techidaily.com/dealing-with-battlefield-4-not-starting-up-tips-and-fixes-for-gamers/"><u>Dealing with Battlefield 4 Not Starting Up: Tips & Fixes for Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-fixes-to-stop-fifa-21-game-crashes-on-pc-comprehensive-instructions-inside/"><u>Easy Fixes to Stop FIFA 21 Game Crashes on PC - Comprehensive Instructions Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-blender-from-continuously-crashing-on-windows/"><u>Fixing the Issue: How to Stop Blender From Continuously Crashing on Windows</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-insiders-guide-to-dominating-first-person-shooter-rewards-in-mass-effect-legendary-edition/"><u>The Insider's Guide to Dominating First-Person Shooter Rewards in Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-11-solutions-for-overcoming-borderlands-3-startup-issues/"><u>Top 11 Solutions for Overcoming Borderlands 3 Startup Issues</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ling-engagement-secrets-top-10-video-reacting-techniques/"><u>Unveiling Engagement Secrets Top 10 Video Reacting Techniques</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725288906404-wmvmp4/"><u>WMVファイルからMP4への自由許諾変換手順</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-fast-play-instagram-videos-at-home-desktop/"><u>[Updated] In 2024, Mastering Fast-Play Instagram Videos at Home (Desktop)</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-creative-photography-palette-radiantvisuals-edge/"><u>2024 Approved Creative Photography Palette RadiantVisuals Edge</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-flipping-the-script-online-video-reversals/"><u>2024 Approved Flipping the Script Online Video Reversals</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-competitive-edge-with-zero-lag-gameplay-comprehensive-guide-on-warzone-20-ping-optimization/"><u>Boost Your Competitive Edge with Zero-Lag Gameplay - Comprehensive Guide on Warzone 2.0 Ping Optimization</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-stutter-and-crashes-pro-tips-for-a-smooth-gaming-experience/"><u>Call of Duty: Vanguard Stutter & Crashes: Pro Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-nord-n30-se-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Nord N30 SE</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-find-x7-ultra-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo Find X7 Ultra FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-godfall-pc-stuttering-and-crashes-with-our-comprehensive-guide/"><u>End Godfall PC Stuttering & Crashes with Our Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-for-resolving-batman-arkham-knight-crash-problems-and-critical-errors/"><u>Essential Tips for Resolving Batman: Arkham Knight Crash Problems & Critical Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-solutions-for-helldivers-2-failure-to-start-on-steam/"><u>Fixed! Solutions for Helldivers 2 Failure to Start on Steam</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-se-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone SE Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-honor-play-8t-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Honor Play 8T Location | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-look-at-the-fugetek-ft-568-the-ultimate-high-performance-selfie-stick/"><u>In-Depth Look at the Fugetek FT-568 - The Ultimate High-Performance Selfie Stick</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-glitches-resolve-fifa-2eboardplatform-and-ensure-a-smooth-gaming-experience-on-your-computer-with-our-guide/"><u>No More Glitches: Resolve FIFA 2Eboard/Platform and Ensure a Smooth Gaming Experience on Your Computer with Our Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016941940-no-sound-from-speakers-in-windows-heres-how-you-can-get-them-working-again/"><u>No Sound From Speakers in Windows? Here's How You Can Get Them Working Again!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-steps-to-update-your-minecraft-graphics-card-driver/"><u>Resolved: Steps to Update Your Minecraft Graphics Card Driver</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-installing-cyberpunk-2077-from-steam-your-step-by-step-guide-to-fix-downloading-issues/"><u>Successfully Installing Cyberpunk 2077 From Steam? Your Step-by-Step Guide to Fix Downloading Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-why-your-outriders-game-keeps-failing-to-launch/"><u>Troubleshooting: Why Your Outriders Game Keeps Failing to Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/world-of-warcraft-wont-start-here-are-solutions-that-worked/"><u>World of Warcraft Won't Start? Here Are Solutions That Worked!</u></a></li>
 </ul></div>
 

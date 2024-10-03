@@ -1,7 +1,7 @@
 ---
 title: Enable and Master Hyper-V on Windows 11 – An In-Depth Guide
-date: 2024-09-22T12:22:41.319Z
-updated: 2024-09-28T07:38:29.756Z
+date: 2024-10-02T16:08:35.981Z
+updated: 2024-10-03T16:15:09.032Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 2. Scroll to find Roblox. Make sure**the audio is unmuted** and you can**bring up the volume** to 100 by default.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-volume-mixer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’ve turned up the volume for Roblox but the audio is still missing, or Roblox doesn’t show up in your Volume mixer, try the next solution.
 
 ## Fix 2: Check Roblox settings
@@ -68,10 +75,16 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
  If you have turned up the in-game volume but still hear no sound, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Set your output device
@@ -85,10 +98,10 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-sound-output.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sometimes the devices connected to your PC could interfere with normal audio output. If you’ve adjusted the above settings but your computer speaker still doesn’t work, make sure to unplug/disconnect devices such as your headset or external speaker from your PC.
@@ -124,25 +137,19 @@ If the problem persists, move on to the next solution.
 2. Type**control panel** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 3. Switch to**View by: Small icons** , then click**Sound** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-54-50.jpg)
 4. Under the**Playback** tab, select**Speakers** then click**Configure** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-56-53.jpg)
 5. Switch the audio channel to**Stereo** . Click**Test** to see if the audio works normally, then click**Next** and follow the on-screen instructions to finish the configuration.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-05-52.jpg)
 
@@ -162,31 +169,32 @@ If the problem persists, move on to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-28-15.jpg)
 5. Click**Next** to run the troubleshooter.  
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-29-12.jpg)
 6. Wait for it to detect problems. This usually takes only a few seconds.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-05.jpg)
 7. Select your speaker, then click**Next** .  
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-32.jpg)
 8. It would suggest you turn off the audio enhancements for better sound quality. Click**Yes, Open Audio Enhancements** if you wish to do so. If you click no, it will skip to the scan results.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-57.jpg)
@@ -194,23 +202,16 @@ If the problem persists, move on to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-31-51-1.jpg)
 10. The troubleshooter will show you the results and fix the problems if it can. You can close the troubleshooter now.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-32-31.jpg)
 
-If the problem persists, try the last fix.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If the problem persists, try the last fix.
 
 ## Fix 7: Reinstall Roblox
 
@@ -222,6 +223,14 @@ If the problem persists, try the last fix.
 3. Switch to**View by: Category** , then click**Uninstall a program** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_10-24-05.jpg)
 4. Find Roblox player, right-click it then click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_10-26-30.jpg)
 5. Restart your PC.
 
@@ -254,21 +263,14 @@ If the problem persists, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-unlimited-outro-options-at-no-expense-online/"><u>[New] In 2024, Unlimited Outro Options at No Expense Online</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-top-twitter-video-hits-the-10-most-popular-tweets-watched-today/"><u>[Updated] 2024 Approved Top Twitter Video Hits The 10 Most Popular Tweets Watched Today</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-chucklecraft-sign-up-now-and-laugh-later/"><u>[Updated] In 2024, ChuckleCraft Sign Up Now & Laugh Later</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/cataloging-fb-video-ratios/"><u>Cataloging FB Video Ratios</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-fixes-for-the-cygwin1dll-missing-error-dilemma/"><u>Comprehensive Fixes for the cygwin1.dll Missing Error Dilemma</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-disablingdeleting-twitter-and-its-data-from-your-ios-device/"><u>Comprehensive Guide: Disabling/Deleting Twitter & Its Data From Your iOS Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/detroit-lifted-off-the-ground-masterfully-played-on-pc/"><u>Detroit Lifted Off The Ground - Masterfully Played on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-rainbow-six-sieges-error-code-3-0x0001000b-a-step-by-step-guide/"><u>Fixing Rainbow Six Siege's Error Code 3-0X0001000B - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2022-pc-freezing-issues-quick-fixes-and-solutions/"><u>Football Manager 2022 PC Freezing Issues: Quick Fixes and Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-granblue-fantasy-relink-not-launching/"><u>How to Fix Granblue Fantasy: Relink Not Launching</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-lava-blaze-2-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Lava Blaze 2 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-troubleshooters-guide-to-prevent-dragon-age-origins-crashes-in-windows-10/"><u>Master the Troubleshooters' Guide to Prevent Dragon Age: Origins Crashes in Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-launch-glitch-solutions-found-for-far-cry-6-on-desktops/"><u>Overcoming the Launch Glitch – Solutions Found for Far Cry 6 on Desktops</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-skyline-city-builder-when-buildcraft-fails-to-start/"><u>Troubleshooting Steps for Skyline City Builder - When BuildCraft Fails to Start</u></a></li>
-<li><a href="https://win-blog.techidaily.com/war-thunder-optimization-blueprint-eliminate-low-fps-issues-with-proven-techniques/"><u>War Thunder Optimization Blueprint: Eliminate Low FPS Issues with Proven Techniques</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/which-micro-video-service-meets-your-individual-needs-better-for-2024/"><u>Which Micro-Video Service Meets Your Individual Needs Better for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-shed-price-chains-with-free-video-player-pcmac/"><u>[New] Shed Price Chains with Free VIDEO Player (PC/Mac)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-compilation-best-gopro-cases-for-action-seekers/"><u>2024 Approved Ultimate Compilation Best GoPro Cases for Action Seekers</u></a></li>
+<li><a href="https://win-able.techidaily.com/hogwarts-legacy-launch-troubles-top-strategies-to-overcome-game-failures/"><u>Hogwarts Legacy Launch Troubles? Top Strategies to Overcome Game Failures</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-nokia-c110-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nokia C110 Safely | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976699229-install-asus-bt50n-bluetooth-50-usb-stick-driver-on-windows-pcs-latest-version-available-now/"><u>Install Asus BT50n Bluetooth 5.0 USB Stick Driver on Windows PCs – Latest Version Available Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-call-of-duty-warzone-gameplay-by-activating-your-gpu-on-windows-10/"><u>Maximize Call of Duty: Warzone Gameplay by Activating Your GPU on Windows 10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/nikon-j5-unleashed-embracing-4k-camera-technology-for-2024/"><u>Nikon J5 Unleashed Embracing 4K Camera Technology for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-fortnite-play-errors-with-this-simple-permission-denied-fix/"><u>Troubleshoot Fortnite Play Errors with This Simple 'Permission Denied' Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-the-secrets-behind-alan-wake-2s-postponed-debut/"><u>Unlocking The Secrets Behind Alan Wake 2'S Postponed Debut</u></a></li>
 </ul></div>
 

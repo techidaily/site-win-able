@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tips for Eliminating COD MW2's Troublesome DirectX Problem
-date: 2024-09-25T05:06:05.316Z
-updated: 2024-09-27T19:44:38.756Z
+date: 2024-09-26T17:12:52.031Z
+updated: 2024-10-03T16:05:45.433Z
 tags:
   - win11
   - win10
@@ -55,13 +55,6 @@ Here’s how you can do this:
 
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-2-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down and choose**1280×768** .
 
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-3-2.png)
@@ -81,6 +74,13 @@ Here’s how you can do this:
  2) Open the launcher to see if the screen is in black. If it is, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -106,17 +106,17 @@ Here’s how you can do this:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -174,6 +174,13 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-6-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) Check the box **Error message saying the problem needs to run in 256 colors or 8-bit color mode** . Then click**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-10.png)
@@ -198,13 +205,6 @@ Here’s how you can do this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6: Allow the launcher through the firewall
 
  There is a possibility that your firewall blocks the launcher. So if this is your case, you’re supposed to allow the launcher through the firewall.
@@ -223,22 +223,15 @@ Here’s how you can do this:
 
 ![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’ve done all of these, and still it’s a black screen when you open the launcher. Then try the next method.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7: Change your DNS server to the Google Public DNS
@@ -253,31 +246,31 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Network and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click on your**Connections** , whether it’s**Ethernet, Wifi or others** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Click**Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .
 
@@ -308,16 +301,16 @@ To do this, simply follow the instructions below:
 
 ![flush the DNS cache](https://images.drivereasy.com/wp-content/uploads/2020/09/flush-DNS-cache.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After successfully clearing your DNS cache, try opening your launcher again to check if it fixes the issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 9: Change high DPI settings
 
@@ -334,6 +327,13 @@ To do this, simply follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings-2.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 10: Use a VPN
 
@@ -374,18 +374,18 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instasaves-the-leading-videophoto-downloaders/"><u>[New] 2024 Approved InstaSaves The Leading Video/Photo Downloaders</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-tailoring-audience-for-your-youtube-videos/"><u>[New] 2024 Approved Tailoring Audience for Your Youtube Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-eliminating-fisheye-lens-distortions-with-gopro/"><u>[New] Eliminating Fisheye Lens Distortions with GoPro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-no-cost-creative-corner-finding-the-finest-tiktok-backgrounds/"><u>2024 Approved No-Cost Creative Corner Finding the Finest TikTok Backgrounds</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-page-failure-resolved/"><u>HP Printer: Page Failure Resolved</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-y78-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo Y78 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-the-launch-error-of-nier-automata-remastered-tips-and-solutions/"><u>Overcome the Launch Error of NieR Automata Remastered – Tips and Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gamers-rejoice-as-la-noire-finally-arrives-for-microsoft-windows-users/"><u>PC Gamers Rejoice as 'L.A. Noire' Finally Arrives for Microsoft Windows Users!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-realme-gt-neo-5-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Realme GT Neo 5 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-for-players-overcoming-compatibility-problems-with-thaumaturge-on-personal-computers/"><u>Solutions for Players: Overcoming Compatibility Problems with Thaumaturge on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/successful-solutions-starting-problems-with-cs-2-explained/"><u>Successful Solutions: Starting Problems with CS 2 Explained</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/volution-of-youtube-shorts-templates-and-their-impact-on-engagement/"><u>The Evolution of YouTube Shorts Templates and Their Impact on Engagement</u></a></li>
-<li><a href="https://win-able.techidaily.com/warzone-visual-bugs-sorted-out-top-solutions-for-stable-gameplay-experience/"><u>Warzone Visual Bugs Sorted Out: Top Solutions for Stable Gameplay Experience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-navigating-vlogging-nuances-with-confidence-and-clarity/"><u>[New] In 2024, Navigating Vlogging Nuances with Confidence and Clarity</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-expert-mac-graphic-collector/"><u>[Updated] 2024 Approved Expert Mac Graphic Collector</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/cookiebot-enabled-personalized-experience-optimize-your-sites-engagement/"><u>Cookiebot-Enabled Personalized Experience: Optimize Your Site's Engagement</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-co-op-connectivity-issues-how-to-get-online-play-running-smoothly-again/"><u>Elden Ring Co-Op Connectivity Issues - How to Get Online Play Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-racing-adventure-updating-gpu-driver-in-forza-horizon-5/"><u>Enhance Your Racing Adventure: Updating GPU Driver in Forza Horizon 5</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/find-the-best-8-spots-for-free-3d-text-psd-downloads-for-2024/"><u>Find the Best 8 Spots for FREE 3D Text PSD Downloads for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-pc-game-stability-issues-heres-how-you-fixed-it/"><u>Fortnite PC Game Stability Issues? Here's How You Fixed It!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/lost-iphone-images-swift-fixes-and-restoration-tips/"><u>Lost iPhone Images: Swift Fixes & Restoration Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-the-precision-of-lgs-qhd-monitor-with-g-sync-only-549-at-amazon-today/"><u>Score the Precision of LG's QHD Monitor with G-Sync - Only $549 at Amazon Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-no-user-logged-in-issue-in-cs-go/"><u>Top 5 Solutions for Resolving 'No User Logged In' Issue in CS: GO</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-nwstoreexe-software-failures-effectively/"><u>Troubleshooting and Solving NW_store.exe Software Failures Effectively</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-of-premium-17-inch-laptops-for-2er-2024/"><u>Ultimate Selection of Premium 17-Inch Laptops for 2Er 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-does-my-new-world-game-keep-freezing-solve-the-mystery/"><u>Why Does My 'New World' Game Keep Freezing? Solve the Mystery</u></a></li>
 </ul></div>
 

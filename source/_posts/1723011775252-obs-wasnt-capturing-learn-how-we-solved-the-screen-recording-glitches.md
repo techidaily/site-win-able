@@ -1,7 +1,7 @@
 ---
 title: OBS Wasn't Capturing? Learn How We Solved the Screen Recording Glitches!
-date: 2024-09-15T20:31:40.723Z
-updated: 2024-09-16T23:03:40.070Z
+date: 2024-09-30T17:04:55.045Z
+updated: 2024-10-03T16:09:34.939Z
 tags:
   - win11
   - win10
@@ -40,6 +40,19 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
  Turning off OBS preview should also mitigate the FPS drops while recording. But if this doesn’t help your case, have a look at the second method below.
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Run OBS as an administrator
 
  If OBS doesn’t have proper administrator privileges, it will fail to record your screen as expected, but you could run it as an administrator to fix the issue.
@@ -60,23 +73,29 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 2. Right-click a program you’d like to close and click **End task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
- Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
 
 ### Fix 4 – Change the graphics settings
 
@@ -86,38 +105,46 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-0.jpg)
 2. Select**System** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Select the**Display** tab on the left pane and click**Graphics** **settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
 6. Click**OBS Studio** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-3.jpg)
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Update your device drivers
 
@@ -157,5 +184,22 @@ Many Windows users have been reporting the OBS not recording screen issue lately
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-spotifys-1-artists-of-the-month/"><u>[New] 2024 Approved Spotify’s #1 Artists of the Month</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-auditory-aesthetics-weaving-melodies-into-your-feed/"><u>[New] Auditory Aesthetics Weaving Melodies Into Your Feed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-photographic-power-up-grid-software-of-the-decade/"><u>[New] Photographic Power-Up Grid Software of the Decade</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-guide-for-audio-editors-using-garageband-for-2024/"><u>[New] The Ultimate Guide for Audio Editors Using GarageBand for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-dollars-and-cents-average-income-from-youtubes-adsense-per-thousand-viewer-hours/"><u>Daily Dollars and Cents Average Income From YouTube's AdSense Per Thousand Viewer Hours</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciphering-the-necessary-speed-for-optimal-pc-performance/"><u>Deciphering the Necessary Speed for Optimal PC Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-how-to-resolve-msi-afterburner-failure-to-recognize-graphics-card-in-windows-1011/"><u>Fix: How to Resolve MSI Afterburner Failure to Recognize Graphics Card in Windows 10/11</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-sea-of-thieves-stability-issues-a-comprehensive-guide/"><u>How to Resolve Sea of Thieves Stability Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/metaverse-characters-made-simple-easy-avatar-crafting-tips-for-2024/"><u>Metaverse Characters Made Simple Easy Avatar Crafting Tips for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-best-zero-cost-game-video-editing-tools-this-year-for-2024/"><u>New Best Zero-Cost Game Video Editing Tools This Year for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-for-when-discords-camera-feature-stops-working/"><u>Quick Solutions for When Discord's Camera Feature Stops Working</u></a></li>
+<li><a href="https://win-able.techidaily.com/solomon-kr-et-al-2015-the-effects-of-glyphosate-on-amphibians-a-review-and-synthesis-environ-toxicol-pharmacol-403-899-906/"><u>Solomon KR., Et Al (2015). The Effects of Glyphosate on Amphibians: A Review and Synthesis. Environ Toxicol Pharmacol, 40(3), 899-906</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixing-cannot-connect-to-server-mistakes-in-lost-ark-gameplay/"><u>Step-by-Step: Fixing 'Cannot Connect to Server' Mistakes in Lost Ark Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/team-fortress-2-stabilization-strategies-for-an-uninterrupted-gaming-experience/"><u>Team Fortress 2 Stabilization Strategies for an Uninterrupted Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-resolve-issues-with-call-of-duty-modern-warfare-3-mw3-launch-failures/"><u>Troubleshooting Guide: How to Resolve Issues with Call of Duty: Modern Warfare 3 (MW3) - Launch Failures</u></a></li>
+</ul></div>
 

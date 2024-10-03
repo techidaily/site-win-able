@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Resolving Frequent Kodi System Crashes Permanently"
-date: 2024-09-15T17:47:00.650Z
-updated: 2024-09-16T23:51:16.773Z
+date: 2024-10-01T16:39:19.939Z
+updated: 2024-10-03T16:13:49.026Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
  If this method doesn’t work, you can go to the **Compatibility** tab again, tick the box next to the **Disable fullscreen optimization** option, and set a Win 7 or Win 8 compatibility mode. Then click **Change high DPI settings** and uncheck the **Override high DPI scaling behavior** option.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Shut down all unnecessary apps
 
  In case other apps are interfering with Nioh 2, please make sure you have shut down all non-essential programs (especially anti-virus) before starting the game.
@@ -62,14 +69,20 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/image-1.png)
 
- For antivirus software, however, simply disabling it won’t work sometimes. If that’s your case, you can either uninstall it temporarily or add Nioh 2 to its exception list.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ For antivirus software, however, simply disabling it won’t work sometimes. If that’s your case, you can either uninstall it temporarily or add Nioh 2 to its exception list.
 
 ## Fix 3: Clean reinstall the graphics card driver
 
@@ -95,13 +108,6 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the **Update** button next to the flagged graphics card and all other devices to download the correct driver (you can do this with the FREE version), then manually install it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
@@ -125,14 +131,14 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/local-files-verify.jpg)
 
- It might take a few seconds for the process to complete. Once done, play Nioh 2 again to test the issue.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ It might take a few seconds for the process to complete. Once done, play Nioh 2 again to test the issue.
 
 ## Fix 5: Install/repair Visual C++ files
 
@@ -141,6 +147,19 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
  1) Visit [Microsoft Visual C++ downloads center](https://support.microsoft.com/en-ca/help/2977003/the-latest-supported-visual-c-downloads) and download both the x86 and x64 executable file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/download-1200x330.png)
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Run the downloaded files, and click **Install** (if you have already installed one, click **Repair** ).
 
@@ -152,9 +171,23 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2013.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Once complete, restart your PC for it to take full effect.
 
 Play your game again and see if Nioh 2 not launching is resolved by now.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Disable all overlays
 
@@ -180,19 +213,6 @@ Now launch your game, and see if it crashes again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Go to the **Services** tab and check the **Hide all Microsoft services** box. Then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/disable-all.png)
@@ -205,15 +225,22 @@ Now launch your game, and see if it crashes again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-start-up-item-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Go back to **System Configuration** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1005.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Restart your PC and launch your Nioh 2 to see if the game launches normally.
@@ -245,5 +272,22 @@ Now launch your game, and see if it crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-an-easy-to-follow-guide-adding-youtube-playlists-to-your-online-platform/"><u>[New] 2024 Approved An Easy-to-Follow Guide Adding YouTube Playlists to Your Online Platform</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-making-facebook-pause-less-set-up-youtube-autoplay/"><u>[Updated] 2024 Approved Making Facebook Pause-Less Set Up YouTube Autoplay</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamlining-success-strategies-for-daily-vlog-authenticity/"><u>[Updated] Streamlining Success Strategies for Daily Vlog Authenticity</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027145566-iso/"><u>「細切りのISOファイルをひも解ける完全ガイド - ビデオチュートリアル」</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-comprerant-and-reviewed-the-ultimate-list-of-ios-video-edits/"><u>2024 Approved Compreran't & Reviewed The Ultimate List of iOS Video Edits</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000184498-addressing-game-server-disconnection-problems-in-popular-titles-from-blizzard-inc/"><u>Addressing Game Server Disconnection Problems in Popular Titles From Blizzard Inc.</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722991004872-battlefront-ii-stability-solutions-no-more-pc-disruptions/"><u>Battlefront II Stability Solutions - No More PC Disruptions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012108904-expert-tips-for-a-smooth-experience-with-hearts-of-iron-4-eliminate-bugs/"><u>Expert Tips for a Smooth Experience with Hearts of Iron 4 - Eliminate Bugs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-infinix-hot-30-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Infinix Hot 30 5G Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-lost-connection-to-server-hurdle-in-escape-from-tarkov/"><u>Overcoming the Lost Connection to Server Hurdle in Escape From Tarkov</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/reconnect-to-fun-in-terraria-discover-6-confirmed-fixes/"><u>Reconnect to Fun in Terraria - Discover 6 Confirmed Fixes</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-open-excel-2023-read-only-documents-stellar-by-stellar-guide/"><u>Solutions to open Excel 2023 Read Only Documents | Stellar</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-wsappx-overcoming-elevated-resource-utilization-issues/"><u>Troubleshooting WSAPPX: Overcoming Elevated Resource Utilization Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-tips-to-overcome-overwatchs-unwanted-complete-blackness-upon-opening/"><u>Ultimate Tips to Overcome Overwatch's Unwanted Complete Blackness Upon Opening</u></a></li>
+</ul></div>
 

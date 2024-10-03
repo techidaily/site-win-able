@@ -1,7 +1,7 @@
 ---
 title: Expert Solutions to Silent Lost Ark Dilemma – Get Your Sounds Back
-date: 2024-09-12T20:44:56.318Z
-updated: 2024-09-16T21:58:14.542Z
+date: 2024-09-28T17:05:33.281Z
+updated: 2024-10-03T16:52:17.342Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 4. [Run as Administrator](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your device
 
  Make sure that the in-game volume isn’t disabled or too low. Then check your computer’s sound configuration and output settings. If everything is working properly, you can move to the next fix.
@@ -41,9 +48,24 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 4. Click**Open sound settings** . In the reproduction tab, check the volume of your main device.  
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 5. Right-click on your output device and click**Properties** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. In the**Advanced** tab, check the**Exclusive Mode** checkboxes and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/2022-02-21_17-04-18.jpg)
 7. Back to the game and check the audio.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update Windows Media Feature pack
 
@@ -66,6 +88,13 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 3. Select the**Media Feature Pack** in the list of available optional features.
 4. Relaunch the game and check the audio.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your audio driver
 
  Hardware problems can be caused by outdated or malfunctioning drivers. If the driver is outdated or wrong, it could cause problems like no sound and audio issues. So make sure your audio driver is up to date.
@@ -80,13 +109,6 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -104,10 +126,10 @@ Then, reboot your PC and relaunch the game to check.
 5. Relaunch the game and check you have sound or not.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Verify game files
@@ -119,10 +141,10 @@ Then, reboot your PC and relaunch the game to check.
 2. Under **Local files** , click **Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files.jpg)
@@ -143,5 +165,17 @@ Then, reboot your PC and relaunch the game to check.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-effortless-mac-screenshots-exploring-five-simple-methods/"><u>[Updated] In 2024, Effortless Mac Screenshots Exploring Five Simple Methods</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-video-editing-alternatives-to-the-go-to-inshot-for-2024/"><u>[Updated] Video Editing Alternatives to the Go-To Inshot for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-mastering-video-editing-on-a-budget-with-free-fcp/"><u>2024 Approved Mastering Video Editing on a Budget with Free FCP</u></a></li>
+<li><a href="https://win-able.techidaily.com/curing-the-stuck-launch-error-in-among-us-expert-tips-and-solutions/"><u>Curing the Stuck Launch Error in Among Us: Expert Tips & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001207604-expert-solutions-for-overcoming-persistent-state-of-decay-2-freezes-latest-updates-and-hacks/"><u>Expert Solutions for Overcoming Persistent State of Decay 2 Freezes - Latest Updates & Hacks!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-functionality-of-your-corsair-icue-on-latest-windows-versions/"><u>How to Restore Functionality of Your Corsair iCUE on Latest Windows Versions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-tactics-for-triumphing-in-virtual-marketplaces/"><u>In 2024, Tactics for Triumphing in Virtual Marketplaces</u></a></li>
+<li><a href="https://facebook.techidaily.com/master-the-art-of-client-acquisition-using-facebooks-network/"><u>Master the Art of Client Acquisition Using Facebook's Network</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-10-gear-for-next-gen-musical-video-production-quality-for-2024/"><u>Top 10 Gear for Next-Gen Musical Video Production Quality for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/vrchat-malfunction-heres-how-you-can-resolve-full-service-disruption/"><u>VRChat Malfunction? Here's How You Can Resolve Full Service Disruption</u></a></li>
+</ul></div>
 

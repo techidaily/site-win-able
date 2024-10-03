@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Resident Evil Village Fps Drops on PC"
-date: 2024-09-16T00:07:26.982Z
-updated: 2024-09-16T16:29:17.713Z
+date: 2024-09-26T16:34:19.851Z
+updated: 2024-10-03T16:01:02.250Z
 tags:
   - win11
   - win10
@@ -46,7 +46,22 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 5. Click**Apply** . Your mouse cursor will disappear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cursor.gif)
 6. If you want the cursor back, click**Use Default** in the Mouse Properties window, then click**Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Change resolution
 
@@ -59,6 +74,13 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 4. Make sure you’re in full screen, not borderless window.
 
 **Note** : This fix might let the image lose a lot of quality.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change mouse settings
 
@@ -91,21 +113,14 @@ There are two ways you can update your device drivers:
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the device driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -128,5 +143,17 @@ There are two ways you can update your device drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-srts-most-effective-upgrades-for-macwindows/"><u>[New] SRT's Most Effective Upgrades for Mac/Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/ark-the-island-escape-ultimate-guide-for-increasing-fps-on-pc-gaming-systems/"><u>ARK: The Island Escape – Ultimate Guide for Increasing FPS on PC Gaming Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-chrome-hiccups-swift-troubleshooting-for-windows-nx-users/"><u>Eliminate Chrome Hiccups: Swift Troubleshooting for Windows nX Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-fixing-gta-5-startup-failures/"><u>Expert Tips for Fixing 'GTA 5 Startup Failures'</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-10t-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 10T 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ice-cream-capture-technology-reviewed-deeply/"><u>In 2024, Ice Cream Capture Technology Reviewed Deeply</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-streamlined-steps-to-delete-youtube-discussions-fast/"><u>In 2024, Streamlined Steps to Delete YouTube Discussions Fast</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/master-youtube-monetization-tips-to-boost-income-via-shorts/"><u>Master YouTube Monetization Tips to Boost Income via Shorts</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-get-origin-browser-working-again-in-windows-n-version-11/"><u>Resolved: How to Get Origin Browser Working Again in Windows N Version 11</u></a></li>
+</ul></div>
 

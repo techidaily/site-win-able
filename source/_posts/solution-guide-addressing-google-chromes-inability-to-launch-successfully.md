@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Addressing Google Chrome's Inability to Launch Successfully"
-date: 2024-09-26T21:46:47.785Z
-updated: 2024-09-28T04:51:46.925Z
+date: 2024-09-29T16:52:30.083Z
+updated: 2024-10-03T16:29:22.145Z
 tags:
   - win11
   - win10
@@ -51,28 +51,15 @@ To do so, you can:
 ![allow  an app through controlled folder access fix Yakuza: Like a Dragon crashing on PC ](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-security-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select **Virus & threat protection**  from the left pane. Scroll down and under the **Ransomware protection**  section, click **Manage ransomware protection** .
 
 ![allow  an app through controlled folder access fix Yakuza: Like a Dragon crashing on PC ](https://images.drivereasy.com/wp-content/uploads/2020/09/manage-ransomware-protection-1200x684.png)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Switch the **Controlled folder access**  setting to **On** .  
  Then click **Allow an app through Controlled folder access** .
@@ -82,6 +69,13 @@ To do so, you can:
  4) Click **Add an allowed app** **\> Browse all apps** .
 
 ![allow  an app through controlled folder access fix Yakuza: Like a Dragon crashing on PC ](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-2-1-1200x684.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then go to your game’s installation folder:**C:SteamLibrarysteamappscommonYakuza Like a Dragon untimemedia** . Now add your game **YakuzaLikeADragon.exe** through controlled folder access.
 
@@ -129,19 +123,6 @@ Here’s how it works:
 
 ![update drivers automatically with Driver Easy to fix Yakuza: Like a Dragon crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -152,13 +133,6 @@ Here’s how it works:
  After you’ve updated your drivers, restart your computer for them to take effect. Then launch your game to check if the problem persists.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Disable fullscreen optimizations
 
@@ -194,6 +168,19 @@ This will open your game’s installation folder.
 
 ![run Steam as an administrator to fix Yakuza: Like a Dragon crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-right-click-from-the-desktop-and-select-open-file-location.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Scroll down and find the **Steam application** . (It should be highlighted.) Right-click on it and select **Properties** .
 
 ![run Steam as an administrator to fix Yakuza: Like a Dragon crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-select-Properties-1.jpg)
@@ -202,11 +189,25 @@ This will open your game’s installation folder.
 
 ![run Steam as an administrator to fix Yakuza: Like a Dragon crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/run-steam-as-an-administrator-apply-ok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Run your game as an administrator
 
  1) Open your Steam client, and head to**LIBRARY > Yakuza: Like a Dragon** . Right-click your game and select**Manage > Browse local files** .  
   
 ![disable fullscreen optimizations Yakuza: Like a Dragon](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-fullscreen-optimization-browse-local-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Open**runtime > media** folder. Right-click on**YakuzaLikeADragon.exe** and select**Properties** .  
   
@@ -236,37 +237,24 @@ This will open your game’s installation folder.
   
 ![disable overlay Yakuza Like a Dragon](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select **GENERAL**  and uncheck the box **Enable the Steam Overlay while in-game** .  
   
 ![disable overlay Yakuza Like a Dragon from Steam](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-overlay-Yakuza-Like-a-Dragon.jpg)
 
  After applying the changes, exit Steam and run your game to see if this fixed the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Disable Geforce Experience in-game overlay
 
  1) Click on the **Settings**  icon.
 
 ![disable overlay Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/10/GEFORCE-EXPERIENCE-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Under the **GENERAL**  tab, scroll down and switch **IN-GAME OVERLAY**  to **OFF** .
 
@@ -312,13 +300,6 @@ After applying the changes, quit Discord.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/confirm-to-change-priority.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now you should be able to continue to play your game without crashes.
 
 ---
@@ -330,10 +311,10 @@ Now you should be able to continue to play your game without crashes.
  The biggest benefit of a dedicated GPU is performance. Not only does a dedicated graphics card have sophisticated RAM for the task of processing video, but also has dedicated RAM for the task, which is typically faster and better optimized for the task than your general system RAM.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Find out if your computer has more than one GPU
@@ -368,6 +349,13 @@ Now you should be able to continue to play your game without crashes.
  2) On the left pane, click**Manage 3D settings** . Then click**Program Settings** and**Add** .  
   
 ![run Yakuza Like a Dragon on a dedicated graphics card NVIDIA](https://images.drivereasy.com/wp-content/uploads/2020/11/run-the-game-on-a-dedicated-graphics-card.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Navigate to your game’s exe file and then click**Add Selected Program** .  
   
@@ -442,21 +430,22 @@ Now you should be able to continue to play your game without crashes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhancing-youtube-thumbnails-neon-borders-top-3-methods/"><u>[New] In 2024, Enhancing YouTube Thumbnails Neon Borders - Top 3 Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-troubleshooting-the-wsappx-issue-overcoming-increased-hardware-load/"><u>Comprehensive Guide to Troubleshooting the WSAPPX Issue – Overcoming Increased Hardware Load</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-motorola-moto-g24-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Moto G24 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-crash-errors-in-dragon-quest-xi-a-comprehensive-guide/"><u>Fixing Crash Errors in Dragon Quest XI - A Comprehensive Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-device-to-inshot-a-guide-to-audio-integration/"><u>In 2024, From Device to InShot A Guide to Audio Integration</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-webcam-tricks-for-smooth-video-on-hp-devices/"><u>In 2024, Webcam Tricks for Smooth Video on HP Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/instant-fix-how-to-stop-your-borderlands-vehicles-from-crashing/"><u>Instant Fix: How to Stop Your Borderlands Vehicles From Crashing</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-technical-hurdles-effective-ways-to-fix-the-directx-error-in-modern-warfare-2/"><u>Overcome Technical Hurdles: Effective Ways to Fix the DirectX Error in Modern Warfare 2</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/playtime-perfection-the-kiddo-gamer-guide/"><u>Playtime Perfection The Kiddo Gamer Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-chrome-stuck-issues-on-windows-10-tips-and-tricks/"><u>Resolving Chrome Stuck Issues on Windows 10 - Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/stay-hydrated-drink-plenty-of-water-throughout-the-day-to-help-flush-out-bacteria-from-your-urinary-tract-that-can-cause-utis-aim-for-eight-glasses-64-ounce379/"><u>Stay Hydrated: Drink Plenty of Water Throughout the Day to Help Flush Out Bacteria From Your Urinary Tract that Can Cause UTIs. Aim for Eight Glasses (64 Ounces) per Day, or More if You're Active and Sweating a Lot</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-preventing-and-repairing-rainbow-six-siege-gameplay-interruptions-on-your-computer/"><u>Ultimate Guide to Preventing and Repairing Rainbow Six Siege Gameplay Interruptions on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-resolving-constant-freezes-in-deathloop-on-pc-and-ps5/"><u>Ultimate Troubleshooting Guide: Resolving Constant Freezes in Deathloop on PC and PS5</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unleash-the-power-of-full-frame-photography-on-instagram-with-these-easy-steps/"><u>Unleash the Power of Full-Frame Photography on Instagram with These Easy Steps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/whats-happening-with-alan-wake-2-expert-advice-on-getting-it-running-smoothly/"><u>What's Happening with Alan Wake 2? Expert Advice on Getting It Running Smoothly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-collage-creation/"><u>[New] Mastering the Art of Collage Creation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-video-content-for-budding-vloggers/"><u>[Updated] Innovative Video Content for Budding Vloggers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-mastering-multimedia-slides-with-speech-recordings-powerpoint-for-2024/"><u>[Updated] Mastering Multimedia Slides with Speech Recordings (PowerPoint) for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-navigating-the-nuances-of-ps4-live-gaming-recordings/"><u>[Updated] Navigating the Nuances of PS4 Live Gaming Recordings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-dial-up-dislikes-flip-the-script-with-square-content-creation/"><u>2024 Approved Dial Up Dislikes? Flip the Script with Square Content Creation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/assessing-inshots-superiority-in-the-editing-arena/"><u>Assessing InShot's Superiority in the Editing Arena</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007773010-clean-the-tiles-to-remove-any-dust-and-debris/"><u>Clean the Tiles to Remove Any Dust and Debris</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-nokia-105-classic-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Nokia 105 Classic.</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2019-crashes-top-troubleshooting-techniques-for-a-smooth-experience/"><u>Football Manager 2019 Crashes - Top Troubleshooting Techniques for a Smooth Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-steam-file-access-restricted-problem-with-easy-fixes/"><u>How to Resolve the 'Steam File Access Restricted' Problem with Easy Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-netflix-services-on-your-xbox-gaming-system-successfully/"><u>How To Restore Netflix Services on Your Xbox Gaming System Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-tower-of-fantasy-from-keeping-on-collapsing-pc-gaming-guide/"><u>How to Stop Your 'Tower of Fantasy' From Keeping on Collapsing - PC Gaming Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/nature-backdrop-sketches-essential-downloads-for-videographers/"><u>Nature Backdrop Sketches Essential Downloads for Videographers</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-pc-crashes-with-destiny-2s-beyond-light-new-patch-brings-stability/"><u>No More PC Crashes with Destiny ^2'S Beyond Light – New Patch Brings Stability</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ering-maker-tools-for-your-next-ios-or-android-video/"><u>Pioneering Maker Tools For Your Next iOS or Android Video</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-windows-compatibility-issues-with-your-xbox-360-ds4-controller/"><u>Troubleshooting Guide: Overcoming Windows Compatibility Issues with Your Xbox 360 DS4 Controller</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-fixing-freezing-issues-in-fallout-3-on-windows-11/"><u>Troubleshooting: Fixing 'Freezing' Issues in Fallout 3 on Windows 11</u></a></li>
 </ul></div>
 

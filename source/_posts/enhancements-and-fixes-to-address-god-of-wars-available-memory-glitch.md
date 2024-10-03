@@ -1,7 +1,7 @@
 ---
 title: Enhancements and Fixes to Address God of War's Available Memory Glitch
-date: 2024-09-12T20:56:55.449Z
-updated: 2024-09-16T19:56:42.304Z
+date: 2024-09-27T16:48:19.094Z
+updated: 2024-10-03T16:32:38.676Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 
 **RECOMMENDED**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you. The first three are some basic troubleshooting steps, you can skip these fixes if you’ve already tried them.
@@ -77,6 +84,13 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 * Select Red Dead Online from the list under**My installed games** on the left
 * Select**Verify Integrity** under Verify game file integrity from the options on the right
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable third-party software
 
  Some third-party tools or software can interfere with your Red Dead Online, especially if you’re using tools like MSI Afterburner or RGB software, OBS, and Bandicam. Open Task Manager (**Esc** +**Shift** +**Esc** ) to close all these background apps or simply uninstall them.
@@ -93,10 +107,10 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 3. Click**Apply** \>**OK** and now you can run this game as administrator permanently.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now launch Red Dead Online and see if the game crashes again. If running it as an administrator did not work, you can try the next fix.
@@ -135,26 +149,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Stop overclocking your GPU
 
@@ -175,18 +175,27 @@ OR
 2. Click **Add a feature** .  
 ![add graphics tools](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-feature-1.jpg)
 3. Choose **Graphics Tools** from the results list.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-graphics-tool.jpg)
 4. Launch your game again to see if you can get rid of game crashes now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. If not, you can go to**Graphics Settings** \>**Advanced Graphics** , and make sure**Graphics API** is set to**DirectX 12** .  
 ![change Vulkan to DX12](https://images.drivereasy.com/wp-content/uploads/2021/01/DX12.png)
 6. If changing it to DX12 didn’t help, you can try reverting it back to Vulkan.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -211,5 +220,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-rejuvenate-old-memories-with-modern-instagram-features/"><u>[New] How to Rejuvenate Old Memories with Modern Instagram Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-exploring-high-definition-sw320-4k-monitor-experience/"><u>2024 Approved Exploring High Definition Sw320 4K Monitor Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-lag-in-rainbow-six-siege-proven-techniques-and-advice/"><u>Beat Lag in Rainbow Six Siege: Proven Techniques and Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-frame-rate-in-fallout-76-top-strategies/"><u>Boost Your Frame Rate in Fallout 76 - Top Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/current-status-of-xbox-live-is-the-service-operational-right-now/"><u>Current Status of Xbox Live: Is the Service Operational Right Now?</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-resolving-dying-light-game-sound-malfunctions-effortlessly/"><u>Expert Advice: Resolving Dying Light Game Sound Malfunctions Effortlessly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-mpeg-2-file-converter-naar-wmv-offline-movavi-tool/"><u>Gratis Mpeg-2 File Converter Naar WMV Offline - Movavi Tool</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-infinix-smart-8-hd-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Infinix Smart 8 HD Data? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-14-plus-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone 14 Plus without Security Questions?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-gaming-experience-fix-your-far-cry-cuisine-6-pc-game-crashes-now/"><u>Seamless Gaming Experience: Fix Your Far Cry Cuisine 6 PC Game Crashes Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-qualcomm-atheros-bluetooth-driver-issues-in-windows-11/"><u>Troubleshooting Guide: Fixing Qualcomm Atheros Bluetooth Driver Issues in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-visual-experience-eizos-4k-monitor-reviewed-for-2024/"><u>Ultimate Visual Experience EIZO's 4K Monitor Reviewed for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Rainbow Six Siege: Quick Solutions for Dealing With a Black Screen on Your Computer"
-date: 2024-09-12T17:58:39.455Z
-updated: 2024-09-16T18:54:21.673Z
+date: 2024-09-27T16:13:53.631Z
+updated: 2024-10-03T16:33:29.285Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
 
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
@@ -58,6 +65,13 @@ If the issue persists, read on and try the next fix.
 
 If the issue remains, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  Minecraft is a graphics-intensive game, so the graphics driver is essential to your gaming experience. If your graphics driver is faulty or outdated, you’re likely to encounter a black screen in Minecraft. To fix it,**make sure you’re using the latest graphics driver** .
@@ -71,13 +85,6 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
@@ -86,6 +93,13 @@ If the issue remains, move on to the next fix.
  After updating your graphics driver, restart your computer and launch Minecraft to see if the issue is resolved.
 
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Set the anti-aliasing to default
 
@@ -100,25 +114,11 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Relaunch Minecraft to see if the problem is solved.
 
  Alternatively, you can delete the options.txt file, and then relaunch Minecraft, and a new one will be generated with default settings for all options.
 
 If this method doesn’t do the trick, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Close unnecessary programs
 
@@ -128,11 +128,25 @@ If this method doesn’t do the trick, continue to the next fix.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 Relaunch Minecraft to see if your issue is resolved.
 
 If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Uninstall and reinstall Minecraft
 
@@ -141,28 +155,22 @@ If not, try the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** together to invoke the Run box, type**%appdata%.minecraft** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
-3. After saving your game data, delete everything inside the**.minecraft** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
+3. After saving your game data, delete everything inside the**.minecraft** folder.
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -186,5 +194,24 @@ If not, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-premiering-popularity-amazon-prime-tweets-of-23/"><u>[New] In 2024, Premiering Popularity Amazon Prime Tweets of '23</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-breaking-boundaries-with-mini-drones-an-in-depth-analysis-of-dji-spark/"><u>[Updated] Breaking Boundaries with Mini Drones An In-Depth Analysis of DJI Spark</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-tactics-3-ways-to-record-and-keep-your-live-discord-events-alive/"><u>[Updated] In 2024, Top Tactics 3 Ways to Record and Keep Your Live Discord Events Alive</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pivotal-user-feedback-a-look-at-vllo/"><u>[Updated] Pivotal User Feedback A Look at VLLO</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-discord-streaming-disruptions/"><u>Effective Fixes for Discord Streaming Disruptions</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-titanfall-2-glitches-step-by-step-easy-fix-for-continuous-crashes/"><u>Eliminate Titanfall 2 Glitches - Step-by-Step Easy Fix for Continuous Crashes</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-showcase-your-full-flipbook-on-any-screen-a-guide-with-flipbuilder/"><u>How to Showcase Your Full FlipBook on Any Screen: A Guide with FlipBuilder</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-reinstall-and-update-outdated-minecraft-video-drivers/"><u>How to Successfully Reinstall & Update Outdated Minecraft Video Drivers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-shortcut-to-success-the-top-5-youtube-link-trimming-apps/"><u>In 2024, Shortcut to Success The Top 5 YouTube Link Trimming Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-dead-by-daylights-2024-crash-glitches-with-these-proven-solutions-and-tips/"><u>Overcome Dead By Daylight's 2024 Crash Glitches with These Proven Solutions & Tips!</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-mending-directdraw-glitches-in-11-series-oses/"><u>Quick Guide to Mending DirectDraw Glitches in 11-Series OSes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fixing-issues-when-stardew-valley-refuses-to-start/"><u>Solved: Fixing Issues When Stardew Valley Refuses to Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/start-menu-not-working-in-windows-11-solved/"><u>Start Menu Not Working in Windows 11 [Solved]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-tips-for-creating-instagrammable-unboxing-highlights/"><u>Top Tips for Creating Instagrammable Unboxing Highlights</u></a></li>
+<li><a href="https://win-able.techidaily.com/unfreeze-your-adventure-in-pathfinder-fixing-the-infamous-game-crash-on-pc/"><u>Unfreeze Your Adventure in Pathfinder: Fixing the Infamous Game Crash on PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/wrc-10-fix-resolving-issues-with-the-fia-world-rally-championship-game-crashes-on-windows-pc/"><u>WRC 10 Fix: Resolving Issues with the FIA World Rally Championship Game Crashes on Windows PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixes Address Framerate Issues in Cyberpunk 2077: A Comprehensive Update"
-date: 2024-09-23T18:33:11.804Z
-updated: 2024-09-28T01:04:15.722Z
+date: 2024-09-30T16:18:50.409Z
+updated: 2024-10-03T17:07:01.264Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 5. **[Clear download cache](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Set a bandwidth limit](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Uncheck bonus content under DLC
 
  If your Cyberpunk download is stuck on 57.4 GB, it probably is extracting the game files. This happens with preloaded games on Steam. So you just need a little more patience and you’ll be in. However, if you can’t wait for any longer, disabling the DLC content download may help you.
@@ -46,15 +53,22 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 ![uncheck bonus content under DLC to fix Cyberpunk 2077 download stuck ](https://images.drivereasy.com/wp-content/uploads/2020/12/DLC-uncheck-install.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once done, you should be able to fix the game stuck at 57.4/64 GB issue. If this didn’t work for you, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Change Steam download server
 
@@ -63,6 +77,19 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
  1) From your Steam Client, open the Settings panel by selecting**Steam** \>**Settings** from the top left client menu.  
   
 ![change the Steam download server location](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the Settings panel, select the**Downloads** tab. Then in the**Download Region** section, choose another download region in the drop-down menu. According to the tests, Asian servers can substantially increase your download speed. It’s probably because there’s less traffic congestion.  
   
@@ -74,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Set Steam’s priority to High
 
  Waiting for Steam games to update or download can be vexing. And you would be quite frustrated with the slow unpacking speed. But the good news is, setting Steam’s priority to High in the Task Manager can help you. Follow the steps below to do that:
@@ -83,10 +117,16 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-in-the-Task-Manager-to-help-with-the-unpacking-speed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the**Processes** tab, locate**Steam Client Bootstrapper** . Right-click it and select**Go to details** .  
@@ -100,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 Once done, your game’s unpacking speed should be boosted.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Update network adapter driver
 
@@ -137,13 +170,6 @@ Here’s how it works:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Clear download cache
 
  Clearing your download cache can solve problems with game’s slow download speed or other download issues. This process will not affect your currently installed games, but you’ll need to log into Steam afterwards. Here’s how you can do this:
@@ -151,13 +177,6 @@ Here’s how it works:
  1) From your Steam Client, open the Settings panel by selecting**Steam** \>**Settings** from the top left client menu.  
   
 ![Steam go to settings](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the Settings panel, select the**Downloads** tab and you’ll find the**CLEAR DOWNLOAD CACHE** button at the bottom. Simply click on it.  
   
@@ -168,10 +187,16 @@ Here’s how it works:
 ![confirm to clear download cache](https://images.drivereasy.com/wp-content/uploads/2020/12/confirm.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -187,13 +212,6 @@ Here’s how it works:
  2) In the Settings panel, select the**Downloads** tab. Then in the**Download Restrictions** section, enter a new value to the box. Once done, simply click**APPLY** to apply the changes.  
   
 ![set Steam download speed limit](https://images.drivereasy.com/wp-content/uploads/2020/12/set-download-speed-llimit.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you should be able to download your game at a faster speed.
 
@@ -216,14 +234,24 @@ Now you should be able to download your game at a faster speed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photoshop-shake-control-necessary-tool-or-unnecessary/"><u>2024 Approved Photoshop Shake Control Necessary Tool or Unnecessary?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-overcome-the-catastrophic-system-halt-bsod-error-0x000000f4/"><u>Expert Tips to Overcome the Catastrophic System Halt: BSOD ERROR 0X000000F4</u></a></li>
-<li><a href="https://win-able.techidaily.com/guilty-gear-strive-eliminating-lag-issues-with-new-optimizations/"><u>Guilty Gear Strive - Eliminating Lag Issues with New Optimizations</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-xiaomi-mix-fold-3-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Xiaomi Mix Fold 3 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-spark-10-4g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Spark 10 4G to Protect Your Individual Information</u></a></li>
-<li><a href="https://win-able.techidaily.com/lost-ark-troubleshooting-fps-drops-and-enhancing-gameplay-efficiency/"><u>Lost Ark: Troubleshooting FPS Drops and Enhancing Gameplay Efficiency</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-crash-problems-successful-troubleshooting-steps-for-crusader-kings-3-on-personal-computers/"><u>Overcoming Crash Problems: Successful Troubleshooting Steps for Crusader Kings 3 on Personal Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/supercharge-your-mobile-setup-with-one-click-apks-in-windows-11/"><u>Supercharge Your Mobile Setup with One Click APKs in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/unseen-by-steam-overcoming-your-vr-headsets-invisibility-with-easy-fixes/"><u>Unseen by Steam: Overcoming Your VR Headset's Invisibility with Easy Fixes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-a-guide-to-outstanding-hdr-cameras/"><u>[New] A Guide to Outstanding HDR Cameras</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-a-step-by-step-manual-to-instagram-highlight-image-creation/"><u>[Updated] In 2024, A Step-by-Step Manual to Instagram Highlight Image Creation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boosting-your-content-reach-with-eye-catching-youtube-video-thumbnails/"><u>[Updated] In 2024, Boosting Your Content Reach with Eye-Catching YouTube Video Thumbnails</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-cutting-edge-video-ideas-for-maximum-impact/"><u>2024 Approved Cutting-Edge Video Ideas for Maximum Impact</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhancing-video-visibility-on-youtube-with-imaginative-thumbnails/"><u>2024 Approved Enhancing Video Visibility on YouTube with Imaginative Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-formulating-fascinating-film-moments/"><u>2024 Approved Formulating Fascinating Film Moments</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-unending-initialization-error-on-anthem-interface/"><u>Addressing Unending Initialization Error on Anthem Interface</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-issues-and-solutions-restoring-your-discord-camera-functionality/"><u>Common Issues & Solutions: Restoring Your Discord Camera Functionality</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fixes-for-smooth-minecraft-gaming-on-your-computer/"><u>Comprehensive Fixes for Smooth Minecraft Gaming on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-lag-solutions-to-prevent-valheims-freeze-stutter-issues-on-desktop/"><u>Fixing Persistent Lag: Solutions to Prevent Valheim's Freeze-Stutter Issues on Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-adobe-failed-to-launch-properly-error-code-0xc0000022/"><u>Fixing the 'Adobe Failed to Launch Properly' Error Code 0xC0000022</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-hunger-malfunctions-and-improve-performance-in-dread-game-for-windows-users/"><u>How to Resolve Hunger Malfunctions and Improve Performance in Dread Game for Windows Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-ps4-game-capture-via-obs-studio-for-2024/"><u>Mastering PS4 Game Capture via OBS Studio for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-new-gen-game-latency-a-comprehensive-guide-for-smooth-play/"><u>Overcoming New-Gen Game Latency: A Comprehensive Guide for Smooth Play</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/strategies-to-quicken-vimeo-videos-for-2024/"><u>Strategies to Quicken Vimeo Videos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-stardew-valley-pc-game-crashes/"><u>Troubleshooting Tips: Resolving Stardew Valley PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-hasnt-elden-ring-hit-the-market-exploring-the-reasons-behind-its-hold-up/"><u>Why Hasn't Elden Ring Hit the Market? Exploring the Reasons Behind Its Hold-Up</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-prodigys-riches-soar-in-digital-world-fame-for-2024/"><u>Young Prodigy's Riches Soar in Digital World Fame for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Assassin's Creed Origins Performance Problems Solved in 2# - New Year Fixes
-date: 2024-09-10T20:03:46.557Z
-updated: 2024-09-16T23:26:53.443Z
+date: 2024-09-29T16:59:18.659Z
+updated: 2024-10-03T16:44:02.786Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Optimize in-game settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Temporarily disable background programs
 
  If your computer runs several resource-hogging applications in the background, your game will be more likely to be stuttery. Hence, to resolve the Assassin’s Creed Valhalla stuttering issue, you need to suspend those unnecessary programs. Here are the steps you can follow:
@@ -51,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a
  3) Under the **Processes**  tab, select the programs that are CPU-intensive. Right-click on them and select **End task** .
 
 ![temporarily disable background programs](https://images.drivereasy.com/wp-content/uploads/2020/11/end-task.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you don’t want some programs running automatically, you can select the **Startup**  tab, right-click on them and select **Disable** .
 
@@ -96,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) and[AMD](https://www.amd.com/en/support) release updates for their drivers regularly. All you need to do is go to the official website of your graphics card manufacturer. Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the drivers. For Nvidia users, you can also use GeForce Experience to check for the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Automatically update your graphics card driver (recommended)
 
  Updating drivers manually can be time-consuming and risky. So if you don’t feel like doing it on your own, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically detects, downloads, and installs the correct or missing drivers for your system. And you can also roll back to your previous driver version if you’re not satisfied with the updated one.
@@ -123,22 +144,16 @@ Here’s how it works:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/roll-back-to-a-previous-version.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Driver Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/driver-restore.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then follow the on-screen instructions to roll back your drivers.
 
@@ -166,9 +181,23 @@ Then follow the on-screen instructions to roll back your drivers.
   
 ![change priority ACValhalla](https://images.drivereasy.com/wp-content/uploads/2020/11/change-priority.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now play your game and your issue should be resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable fullscreen optimizations
 
@@ -182,13 +211,6 @@ Now play your game and your issue should be resolved.
   
 ![disable fullscreen optimizations fix Assasin's Creed Valhalla stuttering](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-fullscreen-optimizations-fix-Assasins-Creed-Valhalla-stuttering.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Navigate to**ACValhalla** .exe. Right-click it and select**Properties** .  
   
 ![disable fullscreen optimizations fix Assasin's Creed Valhalla stuttering select Properties](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-fullscreen-optimizations-fix-Assasins-Creed-Valhalla-stuttering-select-Properties.jpg)
@@ -196,6 +218,13 @@ Now play your game and your issue should be resolved.
  4) Select the**Compatibility** tab. Check the box next to**Disable fullscreen optimizations** . Then click**Apply > OK** .  
   
 ![disable fullscreen optimizations Assasin's Creed Valhalla](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-fullscreen-optimizations-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve done these, play your game and it should run smoothly without stuttering.
 
@@ -223,10 +252,10 @@ Now play your game and your issue should be resolved.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7: Optimize in-game settings
@@ -237,29 +266,9 @@ Now play your game and your issue should be resolved.
   
 ![optimize the game's graphics settings fix Assasin's Creed Valhalla stuttering on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/optimize-the-games-graphics-settings-fix-Assasins-Creed-Valhalla-stuttering-on-PC.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select**Screen** and head to the**Window Mode** section. If you’re running on**Fullscreen** mode, change to**Borderless** ; If it’s already on**Borderless** , change to**Fullscreen** .  
   
 ![change Window Mode to fix Assasin's Creed stuttering on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/change-window-mode.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) For**Graphics** settings. Try to set everything to**Low** to lower the graphics settings and check if it works.
 
@@ -282,5 +291,22 @@ Now play your game and your issue should be resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-advanced-setup-setting-up-an-elapsed-time-display-in-obs/"><u>[New] Advanced Setup Setting up an Elapsed Time Display in OBS</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-overcoming-call-of-duty-black-ops-cold-war-stability-problems-on-pc/"><u>[Solved] Overcoming Call of Duty: Black Ops Cold War Stability Problems on PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pairing-video-cameras-with-desktop-captures/"><u>[Updated] 2024 Approved Pairing Video Cameras with Desktop Captures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-plotting-precise-promotional-reels/"><u>[Updated] In 2024, Plotting Precise Promotional Reels</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-tecno-pop-8-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Pop 8 Fingerprint Lock</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-performance-for-sluggish-steam-live-streams/"><u>Boosting Performance for Sluggish Steam Live Streams</u></a></li>
+<li><a href="https://win-able.techidaily.com/farewell-to-frustration-expert-strategies-for-solving-state-of-decay-2s-crashing-problem/"><u>Farewell to Frustration: Expert Strategies for Solving State of Decay 2'S Crashing Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-restore-steam-cloud-connection-after-error-disruptions/"><u>Guide to Restore Steam Cloud Connection After Error Disruptions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-secure-proper-installation-of-amds-radeon-software-after-initial-errors/"><u>How To Secure Proper Installation of AMD's Radeon Software After Initial Errors</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-8-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-earn-big-start-small-top-13-profit-strategies-in-reddit-land/"><u>In 2024, Earn Big, Start Small Top 13 Profit Strategies in Reddit Land</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mastering-silence-disabling-participants-in-gmeet-calls-for-2024/"><u>Mastering Silence Disabling Participants in GMeet Calls for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-freezing-problems-with-fallout-4-tips-and-tweaks-for-a-smooth-gaming-experience/"><u>Overcoming Freezing Problems with Fallout 4 - Tips & Tweaks for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-deathloop-title-screen-deadlock/"><u>Troubleshooting Tips: Resolving 'Deathloop' Title Screen Deadlock</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-seal-on-immersive-odyssey/"><u>Ultimate Seal on Immersive Odyssey</u></a></li>
+</ul></div>
 

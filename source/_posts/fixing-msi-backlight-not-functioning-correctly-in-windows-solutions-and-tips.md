@@ -1,7 +1,7 @@
 ---
 title: Fixing MSI Backlight Not Functioning Correctly in Windows - Solutions and Tips
-date: 2024-09-11T18:03:07.008Z
-updated: 2024-09-16T19:07:17.674Z
+date: 2024-09-30T16:52:10.528Z
+updated: 2024-10-03T16:38:32.056Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
 5. **[Replace game files with a fan-made patch](https://tools.techidaily.com/drivereasy/download/)**
 6. [**Check for corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Scan and repair your game files
 
  When troubleshooting game not launching issues, first you need to make sure there aren’t any corrupted or missing files.
@@ -46,6 +53,13 @@ Here’s how you can check the file integrity on Steam:
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this trick doesn’t give you luck, take a look at the next one below.
 
@@ -62,11 +76,25 @@ Here’s how you can check the file integrity on Steam:
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Resident Evil 5 launches now.
 
  If the latest video driver doesn’t help you, check out the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -76,32 +104,11 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
  If this method doesn’t work for you, simply continue to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
 
@@ -123,10 +130,10 @@ Here’s how you can check the file integrity on Steam:
 4. Now check if Resident Evil 5 can launch normally.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
@@ -139,6 +146,14 @@ Here’s how you can check the file integrity on Steam:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -160,5 +175,23 @@ Here’s how you can check the file integrity on Steam:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-making-sense-of-mukbangs-crafting-foodie-streams/"><u>[New] In 2024, Making Sense of Mukbangs Crafting Foodie Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mirth-makers-zombie-fashionistas/"><u>[New] Mirth Makers Zombie Fashionistas</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-are-reviews-on-merchandise-streamed-for-cash/"><u>[Updated] Are Reviews on Merchandise Streamed for Cash?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-how-to-light-your-youtube-video/"><u>[Updated] In 2024, How To Light Your YouTube Video</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996576083-back-4-blood-pc-game-stability-issues-resolved-no-more-unexpected-crashes/"><u>Back 4 Blood PC Game Stability Issues Resolved: No More Unexpected Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-speedily-correcting-issues-with-your-control-software/"><u>Expert Tips: Speedily Correcting Issues With Your Control Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-iphone-8-plus-imei-checker-by-drfone-ios/"><u>In 2024, Best Free iPhone 8 Plus IMEI Checker</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-how-to-ensure-consistent-frame-rates-in-multi-camera-setups/"><u>In 2024, How to Ensure Consistent Frame Rates in Multi-Camera Setups</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-the-new-nvidia-quadro-rtx-8000-driver-optimized-support-for-win-1087/"><u>Install the New Nvidia Quadro RTX 8000 Driver: Optimized Support for Win 10/8/7</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-game-advanced-techniques-to-prevent-phasmophobia-from-crashing-in-2amo/"><u>Master the Game: Advanced Techniques to Prevent Phasmophobia From Crashing in 2Amo</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-safeguarding-your-purchases-in-the-world-of-online-retail/"><u>Mastering the Art of Safeguarding Your Purchases in the World of Online Retail</u></a></li>
+<li><a href="https://win-able.techidaily.com/path-of-exile-instance-connection-woes-beat-them-with-our-2024-guide-to-flawless-gameplay/"><u>Path of Exile Instance Connection Woes? Beat Them with Our 2024 Guide to Flawless Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-palworld-eos-login-challenge-mastery-through-6-proven-strategies/"><u>Solving the Palworld EOS Login Challenge: Mastery Through 6 Proven Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-why-cant-i-get-red-dead-redemption-game-running/"><u>Troubleshooting Tips: Why Can't I Get Red Dead Redemption ‛️️ Game Running?</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-prevent-hitman-3-from-freezing-on-pc-expert-tips-inside/"><u>Ultimate Guide to Prevent Hitman 3 From Freezing on PC - Expert Tips Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-the-new-world-connection-issue/"><u>Ultimate Guide: Resolving the New World Connection Issue</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Hit the Battlefields: PC Release of God of War FPS Now Available!"
-date: 2024-09-24T01:46:44.286Z
-updated: 2024-09-27T19:57:11.831Z
+date: 2024-09-30T17:08:15.283Z
+updated: 2024-10-03T16:30:45.635Z
 tags:
   - win11
   - win10
@@ -44,15 +44,22 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Select the**Compatibility** tab. Then, tick the box next to**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch the Steam client and start L.A. Noire to check if it works well now. If not, move on to the next fix below.
 
@@ -75,10 +82,10 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait until the repair process completes, then you can launch L.A. Noire to see if the problem disappears. If not, head towards the next fix below.
@@ -94,10 +101,10 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Right-click**L.A. Noire** from the game list and click**Properties** .
@@ -107,6 +114,13 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 **3)** Select the**Local Files** tab, and click**Browse Local Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Open the**3rd folder** .
 
@@ -124,13 +138,6 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click**Account** and click the**Change** button under Beta participation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2.jpg)
@@ -140,10 +147,10 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you can relaunch L.A. Noire to test this method. If it doesn’t help, please proceed to Fix 5 below.
@@ -167,22 +174,15 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/50.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart L.A. Noire and check if it starts without error. If the not launching problem persists, don’t despair. There is the last fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6 – Update your graphics driver
 
@@ -201,10 +201,10 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the**FREE version** ).
@@ -242,22 +242,14 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-shadowed-observers-playbook-engaging-with-instagram-stories-anonymously-free/"><u>[Updated] In 2024, The Shadowed Observer's Playbook Engaging with Instagram Stories Anonymously [Free]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/wmv-mp4-movavi/"><u>網路上自由下載 WMV到 MP4 - 使用Movavi格式適配器</u></a></li>
-<li><a href="https://media-tips.techidaily.com/audiophiles-guide-leading-audio-management-software-to-enhance-your-mixing-skills/"><u>Audiophile's Guide: Leading Audio Management Software to Enhance Your Mixing Skills</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-unveiled-a-comprehensive-ai-handbook-for-parents/"><u>ChatGPT Unveiled: A Comprehensive AI Handbook for Parents</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-for-resolving-fortnites-persistent-ls-0-013-startup-glitch/"><u>Expert Advice for Resolving Fortnite's Persistent LS-0 013 Startup Glitch</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-a-smooth-uninterrupted-gaming-experience-with-titanfall-2/"><u>Expert Tips for a Smooth, Uninterrupted Gaming Experience with Titanfall 2</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/explore-the-ultimate-selection-of-streaming-audio-recorders-a-comprehensive-guide-by-movavi/"><u>Explore the Ultimate Selection of Streaming Audio Recorders: A Comprehensive Guide | By Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-guide-how-to-get-resident-evil-5-running-smoothly-on-your-pc/"><u>Fix Guide: How to Get Resident Evil 5 Running Smoothly on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-performance-tips-to-stop-stuttering-and-increase-fps-in-valorant/"><u>Improving Performance: Tips to Stop Stuttering & Increase FPS in VALORANT</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-poco-f5-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Poco F5 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-g310-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nokia G310 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://win-able.techidaily.com/modern-warfare-3-lag-issues-and-frame-rate-drop-in-call-of-duty-2024-update/"><u>Modern Warfare 3 Lag Issues & Frame Rate Drop in Call of Duty: 2024 Update</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808242753-oculus-air-link-window-error-heres-how-to-restore-connectivity/"><u>Oculus Air Link Window Error? Here's How to Restore Connectivity</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/premier-subscription-based-content-services-2023-guide/"><u>Premier Subscription-Based Content Services - 2023 Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-graphics-error-errgfx-explained-and-solved/"><u>Red Dead Redemption 2 Graphics Error (ERR_GFX) Explained and Solved</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-frame-rate-drops-and-stutter-in-modern-warfare-2-for-pc-gamers/"><u>Resolving Frame Rate Drops & Stutter in Modern Warfare 2 for PC Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solutions-stop-halo-infinite-from-freezing-on-your-computer-with-these-7-simple-tips/"><u>Ultimate Solutions: Stop Halo Infinite From Freezing on Your Computer with These 7 Simple Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-lightning-lens-work-efficiently-producing-google-collage-shots/"><u>[New] 2024 Approved Lightning Lens Work Efficiently Producing Google Collage Shots</u></a></li>
+<li><a href="https://win11.techidaily.com/breeze-through-blurred-taskbars-in-windows-11/"><u>Breeze Through Blurred Taskbars in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-corsair-icue-hurdles-in-windows-10-and-11-a-users-handbook/"><u>Bypassing Corsair iCUE Hurdles in Windows 10 and 11 - A User’s Handbook</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-crashes-how-to-stabilize-your-f1-2020-gameplay-on-windows/"><u>Fixing the Crashes: How to Stabilize Your F1 2020 Gameplay on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-game-aids-vrs-top-picks/"><u>In 2024, Innovative Game Aids VR's Top Picks</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-repair-process-for-incessant-nwstoreexe-software-hiccups/"><u>Mastering the Repair Process for Incessant nw_store.exe Software Hiccups</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-arrival-of-diablo-immortal-on-pc-gaming-platforms-what-gamers-need-to-know/"><u>No Arrival of Diablo Immortal on PC Gaming Platforms: What Gamers Need to Know</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-latest-update-makes-data-retrieval-effortless-for-users-breaking-news/"><u>Stellar's Latest Update Makes Data Retrieval Effortless for Users - Breaking News!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unforgettable-stop-motion-films-the-top-15-list-for-2024/"><u>Unforgettable Stop-Motion Films - The Top 15 List for 2024</u></a></li>
 </ul></div>
 

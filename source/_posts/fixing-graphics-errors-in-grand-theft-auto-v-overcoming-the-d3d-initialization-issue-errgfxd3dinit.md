@@ -1,7 +1,7 @@
 ---
 title: "Fixing Graphics Errors in Grand Theft Auto V: Overcoming the D3D Initialization Issue (ERR_GFX_D3D_INIT)"
-date: 2024-09-21T03:43:05.900Z
-updated: 2024-09-27T17:35:25.443Z
+date: 2024-09-26T16:59:43.961Z
+updated: 2024-10-03T16:20:04.515Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 5. **[Disable antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Flush your DNS and Renew your IP](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Reboot your network
 
  Before you try any of the fixes below, you may want to simply restart your game and router. If restarting the game multiple times failed to launch the game, you’ll need to restart your network:
@@ -66,33 +59,21 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If you don’t find Hitman 3, click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/change-settings.jpg)
 5. Click**Allow another app…**  
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 6. Add your Hitman 3 executable file. If you’re not sure where the game is installed, please follow these steps:  
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    * Click on the game title in your library.  
    * Select _**Properties**_ from the menu on the left.  
@@ -117,12 +98,34 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Run your game as an administrator
 
@@ -133,26 +136,6 @@ OR
 ![run as admin](https://images.drivereasy.com/wp-content/uploads/2021/01/run-as-admin.jpg)
 3. Next time you open your game launcher, it will launch in admin mode.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Disable antivirus software
 
  Some antivirus software may block some features in Hitman 3 so that you can encounter the “**connection failed** ” error. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -160,6 +143,13 @@ OR
  For some antivirus software, disabling them might not work. You can temporally uninstall it or add Hitman 3 to their exclusion lists.
 
 **Note:** Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6:**Flush your DNS and Renew your IP**
 
@@ -175,15 +165,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap11-5.jpg)
 6. Type the command line **ipconfig /renew**  and press **Enter**  on your keyboard.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap12-5.jpg)
 7. Play Hitman 3 again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -210,17 +200,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-high-fidelity-window-listening-the-ultimate-list-of-the-best-8-podcasts-8/"><u>[New] High Fidelity Window Listening The Ultimate List of the Best 8 Podcasts (#8)</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-snowrunner-keeps-crashing-on-pc/"><u>[SOLVED] SnowRunner Keeps Crashing on PC</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-boosting-your-snapchat-presence-with-easy-voice-modification-tricks/"><u>2024 Approved Boosting Your Snapchat Presence with Easy Voice Modification Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722997174357-dealing-with-limited-system-resources-solutions-to-the-inadequate-memory-bug-in-god-of-war/"><u>Dealing with Limited System Resources: Solutions to the 'Inadequate Memory' Bug in God of War.</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008919933-destiny-2s-beyond-light-pc-gameplay-issues-resolved-updated-fixes/"><u>Destiny 2'S Beyond Light PC Gameplay Issues Resolved - Updated Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-tips-overcoming-the-error-code-28-challenge-in-windows-device-manager/"><u>Essential Tips: Overcoming the 'Error Code 28' Challenge in Windows Device Manager</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/masterminds-mute-fix-restoring-audio-to-evil-genius-2/"><u>Mastermind's Mute Fix: Restoring Audio to Evil Genius 2</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/maximizing-your-wi-fi-coverage-the-ultimate-guide-to-the-netgear-ex3700-ac750-range-extender/"><u>Maximizing Your Wi-Fi Coverage: The Ultimate Guide to the Netgear EX3700 AC750 Range Extender</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-dipping-fps-in-forza-horizon-5-on-pc-a-complete-guide/"><u>Resolved: Dipping FPS in Forza Horizon 5 on PC - A Complete Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/revolutionary-process-to-blend-gopro-videos-into-360-degree-panoramas/"><u>Revolutionary Process to Blend GoPro Videos Into 360-Degree Panoramas</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/splitting-views-ultimate-video-recorder-ranking-for-2024/"><u>Splitting Views Ultimate Video Recorder Ranking for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-ultimate-playbook-for-splitting-views-in-facebook-livestreams/"><u>[New] 2024 Approved The Ultimate Playbook for Splitting Views in Facebook Livestreams</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capture-androids-ear-4-easy-unrooted-ways/"><u>[Updated] In 2024, Capture Android's Ear 4 Easy, Unrooted Ways</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cloud-savvy-pinpointing-optimal-data-purchases/"><u>2024 Approved Cloud Savvy Pinpointing Optimal Data Purchases</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-prey-the-starsign-descending-continuously-failing-on-windows/"><u>Fixes for Prey: The Starsign Descending Continuously Failing on Windows</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-a2-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996354120-getting-elden-ring-online-play-up-and-running-again-expert-advice/"><u>Getting Elden Ring Online Play Up & Running Again – Expert Advice</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-honor-magic-6-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Honor Magic 6</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-narzo-60-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme Narzo 60 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-desktop-video-editing-solutions-gopro-quik-and-beyond/"><u>New In 2024, Desktop Video Editing Solutions GoPro Quik and Beyond</u></a></li>
+<li><a href="https://win-able.techidaily.com/proven-solutions-for-keeping-fortnite-running-smoothly-on-your-pc-this-year/"><u>Proven Solutions for Keeping Fortnite Running Smoothly on Your PC This Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-trouble-heres-how-to-get-rid-of-that-annoying-black-screen/"><u>Rainbow Six Siege Trouble? Here's How to Get Rid of That Annoying Black Screen</u></a></li>
 </ul></div>
 

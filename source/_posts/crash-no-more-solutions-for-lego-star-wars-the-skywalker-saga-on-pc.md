@@ -1,7 +1,7 @@
 ---
 title: "Crash No More! Solutions for 'Lego Star Wars: The Skywalker Saga' On PC"
-date: 2024-09-10T20:13:51.172Z
-updated: 2024-09-17T00:28:37.220Z
+date: 2024-09-27T16:11:15.092Z
+updated: 2024-10-03T17:08:44.864Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
@@ -106,14 +113,22 @@ If updating the graphics driver doesn’t help, try the next fix.
 2. Type in**npca.cpl** , then click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/07/win11-ncpa.cpl_.jpg)
 3. Find the network adapter you’re using. Right-click it and select**Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-50-06.jpg)
 4. Wait for a minute.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Right-click on your network adapter again, then click**Enable** .  
@@ -130,6 +145,13 @@ If updating the graphics driver doesn’t help, try the next fix.
 
  If refreshing your network doesn’t solve the problem, there’s one more fix you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Perform a clean boot
 
  If the above fixes didn’t help, you may need to take a look at system services to see if there are any conflicting ones. By doing a clean boot, you can identify if any background services are interfering with Forza Horizon 5.
@@ -142,24 +164,32 @@ If updating the graphics driver doesn’t help, try the next fix.
 2. Type**msconfig** and hit Enter.  
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 3. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-msconfig-disable-all.jpg)
 4. Switch to the**Startup** tab, and click**Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-msconfig-startup.jpg)
 5. Under the**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-task-manager-startup-disable.jpg)
@@ -177,19 +207,6 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 4. Reboot your computer and launch the game. If the crashes persist, then you know that one of the services you ticked above is conflicting with Forza Horizon 5\. If the game runs smoothly now, then the above five services are fine, and you’ll have to keep looking for the offending service.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Repeat steps 2 and 3 above until you find the service that conflicts with the game.  
 
  NOTE: We recommend testing five items in a group since it’s more efficient, but you’re welcome to do it at your own pace.
@@ -201,16 +218,10 @@ If updating the graphics driver doesn’t help, try the next fix.
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
@@ -251,5 +262,23 @@ If updating the graphics driver doesn’t help, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-ethical-way-to-grow-your-fan-base-effectively/"><u>[New] In 2024, The Ethical Way to Grow Your Fan Base Effectively</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-polishing-your-figma-creations-expert-backdrop-extraction-for-2024/"><u>[New] Polishing Your Figma Creations Expert Backdrop Extraction for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/bust-the-glitches-effective-strategies-to-stop-football-manager-2022-from-crashing-during-gameplay-pc/"><u>Bust the Glitches: Effective Strategies to Stop Football Manager 2022 From Crashing During Gameplay (PC)</u></a></li>
+<li><a href="https://win-able.techidaily.com/circuit-breaker-seven-hacks-to-restart-your-game-when-forza-horizon-5-freezes-on-startup/"><u>Circuit Breaker: Seven Hacks to Restart Your Game When Forza Horizon 5 Freezes on Startup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exciting-news-chatgpt-on-iphone/"><u>Exciting News: ChatGPT on iPhone!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-elex-ii-from-frequently-crashing-on-windowsmac-tips-and-tricks-for-a-smooth-experience/"><u>How to Stop ELEX II From Frequently Crashing on Windows/Mac: Tips & Tricks for a Smooth Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-the-repeated-malfunctioning-and-crashing-of-wotb-a-solution-guide/"><u>How to Stop the Repeated Malfunctioning and Crashing of WotB: A Solution Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-saved-a-comprehensive-guide-to-overcoming-saints-row-not-launching-errors/"><u>PC Gaming Saved! A Comprehensive Guide to Overcoming Saints Row Not Launching Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-for-fixing-application-stalls-and-crashes-on-pc-2024-insights/"><u>Top Strategies for Fixing Application Stalls & Crashes on PC (2024 Insights)</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-oxygen-not-included-ending-those-frustrating-crashes/"><u>Troubleshooting Oxygen Not Included - Ending Those Frustrating Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-utorrent-issues-top-7-remedies-for-non-responsiveness/"><u>Troubleshooting Utorrent Issues - Top 7 Remedies for Non-Responsiveness</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-in-2024-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>Updated In 2024, An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
+</ul></div>
 

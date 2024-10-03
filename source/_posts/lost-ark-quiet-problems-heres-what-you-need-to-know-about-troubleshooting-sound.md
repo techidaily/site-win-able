@@ -1,7 +1,7 @@
 ---
 title: Lost Ark Quiet Problems? Here's What You Need To Know About Troubleshooting Sound!
-date: 2024-09-26T21:52:09.082Z
-updated: 2024-09-28T04:35:32.506Z
+date: 2024-09-28T16:04:02.119Z
+updated: 2024-10-03T16:48:11.893Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 4. [Run as Administrator](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your device
 
  Make sure that the in-game volume isn’t disabled or too low. Then check your computer’s sound configuration and output settings. If everything is working properly, you can move to the next fix.
@@ -42,29 +49,28 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 5. Right-click on your output device and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. In the**Advanced** tab, check the**Exclusive Mode** checkboxes and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/2022-02-21_17-04-18.jpg)
 7. Back to the game and check the audio.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update Windows Media Feature pack
@@ -85,31 +91,10 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/optional-features.jpg)
 2. Click**View features** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/view-features.jpg)
 3. Select the**Media Feature Pack** in the list of available optional features.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Relaunch the game and check the audio.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -124,12 +109,26 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Then, reboot your PC and relaunch the game to check.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run as Administrator
 
@@ -150,6 +149,14 @@ Then, reboot your PC and relaunch the game to check.
 1. Launch Steam and find Lost Ark in your library. Right-click the game then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Steam-right-click-Properties.jpg)
 2. Under **Local files** , click **Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files.jpg)
 3. It may take a while for Steam to complete the scan. When the process is finished, restart the game and see the problem persists or not.
 
@@ -170,20 +177,24 @@ Then, reboot your PC and relaunch the game to check.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/1723002045242-solved-cod-vanguard-crashing-on-pc-2024/"><u>[SOLVED] CoD Vanguard Crashing on PC – 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-chuckle-composer-app-for-2024/"><u>[Updated] Chuckle Composer App for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-boost-your-imagery-title-placement-techniques-on-video-clips-with-photos/"><u>2024 Approved Boost Your Imagery Title Placement Techniques on Video Clips with Photos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-tape-looper-mastery-app/"><u>2024 Approved Tape Looper Mastery App</u></a></li>
-<li><a href="https://win-able.techidaily.com/crash-no-more-your-comprehensive-guide-to-solving-state-of-decay-2s-persistent-problems/"><u>Crash No More: Your Comprehensive Guide to Solving State of Decay 2'S Persistent Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722994188556-expert-guide-to-overcoming-discord-live-stream-buffering-problems-now-solved/"><u>Expert Guide to Overcoming Discord Live Stream Buffering Problems – Now Solved!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-xiaomi-redmi-note-13-pro-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Xiaomi Redmi Note 13 Pro 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-from-basic-to-brilliant-transforming-your-videos-with-cool-effects-for-2024/"><u>New From Basic to Brilliant Transforming Your Videos with Cool Effects for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/practical-solutions-for-the-non-starting-tekken-8-game-on-personal-computers/"><u>Practical Solutions for the Non-Starting Tekken 8 Game on Personal Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolved-windows-battery-driver-problems-with-acpi-compliance/"><u>Resolved: Windows Battery Driver Problems with ACPI Compliance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-fixes-for-your-graphic-card-drivers-warning/"><u>Step-by-Step Fixes for Your Graphic Card Drivers Warning!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-continuous-failures-of-thunder-tier-one-game-on-your-computer/"><u>Troubleshooting Continuous Failures of Thunder Tier One Game on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-restoring-audio-in-fallout-4-on-your-computer/"><u>Troubleshooting Steps for Restoring Audio in Fallout 4 on Your Computer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-world-through-360-degree-fisheye-imaging-for-2024/"><u>Unlocking the World Through 360 Degree Fisheye Imaging for 2024</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/1725285512103-dvd/"><u>ダイジタリーソフトウェア公式記事で学ぶDVDコピーの専門情報サイト</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-funniest-tiktok-videos-latest-trends-and-stars/"><u>[New] 2024 Approved Funniest TikTok Videos Latest Trends & Stars</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-a-total-war-saga-troy-crash-on-pc/"><u>[SOLVED] A Total War Saga: Troy Crash on PC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-time-honored-vhs-hacks-a-curators-choice-of-visual-tricks-for-2024/"><u>[Updated] Time-Honored VHS Hacks A Curator’s Choice of Visual Tricks for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-video-magic-begins-macbooks-webcam-guide/"><u>2024 Approved Video Magic Begins MacBook's Webcam Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/achieve-higher-conversion-rates-using-cookiebot-solutions/"><u>Achieve Higher Conversion Rates Using Cookiebot Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-steps-in-choosing-exceptional-video-makers/"><u>Essential Steps in Choosing Exceptional Video Makers</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-overcoming-lego-star-wars-the-skywalker-saga-game-crashing-problems/"><u>Expert Advice on Overcoming Lego Star Wars: The Skywalker Saga Game Crashing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-overcoming-non-functional-intel-driver-assistance-tools/"><u>Expert Solutions: Overcoming Non-Functional Intel Driver Assistance Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-strategies-for-boosting-sims-4-speed-and-stability/"><u>Expert Strategies for Boosting Sims 4 Speed and Stability</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/flawless-filming-ipad-timelapse-techniques/"><u>Flawless Filming IPad Timelapse Techniques</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/gratuita-conversao-de-imagens-em-formato-raw-cr2-online-com-o-movavi/"><u>Gratuita Conversão De Imagens Em Formato RAW CR2 Online Com O Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011659655-how-to-resolve-directdraw-problems-efficiently-solutions-inside/"><u>How to Resolve DirectDraw Problems Efficiently - Solutions Inside</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-checklist-preparing-your-room-and-pc-for-oculus-rift/"><u>In 2024, Ultimate Checklist Preparing Your Room and PC for Oculus Rift</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unexpected-angle-alterations-in-instagram-video-posts/"><u>In 2024, Unexpected Angle Alterations in Instagram Video Posts</u></a></li>
+<li><a href="https://win-able.techidaily.com/la-noire-arrives-on-pc-overcoming-previous-hurdles-to-launch-successfully/"><u>L.A. Noire Arrives on PC – Overcoming Previous Hurdles to Launch Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guides-addressing-and-correcting-the-0xc0000022-launch-issue-for-adobe-products/"><u>Solution Guides: Addressing and Correcting the 0xC0000022 Launch Issue for Adobe Products</u></a></li>
+<li><a href="https://win-able.techidaily.com/surviving-destiny-2s-2024-broccoli-obstacle-essential-fixes-and-tips/"><u>Surviving Destiny 2'S 2024 Broccoli Obstacle: Essential Fixes and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tips-and-tricks-to-stop-discord-from-crashing-on-your-device/"><u>Top Tips and Tricks to Stop Discord From Crashing on Your Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-skyline-city-builder-2-failed-startup-issues/"><u>Troubleshooting Steps for Skyline City Builder 2 Failed Startup Issues</u></a></li>
 </ul></div>
 

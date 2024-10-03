@@ -1,7 +1,7 @@
 ---
 title: "Conquering Bug 6634: Expert Tips to Fix Call of Duty: Warzone Issues"
-date: 2024-09-11T16:19:39.354Z
-updated: 2024-09-16T22:59:38.101Z
+date: 2024-09-28T17:08:41.674Z
+updated: 2024-10-03T16:58:08.331Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 wireless router
 
  Now check if the error goes away. If not, take a look at the next fix below.
@@ -73,10 +80,10 @@ wireless router
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Run Warzone on DirectX 11
@@ -91,10 +98,10 @@ wireless router
 4. Click**Done** to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
@@ -108,36 +115,46 @@ wireless router
 2. Click**Settings** under the Performance section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
-4. Untick**Automatically manage paging file size for all drives** .  
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
+4. Untick**Automatically manage paging file size for all drives** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
 
@@ -157,19 +174,6 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
@@ -193,5 +197,21 @@ wireless router
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-portable-panorama-best-desktop-walls-for-your-laptop/"><u>[New] Portable Panorama Best Desktop Walls for Your Laptop</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unleash-the-power-of-your-mi-11s-screen-recording-features-for-2024/"><u>[Updated] Unleash the Power of Your Mi 11'S Screen Recording Features for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/crash-free-gaming-expert-tips-to-resolve-ghost-recon-breakpoint-issues-instantly/"><u>Crash-Free Gaming: Expert Tips to Resolve Ghost Recon Breakpoint Issues Instantly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-affordable-tech-marvels-with-our-comprehensive-oneplus-nord-n100-assessment/"><u>Discovering Affordable Tech Marvels with Our Comprehensive OnePlus Nord N100 Assessment</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-overcoming-problems-with-non-responsive-google-chrome-browser/"><u>Expert Advice on Overcoming Problems with Non-Responsive Google Chrome Browser</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Methods to Change GPS Location On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modify-excels-initial-spreadsheet-setup-tips-for-changing-the-standard-numbers-at-launch/"><u>Modify Excel's Initial Spreadsheet Setup: Tips for Changing the Standard Numbers at Launch</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/setting-up-finders-preferences-for-organizing-folders-and-their-subfolders/"><u>Setting up Finders Preferences for Organizing Folders and Their Subfolders</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-for-farming-simulator-22-not-starting-properly/"><u>Step-by-Step Troubleshooting for Farming Simulator 22 Not Starting Properly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-user-friendly-untangle-for-youtube-earnings-assessment-for-2024/"><u>The Ultimate User-Friendly Untangle for YouTube Earnings Assessment for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998758079-trouble-launching-civilization-vi-solve-the-problems-for-a-smooth-windows-10-experience/"><u>Trouble Launching Civilization VI? Solve the Problems for a Smooth Windows #10 Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-fix-continuous-zoom-disruptions-on-windows-11-and-windows-10/"><u>Troubleshooting Guide: How to Fix Continuous Zoom Disruptions on Windows 11 and Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-the-battle-against-far-cry-6-game-crashes-on-desktops-effective-fixes-and-tweaks/"><u>Winning the Battle Against Far Cry 6 Game Crashes on Desktops: Effective Fixes and Tweaks</u></a></li>
+</ul></div>
 

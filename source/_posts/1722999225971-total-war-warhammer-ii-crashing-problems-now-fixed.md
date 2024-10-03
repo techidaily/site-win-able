@@ -1,7 +1,7 @@
 ---
 title: "Total War: Warhammer II Crashing Problems - Now Fixed"
-date: 2024-09-25T08:15:51.111Z
-updated: 2024-09-28T06:48:25.593Z
+date: 2024-10-02T16:15:38.478Z
+updated: 2024-10-03T17:13:38.686Z
 tags:
   - win11
   - win10
@@ -58,6 +58,14 @@ If this fix doesn’t work, move to the next fix.
 1. Right-click on Nier Replicant’s exe and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
@@ -72,23 +80,16 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
 
 If this fix doesn’t bring luck, take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your drivers
@@ -107,20 +108,26 @@ There are mainly two ways you can update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -131,16 +138,10 @@ There are mainly two ways you can update the graphics driver:
  If the latest drivers doesn’t solve the issue, move to the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus software
@@ -158,10 +159,10 @@ Here’s how to disable Windows Security temporarily.
 4. Turn off Real-time protection.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
@@ -189,22 +190,18 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-discover-the-best-15-youtube-science-think-tanks/"><u>[New] In 2024, Discover the Best 15 YouTube Science Think Tanks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-tap-into-the-latest-gaming-and-app-splash-of-win11/"><u>[New] Tap Into the Latest Gaming and App Splash of Win11</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-art-of-instagram-videography-capturing-attention-for-2024/"><u>[New] The Art of Instagram Videography Capturing Attention for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-battlefield-2042-crashing-on-pc/"><u>[SOLVED] Battlefield 2042 Crashing on PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-zoom-in-on-success-screenshots-made-simple-by-ezvide-tech/"><u>[Updated] In 2024, Zoom In on Success Screenshots Made Simple by EZvide Tech</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-nubia-z50s-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/cutting-edge-vr-game-development-tools-for-2024/"><u>Cutting-Edge VR Game Development Tools for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enhanced-connectivity-asus-webcam-on-windows-10-revamped/"><u>Enhanced Connectivity: ASUS Webcam on Windows 10 Revamped</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhanced-cyberpunk-2077-experience-solutions-for-eliminating-game-lags-and-hitches/"><u>Enhanced Cyberpunk 2077 Experience: Solutions for Eliminating Game Lags and Hitches</u></a></li>
-<li><a href="https://win-able.techidaily.com/half-life-alyx-performance-issues-addressed-resolving-pc-lags-and-stutters/"><u>Half-Life: Alyx Performance Issues Addressed – Resolving PC Lags and Stutters</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/how-to-do-jump-cuts-like-a-pro-in-final-cut-pro-x/"><u>How to Do Jump Cuts Like a Pro in Final Cut Pro X?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-stuttering-and-crashing-in-starfield-for-pc-players/"><u>How to Fix Stuttering & Crashing in Starfield for PC Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-fortnite-login-hiccups-effective-and-easy-strategies-unveiled/"><u>Mastering Fortnite Login Hiccups: Effective & Easy Strategies Unveiled!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005398019-steam-remote-play-malfunction-discover-effective-solutions-here/"><u>Steam Remote Play Malfunction? Discover Effective Solutions Here</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-frustration-now-proven-fixes-for-persistent-state-of-decay-2-crashes/"><u>Stop Frustration Now: Proven Fixes for Persistent State of Decay 2 Crashes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-google-pixel-7a-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Google Pixel 7a Phone</u></a></li>
-<li><a href="https://win-able.techidaily.com/valheim-initialization-issues-troubleshooting-guide-for-failed-launch-in-202n/"><u>Valheim Initialization Issues: Troubleshooting Guide for Failed Launch in 202N</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-routine-for-placing-imovie-in-the-vimeo-spotlight-for-2024/"><u>[New] The Ultimate Routine for Placing iMovie in the Vimeo Spotlight for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-some-settings-are-managed-by-your-organization-on-windows/"><u>[Solved] Some Settings Are Managed by Your Organization on Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-complete-guide-icloud-drives-desktop-anddocuments-access-in-sierra-for-2024/"><u>[Updated] [Complete Guide] iCloud Drive’s Desktop &Documents Access in Sierra for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-optimizing-worker-output-the-influence-of-office-environment/"><u>2024 Approved Optimizing Worker Output The Influence of Office Environment</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-problems-with-windows-spotlight-not-loading-photos-in-windows-11-solutions-included/"><u>Common Problems with Windows Spotlight Not Loading Photos in Windows 11 – Solutions Included</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-8ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 8/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-wipeout-wsl-entirely-from-windows-11-system/"><u>How To Wipeout WSL Entirely From Windows 11 System</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-delving-into-mr-beasts-economic-dominance/"><u>In 2024, Delving Into Mr. Beast's Economic Dominance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-ark-crashes-on-pc-with-these-9-troubleshooting-steps/"><u>Say Goodbye to ARK Crashes on PC with These 9 Troubleshooting Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997496487-the-release-saga-of-immortals-fenyx-rising-heres-how-it-happened-and-why-you-can-play-today/"><u>The Release Saga of Immortals' Fenyx Rising – Here's How It Happened and Why You Can Play Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-resolving-stardew-valleys-pc-crashes/"><u>Troubleshooting: Resolving Stardew Valley's PC Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-telnet-on-windows-11-systems/"><u>Unlocking Telnet on Windows 11 Systems</u></a></li>
 </ul></div>
 

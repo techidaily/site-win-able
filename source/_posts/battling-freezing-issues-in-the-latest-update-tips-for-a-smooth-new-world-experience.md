@@ -1,7 +1,7 @@
 ---
 title: "Battling Freezing Issues in the Latest Update: Tips for a Smooth New World Experience"
-date: 2024-09-09T23:40:26.013Z
-updated: 2024-09-16T23:19:45.672Z
+date: 2024-09-26T16:11:12.113Z
+updated: 2024-10-03T16:43:25.651Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 ![Driver Easy Scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -65,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
  After updating your drivers, restart your PC and start a game in The Ascent.
 
  If the latest driver doesn’t give you luck, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Make sure Windows is up to date
 
@@ -82,30 +82,24 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve got your system updated, do a reboot and test the gameplay in The Ascent.
 
  If this doesn’t give you any improvements, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run The Ascent on DirectX 11
 
@@ -121,10 +115,10 @@ If you don’t know how to switch, follow these steps:
  If changing the DirectX version doesn’t do the trick, you can check out the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable Control Flow Guard
@@ -134,6 +128,14 @@ If you don’t know how to switch, follow these steps:
 1. On your keyboard, press**the Windows logo key** and type**exploit** . Select**Exploit protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-1.jpg)
 2. Navigate to the Program settings tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-2.jpg)
 3. Click**Add program to customize** and select**Add by program name** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-3.jpg)
@@ -142,6 +144,13 @@ If you don’t know how to switch, follow these steps:
 5. Under the**Control flow guard (CFG)** section, select**Override system settings** . Then toggle it to**Off** and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-5.jpg)
 6. Now you can check if there’re any improvements in The Ascent. (You might also need to go to**Steam > Settings > Cloud** and disable Steam Cloud synchronization.)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -160,5 +169,21 @@ If you don’t know how to switch, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-smartphone-shots-best-camera-accessories-for-filmmakers/"><u>[New] 2024 Approved Elevate Your Smartphone Shots Best Camera Accessories for Filmmakers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-cross-device-the-ultimate-tutorial-for-scraping-gifs-from-fb/"><u>[Updated] 2024 Approved Cross-Device The Ultimate Tutorial for Scraping GIFs From FB</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-briskly-building-your-own-google-collages/"><u>[Updated] Briskly Building Your Own Google Collages</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-instant-media-transformation-enhance-fb-videos-to-hdmp4-on-the-fly-for-2024/"><u>[Updated] Instant Media Transformation Enhance FB Videos to HD/MP4 on the Fly for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-sharper-images-richer-minescapes-zoom-techniques-revealed-for-2024/"><u>[Updated] Sharper Images, Richer Minescapes Zoom Techniques Revealed for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capture-the-thrill-choosing-superior-cam-accessories/"><u>2024 Approved Capture the Thrill Choosing Superior Cam Accessories</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-blues-with-quick-fix-tips-to-prevent-mw3-from-crashing-on-your-pc/"><u>Beat the Blues with Quick Fix Tips to Prevent MW3 From Crashing on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-frames-per-second-fps-and-solve-stuttering-issues-in-valorant-a-comprehensive-guide/"><u>Boost Your Frames per Second (FPS) & Solve Stuttering Issues in Valorant: A Comprehensive Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/classic-crimson-codec-for-2024/"><u>Classic Crimson Codec for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/copernics-innovative-downloader-a-game-changer-for-savvy-data-organisation-and-access/"><u>Copernic's Innovative Downloader: A Game-Changer for Savvy Data Organisation and Access</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-constant-system-errors-caused-by-fuser-programming-tools-in-windows/"><u>Diagnosing and Repairing Constant System Errors Caused by Fuser Programming Tools in Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-fixing-audio-glitches-in-your-favorite-first-person-shooter-game/"><u>Expert Advice on Fixing Audio Glitches in Your Favorite First-Person Shooter Game</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-realme-11-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Realme 11 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-fixes-for-stable-play-of-madden-nfl-20-on-windowsmac/"><u>Master the Fixes for Stable Play of Madden NFL 20 on Windows/Mac</u></a></li>
+</ul></div>
 

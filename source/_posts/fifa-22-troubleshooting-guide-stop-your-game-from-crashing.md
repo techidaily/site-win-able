@@ -1,7 +1,7 @@
 ---
 title: FIFA 22 Troubleshooting Guide - Stop Your Game From Crashing
-date: 2024-09-23T09:30:01.281Z
-updated: 2024-09-28T04:22:18.267Z
+date: 2024-10-01T16:26:01.009Z
+updated: 2024-10-03T16:21:42.557Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -59,13 +52,26 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If it’s not working, move to next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable overclocking
@@ -108,31 +114,19 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -144,6 +138,14 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
 
@@ -170,22 +172,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-dota-2-fps-drops-on-windows-11-10/"><u>[SOLVED] Dota 2 FPS Drops on Windows 11, 10</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-unraveling-the-apple-podcast-app-submission-system/"><u>2024 Approved Unraveling the Apple Podcast App Submission System</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-tech-basics-essential-equipment-guide/"><u>2024 Approved YouTube Tech Basics Essential Equipment Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/athletes-guide-to-enhanced-gpt-interactions/"><u>Athlete's Guide to Enhanced GPT Interactions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-samsung-galaxy-z-fold-5-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Samsung Galaxy Z Fold 5 is off? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/connecting-successfully-in-rainbow-six-siege-overcoming-server-issues/"><u>Connecting Successfully in Rainbow Six Siege: Overcoming Server Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-addressing-and-correcting-critical-pc-stability-errors-for-lego-star-wars-2024-release-fixes/"><u>Expert Advice: Addressing and Correcting Critical PC Stability Errors for Lego Star Wars - 2024 Release Fixes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s23-fe-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S23 FE Phones with/without a PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/preventing-predictable-problems-with-generative-tech/"><u>Preventing Predictable Problems with Generative Tech</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-unable-to-join-a-party-issue-a-guide-through-fortnite-error-code-84/"><u>Resolving the 'Unable to Join a Party' Issue: A Guide Through Fortnite Error Code #84</u></a></li>
-<li><a href="https://win-able.techidaily.com/restoring-audio-ambiance-how-to-solve-skyrims-volume-malfunction/"><u>Restoring Audio Ambiance: How to Solve Skyrim's Volume Malfunction</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-city-skylines-2-issues-game-wont-start/"><u>Troubleshooting City Skylines 2 Issues: Game Won't Start?</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-launch-problems-in-a-total-war-saga-troy-on-windows/"><u>Troubleshooting Guide: Fixing Launch Problems in A Total War: Saga - Troy on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-stability-problems-in-watch-dogs-legion-on-pc/"><u>Troubleshooting Guide: Overcoming Stability Problems in Watch Dogs Legion on PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y78-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y78 5G Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-best-apps-for-perfecting-picture-framing/"><u>[New] In 2024, Best Apps for Perfecting Picture Framing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-efficient-trimming-made-simple-with-top-10-software/"><u>[Updated] 2024 Approved Efficient Trimming Made Simple with Top 10 Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-listenleads-whats-better-than-dacast/"><u>[Updated] In 2024, ListenLeads What's Better than DaCast?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-honor-magic-vs-2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Honor Magic Vs 2 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-6-best-digital-canvases-ideal-nft-services-for-artists/"><u>In 2024, The 6 Best Digital Canvases Ideal NFT Services For Artists</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-art-of-custom-borders-in-microsoft-excel/"><u>Mastering the Art of Custom Borders in Microsoft Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-art-of-making-text-fit-into-excel-cells-a-step-by-step-guide/"><u>Mastering the Art of Making Text Fit Into Excel Cells: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-use-of-ampersand-symbols-in-microsoft-excel-headerfooter-formatting/"><u>Mastering the Use of Ampersand Symbols in Microsoft Excel Header/Footer Formatting</u></a></li>
+<li><a href="https://win-able.techidaily.com/microsofts-decision-to-discontinue-currency-features-in-excel/"><u>Microsoft's Decision to Discontinue Currency Features in Excel</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/nine-crucial-methods-to-log-computer-speakers-and-microphones-for-2024/"><u>Nine Crucial Methods to Log Computer Speakers and Microphones for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-guide-incorporating-macros-on-microsoft-offices-quick-access-toolbar/"><u>Quick Guide: Incorporating Macros on Microsoft Office's Quick Access Toolbar</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/quickened-keys-powerpoint-presentation-capture-for-2024/"><u>Quickened Keys PowerPoint Presentation Capture for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-crafting-a-personalized-pareto-diagram-using-microsoft-excel/"><u>Step-by-Step Guide: Crafting a Personalized Pareto Diagram Using Microsoft Excel</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-professional-sound-with-free-behringer-driver-software/"><u>Unlock Professional Sound with Free Behringer Driver Software!</u></a></li>
 </ul></div>
 

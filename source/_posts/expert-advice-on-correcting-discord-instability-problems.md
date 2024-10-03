@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Correcting Discord Instability Problems
-date: 2024-09-23T07:56:51.675Z
-updated: 2024-09-28T01:52:56.466Z
+date: 2024-09-27T16:00:04.033Z
+updated: 2024-10-03T17:07:25.480Z
 tags:
   - win11
   - win10
@@ -83,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
  If your PC fails to meet the minimum system requirements for The Division 2, you may need to upgrade your PC hardware.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Install the latest game patch
@@ -115,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -133,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-129.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select**Verify files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-130.png)
@@ -142,6 +149,13 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
  1) In Steam, navigate to**the LIBRARY tab** and**right-click** on The Division 2\. Then select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click**the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
@@ -174,6 +188,13 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
  2)**Right-click** on the file**TheDivision.exe** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-124.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Go to**the Compatibility tab** and click**Change high DPI settings** .
 
@@ -215,13 +236,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-152.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5)**Check the box** next to**Automatically manage paging file size for all drives** . Then click OK to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-153.png)
@@ -242,13 +256,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-155-1024x744.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3)**Turn off Contact Shadows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-156-1024x776.png)
@@ -257,16 +264,16 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-157-1024x756.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Set**Reflection Quality** to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-158-1024x758.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Set**Vegetation Quality** to**Medium** .
 
@@ -276,38 +283,37 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-160-1024x762.png)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) Set**Ambient Occlusion** to**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-161-1024x777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  9) Set the value of**Object Detail** to**50** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-162-1024x759.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  10) Set**Terrain Quality** to**Medium** . Then save all the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-163-1024x772.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch the game to see if the crash issue reappears. If not, congratulations! You’ve resolved this issue.
 
@@ -332,22 +338,17 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/levate-video-performance-following-the-path-of-stars-for-2024/"><u>[New] Elevate Video Performance Following the Path of Stars for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-prime-podcast-picks-for-google-enthusiasts/"><u>[New] Prime Podcast Picks for Google Enthusiasts</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-leveraging-likes-uploading-and-sharing-twitter-videos-to-snapchat/"><u>[Updated] In 2024, Leveraging Likes Uploading & Sharing Twitter Videos to Snapchat</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-stepwise-blend-integrating-obs-and-zoom/"><u>[Updated] Stepwise Blend Integrating OBS and Zoom</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-essential-skills-to-skyrocket-your-tiktok-game-on-devices/"><u>2024 Approved Essential Skills to Skyrocket Your TikTok Game on Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-connectivity-woes-modern-solutions-to-high-ping-issues-in-chivalry-2-updated-advice/"><u>Conquer Connectivity Woes: Modern Solutions to High Ping Issues in Chivalry 2 - Updated Advice</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-for-addressing-and-resolving-gameplay-glitches-in-guilty-gear-strive-on-desktop-systems/"><u>Expert Advice for Addressing and Resolving Gameplay Glitches in Guilty Gear Strive on Desktop Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-fixes-for-paladins-stability-avoid-crashes-and-play-smoothly/"><u>Expert Fixes for Paladins Stability: Avoid Crashes and Play Smoothly</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-a-non-responsive-elder-scrolls-online-game-startup/"><u>How to Fix a Non-Responsive Elder Scrolls Online Game Startup</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-reduce-lag-and-boost-fps-in-fall-guys/"><u>How to Reduce Lag and Boost FPS in Fall Guys</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-x50iplus-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor X50i+ FRP</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gamers-top-nine-live-video-destinations/"><u>In 2024, Gamer’s Top Nine Live Video Destinations</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-camon-30-pro-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Camon 30 Pro 5G Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-art-of-troubleshooting-teardown-application-malfunctions/"><u>Master the Art of Troubleshooting Teardown Application Malfunctions</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-0x803f8001-issue-fixes-for-minecraft-launcher-on-windows-11-and-10/"><u>Solving the 0X803F8001 Issue: Fixes for Minecraft Launcher on Windows 11 and 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-tips-to-overcome-the-launch-failure-of-dead-space-reboot-expert-advice-players/"><u>Top Tips to Overcome the Launch Failure of Dead Space Reboot – Expert Advice Players</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-eliminating-dead-spots-with-the-amplifi-hd-mesh-network/"><u>Ultimate Guide: Eliminating Dead Spots with the Amplifi HD Mesh Network</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-guide-the-features-of-google-podcasts-app/"><u>[New] Comprehensive Guide The Features of Google Podcasts App</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-for-pc-users-experiencing-game-crashes-with-madden-nfl-20/"><u>Comprehensive Solutions for PC Users Experiencing Game Crashes with Madden NFL 20</u></a></li>
+<li><a href="https://extra-information.techidaily.com/embracing-high-dynamic-range-transforming-your-video-outputs/"><u>Embracing High Dynamic Range Transforming Your Video Outputs</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-risk-of-rain-2-crash-issue-expert-solutions/"><u>Fixing the 'Risk of Rain 2' Crash Issue: Expert Solutions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/from-zero-to-hero-navigating-youtubes-growth-journey-for-2024/"><u>From Zero to Hero Navigating Youtube's Growth Journey for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-s23plus-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy S23+ to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-correcting-internet-explorers-inability-to-display-web-content/"><u>Guide: Correcting Internet Explorer's Inability to Display Web Content</u></a></li>
+<li><a href="https://techidaily.com/is-your-oneplus-nord-n30-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your OnePlus Nord N30 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-process-of-chromecast-software-update-explained/"><u>The Complete Process of Chromecast Software Update Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007673609-troubleshooting-masterclass-eliminate-among-us-crashing-problems-in-the-new-year-2024/"><u>Troubleshooting Masterclass: Eliminate 'Among Us' Crashing Problems in the New Year, 2024!</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-to-prevent-fortnite-from-freezing-and-crashing-on-pcs/"><u>Ultimate Solution to Prevent Fortnite From Freezing and Crashing on PCs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Motorola Moto G13 | Dr.fone</u></a></li>
 </ul></div>
 

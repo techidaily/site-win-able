@@ -1,7 +1,7 @@
 ---
 title: Age of Empires IV Installation Issues Resolved – Fixes & Solutions
-date: 2024-09-27T11:55:56.069Z
-updated: 2024-09-28T05:16:29.549Z
+date: 2024-09-26T16:34:04.088Z
+updated: 2024-10-03T16:50:05.432Z
 tags:
   - win11
   - win10
@@ -65,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -101,15 +94,22 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -120,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
@@ -150,25 +150,11 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -182,9 +168,23 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -208,22 +208,21 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-androids-best-picks-for-dynamic-collage-designers/"><u>[New] Android's Best Picks for Dynamic Collage Designers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-color-grading-techniques-unraveling-the-mystery-of-luts/"><u>[Updated] Color Grading Techniques Unraveling the Mystery of LUTs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/balancing-core-and-supporting-visual-elements-for-2024/"><u>Balancing Core & Supporting Visual Elements for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-overcoming-directx-compatibility-problems-in-battlefield-2042/"><u>Comprehensive Guide: Overcoming DirectX Compatibility Problems in Battlefield 2042</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-to-resolve-rainbow-six-extraction-stalling-and-freezing-on-windows-pcs/"><u>Effective Solutions to Resolve Rainbow Six Extraction Stalling and Freezing on Windows PCs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-live-server-connection-failure-issues-effectively/"><u>How to Overcome 'Live Server Connection Failure' Issues Effectively</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-10-free-stock-footage-websites-you-should-know/"><u>In 2024, Top 10 Free Stock Footage Websites You Should Know</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-launch-hurdle-baldurs-gate-3-is-finally-available/"><u>Overcoming the Launch Hurdle: Baldur's Gate 3 Is Finally Available</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overhauling-obscured-screens-of-desktops-and-laptops/"><u>Overhauling Obscured Screens of Desktops and Laptops</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-issues-preventing-immortals-fenyx-rising-from-releasing-corrected/"><u>Resolved: Issues Preventing Immortals Fenyx Rising From Releasing Corrected</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-how-to-restore-sounds-and-fix-audio-issues-in-your-minecraft-game-on-desktop/"><u>Solved! How to Restore Sounds and Fix Audio Issues in Your Minecraft Game on Desktop</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-5-challenges-for-gamefis-mass-appeal/"><u>Top 5 Challenges for GameFi's Mass Appeal</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-resolving-your-new-world-connection-problems/"><u>Troubleshooting Tips for Resolving Your New World Connection Problems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-repairing-your-cd-dvd-and-blu-ray-player-when-it-wont-eject/"><u>Troubleshooting Tips: Repairing Your CD, DVD & Blu-Ray Player When It Won't Eject</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-sony-s3700-bd-review-2023-for-2024/"><u>Updated Sony S3700 BD REVIEW 2023 for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723002631398-wolcen-lords-of-mayhem-pc-game-crash-fixed-issues/"><u>Wolcen: Lords of Mayhem PC Game Crash - Fixed Issues</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/igital-broadcast-face-off-facebook-vs-youtube-and-tweetstreams/"><u>[New] Digital Broadcast Face-Off FACEbook Vs. YOUTube & TweetStreams</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweeted-trailblazers-cutting-edge-strategies-to-save-tweets-on-screen/"><u>[New] In 2024, Tweeted Trailblazers Cutting-Edge Strategies to Save Tweets on Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fifa-21-not-launching/"><u>[SOLVED] FIFA 21 Not Launching</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-ultimate-zoom-communication-guide-unlocking-the-power-of-remote-conversations/"><u>[Updated] 2024 Approved The Ultimate Zoom Communication Guide Unlocking the Power of Remote Conversations</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-s17-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo S17 FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-able.techidaily.com/age-of-empires-iv-fixed-no-more-pc-game-crashes/"><u>Age of Empires IV Fixed: No More PC Game Crashes!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensive-guide-on-transferring-personal-data-to-your-iphone-x-integrating-content-from-older-iphones-or-android-gadgets/"><u>Comprehensive Guide on Transferring Personal Data to Your iPhone X: Integrating Content From Older iPhones or Android Gadgets</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-zoom-cant-start-video-error-5-effective-solutions-for-smooth-streaming/"><u>Eliminate 'Zoom Can’t Start Video' Error: 5 Effective Solutions for Smooth Streaming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/gaming-chronicles-capturing-every-play-in-overwatch-for-2024/"><u>Gaming Chronicles Capturing Every Play in Overwatch for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-jargon-primer-for-virtual-experiences/"><u>In 2024, A Jargon Primer for Virtual Experiences</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/inside-info-the-unexpected-delay-for-wolcens-lords-of-mayhem/"><u>Inside Info: The Unexpected Delay for Wolcen's 'Lords of Mayhem'</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcoming-the-youre-not-authorized-to-play-fortnite-hurdle/"><u>Resolved: Overcoming the 'You're Not Authorized to Play Fortnite' Hurdle</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-deadly-glitches-with-ghostrunner-under-windows-11-solutions-unveiled/"><u>Troubleshooting Deadly Glitches with Ghostrunner Under Windows 11: Solutions Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-palworld-top-solutions-for-launch-and-load-issues/"><u>Troubleshooting Palworld: Top Solutions for Launch and Load Issues</u></a></li>
 </ul></div>
 

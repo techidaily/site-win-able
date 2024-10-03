@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Frustrating Lags: 10 Effective Solutions for an Optimal Battlefield 5 Experience"
-date: 2024-09-26T00:12:42.265Z
-updated: 2024-09-28T03:28:58.120Z
+date: 2024-10-02T16:40:48.120Z
+updated: 2024-10-03T16:42:24.348Z
 tags:
   - win11
   - win10
@@ -52,23 +52,9 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Rolling back your driver
 
@@ -79,6 +65,13 @@ Restart your computer for the changes to take effect.
 3. Right-click on the Start button and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-34-32.jpg)
 4. Click**Display adapters** and right-click on your GPU.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
@@ -94,42 +87,43 @@ Restart your computer for the changes to take effect.
 2. Scroll down to find**Advanced display settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Restart your computer and check to see if the problem resolves.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Use windowed mode
 
@@ -160,24 +154,22 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-smart-money-making-on-youtube-shorts/"><u>[Updated] 2024 Approved Smart Money-Making on Youtube Shorts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-exploring-ancient-facebook-tales-your-pcmobile-checklist/"><u>[Updated] In 2024, Exploring Ancient Facebook Tales Your PC/Mobile Checklist</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-top-tones-where-to-access-google-pixel-music-for-2024/"><u>[Updated] Top Tones Where to Access Google Pixel Music for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/above-and-beyond-the-ultimate-guide-to-mavic-pro/"><u>Above and Beyond - The Ultimate Guide to Mavic Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/destiny-2-pc-version-fixed-now-running-smoothly-on-your-computer/"><u>Destiny 2 PC Version Fixed: Now Running Smoothly on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-tips-to-enhance-your-steam-streaming-speed/"><u>Effortless Tips to Enhance Your Steam Streaming Speed</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-fixing-the-startup-hurdles-of-evil-genius-2-effectively-and-quickly/"><u>Expert Tips: Fixing the Startup Hurdles of Evil Genius 2 Effectively and Quickly</u></a></li>
-<li><a href="https://win-able.techidaily.com/forza-horizon-4-pc-crash-issue-resolved-fix-guide/"><u>Forza Horizon 4 PC Crash Issue Resolved - Fix Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-nova-y71-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Nova Y71</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/nombre-a-entender-60-animales-en-espanol/"><u>Nombre a Entender: 60 Animales en Español</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722997341432-quick-fixes-for-sluggish-downloads-in-utorrent-get-back-to-torrenting-fast/"><u>Quick Fixes for Sluggish Downloads in uTorrent – Get Back to Torrenting Fast</u></a></li>
-<li><a href="https://win-able.techidaily.com/seeking-answers-the-wait-continues-for-wolcen-lords-of-mayhem-release/"><u>Seeking Answers - The Wait Continues for Wolcen: Lords of Mayhem Release</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/speeding-up-periscope-live-streams-explained-for-2024/"><u>Speeding Up Periscope Live Streams Explained for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/step-by-step-tutorial-for-incorporating-soundtracks-in-adobe-after-effects/"><u>Step-by-Step Tutorial for Incorporating Soundtracks in Adobe After Effects</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-pc-crash-during-century-age-of-ashes-playthrough-guide/"><u>Stop PC Crash During Century - Age of Ashes Playthrough Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-to-eliminate-deathloops-glitches-in-pc-playthrough/"><u>Troubleshooting Techniques to Eliminate Deathloop's Glitches in PC Playthrough</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solution-resolving-lost-ark-game-wont-start-issue/"><u>Ultimate Solution: Resolving 'Lost Ark' Game Won't Start Issue</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/and4-ogg-m4a-movavi/"><u>원금 동영상 모델의 오그&모사4아 OGG-M4A 전환기 - Movavi 서비스</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tips-for-sending-tweets-video-content-via-whatsapp/"><u>[New] 2024 Approved Tips for Sending Tweets' Video Content via WhatsApp</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-apples-m1-expedition-the-new-era-of-computing/"><u>2024 Approved Apple's M1 Expedition The New Era of Computing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-innovative-vr-experiences-from-elite-designers/"><u>2024 Approved Innovative VR Experiences From Elite Designers</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-crystal-clear-visuals-resolving-graphic-blurriness-in-call-of-duty-warzone-for-pc/"><u>Achieve Crystal-Clear Visuals: Resolving Graphic Blurriness in Call of Duty: Warzone for PC</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashing-problems-in-discord-app/"><u>How To Fix Persistent Crashing Problems in Discord App</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-adventurers-anthology-the-finest-10-affordable-mmos/"><u>In 2024, Adventurers' Anthology The Finest 10 Affordable MMOs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/iniciar-conversaciones-frescas-con-los-colores/"><u>Iniciar Conversaciones Frescas Con Los Colores</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-game-crashing-here-are-8-proven-fixes-for-marvels-guardians-of-the-galaxy-issues/"><u>PC Game Crashing? Here Are 8 Proven Fixes for Marvel's Guardians of the Galaxy Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/portable-installation-guide-mastering-driver-easy-on-the-go/"><u>Portable Installation Guide: Mastering Driver Easy On-the-Go</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fix-strategies-for-handling-palworld-search-sessions-gone-wrong/"><u>Quick Fix Strategies for Handling Palworld Search Sessions Gone Wrong</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-no-more-crashes-in-assassins-creed-odyssey-smooth-gaming-experience-for-pc/"><u>Resolved: No More Crashes in Assassin's Creed Odyssey - Smooth Gaming Experience for PC</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-x-flip-by-fonelab-android-recover-data/"><u>The way to get back lost data from X Flip</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-livestream-tactics-best-practices-for-cricket-viewers/"><u>Top Livestream Tactics Best Practices for Cricket Viewers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480945195-troubleshooting-full-page-capture-issues-in-safari-effective-solutions/"><u>Troubleshooting Full-Page Capture Issues in Safari: Effective Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-star-wars-battlefront-ii-error-327-corrected/"><u>Troubleshooting Guide: Star Wars Battlefront II Error 327 Corrected</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-a-speedy-recovery-from-valorants-crashing-driver-problem/"><u>Troubleshooting Tips for a Speedy Recovery From Valorant's Crashing Driver Problem</u></a></li>
 </ul></div>
 

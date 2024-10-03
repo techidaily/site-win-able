@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Resolving Issues with Slime Rancher 2 Freezing or Crashing"
-date: 2024-09-14T20:47:30.839Z
-updated: 2024-09-16T21:13:46.232Z
+date: 2024-10-01T16:56:02.522Z
+updated: 2024-10-03T16:24:01.842Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ The Epic Games Launcher is such a wonderful platform that you can play your favo
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Reset your screen resolution
 
  Your screen resolution adjusts to fit the screen but it might default to the wrong view. In this case, you can reset it.
@@ -70,6 +77,13 @@ Here’s how you can do this:
  1) Right-click on the launcher shortcut from your desktop and select**Run as administrator** .
 
 ![run Epic Games Launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-epic-games-launcher-as-administrator.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Open the launcher to see if the screen is in black. If it is, move on to the next fix.
 
@@ -122,22 +136,21 @@ Here’s how you can do this:
 
 ![adjust compatibility mode epic games launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) After applying the changes, open the launcher, and check if the problem is resolved. If not, proceed to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Run compatibility troubleshooter
@@ -152,6 +165,13 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-1-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Once the window**Program Compatibility Troubleshooter** pops up, click**Try recommended settings** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-2-1.png)
@@ -159,6 +179,13 @@ Here’s how you can do this:
  4) Click**Test the program** and you’ll be directed to the launcher.
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Go back to the**Program Compatibility Troubleshooter** window and click**Next** .
 
@@ -169,19 +196,6 @@ Here’s how you can do this:
  If the problem persists, then select**No, try again using different settings** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-5.png)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Uncheck the box **The program worked in earlier versions of Windows but won’t install or run now** . Then check the box**The program opens but doesn’t display correctly** and click**Next** .
 
@@ -218,6 +232,13 @@ Here’s how you can do this:
  1) In the**Search** box, type**firewall** . From the results, click**Firewall & network protection** .
 
 ![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Scroll down and click**Allow an app through firewall** .
 
@@ -268,6 +289,13 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-DNS-server.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ## Fix 8: Flush the DNS cache
@@ -279,19 +307,6 @@ To do this, simply follow the instructions below:
  1) Press **Windows logo key + R**  together on your keyboard. Type **cmd**  and press **Shift + Ctrl + Enter** at the same time.
 
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd.png)
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) When a prompt appears, simply click **Yes** .
 
@@ -313,24 +328,18 @@ To do this, simply follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check the box**Override high DPI scaling behavior** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings-2.png)
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 10: Use a VPN
 
@@ -369,5 +378,19 @@ Below is the VPN we would like to recommend:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-efficient-voice-tracking-techniques-on-ipad-for-2024/"><u>[New] Efficient Voice Tracking Techniques on iPad for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-step-by-step-guide-to-the-best-game-editing-apps/"><u>[New] In 2024, Step-by-Step Guide to the Best Game Editing Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-free-and-fast-the-ultimate-list-of-mac-screen-recorders/"><u>[Updated] 2024 Approved Free and Fast The Ultimate List of Mac Screen Recorders</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-harnessing-power-of-ez-grabber-quick-start-guide-to-usage/"><u>[Updated] 2024 Approved Harnessing Power of EZ Grabber - Quick Start Guide to Usage</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-vanguard-stuck-heres-how-to-get-it-running-smoothly-again/"><u>Call of Duty: Vanguard Stuck? Here's How to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-gameplay-with-these-tips-to-resolve-low-fps-in-splitgate/"><u>Enhance Your Gameplay with These Tips to Resolve Low FPS in Splitgate</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-preventing-frequent-disruptions-while-playing-battlefield-v-on-pc/"><u>Expert Tips: Preventing Frequent Disruptions While Playing Battlefield V on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-ps4-freezing-step-by-step/"><u>How to FIX PS4 Freezing | Step by Step</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-podcast-summaries-strategies-and-case-studies/"><u>Perfect Podcast Summaries Strategies & Case Studies</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-restoring-dolby-atmos-functionality-on-your-windows-computer/"><u>Step-by-Step Tutorial: Restoring Dolby Atmos Functionality on Your Windows Computer</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/by-step-wirecast-livestream-on-youtube/"><u>Step-by-Step WireCast Livestream on YouTube</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Get Your OBS to Resume Screen Recording: Problem Solved!"
-date: 2024-09-14T18:04:04.722Z
-updated: 2024-09-16T17:55:57.469Z
+date: 2024-09-27T16:19:20.283Z
+updated: 2024-10-03T16:33:47.208Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 4. [**Change the graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Turn off the preview window
 
  According to many users, a simple workaround to OBS not recording screen is to disable the preview window. What you need to do is to launch OBS and untick the**Studio Mode** at the bottom right corner of the main screen. Then the preview window should be closed and you could check if the problem goes away. If the problem occurs while you’re recording a game, try to**minimize OBS** to the system tray.
@@ -39,6 +46,19 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-preview-obs.jpg)
 
  Turning off OBS preview should also mitigate the FPS drops while recording. But if this doesn’t help your case, have a look at the second method below.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Run OBS as an administrator
 
@@ -49,13 +69,20 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 2. Select the**Compatibility** tab, tick**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-obs-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now OBS should be working with full access and recording your screen properly. If not so, there are a few more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Close unnecessary background programs
@@ -66,24 +93,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Right-click a program you’d like to close and click **End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Change the graphics settings
 
@@ -96,18 +109,27 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**OBS Studio** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-3.jpg)
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
 
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
@@ -150,5 +172,22 @@ Many Windows users have been reporting the OBS not recording screen issue lately
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-audio-flow-streamlining-sound-segments/"><u>[New] In 2024, Audio Flow Streamlining Sound Segments</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-know-your-rights-sharing-videos-with-friends-on-fb/"><u>[Updated] 2024 Approved Know Your Rights Sharing Videos with Friends on FB</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-elevate-your-brand-explore-these-10-essential-youtube-creators-for-2024/"><u>[Updated] Elevate Your Brand Explore These 10 Essential YouTube Creators for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-3-ingenious-strategies-to-harvest-twitter-gifs/"><u>2024 Approved 3 Ingenious Strategies to Harvest Twitter GIFs</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/achieve-high-rankings-on-youtube-with-top-seo-tips-1-11-for-2024/"><u>Achieve High Rankings on YouTube with Top SEO Tips (1-11) for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/days-gone-stability-hacks-for-a-smoother-gaming-experience/"><u>Days Gone Stability Hacks for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/decode-cs2s-persistent-issues-comprehensive-guide-to-preventing-game-crashes-on-pc/"><u>Decode CS2's Persistent Issues: Comprehensive Guide to Preventing Game Crashes on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/experience-the-reimagined-bioshock-2-remaster-with-improved-graphics/"><u>Experience the Reimagined BioShock 2 Remaster with Improved Graphics</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-disconnection-problem-with-microsofts-email-client-a-step-by-step-approach/"><u>Fixing the Disconnection Problem with Microsoft's Email Client: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-repeated-crashing-in-pathfinder-wrath-of-the-righte-experts-reveal-solutions/"><u>How to Fix Repeated Crashing in Pathfinder: Wrath of the Righte# #Experts Reveal Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-pova-5-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Pova 5</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-hunt-for-hit-tunes-and-viral-videos-on-fb/"><u>In 2024, The Hunt for Hit Tunes and Viral Videos on FB</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-elden-rings-start-up-black-screen-problem-a-guide/"><u>Overcome Elden Ring's Start-Up Black Screen Problem - A Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-xiaomi-redmi-note-12r-by-drfone-android/"><u>Three Ways to Sim Unlock Xiaomi Redmi Note 12R</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Preventing Chrome From Crashing on Your Windows 10 PC
-date: 2024-09-15T20:32:23.349Z
-updated: 2024-09-16T19:10:00.674Z
+date: 2024-09-30T16:10:27.467Z
+updated: 2024-10-03T16:23:34.587Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 5. [**Turn off VSync**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Disable extra peripherals at launch (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-mass-effect-legendary-edition-crashing-pc-xbox/#fix6)**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify integrity of game files
 
  First you need to verify the integrity of your game files. In some cases, your game will keep crashing when certain game files are corrupted or missing. This could happen due to network fluctuation.
@@ -46,6 +53,13 @@ You can use these steps to scan and repair your game:
 2. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** and wait for the process to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
 3. Once done, return to Mass Effect and test your gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this doesn’t help, check out the next fix below.
 
@@ -68,10 +82,10 @@ If this doesn’t help, check out the next fix below.
  If the latest graphics driver doesn’t give you luck, you can continue to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable hardware monitors
@@ -91,10 +105,10 @@ Now you can start Mass Effect and test the improvements.
  If disabling overlays doesn’t help, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Turn off VSync
@@ -111,10 +125,10 @@ Here’s how to disable VSync with NVIDIA graphics card:
 Now you can launch Mass Effect and check if it crashes again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable extra peripherals at launch (Xbox)
@@ -145,5 +159,26 @@ Now you can launch Mass Effect and check if it crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/solved-cod-warzone-pacific-crashing/"><u>[Solved] COD: Warzone Pacific Crashing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-camera-to-feed-instagram-video-upload-on-desktop-for-2024/"><u>[Updated] From Camera to Feed Instagram Video Upload on Desktop for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-techniques-for-chapter-integration-in-youtube-content/"><u>[Updated] Innovative Techniques for Chapter Integration in YouTube Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastering-aquatic-cinematography-with-these-7-essential-strategies-for-2024/"><u>[Updated] Mastering Aquatic Cinematography with These 7 Essential Strategies for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-optimizing-your-youtube-music-selection/"><u>2024 Approved Optimizing Your YouTube Music Selection</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oneplus-open-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on OnePlus Open? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-tech-experts-shape-the-future-of-non-tech-companies-insights-from-zdnet/"><u>How Tech Experts Shape the Future of Non-Tech Companies: Insights From ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009883907-immortals-of-fenyx-rising-game-stability-issues-resolved/"><u>Immortals of Fenyx Rising Game Stability Issues - Resolved!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-honor-x50i-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Honor X50i? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-lava-blaze-curve-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Lava Blaze Curve 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722993805539-mafia-ultimate-collection-release-delayed-resolution-inside/"><u>Mafia: Ultimate Collection Release Delayed - Resolution Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-dragons-dogma-2-performance-solutions-for-reducing-frame-rate-lag/"><u>Optimizing Dragon's Dogma 2 Performance: Solutions for Reducing Frame Rate Lag</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009609888-optimizing-your-pc-experience-with-fixed-f1-2e2021s-frame-rate-drop-say-goodbye-to-lag/"><u>Optimizing Your PC Experience with Fixed F1 2E2021's Frame Rate Drop - Say Goodbye to Lag</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-troubles-decoded-solutions-for-non-responsive-behavior/"><u>Steam Troubles Decoded: Solutions for Non-Responsive Behavior</u></a></li>
+<li><a href="https://facebook.techidaily.com/tailoring-your-social-media-identity/"><u>Tailoring Your Social Media Identity</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-the-error-code-0xc19001e1-on-windows-11/"><u>Troubleshooting and Fixing the 'Error Code 0xC19001E1' On Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-when-humans-encounter-pre-launch-glitches/"><u>Troubleshooting Guide: When Humans Encounter Pre-Launch Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-fix-a-non-responsive-vrchat-experience/"><u>Troubleshooting Tips: How to Fix a Non-Responsive VRChat Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lower-fps-in-dota-2-across-win10-and-win11-platforms/"><u>Troubleshooting: Lower FPS in Dota 2 Across Win10 & Win11 Platforms</u></a></li>
+</ul></div>
 

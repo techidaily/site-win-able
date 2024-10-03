@@ -1,7 +1,7 @@
 ---
 title: "Fix Issues: How to Prevent 'Escape From Tarkov' From Crashing on Your Windows Machine"
-date: 2024-09-22T16:43:14.813Z
-updated: 2024-09-27T18:53:07.155Z
+date: 2024-10-02T17:06:04.962Z
+updated: 2024-10-03T16:06:48.380Z
 tags:
   - win11
   - win10
@@ -59,22 +59,23 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
  If this doesn’t work for you, then try to verify game files in Steam.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
@@ -86,8 +87,22 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this fix doesn’t bring luck, take a look at the next one below.
 
@@ -107,21 +122,14 @@ There are mainly two ways you can update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -129,6 +137,13 @@ There are mainly two ways you can update the graphics driver:
  Restart your PC after drivers are updated, then relaunch the game to check.
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus software
 
@@ -140,33 +155,12 @@ Here’s how to disable Windows Security temporarily.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Relaunch NieR Replicant and check if it’s running properly.
 
@@ -191,20 +185,19 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevating-video-previews-a-compreayer-approach-for-youtube/"><u>[Updated] 2024 Approved Elevating Video Previews A Compreayer Approach for YouTube</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-becoming-an-insta-star-in-a-flash-top-15-insider-tactics-that-work-wonders-for-rapid-fame-growth/"><u>[Updated] Becoming an Insta Star in a Flash Top 15 Insider Tactics That Work Wonders for Rapid Fame Growth</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-pro-level-gif-generation-a-critical-review-for-2024/"><u>[Updated] Pro-Level GIF Generation A Critical Review for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/addressing-the-stability-problem-resolving-pc-crashes-in-assassins-creed-valhalla/"><u>Addressing the Stability Problem: Resolving PC Crashes in Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chat-without-constraints-how-to-activate-and-use-an-open-alternative-to-gpt-on-your-windows-machine-with-freedomgpt/"><u>Chat without Constraints: How to Activate and Use an Open Alternative to GPT on Your Windows Machine with FreedomGPT</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-fixing-gzw-failures-on-pc-systems/"><u>Effective Solutions for Fixing GZW Failures on PC Systems</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-your-video-pacing-with-these-snapchat-tips/"><u>In 2024, Perfect Your Video Pacing with These Snapchat Tips</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-snappy-business-tactics-on-snapchat/"><u>In 2024, Snappy Business Tactics on Snapchat</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-stop-r-type-final-from-freezing-on-your-computer-system/"><u>Resolved: How to Stop R-Type Final ^ From Freezing on Your Computer System</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-guide-when-discord-screen-share-mutes-fix-it-now/"><u>Solution Guide: When Discord Screen Share Mutes, Fix It Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723014137253-solving-the-problem-cant-launch-battlefield-4-on-windows-heres-how/"><u>Solving the Problem - Can’t Launch Battlefield 4 on Windows? Here’s How!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-your-terraria-6-reliable-strategies-for-reestablishing-connection/"><u>Troubleshoot Your Terraria: 6 Reliable Strategies for Reestablishing Connection</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/turn-your-mobile-videos-into-profitable-content-on-youtube/"><u>Turn Your Mobile Videos Into Profitable Content on YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/understanding-and-fixing-the-causes-of-regular-nox-player-breakdowns-on-desktops/"><u>Understanding and Fixing the Causes of Regular Nox Player Breakdowns on Desktops</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mpegwav/"><u>ワローナビMpegからWavへの効果的な変換ツール -無料でダウンロード可能</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-combat-chronicles-in-the-ring-or-on-screen-for-2024/"><u>[New] Combat Chronicles In the Ring or on Screen for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-download-any-song-on-fb-for-free/"><u>[New] Download Any Song on FB for Free</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-no-trouble-way-to-start-iphones-screen-snapshots/"><u>[New] In 2024, The No-Trouble Way to Start iPhone's Screen Snapshots</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-navigating-the-ginger-isle-of-stardew/"><u>[Updated] 2024 Approved Navigating the Ginger Isle of Stardew</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-channel-building-blueprint-reaching-1k-subs-rapidly/"><u>[Updated] Channel Building Blueprint Reaching 1K Subs Rapidly</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-windows-studio-options-beyond-moviemaker/"><u>[Updated] In 2024, Windows Studio Options Beyond MovieMaker</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoy-movies-and-shows-for-free-top-10-streaming-services-competing-with-netflix/"><u>Enjoy Movies & Shows for Free: Top 10 Streaming Services Competing with Netflix</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011131323-how-to-get-rainbow-six-siege-running-smoothly-after-fixing-launch-issues/"><u>How to Get Rainbow Six Siege Running Smoothly After Fixing Launch Issues.</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-how-to-remove-echo-from-audio-3-easy-and-proven-ways/"><u>In 2024, How to Remove Echo From Audio 3 Easy and Proven Ways</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-your-gaming-experience-proven-techniques-for-enhancing-war-thunders-fps/"><u>Maximize Your Gaming Experience: Proven Techniques for Enhancing War Thunder's FPS</u></a></li>
+<li><a href="https://win-able.techidaily.com/nanofiber-filters-ability-to-trap-ultrafine-particles-that-traditional-filters-may-miss-and-the-importance-in-environments-requiring-high-level-contaminatio386/"><u>Nanofiber Filters' Ability to Trap Ultrafine Particles that Traditional Filters May Miss and the Importance in Environments Requiring High-Level Contamination Control</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-in-diablo-ii-resurrected-expert-tips-and-tricks/"><u>Overcoming Launch Errors in Diablo II: Resurrected - Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frequent-crashes-in-snowrunner-game-on-windows-computers/"><u>Resolving Frequent Crashes in SnowRunner Game on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-unstable-dota-2-gameplay-and-preventing-crashes/"><u>Ultimate Fixes for Unstable Dota 2 Gameplay and Preventing Crashes</u></a></li>
 </ul></div>
 

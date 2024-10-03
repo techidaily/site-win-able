@@ -1,7 +1,7 @@
 ---
 title: "Easily Solved: How to Stop Your Division 2 Game From Crashing"
-date: 2024-09-25T02:55:03.768Z
-updated: 2024-09-28T04:38:46.972Z
+date: 2024-09-29T16:27:54.111Z
+updated: 2024-10-03T16:37:45.229Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
  If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
@@ -55,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 If this method doesn’t help, check out your graphics driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
@@ -82,19 +89,6 @@ If this method doesn’t help, check out your graphics driver.
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4 – Run the game as an administrator
 
  Some games may require an administrator-level to run, or else it will crash at startup or during the gameplay. If that’s the cause, running Diablo 2 Resurrected as an administrator should resolve the permission issue. Here is how:
@@ -103,18 +97,19 @@ If this method doesn’t help, check out your graphics driver.
 2. Right-click the Diablo 2 Resurrected executable (.exe) file and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -126,22 +121,15 @@ If this method doesn’t help, check out your graphics driver.
 3. Click**Begin Scan** to process.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Turn off overlays
 
@@ -153,13 +141,20 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **On GeForce Experience**
@@ -194,16 +189,24 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-essential-ios-video-apps-iphoneipads-finest-selection/"><u>[New] 2024 Approved Essential iOS Video Apps IPhone/iPad's Finest Selection</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-audiences-choice-in-drama-writings/"><u>2024 Approved Audience's Choice in Drama Writings</u></a></li>
-<li><a href="https://win-able.techidaily.com/collaborative-endeavors-reach-new-heights-with-the-official-release-of-it-takes-two/"><u>Collaborative Endeavors Reach New Heights with the Official Release of 'It Takes Two'</u></a></li>
-<li><a href="https://windows11.techidaily.com/combatting-memory-test-failed-in-windows/"><u>Combatting 'Memory Test Failed' In Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/does-chatgpt-deliver-the-truth-or-are-its-responses-marred-with-fabrications/"><u>Does ChatGPT Deliver the Truth, or Are Its Responses Marred with Fabrications?</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-game-bugs-how-to-stop-diablo-4-from-halting-on-playstation-and-windows-systems/"><u>Eliminate Game Bugs: How to Stop Diablo 4 From Halting on PlayStation and Windows Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-crashes-troubleshooting-guide-to-play-the-fia-world-rally-championship-wrc-10-on-your-pc-seamlessly/"><u>No More Crashes! Troubleshooting Guide to Play the FIA World Rally Championship - WRC 10 on Your PC Seamlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-black-and-white-errors-in-microsoft-shop/"><u>Remedy Black and White Errors in Microsoft Shop</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-common-problems-fixing-netflix-streaming-on-xbox-one-devices/"><u>Solved: Common Problems Fixing Netflix Streaming on Xbox One Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-pythons-critical-python24dll-file-is-absent/"><u>Solving the Issue: Python's Critical 'python24.dll' File Is Absent</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-make-your-text-glow-10-best-neon-text-generators-online-updated-2023/"><u>Updated 2024 Approved Make Your Text Glow 10 Best Neon Text Generators Online (Updated 2023)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-tap-into-the-funny-kapwing-for-meme-makers-for-2024/"><u>[New] Tap Into the Funny Kapwing for Meme Makers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-battlefront-2-long-load-times-on-pc/"><u>[Solved] Battlefront 2 Long Load Times on PC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-best-professional-template-pack-for-premiere-pro/"><u>[Updated] 2024 Approved The Best Professional Template Pack for Premiere Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-exploring-adventures-with-panasonic-hx-a1-cam-for-2024/"><u>[Updated] Exploring Adventures with Panasonic HX-A1 Cam for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-optimize-your-streams-with-advanced-obs-techniques-android/"><u>[Updated] Optimize Your Streams with Advanced OBS Techniques, Android</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-pixel-powerhouse-review-amd-radeon/"><u>2024 Approved Pixel Powerhouse Review AMD Radeon</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/digital-domination-how-videos-rule-twitter/"><u>Digital Domination How Videos Rule Twitter</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-display-issues-how-we-overcame-the-notorious-black-screen/"><u>Fixing Display Issues: How We Overcame the Notorious Black Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-monster-hunter-stories-2-wings-of-ruin-when-it-refuses-to-launch-correctly/"><u>How to Fix Monster Hunter Stories 2: Wings of Ruin When It Refuses to Launch Correctly</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-gain-access-and-fix-the-permission-denied-for-fortnite-issue/"><u>How to Gain Access and Fix the 'Permission Denied for Fortnite' Issue</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-ultimate-method-to-locate-fb-watched-content/"><u>In 2024, The Ultimate Method to Locate FB Watched Content</u></a></li>
+<li><a href="https://techidaily.com/is-your-itel-a70-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Itel A70 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/league-of-legends-bug-fix-in-action-the-reconnect-loop-solution/"><u>League of Legends Bug Fix in Action: The Reconnect Loop Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-not-opening-heres-how-to-resolve-it/"><u>Rainbow Six Siege Not Opening? Here's How to Resolve It!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-step-by-step-guide-to-repair-connection-issues-in-outlook/"><u>Resolved: Step-by-Step Guide to Repair Connection Issues in Outlook</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/revolutionize-virtual-reality-with-our-expertise/"><u>Revolutionize Virtual Reality with Our Expertise</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-far-cry-(sys)5s-stubborn-loading-screen-dilemma/"><u>Troubleshooting Far Cry <|Sys>5's Stubborn Loading Screen Dilemma</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-is-my-origin-not-starting-in-windows-11-find-out-why-and-how-to-fix-it/"><u>Why Is My Origin Not Starting in Windows 11? Find Out Why and How to Fix It</u></a></li>
 </ul></div>
 

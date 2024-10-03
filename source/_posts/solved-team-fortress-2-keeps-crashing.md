@@ -1,7 +1,7 @@
 ---
 title: "Solved: Team Fortress 2 Keeps Crashing"
-date: 2024-09-23T17:25:55.272Z
-updated: 2024-09-27T20:45:16.147Z
+date: 2024-09-30T16:47:18.687Z
+updated: 2024-10-03T16:11:05.953Z
 tags:
   - win11
   - win10
@@ -47,22 +47,8 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -79,6 +65,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
@@ -103,6 +96,14 @@ If this method doesn’t help, go ahead with the next fix below.
 2. Click the**View** tab and make sure**Hidden items** is ticked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
@@ -117,32 +118,33 @@ So does the crash go away now? If not, there is the last fix to try.
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -171,24 +173,22 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-apex-gk-quizmasters-video-channel-list/"><u>[New] Apex GK Quizmasters' Video Channel List</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-deactivation-done-right-the-ultimate-instagram-guide/"><u>[New] In 2024, Deactivation Done Right The Ultimate Instagram Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-boosting-your-channels-free-tips-for-youtube-video-popularity-for-2024/"><u>[Updated] Boosting Your Channels Free Tips for YouTube Video Popularity for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-exclusive-list-of-elite-christian-streaming-services/"><u>2024 Approved The Exclusive List of Elite Christian Streaming Services</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-the-black-expert-tips-to-correct-fallout-4-display-issues/"><u>Banish the Black: Expert Tips to Correct Fallout 4 Display Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-razer-mamba-drivers-instantly-and-enhance-your-gaming-today/"><u>Download Razer Mamba Drivers Instantly & Enhance Your Gaming Today</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-strategies-to-eliminate-freezing-glitches-and-improve-performance-in-valheim-pc/"><u>Effective Strategies to Eliminate Freezing Glitches and Improve Performance in Valheim (PC)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211723813-expert-tips-master-the-art-of-restarting-your-malfunctioning-keyboard/"><u>Expert Tips: Master the Art of Restarting Your Malfunctioning Keyboard!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fallout-3-failure-to-load-advanced-solutions-and-guides/"><u>Fallout ₪3 Failure to Load? Advanced Solutions & Guides</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011099994-fixing-apex-legends-loading-issues-in-seconds-simple-solutions-inside/"><u>Fixing Apex Legends Loading Issues in Seconds - Simple Solutions Inside!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-safeguarding-photos-best-software-guide-uncovered/"><u>In 2024, Safeguarding Photos Best Software Guide Uncovered</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mafia-definitive-edition-launch-issues-resolved-heres-why-it-wasnt-happening/"><u>Mafia: Definitive Edition Launch Issues Resolved - Here’s Why It Wasn’t Happening.</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-cannot-connect-to-server-glitch-in-lost-ark-expert-tips-and-tricks/"><u>Overcoming 'Cannot Connect to Server' Glitch in Lost Ark: Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-pc-issues-with-hyper-scape-crashes/"><u>Resolved: Fixing PC Issues with Hyper Scape Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/starfield-pc-stability-issues-solved-end-those-frustrating-crashes/"><u>Starfield PC Stability Issues Solved – End Those Frustrating Crashes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-hack-for-launching-the-witcher-3-wild-hunt-without-a-hitch/"><u>The Ultimate Hack for Launching The Witcher 3: Wild Hunt without a Hitch</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-macx-dvd-ripper-pro-for-free-in-honor-of-digiartys-10th-anniversary-special-oshogatsu-campaign/"><u>Unlock MacX DVD Ripper Pro for Free in Honor of Digiarty's 10Th Anniversary Special Oshogatsu Campaign!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-tiktok-mastery-top-10-analytic-instruments-unveiled/"><u>[New] In 2024, TikTok Mastery Top 10 Analytic Instruments Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-elite-gear-for-the-immersive-vr-journey-for-2024/"><u>[Updated] Elite Gear for the Immersive VR Journey for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-corrected-non-existence-of-shorts-on-feeds/"><u>[Updated] In 2024, Corrected Non-Existence of Shorts on Feeds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instagram-share-of-todays-thought-provoking-talk/"><u>[Updated] Instagram Share of Today's Thought-Provoking Talk</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-svchostexe-a-guide-to-lowering-cpu-usage-on-windows-11/"><u>Dealing with svchost.exe: A Guide to Lowering CPU Usage on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-online-converter-de-imagens-do-formato-cr2-para-png-com-o-movavi/"><u>Gratuito Online: Converter De Imagens Do Formato CR2 Para PNG Com O Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-x5-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco X5 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/newly-enhanced-microsoft-365-basic-affordable-access-to-additional-tools-and-services/"><u>Newly Enhanced Microsoft 365 Basic: Affordable Access to Additional Tools and Services</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-excel-limitations-create-effective-substitutes-for-missing-bookmarks/"><u>Overcoming Excel Limitations: Create Effective Substitutes for Missing Bookmarks!</u></a></li>
+<li><a href="https://win-able.techidaily.com/retrieve-past-excel-workbook-versions-easily-and-securely/"><u>Retrieve Past Excel Workbook Versions Easily and Securely</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-integration-setting-up-microsoft-forms-and-excel-online-auto-sync/"><u>Seamless Integration: Setting Up Microsoft Forms & Excel Online Auto-Sync</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-transition-mastering-the-art-of-transferring-contacts-from-outlook-to-gmail/"><u>Seamless Transition: Mastering the Art of Transferring Contacts From Outlook to Gmail</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-adding-page-x-out-of-y-text-to-excel-headerfooter/"><u>Step-by-Step Guide: Adding 'Page X Out of Y' Text to Excel Header/Footer</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-adding-bullet-point-lists-to-your-excel-worksheets/"><u>Step-by-Step Guide: Adding Bullet Point Lists to Your Excel Worksheets</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-crafting-an-effective-combination-chart-using-microsoft-excel/"><u>Step-by-Step Guide: Crafting an Effective Combination Chart Using Microsoft Excel</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-ultimate-guide-to-design-and-build-your-own-4k-editing-system-for-2024/"><u>The Ultimate Guide to Design and Build Your Own 4K Editing System for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-online-animation-creators-for-jaw-dropping-videos/"><u>The Ultimate List of Online Animation Creators for Jaw-Dropping Videos</u></a></li>
 </ul></div>
 

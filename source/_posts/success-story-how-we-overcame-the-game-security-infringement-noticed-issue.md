@@ -1,7 +1,7 @@
 ---
 title: "Success Story: How We Overcame the 'Game Security Infringement Noticed' Issue"
-date: 2024-09-25T09:27:24.150Z
-updated: 2024-09-28T07:06:00.781Z
+date: 2024-09-26T16:15:43.416Z
+updated: 2024-10-03T16:56:06.532Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 * [Fix 4: Change NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 5: Install the old driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your drivers
 
  Make sure all of your drivers are updated. You might think you’ve updated your graphic driver, but that’s not enough. **Many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.** The outdated or corrupted driver could be the culprit for crashing, lagging, or flickering issues.
@@ -56,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
@@ -82,6 +68,13 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_10-34-49.jpg)
 4. Back to the game and check.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If it’s not working, move to the next fix.
 
 ### Fix 3: Reinstall shaders & clear cache
@@ -93,35 +86,14 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-31-21.jpg)
 3. Click**RESTART** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-32-23.jpg)
 4. After the process is finished, restart the game to check. If it’s still flickering, move on to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Close all your Blizzard programs completely.
 6. Press**Ctrl + Shift+ Esc** together to open the**Task Manager** .
 7. Click the**Processes** tab. Select Battle.net and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-49-07.jpg)
 8. Press**Windows key + R** to open the Run box.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Type**%programdata%** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-50-43.jpg)
@@ -142,6 +114,13 @@ No luck with this fix? Try the next one.
 
  If it’s not working, you’d better follow[fix 5](https://tools.techidaily.com/drivereasy/download/) to install the old NVIDIA driver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Install the old driver
 
  If your PC has the NVIDIA graphics card, this fix may work for you. Many users indicated this is the only working fix for them.
@@ -151,19 +130,40 @@ No luck with this fix? Try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8f66b1083.png)
 3. Double click on Display adapters to expand the category. Right-click the NVIDIA graphics card installed on your computer, then select **Uninstall device** (in some cases, this could be**Uninstall** ).![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8fbb41a7c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. On the Uninstall confirm dialog box, select the **Delete the driver software for this device** check box, then click **Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8ff4327d4.png)
 5. Go to [NVIDIA’s driver download page](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Enter the information in the field according to your system version and your graphics card model. In my case, my computer is running Windows 10 64-bit, and my graphic card is NVIDIA GeForce GT 640, so I enter the information in the field as follows:![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb916032434.jpg)
 7. Don’t choose the latest driver, select the older one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 8. Follow the on-screen instructions to download the driver.
 9. Double-click on the downloaded file and follow the on-screen instructions to install the driver.
@@ -188,24 +188,19 @@ No luck with this fix? Try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-youtube-potential-best-mp4-editors-on-mac/"><u>[New] Unleash YouTube Potential Best MP4 Editors on Mac</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-detailed-guide-securely-recording-on-vimeo/"><u>[Updated] In 2024, Detailed Guide Securely Recording on Vimeo</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-242-troubleshooting-correcting-directx-error-messages-step-by-step/"><u>Battlefield 2#42 Troubleshooting: Correcting DirectX Error Messages Step-by-Step</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquering-silence-proactive-solutions-to-banish-black-screen-glitch-in-call-of-duty-warzones-latest-update/"><u>Conquering Silence: Proactive Solutions to Banish Black Screen Glitch in Call of Duty Warzone's Latest Update</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oppo-a78-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Oppo A78 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-cod-vanguard-bug-resolving-error-5573/"><u>Fixing the COD Vanguard Bug: Resolving Error 5573</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/google-meet-unlocked-a-free-in-depth-user-manual/"><u>Google Meet Unlocked A Free, In-Depth User Manual</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oneplus-lock-screen-password-by-drfone-android/"><u>How To Change OnePlus Lock Screen Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-oneplus-ace-2-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of OnePlus Ace 2 Through Google Earth?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-revealing-the-ultimate-collection-of-youtube-beauty-experts/"><u>In 2024, Revealing the Ultimate Collection of YouTube Beauty Experts</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722989969641-mastering-alien-fireteam-elite-on-your-pc-without-the-dreaded-crashes-solutions-inside/"><u>Mastering Alien: Fireteam Elite on Your PC Without the Dreaded Crashes, Solutions Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004398221-phasmophobia-update-woes-solutions-for-the-notorious-stuck-at-warty-90-screen-problem/"><u>Phasmophobia Update Woes? Solutions for the Notorious Stuck at Warty 90% Screen Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-issues-top-6-solutions-to-prevent-call-of-duty-modern-warfare-2-from-crashing-on-windows/"><u>Resolve Issues: Top 6 Solutions to Prevent Call of Duty: Modern Warfare 2 From Crashing on Windows</u></a></li>
-<li><a href="https://facebook.techidaily.com/revamping-social-media-groups-with-updated-guidelines/"><u>Revamping Social Media Groups with Updated Guidelines</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-steam-hiccups-fast-no-more-crashes-ever-again/"><u>Solve Your Steam Hiccups Fast - No More Crashes Ever Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/taming-the-beast-mastering-fps-stability-and-eliminating-lags-in-cod-black-ops-4/"><u>Taming the Beast: Mastering FPS Stability and Eliminating Lags in COD Black Ops 4</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-y200-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo Y200 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-for-persistent-gta-amoed-crashing-problems/"><u>Troubleshooting Guide for Persistent GTA Amoed Crashing Problems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-transforming-your-mobile-device-a-comprehensive-tone-customization-strategy/"><u>[New] In 2024, Transforming Your Mobile Device A Comprehensive Tone Customization Strategy</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-elevate-your-gaming-by-recording-ps3-games/"><u>[Updated] In 2024, Elevate Your Gaming by Recording PS3 Games</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-horizon-zero-dawns-speed-a-guide-for-better-performance/"><u>Boosting Horizon Zero Dawn's Speed - A Guide for Better Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-and-prevent-ready-or-not-from-crashing-pc-troubleshooting-guide/"><u>Fix & Prevent Ready Or Not From Crashing: PC Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-computer-overcoming-persistent-content-warning-errors-and-crashes/"><u>Fix Your Computer: Overcoming Persistent 'Content Warning' Errors and Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-improve-your-ark-experience-on-pc-the-best-fps-optimization-techniques/"><u>How to Improve Your ARK Experience on PC: The Best FPS Optimization Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-code-vein-from-freezing-or-crashing/"><u>How to Stop Your Code Vein From Freezing or Crashing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-meizu-21-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Meizu 21 Phone? Unlock It Now</u></a></li>
+<li><a href="https://extra-support.techidaily.com/integrating-linktree-in-your-tiktok-bio-for-maximum-impact-for-2024/"><u>Integrating Linktree in Your TikTok Bio for Maximum Impact for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/re-energizing-eg2-a-guide-to-reactivating-in-game-audio-features/"><u>Re-Energizing EG2: A Guide to Reactivating In-Game Audio Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-constant-crashes-in-the-improved-pc-version-of-metro-exodus/"><u>Solving Constant Crashes in the Improved PC Version of Metro Exodus</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-telegram-spy-tools-on-apple-iphone-12-pro-for-parents-drfone-by-drfone-virtual-ios/"><u>Top 10 Telegram Spy Tools On Apple iPhone 12 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-videos-with-simple-inshot-techniques-for-2024/"><u>Transform Your Videos with Simple Inshot Techniques for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-solving-the-sky-on-demand-download-problem-with-6-key-strategies/"><u>Ultimate Guide: Solving the Sky On Demand Download Problem with 6 Key Strategies</u></a></li>
 </ul></div>
 

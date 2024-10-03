@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting & Correcting Rust Visual Malfunctions for Smoother Gaming
-date: 2024-09-22T01:38:26.809Z
-updated: 2024-09-28T00:04:24.586Z
+date: 2024-09-30T16:23:22.343Z
+updated: 2024-10-03T16:37:57.373Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Released in November,**Call of Duty: Vanguard** is one of the hottest game title
 6. **[Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Make sure your system is up to date](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Repair system files
 
  If the fixes above failed to solve the crashes, it might point to a corrupt or missing game file. Many Vanguard players find restoring system files helps them get rid of random crashes. There’re two ways to repair your system files:
@@ -61,6 +54,14 @@ Here’s how to use Fortect to run a Windows repair:
 3. Once finished, Fortectwill generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -73,6 +74,14 @@ Here’s how to use Fortect to run a Windows repair:
 1. On your keyboard, press the**Windows logo key**  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Click**Yes** when prompted to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -97,21 +106,20 @@ Here’s how to use Fortect to run a Windows repair:
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -135,13 +143,6 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
@@ -149,13 +150,6 @@ To check the specs of your PC:
 4. Close DirectX.
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -168,6 +162,13 @@ To check the specs of your PC:
 
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable overlays
 
  The overlay gives you access to features and apps without having to leave the game. However, some players report that the feature could interfere with their gameplay and even block game files.
@@ -175,13 +176,6 @@ To check the specs of your PC:
  If you have enabled the feature on GeForce Experience, Discord, Twitch, or other apps, it’s recommended that you turn them off altogether to see if it mitigates the game crashing problem.
 
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
 
@@ -193,7 +187,22 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 2. Select the **Startup**  tab, then right-click on each item and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Make sure your system is up to date
 
@@ -208,16 +217,10 @@ Here are the steps:
 3. Wait a while for Windows to check and automatically install the updates for you.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -243,17 +246,15 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-screenshot-synopsis-study-for-2024/"><u>[New] ScreenShot Synopsis Study for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-quick-and-easy-steps-for-photos-in-your-instagram-gallery/"><u>[Updated] 2024 Approved Quick and Easy Steps for Photos in Your Instagram Gallery</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-mastering-360-video-making-with-ios-devices/"><u>[Updated] In 2024, Mastering 360 Video Making with iOS Devices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-masterclass-in-conversions-save-vimeo-media-to-mp4-files/"><u>[Updated] Masterclass in Conversions Save Vimeo Media to MP4 Files</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-for-stable-gameplay-stop-starfield-pc-crashes-now/"><u>Expert Tips and Fixes for Stable Gameplay: Stop Starfield PC Crashes Now</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-fix-the-printer-not-printing-issue/"><u>How to Fix the Printer Not Printing Issue</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012520797-master-the-mysteries-no-more-crashes-resident-evil-village-on-pc-solved/"><u>Master the Mysteries, No More Crashes: Resident Evil Village on PC Solved!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-13-mini-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 13 mini Data From iOS iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-video-card-compatibility-problem-in-the-sims-4-tips-and-solutions/"><u>Resolving 'Video Card Compatibility Problem in The Sims 4': Tips & Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-with-final-fantasy-xiv-version-verification/"><u>Trouble with Final Fantasy XIV Version Verification</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-resolve-pc-issues-in-assassins-creed-odyssey-no-sweat/"><u>Troubleshoot and Resolve PC Issues in Assassin's Creed Odyssey - No Sweat</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-elevate-presentations-harnessing-aiseesoft-screen-recordings/"><u>[New] 2024 Approved Elevate Presentations Harnessing Aiseesoft Screen Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-tier-mkv-players-macos-edition/"><u>[New] Top-Tier MKV Players MacOS Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/ark-software-bug-fixes-resolving-common-stability-problems/"><u>ARK Software Bug Fixes: Resolving Common Stability Problems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-seamless-sound-with-ion-audio-tailgater-plus-instant-powerful-bass-and-endless-music/"><u>Experience Seamless Sound with Ion Audio Tailgater Plus - Instant Powerful Bass and Endless Music!</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-prevent-enshrouded-title-crashes-in-your-windows-gaming-experience/"><u>Guide to Prevent Enshrouded Title Crashes in Your Windows Gaming Experience</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-online-video-rotation-made-easy-top-10-tools/"><u>In 2024, Online Video Rotation Made Easy Top 10 Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-update-your-windows-t-7-webcam-drivers-today/"><u>Quick and Simple: Update Your Windows T 7 Webcam Drivers Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/rust-debugging-guide-effective-solutions-for-unresponsive-codes/"><u>Rust Debugging Guide: Effective Solutions for Unresponsive Codes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-city-building-game-crashes-expert-fixes-and-strategies/"><u>Solve Your City Building Game Crashes: Expert Fixes and Strategies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029358946-pc/"><u>オペレーティングシステム音再生を録音する最新アプローチ - PC版ベストメソッド</u></a></li>
 </ul></div>
 

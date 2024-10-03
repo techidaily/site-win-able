@@ -1,7 +1,7 @@
 ---
 title: Dark Souls III Performance Fixed - Say Goodbye to Unexpected Shutdowns!
-date: 2024-09-12T21:39:47.062Z
-updated: 2024-09-17T00:50:34.541Z
+date: 2024-09-27T16:47:56.604Z
+updated: 2024-10-03T16:58:58.795Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-708.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can go to the game options and change to Windowed mode, then re-launch your game to see if it works.
 
  If, unfortunately, you can’t access the game options, try modify the settings in the GraphicsConfig file.
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
  2) Type**_%appdata%_** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Open**DarkSouls3** folder.
 
@@ -85,29 +99,22 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-706.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ ).
 
  Note: You can do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-707.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Once your driver has been updated, restart your computer.
 
 Now launch Dark Souls 3 and see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Set game options to LOW
 
@@ -116,13 +123,6 @@ Now launch Dark Souls 3 and see if it works.
  Be sure to set the resolution to the same resolution of your monitor. Also set**Effects quality** ,**Shadow quality** , and**Light quality** to**LOW** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you can’t access the in-game settings, try this:
 
@@ -140,11 +140,25 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-711.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6) Save your file changes and restart your game.
 
 Then play your game to see if it works properly.
 
  Still no luck? Don’t give up hope. There’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
 
@@ -159,13 +173,6 @@ Then play your game to see if it works properly.
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
@@ -194,5 +201,22 @@ Then play your game to see if it works properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-10plus-preferred-no-pay-webm-player-options/"><u>[Updated] 2024 Approved 10+ Preferred No-Pay WebM Player Options</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-speaking-through-screens-effective-communication-on-youtube/"><u>[Updated] Speaking Through Screens Effective Communication on YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-5-crashes-try-these-proven-methods-to-keep-your-game-running-smoothly/"><u>Battlefield 5 Crashes? Try These Proven Methods to Keep Your Game Running Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-methods-to-enhance-frame-rates-and-reduce-lag-during-gaming-sessions-on-windows-machines/"><u>Effective Methods to Enhance Frame Rates and Reduce Lag During Gaming Sessions on Windows Machines</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-to-resolve-gtfo-application-freezing/"><u>Effective Strategies to Resolve GTFO Application Freezing</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-unstick-your-frozen-outlook-program-for-easy-use-again/"><u>Guide: Unstick Your Frozen Outlook Program for Easy Use Again</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-add-border-to-instagram-photos-with-best-apps-for-2024/"><u>How to Add Border to Instagram Photos with Best Apps for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-7-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 7 without Password?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-m6-pro-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco M6 Pro 4G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-pinnacle-software-choices-for-tweeting-vids/"><u>In 2024, Pinnacle Software Choices for Tweeting Vids</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-gpt-powered-dialogues-into-task-management/"><u>Integrating GPT-Powered Dialogues Into Task Management</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-black-screen-of-death-when-starting-overwatch-a-step-by-step-guide/"><u>Resolving the 'Black Screen of Death' When Starting Overwatch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-device-drivers-update-a-guide-to-using-driver-easys-mobile-version/"><u>Seamless Device Drivers Update: A Guide to Using Driver Easy's Mobile Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-vr-undetected-here-are-six-remedies/"><u>Steam VR Undetected? Here Are Six Remedies!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-solving-realtek-wireless-network-driver-problems-in-windows-operating-systems/"><u>Troubleshooting and Solving Realtek Wireless Network Driver Problems in Windows Operating Systems</u></a></li>
+</ul></div>
 

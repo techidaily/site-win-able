@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Fixing the Infamous Crossbow Error on Minecraft Servers"
-date: 2024-09-23T16:25:47.460Z
-updated: 2024-09-27T21:47:34.457Z
+date: 2024-09-28T16:13:56.329Z
+updated: 2024-10-03T17:16:58.372Z
 tags:
   - win11
   - win10
@@ -42,20 +42,20 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 If the issue persists, read on and try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
@@ -101,6 +101,13 @@ If the issue remains, move on to the next fix.
 
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Set the anti-aliasing to default
 
  If you had changed the Minecraft anti-aliasing settings from default, you may experience a black screen on launch. To fix it, you can reset your video settings to default. Here’s how:
@@ -114,13 +121,6 @@ If the issue remains, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Relaunch Minecraft to see if the problem is solved.
 
@@ -136,13 +136,6 @@ If this method doesn’t do the trick, continue to the next fix.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 Relaunch Minecraft to see if your issue is resolved.
@@ -150,10 +143,10 @@ Relaunch Minecraft to see if your issue is resolved.
 If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Uninstall and reinstall Minecraft
@@ -165,6 +158,13 @@ If not, try the next fix.
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
@@ -197,24 +197,18 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-s23-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy S23 by Name | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/authentic-user-experience-with-microsoft-sculpt-keyboard-high-end-performance-meets-great-affordability/"><u>Authentic User Experience with Microsoft Sculpt Keyboard – High-End Performance Meets Great Affordability</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-browser-speed-resolve-chrome-lag-issues-effortlessly/"><u>Boost Your Browser Speed - Resolve Chrome Lag Issues Effortlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/horizon-zero-dawn-pc-performance-optimized-fixing-the-notorious-crash-problems/"><u>Horizon Zero Dawn PC Performance Optimized: Fixing the Notorious Crash Problems</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-football-manager-2n21-game-crashes-on-your-computer-pc/"><u>How to Fix Football Manager 2N21 Game Crashes on Your Computer (PC)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-12-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone 12 and iPad</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-8-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-a78-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo A78?</u></a></li>
-<li><a href="https://win-able.techidaily.com/nba-2k23-fixed-discover-the-ultimate-7-tricks-to-prevent-gaming-glitches-on-your-computer/"><u>NBA 2K23 Fixed? Discover the Ultimate 7 Tricks to Prevent Gaming Glitches on Your Computer</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unleash-your-creativity-the-top-ipad-video-editing-apps/"><u>New In 2024, Unleash Your Creativity The Top iPad Video Editing Apps</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723002084091-pc-gamers-struggle-with-genshin-impact-crashes-lets-resolve-them-now/"><u>PC Gamers Struggle with Genshin Impact Crashes? Let's Resolve Them Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/phasmophobia-vr-malfunction-heres-how-you-can-repair-it/"><u>Phasmophobia VR Malfunction? Here's How You Can Repair It!</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-resolve-for-path-of-exile-avoid-game-connection-issues/"><u>Quick Resolve for 'Path of Exile': Avoid Game Connection Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/speeding-up-your-chrome-experience-in-minutes/"><u>Speeding Up Your Chrome Experience in Minutes</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-fix-when-windows-11s-spotlight-service-fails-to-display-images/"><u>Step-by-Step Fix: When Windows 11'S Spotlight Service Fails to Display Images</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-content-creators-companion-to-commercial-success-on-vimeo/"><u>The Content Creator's Companion to Commercial Success on Vimeo</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-essential-criteria-for-selecting-a-superior-artificial-intelligence-chatbot-solution/"><u>The Essential Criteria for Selecting a Superior Artificial Intelligence Chatbot Solution</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-multi-user-platforms-for-effective-talks/"><u>Top Multi-User Platforms for Effective Talks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-enhance-your-conference-experience-with-webcam-recordings/"><u>[New] In 2024, Enhance Your Conference Experience with Webcam Recordings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-premier-list-of-affordable-virtual-meetings-and-live-desktop-sharing/"><u>[New] In 2024, Premier List of Affordable Virtual Meetings & Live Desktop Sharing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/assassins-creed-valhalla-critique-immersive-viking-adventure-set-in-medieval-times-explored/"><u>Assassin’s Creed: Valhalla Critique: Immersive Viking Adventure Set in Medieval Times Explored</u></a></li>
+<li><a href="https://win-able.techidaily.com/baldurs-gate-3-and-pc-compatibility-solving-instability-problems/"><u>Baldur's Gate 3 and PC Compatibility: Solving Instability Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-handling-frequent-disruptions-in-persona-4-golden-adventure/"><u>Expert Advice on Handling Frequent Disruptions in Persona 4 Golden Adventure</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/fuhrende-funf-kostenfreie-medienwiedergabeprogramme-fur-windows-11-herausragende-empfehlungen-und-downloadlinks/"><u>Führende Fünf Kostenfreie Medienwiedergabeprogramme Für Windows 11 – Herausragende Empfehlungen Und Downloadlinks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmony-in-chat-blending-music-into-status-for-2024/"><u>Harmony in Chat Blending Music Into Status for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/helldivers-2-collapsing-on-desktop-top-reliable-repair-methods-unveiled/"><u>Helldivers 2 Collapsing on Desktop: Top Reliable Repair Methods Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gaming-journey-ahead-overcoming-v-risings-stuttering-challenges-on-your-desktop/"><u>Smooth Gaming Journey Ahead: Overcoming V-Rising's Stuttering Challenges on Your Desktop</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-driver-enhancement-for-atis-hd-4800/"><u>Speedy Driver Enhancement for ATI's HD 4800</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-syncing-your-iphone-display-with-the-microsoft-xbox-one/"><u>Step-by-Step Guide: Syncing Your iPhone Display with the Microsoft Xbox One</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-updating-missing-widevine-cdm-on-your-windows-system/"><u>Step-by-Step Guide: Updating Missing Widevine CDM on Your Windows System</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-halo-infinite-from-freezing-effective-fixes-for-pc-players/"><u>Stop Halo Infinite From Freezing - Effective Fixes for PC Players</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Risk of Rain 2 Continuous Crash Woes? Here's How to Fix Them Once and For All
-date: 2024-09-15T18:18:34.401Z
-updated: 2024-09-16T18:26:11.398Z
+date: 2024-10-02T16:28:51.358Z
+updated: 2024-10-03T16:19:06.945Z
 tags:
   - win11
   - win10
@@ -97,34 +97,28 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-35-42.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Right-click**Risk of Rain 2** and select**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-19.jpg)
 
  Steam will replace corrupted game files automatically if it detects any. Relaunch your game to see if it works correctly now. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Run your game in compatibility mode
 
@@ -135,6 +129,13 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 **1)** Right-click the **Risk of Rain 2 icon** , then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-49.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
@@ -164,19 +165,39 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-32-41-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Under**View by** , select**Category.** Then, select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-53-36.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Right-click**Steam** , and then click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-52-47.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
@@ -186,10 +207,16 @@ If your problem still exists, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **8)** Move the backup**steamapps** folder you created before to your current directory location.
@@ -197,16 +224,16 @@ If your problem still exists, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-55-00.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
+<span id="1993654">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After these steps, your game should run without crashing. If you have any questions or suggestions, please feel free to leave a comment below.
@@ -230,5 +257,22 @@ If your problem still exists, go ahead with the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-peek-into-the-heart-of-youtubes-video-operations/"><u>[New] 2024 Approved A Peek Into the Heart of YouTube's Video Operations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-iphone-scaling-images-quickly/"><u>[New] 2024 Approved Mastering iPhone Scaling Images Quickly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-accessing-and-using-srt-audio-on-various-oses/"><u>[New] Accessing and Using SRT Audio on Various OSes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-eye-of-the-tech-giants-leading-screen-capture-apps/"><u>[Updated] Eye of the Tech Giants Leading Screen Capture Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-instant-impact-applying-motion-blur-to-ai-artwork/"><u>2024 Approved Instant Impact Applying Motion Blur to AI Artwork</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-corsair-icue-software-malfunctions-for-windows-1011-users/"><u>Diagnosing and Repairing Corsair iCUE Software Malfunctions for Windows 10/11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-ue4-madness-issue-crashes-during-the-unreal-process-in-outriders/"><u>Fixing the ‘UE4-Madness’ Issue: Crashes During the Unreal Process in Outriders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-sandbox-no-hypervisor-was-found-0xc0351000-error/"><u>How to Fix the Windows Sandbox No Hypervisor Was Found 0XC0351000 Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-graphics-and-performance-in-horizon-zero-dawn-with-these-simple-tweaks/"><u>Improve Graphics and Performance in Horizon Zero Dawn with These Simple Tweaks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-accelerate-office-productivity-with-speech-recognition-word/"><u>In 2024, Accelerate Office Productivity with Speech Recognition (Word)</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-dark-side-of-fallout-4-a-step-by-estep-fix-for-screen-problems/"><u>Mastering The Dark Side of Fallout 4: A Step-by-eStep Fix for Screen Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/rapid-results-overcoming-shader-tweaking-challenges-in-star-wars-battlefront-ii/"><u>Rapid Results: Overcoming Shader Tweaking Challenges in Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-6-pro-techniques-to-resolve-low-fps-issues-in-escape-from-tarkov/"><u>Top 6 Pro-Techniques to Resolve Low FPS Issues in Escape From Tarkov</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-mastered-how-to-stop-xcom-2-from-crashing-on-your-pc/"><u>Troubleshooting Mastered: How to Stop XCOM 2 From Crashing on Your PC</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-a-photo-collage-using-iphoto-for-2024/"><u>Updated How to Make a Photo Collage Using iPhoto for 2024</u></a></li>
+</ul></div>
 

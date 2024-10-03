@@ -1,7 +1,7 @@
 ---
 title: Mastering Latency-Free Performance in OBS Broadcasts and Video Capture Sessions
-date: 2024-09-23T20:24:48.423Z
-updated: 2024-09-28T00:11:46.985Z
+date: 2024-09-30T16:19:01.466Z
+updated: 2024-10-03T16:43:30.521Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check the system requirements
 
  If the frame rate hasn’t been good for you when gaming, one of the first things you should do is to make sure that your computer specs are**above** the minimum system requirements for the games. If your machine is below or just at the requirements, you may need to upgrade your hardware for some games to run smoothly, especially newer games that were released in recent years, as they usually require more advanced computer hardware devices.
@@ -65,6 +58,13 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Close CPU- and bandwidth-intensive services and applications
 
  If there are bandwidth-intensive services and applications, like background downloads, music streaming, or video streaming, running when you’re gaming, please disable them, as their occupation of the network connection resource is likely the culprit to your low FPS in games. The same logic goes with CPU-intensive programs like**Intel Turbo Boost Technology** , so if you have it installed and running, please disable it as well.
@@ -74,19 +74,27 @@ To do so:
 1. Right-click the Windows taskbar and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each resource-hogging application and click **End Task** to close them one by one.  
-![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
-3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
+3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
 
  Then run your game again and see if the FPS dropping issue is fixed. If the problem still remains, please move on to the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Modify your network settings
 
@@ -104,6 +112,13 @@ To do so:
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4.1 Flush your DNS
 
  By flushing your DNS, your DNS cache will be cleared. When your PC needs to access a website, it’ll need to obtain the address from the DNS server again. This may fix the FPS dropping issue if the DNS cache data was invalid or corrupt. Here’s how:
@@ -112,16 +127,17 @@ To do so:
 2. Type**cmd** , then press**Shift** and**Enter** at the same time. If prompted for permission, click**Yes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4.2 Switch to a public DNS server
 
@@ -135,28 +151,8 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -166,13 +162,6 @@ To do so:
  Run your game again to see if the frame rate per second still drops. If the problem still persists, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update graphics card and network card drivers
 
@@ -219,10 +208,10 @@ and your network card manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Modify the Power Mode
@@ -237,19 +226,20 @@ To change the power mode:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Consider hardware upgrade
@@ -279,22 +269,18 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-seeking-authentic-ps2-play-check-out-the-5-best-android-simulators-in-2024/"><u>[New] Seeking Authentic PS2 Play? Check Out the 5 Best Android Simulators, In 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-bridging-the-gap-incorrancing-youtube-links-within-presentation-software/"><u>[Updated] Bridging the Gap Incorrancing YouTube Links Within Presentation Software</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-vanished-videos-watching-youtubes-forgotten-gems-online/"><u>[Updated] Unlocking Vanished Videos Watching YouTube's Forgotten Gems Online</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-essentials-of-image-augmentation-inserting-text-into-images-for-pc-and-mac-users/"><u>2024 Approved The Essentials of Image Augmentation Inserting Text Into Images for PC & Mac Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/arma-3-crash-no-more-discover-the-ultimate-troubleshooting-guide-and-patch-notes-of-2n4/"><u>Arma 3 Crash No More: Discover the Ultimate Troubleshooting Guide and Patch Notes of 2N4</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-eradicate-dead-by-daylights-error-code-8014-and-enjoy-the-game/"><u>Expert Advice: Eradicate Dead by Daylight's Error Code 8014 and Enjoy the Game</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-a78-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A78 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-undetected-astro-a50-headset-in-astro-commander-gameplay/"><u>How to Resolve Undetected Astro A50 Headset in Astro Commander Gameplay</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-dive-into-a-world-of-timelessness-crafting-slow-motion-videos-using-mobile-apps/"><u>In 2024, Dive Into a World of Timelessness Crafting Slow Motion Videos Using Mobile Apps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-tecno-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Tecno</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-nexus-core-systems-single-screen-high-definition-touch/"><u>In 2024, Nexus Core Systems Single Screen, High Definition Touch</u></a></li>
-<li><a href="https://win-able.techidaily.com/lego-star-wars-the-skywalker-saga-crash-solution-and-optimization-tips-for-windows-users/"><u>Lego Star Wars: The Skywalker Saga Crash Solution & Optimization Tips for Windows Users</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/neighbor-discovery/"><u>Neighbor Discovery</u></a></li>
-<li><a href="https://win-able.techidaily.com/revived-solutions-for-overcoming-steam-login-issues/"><u>Revived: Solutions for Overcoming Steam Login Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-issue-when-deathloop-game-crashes-or-stops-responding/"><u>Solving the Issue: When Deathloop Game Crashes or Stops Responding</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-end-battlefront-iis-crashing-problem-on-windows/"><u>Ultimate Troubleshooting Guide: End Battlefront II's Crashing Problem on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/what-to-do-if-your-amd-graphics-driver-app-cant-open/"><u>What to Do If Your AMD Graphics Driver App Can't Open</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-from-raw-footage-to-engaging-content-streamlining-video-edits-on-windows/"><u>[New] 2024 Approved From Raw Footage to Engaging Content Streamlining Video Edits on Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unlocking-bandicams-potential-for-efficient-video-capture-for-2024/"><u>[Updated] Unlocking Bandicam's Potential for Efficient Video Capture for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-to-covert-pc-freezing-and-shutdown-problems/"><u>Comprehensive Solutions to Covert PC Freezing and Shutdown Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-latency-battles-streamlined-gameplay-for-enthusiasts-of-the-elder-scrolls-online-blackwood-chapter/"><u>Conquering Latency Battles: Streamlined Gameplay for Enthusiasts of The Elder Scrolls Online Blackwood Chapter</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enhancing-engagement-essential-video-formats-for-youtube-viewers-for-2024/"><u>Enhancing Engagement Essential Video Formats for YouTube Viewers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-common-problems-with-robocop-rogue-city-when-launched-on-personal-computers/"><u>Fixing Common Problems with RoboCop: Rogue City When Launched on Personal Computers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30i-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30i Bootloader Easily</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-unlocking-the-secrets-to-perfect-zoom-recordings/"><u>In 2024, Unlocking the Secrets to Perfect Zoom Recordings</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-strategies-to-prevent-final-fantasy-xv-from-freezing-or-crashing-on-pc/"><u>Mastering the Fix: Strategies to Prevent Final Fantasy XV From Freezing or Crashing on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigate-clear-skies-solutions-for-sea-of-thieves-persistent-loading-struggles/"><u>Navigate Clear Skies: Solutions for Sea of Thieves Persistent Loading Struggles</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/no-fog-only-clarity-gopro-lens-care-essentials-for-2024/"><u>No Fog, Only Clarity GoPro Lens Care Essentials for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transform-your-snaps-learn-how-to-flip-videos-forward-and-backward-on-snapchat/"><u>Transform Your Snaps: Learn How to Flip Videos Forward and Backward on Snapchat</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-vanishing-act-cutting-duration-on-youtube-for-2024/"><u>Video Vanishing Act Cutting Duration on YouTube for 2024</u></a></li>
 </ul></div>
 

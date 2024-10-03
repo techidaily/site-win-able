@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Corsair iCUE Connectivity Problems on Windows 11 PCs
-date: 2024-09-20T23:33:16.271Z
-updated: 2024-09-28T10:50:59.423Z
+date: 2024-10-02T17:12:58.243Z
+updated: 2024-10-03T17:02:04.553Z
 tags:
   - win11
   - win10
@@ -40,9 +40,23 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-21-50.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-25-23-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click**OK** .
 
@@ -54,16 +68,16 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-27-44.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-29-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Click**OK** .
 
@@ -72,13 +86,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 **7)** Restart your game to test your issue.
 
 If AoE still won’t launch, move on and try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -116,6 +123,13 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-42-26.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click **Age of Empires II** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-15.jpg)
@@ -126,23 +140,9 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Relaunch _AoE2_ to test your issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your game
 
@@ -159,28 +159,15 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-19-32.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-14-21.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Restart **your computer** .
@@ -199,13 +186,6 @@ If the issue continues to occur, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-05-16-1.jpg)
@@ -214,11 +194,25 @@ If the issue continues to occur, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Download Age of empires from Microsoft Store, and reinstall it.
 
 **6)** Try launching AoE 2 to see if this helped.
 
 If your game still won’t load, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for Windows updates
 
@@ -229,10 +223,10 @@ If your game still won’t load, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-20.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
@@ -264,24 +258,24 @@ If your game still won’t load, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-discovering-the-many-forms-of-windows-movie-maker/"><u>[New] 2024 Approved Discovering the Many Forms of Windows Movie Maker</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-key-elements-of-constructive-job-interviews/"><u>[Updated] Key Elements of Constructive Job Interviews</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-in-depth-examination-of-videoshow-24/"><u>2024 Approved In-Depth Examination of VideoShow '24</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-your-gaming-experience-by-resolving-fps-issues-within-outriders/"><u>Boosting Your Gaming Experience by Resolving FPS Issues Within Outriders</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/combat-digital-kidnappers-with-50-mobile-defense-insights-and-updates-on-our-ai-powered-podcast-journey/"><u>Combat Digital Kidnappers with $50 Mobile Defense – Insights & Updates on Our AI-Powered Podcast Journey!</u></a></li>
-<li><a href="https://win-able.techidaily.com/destiny-2s-beyond-light-update-flawlessly-implemented-on-pc-no-more-crashes/"><u>Destiny 2'S Beyond Light Update Flawlessly Implemented on PC - No More Crashes!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-hd-streaming-and-download-weltmeister-der-fussball-wm-201/"><u>FREE HD Streaming & Download - Weltmeister Der Fußball WM 201</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-i-finally-managed-to-start-rocket-league-after-persistent-problems/"><u>How I Finally Managed to Start Rocket League After Persistent Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-vertical-raytracing-interruptions-and-achieve-seamless-performance-on-your-pc/"><u>How to Overcome Vertical Raytracing Interruptions and Achieve Seamless Performance on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-battlenet-launcher-malfunctions-in-windows-operating-systems/"><u>How to Resolve Battlenet Launcher Malfunctions in Windows Operating Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-skies-a-guide-to-using-syma-x8c/"><u>In 2024, Mastering the Skies A Guide to Using Syma X8C</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-honor-70-lite-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Honor 70 Lite 5G FRP</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-level-up-without-interruptions-overcoming-maplestory-crashing-problems-on-windows-10-updated-tips/"><u>Master Level-Up Without Interruptions: Overcoming MapleStory Crashing Problems on Windows 10 (Updated Tips)</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-black-ops-cold-war-error-code-0xc0000005-a-step-by-step-solution/"><u>Overcoming Black Ops Cold War Error Code 0Xc0000005 - A Step-by-Step Solution</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-gaming-awaits-overcoming-the-notorious-arcadegeddon-pc-freezes-and-crashes/"><u>Smooth Gaming Awaits: Overcoming the Notorious Arcadegeddon PC Freezes and Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-fortnite-warzone-stutter-and-lag-issues/"><u>Ultimate Guide: Resolving Fortnite (Warzone) Stutter & Lag Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-thawing-your-frozen-macbook-air/"><u>Ultimate Guide: Thawing Your Frozen MacBook Air</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/which-iphone-video-editor-stands-tall-cameo-vs-filmorago/"><u>Which iPhone Video Editor Stands Tall? Cameo Vs. FilmoraGo</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-key-strategies-for-board-utilization-across-devices-in-zoom/"><u>[New] 2024 Approved Key Strategies for Board Utilization Across Devices in Zoom</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-slice-and-shoot-mastering-the-art-of-food-video/"><u>[New] Slice and Shoot Mastering the Art of Food Video</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-create-a-sports-youtube-channel-on-mac-for-2024/"><u>[Updated] How to Create a Sports YouTube Channel on Mac for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-enhanced-engagement-with-effective-youtube-video-outros-strategies/"><u>[Updated] In 2024, Enhanced Engagement with Effective YouTube Video Outros Strategies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-step-into-success-the-essentials-you-need-to-know-about-fb-stories/"><u>2024 Approved Step Into Success The Essentials You Need to Know About FB Stories</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-preventing-and-correcting-frequent-breakdowns-in-ffxiv-on-windows-machines/"><u>Expert Advice: Preventing and Correcting Frequent Breakdowns in FFXIV on Windows Machines</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-f1-202n-from-crashing-on-your-computer/"><u>Fixing the Issue: How to Stop F1 202N From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-a-frozen-minecraft-game-for-smooth-playback/"><u>How to Fix a Frozen Minecraft Game for Smooth Playback</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-chrome-performance-reducing-high-cpu-usage-issues/"><u>Optimizing Chrome Performance: Reducing High CPU Usage Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-format-required-first-how-to-prepare-your-hard-drive/"><u>Overcoming 'Format Required First': How To Prepare Your Hard Drive</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-total-war-three-kingdoms-gameplay-interruptions-with-these-hacks/"><u>Solve Your Total War: Three Kingdoms Gameplay Interruptions with These Hacks</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-successfully-start-team-fortress-2-after-a-glitch/"><u>Steps to Successfully Start Team Fortress 2 After a Glitch</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlined-tactics-for-scrolling-through-popular-youtube-reactions-for-2024/"><u>Streamlined Tactics for Scrolling Through Popular YouTube Reactions for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-games-to-load-faster-with-models/"><u>Tailoring Games to Load Faster with Models</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-dev-error-6034-on-pc-and-xbox-in-call-of-duty-modern-warfare/"><u>Troubleshooting Guide: Resolving Dev Error 6034 on PC and Xbox in Call of Duty: Modern Warfare</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-restore-your-outlook-internet-links/"><u>Troubleshooting Steps to Restore Your Outlook Internet Links</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-modern-warfare-3-mw3-game-doesnt-open-error-fixes/"><u>Troubleshooting Steps: 'Modern Warfare 3 (MW3)' Game Doesn't Open Error Fixes</u></a></li>
 </ul></div>
 

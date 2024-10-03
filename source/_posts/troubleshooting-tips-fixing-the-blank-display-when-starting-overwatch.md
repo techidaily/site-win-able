@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Fixing the Blank Display when Starting Overwatch"
-date: 2024-09-20T18:20:30.588Z
-updated: 2024-09-28T09:00:16.562Z
+date: 2024-09-27T16:57:39.991Z
+updated: 2024-10-03T16:32:37.102Z
 tags:
   - win11
   - win10
@@ -53,10 +53,10 @@ If you still have the issue, you can try the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 Turn off Discord Overlay and Hardware Acceleration
@@ -76,6 +76,13 @@ If you still have the issue, you can try the next fix.
 Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 Allow FIFA 19 to run through the Firewall
 
@@ -107,6 +114,19 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged driver to automatically download the correct version of this driver, and then you can manually install it (you can do this with the FREE version).
 
 OR
@@ -115,13 +135,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 4) Restart your computer for the changes to take effect.
@@ -129,6 +142,13 @@ OR
  If updating drivers fails to solve your FIFA 19 crashing issue, there might be some configuration problems. You can go on and try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 Rollback to DirectX11
 
@@ -148,13 +168,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Under the**Manage 3D settings** tab, click**Program Settings** .  
   
  Then click**Add** and select your**FIFA 19** exe. program file.  
@@ -165,13 +178,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/force-V-Sync-On.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For AMD users:  
 
  1) Type**Catalyst control center** in the search bar, and press Enter.  
@@ -181,13 +187,6 @@ OR
  Restart your computer and launch FIFA 19 to test the issue. If this annoying issue is still bugging you, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7**Run System File Checker** to repair corrupt files
 
@@ -258,9 +257,29 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.  
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8**Perform a clean boot to check for conflicting programs**
 
@@ -293,10 +312,10 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  Once you find the problematic software, you need to uninstall it to avoid running into the same issue in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 9 Create TileDatalayer and Database folder
@@ -310,22 +329,15 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/power-shell.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re on Windows 11, it will be**Terminal (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Copy the following command and press**Enter** .
 
@@ -360,24 +372,17 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-breathing-life-into-your-phone-the-complete-guide-to-android-audio-customization/"><u>[New] Breathing Life Into Your Phone The Complete Guide to Android Audio Customization</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-elite-gamers-top-picks-best-4k-gaming-screens-for-2024/"><u>[New] Elite Gamers' Top Picks Best 4K Gaming Screens for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-overcoming-obs-fullscreen-issues/"><u>[New] In 2024, Overcoming OBS Fullscreen Issues</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-pro-tips-effortless-video-upload-from-pcmac/"><u>[New] Instagram Pro Tips Effortless Video Upload From PC/Mac</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-10-best-music-video-hits-on-social-media-platform/"><u>[Updated] In 2024, 10 Best Music Video Hits on Social Media Platform</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-30plus-metaverse-quotes-to-inspire-you-include-ar-and-vr/"><u>2024 Approved 30+ Metaverse Quotes to Inspire You [Include AR & VR]</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-battle-of-technical-difficulties-overcome-street-fighter-6-pc-crashes-with-these-proven-fixes/"><u>Beat the Battle of Technical Difficulties - Overcome Street Fighter 6 PC Crashes with These Proven Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-fixing-directx-problems-in-fifa-19-game/"><u>Effective Solutions for Fixing DirectX Problems in FIFA 19 Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-total-war-three-kingdoms-game-freezing-and-crashes/"><u>Effective Solutions for Total War: Three Kingdoms Game Freezing & Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/end-the-nightmare-of-dead-by-daylight-crashing-fix-your-game-now-with-our-2024-tips-and-tricks/"><u>End the Nightmare of Dead by Daylight Crashing - Fix Your Game Now with Our 2024 Tips and Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-diagnosing-and-repairing-devices-with-a-sudden-black-screen-fault/"><u>Expert Advice on Diagnosing and Repairing Devices with a Sudden Black Screen Fault</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-m14-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy M14 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/innovative-ways-to-capture-online-discussions-for-2024/"><u>Innovative Ways to Capture Online Discussions for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/la-noire-availability-confirmed-now-releasing-for-pc-gaming/"><u>L.A. Noire Availability Confirmed: Now Releasing for PC Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/persistent-wwe-2k22-pc-crashes-identifying-the-causes-and-finding-quick-fixes/"><u>Persistent WWE #2K22 PC Crashes - Identifying the Causes and Finding Quick Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-cod-vanguard-error-0x00001338-a-step-by-step-guide-for-pc-gamers/"><u>Solving CoD Vanguard Error 0X00001338: A Step-by-Step Guide for PC Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-palworld-search-error-effective-steps-to-restore-your-sessions/"><u>Solving the PalWorld Search Error: Effective Steps to Restore Your Sessions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/swiftvideo-pro-accelerate-your-android-content/"><u>SwiftVideo Pro Accelerate Your Android Content</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-honor-90-lite-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Honor 90 Lite Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-journey-through-high-dynamic-range-pc-viewing-and-creative-pursuits/"><u>[New] Journey Through High Dynamic Range PC Viewing & Creative Pursuits</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-low-fps-issues-in-outriders/"><u>[SOLVED] Low FPS Issues in Outriders</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-elevating-your-marketing-game-making-impactful-fb-videos-for-2024/"><u>[Updated] Elevating Your Marketing Game Making Impactful FB Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-soaring-with-mi-drone-an-in-depth-4k-study/"><u>2024 Approved Soaring with MI Drone - An In-Depth 4K Study</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-8-speed-boosting-tools-for-android-users/"><u>2024 Approved Top 8 Speed Boosting Tools for Android Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aesthetic-innovations-showcase/"><u>Aesthetic Innovations Showcase</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-why-does-my-nioh-2-keep-crashing-find-out-and-fix-it-here/"><u>Expert Advice: Why Does My Nioh 2 Keep Crashing? Find Out and Fix It Here!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-module-blockage-in-windows-operating-system/"><u>Graphics Module Blockage in Windows Operating System</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/streamline-your-video-watching-experience-with-easy-timestamp-addition-for-2024/"><u>Streamline Your Video Watching Experience with Easy Timestamp Addition for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-solution-correcting-corrupted-gaming-software-data-on-your-desktop-computer/"><u>The Definitive Solution: Correcting Corrupted Gaming Software Data on Your Desktop Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-war-thunders-stability-issues-on-pc-and-console-tips-and-tricks/"><u>Ultimate Fixes for War Thunder's Stability Issues on PC & Console - Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-constant-crashes-in-palworld-on-your-windows-computer/"><u>Ultimate Guide: Resolving Constant Crashes in PalWorld on Your Windows Computer</u></a></li>
 </ul></div>
 

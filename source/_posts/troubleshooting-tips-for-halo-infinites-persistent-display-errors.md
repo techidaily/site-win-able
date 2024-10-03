@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Halo Infinite's Persistent Display Errors
-date: 2024-09-13T18:32:46.306Z
-updated: 2024-09-16T23:42:01.909Z
+date: 2024-09-28T16:40:45.811Z
+updated: 2024-10-03T16:12:22.525Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) **[to check for conflicting programs](https://tools.techidaily.com/drivereasy/download/)**
 9. [**Create TileDatalayer and Database folder**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 Run Origin and FIFA 19 as administrator
 
  If your FIFA 19 keeps giving you the crashing error, the first method you can try is running both Origin and FIFA 19 as Administrator, which allows you to get full access to the game files.
@@ -70,6 +77,13 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 Allow FIFA 19 to run through the Firewall
 
  Temporarily disable your Anti-virus software or add your FIFA 19 as an exception to your third-party antivirus application. (Please consult your antivirus documentation for instructions if you don’t know how to do it.)
@@ -77,6 +91,13 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 Update your device drivers
 
@@ -108,19 +129,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 4) Restart your computer for the changes to take effect.
@@ -130,10 +138,10 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 Rollback to DirectX11
@@ -153,6 +161,13 @@ OR
 2) Right-click on your desktop and select**NVIDIA Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Under the**Manage 3D settings** tab, click**Program Settings** .  
   
@@ -174,13 +189,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7**Run System File Checker** to repair corrupt files
 
  Corrupt system files might be the cause of the FIFA crashing issue. To check if this is your problem and repair it, here is how:
@@ -192,10 +200,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-admin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Copy & paste**sfc /scannow** into the box and hit**Enter** . This takes about 3-5 min.
@@ -277,6 +291,13 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/open-task-manager.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/startup.png)
@@ -291,13 +312,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Once you find the problematic software, you need to uninstall it to avoid running into the same issue in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 9 Create TileDatalayer and Database folder
 
  Some users find creating TileDatalayer and Database folders in Appdata/Local helps solve Fifa 19 crashing issues. Here’s how you can do it by running a single command:
@@ -307,6 +321,13 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  2) Select**Windows Powershell(Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/power-shell.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re on Windows 11, it will be**Terminal (Admin)** .
 
@@ -343,5 +364,17 @@ mkdir Database
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-overcoming-absence-of-color-in-game-recordings/"><u>[New] In 2024, Overcoming Absence of Color in Game Recordings</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-abcs-of-amassing-affection-on-fb-squaring-up-your-video-strategy/"><u>[New] In 2024, The ABC's of Amassing Affection on FB Squaring Up Your Video Strategy</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhance-listening-pleasure-constructing-a-youtube-playlist-for-2024/"><u>Enhance Listening Pleasure Constructing a YouTube Playlist for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-stop-valheim-from-freezingstuttering-in-your-pc-game/"><u>Fixes & Solutions: How to Stop Valheim From Freezing/Stuttering in Your PC Game</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-can-you-view-all-shared-videos-and-photos-on-messenger-for-2024/"><u>How Can You View All Shared Videos And Photos on Messenger for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/"><u>In 2024, Easy Tutorial How to Record and Send Talking Emoji for iPhone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oppo-k11x-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo K11x Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-connection-woes-ensuring-your-astro-a50-works-with-astros-control-room/"><u>Mastering Connection Woes: Ensuring Your Astro A50 Works with Astro's Control Room</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-to-stop-nioh-2-from-crashing-full-version-help-guide/"><u>Step-by-Step Fixes to Stop Nioh 2 From Crashing: Full Version Help Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-cant-start-the-game-check-your-game-files/"><u>Troubleshooting: Can't Start the Game? Check Your Game Files!</u></a></li>
+</ul></div>
 

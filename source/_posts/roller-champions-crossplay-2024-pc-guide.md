@@ -1,7 +1,7 @@
 ---
 title: Roller Champions Crossplay - 2024 PC Guide
-date: 2024-09-13T00:52:41.390Z
-updated: 2024-09-17T00:35:23.141Z
+date: 2024-10-02T16:00:13.709Z
+updated: 2024-10-03T16:40:55.246Z
 tags:
   - win11
   - win10
@@ -46,11 +46,25 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Run Discord as administrator
 
@@ -70,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 
 See if this issue reappears. If not, you have fixed this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
@@ -77,16 +98,10 @@ See if this issue reappears. If not, you have fixed this issue.
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for software interruption
@@ -94,13 +109,6 @@ See if this issue reappears. If not, you have fixed this issue.
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
 
@@ -117,13 +125,6 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
 
@@ -143,13 +144,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 iv. Restart your PC.
 
  2) Download**Discord** from its **[official website](https://discordapp.com/)**  and then install it on your PC.
@@ -159,6 +153,13 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -182,6 +183,13 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
  Hopefully, one of the fixes above can help you resolve this issue. Please leave your comment below if you have any questions.
@@ -202,5 +210,26 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-traps-in-the-web-avoiding-the-snare-of-buying-non-existent-supporters/"><u>[New] 2024 Approved Traps in the Web Avoiding the Snare of Buying Non-Existent Supporters</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-innovative-5-tech-solutions-for-capturing-video-calls/"><u>[Updated] 2024 Approved Innovative 5 Tech Solutions for Capturing Video Calls</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-soundscape-storytelling-at-its-best-for-2024/"><u>[Updated] Soundscape Storytelling at Its Best for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-latest-take-on-the-sony-bd-play-s3700-review/"><u>2024 Approved The Latest Take on the Sony BD PLAY S3700 Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-modern-warfare-3-stops-working-fixing-game-crashes-and-unexpected-closures-quickly/"><u>COD Modern Warfare 3 Stops Working: Fixing Game Crashes and Unexpected Closures Quickly</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-for-solving-steam-cannot-update-cloud-library-issues/"><u>Expert Advice for Solving 'Steam Cannot Update Cloud Library' Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/freeze-thaw-cycles/"><u>Freeze-Thaw Cycles:</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-iphone-13-pro-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T iPhone 13 Pro with 3 Methods</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-churn-memetic-content-for-gif-hub/"><u>In 2024, Churn Memetic Content for GIF Hub</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mactop5/"><u>Macで音楽ダウンロードする簡単なTOP5手順 - 評判の良さとゼロコスト</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-windows-graphics-the-top-9-tools-for-capturing-animation-gifs-for-2024/"><u>Mastering Windows Graphics The Top 9 Tools for Capturing Animation GIFs for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-hassle-update-lenovo-z50-70-drivers/"><u>No Hassle: Update Lenovo Z50-70 Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-network-delays-and-connectivity-errors-in-new-world-effective-solutions/"><u>Overcoming Network Delays and Connectivity Errors in 'New World': Effective Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-performance-hacks-overcoming-sons-of-the-forest-game-freezes-and-crashes/"><u>PC Performance Hacks: Overcoming Sons of the Forest Game Freezes & Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-pc-issues-how-to-stop-enshrouded-games-from-freezing/"><u>Resolving PC Issues: How to Stop Enshrouded Games From Freezing</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-reactivating-spatial-audio-in-your-windows-10-or-11-system/"><u>Troubleshooting Guide: Reactivating Spatial Audio in Your Windows 10 or 11 System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-restoring-default-settings-on-your-samsung-soundbar/"><u>Troubleshooting Tips: Restoring Default Settings on Your Samsung Soundbar</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-cant-i-play-diablo-immortal-on-my-computer-insights-and-expectations/"><u>Why Can't I Play Diablo Immortal on My Computer? Insights & Expectations</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-against-lag-in-battlefield-5-proven-strategies-for-ultimate-flow/"><u>Winning Against Lag in Battlefield 5 - Proven Strategies for Ultimate Flow</u></a></li>
+</ul></div>
 

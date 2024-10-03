@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2019 No More Freezes - The Ultimate Guide to Stable Gameplay
-date: 2024-09-27T05:59:12.023Z
-updated: 2024-09-27T23:58:11.714Z
+date: 2024-09-29T17:12:51.924Z
+updated: 2024-10-03T16:05:50.436Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 7. [**Open the game in windowed mode**](https://tools.techidaily.com/drivereasy/download/)
 8. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1\. Check your PC specs
 
  Make sure you’re playing Football Manager 2022 in a 64-bit processor and operating system. If you’re on a 32-bit system, it’s recommended to upgrade your system and perhaps your device.
@@ -53,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
  Or you can uninstall your antivirus temporarily (note that disabling it won’t work) and be very careful about the websites you’re visiting.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3\. Update your graphics driver
 
  If you are using the wrong or outdated graphics driver, it can cause launch issues especially in new game titles such as Football Manager 2022\. So, it is recommended to keep your graphics driver up to date. The updated driver should solve the crashing at launch issues and it can also help to boost up the overall game’s performance.
@@ -74,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
@@ -100,13 +100,26 @@ After updating your drivers, restart your PC and test the gameplay.
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once complete, launch the game to check if your game is working again.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5\. Delete the Caches and Preferences folder
 
@@ -118,13 +131,6 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-8-1200x758.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Navigate to **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** and then delete the**Caches** and**Preferences** folder.
 
 ### Fix 6\. Run the game executable file as admin
@@ -134,13 +140,6 @@ Once complete, launch the game to check if your game is working again.
  1) Right-click **Football Manager 2021** from the game list and click **Properties** .
 
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Select **Local Files** and then**Browse local files** .
 
@@ -158,14 +157,14 @@ Once complete, launch the game to check if your game is working again.
  2) In the **GENERAL** tab, uncheck **Enable the Steam Overlay while in-game** and type **\-windowed** under **LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch your Football Manager 2022 to check if your launch issues have been resolved successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8\. Repair your system files
 
@@ -197,6 +196,13 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Option 2 – Manually
 
  To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your data.
@@ -210,10 +216,10 @@ Once complete, launch the game to check if your game is working again.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
@@ -283,22 +289,14 @@ Feel free to drop us a line if you have any suggestions or questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortlessly-download-your-favorite-youtube-playlists/"><u>[New] 2024 Approved Effortlessly Download Your Favorite YouTube Playlists</u></a></li>
-<li><a href="https://win-able.techidaily.com/baldurs-gate-iii-on-pc-troubleshooting-guide-to-prevent-crashes/"><u>Baldur's Gate III on PC: Troubleshooting Guide to Prevent Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquering-the-ranks-how-to-secure-highest-firepower-upgrades-in-mass-effect-legendary-edition/"><u>Conquering the Ranks: How to Secure Highest Firepower Upgrades in Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/detective-in-la-noire-finally-on-your-pc-solving-past-compatibility-problems/"><u>Detective in LA Noire Finally on Your PC - Solving Past Compatibility Problems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/fbm-transcripts-how-to-get-and-use-complete-records/"><u>FBM Transcripts How to Get and Use Complete Records</u></a></li>
-<li><a href="https://driver-error.techidaily.com/from-chaos-to-calm-graphic-driver-reinstall-successful/"><u>From Chaos to Calm: Graphic Driver Reinstall Successful</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004562049-hell-let-loose-pc-compatibility-optimized-ensuring-smooth-gaming-experience/"><u>Hell Let Loose PC Compatibility Optimized: Ensuring Smooth Gaming Experience!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo Y200? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-v29e-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo V29e</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-capturing-purity-best-sound-for-podcasts/"><u>In 2024, Capturing Purity Best Sound for Podcasts</u></a></li>
-<li><a href="https://win-able.techidaily.com/nba-2k21-fix-stop-the-game-from-freezing-or-crashing-on-your-windows-pc/"><u>NBA 2K21 Fix: Stop the Game From Freezing or Crashing on Your Windows PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/origin-authentication-portal-functioning-log-in-resumed/"><u>Origin Authentication Portal Functioning – Log In Resumed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-y100i-power-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo Y100i Power 5G Phones</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-starting-pathfinder-wrath-of-the-righteous-heres-how-to-fix-it/"><u>Trouble Starting Pathfinder: Wrath of the Righteous? Here's How to Fix It</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solutions-for-last-epoch-system-failures-on-pcs-2024-update/"><u>Ultimate Solutions for 'Last Epoch' System Failures on PCs - 2024 Update</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-asus-rog-phone-8-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Asus ROG Phone 8 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-sj7-4k-star-camera-an-in-depth-look-at-the-latest-action-tech/"><u>[Updated] In 2024, SJ7 4K Star Camera An In-Depth Look at the Latest Action Tech</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-ideal-choices-priority-6-fb-lite-vids/"><u>In 2024, Ideal Choices Priority 6 FB Lite Vids</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maintaining-smooth-operation-updating-your-hid-conformant-mouses-device-driver/"><u>Maintaining Smooth Operation: Updating Your HID-Conformant Mouse's Device Driver</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-warcraft-3-reforged-issues-top-solutions-for-a-smooth-gameplay-experience-in-202/"><u>Overcoming Warcraft 3 Reforged Issues: Top Solutions for a Smooth Gameplay Experience in 202</u></a></li>
+<li><a href="https://win-able.techidaily.com/razer-synapse-troubleshooting-how-to-solve-not-opening-problem/"><u>Razer Synapse Troubleshooting: How To Solve Not Opening Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/simplified-fixes-for-common-javascript-glitches-on-discord-platform/"><u>Simplified Fixes for Common JavaScript Glitches on Discord Platform</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-impactful-arrival-apples-new-cpu-shakes-up-macbook-pro-13-model-for-2020-m1/"><u>The Impactful Arrival: Apple's New CPU Shakes Up MacBook Pro 13 Model for 2020 (M1)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/waterproof-wonders-unveiling-freezes-latest-sport-cooling-device-with-superior-active-cooling-perfect-for-subaqueous-fun/"><u>Waterproof Wonders: Unveiling Freeze's Latest Sport Cooling Device with Superior Active Cooling - Perfect for Subaqueous Fun</u></a></li>
+<li><a href="https://win-able.techidaily.com/xbox-one-users-netflix-is-now-functional-after-fixes/"><u>Xbox One Users: Netflix Is Now Functional After Fixes!</u></a></li>
 </ul></div>
 

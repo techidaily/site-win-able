@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Sniper Rounds and Weaponry Now Available in Cod: MW FPS Drop!"
-date: 2024-09-26T09:32:40.692Z
-updated: 2024-09-28T07:13:53.461Z
+date: 2024-09-27T16:11:42.723Z
+updated: 2024-10-03T17:01:47.413Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
@@ -59,14 +59,14 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
-If it’s not working, move to next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If it’s not working, move to next fix.
 
 ### Fix 2: Disable overclocking
 
@@ -109,14 +109,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -132,13 +139,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -166,14 +166,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-instagram-stories-your-complete-guide/"><u>[New] In 2024, Mastering Instagram Stories Your Complete Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-boost-achieve-youtube-affiliate-milestone-with-10k-vistas/"><u>[Updated] In 2024, Channel Boost Achieve YouTube Affiliate Milestone with 10K Vistas</u></a></li>
-<li><a href="https://article-tips.techidaily.com/drift-through-darkness-a-cam-review-for-2024/"><u>Drift Through Darkness A CAM Review for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-fallout-4s-black-screen-glitch-with-easy-fixes/"><u>Overcome Fallout 4'S Black Screen Glitch with Easy Fixes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-obs-issues-why-its-no-longer-failing-to-record-screen/"><u>Overcome OBS Issues: Why It's No Longer Failing to Record Screen</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solution-how-to-overcome-fortnites-stubborn-loading-barrier/"><u>Quick Solution: How to Overcome Fortnite's Stubborn Loading Barrier</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-not-delivered-errors-in-ios-messaging-a-guide/"><u>Resolving 'Not Delivered' Errors in iOS Messaging - A Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-ps4-system-freezes-a-comprehensive-walkthrough/"><u>Ultimate Guide: Resolving PS4 System Freezes – A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unboxing-high-fidelity-gaming-recorders-for-2024/"><u>Unboxing High-Fidelity Gaming Recorders for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-9-free-video-channel-logomakers-showcase-reviewed/"><u>[New] 2024 Approved Top 9 Free Video Channel Logomakers Showcase Reviewed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-premium-listing-high-performing-15-camcorders-for-2024/"><u>[New] Premium Listing High-Performing 15 Camcorders for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-investigating-the-crop-code-in-imovie/"><u>[Updated] Investigating the Crop Code in iMovie</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/core-aspects-of-stories/"><u>Core Aspects of Stories</u></a></li>
+<li><a href="https://win-able.techidaily.com/cure-your-csgo-login-woes-5-effective-remedies-for-no-user-logon-error/"><u>Cure Your CSGO Login Woes: 5 Effective Remedies for ‘No User Logon’ Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/dayz-first-person-shooter-instant-fixes-for-drop-issues/"><u>DayZ First-Person Shooter: Instant Fixes for Drop Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-overcoming-constant-game-interruptions-dealing-with-madden-nfl-21-pc-crashes/"><u>Effective Solutions for Overcoming Constant Game Interruptions - Dealing with Madden NFL 21 PC Crashes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-storm-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Storm 5G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-asus-rog-phone-7-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Asus ROG Phone 7</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-valorant-errors-corrective-guide-for-uninitialized-vanguard-problem/"><u>Mastering Valorant Errors: Corrective Guide for 'Uninitialized Vanguard' Problem</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/maximize-money-from-youtube-shorts-tactics-and-tricks/"><u>Maximize Money From YouTube Shorts Tactics & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/monster-hunter-stories-2-wings-of-ruin-not-launching-steps-to-successful-boot-up/"><u>Monster Hunter Stories 2: Wings of Ruin Not Launching - Steps to Successful Boot-Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fix-guide-eliminate-unexpected-lol-interruptions-once-and-for-all/"><u>Quick-Fix Guide: Eliminate Unexpected LoL Interruptions Once & For All!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-kodi-streaming-lag-how-to-fix-buffering-problems/"><u>Resolve Kodi Streaming Lag: How to Fix Buffering Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-repeated-crashes-in-age-of-wonders-planetfall-for-pc-gaming-enthusiasts/"><u>Resolving Repeated Crashes in Age of Wonders: Planetfall for PC Gaming Enthusiasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-gta-5-online-not-working-a-comprehensive-guide-to-repairing-your-gameplay/"><u>Solve 'GTA 5 Online Not Working': A Comprehensive Guide to Repairing Your Gameplay</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-tecno-phantom-v-flip-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Tecno Phantom V Flip Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
 

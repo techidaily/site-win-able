@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Getting Genshin Impact Up and Running Again"
-date: 2024-09-09T19:13:48.394Z
-updated: 2024-09-16T19:08:25.423Z
+date: 2024-09-30T16:28:49.931Z
+updated: 2024-10-03T16:45:50.737Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/427fea3c10359a07e4c3e09328df761302c1e6c75
 
  If Genshin Impact crashes on your high-end gaming PC, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Genshin Impact as administrator
 
  Genshin Impact crashing to desktop may indicate a permission issue.**Running Genshin Impact as an administrator** is a possible solution to the crash.
@@ -68,20 +75,14 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-admin-3.jpg)
 4. Run Genshin Impact and see if the crash has gone.
 
- If this fix failed to solve the crash, simply**undo these changes** and move on to the next solution.
-
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If this fix failed to solve the crash, simply**undo these changes** and move on to the next solution.
 
 ### Fix 3: Update your graphics driver
 
@@ -102,6 +103,13 @@ Here’s how:
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Perform a clean boot
 
  According to some users, conflicted programs could be triggering the constant crashes. You should be extra careful if you have system tuning software on your PC (e.g.**Razer Synapse** or**MSI Afterburner** ). To check if that’s your case, you can do a clean boot:
@@ -115,13 +123,6 @@ Here’s how:
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
@@ -150,22 +151,27 @@ Here’s how you can install system updates on Windows 10 or 7:
 1. On your keyboard, press the**Windows logo key** . Select**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates.jpg)
 2. Select**System and Security** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-3.jpg)
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-4.jpg)
 4. Click**Install updates** . It’ll take a while (up to 1 hour) for Windows to install all the updates.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
- After installing all the system updates, restart your PC and test the gameplay with Genshin Impact.
-
- If this method doesn’t solve your case, simply check out the next one.
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-5.jpg)
 
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
@@ -173,6 +179,10 @@ Here’s how you can install system updates on Windows 10 or 7:
 </a>
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After installing all the system updates, restart your PC and test the gameplay with Genshin Impact.
+
+ If this method doesn’t solve your case, simply check out the next one.
 
 ### Fix 6: Change in-game resolution
 
@@ -186,13 +196,6 @@ And here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-change-resolute-2.jpg)
 3. Continue your game and see if it stops crashing.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method doesn’t do the trick for you, simply try the next one below.
 
 ### Fix 7: Lower in-game graphics settings
@@ -204,6 +207,13 @@ And just for your reference, here’s my graphics settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-my-settings-1200x648.jpg)
 
  If the crash persists when you’re playing on the lowest graphics, you can check out the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Run Genshin Impact on another GPU
 
@@ -224,6 +234,14 @@ And just for your reference, here’s my graphics settings:
 3. Click**Browse** to specify the file location of the Genshin Impact launcher.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-3.jpg)
 4. Click**Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. Select**Power saving** and click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-5.jpg)
@@ -261,5 +279,26 @@ Now you can launch Genshin Impact and see if it stops crashing.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-simple-guide-transforming-fb-videos-into-720p1080p-mp4-format-free-for-2024/"><u>[Updated] Simple Guide Transforming FB Videos Into 720P/1080p MP4 Format (Free) for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-easy-way-capture-your-minecraft-moments-with-these-simple-mac-tips-for-2024/"><u>[Updated] The Easy Way Capture Your Minecraft Moments with These Simple Mac Tips for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-the-power-of-split-window-on-netflix-platform/"><u>2024 Approved Unleash the Power of Split Window on Netflix Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-the-gaps-7-requests-chatgpt-cannot-fulfill-or-interpret/"><u>Discovering the Gaps: 7 Requests ChatGPT Cannot Fulfill or Interpret</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-fall-guys-not-launching-and-continuous-crashing-problems/"><u>Effective Solutions for Fall Guys Not Launching and Continuous Crashing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723014137978-expert-advice-why-does-my-nioh-2-keep-crashing-find-out-and-fix-it-here/"><u>Expert Advice: Why Does My Nioh 2 Keep Crashing? Find Out and Fix It Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/granblue-fantasy-link-troubles-heres-how-to-get-back-into-the-action/"><u>Granblue Fantasy Link Troubles? Here’s How to Get Back Into the Action!</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-realme-11x-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme 11X 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-f5-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-xiaomi-13t-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Xiaomi 13T and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-gaming-steering-wheel-installable-drivers-for-windows-os-versions-7-8-and-10/"><u>Logitech Gaming Steering Wheel: Installable Drivers for Windows OS Versions 7, 8 & 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-pauses-seamless-play-through-pathfinders-wrath-of-the-righteous-on-your-desktop/"><u>No More Pauses - Seamless Play Through Pathfinder's Wrath of the Righteous on Your Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-in-fifa-21-expert-tips-and-tricks/"><u>Overcoming Launch Errors in FIFA 21 – Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resident-evil-village-pc-performance-issues-resolved-understanding-the-frame-rate-drop/"><u>Resident Evil Village PC Performance Issues Resolved: Understanding the Frame Rate Drop</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-fortnite-latency-expert-fixes-for-optimal-playtime-experience/"><u>Say Goodbye to Fortnite Latency - Expert Fixes for Optimal Playtime Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-why-rainbow-six-siege-keeps-failing-to-start/"><u>Solving the Issue: Why Rainbow Six Siege Keeps Failing to Start</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-perfect-blend-of-tech-joining-airpods-and-your-hp-notebook-seamlessly/"><u>The Perfect Blend of Tech: Joining AirPods and Your HP Notebook Seamlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-techniques-for-maximizing-ark-sanctuarys-pc-gameplay-fps-enhancement-guide/"><u>Top Techniques for Maximizing ARK: Sanctuary's PC Gameplay - FPS Enhancement Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007172855-troubled-with-ffxiv-verification-solve-your-version-check-dilemma-today/"><u>Troubled with FFXIV Verification? Solve Your Version Check Dilemma Today!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving Splitgate Performance Issues: Increase Your FPS & Eliminate Stutter"
-date: 2024-09-21T06:29:54.752Z
-updated: 2024-09-27T18:19:37.286Z
+date: 2024-09-30T16:23:23.923Z
+updated: 2024-10-03T16:06:14.859Z
 tags:
   - win11
   - win10
@@ -44,6 +44,14 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
@@ -64,25 +72,26 @@ If this fix doesn’t help you, take a look at the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . (If you don’t see this power plan, simply continue to the next step to unhide it.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
@@ -118,6 +127,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -133,13 +149,6 @@ If the latest driver doesn’t help you, check out the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/valorant-report-rate.jpg)
 
  If this fix doesn’t give you luck, simply continue to the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Turn on VSync
 
@@ -158,10 +167,10 @@ This method may require a basic level of computer knowledge.
 2. In Resource Monitor, navigate to the**Memory** tab. In the**Physical Memory** section, you’ll see the current memory usage. Check if**Standby Memory** is taking up too much of your total RAM.![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. You can empty the standby memory manually.  
@@ -181,61 +190,57 @@ This method may require a basic level of computer knowledge.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/taskschd.msc_.jpg)
 4. In the right pane, select**Create Task** .  
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-1.jpg)
 5. In the**Name** section, type or paste**Empty Standby Memory** . Then click**Change User or Group.** …  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-3.jpg)
 6. In the pop-up window, click**Advanced…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-4.jpg)
 7. Click**Find Now** . In the search results, select**SYSTEM** . Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-5.jpg)
 8. Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-6-2.jpg)
 9. Navigate to the**Actions** tab, click**New…** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-7.jpg)
 10. Browse and select the**EmptyStandbyList.exe** program. Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-8.jpg)
 11. Then navigate to the**Triggers** tab, click**New..** ..  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Under the**Advanced settings** , set**Repeat task** to**every 10 minutes** . Set**for a duration of** to**Indefinitely** .  
  Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-9.jpg)
 12. After finishing the setup, you can select**Task Scheduler Library** in the left pane to view the pending tasks.  
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-10.jpg)
 
 ---
@@ -259,21 +264,24 @@ This method may require a basic level of computer knowledge.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-affordable-techniques-to-enhance-written-content-with-media/"><u>[Updated] In 2024, Affordable Techniques to Enhance Written Content with Media</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tackling-windows-files-swiftly-and-smartly/"><u>2024 Approved Tackling Windows Files Swiftly and Smartly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/effortless-approach-perfecting-time-lapses-using-samsungs/"><u>Effortless Approach Perfecting Time-Lapses Using Samsungs</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-diagnosing-and-correcting-playstation-4-stalling-issues/"><u>Expert Tips for Diagnosing & Correcting PlayStation 4 Stalling Issues</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-realme-12-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Realme 12 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-download-torrents-step-by-step/"><u>How to Download Torrents Step by Step</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-causes-of-instability-and-crashes-in-persona-5-strikers-for-your-computer/"><u>How to Fix Causes of Instability and Crashes in Persona 5 Strikers for Your Computer</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-12-proplus-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 12 Pro+ 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-use-the-background-eraser-tool-in-photoshop-detailed-guide/"><u>How To Use The Background Eraser Tool In Photoshop Detailed Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-fix-for-stop-0x0000005c-boot-issues-in-windows/"><u>Mastering the Fix for STOP 0X0000005C Boot Issues in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/microbes-decompose-organic-matter-fix-atmospheric-nitrogen-and-help-suppress-plant-diseases-contributing-to-a-cycle-of-nutrients-and-maintaining-soil-health433/"><u>Microbes Decompose Organic Matter, Fix Atmospheric Nitrogen, and Help Suppress Plant Diseases, Contributing to a Cycle of Nutrients and Maintaining Soil Health</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-logitech-c920-webcam-malfunctions-a-step-by-step-guide/"><u>Overcoming Logitech C920 Webcam Malfunctions: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reinstall-visual-interface-software/"><u>Reinstall Visual Interface Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-why-does-samurai-warrior-5-continuously-crash-on-windows-platforms/"><u>Solved: Why Does Samurai Warrior 5 Continuously Crash on Windows Platforms?</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722988458294-troubleshooting-dying-light-sounds-ultimate-solutions-unveiled/"><u>Troubleshooting Dying Light Sounds: Ultimate Solutions Unveiled</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-failed-connections-in-kodi-overcoming-the-directory-info-retrieval-error/"><u>Troubleshooting Failed Connections in Kodi: Overcoming the 'Directory Info Retrieval Error'</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-youtube-to-avi-perfect-conversion-tools-revealed/"><u>[New] In 2024, From YouTube to AVI Perfect Conversion Tools Revealed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-ad-profits-unveiled-how-much-do-creators-make-on-youtube/"><u>[Updated] 2024 Approved Ad Profits Unveiled How Much Do Creators Make on Youtube?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enhance-your-tv-experience-mastering-fb-live-and-roku/"><u>[Updated] Enhance Your TV Experience Mastering FB Live and Roku</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-top-5-methods-for-transforming-avi-files-into-mp4-format-on-your-mac/"><u>1. Top 5 Methods for Transforming AVI Files Into MP4 Format on Your Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997530655-crack-the-code-on-counter-strike-global-offensive-warzone-bug-6328-for-an-unstoppable-gaming-experience/"><u>Crack the Code on Counter-Strike: Global Offensive Warzone Bug #6328 for an Unstoppable Gaming Experience!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-latest-in-video-compression-technology-with-these-46-new-tools-for-2024/"><u>Explore the Latest in Video Compression Technology with These 46 New Tools for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-game-instantly-resolve-apex-legends-wont-load/"><u>Fix Your Game: Instantly Resolve 'Apex Legends Won't Load'</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-r-type-final-2-continuous-pc-crash-issues-solutions-inside/"><u>Fixes for R-Type Final 2 Continuous PC Crash Issues - Solutions Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-enhance-performance-and-stop-manor-lords-from-freezing/"><u>How to Enhance Performance and Stop Manor Lords From Freezing</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-pubg-no-sound-issues/"><u>How to Fix PUBG No Sound Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-s24-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy S24 Phone When You Forget the Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashes-in-sea-of-thieves-your-complete-solution/"><u>No More Crashes in Sea of Thieves – Your Complete Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-ubisoft-connect-malfunctions-top-solutions-of-2024/"><u>Overcoming Ubisoft Connect Malfunctions - Top Solutions of 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-at-home-workflows-with-these-six-powerful-uses-of-chatgpt-for-productivity/"><u>Revolutionize Your At-Home Workflows with These Six Powerful Uses of ChatGPT for Productivity</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-pc-fails-in-elex-ii-comprehensive-solutions-and-hacks/"><u>Stop PC Fails in Elex II: Comprehensive Solutions and Hacks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/uninterrupted-entertainment-with-our-12-live-networks-for-2024/"><u>Uninterrupted Entertainment with Our 12 Live Networks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-the-secrets-to-getting-farming-simulator-22-running-smoothly-again/"><u>Unlocking the Secrets to Getting Farming Simulator 22 Running Smoothly Again</u></a></li>
 </ul></div>
 

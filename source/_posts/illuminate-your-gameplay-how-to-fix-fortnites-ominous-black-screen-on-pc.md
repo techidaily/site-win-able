@@ -1,7 +1,7 @@
 ---
 title: "Illuminate Your Gameplay: How to Fix Fortnite's Ominous Black Screen on PC"
-date: 2024-09-12T00:02:01.588Z
-updated: 2024-09-16T19:21:56.404Z
+date: 2024-09-27T16:47:02.982Z
+updated: 2024-10-03T17:08:00.820Z
 tags:
   - win11
   - win10
@@ -58,6 +58,20 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 2. In Display settings, scroll down the page and select**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings.jpg)
 3. Click**Browse** to add the executable file of Minecraft.  
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/browse.jpg)
 4. Then click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Minecraft-options-1.jpg)
@@ -71,13 +85,6 @@ If this solution doesn’t help, continue with the next fix below.
 ## Fix 2: Update your graphics driver
 
  Minecraft is a graphics-intensive game, so your graphics card is essential for its performance. You cannot have an outdated or faulty driver on your graphics card since this is usually what causes stuttering in Minecraft. To update your graphics driver, there are two ways you can try: manually and automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -93,6 +100,13 @@ If this solution doesn’t help, continue with the next fix below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -113,13 +127,6 @@ If the stuttering issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/options.jpg)
 3. Click**Video Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/video-settings.jpg)
 4. Lower the**Render distance** according to your need.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/render-distance-1.jpg)
@@ -127,13 +134,6 @@ If the stuttering issue persists, move on to the next fix.
 This should give you a better game experience.
 
 But if it doesn’t, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Enable VSync
 
@@ -145,29 +145,6 @@ But if it doesn’t, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-control-panel.jpg)
 2. In the left panel, select**Manage 3D Settings** , then click the dropdown menu next to**Vertical sync** and select**On** . Click**Apply** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-on-vsync.jpg)
-
-### Via AMD Radeon Settings
-
-1. Right-click your desktop and select**AMD Radeon Settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/amdradeon-settings.jpg)
-2. Click the**Gaming** Tab.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-gaming-1.jpg)
-3. Then click**Global Settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-global-settings-1.jpg)
-4. Click**Wait for Vertical Refresh** , then select**Enhanced Sync** from the dropdown menu.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/enhanced-sync-1.jpg)
-
- After you’ve done these, relaunch Minecraft to check if the stuttering persists.
-
-If enabling Vsync didn’t do the trick, proceed to the next fix.
-
-## Fix 5: Turn off threaded optimization
-
- Threaded optimization is a setting in NVIDIA Control Panel that controls the use of multithreaded optimization for all 3D games on systems with multi-core/HyperThreaded CPUs. Most new games perform better with threaded optimization enabled. However, some gamers reported that they fixed the stuttering issue in Minecraft by turning off threaded optimization. You can give it a shot. To do so:
-
-1. Right-click your desktop and select**NVIDIA Control Panel** from the menu.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-control-panel.jpg)
-2. In the left panel, click**Manage 3D settings** , navigate to the**Program Settings** tab, and select**Minecraft Launcher.exe** from the first dropdown menu.  
 
 <!-- affiliate ads begin -->
 <span id="1975503">
@@ -182,8 +159,46 @@ If enabling Vsync didn’t do the trick, proceed to the next fix.
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+### Via AMD Radeon Settings
+
+1. Right-click your desktop and select**AMD Radeon Settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/amdradeon-settings.jpg)
+2. Click the**Gaming** Tab.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-gaming-1.jpg)
+3. Then click**Global Settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-global-settings-1.jpg)
+4. Click**Wait for Vertical Refresh** , then select**Enhanced Sync** from the dropdown menu.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/enhanced-sync-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ After you’ve done these, relaunch Minecraft to check if the stuttering persists.
+
+If enabling Vsync didn’t do the trick, proceed to the next fix.
+
+## Fix 5: Turn off threaded optimization
+
+ Threaded optimization is a setting in NVIDIA Control Panel that controls the use of multithreaded optimization for all 3D games on systems with multi-core/HyperThreaded CPUs. Most new games perform better with threaded optimization enabled. However, some gamers reported that they fixed the stuttering issue in Minecraft by turning off threaded optimization. You can give it a shot. To do so:
+
+1. Right-click your desktop and select**NVIDIA Control Panel** from the menu.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-control-panel.jpg)
+2. In the left panel, click**Manage 3D settings** , navigate to the**Program Settings** tab, and select**Minecraft Launcher.exe** from the first dropdown menu.  
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step1.jpg)
 3. Scroll down to the bottom of the list and find the**Threaded optimization** , then click the dropdown menu next to it and**change the value from Auto to Off** . Click**Apply** to save changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
 
 After doing so, restart Minecraft and check if the problem is resolved.
@@ -199,8 +214,24 @@ If the stuttering issue remains, try the next fix.
 2. Click the**three dots** button next to Minecraft, then select**Edit** from the dropdown menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/edit.jpg)
 3. Click**MORE OPTIONS** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/more-options.jpg)
 4. Under the**JVM ARGUMENTS** section, there’s a line of text. **Change the amount of RAM that Minecraft can utilize after Xmx** (for example, Xmx4G means Minecraft is allowed to use 4GB RAM). Then click**Save** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/4g-save.jpg)
 
 Launch Minecraft and see if this helps fix the stuttering.
@@ -214,10 +245,10 @@ If this solution doesn’t work, take a look at the next fix.
  If the stuttering issue remains after uninstalling OptiFine, check out the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 8: Reinstall Minecraft
@@ -243,5 +274,22 @@ If this solution doesn’t work, take a look at the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unleash-creativity-with-youtube-studio-editor/"><u>[Updated] In 2024, Unleash Creativity with YouTube Studio Editor</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-elevate-views-and-subscribers-a-list-of-proven-youtube-techniques/"><u>2024 Approved Elevate Views and Subscribers A List of Proven YouTube Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoiding-crashes-strategies-for-a-stable-sovled-warno-experience-on-pcs/"><u>Avoiding Crashes: Strategies for a Stable SOVLED Warno Experience on PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011950320-crusader-kings-2-not-loading-properly-heres-what-to-do/"><u>Crusader Kings 2 Not Loading Properly? Here's What To Do</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cybersecurity-evolution-unveiling-the-top-7-future-strategies-and-projections/"><u>Cybersecurity Evolution: Unveiling the Top 7 Future Strategies & Projections</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-to-tackle-armored-core-n-6-on-pc-dealing-with-the-rubicon-debacle/"><u>Effective Fixes to Tackle Armored Core N 6 on PC – Dealing with The Rubicon Debacle</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-honor-magic-6-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor Magic 6 Pro Phone Screen?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correctly-launch-your-adobe-software-after-fixing-the-crash-mistake-0xc0000022/"><u>How to Correctly Launch Your Adobe Software After Fixing the Crash (Mistake #0xC0000022)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to Find iSpoofer Pro Activation Key On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-x90s-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo X90S Phones? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/optimizing-googles-automatic-speech-recognition-features-for-2024/"><u>Optimizing Google's Automatic Speech Recognition Features for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-halo-infinity-connectivity-problem-server-failed-to-respond-with-a-ping/"><u>Step-by-Step Solution for Halo Infinity Connectivity Problem: ‘Server Failed To Respond With A Ping’</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722980330154-troubleshoot-and-resolve-pc-issues-in-assassins-creed-odyssey-no-sweat/"><u>Troubleshoot and Resolve PC Issues in Assassin's Creed Odyssey - No Sweat!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-monster-hunter-rise-doesnt-start-properly/"><u>Troubleshooting Steps When Monster Hunter Rise Doesn't Start Properly</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The 2024 Playbook: Optimizing Discord to Lower High CPU Demands"
-date: 2024-09-15T20:40:47.819Z
-updated: 2024-09-16T16:41:07.075Z
+date: 2024-10-02T16:41:43.545Z
+updated: 2024-10-03T16:51:43.666Z
 tags:
   - win11
   - win10
@@ -70,6 +70,13 @@ If this didn’t help in resolving your problem, try the fix below.
 
  You can hopefully run the game without crashing now. If the problem still exists, then go ahead with the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: **Update your graphics driver**
 
  One of the most common causes of the_Terraria_ crashing issue is a faulty or outdated graphics driver.
@@ -86,29 +93,9 @@ If this didn’t help in resolving your problem, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -118,6 +105,13 @@ If this didn’t help in resolving your problem, try the fix below.
 **4)** Relaunch your game to test your issue.
 
  If_Terraria_ still crashes, then go ahead with the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of your game files
 
@@ -129,6 +123,13 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click**Terraria** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-251.png)
@@ -136,13 +137,6 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-252.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Relaunch your game to see if your problem has been resolved.
 
@@ -156,6 +150,13 @@ If not, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-253.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-254.png)
@@ -164,11 +165,25 @@ If not, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-255.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Relaunch your game to check if your issue had been resolved.
 
  If your game crashes again under Windows 8 mode, repeat **steps 1 – 3** and select **Windows 7**  from the list box.
 
 If this didn’t work for you, check the fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall your game and/or Steam
 
@@ -191,13 +206,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-257.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Download and install _Terraria_  again.
 
  Now, relaunch your game to check if this has fixed your issue. If not, you’ll need to reinstall Steam as well.
@@ -207,6 +215,19 @@ If this didn’t work for you, check the fix, below.
 **1)** Right-click the Steam icon and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
@@ -224,16 +245,16 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
@@ -274,5 +295,23 @@ If this didn’t work for you, check the fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-captivating-crafting-writing-intriguing-youtube-descriptions-with-templates/"><u>[Updated] 2024 Approved Captivating Crafting Writing Intriguing Youtube Descriptions with Templates</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-how-to-record-screen-with-ultra-screen-recorder/"><u>[Updated] In 2024, How to Record Screen With Ultra Screen Recorder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-screen-to-air-assessing-obs-and-twitch-studios-features/"><u>2024 Approved Screen to Air Assessing OBS and Twitch Studio's Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-liberation-what-are-chatgpt-jailbreaks-and-how-should-you-handle-them/"><u>AI Liberation: What Are ChatGPT Jailbreaks and How Should You Handle Them?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-github-dialogues-with-enhanced-chatgpt-use/"><u>Cutting-Edge Github Dialogues with Enhanced ChatGPT Use</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/enhance-and-resize-videos-using-gpu-power-discover-the-advanced-features-of-winx-deluxe-video-converter-hd/"><u>Enhance and Resize Videos Using GPU Power - Discover the Advanced Features of WinX Deluxe Video Converter HD</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-getting-your-windows-11-taskbar-back-in-action/"><u>Expert Tips for Getting Your Windows 11 Taskbar Back in Action</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-the-stubborn-chatgpt-access-hurdles-a-comprehensive-guide/"><u>Fixing the Stubborn ChatGPT Access Hurdles: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/fortify-login-process-with-instagrams-whatsapp-verification-code/"><u>Fortify Login Process with Instagram's WhatsApp Verification Code</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-how-to-use-youcam-webcam-recorder/"><u>In 2024, How to Use YouCam Webcam Recorder</u></a></li>
+<li><a href="https://win-able.techidaily.com/inside-look-the-reason-behind-elden-rings-missing-launch-date/"><u>Inside Look: The Reason Behind Elden Ring's Missing Launch Date</u></a></li>
+<li><a href="https://win-able.techidaily.com/oxygen-not-included-stability-improvements-addressing-the-crash-problems/"><u>Oxygen Not Included Stability Improvements: Addressing the Crash Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-infinite-startup-issues-in-sea-of-thieves-a-step-by-step-solution/"><u>Resolving Infinite Startup Issues in Sea of Thieves - A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-blue-screen-of-death-in-helldivers-2-easy-steps-for-gamers/"><u>Solving the Blue Screen of Death in HellDivers 2 - Easy Steps for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-successful-startup-of-gta-5-game-installations/"><u>Troubleshooting Steps for Successful Startup of GTA 5 Game Installations</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-dev-error-6034-on-pc-and-xbox-modern-warfare-troubleshooting/"><u>Ultimate Guide: Resolving Dev Error 6034 on PC & Xbox - Modern Warfare Troubleshooting</u></a></li>
+</ul></div>
 

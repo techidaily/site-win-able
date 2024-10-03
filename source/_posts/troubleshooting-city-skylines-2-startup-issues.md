@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting City Skylines 2 Startup Issues
-date: 2024-09-15T16:33:17.420Z
-updated: 2024-09-16T23:51:01.695Z
+date: 2024-09-26T16:56:30.930Z
+updated: 2024-10-03T16:25:54.498Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
  If the Terraria crashing issue still exists after the reboot, then move on to the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: **Disable your antivirus temporarily**
 
  Your problem is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 If this didn’t help in resolving your problem, try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: **Run your game as an administrator**
 
@@ -61,6 +75,13 @@ If this didn’t help in resolving your problem, try the fix below.
 **2)**  Right-click the **Steam icon** on your desktop and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
@@ -85,6 +106,13 @@ If this didn’t help in resolving your problem, try the fix below.
 **2)**  Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
 
@@ -117,6 +145,13 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-252.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Relaunch your game to see if your problem has been resolved.
 
 If not, try the next fix.
@@ -133,35 +168,22 @@ If not, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-254.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the list box below to select **Windows 8** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-255.png)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
  If your game crashes again under Windows 8 mode, repeat **steps 1 – 3** and select **Windows 7**  from the list box.
 
 If this didn’t work for you, check the fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall your game and/or Steam
 
@@ -184,13 +206,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-257.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Download and install _Terraria_  again.
 
  Now, relaunch your game to check if this has fixed your issue. If not, you’ll need to reinstall Steam as well.
@@ -201,6 +216,13 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
@@ -208,6 +230,13 @@ If this didn’t work for you, check the fix, below.
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** .
 
@@ -220,13 +249,6 @@ If this didn’t work for you, check the fix, below.
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
@@ -243,13 +265,6 @@ If this didn’t work for you, check the fix, below.
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **12)**  Relaunch Steam and your game.
 
@@ -274,5 +289,24 @@ If this didn’t work for you, check the fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-narrating-real-life-how-to-write-engaging-docu-scripts/"><u>[Updated] Narrating Real Life How to Write Engaging Docu-Scripts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-complete-scrutiny-of-camstudio-screencapture-tech/"><u>[Updated] The Complete Scrutiny of CamStudio ScreenCapture Tech</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-x50i-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor X50i</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-valorant-setup-with-these-tips/"><u>Accelerate Your Valorant Setup with These Tips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/deciding-between-top-brands-a-comparative-guide-to-amazon-fire-and-samsung-tablets/"><u>Deciding Between Top Brands: A Comparative Guide to Amazon Fire and Samsung Tablets</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2-pc-version-fixed-now-launching-successfully/"><u>Destiny 2 PC Version Fixed: Now Launching Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-fixes-for-persistent-crashing-in-minecraft-dungeons-on-windows/"><u>Easy Fixes for Persistent Crashing in Minecraft Dungeons on Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-realme-narzo-60-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Realme Narzo 60 Pro 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-maximize-engagement-with-integrated-youtube-playlist-features/"><u>In 2024, Maximize Engagement with Integrated YouTube Playlist Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-fun-in-red-dead-redemption-2-by-solving-framerate-hiccups-and-performance-lags/"><u>Maximize Fun in Red Dead Redemption 2 by Solving Framerate Hiccups & Performance Lags</u></a></li>
+<li><a href="https://win-able.techidaily.com/multiplayer-in-elden-ring-now-functional-a-step-by-step-fix/"><u>Multiplayer in Elden Ring Now Functional – A Step-by-Step Fix</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-tips-for-capturing-the-excitement-of-online-cricket-matches-for-2024/"><u>Premier Tips for Capturing the Excitement of Online Cricket Matches for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-for-when-msi-afterburner-fails-to-detect-graphics-card-in-windows-11/"><u>Solution Steps for When MSI Afterburner Fails to Detect Graphics Card in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fix-addressing-black-desert-onlines-sudden-shutdowns/"><u>Step-By-Step Fix: Addressing Black Desert Online's Sudden Shutdowns</u></a></li>
+<li><a href="https://win-blog.techidaily.com/success-how-to-repair-a-non-responsive-google-chrome-instance/"><u>Success! How to Repair a Non-Responsive Google Chrome Instance</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fixes-for-escaping-from-tarkovs-server-connection-lost/"><u>The Ultimate Fixes for Escaping From Tarkov's 'Server Connection Lost'</u></a></li>
+<li><a href="https://win-able.techidaily.com/valorants-solution-overcoming-the-challenge-of-vanguard-starting-up/"><u>Valorant's Solution: Overcoming the Challenge of Vanguard Starting Up</u></a></li>
+</ul></div>
 

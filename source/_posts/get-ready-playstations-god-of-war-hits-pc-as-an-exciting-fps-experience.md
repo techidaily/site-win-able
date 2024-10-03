@@ -1,7 +1,7 @@
 ---
 title: "Get Ready: PlayStation's God of War Hits PC as an Exciting FPS Experience!"
-date: 2024-09-14T21:56:28.224Z
-updated: 2024-09-16T17:09:14.797Z
+date: 2024-09-26T16:44:59.030Z
+updated: 2024-10-03T16:05:35.220Z
 tags:
   - win11
   - win10
@@ -46,9 +46,35 @@ Only got a**black screen** at startup or during the thrilling gameplay in Reside
   
 ![Resident Evil Village verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-fiels.png)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then Steam will start to verify your game files. This will take several minutes to repair or redownload any corrupted or missing game files. Wait until the process is finished.
 
 If this didn’t solve your problem, try the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Download and install Windows updates
 
@@ -62,22 +88,29 @@ If this didn’t solve your problem, try the next fix below.
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After the reboot, try to launch your game to check if you can get into the main screen successfully.
 
  Still no luck? Don’t worry, there are a few other fixes you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
 
  Your graphics driver acts like an interpreter between your device and the system. If it’s out-of-date or misconfigured, issues like programs not launching properly would occur. To ensure that you get the most out of your graphics card, you need to check for graphics driver updates. This may help you fix the black screen issue immediately.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -88,6 +121,13 @@ If this didn’t solve your problem, try the next fix below.
 [Intel](https://downloadcenter.intel.com/product/80939/Graphics)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -106,29 +146,9 @@ If this didn’t solve your problem, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC. Then click on the PLAY button to check if you can boot up the game.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run your game as admin
 
@@ -142,22 +162,35 @@ If this didn’t solve your problem, try the next fix below.
   
 ![disable HDR Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-local-file.png)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Find your game’s executable. Make sure to right-click it and select**Properties** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-an-administrator.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
   
 ![run Resident Evil Village as an administrator ](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-an-administrator-Compatibility.png)
 
  After applying the changes, launch your game and it should be running with administrative privileges.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Disable HDR
 
@@ -166,13 +199,6 @@ If this didn’t solve your problem, try the next fix below.
  1) Open your Steam client. Under LIBRARY, right-click your game title and select**Properties** .  
   
 ![Resident Evil Village disable HDR](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Select the**LOCAL FILES** tab. Then click**Browse…** and you’ll be brought to the game’s installation directory.  
   
@@ -201,5 +227,18 @@ If this didn’t solve your problem, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-mastering-hdr-portraiture-an-ultimate-guide/"><u>[New] Mastering HDR Portraiture An Ultimate Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-clear-communication-via-skype/"><u>[Updated] Mastering Clear Communication via Skype</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/apex-creators-video-giants-in-the-making/"><u>Apex Creators Video Giants in the Making</u></a></li>
+<li><a href="https://tools.techidaily.com/videoconverterfactory/dvd-video-converter/"><u>DVD Video Converter | WonderFox</u></a></li>
+<li><a href="https://win-able.techidaily.com/eight-proven-fixes-for-unresponsive-firefox-get-back-to-browsing-today/"><u>Eight Proven Fixes for Unresponsive Firefox - Get Back to Browsing Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-steelseries-gg-controller-engine-failures-in-windows-environments/"><u>Expert Tips for Resolving SteelSeries GG Controller Engine Failures in Windows Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/faster-utorrent-file-sharing-a-guide-for-windows/"><u>Faster uTorrent File Sharing: A Guide for Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-your-rust-program-from-continually-closing-troubleshooting-tips/"><u>How to Prevent Your Rust Program From Continually Closing - Troubleshooting Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stability-issues-how-to-keep-samurai-warriors-5-running-smoothly-on-your-computer/"><u>Overcoming Stability Issues: How to Keep Samurai Warriors 5 Running Smoothly on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-for-maplestory-startup-error-get-back-to-adventure/"><u>Solution Found for MapleStory Startup Error – Get Back to Adventure</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-guide-to-adding-auto-tuned-magic-in-audacity-for-2024/"><u>Updated The Ultimate Guide to Adding Auto-Tuned Magic in Audacity for 2024</u></a></li>
+</ul></div>
 

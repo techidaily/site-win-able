@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Addressing and Fixing Hearthstone Crashes on Desktop Systems"
-date: 2024-09-24T09:07:41.546Z
-updated: 2024-09-27T20:24:41.397Z
+date: 2024-09-28T16:56:09.408Z
+updated: 2024-10-03T16:59:19.657Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 
  Also, many users find that installing the latest Windows 10 gets rid of the Starcraft 2 crashing issue. Therefore, you’ll need to check for updates and always keep your OS up to date for a smoothing gaming experience.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Scan and Repair for Starcraft 2
 
  If you run into any Blizzard in-game problems, you can try the**Scan and Repair** feature in the**Battle.net application** , which automatically scans and repairs the problems in your game. To scan and repair your Starcraft 2, here’s how to do it:
@@ -89,11 +82,25 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2020/02/scan-now-5.png)
 3. Click the Update button next to the flagged video card to automatically download the correct version of their driver (you can do this with the FREE version), then install the driver manually on your computer.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **OR** click**_Update All_** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ , which comes with a 30-day no question asked money back guarantee.)  
 ![update your drivers by clicking Update or Update all](https://images.drivereasy.com/wp-content/uploads/2020/02/update-all-your-drivers-2-9.jpg)  
  _Note: If you experience any problems when using Driver Easy Pro, please contact our support team at_ [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 4. Restart your computer and check if**Starcraft 2 crashing issue** s still persist.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Stop overclocking
 
@@ -107,14 +114,14 @@ _Note: This method applies only to the_ non-reference model cards_._
 ![Open NVIDIA control panel](https://images.drivereasy.com/wp-content/uploads/2020/02/NVIDIA-control-panel.jpg)
 2. Expand the**Help** menu, and check the**Debug Mode** option.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![debug-mode-nvidia](https://images.drivereasy.com/wp-content/uploads/2020/02/Debug-Mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This will help you downclock any factory overclocked graphics card to Nvidia reference clock speeds. Although generally speaking, overclocking provides better performance in games and graphics-intensive applications, it can sometimes cause crashing issues and shorten the lifespan of your graphics card.
 
@@ -127,10 +134,10 @@ _Note: This method applies only to the_ non-reference model cards_._
 3. Scroll down to Starcraft 2 and click the**Reset In-Game Options** .
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click **Reset** .
@@ -154,6 +161,13 @@ _Note: This method applies only to the_ non-reference model cards_._
 2. Select**Properties** on the pop-up menu
 3. Navigate to the**Compatibility** tab.
 4. Check the**Run this program as administrator** box.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Set Affinity for Starcraft 2
 
@@ -180,13 +194,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 
  If the Starcraft 2 crashing issue still persists in windowed mode, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 10: Perform a clean boot
 
  There might be other background software or services conflicting with your Starcraft 2\. To see if that’s the culprit of your Starcraft 2 crashing issue, you need to perform a clean boot to find out the problematic software.
@@ -195,34 +202,28 @@ _Note: This method applies only to the_ non-reference model cards_._
 2. Type **msconfig** and press **Enter** to open **System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/type_msconfig_in_the_run_box.jpg)
 3. Click the **Services** tab in the new window and check the **Hide all Microsoft services** box, then click **Disable all** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all.png)
 4. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/02/startup.png)
 5. Under the **Startup** tab, select **each** startup item and then click **Disable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all-startups.png)
 6. Go back to **System Configuration** , then click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![go back to configuration window to click OK](https://images.drivereasy.com/wp-content/uploads/2020/02/click-OK.png)
@@ -250,22 +251,21 @@ _Note: This method applies only to the_ non-reference model cards_._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/1723006466406-solved-league-of-legends-crashing-quickly-and-easily/"><u>[SOLVED] | League of Legends Crashing | Quickly & Easily!</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-elevating-engagement-finding-your-youtube-segment-for-2024/"><u>[Updated] Elevating Engagement Finding Your YouTube Segment for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-internet-idolaters-top-ten-youtube-sensations/"><u>[Updated] Internet Idolaters Top Ten YouTube Sensations</u></a></li>
-<li><a href="https://win-able.techidaily.com/achieve-seamless-video-calls-on-windows-11-and-10-ultimate-guide-to-solving-zoom-crash-problems-in-202amo/"><u>Achieve Seamless Video Calls on Windows 11 & 10 - Ultimate Guide to Solving Zoom Crash Problems in 202Amo</u></a></li>
-<li><a href="https://win-able.techidaily.com/age-of-empires-4-wont-start-heres-your-guide-to-a-successful-launch/"><u>Age of Empires 4 Won't Start? Here's Your Guide to a Successful Launch</u></a></li>
-<li><a href="https://win-able.techidaily.com/eac-launch-issue-solved-guide-to-properly-installing-your-anticheating-software/"><u>EAC Launch Issue Solved: Guide to Properly Installing Your Anticheating Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/enshrouded-game-fixed-smooth-performance-now-on-pc/"><u>Enshrouded Game Fixed: Smooth Performance Now on PC</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-innovative-design-and-capabilities-of-the-samsung-galaxy-s24-ultra/"><u>Exploring the Innovative Design and Capabilities of the Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://win-able.techidaily.com/google-meet-camera-not-working-heres-how-you-can-get-it-up-and-running-again/"><u>Google Meet Camera Not Working? Here's How You Can Get It Up and Running Again!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/immediate-cessation-of-live-streaming-in-quicktime-for-2024/"><u>Immediate Cessation of Live Streaming in QuickTime for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-breaking-even-on-youtube-key-view-figures-explored/"><u>In 2024, Breaking Even on YouTube Key View Figures Explored</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-v30-lite-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo V30 Lite 5G</u></a></li>
-<li><a href="https://discover-community.techidaily.com/online-3d-movavi-arw/"><u>Online 무료 3D 변환 서비스 - Movavi: 훈련을 위한 ARW 대상</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-for-avatar-frontier-adventures-on-pandora/"><u>Overcoming Launch Errors for Avatar: Frontier Adventures on Pandora</u></a></li>
-<li><a href="https://win-dash.techidaily.com/realtek-network-device-solutions-correcting-the-rtl8811au-chip-driver-errors/"><u>Realtek Network Device Solutions: Correcting the RTL8811AU Chip Driver Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-lag-issues-in-avatar-the-legend-of-quest-a-comprehensive-fix-guide/"><u>Resolving Lag Issues in 'Avatar: The Legend of Quest - A Comprehensive Fix Guide'</u></a></li>
-<li><a href="https://win11.techidaily.com/1726030041701-youtube/"><u>YouTube ミュージックダウンロードガイド - 曲を正しく記録するための効果的な手法</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-navigate-effortlessly-how-to-clear-your-browsers-youtube-cache/"><u>[New] In 2024, Navigate Effortlessly How to Clear Your Browser's YouTube Cache</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-frozen-frenzy-2022s-ultimate-showdown-on-snowy-olympic-rivers/"><u>[Updated] Frozen Frenzy 2022'S Ultimate Showdown on Snowy Olympic Rivers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-crafting-a-compelling-storyline-for-linkedin-articles/"><u>2024 Approved Crafting a Compelling Storyline for LinkedIn Articles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-video-editor-battle-filmora-versus-democracy-creator/"><u>2024 Approved Top Video Editor Battle Filmora versus Democracy Creator</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-launch-of-apples-residential-bot-updates-on-cost-availability-specifications-and-latest-gossip/"><u>Anticipated Launch of Apple's Residential Bot: Updates on Cost, Availability, Specifications & Latest Gossip</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoid-disruption-during-matches-resolving-fm2019-game-crash-errors/"><u>Avoid Disruption During Matches: Resolving FM2019 Game Crash Errors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/critically-acclaimed-grabber-tech-for-2024/"><u>Critically Acclaimed Grabber Tech for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125190814-discover-the-best-deal-on-eleegoo-neptune-4-pro-3d-printer-unbeatable-price-of-240-at-newegg/"><u>Discover the Best Deal on Eleegoo Neptune 4 Pro 3D Printer: Unbeatable Price of $240 at Newegg</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-get-your-rocket-league-game-running-smoothly-again/"><u>Fixing the Issue: How to Get Your Rocket League Game Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-update-analysis-the-effect-of-framerate-adjustments-in-s8/"><u>Fortnite Update Analysis: The Effect of Framerate Adjustments in S8</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-10-best-video-conferencing-tools-beyond-zoom/"><u>In 2024, The 10 Best Video Conferencing Tools Beyond Zoom</u></a></li>
+<li><a href="https://win-able.techidaily.com/once-your-design-is-complete-and-the-tile-is-fully-dry-may-take-up-to-24-hours-apply-a-clear-glaze-over-the-entire-surface-to-seal-in-the-colors-this-step-w605/"><u>Once Your Design Is Complete and the Tile Is Fully Dry (May Take up to 24 Hours), Apply a Clear Glaze over the Entire Surface to Seal in the Colors. This Step Will Protect Your Work During the Final Firing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-g2-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from G2</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-performance-problems-how-to-fix-solved-continuous-crashes-in-the-ascent-for-windows-users/"><u>Resolving Performance Problems: How to Fix [SOLVED] Continuous Crashes in 'The Ascent' For Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-for-launch-errors-in-modern-warfare-2-game/"><u>Solution Steps for Launch Errors in Modern Warfare 2 Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-mastering-roller-champions-co-op-mode/"><u>Ultimate Guide: Mastering Roller Champions Co-Op Mode</u></a></li>
 </ul></div>
 

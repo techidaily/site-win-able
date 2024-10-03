@@ -1,7 +1,7 @@
 ---
 title: "How To Overcome Game Stutter and Freezes in 'No Rest for the Wicked': A Step-by-Step Approach"
-date: 2024-09-23T16:49:52.868Z
-updated: 2024-09-27T20:45:36.240Z
+date: 2024-10-02T16:35:05.668Z
+updated: 2024-10-03T16:19:03.565Z
 tags:
   - win11
   - win10
@@ -55,16 +55,16 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-38-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Type **dxdiag** , then press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-41-16.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  On the System tab, check your**OS, Processor and Memory** .
 
@@ -74,7 +74,21 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-45-46.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Make sure your computer meets the minimum requirements to run the game, then move on to the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Rule out driver issues
 
@@ -98,18 +112,18 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-28-26.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the**Driver** tab, then click**Roll Back Driver** .
 
  If you don’t have the Roll Back Driver option, that means you’re already using the old graphics driver,[**try updating your device drivers**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-29-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Select**My apps don’t work with this driver** , then click**Yes** .
 
@@ -133,16 +147,16 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-32.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-38.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -190,13 +204,6 @@ If the game still freezes, then move on to the fix below.
 
 If your issue persists, check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: End unnecessary background programs
 
  Having multiple programs running simultaneously while playing_Borderland 3_ can consume system resources and interfere with the game’s performance. By closing unnecessary programs, you can free up system memory and CPU usage, potentially resolving game freezing issues. Here’s how to end unnecessary programs:
@@ -214,25 +221,11 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-41-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click the program you don’t need, and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-45.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After turning off unwanted programs, relaunch your game to test your issue. If your problem still exists, try **[Fix 6](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -256,6 +249,13 @@ If your issue persists, check the fix below.
 
  Try launching _Borderlands 3_ to see if it works properly now. If not, check the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Check for Windows updates
 
  Regularly updating your operating system is crucial for resolving compatibility issues and security vulnerabilities that may cause game issues. Follow the instructions below:
@@ -267,13 +267,6 @@ If your issue persists, check the fix below.
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-35.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart your computer and your game after the update is complete. If the freezing issue happens again, try the fix, below.
 
@@ -305,6 +298,13 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-39.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Click the button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
@@ -314,6 +314,13 @@ If your issue persists, check the fix below.
 **8)** Click **Set** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-48.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **9)** Restart your computer and your game.
 
@@ -343,13 +350,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** [**Download**](https://www.epicgames.com/unrealtournament/download) and install the Epic Games Launcher. Then, reinstall_Borderlands 3_ .
 
 ---
@@ -377,19 +377,20 @@ If your issue persists, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-propel-your-passion-profits-joining-the-elite-of-tiktok-creators/"><u>[New] In 2024, Propel Your Passion Profits Joining the Elite of TikTok Creators</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-picture-perfect-pairings-expert-comparison-of-top-8k-televisions/"><u>[New] Picture Perfect Pairings Expert Comparison of Top 8K Televisions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-guide-to-efficient-video-capture-with-zd-software-tools/"><u>[New] Step-by-Step Guide to Efficient Video Capture with ZD Software Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-clearing-the-vision-zoom-mastery-for-intimate-online-gatherings-for-2024/"><u>[Updated] Clearing the Vision Zoom Mastery for Intimate Online Gatherings for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-honor-magic-5-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Honor Magic 5 Pro Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dall-e-3-unveils-editing-capabilities-yet-room-for-enhancement-remains/"><u>DALL-E 3 Unveils Editing Capabilities, Yet Room for Enhancement Remains</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-zte-blade-a73-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your ZTE Blade A73 5G Is Unlocked</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-restore-smooth-gaming-in-battlegrounds-royale-pubg-when-it-freezes/"><u>How to Restore Smooth Gaming in Battlegrounds Royale (PUBG) When It Freezes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-pc-boot-problems-in-payday-2-a-comprehensive-guide/"><u>Overcoming PC Boot Problems in Payday 2 - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolution-guide-fixing-the-nvidia-geforce-experience-e0x0003-error/"><u>Resolution Guide: Fixing the NVIDIA GeForce Experience E_0x0003 Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722995175018-this-title-indicates-that-it-is-a-step-by-step-guide-to-fixing-startup-issues-and-includes-the-current-year-for-freshness/"><u>This Title Indicates that It Is a Step-by-Step Guide to Fixing Startup Issues and Includes the Current Year for Freshness.</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solving-assassins-creed-syndicate-sequence-failure/"><u>Troubleshooting Guide: Solving 'Assassin's Creed Syndicate Sequence Failure'</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-whatsapps-vocal-messaging-secrets-for-2024/"><u>Unlocking WhatsApp's Vocal Messaging Secrets for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-diving-deep-into-the-world-of-professional-voice-overs-for-videos/"><u>[New] 2024 Approved Diving Deep Into the World of Professional Voice Overs for Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-tracking-your-channels-ad-revenue-accrual/"><u>[Updated] 2024 Approved Tracking Your Channel's Ad Revenue Accrual</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996961875-assassins-creed-valhalla-resolved-pc-performance-hiccups-and-smooth-playback-tips/"><u>Assassin's Creed Valhalla - Resolved PC Performance Hiccups and Smooth Playback Tips!</u></a></li>
+<li><a href="https://win-able.techidaily.com/crash-free-adventure-fixed-problems-leading-to-constant-disruptions-in-the-new-world-pc-version/"><u>Crash-Free Adventure: Fixed Problems Leading to Constant Disruptions in the 'New World' PC Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-techniques-for-repairing-directx-malfunctions-in-cod-mw2/"><u>Expert Techniques for Repairing DirectX Malfunctions in CoD MW2</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-for-diagnosing-pc-issues-fixing-windows-1ns-bsod-due-to-machine-check-exceptions/"><u>Expert Tips for Diagnosing PC Issues - Fixing Windows 1N's BSOD Due to Machine Check Exceptions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/github-copilot-vs-chatgpt-in-development-a-detailed-analysis-of-their-strengths/"><u>GitHub Copilot Vs. ChatGPT in Development: A Detailed Analysis of Their Strengths</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-searching-skills-unlock-additional-free-filters/"><u>In 2024, Instagram Searching Skills – Unlock Additional Free Filters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-best-undiscovered-speech-to-text-apps-on-your-mac/"><u>In 2024, The Best Undiscovered Speech-to-Text Apps on Your Mac</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-note-30i-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Note 30i Phone FRP Lock</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-through-call-of-duty-wwiis-error-code-e-4128-a-step-by-step-correction-manual/"><u>Navigating Through Call of Duty WWII's Error Code E 4128: A Step-by-Step Correction Manual</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-cyberpunk-2077-stutter-techniques-and-settings-for-smooth-gaming/"><u>Overcoming Cyberpunk 2077 Stutter: Techniques and Settings for Smooth Gaming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-privacy-adjustments-for-youtube-for-2024/"><u>Step-by-Step Privacy Adjustments for YouTube for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-heart-of-iron-iv-errors-and-glitches/"><u>Troubleshooting Common Heart of Iron IV Errors & Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-preventing-and-fixing-pc-crashes-in-forza-horizon-5-gameplay/"><u>Ultimate Guide: Preventing and Fixing PC Crashes in Forza Horizon 5 Gameplay</u></a></li>
 </ul></div>
 

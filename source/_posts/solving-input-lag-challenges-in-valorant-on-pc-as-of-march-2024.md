@@ -1,7 +1,7 @@
 ---
 title: Solving Input Lag Challenges in Valorant on PC as of March 2024
-date: 2024-09-23T10:53:43.865Z
-updated: 2024-09-27T16:17:51.676Z
+date: 2024-09-30T16:19:14.806Z
+updated: 2024-10-03T16:48:26.823Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 7. [**Open the game in windowed mode**](https://tools.techidaily.com/drivereasy/download/)
 8. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1\. Check your PC specs
 
  Make sure you’re playing Football Manager 2022 in a 64-bit processor and operating system. If you’re on a 32-bit system, it’s recommended to upgrade your system and perhaps your device.
@@ -65,25 +72,20 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/driver-easy-5.7.1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your drivers, restart your PC and test the gameplay.
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4\. Verify the integrity of game files
 
@@ -109,13 +111,20 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-8-1200x758.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Navigate to **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** and then delete the**Caches** and**Preferences** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6\. Run the game executable file as admin
@@ -126,16 +135,16 @@ Once complete, launch the game to check if your game is working again.
 
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select **Local Files** and then**Browse local files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Locate the game’s executable and run the game as an administrator.
 
@@ -147,14 +156,21 @@ Once complete, launch the game to check if your game is working again.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the **GENERAL** tab, uncheck **Enable the Steam Overlay while in-game** and type **\-windowed** under **LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch your Football Manager 2022 to check if your launch issues have been resolved successfully.
 
@@ -184,23 +200,9 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -213,13 +215,6 @@ Once complete, launch the game to check if your game is working again.
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -288,20 +283,24 @@ Feel free to drop us a line if you have any suggestions or questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-extracting-youtube-content-with-ease/"><u>[New] 2024 Approved Extracting YouTube Content with Ease</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-diverse-video-editing-apps-for-pc-users/"><u>[New] In 2024, Diverse Video Editing Apps for PC Users</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-quintessential-stop-motion-gems-for-cinephiles-for-2024/"><u>[Updated] Quintessential Stop-Motion Gems for Cinephiles for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-video-editing-applications-our-expert-picks-for-top-software-solutions/"><u>Essential Video Editing Applications: Our Expert Picks for Top Software Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-game-freeze-glitches-in-call-of-duty-black-ops-cold-war-for-smooth-playing-experience/"><u>How To Overcome Game Freeze Glitches In Call of Duty: Black Ops Cold War for Smooth Playing Experience</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo Find N3 Flip</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-from-the-shadows-to-spotlight-rise-in-popularity-with-these-steps-on-youtube/"><u>In 2024, From the Shadows to Spotlight Rise in Popularity with These Steps on YouTube</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-how-to-convert-and-download-4k-video-in-mp4-format/"><u>New In 2024, How to Convert and Download 4K Video in MP4 Format</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solutions-overcome-issues-preventing-your-game-from-starting/"><u>Quick Solutions: Overcome Issues Preventing Your Game From Starting!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009008108-resolved-starfield-sound-glitches-no-more-crackling-or-skipping/"><u>Resolved: Starfield Sound Glitches - No More Crackling or Skipping!</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/simplifying-sticker-setup-addressing-the-most-frequent-issues/"><u>Simplifying Sticker Setup: Addressing the Most Frequent Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/speedy-advice-navigating-through-shader-optimization-snags-in-star-wars-battlefront-ii/"><u>Speedy Advice: Navigating Through Shader Optimization Snags in Star Wars Battlefront II</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-repairing-scavengers-game-errors-for-a-smooth-pc-experience/"><u>Troubleshooting and Repairing 'Scavengers' Game Errors for a Smooth PC Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-successfully-starting-starfield-on-your-console-or-pc/"><u>Troubleshooting Tips - Successfully Starting Starfield on Your Console or PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-internal-device-recorder-to-capture-screens-on-mate-1020-and-p-series-phones-p2010/"><u>[New] 2024 Approved Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unveil-creativity-15plus-free-tools-for-youtube-intros/"><u>[New] Unveil Creativity 15+ Free Tools for YouTube Intros</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfecting-instagram-livestreams-with-obs-technology-for-2024/"><u>[Updated] Perfecting Instagram Livestreams with OBS Technology for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-what-is-filmora-certified-creative-program-and-how-to-become-an-fcc-in-2024/"><u>[Updated] What Is Filmora Certified Creative Program and How to Become an FCC, In 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-the-windows-spotlight-not-working-dilemma-on-windows-11-pcs/"><u>Addressing the Windows Spotlight Not Working Dilemma on Windows 11 PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/adobe-premiere-pro-crash-woes-resolved-for-windows-11-users/"><u>Adobe Premiere Pro Crash Woes Resolved for Windows 11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/directx-troubles-in-anno-1800-heres-how-you-can-fix-it/"><u>DirectX Troubles in Anno 1800? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-download-errors-for-age-of-empires-iv-on-microsoft-platforms/"><u>Fixing Download Errors for Age of Empires IV on Microsoft Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-game-on-track-the-most-effective-strategies-to-fix-strays-launch-problems/"><u>Get Your Game On Track: The Most Effective Strategies to Fix Stray's Launch Problems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-to-the-top-10-historical-education-channels/"><u>Guide to the Top 10 Historical Education Channels</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-resolving-problems-with-starting-steam-games-on-windows-10/"><u>Guide: Resolving Problems with Starting Steam Games on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-download-free-sound-effects-for-youtubers/"><u>In 2024, Download Free Sound Effects for YouTubers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Create My Pokemon Overworld Maps On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-troubles-overcome-fps-problems-in-dying-light-2/"><u>PC Gaming Troubles? Overcome FPS Problems in Dying Light 2</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-easily-downloading-the-startech-usb-to-vga-drivers/"><u>Step by Step Guide: Easily Downloading the StarTech USB-to-VGA Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-strategies-for-addressing-failed-startups-of-the-witcher-sagatief-hant/"><u>Step-by-Step Strategies for Addressing Failed Startups of The Witcher ˈSagaːtief ˈhant</u></a></li>
+<li><a href="https://win-able.techidaily.com/successful-startup-for-star-wars-jedi-fallen-order-post-patch-fixes/"><u>Successful Startup for Star Wars Jedi: Fallen Order Post-Patch Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-solving-crashes-in-mass-effect-legendary-edition-for-both-pc-players-and-xbox-enthusiasts/"><u>Ultimate Guide to Solving Crashes in Mass Effect Legendary Edition for Both PC Players and Xbox Enthusiasts</u></a></li>
 </ul></div>
 

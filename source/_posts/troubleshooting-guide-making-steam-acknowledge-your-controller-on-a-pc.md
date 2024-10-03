@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Making Steam Acknowledge Your Controller on a PC"
-date: 2024-09-27T11:49:46.628Z
-updated: 2024-09-28T08:38:05.206Z
+date: 2024-10-01T16:28:05.285Z
+updated: 2024-10-03T16:22:23.773Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -55,6 +48,19 @@ Here is how to verify the integrity of Dauntless:
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Underlock your GPU
 
@@ -79,6 +85,19 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -91,6 +110,13 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -98,6 +124,13 @@ Here is how to verify the integrity of Dauntless:
  Hopefully your Dauntless crashing issue is resolved by now. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
 
@@ -110,13 +143,6 @@ Here is how to verify the integrity of Dauntless:
  Dauntless still crashes? Don’t worry, you have one more fix to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
@@ -133,35 +159,21 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -186,22 +198,18 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unlock-follower-growth-secrets-on-facebook-in-10-simple-ways/"><u>[Updated] 2024 Approved Unlock Follower Growth Secrets on Facebook in 10 Simple Ways</u></a></li>
-<li><a href="https://win-able.techidaily.com/5-essential-strategies-to-resolve-your-eos-login-issues-on-palworld/"><u>5 Essential Strategies to Resolve Your EOS Login Issues on Palworld</u></a></li>
-<li><a href="https://win-able.techidaily.com/avoid-getting-banned-handling-the-persistent-dota-2-valve-anti-cheat-concerns/"><u>Avoid Getting Banned: Handling the Persistent Dota 2 Valve Anti-Cheat Concerns</u></a></li>
-<li><a href="https://win-able.techidaily.com/bridging-the-gap-between-ios-and-windows-11-ensuring-itunes-detects-your-iphone/"><u>Bridging the Gap Between iOS and Windows 11: Ensuring iTunes Detects Your iPhone</u></a></li>
-<li><a href="https://win-able.techidaily.com/deathloop-stuck-on-loading-screen-heres-what-you-can-do/"><u>Deathloop Stuck on Loading Screen? Here’s What You Can Do</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-bugs-swift-solutions-to-avoid-batman-arkham-knight-crashes/"><u>Fixing Bugs: Swift Solutions to Avoid Batman: Arkham Knight Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-decreased-frame-rates-for-dota-2-players-on-windows-11-and-windows-10/"><u>Fixing Decreased Frame Rates for Dota 2 Players on Windows 11 and Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-silent-roblox-solutions-for-audio-problems-in-roblox-games-on-windows-11-and-10/"><u>Fixing Silent Roblox: Solutions for Audio Problems in Roblox Games on Windows 11 and 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/freshly-updated-windows-driver-for-epson-et-2750-free-download/"><u>Freshly Updated Windows Driver for Epson ET-2750 - Free Download</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-integration-select-the-top-6-editing-apps-post-snow-leopard/"><u>In 2024, Innovative Integration Select the Top 6 Editing Apps Post-Snow Leopard</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-oppo-find-n3-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Oppo Find N3 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-facebook-twitter-instagram-and-youtube-strategies/"><u>Navigating the Big Four: Facebook, Twitter, Instagram & Youtube Strategies</u></a></li>
-<li><a href="https://win-blog.techidaily.com/obs-recording-problem-solved-enjoy-flawless-streams-again/"><u>OBS Recording Problem Solved: Enjoy Flawless Streams Again</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-samsung-galaxy-z-fold-5-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy Z Fold 5 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/tips-for-sharing-in-various-languages-on-facebook/"><u>Tips for Sharing in Various Languages on Facebook</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-isnt-my-windows-spotlight-showing-images-solutions-for-windows-11-users/"><u>Why Isn't My Windows Spotlight Showing Images? Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-10-essential-tips-to-turnback-a-live-twitch-session/"><u>[New] 2024 Approved 10 Essential Tips to Turnback a Live Twitch Session</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-embark-on-a-joyful-journey-downloading-tiktok-for-macbook/"><u>[Updated] 2024 Approved Embark on a Joyful Journey Downloading TikTok for MacBook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-metaverse-headset-selection/"><u>2024 Approved The Ultimate Guide to Metaverse Headset Selection</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-apple-iphone-13-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On Apple iPhone 13</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a38-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A38 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-3-pc-stutter-and-crash-effective-fixes-to-enhance-playability/"><u>Modern Warfare 3 PC Stutter and Crash: Effective Fixes to Enhance Playability</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-pc-compatibility-issues-for-modern-warfare-launches-in-202ebye/"><u>Overcoming PC Compatibility Issues for 'Modern Warfare' Launches in 202Ebye</u></a></li>
+<li><a href="https://win-able.techidaily.com/post-crash-factors-the-conditions-after-an-accident-such-as-fire-or-secondary-impacts-also-contribute-to-the-severity-of-outcomes-for-those-involved/"><u>Post-Crash Factors - The Conditions After an Accident, Such as Fire or Secondary Impacts, Also Contribute to the Severity of Outcomes for Those Involved.</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-implemented-to-overcome-sea-of-thieves-startup-issues/"><u>Resolved: Fixes Implemented to Overcome Sea of Thieves Startup Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolved-fixing-dts-audio-not-available-on-selected-output-device/"><u>Resolved: Fixing 'DTS Audio Not Available on Selected Output Device'</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-5-essentials-smart-tips-when-shopping-for-pre-owned-apple-tablets/"><u>Top 5 Essentials: Smart Tips When Shopping for Pre-Owned Apple Tablets</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-improve-outriders-freezing-problems-on-desktop-computers/"><u>Troubleshoot and Improve Outriders' Freezing Problems on Desktop Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-success-resident-evil-5-playing-perfectly-on-your-computer/"><u>Troubleshooting Success! Resident Evil 5 Playing Perfectly on Your Computer</u></a></li>
 </ul></div>
 

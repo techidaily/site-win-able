@@ -1,7 +1,7 @@
 ---
 title: Improve Your PC's Performance and Reduce Lag While Playing Street Fighter 6
-date: 2024-09-26T11:50:01.074Z
-updated: 2024-09-27T22:54:45.171Z
+date: 2024-09-29T16:02:43.908Z
+updated: 2024-10-03T17:12:44.639Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -71,20 +64,20 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If the problem persists, take a look at the next fix below.
@@ -97,6 +90,13 @@ If the problem persists, take a look at the next fix below.
 2. Type**devmgmt.msc** and click the **OK** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
@@ -121,10 +121,10 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 4. Because of the different PC environments, you may need to keep adjusting the Core Clock until you’re no longer freezing.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Here we suggest underclocking your GPU Core Clock by 400 MHz and memory clock 500 MHz.
@@ -132,6 +132,13 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 6. Save the profile and relaunch New World to check.
 
 If it’s still not working, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -145,22 +152,15 @@ If it’s still not working, try the next fix.
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Play New World to check.
 
  If changing graphics settings don’t give you luck, continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Reset your system without losing data
 
@@ -175,20 +175,14 @@ If it’s still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -220,14 +214,22 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-look-up-table-techniques-for-richer-images-in-pscc/"><u>[Updated] Leveraging Look-Up Table Techniques for Richer Images in PSCC</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-youtubes-best-gamers-audio-selection-guide/"><u>[Updated] YouTube's Best Gamers' Audio Selection Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/cant-wait-any-longer-for-doom-eternal-discover-how-to-play-now/"><u>Can't Wait Any Longer for DOOM Eternal? Discover How to Play Now</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-lava-yuva-2-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Lava Yuva 2? Fixed | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-literary-legends-with-gpts-techniques/"><u>Leveraging AI for Literary Legends with GPT's Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-frequent-microsoft-edge-malfunctions-on-windows-10/"><u>Resolving Frequent Microsoft Edge Malfunctions on Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012195492-say-goodbye-to-bugs-century-age-of-ashes-is-crash-free-on-pc-after-latest-update/"><u>Say Goodbye to Bugs – Century: Age of Ashes Is Crash-Free on PC After Latest Update!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000283335-steam-ui-malfunction-solved-comprehebly-fixing-the-deadly-dll-error-for-gamers/"><u>Steam UI Malfunction Solved - Comprehebly Fixing the Deadly DLL Error for Gamers</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-transform-your-gopro-footage-mac-video-editing-essentials-for-2024/"><u>Updated Transform Your GoPro Footage Mac Video Editing Essentials for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-10-leading-ai-named-generators-boosting-podcast-titles/"><u>[New] 10 Leading AI Named Generators Boosting Podcast Titles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-ios-screenshots-and-recordings/"><u>[New] Mastering iOS Screenshots & Recordings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-selecting-the-best-ten-spotify-recording-software/"><u>[New] Selecting the Best Ten Spotify Recording Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-eraser-guru-expert-tips-for-psx-users/"><u>[New] The Eraser Guru Expert Tips for PSX Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/beyond-tube-the-premier-spots-for-online-video-sharing/"><u>Beyond Tube The Premier Spots for Online Video Sharing</u></a></li>
+<li><a href="https://win-able.techidaily.com/division-2-wont-launch-comprehensive-fixes-and-workarounds-for-gamers/"><u>Division 2 Won't Launch? Comprehensive Fixes & Workarounds for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-resolving-non-loading-webpages-on-chrome-browser/"><u>Effective Solutions: Resolving Non-Loading Webpages on Chrome Browser</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortlessly-transform-mxf-media-to-mp4-discover-these-6-creative-methods/"><u>Effortlessly Transform MXF Media to MP4: Discover These 6 Creative Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-tips-harnessing-the-power-of-bings-intelligent-features-on-your-android-device/"><u>Expert Tips: Harnessing the Power of Bing's Intelligent Features on Your Android Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-gt-3-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme GT 3 Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-continuous-crashes-in-elex-ii-on-your-computer/"><u>How to Resolve Continuous Crashes in Elex II on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-assassins-creed-odyssey-stability-expert-troubleshooting-tips/"><u>Master Assassin's Creed Odyssey Stability : Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-installation-techniques-for-win11-and-workstation-17/"><u>Mastering Installation Techniques for Win11 and Workstation 17</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013063903-minecraft-network-troubles-heres-how-to-re-establish-connection/"><u>Minecraft Network Troubles? Here’s How to Re-Establish Connection</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-common-fixes-for-when-fifa-21-doesnt-open-on-your-pcconsole/"><u>Resolved: Common Fixes for When FIFA 21 Doesn't Open on Your PC/Console</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-twitch-glitches-7-expert-tips-to-get-your-streams-up-and-running/"><u>Troubleshoot Twitch Glitches: 7 Expert Tips to Get Your Streams Up and Running</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-the-secrets-of-detroit-the-game-where-consciousness-awakens-smoothly-on-your-computer/"><u>Unlock the Secrets of Detroit: The Game Where Consciousness Awakens Smoothly on Your Computer</u></a></li>
 </ul></div>
 

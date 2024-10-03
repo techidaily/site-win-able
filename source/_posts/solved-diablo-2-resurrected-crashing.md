@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Diablo 2 Resurrected Crashing"
-date: 2024-09-25T06:50:36.625Z
-updated: 2024-09-27T17:24:18.144Z
+date: 2024-09-28T17:16:51.996Z
+updated: 2024-10-03T16:36:10.592Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
  If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
@@ -56,10 +49,16 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Stop overclocking
@@ -82,16 +81,10 @@ If this method doesn’t help, check out your graphics driver.
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -110,19 +103,20 @@ If this method doesn’t help, check out your graphics driver.
 2. Right-click the Diablo 2 Resurrected executable (.exe) file and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -132,22 +126,30 @@ If this method doesn’t help, check out your graphics driver.
 2. At the bottom, click the**gear icon** next to the Play button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Turn off overlays
@@ -193,18 +195,17 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-harmonizing-services-uniting-your-musical-lists/"><u>[New] In 2024, Harmonizing Services Uniting Your Musical Lists</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-expert-advice-for-achieving-larger-head-effects-in-tiktok-vfx/"><u>[Updated] 2024 Approved Expert Advice for Achieving Larger Head Effects in TikTok VFX</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-live-stream-magic-setting-up-logitech-cam-for-videos/"><u>[Updated] 2024 Approved Live-Stream Magic Setting Up Logitech Cam for Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-syncing-screen-and-video-with-ease/"><u>[Updated] Syncing Screen and Video with Ease</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-streamline-your-view-adding-captions-on-windows-media-player/"><u>2024 Approved Streamline Your View Adding Captions on Windows Media Player</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-beginners-guide-to-adding-depth-with-text-in-photoshop/"><u>A Beginner's Guide to Adding Depth with Text in Photoshop</u></a></li>
-<li><a href="https://win-dash.techidaily.com/best-top-rated-platforms-for-streaming-recent-telugu-film-hits/"><u>Best Top-Rated Platforms for Streaming Recent Telugu Film Hits</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-gaming-fixing-the-complete-edition-of-horizon-forbidden-west-to-prevent-pc-game-crashes/"><u>Effortless Gaming: Fixing the Complete Edition of Horizon Forbidden West to Prevent PC Game Crashes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-finding-chrome-companions-custom-melodies/"><u>In 2024, Finding Chrome Companion's Custom Melodies</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-vllo-on-mac-a-comprehensive-guide-with-alternative-solutions/"><u>In 2024, VLLO on Mac A Comprehensive Guide with Alternative Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-connection-problems-in-elden-rings-multiplayer-mode-a-guide/"><u>Overcoming Connection Problems in Elden Ring's Multiplayer Mode: A Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-gameplay-in-lost-ark-addressing-fps-fluctuations-and-ensuring-optimal-performance/"><u>Smooth Gameplay in Lost Ark: Addressing FPS Fluctuations & Ensuring Optimal Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/unraveling-discord-javascript-faults-a-user-friendly-approach/"><u>Unraveling Discord JavaScript Faults: A User-Friendly Approach</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-master-the-art-of-video-rotation-using-vlc-media-player/"><u>[New] In 2024, Master the Art of Video Rotation Using VLC Media Player</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-zoom-meetings-on-chromebooks/"><u>[Updated] 2024 Approved Mastering Zoom Meetings on Chromebooks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-lens-legends-best-video-cameras-for-professional-use/"><u>[Updated] In 2024, Lens Legends Best Video Cameras for Professional Use</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/critical-analysis-leading-screencast-applications-of-today/"><u>Critical Analysis Leading Screencast Applications of Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-blue-screen-errors-on-helldivers-game-version-2/"><u>Effective Fixes for Blue Screen Errors on Helldivers Game (Version 2)</u></a></li>
+<li><a href="https://fox-place.techidaily.com/fox-sports-video-downloads-get-your-favorite-fox-content-in-multiple-formats-like-mp4-avi-and-flv/"><u>FOX Sports Video Downloads: Get Your Favorite FOX Content in Multiple Formats Like MP4, AVI & FLV</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-harness-googles-skill-for-accurate-speech-to-text-conversion/"><u>In 2024, Harness Google's Skill for Accurate Speech to Text Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-final-cut-professionals-guide-to-top-10-plug-ins/"><u>In 2024, The Final Cut Professional's Guide to Top 10 Plug-Ins</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-15-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 15 Pro Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-glitches-resolving-recurring-valheim-pc-game-crashes/"><u>No More Glitches: Resolving Recurring Valheim PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-sea-of-thieves-game-crash-difficulties-a-step-by-step-fix/"><u>Overcome Sea of Thieves Game Crash Difficulties: A Step-by-Step Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-for-resolving-javascript-issues-in-discord/"><u>Quick Solutions for Resolving JavaScript Issues in Discord</u></a></li>
 </ul></div>
 

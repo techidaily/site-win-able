@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for the Black Ops Cold War Issue - Error 887A0005 Demystified
-date: 2024-09-24T17:27:46.998Z
-updated: 2024-09-27T22:00:18.846Z
+date: 2024-09-30T16:21:46.540Z
+updated: 2024-10-03T16:46:12.632Z
 tags:
   - win11
   - win10
@@ -47,23 +47,30 @@ Here’s a quick guide for that:
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Wait until the checking finishes.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can now launch Black Ops Cold War and see if it crashes again.
 
 If this trick doesn’t help you, simply continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -96,34 +103,13 @@ And it’s fairly easy to update:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install all available updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, restart your PC and test the gameplay in Black Ops Cold War.
 
  If the updates don’t stop the crash, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable HAGs (GeForce 10 series or later/Radeon 5600 or 5700 series)
 
@@ -142,16 +128,23 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn off**Hardware-accelerated GPU scheduling** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this method doesn’t fix your issue, simply check out the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable in-game Ray Tracing
 
@@ -163,6 +156,13 @@ Here’s how:
 2. Navigate to the**GRAPHICS** tab. Under the**RAY TRACING** section, disable all three options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-disable-ray-tracing.jpg)
 3. Restart the game and test the gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  None of these fixes can help you? Check out[this post](https://tools.techidaily.com/drivereasy/download/) for more advanced troubleshooting.
 
@@ -185,18 +185,19 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-enjoy-uninterrupted-youtube-with-effective-adblocking-methods-for-2024/"><u>[New] Enjoy Uninterrupted YouTube with Effective Adblocking Methods for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-illustration-revolution-adding-depth-to-text-with-3d/"><u>2024 Approved Illustration Revolution Adding Depth to Text with 3D</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/become-an-influencer-grow-by-a-thousand-on-instagrammonth-for-2024/"><u>Become an Influencer Grow by a Thousand on Instagram/Month for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/best-solutions-to-combat-lag-issues-for-a-smooth-ride-in-forza-horizon-5/"><u>Best Solutions to Combat Lag Issues for a Smooth Ride in Forza Horizon 5</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnosing-a-bsod-meanings-fixes-and-prevention-techniques/"><u>Diagnosing a BSOD: Meanings, Fixes, and Prevention Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/directx-complications-heres-what-you-need-to-know-about-correcting-them-for-fifa-nineteen-twenty/"><u>DirectX Complications? Here’s What You Need to Know About Correcting Them for FIFA Nineteen Twenty</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-correcting-the-roblox-error-277-on-windows/"><u>Expert Advice: Correcting the Roblox Error 277 on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-constant-crashes-of-the-ascent-game-on-windowsmacos-systems/"><u>How To Fix The Constant Crashes Of The Ascent Game On Windows/MacOS Systems?</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-se-2020-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone SE (2020) Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/secrets-unlocked-advanced-techniques-to-sculpt-your-igtv-content-size-for-2024/"><u>Secrets Unlocked Advanced Techniques to Sculpt Your IGTV Content Size for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-lost-ark-startup-failures/"><u>Troubleshooting Guide: Resolving Lost Ark Startup Failures</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-steps-for-compatible-ralink-rt3290-drivers-on-windows-1187/"><u>Troubleshooting Steps for Compatible Ralink RT3290 Drivers on Windows 11/8/7</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-dynamic-duels-in-digital-realms-the-ultimate-top-10-list/"><u>[Updated] 2024 Approved Dynamic Duels in Digital Realms The Ultimate Top-10 List</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-deep-dive-sonys-s6700-updates-review/"><u>[Updated] In 2024, Deep Dive Sony's S6700 Updates Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-mastering-the-art-of-html-formatting-and-styling/"><u>2024 Approved Mastering the Art of HTML Formatting and Styling</u></a></li>
+<li><a href="https://article-posts.techidaily.com/crystal-clear-comparison-rating-the-best-8k-tvs-of-year/"><u>Crystal Clear Comparison Rating the Best 8K TVs of Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-ways-to-troubleshoot-and-resolve-pc-malfunctions-with-thaumaturge-games/"><u>Effective Ways to Troubleshoot and Resolve PC Malfunctions with Thaumaturge Games</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-lava-yuva-3-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Lava Yuva 3 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/post-subscription-where-do-ps-plus-games-go/"><u>Post-Subscription: Where Do PS Plus Games Go?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/quintessential-7-first-person-shooters-for-2024/"><u>Quintessential 7 First-Person Shooters for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-compatibility-problems-between-corsair-icue-and-windows-operating-systems/"><u>Resolving Compatibility Problems Between Corsair iCUE and Windows Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/rising-through-the-ranks-of-mass-effect-legendary-edition-securing-elite-fps-drop-perks-for-a-superior-gaming-experience/"><u>Rising Through the Ranks of Mass Effect Legendary Edition - Securing Elite FPS Drop Perks for a Superior Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-gta-vs-errgfxd3dinit-graphics-error/"><u>Troubleshooting and Fixing GTA V's ERR_GFX_D3D_INIT Graphics Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-frozen-chrome-in-windows-11-effective-solutions/"><u>Troubleshooting Frozen Chrome in Windows 11: Effective Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-instructions-for-turning-on-hyper-v-feature-in-windows-10/"><u>Ultimate Instructions for Turning On Hyper-V Feature in Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-valves-latest-policy-a-comprehensive-look-at-the-ban-on-steams-blockchain-nft-and-cryptocurrency-games/"><u>Understanding Valve's Latest Policy: A Comprehensive Look at the Ban on Steam's Blockchain, NFT, and Cryptocurrency Games</u></a></li>
 </ul></div>
 

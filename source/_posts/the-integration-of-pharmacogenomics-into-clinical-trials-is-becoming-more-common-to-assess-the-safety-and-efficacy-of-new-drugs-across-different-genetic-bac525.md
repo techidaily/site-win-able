@@ -1,7 +1,7 @@
 ---
 title: The Integration of Pharmacogenomics Into Clinical Trials Is Becoming More Common to Assess the Safety and Efficacy of New Drugs Across Different Genetic Backgrounds
-date: 2024-09-21T04:54:24.080Z
-updated: 2024-09-28T07:37:05.685Z
+date: 2024-10-02T16:36:51.041Z
+updated: 2024-10-03T16:05:01.164Z
 tags:
   - win11
   - win10
@@ -56,10 +56,10 @@ Here’s how to use Fortect to run a Windows repair:
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -98,10 +98,10 @@ Here’s how to use Fortect to run a Windows repair:
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
@@ -129,33 +129,27 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -167,20 +161,13 @@ To check the specs of your PC:
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable overlays
 
@@ -201,7 +188,21 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Make sure your system is up to date
 
@@ -239,24 +240,20 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-reliving-retro-fun-with-top-5-emulated-game-boy-advance-games-on-desktop-systems/"><u>[New] 2024 Approved Reliving Retro Fun with Top 5 Emulated Game Boy Advance Games on Desktop Systems</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-resume-your-tiktok-journey-post-reload-error/"><u>[Updated] 2024 Approved Resume Your TikTok Journey Post-Reload Error</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-elevate-video-clarity-with-expert-tips-for-youtube-editors/"><u>[Updated] Elevate Video Clarity with Expert Tips for YouTube Editors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-master-seminar-script-synthesizer/"><u>[Updated] Master Seminar Script Synthesizer</u></a></li>
-<li><a href="https://win-able.techidaily.com/a-comprehensive-guide-fixing-the-persistent-error-code-0xc19001e1-on-windows-11-devices/"><u>A Comprehensive Guide: Fixing the Persistent 'Error Code 0XC19001e1' On Windows 11 Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-to-cut-down-input-delay-and-boost-performance-in-valorant-on-your-computer-insights-from-2024/"><u>Expert Solutions to Cut Down Input Delay and Boost Performance in Valorant on Your Computer - Insights From 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-black-desert-online-crashing-problems-on-your-computer/"><u>How to Fix Black Desert Online Crashing Problems on Your Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-resolve-file-size-exceeds-drive-capacity-on-your-external-memory-device/"><u>How to Resolve 'File Size Exceeds Drive Capacity' On Your External Memory Device</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-best-ways-to-watch-360-videos-on-android/"><u>In 2024, Unveiling the Best Ways to Watch 360 Videos on Android</u></a></li>
-<li><a href="https://win-able.techidaily.com/outriders-picture-perfect-strategies-to-tackle-and-fix-pixelated-views/"><u>Outriders Picture Perfect: Strategies to Tackle and Fix Pixelated Views</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-load-problems-when-playing-necromunda-hired-gun-on-desktops-and-laptops/"><u>Overcoming Load Problems When Playing Necromunda: Hired Gun on Desktops and Laptops</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/photographic-advantages-with-quantum-hdr-mastery/"><u>Photographic Advantages with Quantum HDR Mastery</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-adobe-premiere-pro-crashes-on-windows-1011-systems/"><u>Resolved: Fixing Adobe Premiere Pro Crashes on Windows 10/11 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-frame-rate-drop-and-stutter-in-battlefield-2042-for-pc-gamers/"><u>Resolved: Fixing Frame Rate Drop & Stutter in Battlefield 2042 for PC Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012681572-smooth-gaming-experience-destiny-2s-beyond-light-update-successfully-launched-on-personal-computers/"><u>Smooth Gaming Experience: Destiny 2'S Beyond Light Update Successfully Launched on Personal Computers!</u></a></li>
-<li><a href="https://win-able.techidaily.com/tips-and-tricks-to-prevent-sudden-shutdowns-while-playing-cities-skylines-pc/"><u>Tips and Tricks to Prevent Sudden Shutdowns While Playing Cities: Skylines (PC)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oneplus-ace-3-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On OnePlus Ace 3 for Parents | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/transitioning-from-srt-to-subtitles/"><u>Transitioning From SRT to Subtitles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-prime-mobileweb-invest-in-no-cost-imagery-upgrade/"><u>[New] In 2024, Prime Mobile/Web Invest in No-Cost Imagery Upgrade</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-optimizing-your-youtube-stream-with-wirecast/"><u>[New] Optimizing Your YouTube Stream with WireCast</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-time-lapse-techniques-for-samsung-enthusiasts/"><u>[New] Unveiling Time Lapse Techniques for Samsung Enthusiasts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-6ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone 6/iPad/iPod</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/enjoy-virtual-reality-with-plex-streaming-on-oculus-quest-the-ultimate-guide/"><u>Enjoy Virtual Reality with Plex Streaming on Oculus Quest: The Ultimate Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-for-fixing-the-tarkov-103003-error-a-step-by-step-tutorial/"><u>Expert Advice for Fixing the 'Tarkov 103#003 Error': A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-the-blend-of-style-and-might-in-the-4k-apple-imac-215-desktop-computer/"><u>Expert Review: The Blend of Style and Might in the 4K Apple iMac 21.5 Desktop Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-for-constant-age-of-wonders-planetfall-crashes-on-pc/"><u>Fixes and Solutions for Constant 'Age of Wonders: Planetfall' Crashes on PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 15 Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-common-problems-with-nvidias-geforce-experience-fixed/"><u>Overcoming Common Problems with NVIDIA's GeForce Experience - Fixed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-nba-2k21s-persistent-black-screen-issue/"><u>Resolve NBA 2K21's Persistent Black Screen Issue</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-auditory-alchemy-does-the-magic-voice-modifier-work-seek-alternates-for-2024/"><u>The Art of Auditory Alchemy Does the Magic Voice Modifier Work? Seek Alternates for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-essential-gadgets-for-your-iphone-must-have-accessories/"><u>Top-Rated Essential Gadgets for Your iPhone: Must-Have Accessories</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-manor-lords-game-freezes-on-your-computer/"><u>Troubleshooting Tips: Resolving Manor Lords Game Freezes on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-the-relink-ability-expert-fixes-for-granblue-fantasy-launch-issues/"><u>Unlocking the 'Relink' Ability: Expert Fixes for Granblue Fantasy Launch Issues</u></a></li>
 </ul></div>
 

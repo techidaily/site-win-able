@@ -1,7 +1,7 @@
 ---
 title: "God of War PC Version: Fixes & Solutions for Persistent Crashing Issues"
-date: 2024-09-23T23:22:13.785Z
-updated: 2024-09-27T20:27:56.002Z
+date: 2024-10-02T16:45:45.628Z
+updated: 2024-10-03T16:19:06.319Z
 tags:
   - win11
   - win10
@@ -33,10 +33,16 @@ The Outriders is finally out! However, many players encountered Outriders crashi
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Run Outriders as an administrator
@@ -53,13 +59,6 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
 
@@ -84,20 +83,20 @@ There are mainly two ways you can update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -113,19 +112,20 @@ There are mainly two ways you can update the graphics driver:
 2. Select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/in-game-settings-1.jpg)
 3. Under the**Display** tab, set the parameters as follows:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Windows Mode** :_Borderless_ or_Windowed_  
 **VSync** :_Off_  
 **Enable FPS Limit** :_On_  
 **FPS Limit** : Set the value to_between 30 and 60_
 
  While doing this may decrease the visual performance, it’s an effective workaround for Outriders inventory/menu crashes before the full version launches.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Enforce DX12
 
@@ -146,10 +146,10 @@ There are mainly two ways you can update the graphics driver:
 Still no luck with DX12? Then check out the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
@@ -159,6 +159,14 @@ Still no luck with DX12? Then check out the next method below.
 1. Run Steam and open the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
@@ -188,17 +196,21 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-dji-inspire-2s-features/"><u>[New] Unveiling DJI Inspire 2'S Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726026783851-5/"><u>「動画編集者からも認められる、正方形化がスムーズな5つのアプリ選び」</u></a></li>
-<li><a href="https://solve-info.techidaily.com/boost-traffic-with-cookiebot-the-ultimate-seo-and-marketing-solution-for-modern-websites/"><u>Boost Traffic With Cookiebot: The Ultimate SEO and Marketing Solution for Modern Websites</u></a></li>
-<li><a href="https://win-able.techidaily.com/cs-2-wont-open-a-comprehensive-guide-to-fixes-and-workarounds/"><u>CS 2 Won't Open? A Comprehensive Guide to Fixes and Workarounds</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722992422457-how-to-restore-discord-overlay-functionality-without-hiccups/"><u>How to Restore Discord Overlay Functionality Without Hiccups</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stop-life-is-strange-from-crashing-complete-walkthrough/"><u>How to Stop Life Is Strange From Crashing? [Complete Walkthrough]</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-asus-rog-phone-7-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Asus ROG Phone 7 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-puzzle-mysterious-setup-error/"><u>Printer Puzzle: Mysterious Setup Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-overhigh-latency-in-call-of-duty-modern-warfare-ii-warzone-20-top-advice-for-gamers-2-guide/"><u>Solving OverHigh Latency in Call of Duty: Modern Warfare II (Warzone 2.0) - Top Advice for Gamers, 2# Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-ce-34878-0-playstation-4-error-message-updated-solution/"><u>Step-by-Step Fix for CE-34878-0 Playstation 4 Error Message [UPDATED SOLUTION]</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-to-solve-starfield-games-peak-cpu-usage-challenge-latest-insights-202n4/"><u>Troubleshooting Tips to Solve Starfield Game's Peak CPU Usage Challenge - Latest Insights (202N4)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-simplifying-the-process-of-creating-a-high-quality-rss-feed/"><u>[Updated] 2024 Approved Simplifying the Process of Creating a High-Quality RSS Feed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-starting-a-new-chapter-establishing-an-enterprise-ig-page/"><u>2024 Approved Starting a New Chapter Establishing an Enterprise IG Page</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avi-video-rotation-made-easy-top-free-software-for-2024/"><u>AVI Video Rotation Made Easy Top Free Software for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-wow-flicker-forever-effortless-troubleshooting-guide/"><u>Banish WoW Flicker Forever: Effortless Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-eliminate-lag-while-playing-avatar-frontiers-of-pandora/"><u>Effective Solutions to Eliminate Lag While Playing Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-resolve-dying-lights-fps-lag-during-action-packed-shooter-sequences/"><u>Expert Tips to Resolve Dying Light's FPS Lag During Action-Packed Shooter Sequences</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-issues-civ-6-wont-start-on-windows-10-devices/"><u>Fix Issues: Civ 6 Won't Start on Windows 10 Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-does-the-system-restore-feature-work-in-windows-11/"><u>How Does the System Restore Feature Work in Windows 11?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-6s-plus-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 6s Plus For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-overcome-the-not-launching-hurdle-for-overwatch-2-a-guide/"><u>How To Successfully Overcome The 'Not Launching' Hurdle for Overwatch 2 - A Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-optimizing-workflow-automate-your-meet-times/"><u>In 2024, Optimizing Workflow Automate Your Meet Times</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-problem-of-inoperative-front-headset-connector-easily-and-effectively/"><u>Solve the Problem of Inoperative Front Headset Connector Easily & Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009461689-solving-overwatch-audio-lag-issues-expert-solutions-and-tips/"><u>Solving Overwatch Audio Lag Issues: Expert Solutions & Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-final-act-steps-for-permanent-instagram-account-removal-for-2024/"><u>The Final Act Steps for Permanent Instagram Account Removal for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixes-for-non-responsive-cortana/"><u>Troubleshooting Guide: Fixes for Non-Responsive Cortana</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-8-digital-audio-workstations-daws-on-pc-compatible-with-windows-10-and-7-free-and-paid-options-for-2024/"><u>Updated Top 8 Digital Audio Workstations (DAWs) on PC Compatible with Windows 10 & 7, Free and Paid Options for 2024</u></a></li>
 </ul></div>
 

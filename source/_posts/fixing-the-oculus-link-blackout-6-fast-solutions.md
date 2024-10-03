@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Oculus Link Blackout: 6 Fast Solutions"
-date: 2024-09-25T05:01:33.333Z
-updated: 2024-09-28T02:00:39.836Z
+date: 2024-10-01T16:01:41.514Z
+updated: 2024-10-03T16:45:36.008Z
 tags:
   - win11
   - win10
@@ -35,6 +35,19 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 
  Before you attempt the following fixes, please make sure your PC meets the[minimum requirements for Oculus Link](https://support.oculus.com/444256562873335) . Otherwise, you’ll need to upgrade the hardware component before you can use the app normally.
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Repair system files
 
  Missing or corrupted system files is one of the most common causes that your Oculus Link malfunction or goes black. To identify what’s the problem and fix it, you should perform a thorough scan and repair of your computer.
@@ -66,26 +79,19 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch Oculus Link to test. If the problem persists, have a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the resolution
 
@@ -99,34 +105,15 @@ There are mainly two ways you can update the driver:
 5. Restart your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Reboot your Oculus headset and plug it back to the PC.
 
  Check whether Oculus Link works properly with your VR rig or not. If not, proceed to the next method.
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Disable in-game overlay
 
@@ -137,16 +124,16 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/7-1-1-1.jpg)
 3. Turn off**In-game overlay** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00-1.jpg)
 
  Restart Oculus Link and your VR devices to see if the problem goes away. Still no luck? Don’t worry; there are two more fixes to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Opt out of Public Test Channel
 
@@ -160,15 +147,22 @@ It’s suggested you opt out of the Beta mode and here’s how:
 3. **Toggle off** the button next to Public Test Channel.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-2.jpg)
 
  Test if Oculus Link returns to the normal state. If not, continue to the next troubleshooting tips.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6 – Use the dedicated graphics card
 
@@ -178,15 +172,15 @@ It’s suggested you opt out of the Beta mode and here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-3-1.jpg)
 2. On the left pane, select**3D settings** \>**Manage 3D settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4.jpg)
 3. Go to the**Program Settings** tab. Then, select your Oculus app from the drop-down list and choose**High-performance NVIDIA processor** below.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-5.jpg)
 
@@ -216,19 +210,22 @@ Restart Oculus Link and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlocking-secrets-creating-powerful-fb-cover-videos/"><u>2024 Approved Unlocking Secrets Creating Powerful FB Cover Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-video-chat-with-peace-of-mind-top-10-secure-call-apps-available-without-cost/"><u>2024 Approved Video Chat with Peace of Mind Top 10 Secure Call Apps Available without Cost</u></a></li>
-<li><a href="https://article-tips.techidaily.com/background-excision-tool-affinity-photo-for-2024/"><u>Background Excision Tool Affinity Photo for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-sound-problems-heres-how-to-restore-headset-functionality/"><u>Corsair Sound Problems? Here's How to Restore Headset Functionality</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effortless-conversion-transform-your-ms-word-documents-into-interactive-flipbooks-with-flipbuilder/"><u>Effortless Conversion: Transform Your MS Word Documents Into Interactive Flipbooks with FlipBuilder!</u></a></li>
-<li><a href="https://win-able.techidaily.com/elevate-your-valorant-experience-fix-stuttering-and-improve-frame-rates-efficiently/"><u>Elevate Your Valorant Experience: Fix Stuttering and Improve Frame Rates Efficiently</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-correctly-address-and-repair-the-notorious-0xc19001e1-glitch-in-w10/"><u>Expert Tips to Correctly Address and Repair the Notorious 0xC19001E1 Glitch in W10</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-lower-fps-in-forza-horizon-5-tips-and-tricks/"><u>Fixing Lower FPS in Forza Horizon 5: Tips and Tricks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-affordable-and-reliable-discover-the-best-online-passport-photo-apps/"><u>In 2024, Affordable & Reliable Discover the Best Online Passport Photo Apps</u></a></li>
-<li><a href="https://win-dash.techidaily.com/optimize-your-network-free-download-of-killer-e2500-high-speed-ethernet-driver-suite/"><u>Optimize Your Network: [Free Download] of Killer E2500 High-Speed Ethernet Driver Suite</u></a></li>
-<li><a href="https://win-able.techidaily.com/outriders-optimization-how-we-overcame-slow-motion-gameplay-woes/"><u>Outriders Optimization - How We Overcame Slow Motion Gameplay Woes</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-relink-function-failures-for-an-enhanced-granblue-fantasy-experience/"><u>Overcoming 'Relink' Function Failures for an Enhanced Granblue Fantasy Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-persistent-crashes-in-immortals-a-guide-to-a-smooth-fenyx-rising-experience/"><u>Overcoming Persistent Crashes in Immortals: A Guide to a Smooth Fenyx Rising Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-strategies-for-resolving-iphones-frozen-ios-update-issue/"><u>Top Strategies for Resolving iPhone's Frozen iOS Update Issue</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-mastery-over-picture-in-picture-for-improved-productivity/"><u>[New] Mastery over Picture In Picture for Improved Productivity</u></a></li>
+<li><a href="https://win-able.techidaily.com/chivalry-ii-troubleshooting-how-to-stop-the-game-from-crashing/"><u>Chivalry II Troubleshooting: How to Stop the Game From Crashing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-the-windows-default-pdf-handler/"><u>Customizing the Windows Default PDF Handler</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-overcoming-the-initial-failure-to-startup/"><u>Cyberpunk 2077: Overcoming the Initial Failure to Startup</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-call-of-duty-warzones-game-disc-error-50-and-31-on-your-computer-with-easy-steps/"><u>Fixing Call of Duty: Warzone's Game Disc Error [5.0] and [3.1] on Your Computer with Easy Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-steam-cant-update-server-files-issue-a-comprehensive-guide/"><u>Fixing the 'Steam Can't Update Server Files' Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-back-in-action-troubleshooting-guide-for-stuck-or-frozen-minecraft-on-desktop-computers/"><u>Getting Back in Action: Troubleshooting Guide for Stuck or Frozen Minecraft on Desktop Computers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-honor-magic-6-pro-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Honor Magic 6 Pro.</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-apex-list-of-10-unmatched-recorders-for-spotify-playbacks/"><u>In 2024, Apex List of 10 Unmatched Recorders for Spotify Playbacks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-14-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 14 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-y17s-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo Y17s to iPad | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-x9b-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor X9b to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-baldurs-gate-3-from-failing-to-open/"><u>Resolved! How to Fix Baldur's Gate 3 From Failing to Open</u></a></li>
+<li><a href="https://win-able.techidaily.com/ring-of-elysium-ultimate-guide-to-increasing-your-frame-rate/"><u>Ring of Elysium: Ultimate Guide to Increasing Your Frame Rate</u></a></li>
+<li><a href="https://win11.techidaily.com/successful-strategies-for-streaming-your-dvd-collection-with-apple-tv/"><u>Successful Strategies for Streaming Your DVD Collection with Apple TV</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-fifa-20-game-crashing-issues-on-pc-a-step-by-step-guide/"><u>Ultimate Fixes for FIFA 20 Game Crashing Issues on PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-hp-chromebook-11-analysis-perfectly-balanced-for-learning-productivity-and-entertainment/"><u>Ultimate HP Chromebook 11 Analysis: Perfectly Balanced for Learning, Productivity, and Entertainment</u></a></li>
 </ul></div>
 

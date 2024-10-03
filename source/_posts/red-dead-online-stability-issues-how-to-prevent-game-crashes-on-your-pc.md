@@ -1,7 +1,7 @@
 ---
 title: "Red Dead Online Stability Issues: How to Prevent Game Crashes on Your PC"
-date: 2024-09-13T19:12:19.865Z
-updated: 2024-09-16T18:08:01.406Z
+date: 2024-09-26T16:46:35.883Z
+updated: 2024-10-03T16:41:27.178Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/25dfc703be5473423edfc66113d30469d26da4408
 2. Click on the **three dots** under the **Arcadegeddon** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch Arcadegeddon and see if this fix works. If the game still crashes, don’t worry. Read on and try the next fix, below.
@@ -88,16 +95,16 @@ thumbnail: https://thmb.techidaily.com/25dfc703be5473423edfc66113d30469d26da4408
 2. Select any other applications and programs that take up a large amount of **CPU** or **memory** , then click **End task** to close it.  
 ![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If Arcadegeddon works well after you closed those CPU / memory hogging applications, congratulations!
 
  To prevent Arcadegeddon from crashing due to insufficient memory in the future, you may need to consider[upgrading the memory (RAM) on your computer](https://www.amazon.com/s?k=RAM&tag=drivereasycom-20) .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Perform a clean boot
 
@@ -106,42 +113,38 @@ thumbnail: https://thmb.techidaily.com/25dfc703be5473423edfc66113d30469d26da4408
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
-5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
+5. Go back to the **System Configuration** window and click **OK** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -176,5 +179,24 @@ thumbnail: https://thmb.techidaily.com/25dfc703be5473423edfc66113d30469d26da4408
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-mastery-of-removal-eliminating-downloaded-youtube-clips/"><u>[New] 2024 Approved Mastery of Removal Eliminating Downloaded YouTube Clips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-innovative-video-editing-strategies-with-gopro-studio/"><u>[New] In 2024, Innovative Video Editing Strategies with GoPro Studio</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-carryminati-financial-triumphs-with-ajey-nagar-for-2024/"><u>[Updated] CarryMinati Financial Triumphs with Ajey Nagar for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-deciphering-the-code-understanding-what-unlisted-on-youtube-means/"><u>[Updated] Deciphering the Code Understanding What 'Unlisted' On YouTube Means</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-definition-hardware-unveiled-by-gamers/"><u>[Updated] In 2024, High-Definition Hardware Unveiled by Gamers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/dynamic-playback-pace-enhancers-list-for-2024/"><u>Dynamic Playback Pace Enhancers List for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-for-addressing-farming-simulator-22-startup-problems/"><u>Effective Strategies for Addressing Farming Simulator 22 Startup Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-overcoming-image-scanning-discrepancies/"><u>Expert Tips on Overcoming Image Scanning Discrepancies</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-nokia-c12-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Nokia C12 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-prime-gear-for-traditional-animators-needs/"><u>In 2024, Prime Gear for Traditional Animators' Needs</u></a></li>
+<li><a href="https://win-able.techidaily.com/ready-to-dive-into-doom-eternal-but-it-wont-start-lets-solve-that-issue/"><u>Ready to Dive Into DOOM Eternal but It Won't Start? Let's Solve That Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-flickering-screens-with-these-easy-fixes/"><u>Say Goodbye to Flickering Screens with These Easy Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-address-the-audio-glitches-in-dying-light/"><u>Solved: How to Address the Audio Glitches in Dying Light</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-resolving-stutter-in-counter-strike-global-offensive-games/"><u>Step-by-Step Guide to Resolving Stutter in Counter-Strike: Global Offensive Games</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-prevent-your-game-from-crashing-8-strategies-for-hogwarts-legacy/"><u>Troubleshoot and Prevent Your Game From Crashing - 8 Strategies for Hogwarts Legacy</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-preventing-constant-crashes-in-age-of-empires-4-on-pcs/"><u>Troubleshooting Tips: Preventing Constant Crashes in Age of Empires 4 on PCs</u></a></li>
+</ul></div>
 

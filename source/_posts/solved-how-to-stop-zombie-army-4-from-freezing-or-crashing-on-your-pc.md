@@ -1,7 +1,7 @@
 ---
 title: Solved! How to Stop Zombie Army 4 From Freezing or Crashing on Your PC
-date: 2024-09-11T00:24:17.536Z
-updated: 2024-09-16T21:44:22.473Z
+date: 2024-09-28T16:46:25.337Z
+updated: 2024-10-03T16:18:22.914Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -50,9 +57,24 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -68,32 +90,26 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 4. Click**Repair** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
 
@@ -103,27 +119,21 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click History.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
-4. Select all boxes and click**Clear** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
+4. Select all boxes and click**Clear** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
@@ -170,10 +180,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 4. Reboot your computer to check the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
@@ -198,5 +208,24 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-influencer-marketing-5-steps-to-conquer-it/"><u>[New] 2024 Approved Instagram Influencer Marketing 5 Steps to Conquer It</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-freshly-taken-images-dissection-and-secondary-ideas/"><u>[New] In 2024, Freshly Taken Images Dissection & Secondary Ideas</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-mastering-pip-activatedeactivate-in-safari-on-apple-devices/"><u>[New] In 2024, Mastering PIP Activate/Deactivate in Safari on Apple Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2022/"><u>如何成為高手？聯�지�行銷者對2022年有用技巧分析</u></a></li>
+<li><a href="https://win-able.techidaily.com/bioshock-2-hd-remaster-enhanced-graphics-and-performance-fixes/"><u>BioShock 2 HD Remaster: Enhanced Graphics & Performance Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fixes-for-the-notorious-error-code-0x803f8001-in-your-windows-11-or-10-minecraft-launcher/"><u>Comprehensive Fixes for the Notorious Error Code 0X803F8001 in Your Windows 11 or 10 Minecraft Launcher</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-code-solutions-for-prevalent-rainmeter-errors/"><u>Deciphering the Code: Solutions for Prevalent Rainmeter Errors</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-issues-when-whatsapp-messages-fail-to-alert-you/"><u>How to Resolve Issues When WhatsApp Messages Fail to Alert You</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-carryminati-financial-triumphs-with-ajey-nagar/"><u>In 2024, CarryMinati Financial Triumphs with Ajey Nagar</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-tribes-of-midgard-effective-strategies-to-overcome-game-disruptions-and-crashes/"><u>Mastering 'Tribes of Midgard': Effective Strategies to Overcome Game Disruptions and Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-errors-update-your-driver-to-play-minecraft-smoothly/"><u>No More Errors: Update Your Driver to Play Minecraft Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-graphics-card-bottlenecks-a-fix-for-lags-in-resident-evil-village-on-desktop-systems/"><u>Overcoming Graphics Card Bottlenecks: A Fix for Lags in Resident Evil Village on Desktop Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/1719347815778-resolve-dormant-shift-key-issue-on-windows/"><u>Resolve Dormant Shift Key Issue on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-solving-your-ps4-system-freeze-issues/"><u>Step-by-Step Guide: Solving Your PS4 System Freeze Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-fixing-wrc-10-installation-errors-fifas-latest-update-made-easy-for-pc-gamers/"><u>The Ultimate Guide to Fixing WRC 10 Installation Errors: FIFA's Latest Update Made Easy for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-resolving-acrocefexe-errors-without-a-glitch/"><u>Ultimate Solution: Resolving AcroCEF.exe Errors Without a Glitch 🛠️</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-essential-directory-of-fee-free-high-quality-audio-player-applications-for-android-and-ios-devices/"><u>Updated In 2024, The Essential Directory of Fee-Free, High-Quality Audio Player Applications for Android and iOS Devices</u></a></li>
+</ul></div>
 

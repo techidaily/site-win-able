@@ -1,7 +1,7 @@
 ---
 title: "Fixes for Gaming: Eliminating FPS Drops and Smoothing Out Stutter in Your Play"
-date: 2024-09-24T03:02:32.937Z
-updated: 2024-09-27T23:05:42.552Z
+date: 2024-10-02T16:06:23.272Z
+updated: 2024-10-03T16:51:42.161Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 4. **[Update network adapter drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Swap Wifi to Ethernet connection](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Stop other bandwidth-intensive activities
 
  Bandwidth hogging applications will slow down your network speed and trigger latency issues. Make sure you shut down all the other resource-hungry programs before streaming with OBS; if it’s your family members or friends who are doing bandwidth-intensive activities, just pick another time to stream or ask them politely to give way to you.
@@ -58,22 +65,15 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-621.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) When Windows asks you to confirm, click **End process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-622.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** Make sure you know what sort of applications you’re closing. **DO NOT** stop any programs that you’re not familiar with in case you mistakenly end the crucial ones (often related to your system) such as sychost.exe.
 
@@ -88,6 +88,19 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
  1) On your taskbar, type **command** into the search box. Then right-click on the **Command Prompt** result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-137.png)
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click **Yes** if you’re prompted about permission.
 
@@ -131,6 +144,13 @@ modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-596.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 wireless router
 
 2) Wait at least 30 seconds to let the two machines cool down a bit.
@@ -163,23 +183,17 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-629.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you have any problems using **Driver Easy Pro**  to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -207,10 +221,16 @@ wireless router
 4. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Adjust OBS settings
@@ -226,16 +246,16 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/image-15.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note that settings optimized for different streaming services (Twitch, Youtube, etc.) may vary, and you can probably find the recommended settings on their official websites (e.g., **[OBS settings for Twitch](https://stream.twitch.tv/)**  ).
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Update graphics card drivers
 
@@ -245,6 +265,13 @@ wireless router
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Shut down unnecessary programs
 
  If you have too many GPU-intensive programs running in the background, that will definitely slow down the processing speed of your computer and lead to graphics lag. It’s not hard to shut down unnecessary programs, but have you noticed a Windows 10 feature called “Game Bar” that may render poor performance in OBS? If you haven’t, it’s about time you turned it off.
@@ -253,40 +280,13 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-450.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the pop-up window, toggle off **Game Mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-451.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Go to the **Game bar** tab and turn off the toggle button below **Record game clips, screenshots, and broadcast using Game bar** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-452.png)
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now check to see whether your lag issue with OBS has been mitigated or resolved.
 
@@ -319,16 +319,21 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/roven-pathways-to-profit-with-youtube-short-videos-for-2024/"><u>[New] Proven Pathways to Profit with YouTube Short Videos for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-complete-breakdown-setting-up-game-capture-on-ps4-console-for-2024/"><u>[Updated] The Complete Breakdown Setting Up Game Capture on PS4 Console for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/experience-a-seamless-steam-vr-connection-try-these-6-troubleshooting-steps/"><u>Experience a Seamless Steam VR Connection - Try These 6 Troubleshooting Steps!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-on-solving-common-problems-with-non-functioning-phasmophobia-in-virtual-reality/"><u>Expert Tips on Solving Common Problems with Non-Functioning Phasmophobia in Virtual Reality</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/fast-forward-memories-samsung-timelapse-basics/"><u>Fast-Forward Memories Samsung Timelapse Basics</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-12-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 12 mini Apple ID and Apple Pay</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-enable-gpu-usage-in-call-of-duty-warzone-on-windows-10/"><u>How to Enable GPU Usage in Call of Duty: Warzone on Windows 10</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Infinix Note 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-strategies-to-combat-repeated-freezing-and-crashes-of-f1-2021-while-playing-on-pc/"><u>Solution Strategies to Combat Repeated Freezing and Crashes of F1 2021 While Playing on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-players-handbook-eliminate-fifa-20-crashing-issues-on-your-pc-forever/"><u>The Player's Handbook: Eliminate FIFA 20 Crashing Issues on Your PC Forever</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-crystal-clear-play-top-5-ultra-hd-gaming-pcmonitor-screens/"><u>[New] 2024 Approved Crystal Clear Play Top 5 Ultra HD Gaming PC/Monitor Screens</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-concurrent-photoplusvideo-on-iphone/"><u>[Updated] The Art of Concurrent Photo+Video on iPhone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-itel-p55-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Itel P55 5G without App | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-breakdown-of-thermaltakes-premium-laptop-chiller-quality-vs-price-insights/"><u>Comprehensive Breakdown of Thermaltake's Premium Laptop Chiller: Quality vs Price Insights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/comprehensive-update-best-android-apps-for-downloading-facebook-videos-for-2024/"><u>Comprehensive Update Best Android Apps for Downloading Facebook Videos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/counter-strike-2-not-opening-easy-repair-methods-inside/"><u>Counter-Strike 2 Not Opening? Easy Repair Methods Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/cure-the-constant-breakdown-of-back-4-blood-on-pc-expert-fixing-guide/"><u>Cure the Constant Breakdown of 'Back 4 Blood' On PC - Expert Fixing Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/cutting-edge-software-transform-and-tweet-videos-for-2024/"><u>Cutting-Edge Software Transform and Tweet Videos for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/eliminate-background-noise-from-online-video-content/"><u>Eliminate Background Noise From Online Video Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/god-of-war-pc-troubleshooting-guide-resolving-unexpected-shutdowns-and-errors/"><u>God of War PC Troubleshooting Guide: Resolving Unexpected Shutdowns and Errors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-crafting-engaging-youtube-video-layouts/"><u>In 2024, Crafting Engaging YouTube Video Layouts</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-system-for-a-smooth-no-rest-for-the-wicked-gaming-session-avoid-frustrating-crashes/"><u>Optimizing Your System for a Smooth 'No Rest for the Wicked' Gaming Session: Avoid Frustrating Crashes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000102083-pc-performance-optimization-solutions-to-stop-wrc-10-from-crashing-and-dive-into-the-fia-world-rally-action/"><u>PC Performance Optimization: Solutions to Stop WRC 10 From Crashing and Dive Into the FIA World Rally Action!</u></a></li>
+<li><a href="https://win-able.techidaily.com/reconnect-and-continue-your-adventure-6-reliable-fixes-for-terraria-connection-problems/"><u>Reconnect and Continue Your Adventure: 6 Reliable Fixes for Terraria Connection Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-nier-replicant-hd-remaster-a-step-by-step-guide-to-fix-initialization-problems/"><u>Unlocking NieR Replicant HD Remaster: A Step-by-Step Guide to Fix Initialization Problems</u></a></li>
 </ul></div>
 

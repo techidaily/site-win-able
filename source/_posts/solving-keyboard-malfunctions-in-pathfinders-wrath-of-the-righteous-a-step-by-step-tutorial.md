@@ -1,7 +1,7 @@
 ---
 title: Solving Keyboard Malfunctions in Pathfinder's Wrath of the Righteous - A Step-by-Step Tutorial
-date: 2024-09-15T19:23:31.219Z
-updated: 2024-09-17T00:01:55.431Z
+date: 2024-09-27T16:33:18.318Z
+updated: 2024-10-03T16:48:04.609Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/b291d1186c17a0e27af028a28ffb312d4304bf88d
 
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check for hardware issues
 
  When your keyboard stops working in-game, the first thing you can do is to rule out the possibility of a faulty device. Here are some general troubleshooting steps you can try:
@@ -57,6 +64,13 @@ If you didn’t find any hardware issues, try the next fix.
 
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
  This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
@@ -64,13 +78,6 @@ If you didn’t find any hardware issues, try the next fix.
 1. Open your Steam library and find Pathfinder: Wrath of the Righteous. Right-click the game and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
@@ -81,10 +88,10 @@ If you didn’t find any hardware issues, try the next fix.
  If this fix doesn’t solve your problem, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your keyboard driver
@@ -101,6 +108,13 @@ If you didn’t find any hardware issues, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
@@ -129,5 +143,24 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-funimate-decoded-a-step-by-step-journey/"><u>[New] Funimate Decoded A Step-by-Step Journey</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-the-procedure-of-attaining-facebooks-blue-status-badge/"><u>[New] Mastering the Procedure of Attaining Facebook's Blue Status Badge</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-perfect-your-mac-how-to-record-desktop-activity-for-2024/"><u>[New] Perfect Your Mac How to Record Desktop Activity for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-utilizing-film-content-a-strategy-for-teachers/"><u>[New] Utilizing Film Content A Strategy for Teachers</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-modern-warfare-3-fps-hitching-problems-revealed-solutions-and-prevention-tips/"><u>Call of Duty: Modern Warfare 3 FPS Hitching Problems Revealed: Solutions & Prevention Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exclusive-look-unboxing-and-review-of-maistos-newest-family-adventure-the-rc-rock-crawler/"><u>Exclusive Look: Unboxing & Review of Maisto's Newest Family Adventure, The RC Rock Crawler!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-picture-in-picture-features-on-sierras-operating-systems/"><u>Exploring Picture in Picture Features on Sierra's Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-oculus-rift-a-step-by-step-approach-to-reestablish-runtime-connection/"><u>Fixing Oculus Rift: A Step-by-Step Approach to Reestablish Runtime Connection</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-connectivity-issues-with-your-msi-mystic-light-controller-in-a-windows-environment/"><u>Overcoming Connectivity Issues with Your MSI Mystic Light Controller in a Windows Environment</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-players-rejoice-crusader-kings-iii-crash-problems-resolved/"><u>PC Players Rejoice: Crusader Kings III Crash Problems Resolved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-the-witcher-3-on-pc-when-it-keeps-crashing/"><u>Resolved: How to Fix The Witcher 3 on PC When It Keeps Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-fixing-the-ominous-black-screen-in-star-wars-battlefront-ii-gameplay/"><u>Solution Found! Fixing the Ominous Black Screen in Star Wars Battlefront II Gameplay</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-collective-evaluation-of-vllo-for-2024/"><u>The Collective Evaluation of VLLO for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-xiaomi-redmi-note-12-proplus-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Xiaomi Redmi Note 12 Pro+ 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-freezing-issues-in-minecraft-tips-for-uninterrupted-play-on-your-desktop/"><u>Troubleshooting Freezing Issues in Minecraft: Tips for Uninterrupted Play on Your Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-dealing-with-persistent-black-screens-on-mtga-platform/"><u>Ultimate Solution: Dealing with Persistent Black Screens on MTGA Platform</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-online-vertical-video-editors/"><u>Updated The Ultimate Guide to Online Vertical Video Editors</u></a></li>
+</ul></div>
 

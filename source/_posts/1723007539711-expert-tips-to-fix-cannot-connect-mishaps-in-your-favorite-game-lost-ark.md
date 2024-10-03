@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Fix 'Cannot Connect' Mishaps in Your Favorite Game, Lost Ark!
-date: 2024-09-15T21:31:04.009Z
-updated: 2024-09-16T19:39:14.723Z
+date: 2024-09-29T16:25:29.005Z
+updated: 2024-10-03T16:32:06.754Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 5. **[Disable antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Flush your DNS and Renew your IP](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Reboot your network
 
  Before you try any of the fixes below, you may want to simply restart your game and router. If restarting the game multiple times failed to launch the game, you’ll need to restart your network:
@@ -51,6 +58,13 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 6. Turn on your computer and connect to the Internet.
 7. Launch your game again and see if Hitman 3 works properly now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Allow Hitman 3 to run through Windows Firewall
 
  The**Connection Failed** error can happen if Windows Firewall is blocking your game. So be sure to check the Windows Firewall settings and let your Hitman 3 run through Windows Firewall. Here is how:
@@ -58,6 +72,13 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 1. In the Windows Search bar, type**firewall** and select**Windows Defender Firewall** .  
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
@@ -67,6 +88,14 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 5. Click**Allow another app…**  
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 6. Add your Hitman 3 executable file. If you’re not sure where the game is installed, please follow these steps:  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * Click on the game title in your library.  
    * Select _**Properties**_ from the menu on the left.  
    * In the _**Local files**_ section, press _**Open folder**_ .  
@@ -90,34 +119,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Run your game as an administrator
 
@@ -136,6 +144,13 @@ OR
 
 **Note:** Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6:**Flush your DNS and Renew your IP**
 
  If you keep getting this “connection failed” error, you can try flushing your DNS and renewing your IP:
@@ -144,6 +159,14 @@ OR
 2. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to run the Command Prompt as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap8-5.jpg)
 3. You will be prompted for permission. Click **Yes** to run the **Command Prompt** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap9-5.jpg)
 5. Then type the command line **ipconfig /release**  and press **Enter**  on your keyboard.  
@@ -151,13 +174,6 @@ OR
 6. Type the command line **ipconfig /renew**  and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap12-5.jpg)
 7. Play Hitman 3 again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -182,5 +198,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-discovering-the-details-a-guide-to-roblox-closeups/"><u>[New] Discovering the Details A Guide to Roblox Closeups</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-landscape-smm-best-practices/"><u>[New] Navigating the Landscape SMM Best Practices</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-new-world-keeps-crashing-on-pc/"><u>[SOLVED] New World Keeps Crashing on PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-effective-social-media-video-promos-for-2024/"><u>[Updated] Mastering Effective Social Media Video Promos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996243994-call-of-duty-vanguard-stutter-and-lag-troubleshooting-solutions-for-a-smoother-game/"><u>Call of Duty Vanguard Stutter and Lag Troubleshooting: Solutions for a Smoother Game !</u></a></li>
+<li><a href="https://win11.techidaily.com/cleverly-camouflaged-these-programs-slow-down-windows-users/"><u>Cleverly Camouflaged, These Programs Slow Down Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-down-on-in-game-security-flaws-solutions-for-safer-play/"><u>Cracking Down on In-Game Security Flaws: Solutions for Safer Play</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-obs-streamrecord-lag-problems-a-comprehensive-guide/"><u>Fixing OBS Stream/Record Lag Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nokia-g310-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nokia G310 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-not-installed-error-in-eac-a-step-by-step-installation-tutorial/"><u>Overcoming the 'Not Installed' Error in EAC: A Step-by-Step Installation Tutorial</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-honor-magic-6-lite-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Honor Magic 6 Lite Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-guide-to-ipad-video-editors-top-5/"><u>Updated In 2024, The Ultimate Guide to iPad Video Editors Top 5</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visualize-humor-use-kapwing-for-making-memes/"><u>Visualize Humor - Use Kapwing for Making Memes</u></a></li>
+</ul></div>
 

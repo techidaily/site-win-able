@@ -1,7 +1,7 @@
 ---
 title: "Resolve PC Gaming Nightmares: Tips to Stop Outriders From Freezing and Stuttering"
-date: 2024-09-22T16:59:04.618Z
-updated: 2024-09-28T09:50:19.938Z
+date: 2024-10-01T17:11:47.112Z
+updated: 2024-10-03T16:19:30.563Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Install the latest patch
@@ -51,24 +51,18 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Stop overclocking your CPU
 
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should set your CPU clock speed rate back to the default to fix your issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -106,19 +100,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-77.png)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note: You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer to take effect.
@@ -128,6 +109,13 @@ Now launch Metro Exodus and see if the crashing issue has been resolved.
 If your problem still persists, don’t worry. There is another try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Switch to DX11 in your game settings
 
@@ -169,18 +157,18 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-82.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6) Save your changes and restart your computer.
 
 Launch Metro Exodus and see if it works now.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower the in-game video settings
 
@@ -213,17 +201,24 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-kinemaster-edge-the-ultimate-transition-strategies/"><u>[New] Kinemaster Edge The Ultimate Transition Strategies</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-rethinking-windows-photo-viewer-usage-on-modern-os-for-2024/"><u>[New] Rethinking Windows Photo Viewer Usage on Modern OS for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-pros-best-practices-free-template-samples/"><u>2024 Approved Premiere Pro's Best Practices FREE Template Samples</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-only-guide-youll-need-to-know-about-instagram-reels/"><u>2024 Approved The Only Guide You'll Need to Know About Instagram Reels</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-step-by-step-guide-how-to-resolve-tear-down-app-freezing-issues/"><u>Complete Step-by-Step Guide: How to Resolve Tear Down App Freezing Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-lags-in-resident-evil-village-on-pc-essential-troubleshooting-guide-for-gamers/"><u>Eliminate Lags in Resident Evil Village on PC: Essential Troubleshooting Guide for Gamers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-magic-behind-color-grading-with-luts-for-2024/"><u>Exploring the Magic Behind Color Grading with LUTs for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-halo-infinite-solutions-to-the-troublesome-black-screen-problem/"><u>Fixing Halo Infinite: Solutions to the Troublesome Black Screen Problem</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721468356968-issue-with-iphone-and-vpn-not-working-discover-7-quick-fixes/"><u>Issue with iPhone and VPN Not Working? Discover 7 Quick Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-fixes-for-when-madden-nfl-22-crashes-expert-tips/"><u>Quick Fixes for When Madden NFL 22 Crashes: Expert Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-frostpunks-persistent-crashing-problem/"><u>Troubleshooting Guide: Resolving Frostpunk's Persistent Crashing Problem</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-movavis-shipping-returns-and-exchange-regulations-for-hassle-free-shopping/"><u>Understanding Movavi's Shipping, Returns, and Exchange Regulations for Hassle-Free Shopping</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-become-an-instant-contributor-at-a-tiktok-gathering-for-2024/"><u>[New] Become an Instant Contributor at a TikTok Gathering for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-leaderboards-best-12-action-recorders-including-satellite-positioning/"><u>[New] Leaderboard's Best 12 Action Recorders Including Satellite Positioning</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-cultivating-a-thoughtful-approach-to-youtube-feedback/"><u>[Updated] In 2024, Cultivating a Thoughtful Approach to YouTube Feedback</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-personalize-your-tune-list-a-step-by-step-guide-to-youtube-playlist-creation/"><u>[Updated] Personalize Your Tune List A Step-by-Step Guide to YouTube Playlist Creation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-seamless-incorporation-of-virtual-boards-in-web-conferencing-mobiledesktop-methods/"><u>[Updated] Seamless Incorporation of Virtual Boards in Web Conferencing Mobile/Desktop Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unveiling-the-essence-of-streaming-with-recordcast-for-2024/"><u>[Updated] Unveiling the Essence of Streaming with RecordCast for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-ajay-the-creative-content-creators-profitable-venture-on-youtube/"><u>2024 Approved AJay The Creative Content Creator's Profitable Venture on YouTube</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-pci-card-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download the Latest PCI Card Drivers Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-solutions-for-addressing-and-repairing-doom-eternals-crash-issues/"><u>Expert Tips & Solutions for Addressing and Repairing DOOM Eternal's Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-performance-and-network-issues-for-a-smooth-new-world-experience/"><u>Fixing Performance and Network Issues for a Smooth 'New World' Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-v29e-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo V29e Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-play-troubleshooting-and-preventing-crashes-in-ghost-recon-breakpoint/"><u>Master the Play: Troubleshooting & Preventing Crashes in Ghost Recon Breakpoint</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-stable-playthrough-of-yakuza-the-song-of-life-on-your-personal-computer/"><u>Mastering the Fix: Stable Playthrough of Yakuza The Song of Life on Your Personal Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-frustration-fix-guide-to-cyberpunk-2077-pc-game-crashes/"><u>No More Frustration: Fix Guide to Cyberpunk 2077 PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-technical-glitches-in-resident-evil-village-for-smooth-pc-gameplay/"><u>Overcoming Technical Glitches in Resident Evil Village for Smooth PC Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-lag-and-frame-drops-in-the-latest-game-version-a-step-by-step-guide/"><u>Solving Lag and Frame Drops in the Latest Game Version: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-converting-your-favorite-mp3-into-a-custom-iphone-ringtone-in-just-two-methods/"><u>The Ultimate Guide to Converting Your Favorite MP3 Into a Custom iPhone Ringtone in Just Two Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-to-eliminate-call-of-duty-vanguards-freezing-issues-without-spending-a-penny/"><u>Troubleshooting Techniques to Eliminate Call of Duty: Vanguard's Freezing Issues Without Spending a Penny</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-the-engine-of-your-steelseries-gg-controller-when-it-fails-in-windows/"><u>Troubleshooting: How to Fix the Engine of Your SteelSeries GG Controller When It Fails in Windows</u></a></li>
 </ul></div>
 

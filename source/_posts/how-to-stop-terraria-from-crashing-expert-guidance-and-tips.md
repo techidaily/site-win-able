@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Terraria From Crashing : Expert Guidance and Tips"
-date: 2024-09-24T22:06:51.731Z
-updated: 2024-09-27T23:43:38.582Z
+date: 2024-10-01T16:40:55.717Z
+updated: 2024-10-03T16:23:07.289Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ But the good news is that you can fix it. Here’re 9 fixes to try.
 8. **[Run Dota 2 in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall_Dota 2_](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Sometimes, Dota 2 might crash or stop responding because of a temporary issue that can be fixed with a simple reboot. A restart clears off the current state of your operating system/software and helps you get rid of troublesome codes.
@@ -59,6 +66,13 @@ If Dota 2 still crashes randomly, try the fix below.
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -91,27 +105,20 @@ _Dota 2_ may not be able to access certain game files on your computer under nor
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Relaunch_Dota 2_ .
 
@@ -127,13 +134,6 @@ _Dota 2_ is likely to crash when one or more game files are damaged. So you shou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Dota 2**  and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-322.png)
@@ -142,16 +142,22 @@ _Dota 2_ is likely to crash when one or more game files are damaged. So you shou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-323.png)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Relaunch your game to test your issue.
 
  If_Dota 2_ crashing issues happen again, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Adjust virtual memory
 
@@ -196,13 +202,6 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 **9)** Restart your computer and your game.
 
  If you still run into the_Dota 2_ crashing issue, don’t fret. Check the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Set game launch options
 
@@ -254,23 +253,9 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-308.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click**SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-311.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Remove any launch options currently shown.
 
@@ -281,13 +266,6 @@ If Dota 2 still crashes, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-318.png)
 
  If your game is still unplayable, you need to**reopen the Launch Options box and clear the launch option.** Then, try the fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Run Dota 2 in compatibility mode
 
@@ -325,9 +303,23 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-325.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click**DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-326.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
@@ -335,9 +327,23 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2020-07-30_12-27-55.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Highlight the **Dota 2 folder** , and then press the **Del** key on your keyboard to delete it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2020-07-30_16-51-54-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)** Download and reinstall_Dota 2_ .
 
@@ -365,24 +371,18 @@ If Dota 2 still crashes, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-guide-7-preferred-android-ad-blocking-tools/"><u>[New] Ultimate Guide 7 Preferred Android Ad Blocking Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-buddy-up-virtuals-metaverses-best-10/"><u>[Updated] Buddy Up Virtuals Metaverse's Best 10</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-cinematic-blackout-premiere-pro-guide/"><u>2024 Approved Cinematic Blackout - Premiere Pro Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/bugged-out-solving-recurrent-issues-with-cod-mw/"><u>Bugged Out? Solving Recurrent Issues with COD: MW</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquering-the-invisible-screen-a-comprehensive-strategy-to-restore-your-steam-gameplay/"><u>Conquering the Invisible Screen: A Comprehensive Strategy to Restore Your Steam Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/essential-fixes-for-overcoming-rainbow-six-siege-online-play-errors/"><u>Essential Fixes for Overcoming Rainbow Six Siege Online Play Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-game-running-overcoming-hardware-and-driver-errors-in-rainbow-six-extraction/"><u>Get Your Game Running: Overcoming Hardware and Driver Errors in Rainbow Six Extraction</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-fix-when-your-witcher-3-wild-hunt-game-wont-start/"><u>Mastering the Fix: When Your Witcher 3: Wild Hunt Game Won't Start</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-oppo-f25-pro-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo F25 Pro 5G – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-freezing-problems-pathfinder-wrath-of-the-righteular-is-now-playable-on-pc/"><u>Overcome Freezing Problems: 'Pathfinder: Wrath of the Righteular' Is Now Playable on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-call-of-duty-vanguard-fixing-development-bug-5573/"><u>Resolving Call of Duty: Vanguard - Fixing Development Bug 5573</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-pc-crashing-issues-with-counter-strike-2-cs2-expert-solutions-and-adjustments/"><u>Say Goodbye to PC Crashing Issues with Counter-Strike 2 (CS2) - Expert Solutions & Adjustments</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/swift-rescaling-perfect-mac-pixels-with-youtube/"><u>Swift Rescaling Perfect Mac Pixels with YouTube</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-secret-to-love-in-video-editing-filmoras-best-aspects/"><u>The Secret to Love in Video Editing Filmora's Best Aspects</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-cutting-edge-electronics/"><u>Tom's Tech Review: In-Depth Analysis of Cutting-Edge Electronics</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/trending-beats-navigating-the-world-of-viral-tiktok-raps-for-2024/"><u>Trending Beats Navigating the World of Viral TikTok Raps for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlock-the-secret-to-perfect-discord-screenshares-overcoming-the-persistent-black-screen-dilemma/"><u>Unlock the Secret to Perfect Discord Screenshares: Overcoming the Persistent Black Screen Dilemma</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-videography-essentials-7-free-audio-choices-for-2024/"><u>YouTube Videography Essentials - 7 Free Audio Choices for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-picture-power-infusing-textual-elements-on-windows-and-mac-photo-canvas/"><u>[New] 2024 Approved Picture Power Infusing Textual Elements on Windows & Mac Photo Canvas</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-streamlining-game-recording-techniques-for-2024/"><u>[Updated] Streamlining Game Recording Techniques for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024s-top-fixes-to-resolve-final-epoch-failures-in-personal-computers/"><u>2024'S Top Fixes to Resolve Final Epoch Failures in Personal Computers</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/macdvdquicktime/"><u>最新Mac用の無料DVDをQuickTimeに効率的変換: 高速マルチメディアコンバーター</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-methods-for-preventing-vr-game-disruptions-and-crashes-on-personal-laptops-or-desktops/"><u>Effective Methods for Preventing VR Game Disruptions and Crashes on Personal Laptops or Desktops</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-13-mini-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone 13 mini Stuck On Activation Lock?</u></a></li>
+<li><a href="https://article-files.techidaily.com/master-your-chromebooks-pitch-and-tone-with-our-top-5-web-tools-for-2024/"><u>Master Your Chromebook's Pitch and Tone with Our Top 5 Web Tools for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/no-phone-needed-register-for-online-applications-efficiently/"><u>No Phone Needed: Register for Online Applications Efficiently</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-gen-shock-problems-with-these-five-simple-fixes/"><u>Resolve Your Gen Shock Problems with These Five Simple Fixes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/twisting-the-narrative-a-guide-to-angled-photography-in-todays-digital-landscape/"><u>Twisting the Narrative A Guide to Angled Photography in Today's Digital Landscape</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-step-by-step-instructions-on-how-to-perform-a-factory-reset-on-your-samsung-television/"><u>Ultimate Guide: Step-by-Step Instructions on How to Perform a Factory Reset on Your Samsung Television</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-11-users-can-now-enjoy-civilization-vi-after-launch-concerns-are-addressed/"><u>Windows 11 Users Can Now Enjoy Civilization VI After Launch Concerns Are Addressed</u></a></li>
 </ul></div>
 

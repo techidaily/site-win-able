@@ -1,7 +1,7 @@
 ---
 title: "Master Terraria Connectivity: Six Essential Fixes for Lost Connections"
-date: 2024-09-14T19:38:38.809Z
-updated: 2024-09-16T22:11:35.003Z
+date: 2024-09-28T16:57:41.436Z
+updated: 2024-10-03T16:05:19.708Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ This can be done by verifying the game files in Steam.
 
  That will scan your game directory and compare it to the most updated version to find file differences and download files it’s missing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2\. Check if you’re playing different styles
 
  This error**Terraria Lost Connection** will occur if you don’t have a character to coordinate with the type of map.
@@ -67,6 +74,14 @@ This can be done by verifying the game files in Steam.
 1. Type**windows defender firewall** in the Search box, and select**Windows Defender Firewall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/07/win-11-windows-defender.jpg)
 2. From the left menu, select **Turn Windows Defender Firewall on or off** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![turn off firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/Turn-on-or-off.jpg)
 3. Select **Turn off Windows Defender Firewall (not recommended)** for Domain network, Private Network, and Public network. Then click **OK** .  
 ![turn off firewall for all](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-off.jpg)
@@ -87,24 +102,17 @@ This can be done by verifying the game files in Steam.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/06/Driver-Easy-Scan-Now.jpg)
 3. Click the**Update** button next to your network adapter to download the latest and correct driver for it, and then you can install it manually.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will have full tech support and a 30-day money-back guarantee.)
 4. Restart your PC and try to start your Terraria to see if this helps get rid of the ‘Lost Connection’ error.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5\. Enable port forwarding
 
@@ -136,17 +144,37 @@ This can be done by verifying the game files in Steam.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ncpa.cpl_.jpg)
 2. Right-click your current connection, and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.jpg)
 3. Double-click**Internet Protocol Version 4 (TCP/IPv4)** from the list.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![configure IPV4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPv4-1.jpg)  
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4\. Select **Use the following IP address** , and**Use the following DNS server automatically** , and enter the details you copied from Command Prompt: IP address, subnet mask, default gateway, and DNS servers.  
 
@@ -163,10 +191,10 @@ This can be done by verifying the game files in Steam.
 4. Enter the IP Address of your PC in the relevant box.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Choose both **TCP** and**UDP** ports for your games in the appropriate box (we suggest a number above 5,000 and usually**7777** ).  
@@ -175,10 +203,10 @@ This can be done by verifying the game files in Steam.
 6. Once complete, enable the port forwarding rule with an **Enable** or **On** option.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Fix 6\. Uninstall and reinstall the game
@@ -213,5 +241,16 @@ This can be done by verifying the game files in Steam.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ising-stars-in-streaming-global-youtubes-subs-pantheon/"><u>[New] Rising Stars in Streaming Global YouTube's Subs Pantheon</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-deciphering-how-to-find-my-youtube-comments-posts/"><u>[Updated] 2024 Approved Deciphering How To Find My YouTube Comments Posts</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-techkeys-ultimate-bluetooth-adapter-drivers-compatible-with-windows-1078/"><u>Download Techkey's Ultimate Bluetooth Adapter Drivers Compatible with Windows 10/7/8</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-making-warno-more-resilient-against-system-freezes-and-errors/"><u>Expert Advice on Making Warno More Resilient Against System Freezes and Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-prevent-and-fix-yakuza-nthe-song-of-life-pc-game-crashes/"><u>Expert Tips to Prevent and Fix Yakuza nThe Song of Life PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-extraction-fixing-the-notorious-pc-performance-problems/"><u>Rainbow Six Extraction: Fixing the Notorious PC Performance Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-how-to-stop-it-from-crashing-on-pcs/"><u>Red Dead Redemption 2 - How To Stop It From Crashing on PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-overcoming-sfc-error-in-windows-operating-systems/"><u>Troubleshooting Tips for Overcoming SFC Error in Windows Operating Systems</u></a></li>
+</ul></div>
 

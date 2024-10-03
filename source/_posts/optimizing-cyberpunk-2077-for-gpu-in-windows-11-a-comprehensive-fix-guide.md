@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Cyberpunk 2077 for GPU in Windows 11: A Comprehensive Fix Guide"
-date: 2024-09-13T23:25:36.354Z
-updated: 2024-09-16T20:35:21.539Z
+date: 2024-09-28T16:35:13.721Z
+updated: 2024-10-03T16:46:55.121Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 2. Right-click each application in the list and click**End task** to close them one by one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
  If there’re no background programs consuming your CPU but the problem still exists, check out the next fix below.
@@ -75,32 +82,28 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![Cyberpunk 2077 settings](https://images.drivereasy.com/wp-content/uploads/2020/12/navigate-to-in-game-settings.jpg)
 2. Navigate to the**Gameplay** tab. Then, scroll to the Performance section and set**Crowd Density** to**Low** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics-1.jpg)
 3. Go to the**Video** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Under the Advanced section,**turn off Ray Tracing** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/6-3.jpg)
 5. Scroll to**DLSS** and set it to**off** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics-2.jpg)
 
  Relaunch the game to check if the issue persists. If yes, have a look at the next fix.
 
@@ -112,30 +115,44 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-5.jpg)
 2. Select**Small icons** next to View by and click**Power Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-2.jpg)
 3. Choose**Balanced** or**High Performance** mode if you’re facing high CPU usage, then click**Change plan settings** next to your chosen plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-3.jpg)
 4. Click**Change advanced power settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-4.jpg)
 5. Select**Processor power management** \>**Maximum processor state** . Then, set it to another**value no below 90%** , and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Cyberpunk 2077 to test. If it’s still using too much CPU, continue to the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Update your device drivers
 
@@ -154,10 +171,10 @@ There are two ways you can update the device drivers correctly:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -184,5 +201,18 @@ There are two ways you can update the device drivers correctly:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-securing-your-videos-on-facebook-pc-plus-android-methods/"><u>[New] 2024 Approved Securing Your Videos on Facebook PC + Android Methods</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-windows-10-voice-memos-explained/"><u>[Updated] 2024 Approved Windows 10 Voice Memos Explained</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-highest-rated-10-apps-to-watch-golf-and-soccer-in-the-moment/"><u>2024 Approved Highest Rated 10 Apps to Watch Golf & Soccer in the Moment</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-iii-crashes-cured-enjoy-uninterrupted-adventures-in-sanctuary/"><u>Diablo III Crashes Cured: Enjoy Uninterrupted Adventures in Sanctuary</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/engaging-instagram-stories-with-animated-text-effects/"><u>Engaging Instagram Stories with Animated Text Effects</u></a></li>
+<li><a href="https://win-able.techidaily.com/god-of-war-error-not-enough-available-memory-now-corrected-insider-guide/"><u>God of War Error 'Not Enough Available Memory' Now Corrected: Insider Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introducing-the-future-of-driving-chatgpt-powered-by-voice-control-in-new-mercedes-benz-models/"><u>Introducing the Future of Driving: ChatGPT Powered by Voice Control in New Mercedes-Benz Models</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-magic-the-gathering-arcade-eradicating-persistent-screen-blackouts/"><u>Mastering Magic: The Gathering Arcade - Eradicating Persistent Screen Blackouts</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-playthroughs-of-psychonauts-2-on-pc-how-to-avoid-the-crash-bug/"><u>Mastering Smooth Playthroughs of Psychonauts 2 on PC – How to Avoid the Crash Bug</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/t-mobile-unlimited-plans-understanding-your-access-to-metro-by-verizon-wireless-networks/"><u>T-Mobile Unlimited Plans: Understanding Your Access to Metro by Verizon Wireless Networks</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-eliminating-black-screen-error-when-opening-epic-games-launcher/"><u>Ultimate Guide: Eliminating Black Screen Error When Opening Epic Games Launcher</u></a></li>
+</ul></div>
 

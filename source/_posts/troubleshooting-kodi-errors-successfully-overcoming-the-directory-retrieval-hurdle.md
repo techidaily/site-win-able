@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Kodi Errors: Successfully Overcoming the Directory Retrieval Hurdle"
-date: 2024-09-26T19:09:27.405Z
-updated: 2024-09-27T21:24:33.798Z
+date: 2024-09-27T17:18:13.249Z
+updated: 2024-10-03T16:38:52.459Z
 tags:
   - win11
   - win10
@@ -70,6 +70,13 @@ Here’s how:
 
  If this fix failed to solve the crash, simply**undo these changes** and move on to the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of the crash is**corrupted or outdated graphics drivers** . GPU manufacturers keep releasing driver updates in response to compatibility issues with new games. So if you can’t remember the last time you checked for driver updates, definitely do it now because it could just fix your issue in a jiffy.
@@ -80,8 +87,23 @@ Here’s how:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -90,10 +112,10 @@ Here’s how:
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
@@ -107,25 +129,11 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
@@ -155,23 +163,24 @@ Here’s how you can install system updates on Windows 10 or 7:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates.jpg)
 2. Select**System and Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-3.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-4.jpg)
 4. Click**Install updates** . It’ll take a while (up to 1 hour) for Windows to install all the updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-5.jpg)
@@ -190,24 +199,17 @@ And here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-change-resolute.jpg)
 2. From the left menu, Select**Graphics** . Change the settings of**Display Mode** to**1280×720 Windowed** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-change-resolute-2.jpg)
 3. Continue your game and see if it stops crashing.
 
- If this method doesn’t do the trick for you, simply try the next one below.
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If this method doesn’t do the trick for you, simply try the next one below.
 
 ### Fix 7: Lower in-game graphics settings
 
@@ -218,13 +220,6 @@ And just for your reference, here’s my graphics settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-my-settings-1200x648.jpg)
 
  If the crash persists when you’re playing on the lowest graphics, you can check out the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Run Genshin Impact on another GPU
 
@@ -248,6 +243,13 @@ And just for your reference, here’s my graphics settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. Select**Power saving** and click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can launch Genshin Impact and see if it stops crashing.
 
@@ -284,17 +286,19 @@ Now you can launch Genshin Impact and see if it stops crashing.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-15-youtube-template-download-sites/"><u>[New] Top 15 YouTube Template Download Sites</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-your-guide-to-premium-full-screen-recorders-for-pcmac/"><u>[Updated] Your Guide to Premium Full-Screen Recorders for PC/Mac</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-canon-camera-insights-for-stunning-time-lapse-vids/"><u>2024 Approved Canon Camera Insights for Stunning Time-Lapse Vids</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/digital-dream-team-best-screen-capture-software-online-for-2024/"><u>Digital Dream Team Best Screen Capture Software Online for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-techniques-to-test-website-connectivity-with-icmp-echo/"><u>Effective Techniques to Test Website Connectivity with ICMP Echo</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/gopro-quik-on-pc-how-to-use-it-and-explore-other-options/"><u>GoPro Quik on PC How to Use It and Explore Other Options</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-easily-add-ambiance-mixing-voice-and-tune-on-windows-pc/"><u>How To Easily Add Ambiance: Mixing Voice & Tune on Windows PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-narzo-60x-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme Narzo 60x 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-your-gaming-experience-addressing-splitgate-stutter-and-boosting-frames-per-second-fps/"><u>Master Your Gaming Experience: Addressing Splitgate Stutter & Boosting Frames per Second (FPS)</u></a></li>
-<li><a href="https://win-able.techidaily.com/tips-and-tricks-overcome-common-issues-with-biomutant-gameplay-on-pc/"><u>Tips & Tricks: Overcome Common Issues with Biomutant Gameplay on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-fixes-resolving-issues-with-intel-graphics-drivers/"><u>Troubleshooting Fixes: Resolving Issues with Intel Graphics Drivers</u></a></li>
-<li><a href="https://win-able.techidaily.com/unraveling-the-mystery-behind-assassins-creed-valhallas-unexpected-launch-schedule-shift/"><u>Unraveling the Mystery Behind Assassin's Creed Valhalla’s Unexpected Launch Schedule Shift</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-maximize-your-video-impact-with-free-vimeo-editing/"><u>[New] 2024 Approved Maximize Your Video Impact with FREE Vimeo Editing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-verify-your-youtube-account-for-2024/"><u>[New] How to Verify Your YouTube Account for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-terminate-your-own-discord-server-pcmobile/"><u>[Updated] 2024 Approved How to Terminate Your Own Discord Server (PC/Mobile)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-capture-and-share-best-social-media-tools-of-the-year-for-2024/"><u>[Updated] Capture and Share Best Social Media Tools of the Year for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-leading-phones-gopro-editing-solutions-revealed/"><u>2024 Approved Leading Phones' GoPro Editing Solutions Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/automating-excel-file-backup-on-onedrive-simple-guide/"><u>Automating Excel File Backup on OneDrive - Simple Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-know-how-you-can-trim-or-merge-using-wondershare-filmora-trimming-and-merging-using-this-tool-is-an-easy-task-learn-how-for-2024/"><u>Do You Know How You Can Trim or Merge Using Wondershare Filmora? Trimming and Merging Using This Tool Is an Easy Task; Learn How for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-superior-streaming-recorders-for-youtube-vloggers/"><u>In 2024, Superior Streaming Recorders for YouTube Vloggers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-14-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 14 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/streamline-your-workflow-create-multiple-folders-fast-using-excel-techniques/"><u>Streamline Your Workflow: Create Multiple Folders Fast Using Excel Techniques.</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-essential-android-applications-for-optimal-chromebook-experience/"><u>Top Essential Android Applications for Optimal Chromebook Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/transforming-your-microsoft-office-aesthetics-an-easy-guide-to-altering-color-schemes/"><u>Transforming Your Microsoft Office Aesthetics: An Easy Guide to Altering Color Schemes</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-compatibility-mode-in-ms-office-a-detailed-overview/"><u>Understanding Compatibility Mode in MS Office: A Detailed Overview</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-excel-efficiency-a-comprehensive-tutorial-on-freezingthawing-rows-and-columns/"><u>Unlock Excel Efficiency: A Comprehensive Tutorial on Freezing/Thawing Rows & Columns</u></a></li>
 </ul></div>
 

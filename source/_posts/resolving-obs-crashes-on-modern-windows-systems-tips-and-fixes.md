@@ -1,7 +1,7 @@
 ---
 title: Resolving OBS Crashes on Modern Windows Systems - Tips and Fixes
-date: 2024-09-23T05:57:05.234Z
-updated: 2024-09-28T00:36:59.350Z
+date: 2024-09-26T16:18:45.305Z
+updated: 2024-10-03T16:48:31.842Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 
 If this method doesn’t help, check out your graphics driver.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, Diablo 2 Resurrected crashing is more likely to occur. To fix it, you should update your graphics driver to the latest.
@@ -73,13 +80,6 @@ If this method doesn’t help, check out your graphics driver.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
@@ -98,33 +98,32 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -134,6 +133,20 @@ If this method doesn’t help, check out your graphics driver.
 2. At the bottom, click the**gear icon** next to the Play button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
@@ -154,14 +167,15 @@ If this method doesn’t help, check out your graphics driver.
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
  After all the overlay feature is disabled, your game should return to normal.
 
@@ -187,21 +201,18 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-strategic-screen-customization-timely-adjustments-in-teams/"><u>[New] 2024 Approved Strategic Screen Customization Timely Adjustments in Teams</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-advanced-workshop-naming-service-2023/"><u>[New] Advanced Workshop Naming Service 2023</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harness-your-view-count-cross-platform-studio-methods-for-2024/"><u>[Updated] Harness Your View Count Cross-Platform Studio Methods for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-unlock-advanced-splitting-with-non-xsplit-apps/"><u>[Updated] In 2024, Unlock Advanced Splitting with Non-Xsplit Apps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-final-verdict-on-screen-capture-obs-vs-twitch-studio/"><u>[Updated] The Final Verdict on Screen Capture OBS vs Twitch Studio</u></a></li>
-<li><a href="https://win-able.techidaily.com/all-set-for-action-the-official-launch-of-it-takes-two/"><u>All Set for Action! The Official Launch of 'It Takes Two'</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-utorrent-download-speed-ultimate-guide-to-resolving-lag-issues/"><u>Boost Your uTorrent Download Speed: Ultimate Guide to Resolving Lag Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/cutting-edge-fixes-for-improving-your-minecraft-experience-on-desktops-tips-and-tricks-2023-update/"><u>Cutting Edge Fixes for Improving Your Minecraft Experience on Desktops (Tips & Tricks) - 2023 Update</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/equitable-engagement-ais-artistic-trial-and-judgement/"><u>Equitable Engagement: AI's Artistic Trial and Judgement</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-guides-resolving-arma-3-software-errors-2024-edition/"><u>Fixes and Guides: Resolving Arma 3 Software Errors, 2024 Edition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unbeatable-prices-for-top-budget-4k-cameras-(1000/"><u>In 2024, Unbeatable Prices for Top Budget 4K Cameras (<$1,000)</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/lenovos-revolutionary-x1-fold-tablet-unveiled-a-comprehensive-examination/"><u>Lenovo's Revolutionary X1 Fold Tablet Unveiled: A Comprehensive Examination</u></a></li>
-<li><a href="https://win-able.techidaily.com/masterclass-diagnosing-and-fixing-stability-problems-with-mount-and-blade-2-bannerlord/"><u>Masterclass: Diagnosing and Fixing Stability Problems with Mount & Blade 2 - Bannerlord</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-restoring-functionality-to-your-logitech-g-hub-while-using-windows/"><u>Step-by-Step: Restoring Functionality to Your Logitech G Hub While Using Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlock-the-mystery-understanding-beyond-the-wire-and-its-aftermath/"><u>Unlock the Mystery: Understanding 'Beyond The Wire' And Its Aftermath</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/zdnet-exclusive-openai-unveils-commercial-variant-of-chatgpt-for-enterprises/"><u>ZDNet Exclusive: OpenAI Unveils Commercial Variant of ChatGPT for Enterprises</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-acquiring-igtv-media-easily-a-comprehensive-pcmac-guide/"><u>[New] Acquiring IGTV Media Easily A Comprehensive PC/Mac Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-beginners-blueprint-for-speedy-video-on-snapchat/"><u>[New] Beginner’s Blueprint for Speedy Video on Snapchat</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-screen-snatching-made-easy-analyzing-no-cost-recording-apps/"><u>[New] In 2024, Screen Snatching Made Easy – Analyzing No-Cost Recording Apps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-ideal-history-streams-the-10-premier-channels-for-students-study-for-2024/"><u>[Updated] Ideal History Streams The 10 Premier Channels for Students' Study for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-eye-exhaustion-cure-for-monitor-flickering/"><u>Eliminate Eye Exhaustion: Cure for Monitor Flickering</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-graphics-driver-glitch-on-oculus-devices/"><u>Fixing the Graphics Driver Glitch on Oculus Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-a-recent-vac-penalty-in-dota-2/"><u>How to Overcome a Recent VAC Penalty in Dota 2</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-13-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/speeding-up-download-speeds-on-origin-proven-tips-and-tricks-for-gamers-in-202n4/"><u>Speeding Up Download Speeds on Origin - Proven Tips and Tricks for Gamers in 202N4</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-capturing-screen-images-on-your-desktop/"><u>Step-by-Step Guide: Capturing Screen Images on Your Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-guide-to-preventing-and-fixing-last-epoch-errors-on-your-pc-top-tips-and-tricks-updated/"><u>The Definitive Guide to Preventing and Fixing Last Epoch Errors on Your PC: Top Tips & Tricks (Updated )</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-freezing-chrome-browsers-easily-on-your-windows-10-pc/"><u>Troubleshoot Freezing Chrome Browsers Easily on Your Windows 10 PC</u></a></li>
 </ul></div>
 

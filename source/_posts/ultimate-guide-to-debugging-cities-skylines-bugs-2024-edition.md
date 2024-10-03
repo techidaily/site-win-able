@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Debugging Cities: Skylines Bugs - 2024 Edition"
-date: 2024-09-12T21:23:34.718Z
-updated: 2024-09-16T16:15:52.687Z
+date: 2024-09-30T16:32:42.505Z
+updated: 2024-10-03T16:15:42.693Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 4. **[Change your computer’s power plan](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall War Thunder](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1 – Use dedicated GPU
 
@@ -89,6 +96,13 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -99,10 +113,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Shut down unnecessary applications
@@ -113,15 +127,22 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the application you want to close and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
@@ -130,19 +151,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4 – Change your computer’s power plan
 
  Windows set your computer to the Balanced power plan by default. There’s no problem with this option, but if you constantly run into the decreased gaming performance like FPS drops, you should adjust the power settings.
@@ -150,13 +158,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**control** in the field and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/w4-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Select**Small icons** from the drop-down menu next to**View by** and click**Power Options** .
 
@@ -170,6 +171,19 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5 – Adjust the in-game graphics settings
 
  High or ultra graphics settings sometimes won’t give you the visual effect as you want, but make the game perform worse, especially if your rig is barely above the minimum requirements. If so, the very solution is to lower the settings.
@@ -177,13 +191,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 **1)** Open War Thunder. Then, click the**gear icon** to enter the Settings menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Turn off**VSync** . Then, set each option under**Advanced Settings** to the lowest, as shown in the picture below.
 
@@ -204,6 +211,13 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 **2)** Right-click**War Thunder** from the game list and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click**Delete** to confirm.
 
@@ -237,5 +251,21 @@ Lately, many players have been complaining about War Thunder low FPS after the n
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-assessing-inshots-superiority-in-the-editing-arena/"><u>[New] Assessing InShot's Superiority in the Editing Arena</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-freeze-the-action-find-these-top-9-gif-recipes-on-windows-pc-for-2024/"><u>[Updated] Freeze the Action! Find These Top 9 GIF Recipes on Windows PC for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-list-of-instagram-grid-making-software/"><u>[Updated] The Ultimate List of Instagram Grid Making Software</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>11 Best Location Changers for Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-y27-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo Y27 5G Unlock Without Password</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-league-of-legends-hiccups-in-a-flash-expert-tips-and-tricks/"><u>Fixing League of Legends Hiccups in a Flash - Expert Tips & Tricks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-vivo-y100-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y100 Safely | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-corsair-icue-malfunctions-a-step-by-step-fix-for-windows-11-users/"><u>Overcoming Corsair iCUE Malfunctions: A Step-by-Step Fix for Windows 11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-persistent-freezing-issues-in-halo-infinite-for-windows-players/"><u>Resolved: Persistent Freezing Issues in Halo Infinite for Windows Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-problem-of-constant-crashing-for-players-of-metro-exodus-pc-version/"><u>Solving the Problem of Constant Crashing for Players of Metro Exodus PC Version</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-action-hunting-gear/"><u>The Ultimate Guide to Action Hunting Gear</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-continuous-crashes-in-watch-dogs-legion-on-desktop-systems/"><u>Troubleshooting and Solving Continuous Crashes in Watch Dogs: Legion on Desktop Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-repairing-damaged-video-game-data-for-your-computer/"><u>Ultimate Guide: Repairing Damaged Video Game Data for Your Computer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbelievable-deals-await-score-an-epic-sale-with-a-breathtakingly-vivid-49-inch-samsung-oled-ultrawide-display-for-just-600-less/"><u>Unbelievable Deals Await: Score an Epic Sale with a Breathtakingly Vivid, 49-Inch Samsung OLED UltraWide Display for Just $600 Less</u></a></li>
+</ul></div>
 

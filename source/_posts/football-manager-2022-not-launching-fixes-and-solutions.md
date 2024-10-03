@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2022 Not Launching: Fixes & Solutions"
-date: 2024-09-10T20:14:46.190Z
-updated: 2024-09-17T00:26:55.450Z
+date: 2024-10-02T16:47:56.049Z
+updated: 2024-10-03T16:08:35.214Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Check your**operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-05.jpg)
@@ -89,6 +96,13 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-20.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, relaunch_FM19_ to see if it works correctly. If your problem persists, move on to Fix 3, below.
 
@@ -142,13 +156,6 @@ If your game still crashes, then go ahead with the next fix below.
 
  You should now be able to launch your game and actually play! If not, try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5:**Delete the Preferences and Caches Folder**
 
  Game cache files could also affect the performance of your game. Try clearing the_FM19_ Cache and Preferences folder to see if it fixes your issue. Here is how to do it:
@@ -170,10 +177,10 @@ If your game still crashes, then go ahead with the next fix below.
  Try launching_FM19_ again to see if this has resolved your issue. If it’s not, read on and check the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Set Game Launch Options
@@ -219,23 +226,9 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-13-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click**Football Manager 2019** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-38-40-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Click **SET LAUNCH OPTIONS.**
 
@@ -245,9 +238,23 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-38-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Type**\-small\_screen -windowed** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-49-22.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try launching your game again. If your problem still exists, don’t fret. There are still 2 more fixes to try.
 
@@ -266,6 +273,13 @@ If you still have the problem, try running your game in Windowed mode.
 **3)** Under View by, select**Large icons** , then click **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-14-19-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
 
@@ -304,16 +318,16 @@ If the game still crashes, try reinstalling the game launcher.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-52-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-29-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
@@ -332,6 +346,13 @@ If the game still crashes, try reinstalling the game launcher.
 **7)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-52-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)**  Move the backup **steamapps folder**  you created to your current directory location.
 
@@ -360,5 +381,23 @@ If the game still crashes, try reinstalling the game launcher.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-essential-lenovo-display-recording-hacks/"><u>[New] The Essential Lenovo Display Recording Hacks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-capturing-every-angle-top-choice-pro-360cameras-of-2023/"><u>[Updated] Capturing Every Angle Top Choice Pro 360°Cameras of 2023</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-a-quick-dive-into-video-ratios-the-aspect-ratio-essentials-for-youtubers/"><u>[Updated] In 2024, A Quick Dive Into Video Ratios The Aspect Ratio Essentials for YouTubers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-sync-up-with-tiktok-live-the-strategy-for-participation/"><u>[Updated] Sync Up with TikTok Live The Strategy for Participation</u></a></li>
+<li><a href="https://win-able.techidaily.com/beating-the-ls-0013-kickoff-hiccup-in-fortnite-everything-you-need-to-know/"><u>Beating the LS-0013 Kickoff Hiccup in Fortnite – Everything You Need to Know</u></a></li>
+<li><a href="https://fox-links.techidaily.com/expertly-convert-videos-on-your-device-with-the-most-trusted-apps-8/"><u>Expertly Convert Videos on Your Device with the Most Trusted Apps #8</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-resolve-code-vein-game-crashes-effectively/"><u>Fixing the Issue: Resolve 'Code Vein' Game Crashes Effectively</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/getting-the-most-out-of-google-meet-for-free-for-2024/"><u>Getting the Most Out of Google Meet (For Free) for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-c55-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme C55 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-efficiency-how-to-lower-cyberpunk-2077s-heavy-load-on-your-processor/"><u>Maximize Efficiency: How to Lower Cyberpunk 2077'S Heavy Load on Your Processor</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/most-liked-and-watched-twitters-2023-hits/"><u>Most Liked & Watched Twitters' 2023 Hits</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-pc-for-better-performance-in-phasmophobia/"><u>Optimizing Your PC for Better Performance in Phasmophobia</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-warzones-no-match-found-dilemma-a-guide-for-pc-gamers/"><u>Overcoming Warzone's 'No Match Found' Dilemma: A Guide for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-and-painless-way-to-uninstall-geforce-experience-from-windowsmacos/"><u>Quick and Painless Way to Uninstall GeForce Experience From Windows/MacOS</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-cod-battle-royales-warring-dev-error-6328-with-top-tips/"><u>Resolve Cod: Battle Royale's Warring Dev Error #6328 with Top Tips</u></a></li>
+</ul></div>
 

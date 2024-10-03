@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Assassin’s Creed Odyssey Crashing on PC. Easily!"
-date: 2024-09-11T18:44:48.143Z
-updated: 2024-09-16T17:15:47.853Z
+date: 2024-09-30T16:47:43.936Z
+updated: 2024-10-03T16:15:42.213Z
 tags:
   - win11
   - win10
@@ -64,8 +64,22 @@ There are mainly two ways to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-3.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -83,24 +97,31 @@ There are mainly two ways to update the graphics driver:
 3. Select**Properties** on the left pane, and click**Open folder** under Local files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-2.jpg)
 4. Right-click the**ACValhalla.exe file** and click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-5.jpg)
-5. Navigate to the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-5.jpg)
+5. Navigate to the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-6-1.jpg)
 6. Launch the ACValhalla.exe file directly from the installation folder and see how it works.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If the issue persists, head to the fixes below.
@@ -112,24 +133,18 @@ If the issue persists, head to the fixes below.
 1. Open Ubisoft Connect, and select the**Games** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-4.jpg)
 2. Move your mouse cursor over the title of Assassin’s Creed Valhalla. Then, click the**downward triangle icon** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-3.jpg)
 3. Click**Verify files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the process completes, relaunch the game to test. If this method doesn’t work, try the next one below.
 
@@ -141,15 +156,15 @@ If the issue persists, head to the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-5.jpg)
 2. Locate Assassin’s Creed Valhalla and click the**downward triangle** icon on the title. Then, click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-1-2.jpg)
 3. Reinstall the game to the same location where your OS and Ubisoft Connect app are installed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Assassin’s Creed Valhalla not launching issue should be resolved after the fresh reinstallation.
 
@@ -174,5 +189,20 @@ If the issue persists, head to the fixes below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-finding-premium-photo-quality-without-charges/"><u>[Updated] Finding Premium Photo Quality Without Charges</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-path-to-prominence-9-proven-strategies-for-instagram-stars/"><u>2024 Approved Navigating the Path to Prominence 9 Proven Strategies for Instagram Stars</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-frustration-effective-solutions-for-overcoming-hitman-3s-network-glitches/"><u>Beat the Frustration: Effective Solutions for Overcoming Hitman 3'S Network Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/dying-light-lag-problem-a-comprehensive-guide-to-solutions/"><u>Dying Light Lag Problem - A Comprehensive Guide to Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962148772-easily-update-your-pc-with-the-latest-canon-mf743cdw-driver-for-windows/"><u>Easily Update Your PC with the Latest Canon MF743CDW Driver for Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-division-2-crashes-a-speedy-and-straightforward-solution/"><u>Fixing Division 2 Crashes: A Speedy and Straightforward Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-payday-2-wont-start-on-pc-problems/"><u>How to Resolve 'Payday 2 Won't Start on PC' Problems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-minecraft-freezing-issues-in-windowsmac-environment/"><u>Resolving Minecraft Freezing Issues in Windows/Mac Environment</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-xr-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone XR</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-civ-6-installation-failures-on-windows-10/"><u>Troubleshooting Steps for Civ 6 Installation Failures on Windows 10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unleashing-the-power-of-dji-robomaster-s1-a-fun-filled-tank-drone-with-interactive-battles-and-learning-opportunities/"><u>Unleashing the Power of DJI RoboMaster S1 – A Fun-Filled Tank Drone with Interactive Battles and Learning Opportunities</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-from-console-to-cloud-how-to-share-ps4-screenshots-online-for-2024/"><u>Updated From Console to Cloud How to Share PS4 Screenshots Online for 2024</u></a></li>
+</ul></div>
 

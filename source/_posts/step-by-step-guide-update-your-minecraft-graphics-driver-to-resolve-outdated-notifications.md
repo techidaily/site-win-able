@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Update Your Minecraft Graphics Driver to Resolve 'Outdated' Notifications"
-date: 2024-09-23T21:37:50.117Z
-updated: 2024-09-27T18:28:19.314Z
+date: 2024-10-02T16:07:41.215Z
+updated: 2024-10-03T16:42:22.970Z
 tags:
   - win11
   - win10
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 
 If the update message pops up again, check out the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check the versions of Minecraft and your system
 
  Though the message tells you to update your graphics driver, it’s also a priority for you to **make sure both your Minecraft client and system are up to date** . Some players suggest that the message could also be telling you that you’re on an outdated client or system.
@@ -74,13 +67,21 @@ You can use the following steps to check for Minecraft updates.
 1. On your keyboard, press**Win** (the Windows logo key). Then click**Microsoft Store** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-1.jpg)
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Java edition
@@ -89,13 +90,6 @@ You can use the following steps to check for Minecraft updates.
 2. If you’re not seeing an update prompt, to the right of the Play button, click the arrow and select Latest release.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Make sure you’re on the latest Windows
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
@@ -103,24 +97,18 @@ You can use the following steps to check for Minecraft updates.
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all system updates, restart your PC and check if the issue persists.
 
 If you’re still seeing the message, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair Windows
 
@@ -155,24 +143,33 @@ Here’s how you can check the preferred GPU of Minecraft:
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
 4. Click **Options** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
-5. Click**High performance** and then**Save** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
+5. Click**High performance** and then**Save** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
 
 Now you can restart Minecraft and check if the message is still there.
 
@@ -197,19 +194,20 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-dive-deep-into-the-digital-world-adding-panoramic-photos-to-your-feed/"><u>[New] Dive Deep Into the Digital World Adding Panoramic Photos to Your Feed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-blocking-facebooks-advertising-overload-in-real-time/"><u>[Updated] Blocking Facebook's Advertising Overload in Real Time</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-e-commerce-avenues-for-aesthetic-box-personalization/"><u>[Updated] Ideal E-Commerce Avenues for Aesthetic Box Personalization</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-7-faqs-about-youtube-shorts-thumbnail-not-showing-problem/"><u>[Updated] In 2024, 7 FAQs About YouTube Shorts Thumbnail Not Showing Problem</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-rapid-growth-tactics-hit-and-maintain-a-stellar-10000-views-mark/"><u>[Updated] Rapid Growth Tactics Hit and Maintain a Stellar 10,000 Views Mark</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-methodology-for-video-filter-addition-on-tech-devices/"><u>2024 Approved Step-by-Step Methodology for Video Filter Addition on Tech Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/avoiding-crashes-expert-advice-on-handling-the-fatal-error-ark/"><u>Avoiding Crashes: Expert Advice on Handling the 'Fatal Error Ark'</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-valheim-experience-by-eliminating-high-latency-on-windows-systems/"><u>Boost Your Valheim Experience by Eliminating High Latency on Windows Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-visual-stability-in-racing-games-fixes-for-forza-horizon-5s-latest-driver-update-challenges/"><u>Mastering Visual Stability in Racing Games: Fixes for Forza Horizon 5'S Latest Driver Update Challenges</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-assassins-creed-valhallas-recurring-pc-system-errors-and-freezes/"><u>Resolving Assassin's Creed Valhalla's Recurring PC System Errors and Freezes</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-steam-errors-getting-helldivers-2-up-and-running-again/"><u>Resolving Steam Errors: Getting Helldivers 2 Up and Running Again</u></a></li>
-<li><a href="https://fox-access.techidaily.com/serpent-soundtrack-comprehensive-guide-to-tts-resources-online/"><u>Serpent Soundtrack Comprehensive Guide to TTS Resources Online</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unraveling-the-differences-between-ipad-and-ipad-air-models/"><u>Unraveling the Differences Between iPad and iPad Air Models</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-best-elgato-models/"><u>Unveiling the Best Elgato Models</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-front-to-back-and-back-again-the-insta-rotation-ritual-for-success/"><u>[New] In 2024, From Front to Back, and Back Again The Insta Rotation Ritual for Success</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-innovating-communication-integrate-google-meets-in-daily-life/"><u>[New] In 2024, Innovating Communication Integrate Google Meets in Daily Life</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-reacting-to-self-viewer-errors-on-popular-social-networks-for-2024/"><u>[Updated] Reacting to Self-Viewer Errors on Popular Social Networks for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-windows-movie-maker-turn-your-ideas-into-animated-reality/"><u>2024 Approved Windows Movie Maker Turn Your Ideas Into Animated Reality</u></a></li>
+<li><a href="https://win-able.techidaily.com/ensure-seamless-operation-verify-your-cpu-against-vanguards-basic-requirements/"><u>Ensure Seamless Operation: Verify Your CPU Against Vanguard's Basic Requirements</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-perfectly-stream-your-ps4-gaming-session/"><u>How to Perfectly Stream Your PS4 Gaming Session</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-command-ensuring-all-programs-launch-as-administrator-on-your-windows-11-pc/"><u>Master the Command: Ensuring All Programs Launch as Administrator on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/origin-service-down-heres-the-ultimate-guide-to-getting-your-account-up-and-running/"><u>Origin Service Down? Here’s the Ultimate Guide to Getting Your Account Up and Running</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-fortnite-startup-errors-dealing-with-entry-point-not-found/"><u>Overcoming Fortnite Startup Errors: Dealing with 'Entry Point Not Found'</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-gobie-fatal-error-in-black-desert-reborn-ue4-fix-guide/"><u>Resolving GOBIE Fatal Error in Black Desert Reborn - UE4 Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gaming-experience-tips-for-avoiding-fallout-3-freezes-when-running-windows-10/"><u>Smooth Gaming Experience: Tips for Avoiding Fallout 3 Freezes When Running Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-unifying-multiple-fortnite-accounts/"><u>Step-by-Step Tutorial on Unifying Multiple Fortnite Accounts</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-winwordexe-issues-with-these-5-handy-fixes/"><u>Troubleshoot WINWORD.EXE Issues with These 5 Handy Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-dolby-atmos-problems-in-windows-11-and-windows-10-systems/"><u>Troubleshooting Dolby Atmos Problems in Windows 11 and Windows 10 Systems</u></a></li>
 </ul></div>
 

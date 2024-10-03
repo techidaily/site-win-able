@@ -1,7 +1,7 @@
 ---
 title: Beat Phasmophobia's Endless Loading Scene - Fixes for the Frustrating 90%% Barrier
-date: 2024-09-25T12:13:03.749Z
-updated: 2024-09-27T19:47:24.689Z
+date: 2024-09-30T16:57:59.839Z
+updated: 2024-10-03T16:41:05.994Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 6. **[Reset your network](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Uninstall and reinstall Phasmophobia](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Make sure your computer meets the specs
 
  Like other video games, Phasmophobia has its own minimum system requirements if you want to play it. Also if you want to fully explore the game especially to unlock fascinating features, you’re supposed to meet the recommended requirements. You can check them out from the tables below.
@@ -60,13 +67,6 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your graphics driver
 
  Using outdated drivers can affect performance. So we recommend checking for driver updates on a regular basis. When you encounter the issue of a loading screen stuck, updating your drivers especially your graphics driver could be the best shot you take.
@@ -79,18 +79,18 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-phasmophobia-stuck-at-90-loading-screen/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1 – Manually update your drivers
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) , [AMD](https://www.amd.com/en/support) , and[Intel](https://www.intel.com/content/www/us/en/download-center/home.html) keep releasing driver updates. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your drivers**
 
@@ -104,13 +104,6 @@ OR
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -123,6 +116,13 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Verify the integrity of game files
 
  Verifying the integrity of game files is a recommended troubleshooting step you should take when you’re faced with game bugs like the screen stuck at loading. It can help you verify if the integrity of your game files is intact. If it is not, it’ll then restore any missing or corrupted files. Here’s how you can do this:
@@ -134,6 +134,13 @@ OR
  2) Select the**LOCAL FILES** tab and click the**VERIFY INTEGRITY OF GAME FILES…** button.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-1200x610.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Steam will verify the game’s files and this process may take several minutes. After it’s finished, launch your game to check if it works for you. If not, move on to the next fix.
 
@@ -150,16 +157,10 @@ OR
 ![delete save file Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Locate the**saveData.txt** file and delete it.
@@ -169,13 +170,6 @@ OR
  Deleting the saved file has proven to be working for many users. But it probably would delete your progress.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Run Steam as an administrator
 
@@ -194,16 +188,10 @@ OR
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-steam-as-an-administrator-apply-ok.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this didn’t work, move on to the next fix.
@@ -220,13 +208,6 @@ Here’s how you can do this:
   
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-type-in-the-search-bar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Reset now** .  
   
 ![do a network reset](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Reset-now.jpg)
@@ -235,9 +216,29 @@ Here’s how you can do this:
 
 ![reset network to fix phosmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Yes.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now restart your computer and your problem should be fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Uninstall and reinstall Phasmophobia
 
@@ -250,13 +251,6 @@ Take these steps:
  2) Type**%appdata%LocalLowKinetic Games** and press**Enter** .
 
 ![uninstall and reinstall Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Delete everything in the**Kinetic Games folder** .
 
@@ -288,17 +282,19 @@ Take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-rounded-overview-googles-podcast-application-demystified/"><u>2024 Approved Rounded Overview Google's Podcast Application Demystified</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-fix-lost-audio-in-pc-during-zoom-video-conferencing/"><u>Effective Solutions to Fix Lost Audio in PC During Zoom Video Conferencing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-techniques-for-dealing-with-non-operational-sound-services/"><u>Effective Techniques for Dealing with Non-Operational Sound Services</u></a></li>
-<li><a href="https://win-able.techidaily.com/elex-ii-stability-issues-resolved-how-to-stop-game-crashes-on-pc/"><u>Elex II Stability Issues Resolved: How to Stop Game Crashes on PC</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-tecno-pop-8-screen-sharing-drfone-by-drfone-android/"><u>How To Do Tecno Pop 8 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723001364236-launch-problems-in-valorant-heres-how-you-can-resolve-them-on-your-pc-latest-tips/"><u>Launch Problems in Valorant? Here's How You Can Resolve Them on Your PC - Latest Tips</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-terraria-stability-issues-with-new-2024-fixes-and-hacks/"><u>Overcome Terraria Stability Issues with New 2024 Fixes and Hacks</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-issues-solving-stutter-problems-in-sifu-fps-gameplay/"><u>PC Issues: Solving 'Stutter' Problems in Sifu FPS Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-gta-5-online-connectivity-issues/"><u>Troubleshooting Tips for GTA 5 Online Connectivity Issues</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/which-action-camera-takes-the-crown-gopro-vs-yi/"><u>Which Action Camera Takes the Crown ? GoPro Vs. YI</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-conquered-by-creatives-from-wmm-to-a-stellar-vimeo-presence/"><u>[Updated] 2024 Approved Conquered By Creatives From WMM to a Stellar Vimeo Presence</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-beam-your-content-upward-perfecting-youtube-seo-techniques/"><u>[Updated] In 2024, Beam Your Content Upward Perfecting YouTube SEO Techniques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nokia-g42-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Nokia G42 5G</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-methodologies-for-backdrop-purification-in-figma-design-for-2024/"><u>Advanced Methodologies for Backdrop Purification in Figma Design for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-black-ops-cold-war-freezing-problem-how-to-get-back-in-action-with-ease/"><u>Call of Duty: Black Ops Cold War Freezing Problem - How to Get Back in Action with Ease</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-imagery-detailed-analysis-of-mavic-pro/"><u>Elevating Imagery - Detailed Analysis of Mavic Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-itel-p55t-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Itel P55T Without PUK Codes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-playthroughs-fixing-overwatchs-stuttering-performance-problems/"><u>Mastering Smooth Playthroughs: Fixing Overwatch's Stuttering Performance Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-voice-chats-in-discord-lag-solutions-and-tips/"><u>Mastering Smooth Voice Chats in Discord – Lag Solutions & Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-freezing-glitches-in-call-of-duty-black-ops-cold-war-fixing-tips-and-solutions/"><u>Overcoming Freezing Glitches in Call of Duty: Black Ops Cold War - Fixing Tips and Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-frustration-alien-fireteam-elite-no-longer-crashes-on-pc/"><u>Say Goodbye to Frustration – Alien: Fireteam Elite No Longer Crashes on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-solving-the-persistent-problem-of-outlook-freezing-or-crashing/"><u>Understanding and Solving the Persistent Problem of Outlook Freezing or Crashing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-true-income-potential-in-podcasting/"><u>Unveiling the True Income Potential in Podcasting</u></a></li>
 </ul></div>
 

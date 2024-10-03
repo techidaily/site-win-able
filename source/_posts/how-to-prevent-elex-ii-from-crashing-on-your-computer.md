@@ -1,7 +1,7 @@
 ---
 title: How to Prevent Elex II From Crashing on Your Computer
-date: 2024-09-14T22:22:07.588Z
-updated: 2024-09-16T17:51:52.501Z
+date: 2024-09-29T16:02:56.400Z
+updated: 2024-10-03T17:01:24.544Z
 tags:
   - win11
   - win10
@@ -67,6 +67,14 @@ WARNO system requirements
 2. **Right-click** on **WARNO** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -87,14 +95,22 @@ WARNO system requirements
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
@@ -106,13 +122,6 @@ WARNO system requirements
  Eugen Systems, the developer of WARNO releases regular game patches to fix bugs and improve gaming performance.
 
 ![WARNO new patch](https://images.drivereasy.com/wp-content/uploads/2022/01/WARNO-new-patch-1105x1200.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it. If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
@@ -130,10 +139,10 @@ WARNO system requirements
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Discord, Nvidia GeForce Experience, Twitch, etc.), ensure you’ve disabled the in-game overlay in those apps feature.
@@ -141,16 +150,16 @@ WARNO system requirements
  Launch WARNO and see if the it crashes again. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
@@ -160,6 +169,13 @@ WARNO system requirements
  Launch WARNO and see if the game crashes after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Repair corrupted system files
 
@@ -177,6 +193,13 @@ If this fix didn’t work, try the next fix, below.
 3. Click **Start Repair** to automatically fix all the issues (You’ll need to pay for the full version. It comes with a 60-day money-back guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact**<support@fortect.com>** for a full refund.
 
 ## Perform a clean boot
@@ -186,19 +209,20 @@ If this fix didn’t work, try the next fix, below.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -237,5 +261,22 @@ If this fix didn’t work, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-elevate-your-video-remove-extraneous-details-effectively/"><u>[Updated] 2024 Approved Elevate Your Video - Remove Extraneous Details Effectively</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-easy-steps-to-activate-a-full-screen-grid-on-google-meet/"><u>[Updated] In 2024, Easy Steps to Activate a Full-Screen Grid on Google Meet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-sculpting-subtleties-with-title-texts/"><u>[Updated] In 2024, Sculpting Subtleties with Title Texts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-vision-to-execution-the-full-spectrum-of-personal-branding-on-youtube/"><u>2024 Approved From Vision to Execution The Full Spectrum of Personal Branding on YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-poco-m6-pro-4g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Poco M6 Pro 4G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-overcoming-directx-errors-in-battlefield-2cyb42/"><u>Effective Solutions for Overcoming DirectX Errors in Battlefield 2CYB42</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012570698-enhance-your-dying-light-2-gaming-resolve-frame-rate-drops-stop-the-stutters/"><u>Enhance Your Dying Light 2 Gaming: Resolve Frame Rate Drops, Stop the Stutters!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-why-does-your-moonlight-user-interface-continuously-fail-on-desktop/"><u>Fix: Why Does Your Moonlight User Interface Continuously Fail on Desktop?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-approaches-for-unwavering-viewership-within-limit-for-2024/"><u>Innovative Approaches for Unwavering Viewership (Within Limit) for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-youtubes-community-standards-as-a-viewer-or-creator-for-2024/"><u>Navigating YouTube's Community Standards as a Viewer or Creator for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-guide-to-free-mpeg-video-splitters-top-5-reviews/"><u>New The Ultimate Guide to Free MPEG Video Splitters Top 5 Reviews</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stability-issues-for-call-of-duty-warzone-2er-a-comprehensive-troubleshooting-guide/"><u>Overcoming Stability Issues for Call of Duty Warzone 2.er: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-why-does-tormented-souls-keep-freezing-or-closing-on-windowsmac/"><u>Resolved: Why Does Tormented Souls Keep Freezing or Closing on Windows/Mac?</u></a></li>
+<li><a href="https://win-able.techidaily.com/reviving-the-soundscape-fixing-complete-audio-absence-in-minecraft-pc-edition/"><u>Reviving the Soundscape: Fixing Complete Audio Absence in Minecraft PC Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-destiny-2-broccoli-collision-glitch-what-you-need-to-know/"><u>Ultimate Fix for Destiny 2 Broccoli Collision Glitch - What You Need to Know</u></a></li>
+</ul></div>
 

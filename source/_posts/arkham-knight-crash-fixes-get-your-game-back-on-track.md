@@ -1,7 +1,7 @@
 ---
 title: Arkham Knight Crash Fixes – Get Your Game Back on Track!
-date: 2024-09-15T22:10:08.310Z
-updated: 2024-09-16T20:04:52.441Z
+date: 2024-09-26T16:02:57.312Z
+updated: 2024-10-03T16:48:11.601Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/change-usb-ports.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Connect your headset directly into the PC
 
  Plug your headset’s USB and HDMI cables directly into the computer. You could still connect the power supply to Link Box or choose another power adapter.
@@ -68,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 2. Launch SteamVR and go to**Settings > Developer** . Click**Remove All SteamVR USB Devices** , and this will clear your SteamVR device memory.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/steamvr-remove-all-devices.jpg)
 3. Wait until it completes and plug all the cords back in after a couple of minutes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The steps above can help you troubleshoot the USB port, Link Box and connection. If they’re not the cause, take a look at Fix 3.
 
@@ -87,24 +101,10 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_09-41-35.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart SteamVR and see if the problem is fixed. If not, continue to more fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Disable Power Management
 
@@ -115,10 +115,16 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/steamvr-power-management-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 See if the headset is detected now. If not, go on to the next solution.
@@ -130,6 +136,20 @@ See if the headset is detected now. If not, go on to the next solution.
 1. Right-click**Steam** on your desktop and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-as-administrator-1.jpg)
 2. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-as-administrator-2.jpg)
 
  Now that the settings are applied. Check if your headset works now. If not, there is one more fix to try.
@@ -142,17 +162,25 @@ See if the headset is detected now. If not, go on to the next solution.
 2. Hover your mouse over the**Library** tab and click**Tools** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/steamvr-tools.jpg)
 3. Right-click**SteamVR** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-beta-1.jpg)
 4. Select the BETAS tab from the left panel. Choose **beta – SteamVR Beta Update** from the drop-down list under Select the beta you would like to opt into.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-beta.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re already on Beta, simply turn it off by choosing**NONE – Opt out of all beta programs** and check if your SteamVR is more stable.
 
@@ -176,5 +204,18 @@ See if the headset is detected now. If not, go on to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ow-often-can-creators-expect-to-be-paid-by-youtube-in-2024/"><u>[New] How Often Can Creators Expect to Be Paid by YouTube, In 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-100-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypass-frustrating-errors-in-chatgpt-interactions-by-sidestepping-these-key-mistakes-7-tips-inside/"><u>Bypass Frustrating Errors in ChatGPT Interactions by Sidestepping These Key Mistakes (7 Tips Inside)</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-valorant-experience-by-resolving-fps-drops-updated-techniques-gamers/"><u>Elevate Your Valorant Experience by Resolving FPS Drops: Updated Techniques Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fall-guys-crashing-issue-resolved-enjoy-gaming-without-interruptions/"><u>Fall Guys Crashing Issue Resolved: Enjoy Gaming Without Interruptions</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-4-wont-start-master-the-techniques-to-kickstart-your-game/"><u>Forza Horizon 4 Won't Start? Master the Techniques to Kickstart Your Game</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-financial-key-to-boosting-your-videos-reach/"><u>In 2024, The Financial Key to Boosting Your Video's Reach</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994248698-master-the-art-of-troubleshooting-fixing-your-witcher-n-3-pc-gaming-woes-today/"><u>Master the Art of Troubleshooting: Fixing Your Witcher N 3 PC Gaming Woes Today!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximizing-podcast-discoverability-through-effective-seo-for-2024/"><u>Maximizing Podcast Discoverability Through Effective SEO for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/perfect-your-windowsmac-call-records-with-15plus-tips-for-skype-users/"><u>Perfect Your Windows/Mac Call Records with 15+ Tips for Skype Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-overcome-the-persistent-loading-issue-in-fortnite-gameplay/"><u>Resolved! How to Overcome the Persistent Loading Issue in Fortnite Gameplay</u></a></li>
+</ul></div>
 

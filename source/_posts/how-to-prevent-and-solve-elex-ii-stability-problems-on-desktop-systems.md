@@ -1,7 +1,7 @@
 ---
 title: How to Prevent and Solve Elex II Stability Problems on Desktop Systems
-date: 2024-09-14T17:20:50.680Z
-updated: 2024-09-16T18:49:17.248Z
+date: 2024-09-29T16:56:50.342Z
+updated: 2024-10-03T16:38:29.088Z
 tags:
   - win11
   - win10
@@ -86,6 +86,14 @@ Below are the minimum and recommended system requirements for DayZ:
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen-1.png)
 3. Click **Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-network-driver.png)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -99,32 +107,13 @@ Below are the minimum and recommended system requirements for DayZ:
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch DayZ after verifying the game file to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Turn off Steam Overlay
@@ -136,28 +125,22 @@ Below are the minimum and recommended system requirements for DayZ:
 2. Navigate to the**In-Game** tab, then_**untick**_ **Enable the Steam Overlay while in-game** . Click**OK** to save the change.  
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-Settings2.png)
 
- Run DayZ again after you disabled Steam Overlay to see if you can play the game without crashes. If not, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Run DayZ again after you disabled Steam Overlay to see if you can play the game without crashes. If not, try the next fix, below.
 
 ### Fix 6: Add DayZ as an exception to your third-party antivirus application
 
@@ -168,6 +151,13 @@ Below are the minimum and recommended system requirements for DayZ:
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
  See if you can run DayZ without crashes. If not, try the next fix below to reinstall the game.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall DayZ
 
@@ -198,5 +188,23 @@ Below are the minimum and recommended system requirements for DayZ:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-screen-savers-top-10plus-for-ease-and-convenience-for-2024/"><u>[New] Screen Savers Top 10+ for Ease and Convenience for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-efficient-audio-documentation-in-academia-using-macs/"><u>[Updated] 2024 Approved Efficient Audio Documentation in Academia Using Macs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-distinguished-pioneers-elite-insta-hlv-page-builders/"><u>[Updated] Distinguished Pioneers Elite Insta HLV Page Builders</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-adding-closed-captioning-to-instagram-live-and-igtv/"><u>2024 Approved Adding Closed Captioning to Instagram Live and IGTV</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-podcast-post-production-in-garageband/"><u>2024 Approved The Ultimate Guide to Podcast Post-Production in GarageBand</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clearing-your-conversations-with-chatgpt/"><u>Clearing Your Conversations with ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-performance-fixes-6-quick-strategies-to-eliminate-lag-and-stutters/"><u>Elden Ring Performance Fixes: 6 Quick Strategies to Eliminate Lag and Stutters</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-for-playing-fallout-3-without-crashes-on-windows-10-systems/"><u>Expert Advice for Playing Fallout 3 Without Crashes on Windows 10 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-overcoming-the-network-unreachable-hurdle-in-steam/"><u>Expert Advice on Overcoming the 'Network Unreachable' Hurdle in Steam</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-handling-memory-glitch-in-call-of-duty-modern-warfare-3-error-12707-fixed/"><u>Expert Tips for Handling Memory Glitch in Call of Duty: Modern Warfare 3 - Error 12707 Fixed</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-rogue-company-pc-version-persistent-issues-with-frequent-crashes/"><u>Fix: Rogue Company PC Version Persistent Issues with Frequent Crashes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-nokia-c02-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Nokia C02 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-list-top-free-photo-stockpile-locales/"><u>In 2024, Master List Top Free Photo Stockpile Locales</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/ios-guide-your-step-by-step-vr-video-experience-for-2024/"><u>IOS Guide Your Step-by-Step VR Video Experience for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-excessive-cpu-consumption-while-playing-god-of-war-tips-and-tricks/"><u>Solving Excessive CPU Consumption While Playing God of War: Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-errors-solving-gas-station-simulator-pc-instability-issues/"><u>Troubleshooting Persistent Errors: Solving Gas Station Simulator PC Instability Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Crusader Kings ([SOLVED] CK3) Sudden Closures on Windows OS - Expert Tips and Solutions
-date: 2024-09-26T03:15:03.461Z
-updated: 2024-09-27T17:48:26.735Z
+date: 2024-10-01T16:15:49.859Z
+updated: 2024-10-03T16:59:38.346Z
 tags:
   - win11
   - win10
@@ -56,48 +56,23 @@ _Halo 3 Minimum System Requirements_
  1) On the left end of the taskbar, click the**Start** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Start-icon.jpg) icon and then click**Settings** .  
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![open settings](https://images.drivereasy.com/wp-content/uploads/2020/08/start-settings.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click**Privacy** .  
   
 ![privacy in settings](https://images.drivereasy.com/wp-content/uploads/2020/08/privacy.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down and under the**App permissions** section, click**Background apps** .  
   
 ![Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/background-apps.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) You can stop all the apps from running in the background with just one click by switching**Let apps run in the background** to**Off** . But before you do this, make sure you’ve saved the files you’re currently editing.  
   
@@ -110,23 +85,9 @@ _Halo 3 Minimum System Requirements_
 ![stop apps from running in the background](https://images.drivereasy.com/wp-content/uploads/2020/08/choose-which-apps-can-run-in-the-background-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you free up disk space on your computer by disabling some apps from running in the background and still it doesn’t fix the problem of the game crashing, then don’t worry, there are a few other fixes you can try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Temporarily disable antivirus software
 
@@ -158,18 +119,24 @@ Here’s how to update your drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -206,13 +173,20 @@ To do so:
   
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) Restart your computer and it’ll be in a clean boot environment.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Run Halo 3 as an administrator
@@ -223,6 +197,14 @@ To do so:
   
 ![open as an administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-Properties.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Compatibility** tab and click**Run this program as an administrator** . Click**Apply** and**OK** .  
   
 ![run as administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-compatability.jpg)
@@ -235,6 +217,19 @@ To do so:
  If the problem still persists, then try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Install the latest game patch
 
@@ -255,22 +250,30 @@ To do so:
 ![verify integrity of game files on Steam; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files.jpg)
   
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click**Halo 3** and select**Properties** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files-properties.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Under the**LOCAL FILES** tab, click**VERIFY INTEGRITY OF GAME CACHE…** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/integrity-of-cache.png)
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Files verification may take several minutes. Once the process is completed, the window will automatically exit. Till then, relaunch your game.  
   
  If the issues haven’t been resolved after you tried all the methods, you can consider uninstalling and reinstalling the game.
@@ -297,24 +300,18 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-seamlessly-downloading-hd-content-from-facebook-for-2024/"><u>[New] Seamlessly Downloading HD Content From Facebook for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-quick-fixes-for-perfect-ipad-screenshots/"><u>[Updated] In 2024, Quick Fixes for Perfect iPad Screenshots</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/1-mastering-the-art-of-creating-stunning-collages-with-your-iphone-top-2-techniques-revealed/"><u>1. Mastering the Art of Creating Stunning Collages with Your iPhone: Top 2 Techniques Revealed!</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-locating-the-dynamics-of-whistling-audio/"><u>2024 Approved Locating the Dynamics of Whistling Audio</u></a></li>
-<li><a href="https://win-able.techidaily.com/borderlands-vegan-but-i-want-to-try-it-out/"><u>Borderlands Vegan, but I Want to Try It Out</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-get-your-steelseries-gg-engine-up-and-running-again-on-windows/"><u>Fixes & Solutions: How to Get Your SteelSeries GG Engine Up and Running Again on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-recurring-issues-why-your-pc-blender-may-be-frequently-crashing/"><u>Fixing Recurring Issues: Why Your PC Blender May Be Frequently Crashing</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-cyberpunk-2077-pc-crashes-a-comprehensive-guide/"><u>How To Fix Cyberpunk 2077 PC Crashes: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-guidelines-for-effective-video-integration-in-teaching/"><u>In 2024, Guidelines for Effective Video Integration in Teaching</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mass-effect-le-starting-problems-a-comprehensive-guide/"><u>Mass Effect LE Starting Problems: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/nba-2k23-pc-troubleshooting-discover-these-7-effective-methods-for-a-smooth-startup/"><u>NBA 2K23 PC Troubleshooting: Discover These 7 Effective Methods for a Smooth Startup</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-fortnites-out-of-memory-error-by-expanding-your-vram/"><u>Overcome Fortnite's Out-Of-Memory Error by Expanding Your VRAM</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-science-of-audience-retention-on-tweets/"><u>The Science of Audience Retention on Tweets</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-stop-god-of-war-from-keeping-crash-on-your-computer/"><u>Troubleshooting Guide: How to Stop God of War From Keeping Crash on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-improper-installation-of-radeon-software/"><u>Troubleshooting Steps: Resolving Improper Installation of Radeon Software</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-potential-for-personalized-marketing-with-cookiebot-solutions/"><u>Unlock Potential for Personalized Marketing with Cookiebot Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-configure-youtube-pip-on-iphone-quickly/"><u>[New] Configure YouTube PIP on iPhone Quickly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-orbitmaster-high-definition-full-touch-desktops-for-2024/"><u>[New] OrbitMaster High Definition Full Touch Desktops for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-views-into-brand-loyalty/"><u>[New] Transforming Views Into Brand Loyalty</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-ways-to-bypass-football-manager-2021s-continuous-load-delay-errors/"><u>Efficient Ways to Bypass Football Manager 2021'S Continuous Load Delay Errors</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-m34-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy M34 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-find-x7-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Oppo Find X7 Device</u></a></li>
+<li><a href="https://fox-search.techidaily.com/innovative-techniques-to-seamlessly-copy-audio-files-from-your-ipad-to-a-desktop-computer/"><u>Innovative Techniques to Seamlessly Copy Audio Files From Your iPad to a Desktop Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-ds-30-all-in-one-printer-driver-compatible-with-windows-11-8-and-7-download-now/"><u>Latest Epson DS 30 All-in-One Printer Driver Compatible with Windows 11, 8 & 7 – Download Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009926438-no-more-crashes-in-multiversus-the-ultimate-8-fix-strategies-revealed/"><u>No More Crashes in MultiVersus - The Ultimate 8 Fix Strategies Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-app-functionality-after-qt-plugin-initialization-breakdown/"><u>Restoring App Functionality After Qt Plugin Initialization Breakdown</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-cod-warzone-pc-crash-issues-solutions-and-tips/"><u>Troubleshooting CoD Warzone PC Crash Issues - Solutions and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-persistent-discord-app-crashes/"><u>Troubleshooting Steps for Persistent Discord App Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-resolve-complete-black-screens-during-re8-gaming-on-your-pc/"><u>Troubleshooting Steps to Resolve Complete Black Screens During RE8 Gaming on Your PC</u></a></li>
 </ul></div>
 

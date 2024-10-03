@@ -1,7 +1,7 @@
 ---
 title: "Mastering Startup Stability: Strategies to Shield Against the Perils of an 'Atomic Heart Collapse'"
-date: 2024-09-22T00:55:21.728Z
-updated: 2024-09-28T10:02:53.106Z
+date: 2024-09-26T16:58:21.913Z
+updated: 2024-10-03T16:25:05.178Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ Although Marvel’s Guardians of the Galaxy has received generally positive revi
 6. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
 
@@ -74,13 +81,6 @@ Marvel’s Guardians of the Galaxy system requirements
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Verify the integrity of game files
 
  If some important game files are missing or corrupted, the game may crash. But don’t worry, you can try to verify and repair the game files first. how to do it:
@@ -117,24 +117,24 @@ If this issue persists, try the next fix, below.
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Run the game and see if it crashes again. If this fix doesn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Temporarily disable anti-virus software
 
@@ -145,13 +145,6 @@ If this issue persists, try the next fix, below.
  Launch Marvel’s Guardians of the Galaxy and see if the game crashes after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Repair corrupted system files
 
@@ -171,37 +164,25 @@ If this fix didn’t work, try the next fix, below.
 3. Wait for Fortect to scan your PC. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. After the scanning process is completed, Fortect will provide you with the PC scan summary.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there’s any issue, then click the Start Repair button on the lower-right corner, and with just one click, Fortect will start to repair the Windows OS on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)  
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Perform a clean boot
 
@@ -212,10 +193,10 @@ If this fix didn’t work, try the next fix, below.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
@@ -223,19 +204,27 @@ If this fix didn’t work, try the next fix, below.
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and launch Marvel’s Guardians of the Galaxy to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -270,17 +259,18 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-acclaimed-top-5-effortless-action-camcorders/"><u>[New] Acclaimed Top 5 Effortless Action Camcorders</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-guide-to-high-quality-mac-frames-max-156-chars/"><u>[Updated] Ultimate Guide to High-Quality Mac Frames (Max 156 Chars)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-analysis-and-evaluation-of-wd-sn740-oem-class-m2-2280-nvme-ssd-now-with-a-capacity-upgrade-to-2tb/"><u>Comprehensive Analysis & Evaluation of WD SN740 OEM-Class M.2 2280 NVMe SSD, Now with a Capacity Upgrade to 2TB</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722966085660-find-and-download-the-best-compatible-drivers-for-your-ricoh-mp-c3003-printer-today/"><u>Find and Download the Best Compatible Drivers for Your Ricoh MP C3003 Printer Today</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-counter-strike-16-not-starting-correctly-expert-advice/"><u>Fixing Counter-Strike 1.6 Not Starting Correctly – Expert Advice</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-leading-10-free-subtitle-editors-for-srt-files/"><u>In 2024, Unveiling Leading 10 FREE Subtitle Editors for SRT Files</u></a></li>
-<li><a href="https://driver-error.techidaily.com/install-samsung-android-on-windows/"><u>Install Samsung Android on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-initial-errors-how-to-start-football-manager-2023/"><u>Overcoming Initial Errors – How to Start Football Manager 2023</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-guide-for-minecraft-error-code-exit-0-explained/"><u>Resolved: Troubleshooting Guide for Minecraft Error - Code 'Exit 0' Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/update-overcoming-unreachable-steam-social-network-errors/"><u>Update: Overcoming Unreachable Steam Social Network Errors</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-quick-snapshot-the-essential-skill-for-zoom-meetings/"><u>[New] In 2024, Quick Snapshot The Essential Skill for Zoom Meetings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-subtlety-garagebands-audio-softening/"><u>[Updated] The Art of Subtlety Garageband's Audio Softening</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-key-5-photo-editing-tools-iphone-x78-background-swap/"><u>2024 Approved Key 5 Photo Editing Tools IPhone X/7/8 Background Swap</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-vfx-artisan-suite/"><u>2024 Approved VFX Artisan Suite</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-claude-pro-and-its-relationship-with-microsofts-chatgpt-plus/"><u>A Comprehensive Guide to Claude Pro and Its Relationship with Microsoft’s ChatGPT Plus</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-hiccup-enhancing-performance-for-blackwood-area-in-the-elder-scrolls-online/"><u>Fixing the Hiccup: Enhancing Performance for Blackwood Area in The Elder Scrolls Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-i-successfully-fixed-continuous-overwatch-freezes-a-step-by-step-guide/"><u>How I Successfully Fixed Continuous Overwatch Freezes - A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-exploring-self-through-instagram-a-diverse-set-of-100-captions/"><u>In 2024, Exploring Self Through #Instagram - A Diverse Set of 100 Captions</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-class-preventing-hyper-scape-disruptions-on-your-gaming-pc/"><u>Master Class: Preventing Hyper Scape Disruptions on Your Gaming PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/premium-video-quality-top-cameras-of-the-year-2024/"><u>Premium Video Quality Top Cameras of the Year 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-issues-play-avatar-the-legend-of-pandora-seamlessly-on-your-computer/"><u>Solved Issues! Play Avatar: The Legend Of Pandora Seamlessly on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-6-fixes-for-a-non-functioning-microphone-updated-guide/"><u>Top 6 Fixes for a Non-Functioning Microphone : Updated Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-when-counter-strike-go-wont-open/"><u>Troubleshooting Steps for When Counter-Strike Go Won't Open</u></a></li>
 </ul></div>
 

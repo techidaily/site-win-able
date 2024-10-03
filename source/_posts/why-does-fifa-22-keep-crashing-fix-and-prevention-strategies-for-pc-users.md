@@ -1,7 +1,7 @@
 ---
 title: Why Does FIFA 22 Keep Crashing? Fix & Prevention Strategies for PC Users
-date: 2024-09-26T20:16:13.153Z
-updated: 2024-09-28T01:32:36.196Z
+date: 2024-09-27T16:14:26.313Z
+updated: 2024-10-03T16:51:12.871Z
 tags:
   - win11
   - win10
@@ -69,13 +69,6 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Check your**Display Memory** here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-49-07.jpg)
@@ -87,6 +80,13 @@ Follow the instructions below to view your computer hardware information:
  If you’re running multiple programs at the same time, hogging your system’s resources, that could cause your game to crash. In this case, try restarting your computer to end unwanted programs completely, then relaunch your game.
 
 If your problem still exists after the reboot, check Fix 3, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -126,13 +126,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Verify the integrity of your game files
 
  Damaged or missing game files might also cause your game to fail. If you’re running the game on Steam, try verifying the integrity of your game files. Here is how to do it:
@@ -144,22 +137,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -195,13 +181,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
 
 ### Fix 6: Disable automatic downloads from the server
@@ -220,14 +199,14 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Steam
 
@@ -237,16 +216,16 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
@@ -256,9 +235,29 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-15.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
@@ -268,15 +267,22 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **10)**  Relaunch Steam and your game.
@@ -348,16 +354,14 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-demystifying-payment-systems-in-shortform-creator-ecosystem-for-2024/"><u>[New] Demystifying Payment Systems in Shortform Creator Ecosystem for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-building-an-intriguing-vlog-conversation-guide/"><u>[Updated] 2024 Approved Building an Intriguing Vlog Conversation Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-flawlessly-merged-the-linkage-of-instagram-and-tiktok/"><u>2024 Approved Flawlessly Merged The Linkage of Instagram & TikTok</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-facebook-analytics-simplified/"><u>2024 Approved Navigating Facebook Analytics Simplified</u></a></li>
-<li><a href="https://win-able.techidaily.com/black-desert-pc-woes-heres-what-you-need-to-know-about-preventing-crashes/"><u>Black Desert PC Woes? Here's What You Need to Know About Preventing Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-strategies-for-correcting-acrocefexe-application-failures/"><u>Comprehensive Strategies for Correcting acrocef.exe Application Failures</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximize-performance-increase-frames-per-second-fps-for-a-better-experience-in-ring-of-elysium/"><u>Maximize Performance: Increase Frames per Second (FPS) for a Better Experience in Ring of Elysium</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-adventures-in-salem-tactics-to-prevent-deathloop-from-haltin-on-pcps5/"><u>Seamless Adventures in Salem: Tactics to Prevent Deathloop From Haltin' On PC/PS5</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-for-black-screen-problem-on-persona-5-strikers-platform/"><u>Solutions for Black Screen Problem on Persona 5 Strikers Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tapping-into-community-spirit-a-guide-to-thriving-fb-gifting-campaigns-for-2024/"><u>Tapping Into Community Spirit A Guide to Thriving FB Gifting Campaigns for 2024</u></a></li>
-<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-marketing-mastery-earnings-edition-for-2024/"><u>[Updated] Snapchat Marketing Mastery Earnings Edition for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/banishing-shadows-fixing-the-ominous-black-screen-error-on-your-star-wars-battlefront-2-experience/"><u>Banishing Shadows: Fixing the Ominous Black Screen Error on Your Star Wars Battlefront 2 Experience</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/comprehensive-guide-for-free-video-translator-downloading/"><u>Comprehensive Guide for Free Video Translator Downloading</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862868179-discovering-the-advancements-in-camm2-faster-speed-reduced-size-and-enhanced-upgradability/"><u>Discovering the Advancements in CAMM2: Faster Speed, Reduced Size & Enhanced Upgradability</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-asus-rog-phone-7-ultimatewithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Asus ROG Phone 7 Ultimatewith/without a PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-why-immortals-fenyx-rising-delayed-no-longer/"><u>Resolved: Why Immortals: Fenyx Rising Delayed No Longer</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-overcoming-common-problems-in-phasmophobia-vr/"><u>Step-by-Step Solution: Overcoming Common Problems in Phasmophobia VR</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-constant-crashes-in-valorant-on-your-computer/"><u>Troubleshooting: How to Fix Constant Crashes in Valorant on Your Computer</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-mastering-compressor-a-step-by-step-guide-for-fcpx-users-for-2024/"><u>Updated Mastering Compressor A Step-by-Step Guide for FCPX Users for 2024</u></a></li>
 </ul></div>
 

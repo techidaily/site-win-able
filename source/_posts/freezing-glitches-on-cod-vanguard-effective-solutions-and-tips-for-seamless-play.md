@@ -1,7 +1,7 @@
 ---
 title: "Freezing Glitches on COD: Vanguard – Effective Solutions and Tips for Seamless Play"
-date: 2024-09-10T23:03:56.022Z
-updated: 2024-09-16T22:13:43.729Z
+date: 2024-09-28T17:03:44.937Z
+updated: 2024-10-03T17:06:46.226Z
 tags:
   - win11
   - win10
@@ -64,9 +64,24 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 1. Right-click your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are CPU, memory, and network-hogging. Take Chrome here, for example, right-click it then click**End task** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
 If this doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -120,10 +135,10 @@ If this doesn’t solve your problem, try the next fix.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -131,16 +146,10 @@ If this doesn’t solve your problem, try the next fix.
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Increase the virtual memory on your PC
@@ -162,6 +171,13 @@ If this doesn’t solve your problem, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **To manually allocate paging file size** :
 
  If you want to increase your virtual memory to fix the crashing issue, or for a better gaming experience, follow the steps below:
@@ -169,13 +185,6 @@ If this doesn’t solve your problem, try the next fix.
 1. UNCHECK the box of**Automatically manage paging file size for all drives** , then select**Custom size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 2. Use the below formulas to calculate the values you should set:  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
@@ -189,13 +198,6 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 If your game still crashes, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6: Keep your system up-to-date
 
  If your system isn’t updated regularly, there could be compatibility issues which cause the game to crash. Make sure that you always install the available updates. Here’s how:
@@ -207,6 +209,14 @@ If your game still crashes, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
@@ -241,16 +251,16 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch the game. If it once again won’t crash, then you know that one of the services you ticked above is conflicting with it. If it_does_ crash, then the above five services are fine, and you’ll have to keep looking for the offending service.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Repeat steps 2 and 3 above until you find the service that conflicts with Naraka: Bladepoint.  
 
@@ -270,6 +280,13 @@ If this doesn’t solve your problem, try the last fix.
 
  Known compatibility issues from Sonic studio virtual mixer driver have been found, per the developer, and the current workaround is to disable this device. If you want to check if you have this device or want to disable it, go to**Sound Settings >> Manage sound devices** . If you have Sonic studio virtual mixer, you’ll be able to see it there and disable it if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-09-03_11-07-51.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -292,5 +309,21 @@ If this doesn’t solve your problem, try the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-achieve-professionalism-in-sims-4-videography-for-2024/"><u>[New] Achieve Professionalism in Sims 4 Videography for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-handbook-for-iphone-vr-viewing/"><u>[New] The Essential Handbook for iPhone VR Viewing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-request-info-on-obtaining-full-shared-content-on-messengers/"><u>[Updated] In 2024, Request Info on Obtaining Full Shared Content on Messengers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-seamless-techniques-for-swift-removal-of-your-youtube-comments/"><u>[Updated] Seamless Techniques for Swift Removal of Your Youtube Comments</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoiding-and-repairing-game-character-conflicts-on-pc-a-guide/"><u>Avoiding and Repairing Game Character Conflicts on PC: A Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/compression-utilize-elastic-bandages-or-compression-wraps-to-apply-gentle-pressure-around-the-injured-area-this-can-help-control-swelling-and-provide-suppor565/"><u>Compression: Utilize Elastic Bandages or Compression Wraps to Apply Gentle Pressure Around the Injured Area. This Can Help Control Swelling and Provide Support.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/fix-it-fast-expert-tips-for-overcoming-the-common-itunes-could-not-backup-iphone-mishaps/"><u>Fix It Fast! Expert Tips for Overcoming the Common 'iTunes Could Not Backup' IPhone Mishaps</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-non-launch-problem-of-alan-wake-2-game/"><u>How To Resolve The Non-Launch Problem Of Alan Wake 2 Game?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-eliminate-payment-for-cam-screen-recording-a-comparative-study/"><u>In 2024, Eliminate Payment for Cam Screen Recording – A Comparative Study</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-essential-gear-picking-the-very-best-among-top-9-free-logomakers/"><u>In 2024, Essential Gear Picking the Very Best Among Top 9 Free Logomakers</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-load-speed-in-star-wars-battlefront-ii-for-pc-gamers/"><u>Optimizing Load Speed in Star Wars: Battlefront II for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-why-your-current-cpu-may-not-support-vanguard-software/"><u>Optimizing Performance: Why Your Current CPU May Not Support Vanguard Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-maplestorys-launch-problems/"><u>Troubleshooting Guide: Resolving Maplestory's Launch Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unifying-windows-and-nvidia-graphics-for-seamless-performance/"><u>Unifying Windows & NVIDIA Graphics for Seamless Performance</u></a></li>
+</ul></div>
 

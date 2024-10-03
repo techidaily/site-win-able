@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Essentials: Fix Continuous PC Gameplay Interruptions in 'Horizon Forbidden West' Full Version"
-date: 2024-09-10T19:38:13.300Z
-updated: 2024-09-17T00:23:20.534Z
+date: 2024-10-01T16:12:47.309Z
+updated: 2024-10-03T16:24:22.275Z
 tags:
   - win11
   - win10
@@ -49,6 +49,19 @@ thumbnail: https://thmb.techidaily.com/597edf717990ca62361393de3d070cd39e4e090d7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-08-08-1.jpg)
 3. Restart your PC.
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Check if your Vegas Pro still crashes. If this doesn’t help, simply try the next solution.
 
 ### Fix 2: Set priority to high for Vegas Pro
@@ -63,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/597edf717990ca62361393de3d070cd39e4e090d7
  Run Vegas Pro to see if the problem persists. If it does, move on to the solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair system files
@@ -121,16 +134,30 @@ If the issue is still there, you can move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-58-54.jpg)
 2. Right-click an empty area in which the files are displayed, then select**Thumbnails** . You’ll be able to view all the files clearly and drag your clips onto the timeline as well.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-00-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This is a useful tip to avoid possible crashes, at least you won’t have to wait long for the import to complete when the files are large. However, if your Vegas Pro still won’t run properly, move on to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Customize Vegas Pro Settings
 
@@ -167,28 +194,15 @@ If the issue is still there, you can move on to the next fix.
 2. Type**multi-core** in the search bar at the bottom.  
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-39-42.jpg)
 3. For**Enable multi-core rendering for playback** , change the value to**FALSE** ; for**Disable multi-core rendering** , set the value to**TRUE** . Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-32-52-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart Vegas Pro to make sure the changes are saved, then check if your problem persists. If this doesn’t seem to help, try the next fix.
 
@@ -201,16 +215,23 @@ If the issue is still there, you can move on to the next fix.
 2. Switch to the**Details** tab and scroll to find**Vegas Pro** . Right-click the process then select**Set affinity** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-54-37-1.jpg)
 3. **Uncheck any one box of the CPU processor** , then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-56-07-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Run Vegas Pro to see if the problem is solved.
 
@@ -234,5 +255,17 @@ Run Vegas Pro to see if the problem is solved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-innovative-methods-iphoneipad-recording-2023-revealed/"><u>[Updated] 2024 Approved Innovative Methods IPhone/iPad Recording [2023 Revealed]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ultimate-list-free-best-ios-video-editor-tools/"><u>[Updated] 2024 Approved Ultimate List Free, Best iOS Video Editor Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-podcast-income-the-real-numbers/"><u>2024 Approved Podcast Income The Real Numbers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-z-fold-5-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy Z Fold 5 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-differences-between-exe-and-msi-files/"><u>Exploring the Differences Between EXE & MSI Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-microsoft-flight-simulator-2020-update-issues-resolved/"><u>Fixing the Microsoft Flight Simulator 2020: Update Issues Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-stutter-and-crashes-in-fall-guys-on-your-computer/"><u>Guide to Fixing Stutter and Crashes in Fall Guys on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-cannot-reach-live-config-servers-issue-step-by-step-fixes/"><u>Resolving 'Cannot Reach Live Config Servers' Issue - Step-by-Step Fixes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/stay-ahead-of-the-game-use-mematic/"><u>Stay Ahead of the Game - Use Mematic</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-overcoming-fatal-error-ark-challenges/"><u>Troubleshooting Tips for Overcoming Fatal Error Ark Challenges</u></a></li>
+</ul></div>
 

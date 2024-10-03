@@ -1,7 +1,7 @@
 ---
 title: "Epic Quest Awaits: Troubleshoot Baldur's Gate Freezing & Stuttering with These 6 Essential Fixes!"
-date: 2024-09-23T22:03:22.810Z
-updated: 2024-09-27T22:31:25.354Z
+date: 2024-10-02T16:10:18.478Z
+updated: 2024-10-03T17:03:32.908Z
 tags:
   - win11
   - win10
@@ -44,47 +44,27 @@ thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-defender-firewall-1.jpg)
 2. Click**Allow an app or feature through Windows Defender Firewall** from the left pane.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-2.jpg)
 3. Click**Change settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-3.jpg)
 4. Scroll down to locate Lost Ark. Then**check the boxes under the Domain, Private and Public tabs** , and click**OK** to save the settings.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-denfender-firewall-lost-ark.jpg)
 5. If you can’t find the game on the list, click**Allow another app** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-4.jpg)
 6. Click**Browse** , navigate to the Lost Ark installation folder and choose the**LostArk.exe file** . Then click**Add** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Make sure the game is allowed for Domain, Private and Public access, and click**OK** to confirm the changes.
 
 Now see if you could start the game. If not, try the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Verify integrity of game files
 
@@ -93,15 +73,16 @@ Now see if you could start the game. If not, try the next method.
 1. Launch the Steam client and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Lost Ark** and select**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
-3. Click the**Local Files** tab, and click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
+3. Click the**Local Files** tab, and click**Verify integrity of game files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/verify-game-files.jpeg)
 
@@ -120,20 +101,27 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also get the drivers you need for free, but you’ll need to download them one at a time and manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  A driver update should greatly improve your game experience. But if this doesn’t resolve the problem, check out the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Run Lost Ark as an administrator
 
@@ -144,15 +132,15 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-2.jpg)
 3. Select the**Compatibility** tab. Tick**Disable full-screen optimizations** and**Run this program as an administrator** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try launching the game to see how things go. Still no luck? Take a look at the next method.
 
@@ -164,9 +152,30 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-1.jpg)
 2. Select the program and click**End task** until you close all the unneeded applications.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart and check the game. If it still can’t get past the loading screen, continue to Fix 6.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6 – Switch to DX9
 
@@ -177,13 +186,6 @@ Now see if you could start the game. If not, try the next method.
 2. Right-click**Lost Ark** from the game list and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under Launch Options, type**\-force-d3d9** and close the window.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/swtich-to-dx9.jpg)
 
@@ -228,15 +230,18 @@ Restart your game and check if Lost Ark goes back to the normal state.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-practices-8-steps-for-digital-sound-preservation/"><u>[New] 2024 Approved Best Practices 8 Steps for Digital Sound Preservation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-decrypting-the-mystery-understanding-unlisted-content-on-youtube/"><u>[Updated] 2024 Approved Decrypting the Mystery Understanding 'Unlisted' Content on YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-viral-audio-waves-top-10-bgm-for-youtube-short-videos-for-2024/"><u>[Updated] Viral Audio Waves Top 10 BGM for YouTube Short Videos for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-step-by-step-iphone-music-video-production-basics/"><u>2024 Approved Step-by-Step IPhone Music Video Production Basics</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-nokia-c12-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Nokia C12 Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/new-year-smooth-gaming-2024s-top-solutions-for-lol-black-screen-glitches/"><u>New Year, Smooth Gaming: 2024'S Top Solutions for LoL Black Screen Glitches</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-guide-overcoming-launch-errors-with-saints-row-for-a-seamless-experience/"><u>PC Gaming Guide: Overcoming Launch Errors with Saints Row for a Seamless Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfectiphone-podcast-guide-seamlessly-download-from-anywhere/"><u>PerfectiPhone Podcast Guide – Seamlessly Download From Anywhere</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-art-of-recovering-from-back-to-back-computing-breakdowns/"><u>The Art of Recovering From Back-to-Back Computing Breakdowns</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-division-2-stabilizing-tips-resolving-fps-issues-in-seconds/"><u>The Division 2 Stabilizing Tips: Resolving FPS Issues in Seconds!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-swift-guide-eliminating-images-backdrops-with-affinity-photo/"><u>[New] 2024 Approved Swift Guide Eliminating Images' Backdrops with Affinity Photo</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-how-to-effectively-download-huge-quantities-of-tiktok-content/"><u>[New] In 2024, How to Effectively Download Huge Quantities of TikTok Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-premium-choice-10-leading-webcams-for-win-11-for-2024/"><u>[New] Premium Choice 10 Leading Webcams for Win 11 for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-essential-action-cam-recommendations-for-winter-sports/"><u>[Updated] In 2024, Essential Action Cam Recommendations for Winter Sports</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unique-iphone-photo-style-adding-dynamic-motion-effects/"><u>[Updated] Unique iPhone Photo Style Adding Dynamic Motion Effects</u></a></li>
+<li><a href="https://win-able.techidaily.com/critical-startup-issues-here-are-proven-solutions-for-life-threatening-companies-unable-to-launch/"><u>Critical Startup Issues? Here Are Proven Solutions for Life-Threatening Companies Unable to Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-world-of-tanks-blitz-from-unexpectedly-quitting-solution-found/"><u>How to Stop World of Tanks: Blitz From Unexpectedly Quitting (Solution Found)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-proven-strategies-for-professional-green-screen-filming/"><u>In 2024, Proven Strategies for Professional Green Screen Filming</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-overcoming-adobes-startup-failure-error-code-0xc0000022/"><u>Resolving the Issue: Overcoming Adobe's Startup Failure Error Code 0xC0000022</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-samsung-galaxy-m14-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Samsung Galaxy M14 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-gaming-glitches-on-your-windows-computer-resolved/"><u>Troubleshooting Persistent Gaming Glitches on Your Windows Computer [Resolved]</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-roller-champions-multiplayer-guide-navigating-the-best-of-2024-pc-edition/"><u>Ultimate Roller Champions Multiplayer Guide: Navigating the Best of 2024 PC Edition</u></a></li>
 </ul></div>
 

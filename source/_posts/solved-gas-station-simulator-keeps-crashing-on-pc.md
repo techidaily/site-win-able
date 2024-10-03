@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Gas Station Simulator Keeps Crashing on PC"
-date: 2024-09-12T16:56:17.563Z
-updated: 2024-09-16T23:47:45.738Z
+date: 2024-09-26T17:03:57.213Z
+updated: 2024-10-03T16:46:43.578Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/fba9d1b021c91a0b6059d158b3fda53b17a7a738b
 
  If the game still keeps crashing after installing the latest update, check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  If there are any missing or corrupted game files, you’re more likely to encounter crashing issues with your game. To fix it, you can scan and repair your game files via Steam. Here’s how:
@@ -63,21 +70,16 @@ thumbnail: https://thmb.techidaily.com/fba9d1b021c91a0b6059d158b3fda53b17a7a738b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-properties.jpg)
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
-4. Steam will verify the game’s files. This process may take several minutes.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
+4. Steam will verify the game’s files. This process may take several minutes.
 
 Once done, relaunch the game and check if your problem is resolved.
 
@@ -92,10 +94,10 @@ If the crashing issue persists, continue to the next fix.
 2. Navigate to the**Compatibility** tab, then check the box next to**Run this program as an administrator** and click**OK** to save changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
@@ -103,6 +105,13 @@ If the crashing issue persists, continue to the next fix.
  Once you have done this, restart Steam and try launching the game again to see if your problem has been resolved.
 
 If the crashing issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -117,6 +126,13 @@ If the crashing issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/rtx660-1.jpg)
 
@@ -125,13 +141,6 @@ If the crashing issue remains, move on to the next fix.
  After updating your graphics driver, restart your computer and launch Gas Station Simulator to see if the game crashes again.
 
  If updating your graphics driver doesn’t work for you, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check your antivirus settings
 
@@ -149,30 +158,30 @@ If the crashing issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open Task Manager, then navigate to the**Startup** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Relaunch Gas Station Simulator to check if the game crashes again. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
@@ -197,5 +206,22 @@ If the crashing issue remains, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-the-art-of-obtaining-markless-photos/"><u>2024 Approved Mastering the Art of Obtaining Markless Photos</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-xr-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone XR</u></a></li>
+<li><a href="https://win-able.techidaily.com/experience-seamless-usage-solve-your-crashing-control-issues-fast-and-with-ease/"><u>Experience Seamless Usage: Solve Your Crashing Control Issues Fast & With Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-eliminate-lag-and-improve-performance-in-v-on-your-computer/"><u>How to Eliminate Lag and Improve Performance in V on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009089644-how-to-fix-fortnite-error-code-84-unable-to-join-a-party/"><u>How to Fix Fortnite Error Code 84 'Unable to Join a Party'</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-asus-rog-phone-7-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Asus ROG Phone 7 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/method-for-integrating-text-overlays-in-instagram-story-videos/"><u>Method for Integrating Text Overlays in Instagram Story Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashes-a-guide-to-optimizing-horizon-zero-dawn-on-your-computer/"><u>No More Crashes - A Guide to Optimizing Horizon Zero Dawn on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-why-is-my-audio-not-playing-during-discord-screen-broadcast/"><u>Resolved: Why Is My Audio Not Playing During Discord Screen Broadcast?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-the-missing-gpeditmsc-issue-in-windows-home-edition/"><u>Resolving the Missing gpedit.msc Issue in Windows Home Edition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revitalize-your-iphone-how-restoring-network-preferences-can-resolve-various-problems/"><u>Revitalize Your iPhone: How Restoring Network Preferences Can Resolve Various Problems</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategic-use-of-facebooks-daily-alert-for-rest-breaks/"><u>Strategic Use of Facebook's Daily Alert for Rest Breaks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-list-of-ps2-games-for-ios-emulation/"><u>The Ultimate List of PS2 Games for iOS Emulation</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-solutions-for-phasmophobia-game-crashes/"><u>Ultimate Guide: Solutions for Phasmophobia Game Crashes</u></a></li>
+</ul></div>
 

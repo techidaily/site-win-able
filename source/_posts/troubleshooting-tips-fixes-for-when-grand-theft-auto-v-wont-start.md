@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Fixes for When Grand Theft Auto V Won't Start"
-date: 2024-09-12T00:45:52.050Z
-updated: 2024-09-16T17:33:52.608Z
+date: 2024-09-30T16:15:54.167Z
+updated: 2024-10-03T16:22:40.639Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
  Before you perform the troubleshooting steps below, please make sure your gaming rig satisfies the **[minimum requirements](https://www.ea.com/games/battlefield/battlefield-5/buy/pc-system-requirements?setLocale=en-us)**  to play Battlefield 5.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Battlefield 5 and Origin as administrator
 
  Running Battlefield 5 and the Origin client as an administrator will ensure they get the necessary permissions to launch properly. Here’s how:
@@ -44,8 +51,23 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
 3. Right-click your Origin client and select**Properties** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
 
@@ -65,13 +87,6 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-3.jpg)
 
  Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -93,13 +108,6 @@ To update your graphics driver, here are two safe ways for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -117,6 +125,13 @@ To update your graphics driver, here are two safe ways for you:
 
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5 – Disable cloud storage
 
  If your save file is corrupted, Battlefield 5 won’t launch neither. And a simple workaround towards this is to disable the cloud storage in Origin.
@@ -127,25 +142,25 @@ To update your graphics driver, here are two safe ways for you:
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
 
  Check whether you can get into Battlefield 5 or not. If this method is of no avail, restore the folder’s name and try the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6 – Perform a reinstallation
 
@@ -155,6 +170,14 @@ To update your graphics driver, here are two safe ways for you:
 2. Select**My Game Library** on the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-1.jpg)
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
 
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
@@ -180,5 +203,17 @@ To update your graphics driver, here are two safe ways for you:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ultimate-recording-guide-for-sims-enthusiasts/"><u>[New] 2024 Approved Ultimate Recording Guide for Sims Enthusiasts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-tech-savvy-solutions-for-iphone-screenshots-for-2024/"><u>[New] Tech Savvy Solutions for iPhone Screenshots for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-scrutinizing-selfies-on-instagram-validation-necessary/"><u>[Updated] 2024 Approved Scrutinizing Selfies on Instagram Validation Necessary?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insider-intel-on-the-next-apple-device-pricing-predictions-release-info-and-tech-details/"><u>Insider Intel on the Next Apple Device: Pricing Predictions, Release Info & Tech Details</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-startup-hurdles-for-mass-effect-legendary-edition-gamers/"><u>Resolving Startup Hurdles for Mass Effect Legendary Edition Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-helldivers-2s-blue-screen-mystery-a-step-by-step-repair-guide/"><u>Solve Helldivers 2'S Blue Screen Mystery - A Step-by-Step Repair Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-to-bypass-rainbow-six-sieges-error-code-3-0001000b/"><u>Step-by-Step Fixes to Bypass Rainbow Six Siege's Error Code 3-^0001000B</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-battlefield-2042-directx-error-solutions/"><u>Step-by-Step Troubleshooting: Battlefield 2042 DirectX Error Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-ignoring-local-lsa-warning/"><u>Troubleshooting Windows: Ignoring Local LSA Warning</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-video-invitation-essentials-top-apps-for-ios-and-android-users-for-2024/"><u>Updated Video Invitation Essentials Top Apps for iOS and Android Users for 2024</u></a></li>
+</ul></div>
 

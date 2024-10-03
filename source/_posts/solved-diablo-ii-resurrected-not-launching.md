@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Diablo II: Resurrected Not Launching"
-date: 2024-09-14T00:51:26.022Z
-updated: 2024-09-16T22:26:51.926Z
+date: 2024-10-02T16:35:54.734Z
+updated: 2024-10-03T16:38:08.059Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Stop overclocking
 
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
@@ -55,16 +62,10 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 If this method doesn’t help, check out your graphics driver.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
@@ -79,6 +80,13 @@ If this method doesn’t help, check out your graphics driver.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
@@ -99,21 +107,7 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
 
@@ -125,13 +119,21 @@ If this method doesn’t help, check out your graphics driver.
 2. At the bottom, click the**gear icon** next to the Play button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
@@ -147,18 +149,19 @@ If this method doesn’t help, check out your graphics driver.
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **On GeForce Experience**
 
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
  After all the overlay feature is disabled, your game should return to normal.
@@ -183,5 +186,24 @@ If this method doesn’t help, check out your graphics driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-straightstreamerw11-ultra-simple-pc-screenshot-software/"><u>[New] StraightStreamerW11 Ultra-Simple PC Screenshot Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-optimize-iphoneandroid-video-quality-in-online-platforms/"><u>[Updated] Optimize iPhone/Android Video Quality in Online Platforms</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-enhance-photos-android-and-iphones-cutting-edge-free-overlays/"><u>2024 Approved Enhance Photos Android & iPhone's Cutting-Edge, FREE Overlays</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtube-comment-management-turn-it-on-or-off/"><u>2024 Approved YouTube Comment Management Turn It On or Off</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-blues-getting-saints-row-running-smoothly-on-windowsmac-platforms/"><u>Beat the Blues: Getting Saints Row Running Smoothly on Windows/Mac Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-asmr-uncover-its-pros-today/"><u>Exploring ASMR Uncover Its Pros Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-good-to-great-seven-transformative-enhancements-of-bard-ai-through-palm-2-integration/"><u>From Good to Great: Seven Transformative Enhancements of Bard AI Through PaLM 2 Integration</u></a></li>
+<li><a href="https://win-able.techidaily.com/from-wont-launch-to-level-heights-ensuring-smooth-gameplay-of-destiny-2-on-pc/"><u>From Won't Launch to Level Heights: Ensuring Smooth Gameplay of Destiny 2 on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-cyberpunk-2ebdnuyqkjvhznhgf897cyr654wopmsolved-fixing-game-crashes-on-pc/"><u>How to Resolve Cyberpunk 2Ebdnuyqkjvhz,nhgf897cyr654wopm[SOLVED] - Fixing Game Crashes on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-we-eliminated-lags-and-stutters-in-cyberpunk-2077-for-smooth-gameplay/"><u>How We Eliminated Lags and Stutters in Cyberpunk 2077 for Smooth Gameplay</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-proplus-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 Pro+ 5G Phone without PIN</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-rapid-methods-to-customize-your-soundscaping-in-pubg/"><u>In 2024, Rapid Methods to Customize Your Soundscaping in PUBG</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-the-challenge-ending-insurgencys-infamous-sandstorm-stability-issues/"><u>Tackling the Challenge: Ending Insurgency's Infamous Sandstorm Stability Issues</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/tecnicas-faciles-para-optimizar-tus-videos-de-youtube-a-traves-de-la-compresion-efectiva/"><u>Técnicas Fáciles Para Optimizar Tus Videos De YouTube a Través De La Compresión Efectiva</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-steelseries-gg-engine-issues-in-windows/"><u>Troubleshooting Guide: Fixing SteelSeries GG Engine Issues in Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-woes-fixing-persistent-crashes-in-world-of-tanks-blitz/"><u>Troubleshooting Woes: Fixing Persistent Crashes in 'World of Tanks Blitz'</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-resolving-gpu-non-utilization-by-warzone-in-the-windows-10-environment/"><u>Understanding and Resolving GPU Non-Utilization by Warzone in the Windows 10 Environment</u></a></li>
+</ul></div>
 

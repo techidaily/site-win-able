@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Silent Trouble: Resolving Lack of Audio in Roblox Games on Windows 11 & 10"
-date: 2024-09-12T22:05:30.802Z
-updated: 2024-09-17T00:15:39.719Z
+date: 2024-09-26T16:47:17.789Z
+updated: 2024-10-03T16:30:09.962Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/d6313d0eee0e4c3ddd1586c5d7e829ff31ae93664
 5. **[Try a different display mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check that your PC is capable
 
 To play Hitman 3, you need a PC with the following minimum specs:
@@ -59,6 +66,13 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Allow Hitman 3 through firewall
 
  Windows firewall and anti-virus software are intended to protect your computer from malware attacks. However, there’s a possibility that your game is perceived as viruses and they stop it from booting up. In this cause, you need to make sure the firewall is not blocking your game. Follow the steps to do this:
@@ -81,6 +95,13 @@ To play Hitman 3, you need a PC with the following minimum specs:
   
 ![allow HITMAN 3 through Windows Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-HITMAN-3-through-windows-firewall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then browse for HITMAN 3 and follow the instructions to allow your game through the firewall.
 
  If you’re using other anti-virus software, make sure you whitelist HITMAN 3\. If it still didn’t help you boot up HITMAN 3 properly, try the next fix below.
@@ -94,10 +115,10 @@ To play Hitman 3, you need a PC with the following minimum specs:
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [automatically](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
@@ -121,19 +142,6 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -146,10 +154,10 @@ Here’s how to update drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Verify integrity of game files
@@ -166,6 +174,13 @@ Here’s how to do this:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Try a different display mode
 
  Some players reported that there are some issues with the PC and the game running in the default display mode. To get past the black screen, trying a different mode before hitting the**PLAY** button could help you fix it.
@@ -176,23 +191,9 @@ Here’s how:
   
 ![try a different display mode](https://images.drivereasy.com/wp-content/uploads/2021/01/full-screen-mode-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the**Display Mode** section, select a different display mode to test which one helps you fix the issue.
 
 ![try a different display mode in HITMAN 3](https://images.drivereasy.com/wp-content/uploads/2021/01/try-a-different-display-mode.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’ve tried the other display modes but the game still just shows you a black screen, try the next fix below.
 
@@ -239,5 +240,22 @@ Here’s how to disable programs in Task Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-hidden-gems-on-youtube-understanding-unlisted-videos-for-2024/"><u>[New] Hidden Gems on YouTube Understanding 'Unlisted' Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-leading-the-virtual-conversation-with-social-media/"><u>[New] Leading the Virtual Conversation with Social Media</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-from-gifs-to-videos-in-a-snap-top-online-platforms-for-content-upgraders/"><u>2024 Approved From GIFs to Videos in a Snap Top Online Platforms for Content Upgraders</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/discover-funimate-games-with-a-single-apk-install/"><u>Discover Funimate Games with a Single APK Install</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-continuous-audio-disruption-on-windows-11/"><u>Effective Solutions for Continuous Audio Disruption on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-stop-f1-202n-game-from-crashing-on-your-computer/"><u>Fixes and Solutions: Stop F1 202N Game From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-past-the-stuck-launch-screen-in-updated-dota-2-version/"><u>Getting Past the Stuck Launch Screen in Updated Dota 2 Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-the-king-of-fighters-xv-from-frequent-pc-malfunctions-and-enjoy-uninterrupted-playtime/"><u>How to Stop 'The King of Fighters XV' From Frequent PC Malfunctions and Enjoy Uninterrupted Playtime</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/latest-strategies-to-solve-division-2-startup-problems/"><u>Latest Strategies to Solve Division 2 Startup Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-system-interruptions-nier-replicant-crashes-now-sorted/"><u>Overcoming System Interruptions - NieR: Replicant Crashes Now Sorted</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-silence-a-guide-to-enable-spatial-audio-on-microsofts-latest-os-versions/"><u>Overcoming the Silence: A Guide to Enable Spatial Audio on Microsoft's Latest OS Versions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-vr-experience-the-essential-50-meta-quest-3-addon-for-glass-wearers-now-on-zdnet/"><u>Revolutionize Your VR Experience: The Essential $50 Meta Quest 3 Addon for Glass Wearers, Now on ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-why-cant-i-play-league-of-legends-in-2eight-fourteen/"><u>Ultimate Troubleshooting: Why Can’t I Play League of Legends in 2Eight Fourteen?</u></a></li>
+</ul></div>
 

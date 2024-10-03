@@ -1,7 +1,7 @@
 ---
 title: How to Fix Manor Lords Crashing on PC
-date: 2024-09-12T22:19:33.823Z
-updated: 2024-09-17T00:05:57.890Z
+date: 2024-09-28T16:27:09.386Z
+updated: 2024-10-03T16:37:25.791Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[If your game still crashes…](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Switch to DX11
 
  Some players reported on Reddit that they managed to stop game crashes by forcing the game to start in DX11 mode instead of DX12\. To do this, follow the instructions below.
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/force-dx11.png)
 
  Now relaunch your game. If forcing the game to start in DX11 mode doesn’t do the trick, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Verify integrity of game files
 
@@ -77,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
@@ -103,13 +110,6 @@ Here’s how you can run a scan of your PC with Reimage:
 3. Click**Start Repair** to start the repair process and wait for Fortect to fix the problem.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to fix the stuttering issue
 
@@ -138,13 +138,6 @@ Here’s how you can run a scan of your PC with Reimage:
 
  If disabling V-Sync doesn’t give you any luck, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disable Steam overlay
 
  Commonly used in various programs, overlay technology allows you to surf the web and enjoy other features, but can also cause performance issues with some games. Therefore, you may need to disable the Steam overlay and check if it can reduce Bloodhunt in-game stutters. Here’s how you can do this:
@@ -154,9 +147,23 @@ Here’s how you can run a scan of your PC with Reimage:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.png)
 2. In the GENERAL tab, uncheck the box**Enable the Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-overlay.png)
 
  If the above doesn’t solve your issue, make sure you’re not running the Rivatuner overlay. Players who are running it are more likely to notice in-game stutters.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Enable game mode
 
@@ -168,20 +175,14 @@ Here’s how you can run a scan of your PC with Reimage:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gaming.png)
 3. Select **Game Mode**  from the left panel. Then toggle **On**  Game Mode.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-game-mode.png)
-
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-game-mode.png)
 
  After applying the changes, test your gameplay. If you still notice severe in-game stutters, try the next fix below.
 
@@ -193,6 +194,13 @@ Here’s how you can run a scan of your PC with Reimage:
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down until you find **Graphics settings** . Then click on it.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings-1.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
@@ -215,20 +223,27 @@ If that doesn’t work for you, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-new-1.png)
 4. Press **Ctrl + A**  at the same time to select all the files inside the folder. Then right-click and select **Delete** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 5. If the following prompt appears, simply check **Do this for all current items**  and click **Skip** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 6. After the files are deleted, go to your desktop and right-click on the **Recycling Bin**  and select **Empty Recycle Bin** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now launch Bloodhunt and you should be able to avoid noticeable stutters.
 
@@ -249,5 +264,22 @@ Now launch Bloodhunt and you should be able to avoid noticeable stutters.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-personalizing-photos-on-insta-the-watermark-process/"><u>[Updated] 2024 Approved Personalizing Photos on Insta The Watermark Process</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-resolving-frame-rate-puzzle-which-fps-brings-sharper-videos/"><u>[Updated] Resolving Frame Rate Puzzle Which FPS Brings Sharper Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-honor-100-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Honor 100 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/alan-wake-2-launch-hitches-expert-advice-to-get-it-fixed-today/"><u>Alan Wake 2 Launch Hitches – Expert Advice to Get It Fixed Today!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/amplify-your-social-impact-with-these-innovative-fb-growth-tactics-for-2024/"><u>Amplify Your Social Impact with These Innovative FB Growth Tactics for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/decode-and-conquer-the-2022-leaf-bug-your-step-by-step-apex-legends-error-fix/"><u>Decode and Conquer the 2022 Leaf Bug: Your Step-by-Step Apex Legends Error Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/expertly-tested-strategies-ending-vrchat-pc-malfunctions-in-8-steps/"><u>Expertly Tested Strategies: Ending VRChat PC Malfunctions in 8 Steps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-g54-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola G54 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-from-concept-to-crypto-asset-the-ultimate-list-of-nft-engines/"><u>In 2024, From Concept to Crypto Asset The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-windows-movie-maker-for-animated-clips/"><u>In 2024, Mastering Windows Movie Maker for Animated Clips</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-overcoming-frequent-pc-shutdowns-while-playing-alien-fireteam-elite/"><u>Mastering Stability: Overcoming Frequent PC Shutdowns While Playing Alien: Fireteam Elite</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010787943-modern-warfare-woes-no-more-your-ultimate-guide-to-overcoming-dev-error-6034-on-ps-xbox-and-pc/"><u>Modern Warfare Woes No More: Your Ultimate Guide to Overcoming Dev Error 6034 on PS, Xbox & PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/outlook-continuously-crashing-heres-what-you-need-to-know-to-fix-it/"><u>Outlook Continuously Crashing? Here's What You Need to Know to Fix It!</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/rmvb-file-conversion-a-comprehensive-guide-to-uploading-and-transforming-without-cost-movavis-method/"><u>RMVB File Conversion: A Comprehensive Guide to Uploading and Transforming Without Cost - Movavi's Method</u></a></li>
+<li><a href="https://win-able.techidaily.com/rogue-company-stabilization-effective-solutions-for-windows-users/"><u>Rogue Company Stabilization: Effective Solutions for Windows Users</u></a></li>
+</ul></div>
 

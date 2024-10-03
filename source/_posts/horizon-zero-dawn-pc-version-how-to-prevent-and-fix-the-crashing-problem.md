@@ -1,7 +1,7 @@
 ---
 title: Horizon Zero Dawn PC Version - How to Prevent and Fix the Crashing Problem
-date: 2024-09-25T21:37:10.006Z
-updated: 2024-09-28T02:00:24.733Z
+date: 2024-09-28T16:40:40.902Z
+updated: 2024-10-03T16:47:58.197Z
 tags:
   - win11
   - win10
@@ -87,18 +87,18 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Repair the game
 
@@ -109,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 2. Click **Verify** to start verifying the game files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch Ashen when the verifying process completed.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if you can play the game without crashes. If not, try the next fix, below.
 
@@ -130,10 +123,10 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Perform a Windows Update
@@ -145,6 +138,14 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and install them on your PC.
@@ -163,13 +164,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
  Launch Ashen again to see if you have fixed the game crash issue. If not, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Use a reduced settings profile for graphics related features
 
@@ -200,7 +194,21 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
 
@@ -208,17 +216,17 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Modify Intel graphics card settings
 
@@ -226,17 +234,17 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
@@ -244,21 +252,14 @@ Select your graphics card manufacturer first:
 6. Modify the settings the same way you see on the screenshot below.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
@@ -294,20 +295,14 @@ Select your graphics card manufacturer first:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/andweb/"><u>💎フリービデオ圧縮ソフト&ベストなWebサイト選び - 試せる無料版あり!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-mute-problem-a-comprehensive-guide-for-lost-ark-gamers/"><u>Fixing the Mute Problem - A Comprehensive Guide for Lost Ark Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/grand-theft-auto-v-optimization-resolving-errgfxd3dinit-for-a-seamless-gaming-adventure/"><u>GRAND THEFT AUTO V Optimization: Resolving ERR_GFX_D3D_INIT for a Seamless Gaming Adventure</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-itel-p40plus-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Itel P40+ Phone that is Locked?</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723002465846-hp-monitor-troubles-discover-proven-strategies-for-a-swift-resolution/"><u>HP Monitor Troubles? Discover Proven Strategies for a Swift Resolution!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 12 Pro Max</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unlocking-igtvs-potential-a-video-resizing-primer/"><u>In 2024, Unlocking IGTV's Potential A Video Resizing Primer</u></a></li>
-<li><a href="https://win-able.techidaily.com/increasing-gaming-fluidity-comprehensive-fixes-to-address-fps-hiccups-and-stutter-issues/"><u>Increasing Gaming Fluidity: Comprehensive Fixes to Address FPS Hiccups and Stutter Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-usbasp-fixing-issues-from-wxp-to-win10-systems/"><u>Mastering USBasp: Fixing Issues From WXP to Win10 Systems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-vlcs-features-for-mp4-and-diverse-format-changes/"><u>Navigating VLC's Features for MP4 & Diverse Format Changes</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-users-rejoice-overcoming-the-constant-crashes-in-alien-fireteam-elite/"><u>PC Users Rejoice! Overcoming the Constant Crashes in Alien: Fireteam Elite</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-your-game-crash-issues-in-fm2019-with-these-simple-fixes/"><u>Resolve Your Game Crash Issues in FM2019 with These Simple Fixes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-fix-the-yakuza-6-pc-game-crash-issues/"><u>Troubleshooting Guide: How to Fix the Yakuza 6 PC Game Crash Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-8-techniques-where-ai-merges-real-world-with-dreamlike-possibilities/"><u>Unveiling 8 Techniques Where AI Merges Real World with Dreamlike Possibilities</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand/"><u>[New] From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-remote-comic-genius-app/"><u>[Updated] In 2024, Remote Comic Genius App</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transferring-tv-episodes-downloading-youtube-content-ios-style/"><u>[Updated] Transferring TV Episodes Downloading YouTube Content iOS-Style</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fixes-for-preventing-guilty-gear-strive-pc-game-crashes/"><u>Comprehensive Fixes for Preventing Guilty Gear Strive PC Game Crashes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nubia-red-magic-9-proplus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nubia Red Magic 9 Pro+ Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-overcoming-ds4-windows-not-working-guide-to-correctly-update-the-device-driver/"><u>Solved! Overcoming 'DS4 Windows Not Working' - Guide to Correctly Update the Device Driver</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003070729-tiny-tinas-wonderlands-crashing-on-pc-fixed/"><u>Tiny Tina’s Wonderlands Crashing on PC [Fixed]</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-fixes-for-amazon-prime-video-playback-issues/"><u>Troubleshooting Steps: Fixes for Amazon Prime Video Playback Issues</u></a></li>
 </ul></div>
 

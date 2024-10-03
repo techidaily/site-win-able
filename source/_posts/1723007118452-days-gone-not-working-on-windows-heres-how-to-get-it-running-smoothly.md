@@ -1,7 +1,7 @@
 ---
 title: 'Days Gone' Not Working on Windows? Here’s How to Get It Running Smoothly
-date: 2024-09-23T22:48:06.175Z
-updated: 2024-09-28T01:33:15.294Z
+date: 2024-09-26T16:00:58.918Z
+updated: 2024-10-03T17:02:53.085Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
   * [Fix 6 – Rename the Movies Folder](https://tools.techidaily.com/drivereasy/download/)  
   * [Fix 7 – Close unnecessary apps](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Preliminary steps: Check your PC specs
 
  The developer studio of Days Gone has released a guideline of requirements in order for the game to be played decently and smoothly. So if your copy of Days Gone fails to start often, it may be worth gauging whether your PC is up to the task.
@@ -66,10 +73,10 @@ To check the specs of your PC:
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
@@ -82,6 +89,13 @@ To check the specs of your PC:
  If your PC specs have been up to the mark but Days Gone still fails to launch, please move on to **Fix 2** , below to begin troubleshooting.
 
 ## How to fix Days Gone Not Launching on PC
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1 – Install the latest game patch
 
@@ -102,15 +116,16 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Open the game in your launcher and see if it launches smoothly. If yes, you’ve fixed the problem. If it’s still failing, just head on to**Fix 3** , below.
 
@@ -137,6 +152,13 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-4.png)
 4. Open Days Gone and see if the launching issue is fixed. If yes, then congrats. If it’s still no joy, please continue with**Fix 4** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4 – Disable all overlays
 
  Overlay in Steam gives you access to features and apps without having to leave the game. However, some Steam players report that the feature has interfered with their gameplay and triggered the launching issues for them. If you have the feature on Steam, GeForce Experience and/or Discord, it’s recommended that you turn them off altogther and see if it helps with the situation.
@@ -148,21 +170,7 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-1.png)
 3. Uncheck the box for**Enable the Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/uncheck.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Disable GeForce Experience Overlay
 
@@ -172,10 +180,10 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/ge.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Disable Discord Overlay
@@ -184,10 +192,25 @@ To check the specs of your PC:
 2. Click**the cog** icon in the lower left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord.png)
 3. In the pop-up window, scroll down to**Game Overlay** , then in the right panel, switch off the**Enable in-game overlay** toggle.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/overlaydiscord.png)
 4. Click**Esc** to exit the window.
 
  Once you have disabled these overlays, run Days Gone and see if the launching problem is fixed. If not, move ahead to**Fix 5** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Verify game integrity
 
@@ -204,19 +227,6 @@ To check the specs of your PC:
 4. Wait a bit until the process finishes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/1of2.png)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, re-launch the game and see if it opens without fail. If it’s still not launching, please continue with**Fix 6** , below.
 
 ##### On Epic Games Launcher
@@ -225,20 +235,6 @@ To check the specs of your PC:
 2. Locate Days Gone, then click **the three dots icon next to the game** and click **VERIFY** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify.png)
 3. Wait a bit until the process finishes. After that, re-launch the game and see if it opens without fail. If it’s still not launching, please continue with**Fix 6** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6 – Rename the Movies Folder
 
@@ -278,18 +274,20 @@ Here’s how to close background apps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-online-marketplaces-for-yt-channel-sales/"><u>2024 Approved Navigating Online Marketplaces for YT Channel Sales</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-5-tools-to-convert-video-from-avi-to-mp4-format-on-mac-and-pc/"><u>Best 5 Tools to Convert Video From AVI to MP4 Format on Mac & PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enable-adaptive-hdr-tutorial-for-windows-11/"><u>Enable Adaptive HDR Tutorial for Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-when-amazon-prime-video-stops-playing/"><u>Fixes for When Amazon Prime Video Stops Playing</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-of-an-inaccessible-steam-contacts-list/"><u>Fixing the Issue of an Inaccessible Steam Contacts List</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722976755673-get-your-hp-deskjet-ink-advantage-3050a-updated-drivers-secure-compatibility-with-windows-download-now/"><u>Get Your HP Deskjet Ink Advantage 3050A Updated Drivers: Secure Compatibility with Windows - Download Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-life-is-strange-true-colors-game-crash/"><u>How to Fix the Life Is Strange: True Colors Game Crash</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 to Android? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-y36i-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y36i Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/pathfinder-wrath-of-the-righteous-launch-problems-heres-how-to-resolve-them/"><u>Pathfinder: Wrath of the Righteous Launch Problems? Here's How to Resolve Them</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-microsoft-edge-crashes-on-windows-10-a-step-by-step-guide/"><u>Resolving Microsoft Edge Crashes on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-7-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 7 You Should Try Out</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-guide-selecting-the-top-8-tripods-for-high-res-cameras-for-2024/"><u>Ultimate Guide Selecting the Top 8 Tripods for High-Res Cameras for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-engaging-vlogger-subjects-each-day/"><u>[Updated] Engaging Vlogger Subjects Each Day</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-essential-tips-for-crop-and-export-videos-for-instagram/"><u>[Updated] Essential Tips for Crop & Export Videos for Instagram</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-a-beginners-path-to-creating-engaging-fb-covers/"><u>[Updated] In 2024, A Beginner’s Path to Creating Engaging FB Covers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-to-seamless-snapchat-lens-creation/"><u>[Updated] The Ultimate Guide to Seamless Snapchat Lens Creation</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-lag-ultimate-solutions-for-obs-broadcast-buffering-issues/"><u>Beat the Lag: Ultimate Solutions for OBS Broadcast Buffering Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/deactivating-your-steam-account-fixing-dota-2-vac-bans-made-easy/"><u>Deactivating Your Steam Account? Fixing Dota 2 VAC Bans Made Easy</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-top-rated-image-transition-tools/"><u>Explore Top-Rated Image Transition Tools</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-12-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone 12 If Youve Tried Everything</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtubes-erased-memories-how-to-revisit-them-online/"><u>In 2024, Youtube's Erased Memories How to Revisit Them Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013361061-quick-fix-guide-launch-failed-error-means-your-game-needs-a-checkup/"><u>Quick Fix Guide: 'Launch Failed' Error Means Your Game Needs a Checkup!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-cyberpunk-2077s-graphics-driver-problem-on-windows-10-for-enhanced-gaming-experience/"><u>Solving Cyberpunk 2077'S Graphics Driver Problem on Windows 10 for Enhanced Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/supercharge-horizon-zero-dawn-tips-for-significantly-boosting-gameplay-speed/"><u>Supercharge Horizon Zero Dawn! Tips for Significantly Boosting Gameplay Speed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-review-of-asuss-4k-hdr-powerhouse/"><u>The Ultimate Review of ASUS's 4K HDR Powerhouse</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-making-your-steam-vr-visible-again/"><u>Troubleshooting Tips: Making Your Steam VR Visible Again</u></a></li>
 </ul></div>
 

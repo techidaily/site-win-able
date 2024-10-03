@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Troubleshooting Steps for Crusader Kings 3 Stalling Performance in PC"
-date: 2024-09-21T19:41:07.519Z
-updated: 2024-09-28T00:54:57.037Z
+date: 2024-10-02T17:05:17.106Z
+updated: 2024-10-03T16:19:54.866Z
 tags:
   - win11
   - win10
@@ -58,10 +58,10 @@ Necromunda: Hired Gun
 6. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Verify the game files
@@ -83,16 +83,16 @@ It may take some time to complete the verifying process.
 2. Click on the **three dots** under the **Necromunda: Hired Gun** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Necromunda: Hired Gun when the verifying process completed and see if it crashes or not. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -108,21 +108,16 @@ It may take some time to complete the verifying process.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
  You need to restart your PC after you finished updating your graphics driver.
 
@@ -132,6 +127,13 @@ It may take some time to complete the verifying process.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -153,22 +155,15 @@ It may take some time to complete the verifying process.
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch_Necromunda: Hired Gun_ and see if the game crashes. If the issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Add the game as an exception to your 3rd party antivirus software
 
@@ -206,24 +201,14 @@ It may take some time to complete the verifying process.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-stepwise-approach-effortlessly-incorporate-subtitlescc-into-your-youtube-content/"><u>[New] In 2024, Stepwise Approach Effortlessly Incorporate Subtitles/CC Into Your YouTube Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtube-video-cuts-a-beginners-guide/"><u>[New] Mastering YouTube Video Cuts A Beginner's Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-techniques-for-modifying-photo-genders-on-major-social-platforms/"><u>[New] Techniques for Modifying Photo Genders on Major Social Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-yakuza-like-a-dragon-crashing-on-pc/"><u>[SOLVED] Yakuza: Like a Dragon Crashing on PC</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/automotive-acoustic-woes-identifying-causes-of-speaker-breakdown-in-your-car/"><u>Automotive Acoustic Woes: Identifying Causes of Speaker Breakdown in Your Car</u></a></li>
-<li><a href="https://win-able.techidaily.com/debugging-guide-how-to-fix-crashing-issues-with-thaumaturge-program-on-your-pc/"><u>Debugging Guide: How to Fix Crashing Issues with Thaumaturge Program on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-steps-to-unleash-virtualization-power-win11/"><u>Essential Steps to Unleash Virtualization Power Win11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-cooler-performance-with-grizzlys-latest-heatspreader-15c-drop-in-cpu-temps-achieved/"><u>Experience Cooler Performance with Grizzly's Latest Heatspreader: 15°C Drop in CPU Temps Achieved!</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultimate-shooting-guide-to-immersive-video-top-9-techniques/"><u>In 2024, The Ultimate Shooting Guide to Immersive Video (Top 9 Techniques)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-nokia-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Nokia Phone</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-playtime-effective-fixes-for-low-frames-per-second-fps-in-war-thunder-tips-for-gamers/"><u>Optimizing Playtime: Effective Fixes for Low Frames Per Second (FPS) in War Thunder - Tips for Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-trouble-get-your-praey-for-the-gods-running-smoothly-again/"><u>PC Trouble? Get Your Praey for the Gods Running Smoothly Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solutions-resolving-winwordexe-program-glitches/"><u>Quick Solutions: Resolving WINWORD.EXE Program Glitches</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-gpeditmsc-missing-in-windows-home-edition-fix-steps/"><u>Resolved: 'gpedit.msc' Missing in Windows Home Edition - Fix Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/simple-steps-for-a-smooth-gameplay-in-ghost-recon-breakpoint-crash-troubles-gone/"><u>Simple Steps for a Smooth Gameplay in Ghost Recon Breakpoint - Crash Troubles Gone</u></a></li>
-<li><a href="https://win-able.techidaily.com/steam-log-in-troubles-heres-how-to-successfully-access-your-account/"><u>Steam Log-In Troubles? Here’s How to Successfully Access Your Account</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-optimizing-your-gameplay-in-tiny-tinas-wonderlands-for-pc/"><u>Troubleshooting and Optimizing Your Gameplay in Tiny Tina's Wonderlands for PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/warzone-20-stability-issues-how-to-prevent-frequent-pc-crashes/"><u>Warzone 2.0 Stability Issues - How to Prevent Frequent PC Crashes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sierras-icloud-full-desktop-and-document-liberation/"><u>[New] Sierra’s iCloud Full Desktop and Document Liberation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-5-rapid-setup-techniques-for-home-cinematography/"><u>Best 5 Rapid Setup Techniques for Home Cinematography</u></a></li>
+<li><a href="https://win-able.techidaily.com/far-cry-5-successfully-launched-without-crashing-troubleshooting-steps-for-gamers/"><u>Far Cry 5 Successfully Launched Without Crashing: Troubleshooting Steps for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-past-the-hurdle-resolving-fortnites-perpetual-load-screens/"><u>Getting Past the Hurdle - Resolving Fortnite's Perpetual Load Screens</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Oppo</u></a></li>
+<li><a href="https://techidaily.com/solve-the-puzzle-with-new-york-times-connection-game-july-8th-episode-393-unveiled/"><u>Solve the Puzzle with New York Times - Connection Game, July 8Th Episode #393 Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-dreaded-warzone-error-code-5573-on-pc-and-consoles-a-step-by-step-guide/"><u>Solving the Dreaded Warzone Error Code 5573 on PC and Consoles: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-starfield-from-freezingcrashing-on-your-computer-solutions-inside/"><u>Stop Starfield From Freezing/Crashing On Your Computer [Solutions Inside]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visual-voice-expressing-through-deformed-photovideo-texts/"><u>Visual Voice Expressing Through Deformed Photo/Video Texts</u></a></li>
 </ul></div>
 

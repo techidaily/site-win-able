@@ -1,7 +1,7 @@
 ---
 title: Ready to Fix? Detailed Tips for Restoring 'DS4 Failed to Load' On Your PC
-date: 2024-09-22T03:49:22.620Z
-updated: 2024-09-28T03:24:21.424Z
+date: 2024-09-28T16:11:35.699Z
+updated: 2024-10-03T17:00:02.363Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Disable Discord in Task Manager
 
  Before getting started, you’ll need to end tasks running Discord in your computer, so you can delete Discord’s folders in your computer in Step 2.
@@ -50,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 
  Then you’ll be able to delete Discord folders. Continue with the steps below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Delete Discord folders
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
@@ -64,21 +64,22 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14e6b6694d.jpg)
 3. Your File Explorer will open a window. Right click the**discord folder** and click**Delete** .  
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Type_**%LocalAppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
 6. Your File Explorer will open a new window. Right click the**Discord** **folder** and click**Delete** .  
@@ -87,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
 
  Hope the steps above helps you with the Discord installation failed issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus Tip: Update available device drivers
 
@@ -109,22 +117,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15008084c8.jpg)
 3. Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1502542d98.jpg)
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -144,22 +145,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-screen-casting-in-vlc-reviewed-for-2024/"><u>[New] Screen Casting in VLC Reviewed for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-perfect-the-art-of-posting-on-snapchat-15-tips/"><u>[Updated] 2024 Approved Perfect the Art of Posting on Snapchat (15 Tips)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-cross-platform-media-engines-a-buyers-guide/"><u>[Updated] Mastering Cross-Platform Media Engines A Buyer's Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/2024-update-resolving-civic-duty-error-civ-6-overcoming-access-denial-issues/"><u>2024 Update: Resolving Civic Duty Error (CIV 6) – Overcoming Access Denial Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-steps-to-resolve-madden-nfl-22-problems-fast/"><u>Easy Steps to Resolve Madden NFL 22 Problems Fast</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-keep-playing-without-crashes-fixing-maplestory-on-windows-11-latest-tips-and-techniques/"><u>How to Keep Playing Without Crashes: Fixing MapleStory on Windows 11 - Latest Tips & Techniques</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/icy-images-cozier-cinematics-best-bgs-selection/"><u>Icy Images, Cozier Cinematics Best Bgs Selection</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-realme-11-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Realme 11 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/naraka-bladepoint-update-squashes-previous-glitches-smoother-experience-guaranteed/"><u>Naraka: Bladepoint Update Squashes Previous Glitches – Smoother Experience Guaranteed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/quick-start-guide-utilizing-aiseesoft-for-effortless-screen-recordings/"><u>Quick Start Guide Utilizing Aiseesoft for Effortless Screen Recordings</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-common-heart-of-iron-iv-game-crashes-explained/"><u>Resolved: Common Heart of Iron IV Game Crashes Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-for-troubleshooting-farming-simulator-22-startup-issues/"><u>Solutions for Troubleshooting Farming Simulator 22 Startup Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-what-to-do-if-discord-refuses-to-open/"><u>Troubleshooting Guide: What To Do If Discord Refuses To Open</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-fixing-persistent-palworld-pc-app-issues/"><u>Troubleshooting Steps for Fixing Persistent Palworld PC App Issues</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/zero-to-hero-your-step-by-step-adventure-in-meme-magic-on-9gag/"><u>Zero to Hero Your Step-by-Step Adventure in Meme Magic on 9GAG</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-best-study-partners-in-history-top-10-youtubers-and-channels/"><u>[Updated] Best Study Partners in History Top 10 Youtubers & Channels</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997821483-common-issues-launching-resident-evil-village-resolve-them-now/"><u>Common Issues Launching Resident Evil Village - Resolve Them Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-guide-to-installing-newest-logitech-g403-mouse-drivers-on-pc/"><u>Easy Guide to Installing Newest Logitech G403 Mouse Drivers on PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-unparalleled-acoustic-excellence-with-the-rotibox-beanie-a-detailed-review-on-style-fit-and-audio-features/"><u>Experience Unparalleled Acoustic Excellence with the Rotibox Beanie - A Detailed Review on Style, Fit & Audio Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/far-cry-6-troubleshooting-fixes-for-pc-game-crashes/"><u>Far Cry 6 Troubleshooting: Fixes for PC Game Crashes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/first-steps-in-virtual-conferencing-with-zoom-for-2024/"><u>First Steps in Virtual Conferencing with Zoom for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-motorola-defy-2-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Defy 2 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-frame-rate-and-smoothing-gameplay-a-guide-to-resolving-stutters-in-the-ascent/"><u>Improving Frame Rate & Smoothing Gameplay: A Guide to Resolving Stutters in The Ascent</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-13-pro-max-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 13 Pro Max Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010093108-kodi-not-connected-solve-the-problem-of-missing-directory-information-now/"><u>Kodi Not Connected? Solve the Problem of Missing Directory Information Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-out-of-video-memory-error-in-fortnite-tips-and-solutions/"><u>Overcoming the Out-of-Video-Memory Error in Fortnite: Tips & Solutions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/precision-in-pages-a-success-story-for-printers/"><u>Precision in Pages: A Success Story for Printers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-mp4-compression-artifacts/"><u>Repairing MP4 Compression Artifacts</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-stop-the-endless-loop-of-content-warning-software-failures-on-windowsmac/"><u>Solution Guide: Stop the Endless Loop of 'Content Warning' Software Failures on Windows/Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fixing-the-notorious-lag-issues-for-the-elder-scrolls-online-blackwood-expansion/"><u>Solved! Fixing the Notorious Lag Issues for The Elder Scrolls Online Blackwood Expansion</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10-4g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10 4G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-essential-guide-for-retrieving-images-and-vids-from-fb/"><u>The Essential Guide for Retrieving Images and Vids From FB</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209863312-troubleshoot-a-deadbolt-usb-mouse-connection-with-these-simple-laptop-fixes/"><u>Troubleshoot a Deadbolt USB Mouse Connection with These Simple Laptop Fixes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-the-library-in-kodi-fixes-for-directory-information-recovery-issues/"><u>Unlocking the Library in Kodi: Fixes for Directory Information Recovery Issues</u></a></li>
 </ul></div>
 

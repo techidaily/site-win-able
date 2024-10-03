@@ -1,7 +1,7 @@
 ---
 title: "Battle Against Bugs: Eliminate Recurring Glitches in Your Immortals Fenyx Rising Adventure"
-date: 2024-09-09T19:39:03.542Z
-updated: 2024-09-16T17:28:56.551Z
+date: 2024-10-02T16:37:45.237Z
+updated: 2024-10-03T16:28:28.436Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Use dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Rename the exe file
 
  This sounds a bit weird but renaming the game’s exe file works like a charm for many players that can’t start the game normally. Here’s how:
@@ -41,6 +48,13 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 3. Rename the**ImmortalsFenyxRising\_plus.exe** file to**ImmortalsFenyxRising.exe** .
 
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Run the game as an administrator
 
@@ -53,13 +67,6 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
 
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -76,23 +83,9 @@ There are mainly two ways you can do this:
 ![amd 6800xt driver driver easy](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click the**Update** button do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Verify the integrity of game files
 
@@ -102,16 +95,24 @@ There are mainly two ways you can do this:
 2. Navigate to the**Games** tab, and click the**downward triangle icon** at the lower right corner of the Immortals Fenyx Rising tile.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-1.jpg)
 3. Click**Verify files** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
+
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Use dedicated graphics card
 
@@ -122,16 +123,30 @@ There are mainly two ways you can do this:
 2. Select**Manage 3D settings** from the left pane.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
 5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
@@ -163,5 +178,22 @@ There are mainly two ways you can do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-optimal-audio-options-for-online-speakers/"><u>[New] 2024 Approved Optimal Audio Options for Online Speakers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-enhance-pc-listening-experience-install-x-recorder-for-2024/"><u>[New] Enhance PC Listening Experience - Install X-Recorder for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-spark-interest-with-style-mixing-tiktoks-genius-techniques-for-insta/"><u>[Updated] 2024 Approved Spark Interest with Style Mixing TikTok's Genius Techniques for Insta</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-discover-the-power-of-luts-in-digital-photography/"><u>[Updated] Discover the Power of LUTs in Digital Photography</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-exquisite-innovations-in-desktop-tech-for-2024/"><u>[Updated] Exquisite Innovations in Desktop Tech for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-best-ai-naming-assistants-for-podcast-innovation/"><u>[Updated] The Best AI Naming Assistants for Podcast Innovation</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-assessment-of-the-lenovo-yoga-a940-laptop/"><u>Comprehensive Assessment of the Lenovo Yoga A940 Laptop</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-driver-not-supported-for-rainbow-six-extraction-players/"><u>How to Address 'Driver Not Supported' For Rainbow Six Extraction Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-launch-modern-warfare-2-tips-and-troubleshooting-guide/"><u>How to Successfully Launch Modern Warfare 2: Tips and Troubleshooting Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-asmr-video-knowledge-for-beginners/"><u>In 2024, ASMR Video Knowledge for Beginners</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-extracting-massive-quantities-of-tiktok-content/"><u>Mastering the Art of Extracting Massive Quantities of TikTok Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/netflix-service-disruption-determining-if-its-widespread-or-localized/"><u>Netflix Service Disruption: Determining If It's Widespread or Localized</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-performance-boost-eliminate-lag-issues-with-these-proven-tips/"><u>Outriders Performance Boost: Eliminate Lag Issues with These Proven Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-kernelbasedll-errors-swiftly-effective-troubleshooting-tips-and-techniques/"><u>Solving 'KernelBase.dll' Errors Swiftly: Effective Troubleshooting Tips and Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-help-overcoming-the-perpetual-loading-screen-in-football-manager-2021/"><u>Troubleshooting Help - Overcoming the Perpetual Loading Screen in Football Manager 2021</u></a></li>
+</ul></div>
 

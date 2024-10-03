@@ -1,7 +1,7 @@
 ---
 title: "Enabling GPU Performance in Cyberpunk 2077 on Windows 11: A Complete Guide"
-date: 2024-09-11T18:10:58.768Z
-updated: 2024-09-16T23:30:02.992Z
+date: 2024-09-27T16:14:42.834Z
+updated: 2024-10-03T16:50:42.282Z
 tags:
   - win11
   - win10
@@ -70,18 +70,18 @@ To do so, first visit the website of your graphics card manufacturer:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
 
@@ -94,21 +94,49 @@ Here’s how:
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this trick doesn’t solve your problem, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -120,13 +148,6 @@ And it’s quite easy to check for updates:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
@@ -149,5 +170,22 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-download-facebook-videos-anywhere-winmacosiphone/"><u>[New] In 2024, Download Facebook Videos Anywhere Win/macOS/iPhone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-channel-identity-essential-youtube-naming-strategies/"><u>[New] In 2024, Elevate Your Channel Identity Essential YouTube Naming Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-power-of-vsco-color-grading/"><u>[New] Unveiling the Power of VSCO Color Grading</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-holistic-mobility-inspection-study/"><u>2024 Approved Holistic Mobility Inspection Study</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-tiktok-unboxers-playbook-for-likes/"><u>2024 Approved The Ultimate TikTok Unboxer's Playbook for Likes</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/abbyy-asteriaflexicapture-cloud/"><u>ABBYYブログで紹介! ASTERIAとFlexiCapture Cloudに対応した高度な画面分析テンプレート - 最新技術の解説</u></a></li>
+<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-launch-problems-fixed-heres-why-it-worked-now/"><u>Assassin's Creed Valhalla Launch Problems Fixed: Here's Why It Worked Now</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-to-musical-matchmaking-top-tunes-for-dynamic-montage-videos-for-2024/"><u>New The Ultimate Guide to Musical Matchmaking Top Tunes for Dynamic Montage Videos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722986051684-resident-evil-village-pc-lag-troubles-discover-effective-fixes-today/"><u>Resident Evil Village [PC] Lag Troubles? Discover Effective Fixes Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-guide-addressing-not-working-issues-with-voice-chat-content-warnings/"><u>Solutions Guide: Addressing 'Not Working' Issues with Voice Chat Content Warnings</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003001283-step-up-your-gameplay-supercharge-horizon-zero-dawns-frame-rate-for-optimal-play/"><u>Step Up Your Gameplay: Supercharge Horizon Zero Dawn's Frame Rate for Optimal Play.</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-players-guide-to-overcoming-persistent-errors-and-crashing-in-war-thunder-update-2024/"><u>The Player's Guide to Overcoming Persistent Errors & Crashing in War Thunder Update 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-steam-error-code-130-a-comprehensive-solution/"><u>Ultimate Guide: Resolving Steam Error Code 130 – A Comprehensive Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-against-lag-expert-fixes-for-dota-(-2)-update-your-game-now/"><u>Winning Against Lag: Expert Fixes for Dota < 2> - Update Your Game Now</u></a></li>
+</ul></div>
 
