@@ -1,7 +1,7 @@
 ---
 title: "UI Glitch 27711 in Call of Duty Black Ops: Cold War Now Resolved"
-date: 2024-09-13T00:23:35.548Z
-updated: 2024-09-16T16:53:25.904Z
+date: 2024-10-02T16:01:13.781Z
+updated: 2024-10-08T19:39:09.867Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ Call of Duty is a free-to-play first-person shooter game for everyone. It was re
 | Direct X     | DirectX 12.0 compatible system                              |
 | Video Memory | 2 GB                                                        |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  Make sure you have the latest driver for your graphic card. If you don’t have the latest graphics driver, then it can cause lots of problems. With outdated or wrong drivers, you may encounter game issues including crashing, stuttering, lagging, and more.
@@ -73,6 +80,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Relaunch Call of Duty: Warzone Pacific and check.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -89,10 +103,10 @@ OR
  If this method doesn’t resolve the issue, you can restore the changes with the backup.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Change the in-game settings
@@ -115,20 +129,28 @@ If it fixes the issue then slowly increase your graphics settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-03.jpg)
 3. Set**View by Category** . Click**Uninstall the program** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-17.jpg)
 4. Find MW and Battle.net. Right-click on it and click**Unistall/Change** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-44-15.jpg)
 5. Follow the on-screen instructions to uninstall the software.
 6. Delete all the files.
 7. Go to the Warzone Pacific official website and download the game. Install it step-by-step.
 8. Relaunch the game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair system files
 
@@ -141,28 +163,8 @@ If it fixes the issue then slowly increase your graphics settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -186,5 +188,22 @@ If it fixes the issue then slowly increase your graphics settings.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-transformative-videography-revolutionary-mac-edits-to-elevate-tiktok-videos-for-2024/"><u>[New] Transformative Videography Revolutionary Mac Edits to Elevate TikTok Videos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-football-manager-2021-stuck-on-loading-screen/"><u>[SOLVED] Football Manager 2021 Stuck On Loading Screen</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-discover-your-top-10-choice-of-editors-for-youtube-short-videos/"><u>2024 Approved Discover Your Top 10 Choice of Editors for YouTube Short Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/apples-daily-winner-worldwide-app/"><u>Apple's Daily Winner: Worldwide App</u></a></li>
+<li><a href="https://win-able.techidaily.com/discord-cam-errors-demystified-effective-fixes-to-restore-your-webcam/"><u>Discord Cam Errors Demystified: Effective Fixes to Restore Your Webcam</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-correcting-the-live-server-connection-refusal-dilemma/"><u>Expert Tips: Correcting the 'Live Server Connection Refusal' Dilemma</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-launch-errors-in-pathfinder-wrath-of-the-righteous-effective-solutions-for-gamers/"><u>Fixing Launch Errors in Pathfinder: Wrath of the Righteous – Effective Solutions for Gamers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 15 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-luts-with-adobe-after-effects/"><u>In 2024, Mastering LUTs with Adobe After Effects</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-the-art-of-saving-mpeg-dash-streams-mpd-in-various-video-formats-including-mp4-a-detailed-explanation/"><u>Mastering the Art of Saving MPEG-DASH Streams (MPD) in Various Video Formats Including MP4 - A Detailed Explanation</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-online-video-editing-tools-for-vertical-content/"><u>New 2024 Approved Top Online Video Editing Tools for Vertical Content</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/perfect-your-yt-profile-expert-tips-for-channel-descriptors/"><u>Perfect Your YT Profile Expert Tips for Channel Descriptors</u></a></li>
+<li><a href="https://win-able.techidaily.com/reviving-the-acoustic-experience-solving-minecrafts-soundless-plight-on-computer-systems/"><u>Reviving the Acoustic Experience: Solving Minecraft’s Soundless Plight on Computer Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-world-of-tanks-blitz-app-freezes-or-fails-to-load/"><u>Troubleshooting Steps When World of Tanks Blitz App Freezes or Fails to Load</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-guide-for-street-fighter-6-no-more-pc-restarts-in-2ver/"><u>Ultimate Fix Guide for Street Fighter 6: No More PC Restarts in 2veR</u></a></li>
+</ul></div>
 

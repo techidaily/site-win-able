@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Stuttering in Dragon's Dogma 2: Strategies for Boosting Frames per Second (FPS)"
-date: 2024-09-28T16:58:14.458Z
-updated: 2024-10-03T16:01:42.482Z
+date: 2024-10-04T23:45:20.425Z
+updated: 2024-10-08T20:10:00.345Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 5. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Set additional launch options](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure your specs meet the requirements
 
  VR games tend to be graphically demanding, not to mention this long anticipated AAA title. So before you can fully experience the well-crafted dystopia in Half Life: Alyx, first you need to make sure your gaming rig meets the minimum requirements. Because if it doesn’t, then maybe it’s time for an upgrade.
@@ -65,29 +58,50 @@ Here’s how:
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After changing your power plan, launch Half Life: Alyx and test the gameplay.
 
  If this trick doesn’t give you luck, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Disable overlays
@@ -99,6 +113,13 @@ And here’s how to turn off Steam overlays:
 After disabling all the overlays, check if Half Life: Alyx lags again.
 
  If this fix doesn’t help you, simply move on to the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -130,25 +151,11 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
@@ -157,6 +164,13 @@ Here’s how you can check for updates manually:
  After installing all the updates, do a reboot and see if Half Life: Alyx lags again.
 
 If this method failed to fix the lag, you can try the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Set additional launch options
 
@@ -170,13 +184,6 @@ To do so, follow these steps:
 3. Under the LAUNCH OPTIONS section, click the input area and type or paste the code below. Then close the window to save the changes.  
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -197,19 +204,22 @@ To do so, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-effortless-opening-of-srt-on-computers-for-2024/"><u>[New] Effortless Opening of SRT on Computers for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-blueprint-for-attracting-brands-as-youtube-affiliates/"><u>[Updated] The Blueprint for Attracting Brands as Youtube Affiliates</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-pros-playbook-elevating-your-facebook-lives-to-new-heights-for-2024/"><u>[Updated] The Pro's Playbook Elevating Your Facebook Lives to New Heights for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/beating-the-clock-techniques-to-decrease-delay-and-improve-reaction-time-in-pcs-bless-unleashed/"><u>Beating the Clock: Techniques to Decrease Delay and Improve Reaction Time in PC's Bless Unleashed</u></a></li>
-<li><a href="https://article-tips.techidaily.com/choosing-prime-windows-11-editing-software-for-2024/"><u>Choosing Prime Windows 11 Editing Software for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-the-ultimate-guide-to-google-wifi-your-perfect-wireless-mesh-network-solution/"><u>Comprehensive Analysis: The Ultimate Guide to Google WiFi - Your Perfect Wireless Mesh Network Solution</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-shader-compilation-stuck-point-in-cod-black-ops-cold-war/"><u>How to Overcome Shader Compilation Stuck Point in COD: Black Ops Cold War</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-channel-elevation-reach-youtube-affiliate-level-with-10k-views/"><u>In 2024, Channel Elevation Reach YouTube Affiliate Level with 10K Views</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/new-world-continues-to-experience-chilling-halts-a-comprehensive-guide/"><u>New World Continues to Experience Chilling Halts: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-players-rejoice-as-destiny-2-beyond-light-crash-fixes-rolled-out/"><u>PC Players Rejoice as Destiny 2 Beyond Light Crash Fixes Rolled Out</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-ffxivs-check-in-compatibility-error-for-latest-patches/"><u>Resolving FFXIV's Check-In Compatibility Error for Latest Patches</u></a></li>
-<li><a href="https://win-able.techidaily.com/stream-smoothly-diagnosing-and-fixing-discords-crash-issues-during-broadcasts/"><u>Stream Smoothly: Diagnosing and Fixing Discord's Crash Issues During Broadcasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-foreground-emphasis-tips-for-logitech-video-recordings/"><u>[New] In 2024, Foreground Emphasis Tips for Logitech Video Recordings</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-fixes-for-stardew-valley-wont-open-a-step-by-step-solution/"><u>Common Fixes for 'Stardew Valley Won't Open': A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-battlefield-4-not-starting-up-tips-and-fixes-for-gamers/"><u>Dealing with Battlefield 4 Not Starting Up: Tips & Fixes for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-firefox-lag-and-freezes-the-definitive-2024-solution-guide/"><u>Defeating Firefox Lag & Freezes: The Definitive 2024 Solution Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Does find my friends work on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-fixes-to-stop-fifa-21-game-crashes-on-pc-comprehensive-instructions-inside/"><u>Easy Fixes to Stop FIFA 21 Game Crashes on PC - Comprehensive Instructions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-blender-from-continuously-crashing-on-windows/"><u>Fixing the Issue: How to Stop Blender From Continuously Crashing on Windows</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oneplus-nord-ce-3-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my OnePlus Nord CE 3 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-oneplus-11r-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from OnePlus 11R</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-insiders-guide-to-dominating-first-person-shooter-rewards-in-mass-effect-legendary-edition/"><u>The Insider's Guide to Dominating First-Person Shooter Rewards in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-the-ultimate-guide/"><u>Tom's Tech Review: The Ultimate Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-11-solutions-for-overcoming-borderlands-3-startup-issues/"><u>Top 11 Solutions for Overcoming Borderlands 3 Startup Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-free-gaming-resolving-continuous-crashes-in-darkest-dungeon-2-for-pc-players/"><u>Trouble-Free Gaming: Resolving Continuous Crashes in Darkest Dungeon 2 for PC Players</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-entry-points-creating-an-account-for-2024/"><u>Twitters' Entry Points Creating an Account for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/verizons-top-pick-exclusive-device-exchange-promotions-for-month/"><u>Verizon's Top Pick: Exclusive Device Exchange Promotions for [Month]</u></a></li>
 </ul></div>
 

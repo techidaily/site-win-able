@@ -1,7 +1,7 @@
 ---
 title: Resolving 2024 Compatibility Issues - Successfully Starting Modern Warfare on PC
-date: 2024-09-27T01:45:14.748Z
-updated: 2024-09-27T16:19:51.575Z
+date: 2024-10-05T21:24:35.581Z
+updated: 2024-10-08T22:09:13.272Z
 tags:
   - win11
   - win10
@@ -52,13 +52,6 @@ Your Modern Warfare crashing can be caused by the following issues:
 8. **[Change Priority](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Close all background Apps and repair your game
 
  Shut down all applications that are running in the background by pressing**Ctrl + Shift + Esc** , especially your antivirus software, which can be over-protective and cause Modern Warfare crashing issues.
@@ -90,13 +83,6 @@ Your Modern Warfare crashing can be caused by the following issues:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/Driver-Easy-Scan-Now.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
 
 **OR**
@@ -106,6 +92,13 @@ Your Modern Warfare crashing can be caused by the following issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/Free-Pro.jpg)
 
 4) Restart your PC for the changes to take full effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Set texture quality to high or normal
 
@@ -119,16 +112,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/texture-resolution-to-normal-or-high-1200x628.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can keep everything else on the lowest settings, except Texture Filter Anisotropic on High. Also, make sure to turn off**Sync Every Frame (V-Sync)** , which is best left off within games.
 
 Play Modern Warfare again to see if the crashing issue persists.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Scan and Repair your game
 
@@ -138,18 +131,18 @@ Play Modern Warfare again to see if the crashing issue persists.
 
  If you’re on**Blizzard Battle.net** , you can locate Modern Warfare and click**Options** \>**Scan and Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Stop Overclocking
 
  Overclocking your CPU can improve your gaming performance but may leave your game unstable, which may cause Modern Warfare to crash.
 
  If Call of Duty: Modern Warfare starts to crash after you overclock your GPU, you can try lowering it back to the default setting. This might be enough to prevent or reduce the number of Modern Warfare crashes you’re experiencing.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable NVIDIA V-Sync for Modern Warfare
 
@@ -161,6 +154,13 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/NVIDIA-Control-Panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left pane, go to**3D Settings** \>**Manage 3D settings** . Select the**Program Settings** tab and add your Call of Duty: Modern Warfare.
 
  Default Path: **C:\\Program Files (x86)\\Call of Duty Modern Warfare\\ModernWarfare.exe**
@@ -170,13 +170,6 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/turn-off-vertical-sync.jpg)
 
  Try launching your game again to check if Modern Warfare crashes persist. If this doesn’t work, you can try these settings that work fine for other players on[Reddit](https://www.reddit.com/r/modernwarfare/comments/duev1r/crash%5Ffixes%5Ffor%5Fnvidia%5Fusers%5Fon%5Fpc/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Disable Discord in-game overlay
 
@@ -189,6 +182,13 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 3) Toggle off**Enable in-game overlay** .
 
  If you want to disable in-game overlay just for Call of Duty: Modern Warfare, go to the**Games Activity** tab and toggle off Call of Duty: Modern Warfare.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Change Priority
 
@@ -205,10 +205,10 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
  4) When prompted for permission to make changes, select**Change Priority** .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 9\. Repair your system files
@@ -250,6 +250,13 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -259,13 +266,6 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -323,24 +323,16 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-podcast-episodes-essential-writing-techniques-and-examples/"><u>[New] Crafting Podcast Episodes Essential Writing Techniques & Examples</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-roadmap-to-crafting-a-dynamic-youtube-presence-for-enterprise-and-individuals-for-2024/"><u>[New] The Roadmap to Crafting a Dynamic YouTube Presence for Enterprise & Individuals for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-latest-in-video-compression-technology-with-these-46-new-tools/"><u>2024 Approved Explore the Latest in Video Compression Technology with These 46 New Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/battle-of-the-titans-fixing-character-overlaps-in-popular-comic-book-games-on-pc/"><u>Battle of the Titans: Fixing Character Overlaps in Popular Comic Book Games on PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/creativity-on-a-tablet-leading-drawing-apps/"><u>Creativity on a Tablet Leading Drawing Apps</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-reviews-best-scanners-for-your-paperwork-and-memories/"><u>Expert Reviews: Best Scanners for Your Paperwork and Memories</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-performance-boosted-overcoming-lag-issues-effectively/"><u>Fortnite Performance Boosted: Overcoming Lag Issues Effectively</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/groundbreaking-advancements-in-ai-with-openais-new-game-changing-gpt-4-platform/"><u>Groundbreaking Advancements in AI with OpenAI's New Game-Changing GPT-4 Platform</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-20-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 20 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/jailbreak-comedy-hour-best-fb-moments-of-amusement-and-awe-for-2024/"><u>Jailbreak Comedy Hour Best FB Moments of Amusement and Awe for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-hogwarts-legacy-playtime-hiccups-with-these-6-fixes/"><u>Overcome Hogwarts Legacy Playtime Hiccups with These 6 Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-correct-non-compatible-device-drivers-on-windows-os-for-optimal-performance/"><u>Resolved: How To Correct Non-Compatible Device Drivers On Windows OS For Optimal Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-anticheat-connection-failed-issue-in-escape-from-tarkov/"><u>Resolving the 'Anticheat Connection Failed' Issue in Escape From Tarkov</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-to-stop-fallout-3-game-crashes-on-windows-11-computers/"><u>Solutions to Stop Fallout 3 Game Crashes on Windows 11 Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-acrocefexe-programming-faults-and-issues/"><u>Solving the acrocef.exe Programming Faults and Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/successful-launch-tips-to-boot-up-forza-horizon-4-seamlessly/"><u>Successful Launch: Tips to Boot Up Forza Horizon 4 Seamlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/tech-troubles-fix-your-game-instant-solutions-to-stop-titanfall-2-from-crashing/"><u>Tech Troubles? Fix Your Game: Instant Solutions to Stop Titanfall 2 From Crashing!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/title-transformations-beyond-standard-styles-for-2024/"><u>Title Transformations Beyond Standard Styles for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-resolving-valheims-stutters-and-pauses-on-windows-computers/"><u>Troubleshooting: Resolving Valheim's Stutters and Pauses on Windows Computers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-masterclass-emulation-best-ps3-clones-on-your-computer/"><u>[New] 2024 Approved Masterclass Emulation Best PS3 Clones on Your Computer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-giggle-guild-the-ultimate-list-of-twitter-joke-threads/"><u>[New] Giggle Guild The Ultimate List of Twitter Joke Threads</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-imovie-tricks-for-perfecting-your-video-introduction-craft-for-2024/"><u>[Updated] IMovie Tricks for Perfecting Your Video Introduction Craft for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-mastering-the-art-of-tiktok-with-apple-and-windows-devices-for-2024/"><u>[Updated] Mastering the Art of TikTok with Apple and Windows Devices for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-blues-with-these-expert-tips-eliminate-football-manager-2021-crashes-on-pc/"><u>Beat the Blues with These Expert Tips: Eliminate Football Manager 2021 Crashes on PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-overcoming-the-unable-to-launch-problem-with-mass-effect-legendary-edition/"><u>Solution Guide: Overcoming the 'Unable to Launch' Problem with Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-armored-core-navigating-armored-core-6-fires-of-rubicons-technical-glitches-on-pc/"><u>Solve Your Armored Core Navigating Armored Core 6: Fires of Rubicon's Technical Glitches on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-2024-lawn-mowers-comprehensive-review-by-zdnet/"><u>Top Rated 2024 Lawn Mowers: Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-pc-problems-for-smooth-playthrough-of-manor-lords/"><u>Troubleshooting Common PC Problems for Smooth Playthrough of Manor Lords</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolve-your-google-meets-camera-issue/"><u>Troubleshooting Steps: Resolve Your Google Meet's Camera Issue</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Troubleshooting for Tales of Arise on Unreal Engine 4
-date: 2024-09-21T06:10:57.202Z
-updated: 2024-09-27T22:16:14.089Z
+date: 2024-10-01T16:04:19.476Z
+updated: 2024-10-08T17:54:01.877Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
  If all the servers are showing as up, it’s likely something else is going on.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Select your gaming platforms first
 
  If nothing goes wrong with the servers, select your gaming platform and check for the fixes.
@@ -37,13 +44,6 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 * **[PC](https://tools.techidaily.com/drivereasy/download/)**
 * **[Xbox One](https://tools.techidaily.com/drivereasy/download/)**
 * **[PlayStation 4](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fixes for COD PC Players
 
@@ -85,6 +85,13 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-209.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
@@ -125,19 +132,6 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-209.png)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click the**Steam icon** , and then select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-789.png)
@@ -145,6 +139,13 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 **3)** Click **Steam** , and then select **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Select **Web Browser** and click **DELETE WEB BROWSER CACHE** .
 
@@ -158,16 +159,16 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-785.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Click **OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-784.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **8)** Restart your game to test your issue.
 
@@ -202,19 +203,6 @@ OR
 **2)**  Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
@@ -256,13 +244,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **8)** [](https://store.steampowered.com/about/) **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **9)** Right-click your **Steam icon**  and select **Open file location** .
@@ -272,6 +253,13 @@ OR
 **10)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **11)** Restart your game to see if this fixed the error code issue.
 
@@ -341,6 +329,13 @@ Hopefully, your game works correctly now. Enjoy!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-90-1024x562.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Select**Console info.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-94.png)
@@ -348,6 +343,13 @@ Hopefully, your game works correctly now. Enjoy!
 **5)** Select**Reset console** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-97.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Select**Reset and keep my games & apps** .
 
@@ -384,10 +386,10 @@ Hopefully, your game works correctly now. Enjoy!
 Hope one of the fixes above worked for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fixes for PlayStation 4 Players
@@ -435,13 +437,6 @@ Hope one of the fixes above worked for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1077-1024x217.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Select **System Software Update,** and then follow the on-screen instructions to update the system software for your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1076.png)
@@ -478,13 +473,6 @@ Hope one of the fixes above worked for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1096.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **8)** Restart your game to see if this fix worked.
 
  Hopefully, this article helped in resolving your problem! If you have any questions or suggestions, please feel free to leave a comment below.
@@ -509,20 +497,24 @@ Hope one of the fixes above worked for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-innovating-your-ultimate-tiktok-seal/"><u>[New] Innovating Your Ultimate TikTok Seal</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fix-valheim-incompatible-version-error-on-windows/"><u>[Quick Fix] Valheim Incompatible Version Error on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/avoid-directx-errors-in-fifa-19-with-these-easy-fixing-techniques/"><u>Avoid DirectX Errors in FIFA 19 with These Easy Fixing Techniques</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/can-motorola-edgeplus-hold-its-own-against-flagship-rivals-our-review-says/"><u>Can Motorola Edge+ Hold Its Own Against Flagship Rivals? Our Review Says...</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-mbox-2-drives-on-windows-comprehensive-guide-issue-resolved/"><u>Download & Update MBox 2 Drives on Windows: Comprehensive Guide - Issue Resolved</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-the-aggravating-screen-flicker-on-your-device-once-and-for-all/"><u>How to Stop the Aggravating Screen Flicker on Your Device Once and For All.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-cartoony-conversion-chronicles-top-windowsmac-imaging-software/"><u>In 2024, Cartoony Conversion Chronicles Top Windows/Mac Imaging Software</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-insiders-manual-reacting-on-twitter-videos/"><u>In 2024, Insider’s Manual Reacting on Twitter Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-frustration-solutions-to-keep-nox-player-running-smoothly-on-desktop-computers/"><u>No More Frustration: Solutions to Keep Nox Player Running Smoothly on Desktop Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-mount-and-blade-2-bannerlord-crashes/"><u>Solved: Mount & Blade 2: Bannerlord Crashes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-fun-girl-games-for-kids-for-2024/"><u>Top Fun Girl Games for Kids for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-tricks-making-powerful-yt-thumbnails/"><u>Top Tricks Making Powerful YT Thumbnails</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-connection-delays-in-the-elder-scrolls-onlines-blackwood-area/"><u>Troubleshooting Guide: Overcoming Connection Delays in The Elder Scrolls Online’s Blackwood Area</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-isnt-alan-wake-part-two-out-yet-tips-for-launch-issues-resolution/"><u>Why Isn't Alan Wake Part Two Out Yet? Tips for Launch Issues Resolution</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-crucial-details-for-deciding-on-a-youtube-tv-subscription/"><u>[New] 2024 Approved Crucial Details for Deciding on a YouTube TV Subscription</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-smooth-soundscape-fading-techniques-with-lumafusion-for-2024/"><u>[New] Smooth Soundscape Fading Techniques with Lumafusion for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-funny-flicks-compilation-of-chuckle-inducing-short-youtube-videos-for-2024/"><u>[Updated] Funny Flicks Compilation of Chuckle-Inducing Short YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-should-you-keep-previewing-fb-activity-visible-insights/"><u>[Updated] Should You Keep Previewing FB Activity Visible? Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-remedies-to-rescue-your-windows-10-photos-app/"><u>2024 Approved Swift Remedies to Rescue Your Windows 10 Photos App</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-lava-blaze-curve-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Lava Blaze Curve 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-guide-to-stop-v-from-skipping-frames-and-hanging-pc-edition/"><u>Complete Guide to Stop V From Skipping Frames & Hanging - PC Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-crashes-for-good-master-these-easy-fixes-for-a-seamless-call-of-duty-mw3-experience/"><u>Fix Crashes for Good - Master These Easy Fixes for a Seamless Call of Duty MW3 Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-preventing-left-4-dead-2-from-crashing-on-your-pc/"><u>Fixes for Preventing Left 4 Dead 2 From Crashing on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-performance-hiccups-optimizing-your-play-of-outriders-on-windows-pcs/"><u>Fixing Performance Hiccups: Optimizing Your Play of Outriders on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-doom-eternal-crashing-issues/"><u>How to Fix DOOM Eternal Crashing Issues?</u></a></li>
+<li><a href="https://win-able.techidaily.com/immediate-strategies-to-overcome-dayzs-fps-decreases-effortlessly/"><u>Immediate Strategies to Overcome DayZ's FPS Decreases Effortlessly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-samsung-galaxy-a25-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Samsung Galaxy A25 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-stellar-photo-alterations-frameshift-prowess/"><u>In 2024, Stellar Photo Alterations FrameShift Prowess</u></a></li>
+<li><a href="https://win-able.techidaily.com/maplestory-for-windows-nx-users-troubleshooting-tips-to-prevent-game-crashes-latest-fixes/"><u>MapleStory for Windows nX Users: Troubleshooting Tips to Prevent Game Crashes (Latest Fixes)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-slow-down-the-action-top-10-video-players-for-smooth-playback-for-2024/"><u>New Slow Down the Action Top 10 Video Players for Smooth Playback for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-overcome-rainbow-six-sieges-server-connection-problems/"><u>Step-by-Step Solutions to Overcome Rainbow Six Siege's Server Connection Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-complete-solution-for-nvidia-geforce-experience-error-code-0x00eus/"><u>The Complete Solution for NVIDIA Geforce Experience Error (Code 0X00eus)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/weaving-external-pages-into-your-insta-narrative-for-2024/"><u>Weaving External Pages Into Your Insta Narrative for 2024</u></a></li>
 </ul></div>
 

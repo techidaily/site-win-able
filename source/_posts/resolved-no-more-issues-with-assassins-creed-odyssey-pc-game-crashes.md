@@ -1,7 +1,7 @@
 ---
 title: "Resolved: No More Issues with Assassin's Creed Odyssey PC Game Crashes"
-date: 2024-09-15T17:12:52.177Z
-updated: 2024-09-16T17:22:57.577Z
+date: 2024-10-03T20:04:01.533Z
+updated: 2024-10-08T18:14:02.770Z
 tags:
   - win11
   - win10
@@ -79,13 +79,6 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
  Still no luck? Don’t give up hope. There is something else you can do.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Modify your in-game settings
 
  Many Assassin’s Creed Odyssey players have reported that configuring the settings in the game could help fix the crashing issue, such as switching to the other window mode or changing the graphics settings. So you can try this:
@@ -95,16 +88,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-72.png)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click the**Display** tab.
@@ -112,10 +99,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-73.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) In**Window Mode** , click and change to another mode.
@@ -125,16 +112,16 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Turn off**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click the**Graphics** tab, try lowing these settings:
 
@@ -147,13 +134,20 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Restart your computer.
 
@@ -176,6 +170,13 @@ Open Assassin’s Creed Odyssey and see if it works.
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-80.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -206,5 +207,23 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fine-tuning-your-approach-to-360-videos-on-facebook/"><u>[New] 2024 Approved Fine-Tuning Your Approach to 360 Videos on Facebook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-fresh-start-strategy-budget-channels-to-purchase/"><u>[New] Fresh Start Strategy Budget Channels to Purchase</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-how-to-enable-grid-view-on-google-meet-to-see-every-participant/"><u>[New] In 2024, How to Enable Grid View on Google Meet to See Every Participant?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-gameplay-revolution-elevating-ram-usage-for-minecraft/"><u>[Updated] 2024 Approved Gameplay Revolution Elevating Ram Usage for Minecraft</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/m4amp3windowsmac-os-x/"><u>【音声変換ソフト】M4AをMP3に自由に変換！Windows/Mac OS Xで利用可能なベストツールの紹介</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-ultimate-guide-transforming-heic-photos-into-jpg-format-best-6-techniques/"><u>1. Ultimate Guide: Transforming HEIC Photos Into JPG Format - Best 6 Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/5-budget-friendly-steps-for-syncing-your-fb-content-schedule/"><u>5 Budget-Friendly Steps for Syncing Your FB Content Schedule</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-the-skies-on-the-ground-advanced-fps-enhancement-methods-for-war-thunder-gamers/"><u>Conquer the Skies, On The Ground: Advanced FPS Enhancement Methods for War Thunder Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-stop-nioh-2-from-freezing-and-crashing/"><u>Effective Solutions to Stop Nioh 2 From Freezing and Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-display-malfunctioned-solve-your-windows-black-screen-challenge-now/"><u>Fortnite Display Malfunctioned? Solve Your Window's Black Screen Challenge Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012634665-how-to-stop-serious-sam-4-from-freezing-or-hiccupping-on-your-computer-top-tips/"><u>How to Stop Serious Sam 4 From Freezing or Hiccupping on Your Computer – Top Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tick-tock-tally-calculating-pewdiepies-cash/"><u>In 2024, Tick-Tock Tally Calculating PewDiePie’s Cash</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-performance-hiccups-strategies-to-eliminate-stutter-in-your-fallout-76-session/"><u>Overcoming Performance Hiccups: Strategies to Eliminate Stutter in Your Fallout 76 Session</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lag-issues-in-fortnite-a-comprehensive-guide/"><u>Troubleshooting Lag Issues in Fortnite: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-for-overcoming-stability-problems-in-jurassic-world-evolution-gameplay/"><u>Ultimate Solution for Overcoming Stability Problems in Jurassic World Evolution Gameplay</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-free-video-enhancement-software-top-9-picks-for-2024/"><u>Updated Free Video Enhancement Software Top 9 Picks for 2024</u></a></li>
+</ul></div>
 

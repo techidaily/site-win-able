@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve Overwatch's Persistent Black Screen Problem"
-date: 2024-09-29T17:13:03.115Z
-updated: 2024-10-03T17:03:35.434Z
+date: 2024-10-07T22:18:01.185Z
+updated: 2024-10-08T16:17:04.937Z
 tags:
   - win11
   - win10
@@ -49,19 +49,26 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Rolling back your driver
 
@@ -73,25 +80,25 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-34-32.jpg)
 4. Click**Display adapters** and right-click on your GPU.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Check the issue is persist or not.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Change the screen refresh rate
 
@@ -100,19 +107,6 @@ Restart your computer for the changes to take effect.
 1. Right-click on desktop and select **Display settings** .  
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down to find**Advanced display settings** .  
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
@@ -124,19 +118,6 @@ Restart your computer for the changes to take effect.
 5. Click **Apply** \> **OK** to save the changes.
 6. Restart your computer and check to see if the problem resolves.
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 5: Use windowed mode
 
  If you’re using fullscreen mode while playing World of Warcraft, then change to Windowed mode may fix the issue. Follow the steps to disable the fullscreen optimizations in the system
@@ -145,6 +126,14 @@ Restart your computer for the changes to take effect.
 2. Click on the **Compatibility**  tab and select **Disable fullscreen optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
 3. Click **Apply**  \> **OK**  to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and check to see if the problem still persists.
 
 ---
@@ -166,19 +155,20 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-apex-capture-vs-lumen-hub/"><u>[New] 2024 Approved Apex Capture VS Lumen Hub</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-innovative-11-audio-devices-for-professionals/"><u>[New] 2024 Approved Innovative 11 Audio Devices for Professionals</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-tomorrows-reality-progress-in-virtual-worlds-for-2024/"><u>[New] Tomorrow's Reality Progress in Virtual Worlds for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-bring-your-imaginations-to-life-time-lapse-photography-with-gopro-studio/"><u>[Updated] Bring Your Imaginations to Life Time-Lapse Photography with GoPro Studio</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2023-trend-analysis-twitters-top-video-shares-for-2024/"><u>2023 Trend Analysis Twitter's Top Video Shares for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-mix-fold-3-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi Mix Fold 3 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/apex-legends-troubleshooting-how-to-fix-connection-issues/"><u>Apex Legends Troubleshooting - How to Fix Connection Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/ceramic-underglazes-in-various-colors/"><u>Ceramic Underglazes in Various Colors</u></a></li>
-<li><a href="https://fox-info.techidaily.com/empowering-your-iphones-capture-with-full-screen-images/"><u>Empowering Your iPhone's Capture with Full-Screen Images</u></a></li>
-<li><a href="https://win-able.techidaily.com/join-the-thrills-of-rainbow-six-siege-without-spending-a-penny-in-202n4/"><u>Join the Thrills of Rainbow Six Siege Without Spending a Penny in 202N4</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastery-of-winwordexe-errors-5-hacks-for-swift-word-repairs/"><u>Mastery of WINWORD.EXE Errors: 5 Hacks for Swift Word Repairs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolution-fixing-invalid-inf-install-section/"><u>Resolution: Fixing Invalid INF Install Section</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-found-fixing-the-pc-compatibility-issue-for-call-of-duty-modern-warfare-launch/"><u>Solution Found! Fixing the PC Compatibility Issue for Call of Duty: Modern Warfare Launch</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-found-fixing-hp-monitor-issues-and-restoring-your-screen/"><u>Solutions Found: Fixing HP Monitor Issues & Restoring Your Screen</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-echoing-emptiness-guiding-graduated-gone-sounds-in-pp/"><u>[New] In 2024, Echoing Emptiness Guiding Graduated Gone Sounds in PP</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-rise-in-the-rankings-essential-seo-for-video-creators/"><u>[Updated] Rise in the Rankings Essential SEO for Video Creators</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-spotify-web-player-lags-and-malfunctions-expert-fixes-for-optimal-playback/"><u>Addressing Spotify Web Player Lags and Malfunctions : Expert Fixes for Optimal Playback</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-prevent-and-resolve-ark-software-failures/"><u>Fixing the Issue: How to Prevent and Resolve ARK Software Failures</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-11-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Realme 11 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-unreal-process-has-crashed-in-outriders-for-a-smoother-game-experience/"><u>How to Resolve 'Unreal Process Has Crashed' In Outriders for a Smoother Game Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-correct-the-severe-dev-error-in-modern-warfare-and-warzone/"><u>How To: Troubleshoot and Correct the Severe Dev Error in Modern Warfare and Warzone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-narzo-n55-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme Narzo N55 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unveiling-the-top-15-no-cost-audio-archives-for-content-makers/"><u>In 2024, Unveiling the Top 15 No-Cost Audio Archives for Content Makers</u></a></li>
+<li><a href="https://win-able.techidaily.com/latest-update-tackles-previous-server-connections-errors-in-mlb-the-show-2021/"><u>Latest Update Tackles Previous Server Connections Errors in MLB The Show 2021</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-tricks-successfully-launching-everspace-2-without-pc-crashes/"><u>Mastering The Tricks: Successfully Launching Everspace 2 Without PC Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-enable-and-start-hosted-wi-fi-functionality-in-windows-10/"><u>Step-by-Step Guide to Enable and Start Hosted Wi-Fi Functionality in Windows 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-8-affordable-srt-services-for-flawless-translation/"><u>Top 8 Affordable SRT Services for Flawless Translation</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-continuous-nox-player-freezes-and-closures/"><u>Troubleshooting Steps for Continuous Nox Player Freezes and Closures</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Updated 2024 Approved Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
 </ul></div>
 

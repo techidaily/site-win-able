@@ -1,7 +1,7 @@
 ---
 title: "Master Your Design Tools: Say Goodbye to Incessant Blender Crashes on Personal Computers"
-date: 2024-09-26T16:27:04.216Z
-updated: 2024-10-03T17:08:21.312Z
+date: 2024-10-01T21:15:20.068Z
+updated: 2024-10-08T21:12:42.181Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ System requirements of WRC 10 from Steam
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 **To verify game files in Epic Games Launcher:**
@@ -74,22 +81,15 @@ System requirements of WRC 10 from Steam
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch WRC 10 and check if this fix works. If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -120,13 +120,6 @@ System requirements of WRC 10 from Steam
 
  Launch WRC 10 again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Temporarily disable anti-virus software
 
  Some 3rd party antivirus software would interfere with the game files, which may also crash the game.
@@ -144,14 +137,22 @@ System requirements of WRC 10 from Steam
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
@@ -160,24 +161,24 @@ System requirements of WRC 10 from Steam
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch WRC 10 to check if the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -213,24 +214,18 @@ System requirements of WRC 10 from Steam
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-the-art-of-fixing-android-and-ios-videos-in-fb-messaging/"><u>[New] In 2024, Mastering the Art of Fixing Android & iOS Videos in FB Messaging</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elevate-zoom-sound-a-guide-to-exceptional-quality/"><u>[Updated] 2024 Approved Elevate Zoom Sound A Guide to Exceptional Quality</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-recovering-the-solitary-sound-device/"><u>[Updated] 2024 Approved Recovering the Solitary Sound Device</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-download-playback-streaming-youtube-videos-on-ios-securely-and-smoothly-for-2024/"><u>[Updated] Download Playback Streaming Youtube Videos on iOS Securely and Smoothly for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-mac-captures-compilation-under-156-chars/"><u>[Updated] Essential Mac Captures Compilation (Under 156 Chars)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/a-complete-guideline-for-mobizen-screen-recorder-for-2024/"><u>A Complete Guideline for Mobizen Screen Recorder for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/compliance/"><u>Compliance</u></a></li>
-<li><a href="https://win-able.techidaily.com/fast-solutions-overcome-shader-optimization-hurdles-in-star-wars-battlefront-ii/"><u>Fast Solutions: Overcome Shader Optimization Hurdles in Star Wars Battlefront II</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-it-the-ultimate-guide-to-resolving-hogwarts-legacys-not-loading-woes-2024-advice/"><u>Fix It! The Ultimate Guide to Resolving Hogwarts Legacy's Not Loading Woes (2024 Advice)</u></a></li>
-<li><a href="https://win-able.techidaily.com/hearthstone-troubleshooting-guide-solving-game-crashes-on-windowsmac-pcs/"><u>Hearthstone Troubleshooting Guide - Solving Game Crashes on Windows/Mac PCs</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-realme-narzo-60-pro-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Realme Narzo 60 Pro 5G Is Unlocked</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-issues-with-launching-tiny-tinas-fantastic-journey-on-windows/"><u>How to Fix Issues with Launching Tiny Tina's Fantastic Journey on Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-poco-c55-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Poco C55 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-your-ubisoft-connect-experience-strategies-to-speed-up-downloads/"><u>Improving Your Ubisoft Connect Experience: Strategies to Speed Up Downloads</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-whatsapp-audio-chats/"><u>Mastering WhatsApp Audio Chats</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-stop-freezes-while-gaming-with-fallout-3-on-windows-11/"><u>Resolved: How to Stop Freezes While Gaming with Fallout 3 on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-steps-to-regain-access-after-losing-connection-to-the-destiny-2-servers-what-works/"><u>Resolved: Steps to Regain Access After Losing Connection to the Destiny 2 Servers - What Works?</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-how-to-fix-csgo-frame-rate-drop-problems/"><u>Solved! How to Fix CS:GO Frame Rate Drop Problems</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/subscriber-glory-the-play-button-and-accolades-for-maker-for-2024/"><u>Subscriber Glory The Play Button & Accolades for Maker for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-pro-youtube-gamers-broadcasting-journey/"><u>[New] 2024 Approved From Novice to Pro YouTube Gamers' Broadcasting Journey</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-8-best-facebook-scheduler-to-improve-efficiency/"><u>[Updated] 2024 Approved 8 Best Facebook Scheduler to Improve Efficiency</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-dusk-rising-the-fade-out-process/"><u>[Updated] Dusk Rising The Fade Out Process</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/caixun-4k-android-tv-75-inch-ec75e1a-review/"><u>Caixun 4K Android TV 75-Inch EC75E1A Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/dead-by-daylight-playable-again-your-ultimate-fix-for-error-8014/"><u>Dead By Daylight Playable Again? Your Ultimate Fix for Error 8014</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-the-world-of-dxvk-essential-knowledge-for-windows-gamers/"><u>Dive Into the World of DXVK: Essential Knowledge for Windows Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-fortnites-persistent-startup-hurdle/"><u>How to Overcome Fortnite's Persistent Startup Hurdle</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-t2-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo T2 5G?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/passare-a-una-regione-diversa-per-il-dvd-su-macbook-e-imac-istruzioni-dettagliate/"><u>Passare a Una Regione Diversa per Il DVD Su MacBook E iMac: Istruzioni Dettagliate</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005443254-sid-meiers-civilization-vi-crash-woes-expert-fixes-to-get-you-back-in-action/"><u>Sid Meier’s Civilization VI Crash Woes? Expert Fixes to Get You Back in Action</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002039781-tackling-call-of-duty-vanguards-dev-error-5573-a-step-by-step-guide-to-success/"><u>Tackling Call of Duty Vanguard's Dev Error 5573 - A Step by Step Guide to Success</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-compress-mpeg2-videos-with-free-virtualdub-software-for-2024/"><u>Updated Compress MPEG2 Videos with Free VirtualDub Software for 2024</u></a></li>
 </ul></div>
 

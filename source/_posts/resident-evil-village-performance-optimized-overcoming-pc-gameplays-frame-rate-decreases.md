@@ -1,7 +1,7 @@
 ---
 title: "Resident Evil Village Performance Optimized: Overcoming PC Gameplay's Frame Rate Decreases"
-date: 2024-09-12T19:59:43.361Z
-updated: 2024-09-16T20:02:30.329Z
+date: 2024-10-04T19:34:19.515Z
+updated: 2024-10-08T16:20:37.783Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 3. [Change mouse settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Update device driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Download an invisible cursor theme file
 
  To solve the mouse cursor that appears on the black bars in-game issue, download an invisible cursor theme file would do the job.
@@ -41,6 +48,13 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 2. Press the**Window logo key + I** together and click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device.jpg)
 3. Click**Mouse** on the left panel, then click**Additional mouse options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
 4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
@@ -60,7 +74,21 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-14-23.jpg)
 4. Make sure you’re in full screen, not borderless window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : This fix might let the image lose a lot of quality.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change mouse settings
 
@@ -71,13 +99,6 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-8.png)
 
 If this fix brings no luck, move to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update device driver
 
@@ -99,13 +120,6 @@ There are two ways you can update your device drivers:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the device driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
@@ -130,5 +144,23 @@ There are two ways you can update your device drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/2023-tips-how-to-fix-maplestory-crashing-on-windows-10/"><u>[2023 Tips] How to Fix MapleStory Crashing on Windows 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-quickrestore-reviewers-thoughts/"><u>[New] 2024 Approved QuickRestore Reviewers Thoughts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pioneering-digital-expression-with-these-6-best-nft-makers/"><u>[New] Pioneering Digital Expression with These 6 Best NFT Makers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-from-beginner-to-pro-essential-steps-in-recording-with-logitech-cameras/"><u>[Updated] From Beginner to Pro Essential Steps in Recording with Logitech Cameras</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-optimize-video-flows-5-steps-for-expert-cutting-and-lengthening-of-vimeo-content/"><u>[Updated] Optimize Video Flows 5 Steps for Expert Cutting & Lengthening of Vimeo Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-wow-glitch-solutions-for-critical-failure-message-error-132/"><u>Beat WOW Glitch: Solutions for Critical Failure Message 'Error 132'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463395821-dealing-with-an-offline-find-my-iphone-explore-reasons-and-tracking-tricks-here/"><u>Dealing with an Offline Find My iPhone? Explore Reasons and Tracking Tricks Here!</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-ii-resurrected-stability-enhancements-no-more-crashes/"><u>Diablo II Resurrected Stability Enhancements - No More Crashes</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Additional Tips About Sinnoh Stone For Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-innovative-methods-to-enhance-images-through-cropping/"><u>In 2024, Innovative Methods to Enhance Images Through Cropping</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-compilation-best-gopro-cases-for-action-seekers/"><u>In 2024, Ultimate Compilation Best GoPro Cases for Action Seekers</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-freezing-solve-titanfall-2-stability-problems-instantly/"><u>No More Freezing: Solve Titanfall 2 Stability Problems Instantly</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fix-guide-resolving-your-lol-crash-issues-instantly/"><u>Quick Fix Guide: Resolving Your LoL Crash Issues Instantly</u></a></li>
+<li><a href="https://win-able.techidaily.com/quickly-resolve-your-warzone-a-simple-guide-to-correcting-directx-glitches-in-four-steps/"><u>Quickly Resolve Your Warzone: A Simple Guide to Correcting DirectX Glitches in Four Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-11-tactics-for-fixed-borderlands-3-not-launching-woes/"><u>Troubleshooting Guide: 11 Tactics for Fixed Borderlands 3 Not Launching Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-palworlds-eos-login-issues-discover-6-effective-solutions/"><u>Troubleshooting PalWorld's EOS Login Issues: Discover 6 Effective Solutions</u></a></li>
+</ul></div>
 

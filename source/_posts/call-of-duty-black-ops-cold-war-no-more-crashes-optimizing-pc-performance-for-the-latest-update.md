@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty: Black Ops Cold War - No More Crashes! Optimizing PC Performance for the Latest Update"
-date: 2024-09-09T20:13:43.264Z
-updated: 2024-09-16T22:21:45.981Z
+date: 2024-10-03T22:20:20.510Z
+updated: 2024-10-08T16:31:52.029Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ It’s very frustrating when Call of Duty Black Ops Cold War keeps freezing on y
 4. **[Scan and repair corrupted game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Lower the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Avoid PC overheating
 
  Black Ops Cold War is a graphic-intensive application that will put load on your CPU and GPU. When these component overheats, the computer will stop functioning to protect the hardware from physical damage, and thus your game freezes.
@@ -39,6 +46,13 @@ It’s very frustrating when Call of Duty Black Ops Cold War keeps freezing on y
  To avoid this problem, you can**clean the dust regularly** and**check the cooling system** to ensure your PC is in a cool, well-ventilated condition. Also,**stop overclocking your processor** as this will increase the chance of overheating.
 
  If Call of Duty Cold War just freezes without any overheating symptoms, take a look at other workable fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics card driver
 
@@ -74,22 +88,8 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-13.jpg)
 2. Navigate to the**Compatibility** tab. Then, tick**Disable fullscreen optimizations** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/11.jpg)
 3. Click**Change high DPI settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/12.jpg)
 4. Tick**Override** **High DPI** **scaling behavior** and select**Application** from the drop-down menu below. Then, click**OK** .  
@@ -97,13 +97,6 @@ Here are the steps:
 5. Click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch your game to see if the freezing problem goes away. If not, try the next fix below.
 
@@ -115,7 +108,22 @@ Here are the steps:
 2. Select**Call of Duty: BOCW** on the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10.jpg)
 3. Click**Options** and click**Scan and Repair** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the process completes, relaunch the game to test the issue. If this fix doesn’t help, check out the last one.
 
@@ -129,13 +137,26 @@ Here are the steps:
 3. Lower the parameters under each section according to your needs.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check how things go. If the freezing problem is persistent, you can contact **[Blizzard’s support](https://support.activision.com/contact-us)**  for further assistance. Since Black Ops Cold War is a relatively new game, we’d wait for the upcoming patches to resolve those known bugs.
 
@@ -159,5 +180,26 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-visionary-film-techniques-top-15-cine-look-ups-empowering-action-cam/"><u>[New] In 2024, Visionary Film Techniques Top 15 Cine Look-Ups Empowering Action Cam</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-reality-altered-by-virtual-sight/"><u>[Updated] In 2024, Reality Altered by Virtual Sight</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-troubleshooting-and-stabilizing-everspace-ii-on-computer-systems/"><u>Comprehensive Guide to Troubleshooting and Stabilizing Everspace II on Computer Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/cut-down-zooms-high-cpu-usage-with-these-6-effective-remedies/"><u>Cut Down Zoom’s High CPU Usage with These 6 Effective Remedies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-troubleshooting-steps-to-resolve-battlefield-5-startup-issues-guide/"><u>Easy Troubleshooting Steps to Resolve Battlefield 5 Startup Issues - Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-resynchronize-google-drive-on-desktop-os/"><u>Essential Steps to Resynchronize Google Drive on Desktop OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-repair-your-windows-11-start-menu-problem-solved/"><u>How to Repair Your Windows 11 Start Menu – Problem Solved</u></a></li>
+<li><a href="https://win-able.techidaily.com/immortals-of-fenyx-rising-game-stability-issues-resolved/"><u>Immortals of Fenyx Rising Game Stability Issues - Resolved</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-poco-c65-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Poco C65 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win-able.techidaily.com/mafia-definitive-edition-release-delayed-inside-story-revealed/"><u>Mafia Definitive Edition Release Delayed - Inside Story Revealed</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/mastering-macos-photography-step-by-step-guide-to-using-photos-app/"><u>Mastering macOS Photography: Step-by-Step Guide to Using Photos App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximize-your-listening-experience-ios-podcast-mastery-for-2024/"><u>Maximize Your Listening Experience IOS Podcast Mastery for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-pc-stability-problems-fixing-constant-overwatch-2-crashes/"><u>Overcoming PC Stability Problems: Fixing Constant Overwatch 2 Crashes</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/seamless-user-targeting-via-innovative-cookiebot-solutions/"><u>Seamless User Targeting Via Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/securing-your-pages-ambiance-a-guide-to-user-removal-on-facebook/"><u>Securing Your Page's Ambiance: A Guide to User Removal on Facebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-fix-star-wars-jedi-fallen-order-not-starting-issue/"><u>Solved: How to Fix 'Star Wars Jedi: Fallen Order' Not Starting Issue</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/swift-access-latest-keyboard-drivers-specially-designed-for-windows-7-downloads/"><u>Swift Access: Latest Keyboard Drivers Specially Designed for Windows 7 Downloads</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-ark-game-crash-problems-tips-and-fixes-for-a-smooth-experience/"><u>Troubleshooting ARK Game Crash Problems: Tips and Fixes for a Smooth Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/ui-flaw-in-black-ops-cold-war-corrected-eliminating-error-27711-on-playstation-and-pc/"><u>UI Flaw in Black Ops Cold War Corrected: Eliminating Error 27711 on PlayStation and PC</u></a></li>
+</ul></div>
 

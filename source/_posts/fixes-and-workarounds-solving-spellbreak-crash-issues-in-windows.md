@@ -1,7 +1,7 @@
 ---
 title: "Fixes & Workarounds: Solving Spellbreak Crash Issues in Windows"
-date: 2024-10-02T16:47:44.855Z
-updated: 2024-10-03T17:18:59.323Z
+date: 2024-10-01T17:57:44.049Z
+updated: 2024-10-08T23:55:24.691Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ By checking your system specs, just follow the instructions below:
 
 ![bring up DirectX Diagnostic Tool](https://images.drivereasy.com/wp-content/uploads/2020/09/dxdiag.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Now you can check your system specs.
 
 ![check system specs
@@ -63,10 +70,10 @@ By checking your system specs, just follow the instructions below:
  You might overclock your GPU in order to boost your game’s FPS. But it’ll lead to an increase in heat, and thus reduce the lifespan of your hardware components. So if you’ve been overclocking it, try to disable it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics drivers
@@ -95,6 +102,13 @@ By checking your system specs, just follow the instructions below:
 
 ![update drivers; scan now](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to _your graphics driver_ to automatically download the correct driver for your computer, then you can manually install it.
 
 OR
@@ -110,6 +124,13 @@ OR
 
  If you’ve had all your drivers updated and the problem persists, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Run TF2 in compatibility mode & as an administrator
 
  When your game keeps hanging on “Preparing to launch…” and it never launches, try running it in compatibility mode & as an administrator.
@@ -117,13 +138,6 @@ OR
  1) Right-click on the Steam icon on your desktop and select**Open file location** .
 
 ![run the game in compatibility mode; Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Open the**steamapps** folder.
 
@@ -135,16 +149,16 @@ OR
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-3-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Select the**Compatibility** tab and check**Run this program in compatibility mode** and**Run this program as an administrator** . Then click**OK** .
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-as-an-administrator.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Verify the integrity of game files
 
@@ -158,22 +172,15 @@ OR
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Steam will verify the game’s files and this process may take several minutes.
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Set Launch Options
@@ -185,22 +192,15 @@ OR
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the**GENERAL** tab, click**SET LAUNCH OPTIONS** .
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) When the window pops up, type**autoconfig** and click**OK** .
 
@@ -238,24 +238,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-become-a-lunapic-wizard-top-editorial-techniques/"><u>[New] Become a LunaPic Wizard Top Editorial Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/a-step-by-step-guide-for-resolving-paradox-launcher-errors/"><u>A Step-by-Step Guide for Resolving Paradox Launcher Errors</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-tecno-spark-20c-frp-bypass-by-drfone-android/"><u>About Tecno Spark 20C FRP Bypass</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/asus-touchpad-driver-update-for-windows-10-made-simple-and-swiftly-downloadable-here/"><u>ASUS Touchpad Driver Update for Windows 10 Made Simple & Swiftly Downloadable Here</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-infinix-gt-10-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Infinix GT 10 Pro?</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-getting-your-logitech-g-hub-running-again-on-windows/"><u>Expert Solutions: Getting Your Logitech G Hub Running Again on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-cyberpunk-2077-ignores-graphics-card-in-windows-11/"><u>Fix: Cyberpunk 2077 Ignores Graphics Card in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-restore-voice-communication-in-among-us-when-facing-pc-hurdles/"><u>How to Restore Voice Communication in Among Us When Facing PC Hurdles</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/instantaneous-installation-laugh-with-ifunny-memes-easily-for-2024/"><u>Instantaneous Installation Laugh with iFunny Memes Easily for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-directdraw-fixes-a-step-by-nstep-approach-to-eliminating-common-mishaps/"><u>Mastering DirectDraw Fixes – A Step-by-nStep Approach to Eliminating Common Mishaps</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mastering-fast-forward-on-vimeo/"><u>Mastering Fast-Forward on Vimeo</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722993786292-navigating-through-microsoft-flight-simulator-2020s-update-problem-solutions-inside/"><u>Navigating Through Microsoft Flight Simulator 2020'S Update Problem – Solutions Inside!</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-game-crashing-mastering-samurai-warriors-npc-stability/"><u>No More Game Crashing: Mastering Samurai Warriors N_PC Stability</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-hurdle-of-launch-failures-in-games-through-proper-file-validation/"><u>Overcoming the Hurdle of Launch Failures in Games Through Proper File Validation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/rapid-shot-mastery-the-ultimate-guide-to-homemade-cinematography/"><u>Rapid Shot Mastery The Ultimate Guide to Homemade Cinematography</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-granblue-fantasy-issues-with-unlaunched-relinks/"><u>Troubleshooting Tips: Resolving Granblue Fantasy Issues with Unlaunched Relinks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-the-power-of-gopro-hero5-sessions/"><u>Unveiling the Power of GoPro Hero5 Sessions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-4k-monitor-buying-guide-how-to-choose-the-right-monitor-for-2024/"><u>[New] 4K Monitor Buying Guide How to Choose the Right Monitor for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-integrating-pre-recorded-content-into-facebook-live-shows/"><u>[New] In 2024, Integrating Pre-Recorded Content Into Facebook Live Shows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-drone-knowledge-must-know-before-making-a-deal/"><u>[New] Unlocking Drone Knowledge Must-Know Before Making a Deal</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-avoid-blandness-optimize-your-thumbnail-with-20-fonts-for-2024/"><u>[Updated] Avoid Blandness - Optimize Your Thumbnail with 20 Fonts for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-mycam-review-a-step-toward-future-proofing-your-videos/"><u>2024 Approved MyCam Review A Step Toward Future-Proofing Your Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995313451-bypassing-fortnite-login-errors-easy-tips-for-uninterrupted-gaming/"><u>Bypassing Fortnite Login Errors: Easy Tips for Uninterrupted Gaming!</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-vk-russias-answer-to-facebook-uncovered/"><u>Deciphering VK: Russia's Answer to Facebook Uncovered</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-3-stability-improvements-for-windows-11-users-no-more-crashes/"><u>Fallout 3 Stability Improvements for Windows 11 Users - No More Crashes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722993616296-fixing-compiling-shaders-errors-for-call-of-duty-black-ops-cold-war-now-solved/"><u>Fixing 'Compiling Shaders' Errors for Call of Duty Black Ops Cold War - Now Solved</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-boot-up-blues-heres-how-to-fix-a-frozen-loading-screen/"><u>Fortnite Boot-Up Blues? Here’s How to Fix a Frozen Loading Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-woes-no-more-resolving-elite-dangerous-crash-problems-for-players/"><u>PC Woes No More: Resolving Elite Dangerous Crash Problems for Players</u></a></li>
 </ul></div>
 

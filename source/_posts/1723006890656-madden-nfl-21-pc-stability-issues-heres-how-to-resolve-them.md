@@ -1,7 +1,7 @@
 ---
 title: Madden NFL 21 PC Stability Issues? Here's How to Resolve Them
-date: 2024-09-27T16:57:08.187Z
-updated: 2024-10-03T16:13:10.549Z
+date: 2024-10-04T21:36:35.336Z
+updated: 2024-10-08T21:57:01.377Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ If you’re an avid football fan, the last thing you want to see is**Madden 21 k
 4. [**Switch your DirectX version**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Lower in-game graphical settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  Broken or missing game files could lead to constant crashes. So before you try anything else, first make sure there’s nothing wrong with the game files.
@@ -46,22 +53,15 @@ Here’s how to do that on Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once done, launch Madden 21 and check if it crashes again.
 
 If the fix doesn’t stop the crash, you can try the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -83,6 +83,13 @@ If the fix doesn’t stop the crash, you can try the next one below.
 
  If the latest graphics driver doesn’t help, you can take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
 To minimize conflicts, you also need to install all the system patches:
@@ -93,16 +100,16 @@ To minimize conflicts, you also need to install all the system patches:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  If you’re sure your system is up to date, simply check out the next trick below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Switch your DirectX version
 
@@ -112,30 +119,23 @@ To minimize conflicts, you also need to install all the system patches:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-1.jpg)
 2. Click**SETTINGS** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-2.jpg)
 3. Select**GRAPHICS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-3.jpg)
 4. Click to change DIRECTX VERSION. Then save the changes and restart the game.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-4.jpg)
 
 Now you can check if the crash stops.
 
  If changing DirectX version doesn’t give you luck, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphical settings
 
@@ -169,21 +169,18 @@ Once done, restart your game and test the improvement.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-how-to-record-webcam-video-on-hp-laptops-and-chromebooks-for-2024/"><u>[New] How to Record Webcam Video on HP Laptops and Chromebooks for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-expert-advice-on-logging-google-voice-chats/"><u>[New] In 2024, Expert Advice on Logging Google Voice Chats</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-how-to-join-google-meet/"><u>[Updated] How to Join Google Meet?</u></a></li>
-<li><a href="https://win-able.techidaily.com/a-players-handbook-to-reconnecting-with-your-team-on-rainbow-six-siege-servers-error-fix-guide/"><u>A Player's Handbook to Reconnecting with Your Team on Rainbow Six Siege Servers: Error Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-ensure-a-smooth-gaming-experience-by-eliminating-madden-nfl-21s-pc-crashes-expert-advice-and-tips/"><u>How to Ensure a Smooth Gaming Experience by Eliminating Madden NFL 21'S PC Crashes - Expert Advice and Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a25-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A25 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-key-techniques-for-assessing-youtube-engagement-and-profitability/"><u>In 2024, Key Techniques for Assessing YouTube Engagement and Profitability</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/itel-a05s-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A05s Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-fixes-eradicating-e66ac-issue-from-your-nba-2k-game/"><u>Mastering Fixes: Eradicating E66ac Issue From Your NBA 2K Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/monster-hunter-rise-not-working-heres-how-you-can-get-it-running-smoothly/"><u>Monster Hunter Rise Not Working? Here's How You Can Get It Running Smoothly</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/posting-vimeo-perfecting-your-instagram-content-for-2024/"><u>Posting Vimeo Perfecting Your Instagram Content for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-black-ops-cold-war-error-code-0xc0000005-fixes-and-solutions/"><u>Resolving 'Black Ops: Cold War' Error Code 0xC0000005 - Fixes and Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/sony-vegas-stability-solutions-how-to-prevent-unexpected-software-shutdowns/"><u>Sony Vegas Stability Solutions: How To Prevent Unexpected Software Shutdowns</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-insiders-guide-to-lengthening-videos-and-freezing-time-on-snapchat-for-2024/"><u>The Insider's Guide to Lengthening Videos and Freezing Time on Snapchat for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-latest-fix-for-ongoing-chills-in-the-new-world-environment/"><u>The Latest Fix for Ongoing Chills in the New World Environment</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-iphones-non-functional-flashlight-with-these-12-steps/"><u>Troubleshoot iPhone's Non-Functional Flashlight with These 12 Steps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-innovative-strategies-for-revamping-your-video-covers-on-fb/"><u>[New] In 2024, Innovative Strategies for Revamping Your Video Covers on FB</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-unleash-creativity-with-ezvides-tool-for-capturing-your-desktop/"><u>[New] In 2024, Unleash Creativity with EZvide's Tool for Capturing Your Desktop</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-create-awesome-instagram-videos/"><u>[Updated] In 2024, How to Create Awesome Instagram Videos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-google-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Google</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-to-combat-high-cpu-usage-in-new-world/"><u>Effective Strategies to Combat High CPU Usage in 'New World'</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-resolving-stellaris-game-crashes-once-and-for-all/"><u>Expert Guide: Resolving Stellaris Game Crashes Once and For All!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-maplestory-from-crashing-on-windows-11-top-fixes/"><u>How To Stop MapleStory From Crashing on Windows 11 – Top Fixes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-honor-x50iplus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Honor X50i+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-data-buffering-for-sony-a7s-ii-for-2024/"><u>Optimal Data Buffering for Sony A7S II for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722138198242-sharpen-your-deduction-skills-through-these-engaging-ai-murder-mysteries-and-puzzles-4-best-brain-boosting-challenges/"><u>Sharpen Your Deduction Skills Through These Engaging AI Murder Mysteries & Puzzles - #4 Best Brain-Boosting Challenges!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-continuous-crashes-in-cities-skylines-2-on-desktop-pcs/"><u>Ultimate Fixes for Continuous Crashes in Cities: Skylines 2 on Desktop PCs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722910551405-unlocking-the-potential-of-on-the-go-charging-with-halo-bolts-dual-purpose-power-unit-reviewed/"><u>Unlocking the Potential of On-the-Go Charging with Halo Bolt's Dual-Purpose Power Unit Reviewed.</u></a></li>
 </ul></div>
 

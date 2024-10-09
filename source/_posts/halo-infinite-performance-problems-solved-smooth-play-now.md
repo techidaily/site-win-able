@@ -1,7 +1,7 @@
 ---
 title: Halo Infinite Performance Problems Solved - Smooth Play Now
-date: 2024-09-23T03:41:35.569Z
-updated: 2024-09-28T04:33:29.165Z
+date: 2024-10-05T21:51:50.069Z
+updated: 2024-10-08T21:40:39.591Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
@@ -71,10 +78,10 @@ There are mainly two ways you can update the graphics driver:
  If updating the graphics driver doesn’t work, you can move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Change in-game settings
@@ -87,35 +94,22 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
@@ -124,13 +118,6 @@ There are mainly two ways you can update the graphics driver:
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Turn off background apps
 
@@ -143,6 +130,13 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -169,18 +163,17 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-cutting-edge-techniques-to-elevate-your-tiktok-visual-storytelling/"><u>[New] Cutting-Edge Techniques to Elevate Your TikTok Visual Storytelling</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/rasp-the-art-of-steadiness-in-photography/"><u>[New] Grasp the Art of Steadiness in Photography</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-postmycam-seeking-top-notch-alternatives-for-2024/"><u>[New] PostMyCam Seeking Top-Notch Alternatives for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-essential-nintendo-switch-brawlers-guidebook-max-156/"><u>[Updated] 2024 Approved Essential Nintendo Switch Brawlers Guidebook (Max 156)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-unleash-new-sounds-top-7-voice-transformation-android-apps/"><u>2024 Approved Unleash New Sounds Top 7 Voice Transformation Android Apps</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeating-digital-demons-how-to-debug-call-of-duty-mobiles-version-50-and-31-read-error-on-your-pc/"><u>Defeating Digital Demons: How To Debug Call of Duty Mobile's Version 5.0 and 3.1 Read Error on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-counter-strike-2-fps-expert-advice-to-stop-drops-and-stuttering-on-pc/"><u>Enhance Counter-Strike 2 FPS: Expert Advice to Stop Drops and Stuttering on PC</u></a></li>
-<li><a href="https://video-capture.techidaily.com/essential-accessories-10-ps5-hard-drive-mods/"><u>Essential Accessories #10 PS5 Hard Drive Mods</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-frame-rate-lags-in-guilty-gear-strive-a-comprehensive-guide/"><u>Fixing Frame Rate Lags in Guilty Gear Strive: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-guilty-gear-strive-how-to-overcome-lag-challenges-for-a-smoother-experience/"><u>Fixing Guilty Gear - Strive- How to Overcome Lag Challenges for a Smoother Experience</u></a></li>
-<li><a href="https://review-topics.techidaily.com/huawei-data-retrieval-tool-restore-lost-data-from-huawei-by-fonelab-android-recover-data/"><u>Huawei Data Retrieval tool – restore lost data from Huawei</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-xiaomi-redmi-note-12-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/navigating-bandicams-new-features-the-2023-breakdown/"><u>Navigating Bandicam's New Features – The 2023 Breakdown</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-unlock-your-creative-potential-the-leading-12-sites-for-accessible-stock-photos/"><u>[New] In 2024, Unlock Your Creative Potential - The Leading 12 Sites for Accessible Stock Photos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mac-gaming-recording-roblox-adventures/"><u>[New] Mac Gaming Recording Roblox Adventures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-compre-written-guide-on-incorporating-markup-features-in-youtube/"><u>[Updated] 2024 Approved Compre Written Guide on Incorporating Markup Features in YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-ace-your-gift-shopping-the-ultimate-guide-to-selecting-specialty-stores/"><u>[Updated] Ace Your Gift Shopping The Ultimate Guide to Selecting Specialty Stores</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-best-8-linux-platforms-for-video-mastery/"><u>2024 Approved Best 8 Linux Platforms for Video Mastery</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-peering-into-the-pantheon-of-social-media-mavens-in-your-area/"><u>2024 Approved Peering Into the Pantheon of Social Media Mavens in Your Area</u></a></li>
+<li><a href="https://win-able.techidaily.com/grand-theft-auto-v-optimization-resolving-errgfxd3dinit-for-a-seamless-gaming-adventure/"><u>GRAND THEFT AUTO V Optimization: Resolving ERR_GFX_D3D_INIT for a Seamless Gaming Adventure</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/increase-farming-simulator-22-gameplay-quality-on-your-computer-with-optimized-frame-drops-fixes/"><u>Increase Farming Simulator 22 Gameplay Quality on Your Computer with Optimized Frame Drops Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/increasing-gaming-fluidity-comprehensive-fixes-to-address-fps-hiccups-and-stutter-issues/"><u>Increasing Gaming Fluidity: Comprehensive Fixes to Address FPS Hiccups and Stutter Issues</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/navigate-the-world-of-instagram-videos-for-maximum-impact-for-2024/"><u>Navigate the World of Instagram Videos for Maximum Impact for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-users-rejoice-overcoming-the-constant-crashes-in-alien-fireteam-elite/"><u>PC Users Rejoice! Overcoming the Constant Crashes in Alien: Fireteam Elite</u></a></li>
 </ul></div>
 

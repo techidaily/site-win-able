@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Persistent Gameplay Interruptions on the PC Metro Exodus Ultimate DX12 Edition
-date: 2024-09-24T22:01:49.066Z
-updated: 2024-09-28T11:39:16.761Z
+date: 2024-10-01T18:53:13.066Z
+updated: 2024-10-08T16:42:00.351Z
 tags:
   - win11
   - win10
@@ -65,9 +65,24 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 4. Under**Virtual memory** , click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 7. Reboot your computer can check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -82,28 +97,21 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 5. Reboot your computer and check the issue is solved or not.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -133,20 +141,13 @@ OR
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
@@ -167,22 +168,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-essential-tiktok-to-twitter-sharing/"><u>[New] In 2024, The Essential TikTok to Twitter Sharing</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-runescape-keeps-crashing/"><u>[SOLVED] RuneScape Keeps Crashing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/cut-to-the-chase-leading-video-editors-for-android-and-windows/"><u>Cut to the Chase Leading Video Editors for Android and Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/dota-ns-performance-woes-resolving-frame-drops-when-running-under-windows-11/"><u>Dota N's Performance Woes: Resolving Frame Drops When Running Under Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/elevate-gaming-experience-with-higher-fps-mastering-tainted-grail-conquest-strategies/"><u>Elevate Gaming Experience with Higher FPS - Mastering Tainted Grail: Conquest Strategies</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-honor-magic-vs-2-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Honor Magic Vs 2 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-12-proplus-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme 12 Pro+ 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-beat-breakers-crafting-compelling-video-music-scores/"><u>In 2024, Beat Breakers Crafting Compelling Video Music Scores</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-free-dailymotion-converter-online/"><u>New In 2024, Best Free Dailymotion Converter Online</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-origin-issues-now-fixed-connecting-successfully/"><u>Resolved: Origin Issues Now Fixed - Connecting Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-entry-point-not-available-error-in-fortnite-a-comprehensive-guide/"><u>Resolving the 'Entry Point Not Available' Error in Fortnite: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-pc-breaks-when-playing-dread-hunger-expert-fixes-revealed/"><u>Stop PC Breaks When Playing Dread Hunger – Expert Fixes Revealed</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-visual-storytelling-in-your-instagram-highlight-images-for-2024/"><u>The Art of Visual Storytelling in Your Instagram Highlight Images for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-future-is-here-assessing-the-impact-of-a-new-cpu-on-the-latest-13-inch-apple-macbook-pro/"><u>The Future Is Here: Assessing the Impact of a New CPU on the Latest 13-Inch Apple MacBook Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008155692-unlock-your-adventure-in-maplestory-overcome-launch-errors-here/"><u>Unlock Your Adventure in MapleStory - Overcome Launch Errors Here!</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-strategies-for-fixing-new-world-constant-crashes-on-your-computer-system/"><u>Winning Strategies for Fixing 'New World' Constant Crashes on Your Computer System</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guaranteed-safe-approaches-for-turning-youtube-songs-into-mp3-files/"><u>[New] 2024 Approved Guaranteed Safe Approaches for Turning YouTube Songs Into MP3 Files</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-propel-your-visuals-forward-seamlessly-combining-windows-photos-and-storyremix/"><u>[Updated] Propel Your Visuals Forward Seamlessly Combining Windows, Photos, and StoryRemix</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-androidiphone-mastery-discover-the-ultimate-top-8-app-set/"><u>2024 Approved Android/iPhone Mastery Discover the Ultimate Top 8 App Set</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-art-of-concluding-your-videos-powerfully/"><u>2024 Approved The Art of Concluding Your Videos Powerfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-avatars-pandora-world-malfunctions-on-your-computer/"><u>Expert Tips for Resolving Avatar's Pandora World Malfunctions on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/gta-5-online-errors-heres-how-you-can-resolve-them/"><u>GTA 5 Online Errors? Here's How You Can Resolve Them!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-zeo-startup-showcase/"><u>In 2024, The Ultimate Zeo-Startup Showcase</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-computer-lifecycle-challenges-in-202n4-expert-advice-to-fix-last-epoch-crash-on-your-device/"><u>Navigating Computer Lifecycle Challenges in 202N4: Expert Advice to Fix Last Epoch Crash on Your Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-performance-hiccups-in-total-war-warhammer-iii-for-a-seamless-gaming-experience-on-windows/"><u>Overcoming Performance Hiccups in TOTAL WAR: WARHAMMER III for a Seamless Gaming Experience on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/phasmophobia-loading-issue-solved-no-more-stuck-at-90-update/"><u>Phasmophobia Loading Issue Solved! No More Stuck at 90% Update.</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-the-minecraft-launcher-error-0x803f8001-on-windows-11-and-10/"><u>Resolved: Fixing the Minecraft Launcher Error 0X803F8001 on Windows 11 & 10</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-art-of-low-pitched-audio-transforming-your-voice-in-filmora-2023-for-2024/"><u>The Art of Low-Pitched Audio Transforming Your Voice in Filmora 2023 for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-realme-c67-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Realme C67 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-guide-on-preventing-and-resolving-ring-of-elysium-software-interruptions/"><u>The Definitive Guide on Preventing and Resolving 'Ring of Elysium' Software Interruptions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-repairing-your-unresponsive-optical-drive/"><u>Ultimate Guide: Repairing Your Unresponsive Optical Drive</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-solving-frequent-ark-survival-ascended-game-crashes-on-your-computer/"><u>Ultimate Troubleshooting Tips for Solving Frequent ARK: Survival Ascended Game Crashes on Your Computer</u></a></li>
 </ul></div>
 

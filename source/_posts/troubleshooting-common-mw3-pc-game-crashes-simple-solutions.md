@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Common MW3 PC Game Crashes: Simple Solutions"
-date: 2024-09-30T17:14:10.187Z
-updated: 2024-10-03T16:25:02.298Z
+date: 2024-10-01T17:52:42.534Z
+updated: 2024-10-08T16:37:25.927Z
 tags:
   - win11
   - win10
@@ -54,25 +54,18 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Verify the game files
 
@@ -86,6 +79,13 @@ The outdated or broken graphics driver often crashes the game.
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Install the latest game patch
 
  The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -95,16 +95,10 @@ The outdated or broken graphics driver often crashes the game.
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Disable Steam Overlay
@@ -117,13 +111,20 @@ The outdated or broken graphics driver often crashes the game.
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
@@ -138,13 +139,6 @@ The outdated or broken graphics driver often crashes the game.
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -176,20 +170,22 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-agriculture-adventures-the-ultimate-farmers-game-guide-for-2024/"><u>[New] Agriculture Adventures The Ultimate Farmer's Game Guide for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-premier-guide-to-free-online-meetings-and-sharing-screens-for-2024/"><u>[New] The Premier Guide to FREE Online Meetings & Sharing Screens for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ransform-your-videos-presence-with-youtube-thumbnail-tailoring-for-2024/"><u>[New] Transform Your Video's Presence with YouTube Thumbnail Tailoring for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-top-10-best-gopro-cases-review/"><u>[Updated] Top 10 Best GoPro Cases Review</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-pioneering-video-player-apps-for-tiktok-and-vimeo/"><u>2024 Approved Pioneering Video Player Apps for TikTok & Vimeo</u></a></li>
-<li><a href="https://blog-min.techidaily.com/freemake-video-converter/"><u>安全かつ効果的にFreemake Video Converterを利用するための詳細な手順と信頼性分析</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-5-performance-boost-a-10-step-guide-to-reducing-latency/"><u>Battlefield 5 Performance Boost: A 10-Step Guide to Reducing Latency</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/boost-your-media-creation-skills-a-detailed-walkthrough-of-movie-maker-on-windows-8-for-2024/"><u>Boost Your Media Creation Skills A Detailed Walkthrough of Movie Maker on Windows 8 for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-get-overwatch-2-running-smoothly-a-guide-to-7-crucial-fixes/"><u>How to Get Overwatch 2 Running Smoothly : A Guide to 7 Crucial Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-smooth-play-experience-tips-for-faster-fps-on-watch-dogs-legion/"><u>Mastering Smooth Play Experience: Tips for Faster FPS on Watch Dogs: Legion</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-for-gamers-resolving-multiversus-launch-failures-on-windows-machines/"><u>Quick Fixes For Gamers: Resolving MultiVersus Launch Failures on Windows Machines</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009546290-stardew-valley-wont-load-here-are-the-proven-remedies/"><u>Stardew Valley Won't Load? Here Are the Proven Remedies</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-updating-thunderbolt-drivers-in-windows/"><u>Step-by-Step Instructions: Updating Thunderbolt Drivers in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-repair-risk-of-rain-2-game-crashes-effective-strategies-inside/"><u>Troubleshoot and Repair Risk of Rain 2 Game Crashes – Effective Strategies Inside!</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solution-to-the-ue4-madness-repair-steps-for-the-unreal-engine-4-crash-error-in-outriders-gameplay/"><u>Ultimate Solution to the 'UE4-Madness': Repair Steps for the Unreal Engine 4 Crash Error in Outriders Gameplay</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-techniques-for-video-editing-on-windows-8-movie-maker/"><u>[Updated] Innovative Techniques for Video Editing on Windows 8 Movie Maker</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-immediate-color-correction-with-canons-paired-luts/"><u>2024 Approved Immediate Color Correction with Canon's Paired LUTs</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-black-ops-cold-war-pc-launch-fix-a-complete-guide-for-gamers/"><u>Cod: Black Ops Cold War PC Launch Fix - A Complete Guide for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-the-wasteland-giants-a-comprehensive-guide-to-scavengers-on-pc/"><u>Defeating the Wasteland Giants: A Comprehensive Guide to Scavengers on PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/epb-shield-tunnelling-is-designed-for-soft-ground-conditions-with-high-water-content-and-uses-a-balancing-mechanism-at-the-face-of-the-tunnel-to-maintain-st5/"><u>EPB Shield Tunnelling Is Designed for Soft Ground Conditions with High Water Content and Uses a Balancing Mechanism at the Face of the Tunnel to Maintain Stability</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-past-startup-errors-for-a-smooth-monster-hunter-rise-experience/"><u>Get Past Startup Errors for a Smooth Monster Hunter Rise Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-total-war-warhammer-ii-from-freezing-and-crashing-effective-solutions-and-troubleshooting-tips/"><u>How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-xiaomi-mix-fold-3-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Xiaomi Mix Fold 3 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/instant-solutions-to-fix-league-of-legends-crashes-get-back-in-action-now/"><u>Instant Solutions to Fix League of Legends Crashes – Get Back in Action Now</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-6-best-free-daw-software-for-beginners-to-use/"><u>New 6 Best Free DAW Software for Beginners to Use</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209764696-noisy-playstation-4-heres-how-you-can-silence-the-racket/"><u>Noisy PlayStation 4? Here's How You Can Silence the Racket!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/os-11-metodos-mais-eficazes-para-transformar-seus-filmes-swf-em-mp4-de-graca-um-guia-detalhado/"><u>Os 11 Métodos Mais Eficazes Para Transformar Seus Filmes SWF Em MP4 De Graça: Um Guia Detalhado</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-gobi-fatal-error-in-ubisofts-back-cu-blood-a-guide-for-unreal-engine-4-players/"><u>Resolving the Gobi Fatal Error in Ubisoft's Back Cu Blood: A Guide for Unreal Engine 4 Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/titanfall-2-stability-issues-heres-how-you-can-fix-the-game-crashes-instantly/"><u>Titanfall 2 Stability Issues? Here's How You Can Fix the Game Crashes Instantly</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-microsoft-edge-keeps-crashing-on-windows-11-and-how-to-fix-it/"><u>Troubleshooting Guide: Why Microsoft Edge Keeps Crashing on Windows 11 and How to Fix It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-when-your-pc-gets-stuck-on-the-windows-preparation-screen/"><u>Troubleshooting Tips for When Your PC Gets Stuck on the Windows Preparation Screen</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unleashing-shareability-secrets-of-trending-on-fb/"><u>Unleashing Shareability Secrets of Trending on Fb</u></a></li>
 </ul></div>
 

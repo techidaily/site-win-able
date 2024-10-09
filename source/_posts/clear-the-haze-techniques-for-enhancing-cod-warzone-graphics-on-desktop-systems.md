@@ -1,7 +1,7 @@
 ---
 title: "Clear the Haze: Techniques for Enhancing COD: Warzone Graphics on Desktop Systems"
-date: 2024-09-29T17:04:50.842Z
-updated: 2024-10-03T16:21:47.531Z
+date: 2024-10-06T19:10:47.419Z
+updated: 2024-10-08T23:46:50.147Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 5. **[Increase virtual memory](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Check for Windows update](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Meet the minimum system requirements
 
@@ -81,18 +88,18 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-113-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-358.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -113,15 +120,22 @@ If your problem persists, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-896.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **DOOM** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -133,10 +147,10 @@ If your problem persists, then go ahead with the next fix below.
 If this didn’t work, try the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Lower your in-game settings
@@ -169,13 +183,6 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
@@ -192,19 +199,25 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
 * **Initial size** – This value varies, depending on your computer. If you’re not sure what value to use, just enter whatever the number is in the **Recommended** category.
 * **Maximum size** – Don’t set this value too high. It should be about 1.5 times the size of your physical RAM. e.g. A PC with 4 GB (4096 MB) of RAM should have no more than about 6,144 MB virtual memory (4096 MB x 1.5).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)** Click **Set** , and then click **OK** .
 
@@ -219,13 +232,6 @@ If not, move on and try the next solution below.
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-575.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -247,26 +253,26 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Highlight the **DOOM Eternal folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_12-34-56-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall DOOM.
@@ -294,22 +300,22 @@ If not, move on and try the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/andtop7/"><u>人気の高いフリー動画音声変換ソフト&おすすめウェブサイトランキングTOP7</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-password-configuration-for-your-ps5-console/"><u>Demystifying Password Configuration for Your PS5 Console</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-steps-to-solve-compatibility-issues-with-hp-officejet-pro-6978-drivers/"><u>Easy Steps to Solve Compatibility Issues with HP OfficeJet Pro 6978 Drivers</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-delay-explained-unveiling-the-reasons-behind-the-postponed-launch/"><u>Elden Ring Delay Explained - Unveiling the Reasons Behind the Postponed Launch</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-sounds-problems-quickly-expert-advice-on-halo-infinite/"><u>Fixing Sounds Problems Quickly: Expert Advice on Halo Infinite</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-stabilizing-palworld-game-performance-on-pcs/"><u>Guide to Stabilizing PalWorld Game Performance on PCs</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-s24-ultra-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy S24 Ultra?</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000000594-how-to-enable-msi-afterburner-detection-for-your-gpu-on-windows-1011-problem-solved/"><u>How to Enable MSI Afterburner Detection for Your GPU on Windows 10/11: Problem Solved!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-strategies-for-overcoming-8-typical-newbie-youtube-errors/"><u>In 2024, Strategies for Overcoming 8 Typical Newbie YouTube Errors</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ating-the-world-of-video-editing-for-youtube-creators/"><u>Navigating the World of Video Editing for YouTube Creators</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-fnaf-security-breach-pc-errors-a-step-by-step-guide/"><u>Solve Your FNaF Security Breach PC Errors - A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-removing-and-saving-audio-tracks-from-matroska-mkv-videos/"><u>Step-by-Step Guide: Removing and Saving Audio Tracks From Matroska (MKV) Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-dell-p2715q-review-a-4k-visual-revolution-unfolds-for-2024/"><u>The Dell P2715Q Review A 4K Visual Revolution Unfolds for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-must-have-mobile-applications-every-teen-needs-in-high-school/"><u>Top 10 Must-Have Mobile Applications Every Teen Needs in High School</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-battlefield-2042-pc-instability-solutions-and-tips/"><u>Troubleshooting Battlefield 2042 PC Instability: Solutions and Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fix-tutorial-overcoming-crashes-in-tribes-of-midgard-gaming-experience/"><u>Ultimate Fix Tutorial: Overcoming Crashes in 'Tribes of Midgard' Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996888849-understanding-the-football-manager-2022-launch-hitches-now-resolved/"><u>Understanding the Football Manager 2022 Launch Hitches - Now Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-csgo-fps-drops-issues/"><u>[Fixed] CS:GO FPS Drops Issues</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-easy-guide-to-finding-free-and-secure-vlc-software-for-macos-users/"><u>[New] Easy Guide to Finding Free & Secure VLC Software for macOS Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-flashback-finder/"><u>[Updated] Facebook Flashback Finder</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-navigating-partner-selection-for-youtube-joint-ventures/"><u>2024 Approved Navigating Partner Selection for YouTube Joint Ventures</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-on-the-move-photography-tweaks-with-luts/"><u>2024 Approved On-the-Move Photography Tweaks with LUTs</u></a></li>
+<li><a href="https://win-able.techidaily.com/apex-legends-error-code-23-your-comprehensive-guide-to-resolution-and-recovery/"><u>Apex Legends Error Code 23: Your Comprehensive Guide to Resolution and Recovery</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tips-for-eliminating-cod-mw2s-troublesome-directx-problem/"><u>Comprehensive Tips for Eliminating COD MW2's Troublesome DirectX Problem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477020098-dealing-with-a-delayed-iphone-screen-shutdown-here-are-some-expert-tips/"><u>Dealing with a Delayed iPhone Screen Shutdown? Here Are Some Expert Tips!</u></a></li>
+<li><a href="https://win-able.techidaily.com/firefox-stalling-resolve-all-freezing-problems-with-our-step-by-step-guide/"><u>Firefox Stalling? Resolve All Freezing Problems with Our Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-raw-to-revealed-constructing-compelling-collage-features/"><u>From Raw to Revealed: Constructing Compelling Collage Features</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y27-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-what-is-talking-avatar/"><u>New In 2024, What Is Talking Avatar?</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-frustrating-lags-10-effective-solutions-for-an-optimal-battlefield-5-experience/"><u>Say Goodbye to Frustrating Lags: 10 Effective Solutions for an Optimal Battlefield 5 Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-of-alan-wake-2s-unavailable-release/"><u>Solving the Issue of Alan Wake 2'S Unavailable Release</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722986937806-steam-vr-disappeared-here-are-6-clever-fixes-to-get-it-back-on-track/"><u>Steam VR Disappeared? Here Are 6 Clever Fixes to Get It Back on Track</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-doom-eternal-why-it-wont-launch-and-how-to-fix-it/"><u>Troubleshooting DOOM Eternal - Why It Won't Launch and How to Fix It</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-the-absence-of-wps-buttons-on-modern-android-devices-what-you-need-to-know/"><u>Understanding the Absence of WPS Buttons on Modern Android Devices: What You Need to Know</u></a></li>
 </ul></div>
 

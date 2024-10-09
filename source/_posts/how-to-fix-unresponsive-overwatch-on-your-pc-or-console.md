@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unresponsive Overwatch on Your PC or Console
-date: 2024-09-26T16:23:19.852Z
-updated: 2024-10-03T16:01:19.050Z
+date: 2024-10-01T16:03:34.805Z
+updated: 2024-10-08T18:12:29.853Z
 tags:
   - win11
   - win10
@@ -51,16 +51,23 @@ There are two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  The game should run smoothly with the graphics driver updated. But if not, there are more fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -72,17 +79,25 @@ There are two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam.jpg)
 2. Right-click**Jurassic World Evolution** from the game list and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2-1.jpg)
 3. Go to the**Local Files** tab and click**Verify Integrity of Game Files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files.jpg)
 4. Wait until the process finishes and re-open the game to test.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Does Jurassic World Evolution return to normal now? If the crashing issue persists, check out[Fix 3](https://tools.techidaily.com/drivereasy/download/) below.
 
@@ -94,20 +109,13 @@ There are two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-1.jpg)
 3. After the process completes, restart your game to test.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Do the crashes disappear now? If not, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Remove conflicting applications
@@ -128,25 +136,11 @@ Do the crashes disappear now? If not, try the next fix below.
 3. Navigate to the**In-Game** tab. Then, untick**Enable the Steam Overlay while in-game** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Disable Discord overlay
 
 1. Open Discord and click the**cogwheel icon** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/7-1-1.jpg)
 2. Select**Overlay** and**toggle off Enable in-game overlay** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00.jpg)
 
@@ -160,21 +154,28 @@ Do the crashes disappear now? If not, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-0.jpg)
 2. Go to the**Display** section.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Change the Screen Mode to**Windowed** and make sure to**turn off VSync** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-2.jpg)
 4. Go Back to the Settings Menu and navigate to the**Graphics** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-1.jpg)
 5. **Turn down the options** one by one.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After applying the changes, you should see the game works better and the FPS boost.
 
@@ -199,21 +200,21 @@ Do the crashes disappear now? If not, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-strategies-for-efficient-business-teleconferencing/"><u>[New] Strategies for Efficient Business Teleconferencing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-online-free-video-editing-hacks/"><u>[New] Top Online Free Video Editing Hacks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ultimate-kid-friendly-driving-delights/"><u>[Updated] 2024 Approved Ultimate Kid-Friendly Driving Delights</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-from-live-to-legacy-preserving-facebook-events/"><u>[Updated] From Live to Legacy Preserving Facebook Events</u></a></li>
-<li><a href="https://win-able.techidaily.com/calculating-percentage-variance-a-step-by-step-guide-using-excel/"><u>Calculating Percentage Variance: A Step-by-Step Guide Using Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/cut-costs-and-boost-efficiency-my-top-tips-for-using-excel-in-managing-projects/"><u>Cut Costs and Boost Efficiency: My Top Tips for Using Excel in Managing Projects</u></a></li>
-<li><a href="https://win-able.techidaily.com/demystifying-excel-the-key-differences-between-functions-and-formulas/"><u>Demystifying Excel: The Key Differences Between Functions and Formulas</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-steps-to-determine-means-in-data-sets-using-microsoft-excel-tutorials/"><u>Easy Steps to Determine Means in Data Sets Using Microsoft Excel Tutorials</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-techniques-to-customize-your-excel-tab-hues-and-shades/"><u>Easy Techniques to Customize Your Excel Tab Hues and Shades</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-techniques-for-integrating-data-tables-into-microsoft-excel-charts/"><u>Effective Techniques for Integrating Data Tables Into Microsoft Excel Charts</u></a></li>
-<li><a href="https://win-able.techidaily.com/efficient-techniques-for-tallying-text-containing-cells-in-excel/"><u>Efficient Techniques for Tallying Text-Containing Cells in Excel</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-s17t-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo S17t Phone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y55s-5g-2023-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y55s 5G (2023) Phone FRP Lock</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-iphone-15-pro-max-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your iPhone 15 Pro Max has bad ESN or blacklisted IMEI?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-pre-launch-fixing-division-2-errors-and-maximizing-performance-for-game-enthusiasts-advice/"><u>Mastering the Pre-Launch: Fixing Division 2 Errors and Maximizing Performance for Game Enthusiasts ( Advice)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/prime-10-nano-drones-for-experienced-pilots/"><u>Prime 10 Nano Drones for Experienced Pilots</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-guide-to-ipv-file-transformation-instagram-videos-in-mp4/"><u>[New] In 2024, The Ultimate Guide to IPV File Transformation Instagram Videos in MP4</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-enabling-successful-video-sharing-in-messenger-for-ios-and-android-users/"><u>[Updated] In 2024, Enabling Successful Video Sharing in Messenger for iOS and Android Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gastronomy-gurus-essential-chefs-to-subscribe-to/"><u>[Updated] In 2024, Gastronomy Gurus Essential Chefs to Subscribe To</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-itop-screen-recorder-review-should-you-install-it-in-2024/"><u>[Updated] ITop Screen Recorder Review Should You Install It, In 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/crafters-guide-to-crafting-a-unique-tiktok-keyphrase-for-2024/"><u>Crafters' Guide to Crafting a Unique TikTok Keyphrase for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-connection-problems-a-comprehensive-approach-to-repairing-non-working-usb-mouse-and-keyboard-on-pcs-running-windows-7/"><u>Diagnosing Connection Problems: A Comprehensive Approach to Repairing Non-Working USB Mouse & Keyboard on PCs Running Windows 7</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-causes-of-instability-and-crashes-in-persona-5-strikers-for-your-computer/"><u>How to Fix Causes of Instability and Crashes in Persona 5 Strikers for Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-utorrents-not-responding-issue-with-these-7-fixes/"><u>How to Resolve Utorrent's Not Responding Issue with These 7 Fixes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/microbes-decompose-organic-matter-fix-atmospheric-nitrogen-and-help-suppress-plant-diseases-contributing-to-a-cycle-of-nutrients-and-maintaining-soil-health433/"><u>Microbes Decompose Organic Matter, Fix Atmospheric Nitrogen, and Help Suppress Plant Diseases, Contributing to a Cycle of Nutrients and Maintaining Soil Health</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-origin-cant-connect-errors-solution-available/"><u>Overcome 'Origin Can't Connect' Errors - Solution Available</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-halo-infinites-black-screen-issues-a-step-by-step-guide/"><u>Overcoming Halo Infinite's Black Screen Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-logitech-c920-webcam-malfunctions-a-step-by-step-guide/"><u>Overcoming Logitech C920 Webcam Malfunctions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722988458294-troubleshooting-dying-light-sounds-ultimate-solutions-unveiled/"><u>Troubleshooting Dying Light Sounds: Ultimate Solutions Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-failed-connections-in-kodi-overcoming-the-directory-info-retrieval-error/"><u>Troubleshooting Failed Connections in Kodi: Overcoming the 'Directory Info Retrieval Error'</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-10-and-unresponsive-usb-drives-expert-tips-for-quick-fixes/"><u>Windows 10 & Unresponsive USB Drives: Expert Tips for Quick Fixes!</u></a></li>
 </ul></div>
 

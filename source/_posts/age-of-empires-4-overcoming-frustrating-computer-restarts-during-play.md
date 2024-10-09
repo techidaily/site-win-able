@@ -1,7 +1,7 @@
 ---
 title: "Age of Empires 4: Overcoming Frustrating Computer Restarts During Play"
-date: 2024-09-14T18:52:32.233Z
-updated: 2024-09-16T19:59:34.920Z
+date: 2024-10-06T20:47:14.932Z
+updated: 2024-10-08T22:19:40.585Z
 tags:
   - win11
   - win10
@@ -40,9 +40,23 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-21-50.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-25-23-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click**OK** .
 
@@ -57,6 +71,13 @@ It’s frustrating when you experience the launching problem when playing Age of
 **5)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-29-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Click**OK** .
 
@@ -88,9 +109,23 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_11-14-00-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 **4)** Restart your game to see if updating your graphics driver fixed the issue for you. If no, then go ahead with the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of your game files
 
@@ -102,16 +137,22 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-42-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click **Age of Empires II** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-15.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -122,13 +163,6 @@ If AoE still won’t launch, move on and try the fix below.
 **5)** Relaunch _AoE2_ to test your issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your game
 
@@ -144,6 +178,13 @@ If AoE still won’t launch, move on and try the fix below.
 **2)** Right-click**Age of Empires** , then click**Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-19-32.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click **Uninstall** .
 
@@ -180,10 +221,10 @@ If the issue continues to occur, go to the next solution.
 If your game still won’t load, then move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Check for Windows updates
@@ -194,23 +235,9 @@ If your game still won’t load, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game.
 
@@ -235,5 +262,22 @@ If your game still won’t load, then move on to the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-luminous-transformations-for-android-videos-step-by-step/"><u>[New] 2024 Approved Luminous Transformations for Android Videos Step by Step</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-best-value-in-screen-recording-in-depth-review-of-free-apps-for-2024/"><u>[New] Best Value in Screen Recording In-Depth Review of Free Apps for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-seamless-transitions-elevating-your-drone-footage/"><u>[Updated] 2024 Approved Seamless Transitions Elevating Your Drone Footage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ace-your-signature-rapid-background-cleansing-guide/"><u>[Updated] Ace Your Signature Rapid Background Cleansing Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-simplify-your-digital-life-5-essential-recording-strategies-web/"><u>2024 Approved Simplify Your Digital Life 5 Essential Recording Strategies Web</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-find-n3-flip-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo Find N3 Flip Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-toolwiz-unveiled-the-full-scope-photo-software-review/"><u>In 2024, Toolwiz Unveiled - The Full Scope Photo Software Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-removing-audio-with-minimal-fuss-from-youtube-content/"><u>Master the Art of Removing Audio with Minimal Fuss From YouTube Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-video-capture-the-best-methods-for-obtaining-periscope-content-at-no-cost/"><u>Mastering Video Capture: The Best Methods for Obtaining Periscope Content at No Cost</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-and-simple-guide-merging-dvd-sections-into-a-single-video-swiftly/"><u>Quick & Simple Guide: Merging DVD Sections Into a Single Video Swiftly</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-and-effective-guide-how-to-transform-vob-files-into-mp4-videos/"><u>Quick and Effective Guide: How to Transform VOB Files Into MP4 Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-sound-hiccups-a-guide-to-smooth-audio-on-pcs-with-windows-1011-latest-fixes-for-2er/"><u>Resolving Sound Hiccups: A Guide to Smooth Audio on PCs with Windows 10/11 | Latest Fixes for 2Er</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sharpening-your-zoom-images-for-professional-conferencing/"><u>Sharpening Your Zoom Images for Professional Conferencing</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-frame-rate-adjustment-tutorial-how-to-shift-from-30fps-to-natively-film-like-24fps/"><u>Smooth Frame Rate Adjustment Tutorial: How to Shift From 30Fps to Natively Film-Like 24Fps</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-mastering-nokia-video-converter-factory-pro/"><u>Step-by-Step Guide: Mastering Nokia Video Converter Factory Pro</u></a></li>
+</ul></div>
 

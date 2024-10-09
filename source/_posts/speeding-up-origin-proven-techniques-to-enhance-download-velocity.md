@@ -1,7 +1,7 @@
 ---
 title: "Speeding Up Origin: Proven Techniques to Enhance Download Velocity"
-date: 2024-09-11T22:43:46.120Z
-updated: 2024-09-16T23:53:47.669Z
+date: 2024-10-06T18:14:11.979Z
+updated: 2024-10-08T23:40:04.139Z
 tags:
   - win11
   - win10
@@ -54,11 +54,25 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
  After you successfully launched the game, it may re-enable the DirectX 12 mode automatically or it won’t. If it won’t, you can manually re-enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Re-enable DirectX 12 mode
 
  1) Go to the game’s main menu and head across to the**OPTIONS** screen. Then select**VIDEO** .  
   
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
 
@@ -68,7 +82,21 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**File > Save** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why disabling DirectX 12 works
 
@@ -89,18 +117,21 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-shadowed-reader-of-facebook-flashes-for-2024/"><u>[New] Shadowed Reader of Facebook Flashes for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-access-tons-of-free-vocal-textures-for-2024/"><u>[Updated] Access Tons of Free Vocal Textures for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-taking-command-with-custom-character-sounds-in-free-fire-no-expense-involved/"><u>[Updated] Taking Command with Custom Character Sounds in Free Fire - No Expense Involved</u></a></li>
+<li><a href="https://win-able.techidaily.com/mkv-to-mp4-4/"><u>無料変換技術🔄 MKV to MP4: 4つの最適手法を紹介する</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp4-11-windowsmac/"><u>最新 MP4 ビデオから高品質の音声を自由に取り出せる無料アプリベスト11 - WindowsとMac両方使用可能</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-for-broadcasting-is-obs-superior-to-twitch-studio/"><u>Best for Broadcasting Is OBS Superior to Twitch Studio?</u></a></li>
+<li><a href="https://win-data.techidaily.com/exploring-top-5-edge-functions-that-could-elevate-microsofts-browser-as-a-premier-choice-for-linux-enthusiasts-techinsights/"><u>Exploring Top 5 Edge Functions That Could Elevate Microsoft's Browser as a Premier Choice for Linux Enthusiasts | TechInsights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-graphics-stability-to-fix-frame-drops-in-fortnite-on-pc/"><u>Improving Graphics Stability to Fix Frame Drops in Fortnite on PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-secrets-behind-top-performers-in-online-forums-like-reddit/"><u>In 2024, The Secrets Behind Top Performers in Online Forums Like Reddit</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp4quicktimeqt/"><u>MP4形式へのQuickTime動画とQT動画の効率的な変換方法</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-and-simple-guide-adding-captions-to-videos-fast/"><u>Quick & Simple Guide: Adding Captions To Videos Fast</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-interactive-functionality-of-windows-11-menu-system/"><u>Restoring Interactive Functionality of Windows 11 Menu System</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-converting-mxf-files-into-avi-format-made-effortless/"><u>Simple Steps: Converting MXF Files Into AVI Format Made Effortless</u></a></li>
+<li><a href="https://win-able.techidaily.com/mkvdvd2024/"><u>おススメ！高画質・高音質MKVフォーマットに最適な無料DVDコンバータソフトの2024年リクエスト</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting POE Crashes: Ultimate Guide to Unfreeze Path of Exile"
-date: 2024-09-27T17:15:24.928Z
-updated: 2024-10-03T16:05:54.941Z
+date: 2024-10-01T20:54:27.511Z
+updated: 2024-10-08T18:03:31.964Z
 tags:
   - win11
   - win10
@@ -52,13 +52,6 @@ If you still have the issue, you can try the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2 Turn off Discord Overlay and Hardware Acceleration
 
  The FIFA crashing issue can be caused by Discord settings. If you have Discord installed, you can turn off Discord Overlay and Hardware Acceleration.
@@ -69,27 +62,20 @@ If you still have the issue, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay-1200x685.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Advanced** tab and turn off**Hardware Acceleration** . Your Discord will be restarted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-hardware-acceleration-1-1200x638.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 Allow FIFA 19 to run through the Firewall
 
@@ -98,6 +84,13 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 Update your device drivers
 
@@ -136,13 +129,6 @@ OR
  If updating drivers fails to solve your FIFA 19 crashing issue, there might be some configuration problems. You can go on and try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 Rollback to DirectX11
 
@@ -183,10 +169,10 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7**Run System File Checker** to repair corrupt files
@@ -204,10 +190,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scannow.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) You may receive something like the following messages after the verification.
@@ -269,13 +255,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 8**Perform a clean boot to check for conflicting programs**
 
  The FIFA 19 crashing issue can be caused by other conflicting programs. To check if that’s the cause, you can perform a clean boot. Here is how to do it:
@@ -284,9 +263,23 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/system-config.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Startup** tab, then**Open Task Manager** .
 
@@ -295,6 +288,13 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  4) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/startup.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Go back to **System Configuration** , then click **OK** to save the changes.
 
@@ -305,13 +305,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  Remember to RESTART your PC after enabling each service and application, then open your FIFA 19 to test the issue.
 
  Once you find the problematic software, you need to uninstall it to avoid running into the same issue in the future.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9 Create TileDatalayer and Database folder
 
@@ -326,6 +319,13 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  If you’re on Windows 11, it will be**Terminal (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Copy the following command and press**Enter** .
 
@@ -360,20 +360,24 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-structure-youtube-videos/"><u>[New] In 2024, How to Structure YouTube Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-for-podcast-cover-art-mastery/"><u>[Updated] Innovative Approaches for Podcast Cover Art Mastery</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-ranking-hexacopter-marvels-10/"><u>2024 Approved Ranking Hexacopter Marvels #10</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-pathway-to-aural-brilliance-incorporating-and-fine-tuning-sounds-in-canvas/"><u>2024 Approved The Pathway to Aural Brilliance Incorporating & Fine-Tuning Sounds in Canvas</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhancing-your-outriders-playtime-by-resolving-lag-and-latency-challenges/"><u>Enhancing Your Outriders Playtime by Resolving Lag and Latency Challenges</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-steamvr-problems-in-a-flash-expert-solutions-for-immediate-relief/"><u>Fix SteamVR Problems in a Flash: Expert Solutions for Immediate Relief</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-resolving-baldurs-gate-3-pc-game-crash-issues/"><u>Fixes and Solutions: Resolving Baldur's Gate 3 PC Game Crash Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/flicker-free-display-tips-eliminating-your-monitors-annoying-blink/"><u>Flicker-Free Display Tips: Eliminating Your Monitor's Annoying Blink</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplusfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlusFRP Lock</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimizing-storage-spend-best-prices-in-cloud-services/"><u>Optimizing Storage Spend Best Prices in Cloud Services</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-lego-star-wars-the-skywalker-sagas-pc-crash-issues-in-early-2024/"><u>Resolved: Fixing Lego Star Wars: The Skywalker Saga's PC Crash Issues in Early 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-no-ping-issue-a-step-by-step-guide-to-rectifying-halo-infinite-errors/"><u>Solving the 'No Ping' Issue: A Step-by-Step Guide to Rectifying Halo Infinite Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-rainbow-six-siege-pc-issues-overcoming-the-persistent-black-screen-problem/"><u>Troubleshooting Rainbow Six Siege PC Issues - Overcoming the Persistent Black Screen Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/unstick-your-dota-2-solutions-for-launch-failures-and-endless-loads/"><u>Unstick Your Dota 2: Solutions for Launch Failures and Endless Loads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-whatsapp-call-data-a-compreayers-guide/"><u>[New] Capturing WhatsApp Call Data A Compreayer's Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-streamline-your-video-upload-process-instagram-ready-sizing/"><u>[Updated] In 2024, Streamline Your Video Upload Process Instagram-Ready Sizing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-complete-scrutiny-of-camstudio-screencapture-tech/"><u>[Updated] The Complete Scrutiny of CamStudio ScreenCapture Tech</u></a></li>
+<li><a href="https://win-able.techidaily.com/arma-3-crash-no-more-discover-the-ultimate-troubleshooting-guide-and-patch-notes-of-2n4/"><u>Arma 3 Crash No More: Discover the Ultimate Troubleshooting Guide and Patch Notes of 2N4</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-disastrous-ark-crash-scenarios-with-this-step-by-step-resolution-technique/"><u>Conquer Disastrous ARK Crash Scenarios with This Step-by-Step Resolution Technique</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-solutions-tackling-problems-encountered-in-windows-1903-updates/"><u>Essential Solutions: Tackling Problems Encountered in Windows 1903 Updates</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-eradicate-dead-by-daylights-error-code-8014-and-enjoy-the-game/"><u>Expert Advice: Eradicate Dead by Daylight's Error Code 8014 and Enjoy the Game</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/harnessing-multiple-windows-learn-pip-in-microsoft-edge/"><u>Harnessing Multiple Windows Learn PIP in Microsoft Edge</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-undetected-astro-a50-headset-in-astro-commander-gameplay/"><u>How to Resolve Undetected Astro A50 Headset in Astro Commander Gameplay</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-bringing-your-instagram-aesthetic-to-life-with-square-videos-in-imovie/"><u>In 2024, Bringing Your Instagram Aesthetic to Life with Square Videos in iMovie</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-13-mini-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 13 mini when Phone is Broken?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-gaming-experience-the-ultimate-nvidia-shield-tv-pro-review/"><u>Next-Level Gaming Experience: The Ultimate NVIDIA Shield TV Pro Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-missing-device-iphone-failure-to-connect-with-itunes-on-windows-10-operating-system/"><u>Resolving 'Missing Device': IPhone Failure to Connect with iTunes on Windows #10 Operating System</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-addressing-pc-crashes-in-the-witcher-3-game/"><u>The Ultimate Guide to Addressing PC Crashes in The Witcher 3 Game</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-top-5-iphone-podcast-software-for-2024/"><u>The Ultimate List of Top 5 iPhone Podcast Software for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-solutions-for-call-of-duty-vanguard-stuttering-problems/"><u>Troubleshooting & Solutions for Call of Duty: Vanguard Stuttering Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-end-battlefront-iis-crashing-problem-on-windows/"><u>Ultimate Troubleshooting Guide: End Battlefront II's Crashing Problem on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-hasnt-wolcen-lords-of-mayhem-launched-yet-insights-into-the-games-status/"><u>Why Hasn’t Wolcen: Lords of Mayhem Launched Yet? Insights Into the Game's Status</u></a></li>
 </ul></div>
 

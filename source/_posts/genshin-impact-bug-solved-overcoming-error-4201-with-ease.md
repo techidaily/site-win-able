@@ -1,7 +1,7 @@
 ---
 title: Genshin Impact Bug Solved! Overcoming Error 4201 with Ease
-date: 2024-09-26T16:05:09.379Z
-updated: 2024-10-03T16:43:15.674Z
+date: 2024-10-06T16:21:28.331Z
+updated: 2024-10-08T23:37:06.912Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify if your PC meets the system requirements for PoE
 
  First and foremost, you should verify if your computer can handle PoE. Here’s the information you may need:
@@ -72,6 +79,13 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics card drivers
 
  Your crashing issue with PoE may be caused by outdated or corrupt graphics card drivers. To check if that’s the root cause, you should try updating your graphics driver to a relatively new and stable version first.
@@ -101,10 +115,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of game files
@@ -115,40 +129,26 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Right-click **Path of Exile** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-17.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** . Then wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-18.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Once complete, exit Steam and reopen it. Run PoE and wait to see if it keeps crashing.
 
 In case this fix didn’t help, please move on to Fix 4.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run RoE as an administrator
 
@@ -161,9 +161,23 @@ In case this fix didn’t help, please move on to Fix 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
@@ -185,23 +199,9 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
 
@@ -231,18 +231,17 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/assessing-video-broadcast-tools-wirecasts-place/"><u>Assessing Video Broadcast Tools WireCast's Place</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-fixing-non-responsive-hp-displays-successfully/"><u>Expert Tips for Fixing Non-Responsive HP Displays Successfully</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experts-choice-peak-business-space-for-2024/"><u>Expert's Choice Peak Business Space for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-mir4-crashes-frequently-issue-on-your-computer/"><u>Fixing the 'MIR4 Crashes Frequently' Issue on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-fixing-the-error-code-easy-achievement-unlocker-cannot-start-without-installed-eac/"><u>Guide to Fixing the Error Code: Easy Achievement Unlocker Cannot Start without Installed EAC</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-gameplay-experience-eliminating-lag-and-stutters-in-assassins-creed-valhalla-pc-edition/"><u>Improving Gameplay Experience: Eliminating Lag and Stutters in Assassin’s Creed Valhalla (PC Edition)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-secure-and-updated-altering-numbers-in-tiktok-profiles/"><u>In 2024, Secure and Updated Altering Numbers in TikTok Profiles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-edge-asmr-audio-gear-without-breaking-the-bank-for-2024/"><u>Leading-Edge ASMR Audio Gear Without Breaking the Bank for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-1ntricacies-effective-fixes-for-error-0x80072efd-on-windows-11-systems/"><u>Overcoming Windows 1Ntricacies: Effective Fixes for Error 0X80072EFD on Windows 11 Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/startech-driver-issues-in-windows-1087-solved/"><u>StarTech Driver Issues in Windows 10/8/7 [Solved]</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-address-the-graphics-driver-crashed-hurdle-in-valorant-gaming/"><u>Step-by-Step Guide to Address the 'Graphics Driver Crashed' Hurdle in Valorant Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005627200-unveiling-the-mystery-football-manager-2022-release-held-up-now-fixed/"><u>Unveiling the Mystery: Football Manager 2022 Release Held Up, Now Fixed</u></a></li>
-<li><a href="https://win-able.techidaily.com/warzone-graphics-bug-solutions-and-tips-for-stop-the-screen-glitch/"><u>Warzone Graphics Bug: Solutions & Tips for Stop the Screen Glitch</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-extensive-breakdown-gecata-tracking-device-assessment/"><u>[New] Extensive Breakdown Gecata Tracking Device Assessment</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-your-clips-an-in-depth-look-at-recmeisters-features/"><u>[Updated] In 2024, Mastering Your Clips An In-Depth Look at Recmeister's Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-premium-enterprise-sky-saver-guide/"><u>[Updated] Premium Enterprise Sky Saver Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-black-screen-problem-in-halo-infinite-a-complete-guide/"><u>Fixing the 'Black Screen' Problem in Halo Infinite: A Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2019-no-more-freezes-the-ultimate-guide-to-stable-gameplay/"><u>Football Manager 2019 No More Freezes - The Ultimate Guide to Stable Gameplay</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/quick-start-methods-for-producing-and-perfecting-multiple-snaps-in-snapchat-for-2024/"><u>Quick Start Methods for Producing and Perfecting Multiple Snaps in Snapchat for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-5-starting-difficulties-on-pc-comprehensive-fix-guide-available-now/"><u>Resident Evil 5 Starting Difficulties on PC: Comprehensive Fix Guide Available Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-generation-awaits-exploring-apples-revolutionary-tandem-oled-displays-on-the-latest-ipad-pro/"><u>The Next Generation Awaits: Exploring Apple's Revolutionary Tandem OLED Displays on the Latest iPad Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-directx-problems-in-battlefield-2042-tips-and-tricks/"><u>Troubleshooting DirectX Problems in Battlefield 2042 – Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-constant-crashes-of-snowrunner-on-windows-computers/"><u>Troubleshooting Guide: Resolving Constant Crashes of SnowRunner on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/unveiling-effective-solutions-for-permanent-blackout-dilemmas-on-screens/"><u>Unveiling Effective Solutions for Permanent Blackout Dilemmas on Screens</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-the-newest-version-of-rtx-2080-graphics-card-drivers-on-your-windows-computer-windows-1011/"><u>Upgrade to the Newest Version of RTX 2080 Graphics Card Drivers on Your Windows Computer (Windows 10/11)</u></a></li>
 </ul></div>
 

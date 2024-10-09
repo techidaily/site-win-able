@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Call of Duty: Modern Warfare 3'S Frustrating FPS Drop Glitch"
-date: 2024-09-27T10:34:53.177Z
-updated: 2024-09-27T22:56:18.925Z
+date: 2024-10-02T22:47:03.151Z
+updated: 2024-10-08T19:10:56.537Z
 tags:
   - win11
   - win10
@@ -58,14 +58,14 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -89,20 +89,19 @@ To do so, first visit the website of your GPU manufacturer:
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this method doesn’t do the trick, you can take a look at the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Remove Multiplayer game packs
 
@@ -114,16 +113,23 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
 
 If this trick doesn’t help you, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Warzone
@@ -151,18 +157,19 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-future-of-video-recording-insights-into-fraps/"><u>[New] The Future of Video Recording Insights Into Fraps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-vsx-screen-grabber-insight-detailed-overview/"><u>[New] VSX Screen Grabber Insight Detailed Overview</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/direct-android-image-copy-to-iphone/"><u>Direct Android Image Copy to iPhone</u></a></li>
-<li><a href="https://win-able.techidaily.com/elevate-your-horizon-zero-dawn-adventure-how-to-achieve-higher-fps-rates-effortlessly/"><u>Elevate Your Horizon Zero Dawn Adventure: How to Achieve Higher FPS Rates Effortlessly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enjoy-uninterrupted-gaming-addressed-and-fixed-total-war-saga-troy-pc-errors/"><u>Enjoy Uninterrupted Gaming: Addressed and Fixed Total War Saga - Troy PC Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-handling-apex-legends-runtime-errors-smartly/"><u>Expert Tips for Handling Apex Legends Runtime Errors Smartly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-artistic-awareness-accelerate-editing-in-the-photos-app-win10-style/"><u>In 2024, Artistic Awareness Accelerate Editing in the Photos App, WIN10 Style</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-roblox-loading-screen-hurdle-effective-solutions-found/"><u>Overcoming the Roblox Loading Screen Hurdle: Effective Solutions Found</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-to-the-persistent-problem-of-valorant-crashing-during-play-on-pc/"><u>Solutions to the Persistent Problem of 'Valorant Crashing During Play' On PC</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-yuneec-typhoon-h-dive-professional-takeaways-for-2024/"><u>The Yuneec Typhoon H Dive Professional Takeaways for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-fix-vrchat-failure-to-load-or-start-issues/"><u>Troubleshooting Tips: How to Fix VRChat Failure to Load or Start Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-the-shift-to-electric-vehicles-all-about/"><u>What’s the Shift to Electric Vehicles All About?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-navigating-digital-discussions-with-ease-essential-advice-for-successful-zoom-meetings/"><u>[New] In 2024, Navigating Digital Discussions with Ease Essential Advice for Successful Zoom Meetings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-ultimate-onestream-playbook-for-live-streamers/"><u>[Updated] 2024 Approved The Ultimate OneStream Playbook for Live Streamers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-posting-photos-and-vids-to-twitter-from-your-phone-not-as-a-retweet/"><u>2024 Approved Posting Photos and Vids to Twitter From Your Phone, Not as a Retweet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-11-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 11 Pro Max When Its Locked Within Seconds</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-getting-sea-of-thieves-running-after-launch-failures/"><u>Expert Tips on Getting Sea of Thieves Running After Launch Failures</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-honor-magic-6-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Honor Magic 6 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-evil-genius-2-when-it-refuses-to-boot-up/"><u>How to Fix Evil Genius 2 When It Refuses to Boot Up</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1726030143125-macdvd-dvd/"><u>MacでDVDファイルへの変換手順 - DVD取り込みガイド</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transformacion-gratuita-de-archivos-qt-a-flv-en-linea-con-movavi/"><u>Transformación Gratuita De Archivos QT a FLV en Línea Con Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-fixing-warzones-ignored-gpu-usage-in-windows-11/"><u>Troubleshooting: Fixing Warzone's Ignored GPU Usage in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/unstuck-in-minecraft-world-easy-fixes-for-stagnant-launcher-updates/"><u>Unstuck in Minecraft World: Easy Fixes for Stagnant Launcher Updates</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-on-guilty-gare-strive-understanding-the-cause-of-its-release-setback/"><u>Update on 'Guilty Gare Strive': Understanding the Cause of Its Release Setback</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-is-new-world-constantly-crashing-on-my-computer-expert-advice-and-solutions/"><u>Why Is 'New World' Constantly Crashing on My Computer? Expert Advice & Solutions</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/windows-mac/"><u>모바일/스마트폰에서 안정화된 영상 방법 - Windows, Mac 사용자를위해</u></a></li>
 </ul></div>
 

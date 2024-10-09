@@ -1,7 +1,7 @@
 ---
 title: The Detective Genre Expands to PC with the Resolved Launch of L.A. Noire!
-date: 2024-09-09T21:21:33.967Z
-updated: 2024-09-16T19:02:00.893Z
+date: 2024-10-06T20:13:16.827Z
+updated: 2024-10-08T21:13:17.694Z
 tags:
   - win11
   - win10
@@ -77,11 +77,25 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2021/09/scannow.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged graphics / audio driver to automatically download and install the correct driver (You can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install all the latest correct drivers that are missing or outdated (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click Update All).
 
 ![update drivers to fix game issues](https://images.drivereasy.com/wp-content/uploads/2021/09/update-all.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer and check whether your problem is solved.
 
@@ -101,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 ![turn off gog overlay](https://images.drivereasy.com/wp-content/uploads/2021/09/gog.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you’ve disabled in-game notifications and overlay in GoG. Start your game again to check if**Pathfinder: Wrath of the Righteous not launching** issue persists.
@@ -115,31 +129,24 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 
  2) Right-click the Nvidia icon ![Nvidia_icon.png](https://support-leagueoflegends.riotgames.com/hc/article_attachments/360002415867/Nvidia_icon.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **GeForce Experience** .
 
  4) Click on the **Settings** icon.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  How to disable the GeForce Experience Share in-game overlay
 
  4) Under the**GENERAL** tab, scroll down and toggle**IN-GAME OVERLAY** to **Off** .
 
 ![turn off NVIDIA overlay](https://images.drivereasy.com/wp-content/uploads/2021/09/nvidia-1200x366.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Close the GeForce Experience window and try starting your game again to test the issue. If your Pathfinder: Wrath of the Righteous is not launching, don’t worry since we have a few fixes for you to try.
 
@@ -172,15 +179,22 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 ![nvidia control panel](https://images.drivereasy.com/wp-content/uploads/2021/09/control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select**Manage 3D Settings** under**3D Settings** .
 
 ![manage 3d settings](https://images.drivereasy.com/wp-content/uploads/2020/05/manage-3D-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click on the Program Settings tab and select**Pathfinder: Wrath of the Righteous** from the drop-down list.
 
@@ -207,5 +221,23 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-addressing-distorted-media-on-youtube-platform/"><u>[New] Addressing Distorted Media on YouTube Platform</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ivestream-showdown-fb-live-yt-live-and-twittv-for-2024/"><u>[New] Livestream Showdown FB Live, YT Live, & TwitTV for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-venturing-into-new-realities-best-metaverse-headsets-guide/"><u>2024 Approved Venturing Into New Realities Best Metaverse Headsets Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-review-of-the-newest-amd-radeon-graphics-drivers-version-2410/"><u>Comprehensive Review of the Newest AMD Radeon Graphics Drivers Version 24.10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-inadequate-ram-allocation-challenge-in-god-of-war-titles/"><u>Fixing the 'Inadequate RAM Allocation' Challenge in God of War Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/get-back-your-invisible-5ghz-lan-with-simple-fixes-for-pcs/"><u>Get Back Your Invisible 5GHz LAN with Simple Fixes for PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-recover-and-fix-corrupted-game-data-on-your-computer/"><u>How to Recover and Fix Corrupted Game Data on Your Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-top-10-premium-free-iosandroid-live-video-platforms/"><u>In 2024, Explore Top 10 Premium-Free iOS/Android Live Video Platforms</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nubia-z50s-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-zoom-on-a-chromebook-key-techniques/"><u>In 2024, Mastering Zoom on a Chromebook Key Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-forever-strategies-for-black-perseverance-in-eternal-reincarnation/"><u>Navigating Forever: Strategies for Black Perseverance in Eternal Reincarnation</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-compatibility-issues-ensuring-itunes-recognizes-iphone-on-windows-11/"><u>Overcoming Compatibility Issues: Ensuring iTunes Recognizes iPhone on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-technical-glitches-a-comprehensive-guide-for-smooth-gears/"><u>Overcoming Technical Glitches: A Comprehensive Guide for Smooth Gears</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-rescued-effective-strategies-to-prevent-star-wars-battlefront-ii-crashes/"><u>PC Gaming Rescued: Effective Strategies to Prevent Star Wars: Battlefront II Crashes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-3-librerie-periferiche-vuotolibre-wifi-adatte-a-windows-e-capaci-di-lettura-dvdblu-ray/"><u>Top 3 Librerie Periferiche VuotoLibre WiFi Adatte a Windows E Capaci Di Lettura DVD/Blu-Ray</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-six-techniques-for-solving-terraria-disconnection-issues/"><u>Top Six Techniques for Solving Terraria Disconnection Issues</u></a></li>
+</ul></div>
 

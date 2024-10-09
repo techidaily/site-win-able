@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Performance: Stop the Crash in Tribes of Midgard, Here's How"
-date: 2024-09-11T19:00:52.546Z
-updated: 2024-09-16T22:14:00.029Z
+date: 2024-10-06T21:59:41.502Z
+updated: 2024-10-08T21:57:51.810Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ The outdated or broken graphics driver often crashes the game.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 ## Fix 2: Verify the game files
@@ -67,16 +74,23 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -86,6 +100,13 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -94,15 +115,22 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
@@ -116,13 +144,6 @@ The outdated or broken graphics driver often crashes the game.
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -152,5 +173,20 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-conveniently-connect-with-others-via-your-playlist/"><u>[New] 2024 Approved Conveniently Connect with Others via Your Playlist</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-expert-guide-moving-snaps-from-snapchat-app-effortlessly-for-2024/"><u>[New] Expert Guide Moving Snaps From Snapchat App Effortlessly for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-earning-trajectory-of-youtube-star-pewdopeep/"><u>[New] The Earning Trajectory of YouTube Star PewDoPeep</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-beijing-bid-wins-2022-winter-olympics-highlights/"><u>[Updated] Beijing Bid Wins 2022 Winter Olympics Highlights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-5-android-photo-fixers/"><u>[Updated] Ultimate 5 Android Photo Fixers</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726030599601-avchdmp4/"><u>最新AVCHD変換ガイド：MP4に容易に変換・元のフォーマット復元手順</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-intels-top-z270-motherboard-for-gamers-carbon-series-with-enhanced-features-and-free-access/"><u>Download Intel's Top Z270 Motherboard for Gamers: Carbon Series with Enhanced Features & Free Access</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-guide-transforming-audio-units-au-into-mp3-files/"><u>Effortless Guide: Transforming Audio Units (AU) Into MP3 Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/extracting-subtitles-from-a-matroska-video-mkv-format-an-easy-tutorial/"><u>Extracting Subtitles From a Matroska Video (MKV) Format: An Easy Tutorial</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-master-mobile-gif-management-with-iphone-techniques-for-2024/"><u>How to Master Mobile GIF Management with iPhone Techniques for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-restricted-folder-access-via-group-policy-on-windows-10/"><u>Implementing Restricted Folder Access via Group Policy on Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-digital-age-laptops-smartphones-and-literary-treasures-galore/"><u>Navigating the Digital Age: Laptops, Smartphones & Literary Treasures Galore!</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-guide-seamlessly-converting-insta-videos-to-high-quality-mp4/"><u>Quick Guide: Seamlessly Converting Insta Videos to High-Quality MP4</u></a></li>
+</ul></div>
 

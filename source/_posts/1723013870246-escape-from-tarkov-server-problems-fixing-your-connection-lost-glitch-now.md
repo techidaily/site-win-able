@@ -1,7 +1,7 @@
 ---
 title: Escape From Tarkov Server Problems? Fixing Your Connection Lost Glitch Now!
-date: 2024-09-13T00:00:11.215Z
-updated: 2024-09-16T23:26:54.241Z
+date: 2024-10-03T20:51:13.030Z
+updated: 2024-10-08T16:27:16.681Z
 tags:
   - win11
   - win10
@@ -42,7 +42,21 @@ The server is down in Escape from Tarkov? Many gamers are reporting that they ge
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/unchecked.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Does the ‘Server Connection Lost’ error in Tarkov persist? If the manual server selection doesn’t do the trick, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2\. Restart your router
 
@@ -74,28 +88,15 @@ The server is down in Escape from Tarkov? Many gamers are reporting that they ge
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click your active network adapter (**Ethernet** or **Wi-Fi** ) and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Scroll down and uncheck **Internet Protocol Version 6 (TCP/IPv6)** .
@@ -131,13 +132,6 @@ You may need to restart your computer for the setting to take effect.
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6\. Switch to a static IP
 
  Instead of letting your router assign whatever IP address is free at any given time, you can assign specific IP addresses to the devices you access frequently. And this turns out to be a temporary fix for ‘**Server Connection Lost** ‘ for a few Escape from Tarkov players. Here’s how to do it:
@@ -147,16 +141,10 @@ You may need to restart your computer for the setting to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Right-click your active connection, and select**Status** .
@@ -180,21 +168,35 @@ You may need to restart your computer for the setting to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ipv-4-change.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Select the**Use the following IP address** option, and then type in the IP address, subnet mask you acquired earlier. Next, type in your preferred and alternate DNS server addresses.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dns-and-ipv4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) Click**OK** to save the changes.
 
  9) You can verify your new settings by using the `**ipconfig**` command at the command prompt.
 
  Try launching your game and test the issue. But if unfortunately, the Tarkov Server connection lost error persists, you can try the following fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7\. Change from DS-Lite to Dual-Stack
 
@@ -223,5 +225,23 @@ You may need to restart your computer for the setting to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-disabling-youtube-ads-across-chrome-firefox-android-and-ios-browsers/"><u>[New] 2024 Approved Disabling YouTube Ads Across Chrome, Firefox, Android & iOS Browsers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-anime-aesthetics-top-20-visual-elements-on-tiktok/"><u>[New] In 2024, Anime Aesthetics Top 20 Visual Elements on TikTok</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-instantaneous-window-imaging-technique/"><u>[New] Instantaneous Window Imaging Technique</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-photo-refinement-mastering-the-psx-erase-feature/"><u>[New] Photo Refinement Mastering the PSX Erase Feature</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlocking-instagram-success-4-looping-video-strategies/"><u>[Updated] 2024 Approved Unlocking Instagram Success 4 Looping Video Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-resolving-manor-lords-pc-instability-and-ensuring-smooth-sailing-in-the-game/"><u>Expert Advice: Resolving 'Manor Lords' PC Instability and Ensuring Smooth Sailing in the Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-3-and-windows-11-compatibility-overcoming-unexpected-freezes-together/"><u>Fallout 3 & Windows 11 Compatibility – Overcoming Unexpected Freezes Together!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-permanently-remove-your-viber-profile-from-an-iphone-a-step-by-step-guide/"><u>How to Permanently Remove Your Viber Profile From an iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-mini-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 mini without Face ID</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-systems-kernelbasedll-error-in-no-time/"><u>Resolve Your System's KernelBase.dll Error in No Time!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-update-error-code-0x8024401c-on-windows-11/"><u>Resolving Windows Update Error Code 0X8024401C on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-common-issues-in-armored-core-6-navigating-the-rubicon-tips-for-pc-gaming/"><u>Solving Common Issues in Armored Core 6: Navigating the Rubicon - Tips for PC Gaming</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-redmi-13c-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi Redmi 13C Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-8-solutions-expert-guide-on-resolving-multiversus-game-crashes/"><u>Top 8 Solutions: Expert Guide on Resolving MultiVersus Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-gta-v-online-connection-issues-quick-fixes/"><u>Troubleshooting GTA V Online Connection Issues: Quick Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-your-clownfish-audio-modifier/"><u>Troubleshooting Guide: Resolving Issues with Your Clownfish Audio Modifier</u></a></li>
+</ul></div>
 

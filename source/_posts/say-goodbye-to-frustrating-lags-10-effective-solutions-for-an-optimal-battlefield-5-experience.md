@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Frustrating Lags: 10 Effective Solutions for an Optimal Battlefield 5 Experience"
-date: 2024-10-02T16:40:48.120Z
-updated: 2024-10-03T16:42:24.348Z
+date: 2024-10-02T16:32:09.833Z
+updated: 2024-10-08T17:23:03.496Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 Restart your computer for the changes to take effect.
@@ -66,16 +73,23 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-34-32.jpg)
 4. Click**Display adapters** and right-click on your GPU.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Check the issue is persist or not.
 
 ### Method 4: Change the screen refresh rate
@@ -86,44 +100,30 @@ Restart your computer for the changes to take effect.
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down to find**Advanced display settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Restart your computer and check to see if the problem resolves.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Use windowed mode
 
@@ -133,6 +133,14 @@ Restart your computer for the changes to take effect.
 2. Click on the **Compatibility**  tab and select **Disable fullscreen optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
 3. Click **Apply**  \> **OK**  to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and check to see if the problem still persists.
 
 ---
@@ -154,22 +162,19 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tips-for-sending-tweets-video-content-via-whatsapp/"><u>[New] 2024 Approved Tips for Sending Tweets' Video Content via WhatsApp</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-apples-m1-expedition-the-new-era-of-computing/"><u>2024 Approved Apple's M1 Expedition The New Era of Computing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-innovative-vr-experiences-from-elite-designers/"><u>2024 Approved Innovative VR Experiences From Elite Designers</u></a></li>
-<li><a href="https://win-able.techidaily.com/achieve-crystal-clear-visuals-resolving-graphic-blurriness-in-call-of-duty-warzone-for-pc/"><u>Achieve Crystal-Clear Visuals: Resolving Graphic Blurriness in Call of Duty: Warzone for PC</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashing-problems-in-discord-app/"><u>How To Fix Persistent Crashing Problems in Discord App</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-adventurers-anthology-the-finest-10-affordable-mmos/"><u>In 2024, Adventurers' Anthology The Finest 10 Affordable MMOs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/iniciar-conversaciones-frescas-con-los-colores/"><u>Iniciar Conversaciones Frescas Con Los Colores</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-game-crashing-here-are-8-proven-fixes-for-marvels-guardians-of-the-galaxy-issues/"><u>PC Game Crashing? Here Are 8 Proven Fixes for Marvel's Guardians of the Galaxy Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/portable-installation-guide-mastering-driver-easy-on-the-go/"><u>Portable Installation Guide: Mastering Driver Easy On-the-Go</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fix-strategies-for-handling-palworld-search-sessions-gone-wrong/"><u>Quick Fix Strategies for Handling Palworld Search Sessions Gone Wrong</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-no-more-crashes-in-assassins-creed-odyssey-smooth-gaming-experience-for-pc/"><u>Resolved: No More Crashes in Assassin's Creed Odyssey - Smooth Gaming Experience for PC</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-x-flip-by-fonelab-android-recover-data/"><u>The way to get back lost data from X Flip</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-livestream-tactics-best-practices-for-cricket-viewers/"><u>Top Livestream Tactics Best Practices for Cricket Viewers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721480945195-troubleshooting-full-page-capture-issues-in-safari-effective-solutions/"><u>Troubleshooting Full-Page Capture Issues in Safari: Effective Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-star-wars-battlefront-ii-error-327-corrected/"><u>Troubleshooting Guide: Star Wars Battlefront II Error 327 Corrected</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-a-speedy-recovery-from-valorants-crashing-driver-problem/"><u>Troubleshooting Tips for a Speedy Recovery From Valorant's Crashing Driver Problem</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-instantaneous-media-movement-android-to-iphone/"><u>[New] 2024 Approved Instantaneous Media Movement Android to iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-professional-strategies-for-screen-capturing-facetime/"><u>[New] 2024 Approved Professional Strategies for Screen-Capturing FaceTime</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-excellent-alternatives-top-5-to-replace-twitter/"><u>[New] Excellent Alternatives Top 5 to Replace Twitter</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-make-slow-motion-videos-on-instagram-reels-step-by-step/"><u>[New] In 2024, How to Make Slow Motion Videos on Instagram Reels [Step by Step]</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-checklist-for-transferring-snaps-to-photos-folder-for-2024/"><u>[New] The Ultimate Checklist for Transferring Snaps to Photos Folder for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/essential-tips-for-perfecting-photos-via-snapchat-edit-features/"><u>Essential Tips for Perfecting Photos via Snapchat Edit Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-unveiled-resolving-pc-issues-in-the-remastered-version-of-yakuza-3/"><u>Fixes Unveiled: Resolving PC Issues in the Remastered Version of Yakuza 3</u></a></li>
+<li><a href="https://win-able.techidaily.com/freezing-glitches-on-cod-vanguard-effective-solutions-and-tips-for-seamless-play/"><u>Freezing Glitches on COD: Vanguard – Effective Solutions and Tips for Seamless Play</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-fast-fortnite-cover-art-techniques/"><u>In 2024, Fast Fortnite Cover Art Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tips-for-addressing-no-match-found-errors-on-bumble-platform/"><u>Tips for Addressing 'No Match Found' Errors on Bumble Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-pc-based-roblox-code-277-bug-with-our-latest-fixes/"><u>Troubleshoot PC-Based Roblox Code 277 Bug with Our Latest Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-crash-errors-on-diablo-ii-a-comprehensive-guide/"><u>Troubleshooting Crash Errors on Diablo II: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-essentials-fix-continuous-pc-gameplay-interruptions-in-horizon-forbidden-west-full-version/"><u>Troubleshooting Essentials: Fix Continuous PC Gameplay Interruptions in 'Horizon Forbidden West' Full Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-stop-dota-underlords-from-frequent-crashing-issues/"><u>Troubleshooting Guide: Stop Dota Underlords From Frequent Crashing Issues</u></a></li>
 </ul></div>
 

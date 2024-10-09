@@ -1,7 +1,7 @@
 ---
 title: Eliminating Overwatch's Graphic Glitches for a Smooth Gaming Experience
-date: 2024-09-21T05:16:13.180Z
-updated: 2024-09-28T11:46:55.977Z
+date: 2024-10-07T22:37:19.603Z
+updated: 2024-10-08T20:17:23.447Z
 tags:
   - win11
   - win10
@@ -73,44 +73,37 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-676.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click the**Compatibility tab** and check the box next to**Run this program as an administrator** . Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-728.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Right-click the**Battle.net icon** on your desktop and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-680.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the**Compatibility tab** and check the box next to**Run this program as an administrator** . Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-726.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Relaunch Overwatch to test your issue.
 
  You can hopefully run the game without errors now. If the black screen error still happens when you launch the game, then go ahead with the fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable fullscreen optimizations on Windows 10
 
@@ -123,6 +116,19 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 **2)** Click the**Compatibility tab** , then check the box next to**Disable fullscreen optimizations** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-727.png)
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Relaunch Overwatch to see if this has resolved your issue. If not, read on and try the fix below.
 
@@ -149,13 +155,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 **5)** Click**Done** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-686.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Try launching Overwatch again. If your issue persists, check the fix below.
 
@@ -207,22 +206,29 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Try launching Overwatch to see if it works properly now. If not, read on and check the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6:**Delete the game cache folder**
 
@@ -233,6 +239,13 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 **2)** On the **Processes** tab, right-click the**Blizzard-related program** (such as Blizzard battle.net App, agent.exe and Blizzard Update Agent), then click **End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-701.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo Key and R**  st the same time to open the Run dialog.
 
@@ -286,13 +299,6 @@ To check if there is any update, follow the instructions below:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 9:**Check for Windows Updates**
 
  Windows updates can address bugs related to both hardware and software. So, make sure you’ve installed all the new Windows updates to keep Overwatch running correctly. Here is how to do it:
@@ -311,6 +317,13 @@ If your problem persists, check the fix 10, below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 10: Uninstall Razer Synapse
 
  If you’re using Razer Synapse for your devices, chances are that the program is exactly the culprit of the Overwatch black screen issue. Many players have fixed the issue by either uninstalling Razer Synapse or updating it. Here is how to uninstall the program:
@@ -319,6 +332,13 @@ If your problem persists, check the fix 10, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-718.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Under**View by** , select**Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-720.png)
@@ -326,13 +346,6 @@ If your problem persists, check the fix 10, below.
 **3)** Click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-721.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Right-click**Razer Synapse** , then click**Uninstall** .
 
@@ -343,13 +356,6 @@ If you’re prompted about permissions, select Continue
 **5)** If you wish to keep the program, click**MODIFY** . Or, you can just uninstall Razer Synapse by clicking**UNINSTALL** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-724-1024x640.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Relaunch Overwatch to test your issue.
 
@@ -377,24 +383,22 @@ If you’re prompted about permissions, select Continue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-drive-more-watch-time-not-churn-discover-the-top-6-techniques-on-youtube-for-2024/"><u>[Updated] Drive More Watch Time, Not Churn Discover the Top 6 Techniques on YouTube for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-perfecting-your-igtv-thumbnail-imagery/"><u>2024 Approved Perfecting Your IGTV Thumbnail Imagery</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/echo-pop-vs-echo-dot-whats-the-difference/"><u>Echo Pop Vs. Echo Dot: What's the Difference?</u></a></li>
-<li><a href="https://win-able.techidaily.com/end-your-terraria-game-glitches-six-reliable-fixes-for-restoring-stability/"><u>End Your Terraria Game Glitches: Six Reliable Fixes for Restoring Stability</u></a></li>
-<li><a href="https://win-able.techidaily.com/experience-epic-battles-with-god-of-war-first-person-shooter-for-windows-and-pc-gamers/"><u>Experience Epic Battles with God of War First-Person Shooter for Windows and PC Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/helldivers-2-launch-problems-heres-how-to-fix-the-initial-black-screen/"><u>Helldivers 2 Launch Problems? Here's How to Fix the Initial Black Screen!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-get-msi-afterburner-to-see-your-graphics-card-under-windows-10-or-11/"><u>How to Get MSI Afterburner to See Your Graphics Card Under Windows 10 or 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-narzo-60-pro-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme Narzo 60 Pro 5G Phone?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-6-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 6</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-infinix-note-30-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Infinix Note 30 5G Phones</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-solution-no-more-dread-hunger-collapses-on-pc/"><u>Master the Solution: No More Dread Hunger Collapses on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-common-problems-in-steams-remote-play-functionality/"><u>Overcoming Common Problems in Steam's Remote Play Functionality</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-god-of-wars-persistent-pc-freezing-problems-a-step-by-estep-guide/"><u>Overcoming God of War's Persistent PC Freezing Problems - A Step-by-eStep Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-note-50-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme Note 50 and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-chromes-glitchy-glow-a-2024-definitive-repair-manual-for-windows-enthusiasts/"><u>Say Goodbye to Chrome's Glitchy Glow: A 2024 Definitive Repair Manual for Windows Enthusiasts</u></a></li>
-<li><a href="https://win-dash.techidaily.com/solution-guide-resolving-driver-conflicts-for-amd-rx-560-on-various-windows-platforms/"><u>Solution Guide: Resolving Driver Conflicts for AMD RX 560 on Various Windows Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-game-crashes-now-expert-tips-to-enhance-mass-effect-le-on-pc-and-xbox/"><u>Stop Game Crashes Now! Expert Tips to Enhance Mass Effect LE on PC & Xbox</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-the-fight-against-crashes-enhancing-stability-for-fallout-3-on-modern-windows-machines/"><u>Winning the Fight Against Crashes: Enhancing Stability for Fallout 3 on Modern Windows Machines</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-animate-and-make-your-own-effects/"><u>[New] How to Animate and Make Your Own Effects</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-right-tools-for-your-youtube-journey-camera-lenses-explained/"><u>[New] The Right Tools For Your YouTube Journey - Camera Lenses Explained</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ransforming-viewership-a-proven-guide-to-implementing-youtubes-featured-listings-for-2024/"><u>[New] Transforming Viewership A Proven Guide to Implementing Youtube's Featured Listings for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-google-pixel-7a-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Google Pixel 7a</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cursor-dilemmas-solved-methods-for-quieting-that-incessant-flicker/"><u>Cursor Dilemmas Solved: Methods for Quieting That Incessant Flicker</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragons-dogma-2-for-windows-crash-woes-discover-proven-fixes-for-uninterrupted-adventure-gaming/"><u>Dragon's Dogma 2 for Windows Crash Woes? Discover Proven Fixes for Uninterrupted Adventure Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortlessly-repair-and-resume-playing-genshin-impact/"><u>Effortlessly Repair and Resume Playing Genshin Impact</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723014108462-enhance-your-pc-experience-no-more-hell-let-loose-game-crashes-here/"><u>Enhance Your PC Experience - No More Hell Let Loose Game Crashes Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-gameplay-glitches-launch-issues-with-league-of-legends-solved-2024-insights/"><u>Fix Your Gameplay Glitches: Launch Issues with League of Legends Solved (2024 Insights)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-proven-strategies-for-saving-your-digital-discussions-google-meets/"><u>In 2024, Proven Strategies for Saving Your Digital Discussions (Google Meets)</u></a></li>
+<li><a href="https://win-able.techidaily.com/increasing-your-utorrent-download-velocity-a-step-by-step-solution/"><u>Increasing Your uTorrent Download Velocity: A Step-by-Step Solution</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/navigating-intellectual-property-on-instagram/"><u>Navigating Intellectual Property on Instagram</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012096705-troubleshooting-madden-nfl-20-pc-malfunctions-easy-fixes-to-try-now/"><u>Troubleshooting Madden NFL 20 PC Malfunctions: Easy Fixes to Try Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-get-the-thaumaturge-program-running-on-your-computer/"><u>Troubleshooting: How to Get the Thaumaturge Program Running on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-the-secrets-to-football-manager-2022-launch-problems-solved/"><u>Unlocking the Secrets to Football Manager 2022 Launch Problems [SOLVED]</u></a></li>
+<li><a href="https://video-capture.techidaily.com/video-repository-explorator/"><u>Video Repository Explorator</u></a></li>
 </ul></div>
 

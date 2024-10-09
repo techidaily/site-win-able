@@ -1,7 +1,7 @@
 ---
 title: Halo Infinite Sound Troubles? Here's How You Can Get Quality Audio Back
-date: 2024-09-27T16:26:02.412Z
-updated: 2024-10-03T16:14:41.783Z
+date: 2024-10-02T20:22:56.133Z
+updated: 2024-10-08T16:18:32.299Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 [3: Configure Windows sound settings](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Set Dynamic Range to Compressed mode
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 3. Play a game to test the issue.
 
 If this fix doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your device drivers
 
@@ -73,6 +80,13 @@ If this fix doesn’t solve your problem, try the next fix.
  3) Click the **Update**  button next to the flagged drivers to automatically download their correct version, then you can manually install them (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_15-18-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -80,16 +94,22 @@ If this fix doesn’t solve your problem, try the next fix.
 
  Restart your PC for the new drivers to take effect. If the audio problem persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Configure Windows sound settings
 
  Last but not least, you can try to adjust the sound settings on your PC to see if it helps. While we’re waiting for the developers to recognize and work on the bugs, these workarounds may improve the in-game audio quality.
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Configure the output device settings
 
@@ -99,14 +119,21 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-12-14.jpg)
 2. Make sure you select the**Stereo** audio. Hands-Free audio allows you to use your device as both the output and input device, but your audio quality will be very low.  
 
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-12-24.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-12-24.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Turn on loudness equalization
 
@@ -117,38 +144,18 @@ If this fix doesn’t solve your problem, try the next fix.
 2. Go to the**Playback** tab, select your output device, and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-28-11.jpg)
 3. Switch to the**Enhancements** tab. Tick the checkbox of**Loudness Equalization** , then click**Apply** and**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-28-36.jpg)
 
  If this doesn’t work for you or you wish to revert the change, simply repeat the steps above and uncheck the Loudness Equalization setting.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Turn on spatial sound
 
@@ -166,13 +173,6 @@ If this fix doesn’t solve your problem, try the next fix.
 2. Go to the**Communications** tab, select**Do nothing** , then click**Apply** and**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-22_10-11-57.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -195,22 +195,24 @@ If this fix doesn’t solve your problem, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-ultimate-guide-to-higher-youtube-viewership/"><u>[New] 2024 Approved The Ultimate Guide to Higher YouTube Viewership</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-never-ending-snapstreaks/"><u>[New] In 2024, The Ultimate Guide to Never-Ending Snapstreaks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-unlocking-digital-media-compreenhensive-srt-to-other-guidebook/"><u>[New] In 2024, Unlocking Digital Media Compreenhensive SRT-to-Other Guidebook</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-ultimate-guide-sharing-youtube-videos-on-fb/"><u>[Updated] 2024 Approved The Ultimate Guide Sharing YouTube Videos on FB</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-checklist-for-recording-whatsapp-discussions/"><u>[Updated] The Ultimate Checklist for Recording WhatsApp Discussions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-your-music-masterpiece-awaits-step-by-step-to-youtube-playlist-perfection-webmobile/"><u>[Updated] Your Music Masterpiece Awaits Step-by-Step to YouTube Playlist Perfection (Web/Mobile)</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-solution-for-unsticking-your-fortnite-from-a-stalled-loading-phase/"><u>Complete Solution for Unsticking Your Fortnite From a Stalled Loading Phase</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-fixes-to-resolve-palworld-login-error-eos-issue-a-comprehensive-guide/"><u>Easy Fixes to Resolve 'Palworld Login Error - EOS Issue': A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-tricks-to-improve-performance-and-enhance-fps-in-watch-dogs-legion-gameplay/"><u>Easy Tricks To Improve Performance & Enhance FPS in Watch Dogs: Legion Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-pc-issues-how-to-stop-escape-from-tarkov-crashes/"><u>Fixing PC Issues: How to Stop Escape From Tarkov Crashes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-itel-p55t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Itel P55T to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-technical-hurdles-in-gears-5-tactics-to-stop-unexpected-game-shutdowns/"><u>Overcoming Technical Hurdles in Gears 5: Tactics to Stop Unexpected Game Shutdowns</u></a></li>
-<li><a href="https://fox-access.techidaily.com/parrots-at-play-unpacking-bebops-next-gen-flight/"><u>Parrots at Play Unpacking Bebop’s Next-Gen Flight</u></a></li>
-<li><a href="https://win-able.techidaily.com/preventing-startup-heartbeat-problems-solutions-for-an-uninterrupted-boot-sequence/"><u>Preventing Startup Heartbeat Problems: Solutions for an Uninterrupted Boot Sequence</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-mordhau-game-crash-dilemma-a-comprehensive-guide/"><u>Resolving the Mordhau Game Crash Dilemma: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-minecraft-from-crashing-follow-these-6-simple-fixes/"><u>Stop Minecraft From Crashing: Follow These 6 Simple Fixes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-mov-video-editor-reviews-top-6-cutting-solutions/"><u>Updated Free MOV Video Editor Reviews Top 6 Cutting Solutions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-frostfangs-frequency-prime-online-locations-for-tts-files/"><u>[Updated] In 2024, Frostfang's Frequency Prime Online Locations for TTS Files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-depth-review-of-razers-high-res-cam-for-2024/"><u>[Updated] In-Depth Review of Razer's High-Res Cam for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-pinpointing-the-leading-10-secret-story-supporters-for-2024/"><u>[Updated] Pinpointing the Leading 10 Secret Story Supporters for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-lag-solving-fortnites-pc-freezing-glitch-of-2t4/"><u>Beat the Lag: Solving Fortnite's PC Freezing Glitch of 2T4</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/bitraser-unveiled-a-comprehensive-video-demonstration-of-high-level-data-purging/"><u>BitRaser Unveiled: A Comprehensive Video Demonstration of High-Level Data Purging</u></a></li>
+<li><a href="https://win-able.techidaily.com/busting-the-myth-effective-ways-to-eliminate-naraka-bladepoint-slowdowns/"><u>Busting the Myth: Effective Ways to Eliminate Naraka Bladepoint Slowdowns</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-x8b-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor X8b in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-phasmophobia-crashing-issues-expert-advice-and-troubleshooting-steps/"><u>How to Prevent Phasmophobia Crashing Issues - Expert Advice and Troubleshooting Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-valorants-pc-input-delay-problem-insights/"><u>How to Resolve Valorant's PC Input Delay Problem: Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-low-frame-rate-problems-in-outriders-a-comprehensive-guide-for-gamers/"><u>Overcome Low Frame Rate Problems in Outriders: A Comprehensive Guide for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-relief-comprehensive-guide-to-stop-hearthstone-from-crashing-on-your-computer/"><u>PC Gaming Relief - Comprehensive Guide to Stop Hearthstone From Crashing on Your Computer</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/step-by-step-tutorial-on-seamlessly-changing-m4v-videos-to-webm-for-online-use/"><u>Step-by-Step Tutorial on Seamlessly Changing M4V Videos to WebM for Online Use</u></a></li>
+<li><a href="https://win-able.techidaily.com/success-story-defeating-the-infamous-directx-glitches-in-fifa-20-gaming-console/"><u>Success Story: Defeating the Infamous DirectX Glitches in FIFA 20 Gaming Console</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-origin-cant-launch-error-on-windows-operating-systems/"><u>Troubleshooting Guide: Resolving 'Origin Can't Launch' Error on Windows Operating Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/twitch-vs-youtube-an-in-depth-comparative-analysis-for-2024/"><u>Twitch Vs. YouTube An In-Depth Comparative Analysis for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ubisoft-connect-problems-heres-the-solution-for-a-smooth-experience/"><u>Ubisoft Connect Problems? Here's the Solution for a Smooth Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-uninterrupted-gameplay-ultimate-fixes-for-dead-by-daylight-crashing-episodes-of-2024/"><u>Unlocking Uninterrupted Gameplay: Ultimate Fixes for Dead by Daylight Crashing Episodes of 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-find-three-best-alternatives-to-subtitle-edit-on-mac-all-are-free-and-include-the-same-exact-functions-as-subtitle-edit-for-2024/"><u>Updated Find Three Best Alternatives to Subtitle Edit on Mac - All Are Free and Include the Same Exact Functions as Subtitle Edit for 2024</u></a></li>
 </ul></div>
 

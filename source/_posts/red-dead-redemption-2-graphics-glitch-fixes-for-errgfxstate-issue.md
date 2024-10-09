@@ -1,7 +1,7 @@
 ---
 title: Red Dead Redemption 2 Graphics Glitch - Fixes for ERR_GFX_STATE Issue
-date: 2024-09-11T20:45:58.602Z
-updated: 2024-09-16T22:56:03.709Z
+date: 2024-10-04T17:02:32.317Z
+updated: 2024-10-08T20:47:07.990Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ Many Red Dead Redemption 2 players are reporting that they can’t even get past
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable antivirus software
 
  If you have the latest drivers installed but still have a problem playing the game, the culprit could be your antivirus software.
@@ -83,10 +90,10 @@ Follow the links below to check how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics drivers
@@ -119,16 +126,16 @@ There are two ways you can update your graphics drivers:
 
 ![click scan now](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
 ![update all drivers with driver easy](https://images.drivereasy.com/wp-content/uploads/2019/11/update-all-your-drivers-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Note: You can do it for free if you like, but it’s partly manual.
 
@@ -157,10 +164,10 @@ Note: You can do it for free if you like, but it’s partly manual.
 ![delete Rockstar launcher profiles](https://images.drivereasy.com/wp-content/uploads/2019/11/launcher-settings-1024x482.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Sign in to the Rockstar Games Launcher again and launch Red Dead Redemption 2.
@@ -168,13 +175,6 @@ Note: You can do it for free if you like, but it’s partly manual.
 If this method doesn’t work for you, you can try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Run Red Dead Redemption 2 as admin
 
@@ -199,6 +199,13 @@ If this method doesn’t work for you, you can try the next fix.
  7) Launch your game to see if the loading issue still persists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Turn off Vsync
 
@@ -261,10 +268,10 @@ If this method doesn’t work for you, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Settings-Apps-Optional-features-View-features-1200x658.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Scroll down and find**Graphics Tools** , then check the box and click**Next** .
@@ -288,6 +295,13 @@ Wait for it to finish the process.
  1) Type**msconfig** in the Search box and select**System Configuration** .
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/11/system-configuration.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click the **Services** tab and check the **Hide all Microsoft services** box, then click **Disable all** .
 
@@ -322,6 +336,13 @@ Wait for it to finish the process.
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) is a computer repair software that can diagnose problems on your computer and fix them immediately.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
@@ -413,5 +434,24 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-ultimate-resource-for-instagram-livestreams-via-obs-software/"><u>[New] 2024 Approved The Ultimate Resource for Instagram Livestreams via OBS Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-investing-5-yields-hundreds-of-new-viewers-now/"><u>[Updated] Investing $5 Yields Hundreds of New Viewers Now</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-directcapture-pro-windows-11-recording-made-simple/"><u>2024 Approved DirectCapture Pro - Windows 11 Recording Made Simple</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029306278-2024/"><u>初心者でも簡単! 「2024年のビデオから静止画への変換ガイド」</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029536995-dvd/"><u>容易な手順でDVDのコピー複製をコピーガード無しで実行</u></a></li>
+<li><a href="https://win-able.techidaily.com/windowsandroidiphonegif3/"><u>最適な動画変換ツール：Windows、Android、iPhone対応で一番おすすめのGIF作成アプリトップ3</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726027761551-aviutl/"><u>AviUtlを使用したスムーズなビデオの抜粋手順</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726027883227-gif/"><u>GIFアニメートをスムーズに回転させる究極のテクニック</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-explosive-growth-video-expectations-sky-high-views/"><u>In 2024, Explosive Growth Video Expectations Sky-High Views</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-oppo-find-x7-ultra-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Oppo Find X7 Ultra to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-data-retrieval-tool-restore-lost-data-from-infinix-smart-8-pro-by-fonelab-android-recover-data/"><u>Infinix Data Retrieval tool – restore lost data from Infinix Smart 8 Pro</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/propella-7s-40-review-light-nimble-affordable/"><u>Propella 7S 4.0 Review: Light, Nimble, Affordable</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-10mp4dvd/"><u>Windows 10用のMP4ファイルをDVDへ記録するための手引き</u></a></li>
+<li><a href="https://win-able.techidaily.com/wonderfoxs-new-location-discover-the-updated-url/"><u>WonderFox's New Location: Discover the Updated URL!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726030049539-pc/"><u>オーディオインターフェースをPCに接続して録音する効果的な方法</u></a></li>
+</ul></div>
 

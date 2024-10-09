@@ -1,7 +1,7 @@
 ---
 title: How to Stop V Rising Game Lag and Ensure Fluid Playback on PC
-date: 2024-09-22T18:03:30.865Z
-updated: 2024-09-27T18:35:00.495Z
+date: 2024-10-02T18:08:47.982Z
+updated: 2024-10-08T23:12:30.749Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2 – Verify the integrity of game files
 
  Files of your game installation might get corrupt sometimes, or be deleted as a false positive by antivirus, which could cause crashing issues during gameplay. Fortunately, you can verify the integrity of the game’s installation through Steam.
@@ -58,13 +51,6 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 **2)** Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
@@ -77,10 +63,10 @@ This could take several minutes. Wait for the process to be complete.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Relaunch your game to test the issue.
@@ -104,10 +90,10 @@ This could take several minutes. Wait for the process to be complete.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
@@ -136,15 +122,22 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Restart your game to see if it runs correctly now.
 
 Your game still won’t work correctly? Read on and try Fix 5.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6 – Lower your graphics settings
@@ -158,6 +151,13 @@ Your game still won’t work correctly? Read on and try Fix 5.
 **3)** Set a less demanding configuration for your game.
 
 If the crashing still happens, continue with the next solution below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7 – Run the game in Windowed mode
 
@@ -198,21 +198,22 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-streamline-your-gameplay-professional-ps4-recording-tips/"><u>[New] Streamline Your Gameplay Professional PS4 Recording Tips</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-cost-outline-for-composing-sounds-to-screen-titles-for-2024/"><u>[Updated] Cost Outline for Composing Sounds to Screen-Titles for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-pixelplay-review-system-for-2024/"><u>[Updated] PixelPlay Review System for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ting-your-teaching-toolkit-how-to-craft-exceptional-videos-for-learning-for-2024/"><u>Elevating Your Teaching Toolkit How to Craft Exceptional Videos for Learning for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-the-hurdles-masterful-strategies-for-launching-borderlands-3-successfully/"><u>Eliminate the Hurdles: Masterful Strategies for Launching Borderlands 3 Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-entry-point-not-available-error-in-fortnite/"><u>Fixing the 'Entry Point Not Available' Error in Fortnite</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-diagnose-and-repair-non-responsive-corsair-icue-devices-on-windows-11/"><u>How to Diagnose and Repair Non-Responsive Corsair iCUE Devices on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-resident-evil-village-from-crashing-on-your-pc-a-complete-guide/"><u>How To Stop Resident Evil Village From Crashing on Your PC - A Complete Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-enhancing-youtube-visibility-with-tubebuddy/"><u>In 2024, Enhancing YouTube Visibility with TubeBuddy</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-rhythm-ringtone-converting-tamil-music-into-phone-chimes/"><u>In 2024, Rhythm Ringtone Converting Tamil Music Into Phone Chimes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/make-every-frame-count-a-list-of-the-hottest-50-video-reducing-apps-for-your-phone/"><u>Make Every Frame Count A List of the Hottest 50 Video-Reducing Apps for Your Phone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-connectivity-woes-restoring-functionality-of-corsair-icue-with-windows-1011/"><u>Overcoming Connectivity Woes: Restoring Functionality of Corsair iCUE with Windows 10/11</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/pro-free-ending-makers-ranked-1-6/"><u>Pro-FREE Ending Makers - Ranked 1-6</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-for-when-the-msi-mystic-light-wont-activate-in-windows/"><u>Solutions for When the MSI Mystic Light Won't Activate in Windows</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/the-ultimate-list-of-professional-video-editing-tools-for-gamers/"><u>The Ultimate List of Professional Video Editing Tools for Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-fixing-ubisoft-connect-issues/"><u>Troubleshooting Steps: Fixing Ubisoft Connect Issues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-premium-top-8-smoothest-capture-tools/"><u>2024 Approved Premium Top 8 Smoothest Capture Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-nokia-105-classic-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Nokia 105 Classic to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-gionee-f3-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Gionee F3 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/auroras-hdv-does-it-elevate-your-home-cinema-for-2024/"><u>Aurora's HDV Does It Elevate Your Home Cinema for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/collaborative-endeavors-reach-new-heights-with-the-official-release-of-it-takes-two/"><u>Collaborative Endeavors Reach New Heights with the Official Release of 'It Takes Two'</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-to-resolve-madden-nfl-22-problems-fast/"><u>Easy Steps to Resolve Madden NFL 22 Problems Fast</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-game-bugs-how-to-stop-diablo-4-from-halting-on-playstation-and-windows-systems/"><u>Eliminate Game Bugs: How to Stop Diablo 4 From Halting on PlayStation and Windows Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-poco-c51-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Poco C51 Phone?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-metaphors-discovering-6-detailed-instances/"><u>In 2024, Metaverse Metaphors Discovering 6 Detailed Instances</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-tecno-pova-5-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Tecno Pova 5 and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashes-troubleshooting-guide-to-play-the-fia-world-rally-championship-wrc-10-on-your-pc-seamlessly/"><u>No More Crashes! Troubleshooting Guide to Play the FIA World Rally Championship - WRC 10 on Your PC Seamlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012558621-rainbow-six-siege-starting-problems-heres-how-you-can-get-the-game-running-smoothly-again/"><u>Rainbow Six Siege Starting Problems? Here's How You Can Get the Game Running Smoothly Again!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-troubleshooting-farming-simulator-22-startup-issues/"><u>Solutions for Troubleshooting Farming Simulator 22 Startup Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-common-problems-fixing-netflix-streaming-on-xbox-one-devices/"><u>Solved: Common Problems Fixing Netflix Streaming on Xbox One Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967282785-troubleshoot-windows-11-bluetooth-connectivity-problems-solutions-inside/"><u>Troubleshoot Windows 11 Bluetooth Connectivity Problems: Solutions Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-what-to-do-if-discord-refuses-to-open/"><u>Troubleshooting Guide: What To Do If Discord Refuses To Open</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-failed-to-initialize-network-in-dragon-ball-fighterz/"><u>Troubleshooting Steps for 'Failed to Initialize Network' In Dragon Ball FighterZ</u></a></li>
 </ul></div>
 

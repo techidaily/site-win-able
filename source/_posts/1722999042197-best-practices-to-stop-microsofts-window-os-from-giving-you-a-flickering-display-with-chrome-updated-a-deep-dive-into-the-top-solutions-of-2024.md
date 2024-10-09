@@ -1,7 +1,7 @@
 ---
 title: Best Practices to Stop Microsoft's Window OS From Giving You a Flickering Display with Chrome (Updated) - A Deep Dive Into the Top Solutions of 2024
-date: 2024-09-28T16:47:40.431Z
-updated: 2024-10-03T16:44:35.315Z
+date: 2024-10-07T16:33:57.653Z
+updated: 2024-10-08T22:08:45.576Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ Lately there have been many users complaining about the**flickering issue with G
 10. [**Modify your Registry**](https://tools.techidaily.com/drivereasy/download/)
 11. **[Check for system issues](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Check your display cable and passive adapter**
 
  Sometimes, the flickering just comes from your**faulty hardware** . So before you dig into any complicated troubleshooting, you can start from this easy step to check your hardware. Surely you don’t want to spend hours on troubleshooting only to find that there’s something wrong with your rig.
@@ -63,6 +56,19 @@ Passive Adapter (DP to HDMI)
 
  If you’re confident about your cable and adapter, simply move on to the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 2: Turn off Automatically pick an accent color (Windows 10)**
 
  If you’re using a custom wallpaper on Windows 10, you can enable an option to**set the accent color** of the Start menu, taskbar, and action center to match the base color of the image automatically.
@@ -76,13 +82,6 @@ Passive Adapter (DP to HDMI)
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-automatically-pick-an-accent-color-02.jpg)
 3. Open Google Chrome and see if it stops flickering.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method doesn’t help your case, you can take a look at the next one.
 
 ### **Fix 3: Make sure it’s not a web page issue**
@@ -94,10 +93,10 @@ Passive Adapter (DP to HDMI)
  If the problem is exclusive to Chrome, you can check out the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 4: Update your graphics driver**
@@ -110,19 +109,6 @@ Passive Adapter (DP to HDMI)
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
@@ -142,9 +128,30 @@ If you don’t know how, simply follow these steps:
 1. Open Chrome. In the address bar, type or paste**chrome://flags** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-flags-1.jpg)
 2. In the search box, type or paste**smooth scrolling** . Set**Smooth Scrolling** to**Enabled** or**Disabled** and see which one works best for you. Remember to restart Chrome after changing the settings.  
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-flags-2.jpg)
 
  If this trick doesn’t give you luck, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Update Chrome
 
@@ -158,24 +165,37 @@ If you don’t know how, simply follow these steps:
 3. Once the browser updates, click the **Relaunch** button to reopen Chrome.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re already using the latest version of Chrome, please continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Install all Windows updates
 
  Windows updates offer regular**security patches** and sometimes (twice a year) a**performance boost** . If it’s been a while since the last time you checked for system updates, you need to do it now as it might fix your problem right away.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Disable hardware acceleration
 
@@ -203,24 +223,10 @@ If this fix doesn’t work for you, go ahead and try the last one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windows-10-run-regedit.jpg)
 2. In the address bar of Registry Editor, type or paste**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\DWM** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm.jpg)
 3. At the empty area of the right pane, right click and create a new**DWORD (32-bit) Value** and name it**OverlayTestMode** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm-2.jpg)
 4. Right click the entry and modify the value to**5** . Then reboot your PC and see if the flicker reappears.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm-4.jpg)
 
@@ -234,6 +240,13 @@ If the issue lingers on, you can try the next solution.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -260,22 +273,15 @@ If the issue lingers on, you can try the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-how-to-make-your-own-youtube-closures-without-spending/"><u>[New] In 2024, How to Make Your Own YouTube Closures Without Spending</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/astering-youtube-streams-with-simple-obs-guide/"><u>[New] Mastering YouTube Streams with Simple OBS Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-dying-light-crash-quickly-and-easily/"><u>[Solved] Dying Light Crash | Quickly & Easily!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-elevate-your-instagram-game-scouting-the-8-top-post-schedulers/"><u>[Updated] 2024 Approved Elevate Your Instagram Game Scouting the 8 Top Post Schedulers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-colors-in-lightroom-with-the-best-luts/"><u>[Updated] Harnessing Colors in LightRoom with the Best LUTs</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-what-hidden-beats-within-facebook-are-you-overlooking/"><u>[Updated] In 2024, What Hidden Beats Within Facebook Are You Overlooking?</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-the-codex-defeating-cod-warzone-error-6328-with-expert-guidance/"><u>Conquer the Codex: Defeating COD Warzone Error 6328 with Expert Guidance</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/criacry-bluetooth-fm-transmitter-cp2n-review-examining-its-compactness-amidst-design-challenges/"><u>CriaCry Bluetooth FM Transmitter (CP2n Review: Examining Its Compactness Amidst Design Challenges</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-eliminating-ue4-gobi-issues-in-back-4-blood-strategies-and-solutions/"><u>Expert Guide: Eliminating UE4-Gobi Issues in 'Back 4 Blood - Strategies and Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-windows-11-compatible-intel-usb-3n-transfer-cards-drivers/"><u>Get the Newest Windows 11 Compatible Intel USB 3.n Transfer Cards (Drivers)</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-2022-spotify-web-player-back-on-track-optimizing-speed-and-functionality/"><u>Get Your 2022 Spotify Web Player Back on Track: Optimizing Speed & Functionality</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-fixes-to-stop-me3-from-crashing-on-your-console-or-computer/"><u>Mastering the Fixes to Stop ME3 From Crashing on Your Console or Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-pc-issues-and-prevent-grounded-from-freezing-practical-advice/"><u>Overcome PC Issues and Prevent 'Grounded' From Freezing : Practical Advice</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-support-troubleshooting-star-wars-jedi-fallen-orders-crashing-problems/"><u>PC Gaming Support: Troubleshooting Star Wars Jedi: Fallen Order's Crashing Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-new-world-connection-issues-a-step-by-step-guide/"><u>Resolving New World Connection Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/stream-mastery-on-mac-with-these-5-tools-for-2024/"><u>Stream Mastery on Mac with These 5 Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/achieving-your-objectives-with-microsoft-word-the-ultimate-guide-to-digital-bullet-journalling/"><u>Achieving Your Objectives with Microsoft Word: The Ultimate Guide to Digital Bullet Journalling</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/best-methods-to-convert-mts-m2ts-and-ts-videos-into-high-quality-mov-format-a-step-by-step-guide/"><u>Best Methods to Convert MTS, M2TS & TS Videos Into High-Quality MOV Format – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-endless-loading-screen-in-minecraft-ultimate-solutions/"><u>Fixing the Endless Loading Screen in Minecraft: Ultimate Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-football-manager-2021-pc-game-crashes-and-play-smoothly/"><u>How to Fix Football Manager 2021 PC Game Crashes and Play Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-stardew-valley-not-starting-properly/"><u>How to Fix Stardew Valley Not Starting Properly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-y100-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo Y100 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-smart-7-hd-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Smart 7 HD to PC? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-rhythmic-reinvention-the-art-of-voice-in-free-fire/"><u>In 2024, Rhythmic Reinvention The Art of Voice in Free Fire</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-resolving-genshin-impact-stability-problems-on-personal-computers/"><u>Step-by-Step Guide: Resolving Genshin Impact Stability Problems on Personal Computers</u></a></li>
 </ul></div>
 

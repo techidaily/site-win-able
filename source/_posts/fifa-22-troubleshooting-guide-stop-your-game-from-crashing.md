@@ -1,7 +1,7 @@
 ---
 title: FIFA 22 Troubleshooting Guide - Stop Your Game From Crashing
-date: 2024-10-01T16:26:01.009Z
-updated: 2024-10-03T16:21:42.557Z
+date: 2024-10-04T18:57:28.996Z
+updated: 2024-10-08T20:35:21.231Z
 tags:
   - win11
   - win10
@@ -53,26 +53,13 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If it’s not working, move to next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable overclocking
 
@@ -85,6 +72,13 @@ If it’s not working, move to next fix.
 3. Restart the game and check.
 
 No luck with this one? Move to the next.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
 
@@ -116,10 +110,16 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -127,6 +127,13 @@ OR
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -138,13 +145,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -172,20 +172,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-best-apps-for-perfecting-picture-framing/"><u>[New] In 2024, Best Apps for Perfecting Picture Framing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-efficient-trimming-made-simple-with-top-10-software/"><u>[Updated] 2024 Approved Efficient Trimming Made Simple with Top 10 Software</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-listenleads-whats-better-than-dacast/"><u>[Updated] In 2024, ListenLeads What's Better than DaCast?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-honor-magic-vs-2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Honor Magic Vs 2 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-6-best-digital-canvases-ideal-nft-services-for-artists/"><u>In 2024, The 6 Best Digital Canvases Ideal NFT Services For Artists</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-art-of-custom-borders-in-microsoft-excel/"><u>Mastering the Art of Custom Borders in Microsoft Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-art-of-making-text-fit-into-excel-cells-a-step-by-step-guide/"><u>Mastering the Art of Making Text Fit Into Excel Cells: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-use-of-ampersand-symbols-in-microsoft-excel-headerfooter-formatting/"><u>Mastering the Use of Ampersand Symbols in Microsoft Excel Header/Footer Formatting</u></a></li>
-<li><a href="https://win-able.techidaily.com/microsofts-decision-to-discontinue-currency-features-in-excel/"><u>Microsoft's Decision to Discontinue Currency Features in Excel</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/nine-crucial-methods-to-log-computer-speakers-and-microphones-for-2024/"><u>Nine Crucial Methods to Log Computer Speakers and Microphones for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-guide-incorporating-macros-on-microsoft-offices-quick-access-toolbar/"><u>Quick Guide: Incorporating Macros on Microsoft Office's Quick Access Toolbar</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/quickened-keys-powerpoint-presentation-capture-for-2024/"><u>Quickened Keys PowerPoint Presentation Capture for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-crafting-a-personalized-pareto-diagram-using-microsoft-excel/"><u>Step-by-Step Guide: Crafting a Personalized Pareto Diagram Using Microsoft Excel</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-professional-sound-with-free-behringer-driver-software/"><u>Unlock Professional Sound with Free Behringer Driver Software!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-screen-reporter-toolkit-for-youtube-streamers/"><u>[New] In 2024, Best Screen Reporter Toolkit for YouTube Streamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722991648880-solved-ashen-crash-issue-quickly-and-easily/"><u>[SOLVED] Ashen Crash Issue | Quickly & Easily</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unlocking-apples-podcast-library-a-download-guide/"><u>[Updated] 2024 Approved Unlocking Apple's Podcast Library A Download Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-camera-control-tips-for-unshakable-images/"><u>[Updated] Camera Control Tips for Unshakable Images</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-amazon-prime-fan-favorites-highest-likes-and-view-counts/"><u>2024 Approved Amazon Prime Fan Favorites Highest Likes & View Counts</u></a></li>
+<li><a href="https://win-forum.techidaily.com/apeaac-movavi/"><u>免費線上APE到AAC轉換解決方案 - 為動態影片提供全天候服務的Movavi編輯器</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-gpt-ns-capabilities-for-all-users/"><u>Demystifying GPT-N's Capabilities for All Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-msedgeexe-crashes-troubleshooting-steps-for-stable-edge-browser-performance/"><u>Fixing MSEdge.exe Crashes: Troubleshooting Steps for Stable Edge Browser Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-pc-issues-how-to-prevent-psychonauts-2-from-continuously-crashing/"><u>Fixing PC Issues: How to Prevent 'Psychonauts 2' From Continuously Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-successfully-running-guardians-of-the-galaxy-8-essential-fixes-for-a-smooth-experience-on-pc/"><u>Guide: Successfully Running Guardians of the Galaxy - 8 Essential Fixes for a Smooth Experience on PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-11-pro-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone 11 Pro in the Best Ways</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-unable-to-sync-with-steam-cloud-error-easily/"><u>How to Overcome 'Unable to Sync with Steam Cloud' Error Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-play-strategies-to-stop-palworld-from-halting-unexpectedly-on-pc/"><u>Optimizing Your Play: Strategies to Stop Palworld From Halting Unexpectedly on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011309170-overcome-lag-issues-in-splitgate-top-tips-for-boosting-your-fps/"><u>Overcome Lag Issues in Splitgate – Top Tips for Boosting Your FPS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-14-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone 14 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-for-black-ops-cold-war-overcoming-issue-with-error-27711-in-the-ui/"><u>Solution for Black Ops Cold War, Overcoming Issue with Error 27711 in the UI</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-stop-windows-from-misidentifying-audio-device/"><u>Techniques to Stop Windows From Misidentifying Audio Device</u></a></li>
 </ul></div>
 

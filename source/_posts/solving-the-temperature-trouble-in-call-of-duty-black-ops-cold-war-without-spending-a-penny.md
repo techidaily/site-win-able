@@ -1,7 +1,7 @@
 ---
 title: "Solving the Temperature Trouble in Call of Duty: Black Ops Cold War Without Spending a Penny"
-date: 2024-09-30T16:06:29.425Z
-updated: 2024-10-03T16:03:45.790Z
+date: 2024-10-06T20:40:53.229Z
+updated: 2024-10-08T21:06:02.159Z
 tags:
   - win11
   - win10
@@ -68,21 +68,7 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -95,6 +81,13 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
@@ -105,10 +98,10 @@ You can do it with only 2 steps:
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
@@ -121,15 +114,15 @@ And it’s quite easy to update too:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To install all the available updates, you might need to repeat these steps several times until Windows prompts that you’re up to date when you click**Check for updates** .
 
@@ -152,14 +145,22 @@ Here’s how to enable this power plan:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command box. Type**powercfg.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
@@ -189,16 +190,24 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-pioneering-stop-motion-films-the-ultimate-15-list/"><u>[Updated] 2024 Approved Pioneering Stop-Motion Films - The Ultimate 15 List</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-becoming-a-seo-guru-top-ten-facebook-optimization-tactics/"><u>2024 Approved Becoming a SEO Guru Top Ten Facebook Optimization Tactics</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-budget-friendly-nano-pcs-for-competitive-gaming/"><u>Best Budget-Friendly Nano PCs for Competitive Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/decode-the-mystery-of-modern-warfare-mw3-dev-error-6034-solutions-for-gamers-on-pc-and-xbox/"><u>Decode the Mystery of Modern Warfare MW3 Dev Error #6034: Solutions for Gamers on PC & Xbox</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-league-of-legends-wont-open-2024-tips/"><u>How to Fix League of Legends Won’t Open – 2024 Tips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/preserve-and-protect-discover-five-key-methods-for-keeping-your-digital-data-safe-from-harm/"><u>Preserve and Protect: Discover Five Key Methods for Keeping Your Digital Data Safe From Harm</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quick-fixes-for-professional-looking-indie-films-for-2024/"><u>Quick Fixes for Professional-Looking Indie Films for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-guide-for-steam-connection-issues-overcoming-failed-to-connect-messages/"><u>Resolved: Troubleshooting Guide for Steam Connection Issues - Overcoming 'Failed to Connect' Messages</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-no-ping-detected-issue-in-halo-infinity-a-step-by-step-guide/"><u>Solving the 'No Ping Detected' Issue in Halo Infinity: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-to-fixing-alan-wake-2-game-crashes/"><u>Ultimate Troubleshooting Guide to Fixing Alan Wake 2 Game Crashes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-crafting-quality-content-setting-up-your-mac-for-minecraft-sessions-for-2024/"><u>[New] Crafting Quality Content Setting Up Your Mac for Minecraft Sessions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-6-minecraft-oriental-house-ideas-you-should-try-for-2024/"><u>[New] Top 6 Minecraft Oriental House Ideas You Should Try for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-ultimate-guide-capturing-and-streaming-life-with-manycam-virtual-camera-app/"><u>1. Ultimate Guide: Capturing and Streaming Life with ManyCam - Virtual Camera App</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamlining-video-features-youtube-annotations-guide/"><u>2024 Approved Streamlining Video Features YouTube Annotations Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/describe-a-symbiotic-relationship-between-photoautotrophs-and-heterotrophs-in-agriculture/"><u>Describe a Symbiotic Relationship Between Photoautotrophs and Heterotrophs in Agriculture.</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-applied-to-stop-mass-effect-legendary-edition-from-stuttering/"><u>Fixes Applied to Stop Mass Effect Legendary Edition From Stuttering</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-slowdown-why-your-f1-2021-game-might-be-lagging/"><u>Fixing the Slowdown: Why Your F1 2021 Game Might Be Lagging</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-address-your-softwares-search-for-the-lost-d3dx9novaluedll-component/"><u>How to Address Your Software's Search for the Lost d3dx9_novalue.dll Component</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-13-proipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 13 Pro/iPad/iPod</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-poco-c51-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Poco C51 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/m1-pro-to-m1-max-understanding-the-differences-in-apple-computing-for-2024/"><u>M1 Pro to M1 Max Understanding the Differences in Apple Computing for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-game-launches-solving-problems-with-steam-on-windows-10-systems/"><u>Mastering Game Launches: Solving Problems with Steam on Windows 10 Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secret-strategies-to-outshine-with-canva-photos-for-2024/"><u>Secret Strategies to Outshine with Canva Photos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-problem-valorant-wont-start-on-your-pc/"><u>Solving the Problem: Valorant Won't Start on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-terraria-from-freezing-proven-troubleshooting-steps-for-gamers/"><u>Stop Terraria From Freezing: Proven Troubleshooting Steps for Gamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-navigating-lg-channels-effectively/"><u>The Complete Guide to Navigating LG Channels Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-rust-crashes-a-comprehensive-guide/"><u>Troubleshooting Rust Crashes - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-solutions-to-cod-black-ops-4s-lag-spikes-and-fps-issues/"><u>Troubleshooting Solutions to COD Black Ops 4'S Lag Spikes & FPS Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-rocket-league-not-starting-up/"><u>Troubleshooting: How to Fix 'Rocket League Not Starting Up'</u></a></li>
 </ul></div>
 

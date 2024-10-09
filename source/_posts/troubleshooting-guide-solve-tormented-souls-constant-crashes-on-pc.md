@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Solve Tormented Souls' Constant Crashes on PC"
-date: 2024-10-02T16:16:45.905Z
-updated: 2024-10-03T16:15:13.720Z
+date: 2024-10-05T17:25:33.234Z
+updated: 2024-10-08T19:46:59.232Z
 tags:
   - win11
   - win10
@@ -29,16 +29,10 @@ Are your getting the ‘**HP My Display has stopped working**‘ error on your W
 Step 1: **[Uninstall HP My Display on your computer](https://tools.techidaily.com/drivereasy/download/)** Step 2: **[Update your graphics card driver and HP monitor driver](https://tools.techidaily.com/drivereasy/download/)** Step 3: **[Reinstall HP My Display on your computer](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Firstly, uninstall HP My Display on your computer
@@ -49,14 +43,40 @@ To do so:
 2. Type**control** and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b89010276b4b.png)
 3. Select**Programs and Features** when selected to**View by Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b890184befeb.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Right-click**HP My Display** to select**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8901cc8a421.jpg)
 5. Click **Yes**  when prompted by User Account Control.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Then, update your graphics card driver and HP monitor driver
@@ -67,25 +87,11 @@ You can choose to update your device drivers through**Device Manager**to let Win
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b874f241989c.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the**Pro version** which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)**Note:** You can also do it for free if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b890b1f40fe3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Last, download the latest version of HP My Display to install it on your computer
 
 1. Go to the[official HP website](https://support.hp.com/us-en/drivers/selfservice/swdetails/hp-value-24-inch-displays/7274745/model/10402860/swItemId/vc-161857-1) .
 2. Click**Download Now** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b890786273c9.jpg)
 3. **Double-click** the downloaded file and follow the on-screen instructions to install HP My Display on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 HP My Display should then be running without problem after the installation. Do you fix the HP My Display has stopped working error? Feel free to comment below with your own experiences.
 
@@ -107,18 +113,17 @@ HP My Display should then be running without problem after the installation. Do 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-in-depth-giroptic-360-angle-reviews/"><u>[New] In 2024, In-Depth Giroptic 360-Angle Reviews</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-obs-studio-showdown-with-bandicam-the-ultimate-test/"><u>[New] OBS Studio Showdown with Bandicam The Ultimate Test</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-secrets-to-high-quality-roblox-game-footage-on-macos/"><u>[New] Secrets to High-Quality Roblox Game Footage on macOS</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-dev-error-6068-in-call-of-duty-mobile-winning-techniques-for-gamers/"><u>Beat Dev Error 6068 in Call of Duty Mobile - Winning Techniques for Gamers</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-5-mac-based-music-editing-tools-streamline-your-production-workflow/"><u>Best 5 Mac-Based Music Editing Tools: Streamline Your Production Workflow</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dragon-age-inquisition-not-opening-expert-guide-to-overcome-common-startup-issues/"><u>Dragon Age Inquisition Not Opening: Expert Guide to Overcome Common Startup Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/facing-launch-errors-in-lol-discover-the-best-fixes-and-tips-for-a-smooth-game/"><u>Facing Launch Errors in LoL? Discover the Best Fixes and Tips for a Smooth Game</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-quills-to-keystrokes-enduring-elizabethan-expressions/"><u>From Quills to Keystrokes: Enduring Elizabethan Expressions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/oculus-air-link-window-error-heres-how-to-restore-connectivity/"><u>Oculus Air Link Window Error? Here's How to Restore Connectivity!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-m14-4g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy M14 4G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-pc-players-eliminating-game-crashes-in-the-sims-3-effortlessly/"><u>Ultimate Fixes for PC Players: Eliminating Game Crashes in The Sims 3 Effortlessly</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unlimited-storage-insights-premium-recommendations/"><u>Unlimited Storage Insights Premium Recommendations</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-does-hyper-scape-keep-crashing-fix-it-now-for-a-smoother-gaming-experience/"><u>Why Does Hyper Scape Keep Crashing? Fix It Now for a Smoother Gaming Experience!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unlock-the-secret-of-social-media-impact/"><u>[New] 2024 Approved Unlock the Secret of Social Media Impact</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-navigating-skies-drone-shooting-basics/"><u>[New] Navigating Skies Drone Shooting Basics</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-scene-stealer-snapshot-study-for-2024/"><u>[New] Scene-Stealer Snapshot Study for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-live-recording-setup-on-xbox-for-gamers/"><u>[Updated] 2024 Approved Live Recording Setup on Xbox for Gamers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cutting-edge-tablet-reviewed-how-the-huawei-mediapad-m5-excels-in-picture-and-sound/"><u>Cutting-Edge Tablet Reviewed: How the Huawei MediaPad M5 Excels in Picture & Sound</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007559146-download-days-gone-for-windows-and-xbox-the-ultimate-open-world-fps-experience-begins/"><u>Download 'Days Gone' For Windows & Xbox: The Ultimate Open-World FPS Experience Begins!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-nvidias-ai-foundation-an-insight-into-their-custom-generative-ai-platform/"><u>Exploring NVIDIA's AI Foundation: An Insight Into Their Custom Generative AI Platform</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-steamvr-issues-a-simple-and-fast-solution/"><u>Fixing SteamVR Issues: A Simple and Fast Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcoming-login-issues-on-steam/"><u>Resolved: Overcoming Login Issues on Steam</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-pc-crashes-in-metro-exodus-game/"><u>Troubleshooting Guide: Resolving PC Crashes in Metro Exodus Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-mastery-eliminate-steam-error-code-130-with-ease/"><u>Troubleshooting Mastery: Eliminate Steam Error Code 130 with Ease</u></a></li>
 </ul></div>
 

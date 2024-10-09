@@ -1,7 +1,7 @@
 ---
 title: DS4 Device Failure on Windows? Here’s How to Install the Correct Driver & Fix It
-date: 2024-09-13T19:27:44.858Z
-updated: 2024-09-16T17:50:49.319Z
+date: 2024-10-01T19:05:45.396Z
+updated: 2024-10-08T22:19:54.997Z
 tags:
   - win11
   - win10
@@ -54,20 +54,48 @@ Many of us would like to use a PS4 controller (instead of Xbox) on our Windows P
  3) You may be prompted to install the **[.NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)**  if you haven’t installed it.  
 ![install the net](https://images.drivereasy.com/wp-content/uploads/2020/01/proceed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under “**Run desktop apps** “, select**Download X64** .  
 ![desktop](https://images.drivereasy.com/wp-content/uploads/2020/01/desktop-app.jpg)
 
  5) Select**Appdata** when you’re prompted to choose where to save the settings and files, for it will ensure you have full access.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/save.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Follow the steps described in the**Welcome to DS4Windows** to install the driver and finish the setup.  
 ![install windows ds4 driver](https://images.drivereasy.com/wp-content/uploads/2020/01/install-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Follow the on-screen instructions to finish installing.  
 ![complete](https://images.drivereasy.com/wp-content/uploads/2020/01/complete.jpg)
 
  8) You can install optional drivers if you want other cool features. Once complete, you can click**Finished** .  
 ![finish ds4 windows driver installation](https://images.drivereasy.com/wp-content/uploads/2020/01/finished.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  9) Go to the**Settings** tab and select**Hide DS4 Controller** .  
  This will prevent your system from recognizing two controllers and causing connection issues.  
@@ -86,10 +114,10 @@ Many of us would like to use a PS4 controller (instead of Xbox) on our Windows P
 ![](https://images.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Expand**Human Interface Devices** and right-click**HID-compliant game controller** , then select**Enable** **device** . (For Bluetooth users, it’s**Bluetooth-HID-device** . )
@@ -122,22 +150,15 @@ If it’s already enabled, you can disable and enable it again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/devices.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) You will find your PS4 controller here. Right-click your controller, and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/wireless-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Go to the**Hardware** tab, and double-click the**HID-compliant game controller** .
@@ -148,26 +169,13 @@ If it’s already enabled, you can disable and enable it again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/uninstall-driver.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Once the driver is uninstalled, unplug your controller, and then restart your PC. Reconnect your Controller using DS4 Windows to see if it pops up in the**Controllers** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Uninstall the latest Windows Update
@@ -202,6 +210,13 @@ If it’s already enabled, you can disable and enable it again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics card driver to automatically download the correct version of that driver, and then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a**30-day money-back guarantee** . You’ll be prompted to upgrade when you click_Update All._ )
@@ -231,5 +246,26 @@ If it’s already enabled, you can disable and enable it again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-discovering-the-top-10-invisible-story-lovers/"><u>[New] 2024 Approved Discovering the Top 10 Invisible Story Lovers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ayout-layers-a-guide-to-organizing-online-videos-for-2024/"><u>[New] Layout Layers A Guide to Organizing Online Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mirth-merger-image-composer/"><u>[New] Mirth Merger Image Composer</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001176490-solved-god-of-war-not-enough-available-memory-issue/"><u>[SOLVED] God of War “Not Enough Available Memory Issue</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-multimedia-text-producer/"><u>[Updated] Multimedia Text Producer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-online-retailers-specialized-in-personalized-boxed-gifts/"><u>10 Online Retailers Specialized in Personalized Boxed Gifts</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-and-gpu-usage-issues-on-windows-11-solved/"><u>Cyberpunk 2077 and GPU Usage Issues on Windows 11 - Solved</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-recurring-game-crashes-in-rainbow-six-siege-for-personal-computers/"><u>Diagnosing and Repairing Recurring Game Crashes in Rainbow Six: Siege for Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-water-management-ensures-that-crops-receive-adequate-moisture-with-minimal-waste-preventing-erosion-and-nutrient-runoff-which-are-essential-for-th560/"><u>Effective Water Management Ensures that Crops Receive Adequate Moisture with Minimal Waste, Preventing Erosion and Nutrient Runoff, Which Are Essential for the Sustainability of Agricultural Lands.</u></a></li>
+<li><a href="https://win-news.techidaily.com/experience-the-best-of-both-worlds-with-free-bootstrap-5-and-material-design-in-the-official-admin-template-by-creative-tim/"><u>Experience the Best of Both Worlds with Free Bootstrap 5 & Material Design in the Official Admin Template by Creative Tim</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004727064-fixing-steam-remote-play-issues-expert-tips-and-tricks-that-work/"><u>Fixing Steam Remote Play Issues – Expert Tips and Tricks That Work!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-winwordexe-trouble-in-a-few-simple-steps-an-easy-guide/"><u>Fixing WINWORD.EXE Trouble in a Few Simple Steps – An Easy Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-rainbow-six-extraction-from-suddenly-crashing-on-pc-systems/"><u>How to Stop Rainbow Six Extraction From Suddenly Crashing on PC Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-smart-7-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 7 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-performance-how-to-address-gtfos-gameplay-hiccups-and-fps-issues/"><u>Mastering Smooth Performance: How to Address GTFO's Gameplay Hiccups & FPS Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-division-2-how-to-fix-stuttering-and-increase-fps-for-optimal-gaming/"><u>The Division 2: How to Fix Stuttering and Increase FPS for Optimal Gaming</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/voiceover-guide-for-engaging-videography/"><u>Voiceover Guide for Engaging Videography</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solved: Team Fortress 2 Keeps Crashing"
-date: 2024-09-30T16:47:18.687Z
-updated: 2024-10-03T16:11:05.953Z
+date: 2024-10-01T16:20:59.224Z
+updated: 2024-10-08T17:45:45.997Z
 tags:
   - win11
   - win10
@@ -62,18 +62,33 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 1. Launch Steam and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -97,17 +112,17 @@ If this method doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
 
@@ -117,32 +132,18 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
@@ -173,22 +174,20 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-tiktok-mastery-top-10-analytic-instruments-unveiled/"><u>[New] In 2024, TikTok Mastery Top 10 Analytic Instruments Unveiled</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-elite-gear-for-the-immersive-vr-journey-for-2024/"><u>[Updated] Elite Gear for the Immersive VR Journey for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-corrected-non-existence-of-shorts-on-feeds/"><u>[Updated] In 2024, Corrected Non-Existence of Shorts on Feeds</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-instagram-share-of-todays-thought-provoking-talk/"><u>[Updated] Instagram Share of Today's Thought-Provoking Talk</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-svchostexe-a-guide-to-lowering-cpu-usage-on-windows-11/"><u>Dealing with svchost.exe: A Guide to Lowering CPU Usage on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuito-online-converter-de-imagens-do-formato-cr2-para-png-com-o-movavi/"><u>Gratuito Online: Converter De Imagens Do Formato CR2 Para PNG Com O Movavi</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-x5-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco X5 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/newly-enhanced-microsoft-365-basic-affordable-access-to-additional-tools-and-services/"><u>Newly Enhanced Microsoft 365 Basic: Affordable Access to Additional Tools and Services</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-excel-limitations-create-effective-substitutes-for-missing-bookmarks/"><u>Overcoming Excel Limitations: Create Effective Substitutes for Missing Bookmarks!</u></a></li>
-<li><a href="https://win-able.techidaily.com/retrieve-past-excel-workbook-versions-easily-and-securely/"><u>Retrieve Past Excel Workbook Versions Easily and Securely</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-integration-setting-up-microsoft-forms-and-excel-online-auto-sync/"><u>Seamless Integration: Setting Up Microsoft Forms & Excel Online Auto-Sync</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-transition-mastering-the-art-of-transferring-contacts-from-outlook-to-gmail/"><u>Seamless Transition: Mastering the Art of Transferring Contacts From Outlook to Gmail</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-adding-page-x-out-of-y-text-to-excel-headerfooter/"><u>Step-by-Step Guide: Adding 'Page X Out of Y' Text to Excel Header/Footer</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-adding-bullet-point-lists-to-your-excel-worksheets/"><u>Step-by-Step Guide: Adding Bullet Point Lists to Your Excel Worksheets</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-crafting-an-effective-combination-chart-using-microsoft-excel/"><u>Step-by-Step Guide: Crafting an Effective Combination Chart Using Microsoft Excel</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-ultimate-guide-to-design-and-build-your-own-4k-editing-system-for-2024/"><u>The Ultimate Guide to Design and Build Your Own 4K Editing System for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-online-animation-creators-for-jaw-dropping-videos/"><u>The Ultimate List of Online Animation Creators for Jaw-Dropping Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-perfect-your-story-a-roundup-of-best-editing-apps/"><u>[New] 2024 Approved Perfect Your Story A Roundup of Best Editing Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-elite-choices-in-total-sweep-cinematography-for-2024/"><u>[Updated] Elite Choices in Total Sweep Cinematography for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/access-resumed-the-latest-update-fixes-origins-online-account-issue/"><u>Access Resumed - The Latest Update Fixes Origin's Online Account Issue</u></a></li>
+<li><a href="https://win-dash.techidaily.com/bluetooth-ready-in-no-time-with-speedy-windows-7-driver-installations/"><u>Bluetooth-Ready in No Time with Speedy Windows 7 Driver Installations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-ussd-how-does-unstructured-supplementary-service-data-work/"><u>Demystifying USSD: How Does Unstructured Supplementary Service Data Work?</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-solutions-for-gtfo-crashes-in-your-applications/"><u>DIY Solutions for GTFO Crashes in Your Applications</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-s18e-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo S18e?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-freezing-in-your-overwatch-matches/"><u>How to Fix Persistent Freezing in Your Overwatch Matches</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-zoom-issues-on-windows-1110-expert-tips/"><u>How to Fix Persistent Zoom Issues on Windows 11/10 - Expert Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-patchwork-ultimate-solutions-to-start-fallout-n-3-on-your-pc/"><u>Master the Patchwork: Ultimate Solutions to Start Fallout N 3 on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-final-hurdle-phasmophobias-persistent-90-load-issue/"><u>Overcoming the Final Hurdle: Phasmophobia's Persistent 90% Load Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolving-the-failed-to-open-disc-error-in-makemmerge-a-step-by-step-guide/"><u>Resolving the 'Failed to Open Disc' Error in MakeMMerge: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssence-and-creation-process-of-mukbangs/"><u>The Essence and Creation Process of Mukbangs</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-powerful-ammo-tactics-a-deep-dive-into-fps-changes-for-me-le-players/"><u>Unlocking Powerful Ammo Tactics: A Deep Dive Into FPS Changes for ME LE Players</u></a></li>
 </ul></div>
 

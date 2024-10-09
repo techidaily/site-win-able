@@ -1,7 +1,7 @@
 ---
 title: "Decode the Culprit: Expert Tips on Fixing Persistent Phoenix Point Game Crash Issues"
-date: 2024-09-29T16:39:39.407Z
-updated: 2024-10-03T17:06:04.425Z
+date: 2024-10-07T20:42:43.414Z
+updated: 2024-10-08T19:38:11.227Z
 tags:
   - win11
   - win10
@@ -84,13 +84,6 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8 fixes for FIFA 20 crashing
 
  Here are 8 fixes that have proved helpful to solve the FIFA 20 crashing issues. You may not need to try them all; just work your way down the list until you find the one that does the trick.
@@ -131,13 +124,6 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -149,6 +135,19 @@ In case you don’t know how, here’s the guidance:
  If you still have random crashes with FIFA 20, you should give the next fix a try.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: Roll back your graphics card driver**
 
@@ -173,10 +172,10 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Restart your computer for the changes to take effect.
@@ -186,10 +185,10 @@ In case you don’t know how, here’s the guidance:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update Windows operating system
@@ -227,28 +226,28 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
 
  Run FIFA 20 and check whether it continues to crash. If it does, try out the next fix then.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Adjust settings in NVIDIA Control Panel
 
@@ -263,13 +262,6 @@ In case you don’t know how, here’s the guidance:
  On completion, click**Apply** to save the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
 
@@ -292,15 +284,28 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
@@ -322,6 +327,13 @@ sfc /scannow
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run dialog box. Type **cmd** and press **Ctrl+Shift+Enter**  to run Command Prompt as administrator.
 
 ![This image has an empty alt attribute; its file name is image-182.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If prompted for consent, click **Yes** .
 
@@ -373,24 +385,20 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-troubleshooting-common-issues-in-skype-and-obs-collaboration/"><u>[New] 2024 Approved Troubleshooting Common Issues in Skype & OBS Collaboration</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-camera-enthusiasts-spotlight-5-leading-slow-motion-tech/"><u>[Updated] Camera Enthusiasts' Spotlight 5 Leading Slow Motion Tech</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-capture-clarity-high-quality-screen-recordings-for-youtubers-pcmac-for-2024/"><u>[Updated] Capture Clarity High-Quality Screen Recordings for YouTubers (PC/Mac) for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-who-unfollowed-you-quick-guide-for-2024/"><u>[Updated] Instagram Who Unfollowed You? Quick Guide for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-navigating-iphone-the-ringtone-alteration-process/"><u>2024 Approved Navigating iPhone The Ringtone Alteration Process</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/comprehensive-guide-to-the-dreame-bot-l10-pro-revolutionizing-cleaning-with-high-tech-lidar-navigation/"><u>Comprehensive Guide to the Dreame Bot L10 Pro: Revolutionizing Cleaning with High-Tech LiDAR Navigation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-kensun-compact-tire-filler-evaluation-dependable-and-transport-ready/"><u>Comprehensive Kensun Compact Tire Filler Evaluation: Dependable & Transport-Ready</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-6-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 6 Without a Home Button</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-repair-for-ms-sql-testimonial-by-gary-williams/"><u>Stellar Repair for MS SQL Testimonial by Gary Williams</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-on-switching-between-row-and-column-formats-in-excel/"><u>Step-by-Step Guide on Switching Between Row and Column Formats in Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-effortlessly-converting-excel-formulas-across-languages/"><u>Step-by-Step Guide: Effortlessly Converting Excel Formulas Across Languages</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-organizing-your-data-chronologically-using-microsoft-excel/"><u>Step-by-Step Guide: Organizing Your Data Chronologically Using Microsoft Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-removing-protection-from-your-ms-excel-file/"><u>Step-by-Step Guide: Removing Protection From Your MS Excel File</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-replicating-conditional-formatting-rules-in-excel/"><u>Step-by-Step Guide: Replicating Conditional Formatting Rules in Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-process-bypassing-alert-messages-in-ms-office-suite/"><u>Step-by-Step Process: Bypassing Alert Messages in MS Office Suite</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-accessing-the-developer-toolbar-within-the-microsoft-office-interface/"><u>Step-by-Step Tutorial on Accessing the Developer Toolbar Within the Microsoft Office Interface</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-clearing-extraneous-space-characters-in-ms-excel-cells/"><u>Step-by-Step Tutorial on Clearing Extraneous Space Characters in MS Excel Cells</u></a></li>
-<li><a href="https://win-able.techidaily.com/streamline-your-event-planning-using-microsoft-excel-template-solutions/"><u>Streamline Your Event Planning Using Microsoft Excel Template Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/the-6-key-steps-to-discovering-the-identity-of-your-pc-window-edition/"><u>The 6 Key Steps to Discovering the Identity of Your PC, Window Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-breaking-barriers-making-your-post-a-sensation-on-fb/"><u>[New] Breaking Barriers Making Your Post a Sensation on FB</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-enhance-live-stream-performance-with-these-5-pro-tips-for-2024/"><u>[New] Enhance Live Stream Performance with These 5 Pro Tips for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-direct-linking-of-youtube-content-to-facebook-feeds-via-autoplay-settings/"><u>[New] In 2024, Direct Linking of YouTube Content to Facebook Feeds via Autoplay Settings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlocking-your-potential-for-higher-instagram-video-visibility/"><u>[Updated] In 2024, Unlocking Your Potential for Higher Instagram Video Visibility</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-crafting-photos-into-engaging-videos-in-pixiz/"><u>2024 Approved Step-by-Step Crafting Photos Into Engaging Videos in Pixiz</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-htc-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to HTC FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-list-editors-for-android-pics/"><u>A-List Editors for Android Pics</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefront-2-pc-performance-optimization-solving-slow-launch-problems/"><u>Battlefront 2 PC Performance Optimization - Solving Slow Launch Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-2024-solution-manual-fixing-discord-latency-problems/"><u>Complete 2024 Solution Manual: Fixing Discord Latency Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000883214-deal-with-outdated-minecraft-drivers-learn-the-simple-trick-to-upgrade-and-enjoy-smooth-gameplay/"><u>Deal with 'Outdated' Minecraft Drivers? Learn the Simple Trick to Upgrade and Enjoy Smooth Gameplay!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-noxplayer-from-recurrently-shutting-down-on-laptop-or-computer/"><u>How to Stop Your NoxPlayer From Recurrently Shutting Down on Laptop or Computer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-honor-x7b-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Honor X7b Phones</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-continuous-freezing-issues-in-lost-ark-pc-version/"><u>Resolved: Fixes for Continuous Freezing Issues in Lost Ark PC Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-the-persistent-screen-flicker-problem/"><u>Resolved: Fixing the Persistent Screen Flicker Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-prevent-and-fix-pc-issues-with-cult-of-the-lamb/"><u>Step-by-Step Guide: Prevent and Fix PC Issues with Cult of the Lamb</u></a></li>
 </ul></div>
 

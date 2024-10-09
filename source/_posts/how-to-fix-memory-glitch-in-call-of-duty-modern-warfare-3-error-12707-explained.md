@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Memory Glitch in Call of Duty: Modern Warfare 3 - Error 12707 Explained"
-date: 2024-09-24T17:25:46.058Z
-updated: 2024-09-28T03:53:45.812Z
+date: 2024-10-06T22:11:51.372Z
+updated: 2024-10-08T20:43:41.588Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 
  If the error persists after a reboot, you can take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Scan and repair your game
 
  This error could mean that there’s**an integrity issue** with your game files. In other words, there are files corrupted or missing in your game folder. If that’s the case, a scan and repair might help you fix this glitch:
@@ -47,16 +54,10 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now you can launch the game and see if it loads this time.
@@ -92,13 +93,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -106,6 +100,13 @@ To do so, first visit the website of your GPU manufacturer:
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
 
  If the new driver doesn’t do the charm, you can move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -120,29 +121,23 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -167,21 +162,16 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-cutting-edge-methods-for-fast-srt-to-text-file-conversion/"><u>[New] Cutting-Edge Methods for Fast SRT to Text File Conversion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-hearing-heroism-essential-online-picks-for-tts-files/"><u>[New] In 2024, Hearing Heroism Essential Online Picks for TTS Files</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-which-live-stream-software-wins-exploring-obs-vs-streamlabs/"><u>[New] In 2024, Which Live Stream Software Wins? Exploring OBS Vs. Streamlabs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-how-to-announce-a-donation-drive-a-step-by-step-guide-for-2024/"><u>[Updated] How to Announce a Donation Drive A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/battle-your-way-through-wwe-2k22-on-pc-overcoming-stubborn-crashing-problems-effectively/"><u>Battle Your Way Through WWE 2K22 on PC: Overcoming Stubborn Crashing Problems Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-graphics-card-not-functioning-in-windows-(-)-solutions-and-tips/"><u>Cyberpunk 2077 Graphics Card Not Functioning in Windows <->: Solutions and Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-re-established-link-to-world-of-warcraft-online-services/"><u>Fixing the Issue: Re-Established Link to World of Warcraft Online Services</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/google-pixel-10-news-and-expected-price-release-date-specs-and-more-rumors/"><u>Google Pixel 10: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hassle-free-guide-download-and-configure-new-amd-graphics-drivers-instantly/"><u>Hassle-Free Guide: Download & Configure New AMD Graphics Drivers Instantly</u></a></li>
-<li><a href="https://win-able.techidaily.com/online-sign-in-portal-restored-access-regained/"><u>Online Sign-In Portal Restored: Access Regained</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-itel-a70-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Itel A70 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resident-evil-village-troubleshooting-steps-for-seamless-pc-gaming-experience/"><u>Resident Evil Village - Troubleshooting Steps for Seamless PC Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-hitch-expert-tips-for-a-functioning-rockstar-games-launcher-updated-advice/"><u>Resolving the Hitch: Expert Tips for a Functioning Rockstar Games Launcher - Updated Advice</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/smooth-start-gradual-appearance-for-2024/"><u>Smooth Start Gradual Appearance for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-fixing-unable-to-join-a-party-in-fortnite-error-code-84/"><u>Ultimate Guide to Fixing 'Unable to Join a Party' In Fortnite (Error Code 84)</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/44ot44oh44kq44o744of44ol44o844k444od44kv44ov44kh44kk44or55so6zplusz5aow44kz44o844oh44od44kv5asj5pu05oml6acg44ks44kk44oj/"><u>ビデオ・ミュージックファイル用音声コーデック変更手順ガイド</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-guide-to-restoring-windows-photo-viewer-on-win-11-for-2024/"><u>[New] The Ultimate Guide to Restoring Windows Photo Viewer on Win 11 for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-historical-insights-from-youtubes-top-10-vlogs/"><u>[Updated] Historical Insights From YouTube's Top 10 Vlogs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elevate-your-auditory-experience-iphone-and-the-world-of-podcasting-for-2024/"><u>Elevate Your Auditory Experience - iPhone and the World of Podcasting for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-apex-legends-crashes-comprehensive-guide-to-resolving-game-engine-issues/"><u>Fixing Apex Legends Crashes: Comprehensive Guide to Resolving Game Engine Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-13c-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi Redmi 13C Phone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-revenue-how-to-profit-from-youtube-short-videos/"><u>In 2024, Unlocking Revenue How to Profit From YouTube Short Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-tips-how-to-address-persistent-crashes-while-playing-manor-lords/"><u>PC Gaming Tips: How to Address Persistent Crashes While Playing Manor Lords</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-issues-with-launching-civilization-vi-on-windows-10-fixed/"><u>Resolved: Issues with Launching Civilization VI on Windows 10 – Fixed!</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/shifting-from-windows-itunes-to-apples-upgraded-media-services-keep-your-library-intact/"><u>Shifting From Windows iTunes to Apple’s Upgraded Media Services? Keep Your Library Intact!</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-seamless-gameplay-overcoming-persistent-crashes-in-tower-of-fantasy-for-your-pc/"><u>Unlock Seamless Gameplay: Overcoming Persistent Crashes in Tower of Fantasy for Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-discord-javascript-faults-a-user-friendly-approach/"><u>Unraveling Discord JavaScript Faults: A User-Friendly Approach</u></a></li>
 </ul></div>
 

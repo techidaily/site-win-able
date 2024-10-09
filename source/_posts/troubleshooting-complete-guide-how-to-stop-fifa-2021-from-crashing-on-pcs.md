@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Complete Guide: How to Stop FIFA 2021 From Crashing on PCs"
-date: 2024-09-24T02:35:26.147Z
-updated: 2024-09-27T20:05:18.970Z
+date: 2024-10-03T21:31:30.017Z
+updated: 2024-10-08T17:01:27.948Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -93,23 +100,9 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -118,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
@@ -129,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -146,26 +139,46 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -180,13 +193,6 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -214,20 +220,20 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-secrets-of-filmo/"><u>[New] 2024 Approved Secrets of Filmo</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-harnessing-the-benefits-with-creative-commons-licenses/"><u>[New] In 2024, Harnessing the Benefits with Creative Commons Licenses</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-premium-selection-the-best-8-tripods-for-superior-4k-shooting/"><u>[New] Premium Selection The Best 8 Tripods for Superior 4K Shooting</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-video-edits-with-finalcut-pro-for-2024/"><u>[Updated] Mastering YouTube Video Edits with FinalCut Pro for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1719366357478-6-ultimate-methods-to-end-stuck-windows-updates-now/"><u>6 Ultimate Methods to End Stuck Windows Updates Now</u></a></li>
-<li><a href="https://win-able.techidaily.com/busting-the-freeze-frames-optimizing-gameplay-for-cod-black-ops-cold-war-on-any-pc-or-console/"><u>Busting the Freeze Frames: Optimizing Gameplay for COD: Black Ops Cold War on Any PC or Console</u></a></li>
-<li><a href="https://win-able.techidaily.com/call-of-duty-vanguard-freezing-glitches-easy-fixes-to-keep-the-action-going/"><u>Call of Duty: Vanguard Freezing Glitches - Easy Fixes to Keep the Action Going</u></a></li>
-<li><a href="https://win-able.techidaily.com/minecraft-connection-woes-heres-how-you-can-reconnect-seamlessly/"><u>Minecraft Connection Woes? Here’s How You Can Reconnect Seamlessly</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-list-of-3d-video-makers-free-paid-and-in-between/"><u>New In 2024, The Ultimate List of 3D Video Makers Free, Paid, and In-Between</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-overcoming-league-of-legends-network-connectivity-problems/"><u>Resolved: Overcoming League of Legends Network Connectivity Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-uncovering-the-causes-of-game-security-breach-alerts/"><u>Resolved: Uncovering the Causes of 'Game Security Breach' Alerts</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-restoring-audio-on-your-discord-screen-shares/"><u>Troubleshooting Guide: Restoring Audio on Your Discord Screen Shares</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722897462184-troubleshooting-missing-mscorwksdll-files-on-your-pc-solutions-inside/"><u>Troubleshooting Missing mscorwks.dll Files on Your PC – Solutions Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-when-amd-radeon-drivers-wont-launch/"><u>Troubleshooting When AMD Radeon Drivers Won't Launch</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-essential-list-the-ultimate-collection-of-licensed-chuckle-tunes-for-2024/"><u>Updated Essential List The Ultimate Collection of Licensed Chuckle Tunes for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discover-the-top-10-historically-rich-youtube-tutorials/"><u>[Updated] 2024 Approved Discover the Top 10 Historically Rich YouTube Tutorials</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-excellent-screen-capture-apps-for-linux-enthusiasts/"><u>2024 Approved Excellent Screen Capture Apps for Linux Enthusiasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revel-in-history-reactivating-deleted-reddit-articles/"><u>2024 Approved Revel in History Reactivating Deleted Reddit Articles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accelerating-ppt-video-engagement-rates/"><u>Accelerating PPT Video Engagement Rates</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-issue-when-your-pc-refuses-to-boot-up-call-of-duty-modern-warfare/"><u>How to Fix the Issue When Your PC Refuses to Boot Up Call of Duty: Modern Warfare</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-guilty-gear-strive-pc-game-crashes/"><u>How to Resolve Guilty Gear Strive PC Game Crashes?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kootek-laptop-cooling-pad-review-a-strong-all-around-option/"><u>Kootek Laptop Cooling Pad Review: A Strong All-Around Option</u></a></li>
+<li><a href="https://discover-help.techidaily.com/las-mejores-aplicaciones-gratuitas-para-convertir-videos-ade-4k-descubrira-los-12-mas-efectivos-para-su-computadora/"><u>Las Mejores Aplicaciones Gratuitas Para Convertir Videos A/De 4K, Descubrirá Los 12 Más Efectivos Para Su Computadora</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lightweight-voice-alteration-maximizing-your-gameplay-in-pubg-for-2024/"><u>Lightweight Voice Alteration Maximizing Your Gameplay in PUBG for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-network-issues-comprehensive-guide-on-solving-new-world-connections-glitch/"><u>Mastering Network Issues: Comprehensive Guide on Solving New World Connections Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashing-a-comprehensive-guide-to-fix-after-effects-bugs-on-recent-windows-versions/"><u>No More Crashing: A Comprehensive Guide to Fix After Effects Bugs on Recent Windows Versions</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-installation-stalls-tips-for-smooth-microsoft-flt/"><u>Resolving Installation Stalls: Tips for Smooth Microsoft Flt</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sh-calmness-asmr-titles-to-try-out-for-2024/"><u>Unleash Calmness ASMR Titles to Try Out for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/wave-goodbye-to-windows-chrome-glitches-the-definitive-fix/"><u>Wave Goodbye to Windows Chrome Glitches: The Definitive Fix</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
 </ul></div>
 

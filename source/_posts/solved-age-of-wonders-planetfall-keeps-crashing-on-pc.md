@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Age of Wonders: Planetfall Keeps Crashing on PC"
-date: 2024-09-15T21:32:20.317Z
-updated: 2024-09-16T23:00:08.396Z
+date: 2024-10-01T17:10:05.308Z
+updated: 2024-10-08T18:07:00.409Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ _Halo 3 Minimum System Requirements_
 
  If your computer meets these requirements but still Halo 3 doesn’t launch properly, try the methods below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Stop apps from running in the background
 
  Generally, the game crashes because it’s running out of memory or overheating. So to save data usage and system resources, you can stop some apps from running in the background by following these steps:
@@ -95,13 +102,6 @@ _Halo 3 Minimum System Requirements_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Update your video card drivers
 
  A range of gaming problems such as crashing and freezing is caused by a wrong, faulty, or outdated graphics driver. Halo 3 is no exception. To enjoy smooth gameplay, you should always keep your graphics driver up to date.
@@ -124,24 +124,18 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and launch Halo3 to check if the issue is fixed. If not, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Perform a clean boot
 
@@ -156,16 +150,10 @@ To do so:
 ![msconfig open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Select the**Services** tab.  
@@ -177,9 +165,29 @@ To do so:
   
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Under the**Startup** tab in the Task Manager window, right-click on each**Enabled** Startup item, then click**Disable** . After that, close the window.  
   
 ![perform a clean boot; disable certain item](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-4-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Under the**Startup** tab of System Configuration, click**OK** .  
   
@@ -196,17 +204,18 @@ To do so:
 ![open as an administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-Properties.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Compatibility** tab and click**Run this program as an administrator** . Click**Apply** and**OK** .  
   
 ![run as administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-compatability.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Go to the directory where you installed Halo 3, and run the**.exe** file as administrator as well.  
   
  4) Relaunch Halo 3.  
@@ -214,6 +223,13 @@ To do so:
  If the problem still persists, then try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Install the latest game patch
 
@@ -224,10 +240,10 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7: Verify the integrity of game files
@@ -274,5 +290,26 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-crafted-collections-of-ig-pics/"><u>[New] In 2024, Crafted Collections of IG Pics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/analyzing-flight-performance-in-djis-drone-standard-edition/"><u>Analyzing Flight Performance in DJI's Drone Standard Edition</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/automated-with-cookiebot-enhancing-your-sites-analytics/"><u>Automated with Cookiebot: Enhancing Your Site's Analytics</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-valheim-gameplay-top-strategies-to-resolve-lagging-issues/"><u>Boost Your Valheim Gameplay: Top Strategies to Resolve Lagging Issues</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/vating-audiencvith-effective-thumbnail-sizes-for-2024/"><u>Captivating Audiencvith Effective Thumbnail Sizes for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-the-code-top-strategies-to-resolve-lols-persistent-black-screen-glitch/"><u>Cracking the Code: Top Strategies to Resolve LoL's Persistent Black Screen Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/discover-cod-modern-warfares-new-weapons-and-environments-for-fps-gaming/"><u>Discover COD: Modern Warfare's New Weapons and Environments for FPS Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-game-crashes-a-guide-to-running-dirt-naturally-on-windowsmac/"><u>Fixing Game Crashes - A Guide to Running Dirt Naturally on Windows/Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-silent-skies-solutions-to-skyrims-audio-issues/"><u>Fixing the Silent Skies: Solutions to Skyrim's Audio Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-infinix-smart-7-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Infinix Smart 7 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-audio-booster-apps-to-quicken-playback/"><u>In 2024, Top Audio Booster Apps to Quicken Playback</u></a></li>
+<li><a href="https://win-able.techidaily.com/increase-your-fps-on-tainted-grail-conquest-top-strategies-revealed/"><u>Increase Your FPS on Tainted Grail: Conquest - Top Strategies Revealed</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/leichtes-handling-dvd-dateien-zu-mp4-konvertieren-fur-die-beste-videoklarheit/"><u>Leichtes Handling: DVD-Dateien Zu MP4 Konvertieren Für Die Beste Videoklarheit</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssional-level-editing-at-zero-price-8-exceptional-software-picks-for-2024/"><u>Professional-Level Editing at Zero Price 8 Exceptional Software Picks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-overcome-tfla00ebx-end-of-semester-issue/"><u>Step-by-Step Solutions to Overcome TFLA00ebx End of Semester Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fixes-to-address-dota-2s-valve-anti-cheat-error-of-2022/"><u>The Ultimate Fixes to Address Dota 2'S Valve Anti-Cheat Error of 2022</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-ranking-ipad-models-comprehensive-analysis-by-tech-gurus-zdnet/"><u>Top-Ranking iPad Models : Comprehensive Analysis by Tech Gurus - ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-continuous-outlook-program-failures/"><u>Troubleshooting Steps for Continuous Outlook Program Failures</u></a></li>
+</ul></div>
 

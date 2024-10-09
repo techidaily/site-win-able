@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Phasmophobia VR Malfunctions
-date: 2024-09-25T07:55:02.964Z
-updated: 2024-09-28T09:01:26.652Z
+date: 2024-10-01T18:22:13.367Z
+updated: 2024-10-08T19:12:16.562Z
 tags:
   - win11
   - win10
@@ -41,10 +41,16 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
@@ -65,6 +71,13 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 If Phasmophobia still crashes, move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Delete corrupted game files
 
 Game crashing issues might happen when your game files are corrupted.
@@ -81,16 +94,16 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -124,13 +137,6 @@ If the game still crashes, try the next fix below.
 
 If the crash still occurs, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Lower your graphics settings
 
  If your computer is not powerful enough to handle Phasmophobia, you may run into performance issues from time to time. One workaround for this is lowering your in-game graphics settings.
@@ -142,13 +148,6 @@ If the crash still occurs, go ahead with the next fix.
 3) Turn down everything as low as possible.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Launch the game with DirectX 10
 
@@ -162,26 +161,26 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
@@ -193,6 +192,13 @@ If Phasmophobia crashing issues persist, try the next fix below.
  2) Under the Compatibility tab, check the box next to**Disable fullscreen optimizations** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Apply > OK** .
 
@@ -231,22 +237,19 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unboundscreen-capturing-every-gaming-moment-for-free/"><u>[New] In 2024, UnboundScreen Capturing Every Gaming Moment for FREE</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-simplified-guide-turning-videos-upside-down-with-vlc/"><u>[Updated] Simplified Guide Turning Videos Upside Down with VLC</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-overwatch-game-graphics-driver-problem-solved-for-uninterrupted-action/"><u>Boost Your Overwatch Game: Graphics Driver Problem Solved for Uninterrupted Action</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminating-game-lags-and-stutters-optimizing-naraka-bladepoint-performance/"><u>Eliminating Game Lags and Stutters: Optimizing Naraka: Bladepoint Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-constant-coding-a-complete-mess-modern-warfare-game-crash/"><u>Fixes for Constant Coding a Complete Mess - Modern Warfare Game Crash</u></a></li>
-<li><a href="https://win-blog.techidaily.com/image-rotation-techniques-with-movavi-photo-editor-and-the-second-one-means-easy-guide-for-flipping-and-rotating-images-with-movavi/"><u>Image Rotation Techniques with Movavi Photo Editor, and the Second One Means Easy Guide for Flipping and Rotating Images with Movavi.</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-geforce-rtx-3090-drivers-for-windows-users-free-download-available/"><u>Latest GeForce RTX 3090 Drivers for Windows Users: Free Download Available</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fix-implemented-for-origins-user-login-issue-now-available/"><u>Resolved! Fix Implemented for Origin's User Login Issue - Now Available</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-non-responsive-iphone-mailboxes-effective-strategies-explained/"><u>Resolving Non-Responsive iPhone Mailboxes: Effective Strategies Explained</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-vanished-screen-blackouts/"><u>Solving Vanished Screen Blackouts</u></a></li>
-<li><a href="https://video-capture.techidaily.com/step-by-step-tutorial-uploading-and-linking-vimeo-videos-to-instagram-stories-and-feed/"><u>Step-by-Step Tutorial: Uploading and Linking Vimeo Videos to Instagram Stories & Feed</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-pc-instability-with-nox-player-a-guide-to-preventing-frequent-crashes/"><u>Stop PC Instability with Nox Player: A Guide to Preventing Frequent Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-frame-rate-issues-in-dying-light-2-pc-performance-tips/"><u>Troubleshooting Frame Rate Issues in Dying Light 2: PC Performance Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-black-ops-cold-war-effective-fixes-for-error-code-0xc0000005/"><u>Unlocking Black Ops Cold War: Effective Fixes for 'Error Code 0xC0000005'</u></a></li>
-<li><a href="https://win-able.techidaily.com/watch-dogs-legion-loading-screen-bug-resolved-step-by-step-walkthrough/"><u>Watch Dogs: Legion Loading Screen Bug Resolved – Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exploring-the-neuroscience-of-decision-making-and-its-implications-for-leadership-for-2024/"><u>[New] Exploring the Neuroscience of Decision-Making and Its Implications for Leadership for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-superior-methods-for-silent-video-production/"><u>[Updated] 2024 Approved Superior Methods for Silent Video Production</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-v27-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo V27</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/advance-your-vimeo-video-speed-for-2024/"><u>Advance Your Vimeo Video Speed for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-4-stability-improvements-overcoming-pc-performance-hiccups/"><u>Forza Horizon 4 Stability Improvements - Overcoming PC Performance Hiccups</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-restoring-functionality-of-malfunctioned-radeon-driver-installation/"><u>Guide to Restoring Functionality of Malfunctioned Radeon Driver Installation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-honor-magic-vs-2mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Honor Magic Vs 2Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-pop-8-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Pop 8 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-zoom-for-podcast-recordings-a-step-by-step-guide-for-2024/"><u>Mastering Zoom for Podcast Recordings A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-lag-solved-how-updating-your-graphic-card-drivers-can-help/"><u>Minecraft Lag Solved? How Updating Your Graphic Card Drivers Can Help</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/navigating-new-norms-metaverse-marketing-101/"><u>Navigating New Norms Metaverse Marketing 101</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-delays-and-slowdowns-effective-fixes-for-latency-issues-in-dying-light/"><u>Overcome Delays and Slowdowns: Effective Fixes for Latency Issues in 'Dying Light'</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-solving-common-halo-infinite-sound-issues/"><u>Ultimate Guide: Solving Common Halo Infinite Sound Issues</u></a></li>
 </ul></div>
 

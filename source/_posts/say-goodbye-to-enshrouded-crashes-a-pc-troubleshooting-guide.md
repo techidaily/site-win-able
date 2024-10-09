@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Enshrouded Crashes - A PC Troubleshooting Guide
-date: 2024-09-13T22:51:05.820Z
-updated: 2024-09-16T22:35:29.692Z
+date: 2024-10-04T23:13:30.006Z
+updated: 2024-10-08T20:09:10.031Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 4. **[Close CPU / memory hogging applications](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify integrity of game files
 
  One common cause of the Arcadegeddon crashing issue is the corrupted game files. If it’s the case, you just need to repiar the corrupted game files.
@@ -67,15 +74,22 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-4. Restart your PC for the changes to take effect.
-
-**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
   <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+4. Restart your PC for the changes to take effect.
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
@@ -87,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
  Launch Arcadegeddon again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Close CPU / memory hogging applications
@@ -120,33 +134,20 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and run Arcadegeddon to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
@@ -178,5 +179,22 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-step-by-step-guide-to-record-online-video-calls/"><u>[New] Step-by-Step Guide to Record Online Video Calls</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-critical-examination-of-the-netgear-ac1200-powerline-adapter-is-heavier-design-sacrificing-data-transfer-velocity/"><u>A Critical Examination of the Netgear AC1200 Powerline Adapter – Is Heavier Design Sacrificing Data Transfer Velocity?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-in-class-steadicam-equipment-for-drone-cinematography/"><u>Best-in-Class Steadicam Equipment for Drone Cinematography</u></a></li>
+<li><a href="https://win-forum.techidaily.com/confirming-your-windows-11-powershell-version-with-ease-a-comprehensive-tutorial/"><u>Confirming Your Windows 11 PowerShell Version with Ease - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-magic-5-lite-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor Magic 5 Lite in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-debug-call-of-duty-modern-warfares-error-6034-on-both-pc-and-xbox-systems/"><u>How to Debug Call of Duty: Modern Warfare's Error 6034 on Both PC and Xbox Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-borderlands-3-ls-0013-error/"><u>How To Fix Borderlands 3 LS-0013 Error</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-se-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone SE Lock Screen with Notifications?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-league-of-legends-server-connection-woes/"><u>How to Overcome League of Legends Server Connection Woes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-online-passport-photography-our-top-picks-for-2024/"><u>Mastering the Art of Online Passport Photography - Our Top Picks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-wont-load-master-hacks-to-get-past-persistent-start-up-problems/"><u>Minecraft Won't Load? Master Hacks to Get Past Persistent Start-Up Problems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/must-haves-elevating-the-standard-of-chatgpt-plugin-shop/"><u>Must-Haves: Elevating the Standard of ChatGPT Plugin Shop</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-strategies-to-eradicate-flashing-screens-in-chrome-on-windows-systems-a-top-guide/"><u>Step-by-Step Strategies to Eradicate Flashing Screens in Chrome on Windows Systems: A Top Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-the-mystery-behind-fluctuating-frame-rates-solutions-and-tips/"><u>Unraveling the Mystery Behind Fluctuating Frame Rates: Solutions and Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-new-horizons-in-technology-the-toms-hardware-way/"><u>Unveiling New Horizons in Technology - The Tom's Hardware Way</u></a></li>
+</ul></div>
 

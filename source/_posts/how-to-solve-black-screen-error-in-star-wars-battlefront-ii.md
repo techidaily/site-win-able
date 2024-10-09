@@ -1,7 +1,7 @@
 ---
 title: How to Solve Black Screen Error in Star Wars Battlefront II
-date: 2024-09-13T16:16:55.418Z
-updated: 2024-09-16T21:22:41.032Z
+date: 2024-10-03T23:27:15.931Z
+updated: 2024-10-08T18:06:38.418Z
 tags:
   - win11
   - win10
@@ -45,22 +45,37 @@ There’re things you can do before trying complicated fixes:
 2. Right-click on the shortcut and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click **Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Install Windows updates
@@ -73,13 +88,6 @@ If it’s not working, move to the next fix.
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this didn’t solve your problems, read on for further troubleshooting.
 
@@ -101,6 +109,19 @@ If it’s not working, move to the next fix.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
@@ -126,5 +147,21 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-your-youtube-presence-with-masterful-editing-skills/"><u>[New] In 2024, Elevate Your YouTube Presence with Masterful Editing Skills</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-zoom-discussion-essential-tactics-for-virtual-conversations/"><u>[New] Mastering Zoom Discussion Essential Tactics for Virtual Conversations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-transform-your-screen-pip-tutorials-for-macos-enthusiasts/"><u>[Updated] In 2024, Transform Your Screen PIP Tutorials for macOS Enthusiasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-obs-for-android-streaming/"><u>[Updated] Mastering OBS for Android Streaming</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-mastering-snapchat-enhancing-images-and-videos-for-2024/"><u>[Updated] Mastering Snapchat Enhancing Images & Videos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-valheim-experience-top-strategies-for-resolving-low-fps-2024-edition/"><u>Boost Your Valheim Experience: Top Strategies for Resolving Low FPS - 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-for-the-persistent-black-screen-when-bootinng-up-overwatch/"><u>Expert Tips and Fixes for the Persistent Black Screen when Bootinng Up Overwatch</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-resolving-steam-login-issues-a-comprehensive-guide/"><u>Fixes for Resolving Steam Login Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-dreamlight-valley-pc-game-crashes-a-comprehensive-guide/"><u>How To Prevent Dreamlight Valley PC Game Crashes - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimization-tips-to-prevent-horizon-forbidden-west-from-freezing-and-crashing/"><u>Optimization Tips to Prevent 'Horizon Forbidden West' From Freezing and Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-violated-security-protocols-error-in-games-a-guide/"><u>Overcoming the 'Violated Security Protocols' Error in Games - A Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-crashes-with-latest-patch-for-diablo-2-resurrected/"><u>Say Goodbye to Crashes with Latest Patch for Diablo 2: Resurrected</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/transformative-english-learning-using-mondly-strategies/"><u>Transformative English Learning Using Mondly Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-significant-savings-with-a-20-discount-on-drivereasy-get-your-code-today/"><u>Unlock Significant Savings with a 20% Discount on DRIVEREasy - Get Your Code Today</u></a></li>
+</ul></div>
 

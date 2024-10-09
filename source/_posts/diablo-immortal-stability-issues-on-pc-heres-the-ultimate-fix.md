@@ -1,7 +1,7 @@
 ---
 title: Diablo Immortal Stability Issues on PC? Here's the Ultimate Fix
-date: 2024-09-15T17:49:49.759Z
-updated: 2024-09-16T16:07:27.519Z
+date: 2024-10-01T21:08:39.413Z
+updated: 2024-10-08T19:54:01.761Z
 tags:
   - win11
   - win10
@@ -35,6 +35,19 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 5. [**Scan and repair game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Disable Discord overlay](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Unplug peripherals
 
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
@@ -50,16 +63,16 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Rename the game folder
 
@@ -72,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
@@ -93,7 +106,21 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair game files
 
@@ -105,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 3. Click**Begin Scan** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
 
 ### Fix 6 – Disable Discord overlay
@@ -122,13 +142,6 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 2. Click the**gear icon** in the lower-left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
@@ -154,5 +167,26 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-breakdown-of-steps-perfecting-idevice-video-features-on-youtube/"><u>[New] Breakdown of Steps Perfecting iDevice Video Features on YouTube</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-easy-ways-to-make-a-great-educational-video-for-youtube/"><u>[New] Easy Ways to Make a Great Educational Video for YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-tech-tips-streamlining-your-overwatch-video-recordings-for-2024/"><u>[New] Tech Tips Streamlining Your Overwatch Video Recordings for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003369669-solved-evil-genius-2-wont-launch/"><u>[Solved] Evil Genius 2 Won’t Launch</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-binge-your-way-into-animated-gifs-turning-youtube-content-without-downloads/"><u>[Updated] In 2024, Binge Your Way Into Animated Gifs Turning YouTube Content Without Downloads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-reclaim-your-social-space-after-a-hack-for-2024/"><u>[Updated] Reclaim Your Social Space After a Hack for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/arcadegeddon-no-more-solutions-to-common-pc-stability-problems/"><u>Arcadegeddon No More: Solutions to Common PC Stability Problems</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-v27-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo V27 Pro Quickly | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-disco-elysium-unresponsive-on-pc-a-step-by-step-guide/"><u>Fixing the 'Disco Elysium Unresponsive on PC': A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-fallout-3-breaks-or-freezes-in-windows-11-a-step-by-step-guide/"><u>How to Fix 'Fallout 3' Breaks or Freezes in Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-dota-underlord-from-constant-crashing-solutions-explored/"><u>How to Stop Dota Underlord From Constant Crashing - Solutions Explored</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oppo-a1x-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Oppo A1x 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-expert-advice-on-preventing-horizon-forbidden-west-crashes-on-windows-systems/"><u>Mastering Stability: Expert Advice on Preventing 'Horizon Forbidden West' Crashes on Windows Systems</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-lipsync-lite-top-picks-for-cost-free-audio-conversion-on-your-smartphone-and-tablet/"><u>New 2024 Approved LipSync Lite Top Picks for Cost-Free Audio Conversion on Your Smartphone & Tablet</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-for-continuous-freezing-in-pathfinder-wrath-of-the-righteous/"><u>Solution Found for Continuous Freezing in Pathfinder: Wrath of the Righteous</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-battlefield-5-stutter-effective-techniques/"><u>Solving the Battlefield 5 Stutter: Effective Techniques</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-poco-c50-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Poco C50 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-smooth-play-in-csgo-fixing-fps-drops-effortlessly/"><u>Troubleshooting Tips for Smooth Play in CS:GO – Fixing FPS Drops Effortlessly</u></a></li>
+</ul></div>
 

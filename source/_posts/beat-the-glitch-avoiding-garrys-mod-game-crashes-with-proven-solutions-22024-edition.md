@@ -1,7 +1,7 @@
 ---
 title: "Beat the Glitch: Avoiding Garry's Mod Game Crashes with Proven Solutions (2^2024 Edition)"
-date: 2024-09-09T17:22:22.121Z
-updated: 2024-09-16T17:16:19.843Z
+date: 2024-10-06T18:43:17.368Z
+updated: 2024-10-08T22:56:24.932Z
 tags:
   - win11
   - win10
@@ -47,9 +47,24 @@ _A screenshot of Aliens: Fireteam Elite from Steam_
 1. Go to[the DirectX End-User Runtime Web Installer page](https://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=35) and click the download button to download the latest DirectX files to your PC.  
 ![download latest DirectX files](https://images.drivereasy.com/wp-content/uploads/2021/09/download-latest-DirectX-files.jpg)
 2. Once downloaded, double-click the dxwebsetup.exe file to install the latest version of DirectX files.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Go to[the latest supported Visual C++ downloads page](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) to download the latest Visual C++ files.  
 ![download the latest Visual C++ files](https://images.drivereasy.com/wp-content/uploads/2021/09/download-the-latest-Visual-C-files.jpg)  
  _Note: Select “x64” if you’re running on a 64-bit Windows OS._
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Once downloaded, double-click the .exe file to install the latest version of Visual C++ files.
 
@@ -78,6 +93,13 @@ _A screenshot of Aliens: Fireteam Elite from Steam_
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Verify and repair the game files
 
  Corrupted game files would lead to game crashing issues. If it’s the case, follow the steps below to verify the game files in Steam:
@@ -88,10 +110,10 @@ _A screenshot of Aliens: Fireteam Elite from Steam_
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
@@ -108,13 +130,6 @@ _A screenshot of Aliens: Fireteam Elite from Steam_
 
  Launch Aliens: Fireteam Elite again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Disable steam overlay
 
  Overlays are handy, but sometimes they may interfere with the game. Some PC gamers report that it seems that the Steam Overlay doesn’t pair well with the game.
@@ -127,9 +142,23 @@ _A screenshot of Aliens: Fireteam Elite from Steam_
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re using other apps with overlay features like Nvidia GeForce Experience, Discord, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch_Aliens: Fireteam Elite_ and see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Disable real-time protection from your antivirus software
 
@@ -140,13 +169,6 @@ _A screenshot of Aliens: Fireteam Elite from Steam_
  Run Aliens: Fireteam Elite and check if this issue persists after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix to perform a clean boot.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Run the System File Checker
 
@@ -175,31 +197,32 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Restart** your PC and launch Aliens: Fireteam Elite to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -233,5 +256,26 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-50-free-youtube-banners-come-see-them-all/"><u>[New] 2024 Approved 50 FREE YouTube Banners - Come See Them All</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-power-players-in-flight-the-drone-heavylifting-leaders/"><u>[New] 2024 Approved Power Players in Flight The Drone Heavylifting Leaders</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-leading-asmr-content-on-the-web/"><u>[New] Leading ASMR Content on the Web</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-jumping-from-sdr-to-hdr-the-ultimate-transformation-guide/"><u>[Updated] Jumping From SDR to HDR The Ultimate Transformation Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-the-power-of-hashtags-on-instagram-now/"><u>[Updated] Mastering the Power of #Hashtags on Instagram Now</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-navigate-to-these-10-online-havens-showcasing-striking-3d-texts-for-2024/"><u>[Updated] Navigate to These 10 Online Havens Showcasing Striking 3D Texts for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/arise-epic-unraveled-mastering-ue4-and-eliminating-deadly-glitches/"><u>Arise Epic Unraveled: Mastering UE4 and Eliminating Deadly Glitches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertir-archivos-mef-gratis-al-formato-jpg-en-linea-con-movavi/"><u>Convertir Archivos MEF Gratis Al Formato JPG en Línea Con Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-methods-to-prevent-assassins-creed-unity-glitches-and-crashes-recent-insights/"><u>Effective Methods to Prevent Assassin's Creed Unity Glitches & Crashes – Recent Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-lag-best-fixes-for-smooth-gameplay-in-hogwarts-legacy-2024-edition/"><u>Eliminate Lag: Best Fixes for Smooth Gameplay in Hogwarts Legacy - 2024 Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-review-navigating-the-latest-dvd-to-mkv-converters-for-windows-computers-whats-new/"><u>Expert Review: Navigating the Latest DVD to MKV Converters for Windows Computers - What's New ?</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-red-dead-redemption-2-up-and-running-a-comprehensive-guide/"><u>Getting Red Dead Redemption 2 Up and Running: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977293713-grab-your-gigabyte-auditory-drivers-now-no-cost/"><u>Grab Your Gigabyte Auditory Drivers Now - No Cost!</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-virtualization-enabling-hyper-v-functionality-on-windows-10-devices/"><u>Mastering Virtualization: Enabling Hyper-V Functionality on Windows 10 Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/origin-account-login-error-corrected-secure-access-to-your-profile-restored/"><u>Origin Account Login Error Corrected – Secure Access to Your Profile Restored</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-game-interruptions-a-guide-to-fixing-the-crashes-in-psychonauts-2-for-pc-gamers/"><u>Resolving Game Interruptions: A Guide to Fixing the Crashes in 'Psychonauts 2' For PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-fix-crashes-in-madden-20-on-your-computer-with-ease/"><u>Troubleshoot and Fix Crashes in Madden 20 on Your Computer With Ease</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unique-ideas-for-dynamic-fb-video-marketing-campaigns/"><u>Unique Ideas for Dynamic FB Video Marketing Campaigns</u></a></li>
+<li><a href="https://win-able.techidaily.com/unresolved-issues-with-doom-eternal-release-discover-a-quick-solution/"><u>Unresolved Issues with DOOM Eternal Release? Discover a Quick Solution</u></a></li>
+</ul></div>
 

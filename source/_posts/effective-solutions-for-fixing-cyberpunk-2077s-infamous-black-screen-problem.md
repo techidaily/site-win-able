@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Fixing Cyberpunk 2077’S Infamous Black Screen Problem
-date: 2024-09-25T23:50:51.484Z
-updated: 2024-09-27T19:29:20.088Z
+date: 2024-10-05T20:36:19.097Z
+updated: 2024-10-08T23:39:37.255Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 5. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Close unnecessary background programs
@@ -47,6 +47,13 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ta-1.jpg)
 2. Right-click each application in the list and click**End task** to close them one by one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -72,19 +79,6 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 3. Uncheck the box next to **In-Game Overlay** and click **Ok** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart Cyberpunk 2077 to check whether your CPU maxes out. If the CPU usage remains high while you’re gaming, try the next fix below.
 
 ### Fix 3 – Adjust in-game graphics settings
@@ -95,37 +89,37 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![Cyberpunk 2077 settings](https://images.drivereasy.com/wp-content/uploads/2020/12/navigate-to-in-game-settings.jpg)
 2. Navigate to the**Gameplay** tab. Then, scroll to the Performance section and set**Crowd Density** to**Low** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics-1.jpg)
 3. Go to the**Video** tab.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Under the Advanced section,**turn off Ray Tracing** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/6-3.jpg)
 5. Scroll to**DLSS** and set it to**off** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics-2.jpg)
 
- Relaunch the game to check if the issue persists. If yes, have a look at the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Relaunch the game to check if the issue persists. If yes, have a look at the next fix.
 
 ### Fix 4 – Change the power settings
 
@@ -137,6 +131,14 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-2.jpg)
 3. Choose**Balanced** or**High Performance** mode if you’re facing high CPU usage, then click**Change plan settings** next to your chosen plan.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-3.jpg)
 4. Click**Change advanced power settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-4.jpg)
@@ -144,16 +146,10 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Cyberpunk 2077 to test. If it’s still using too much CPU, continue to the last fix.
@@ -172,19 +168,6 @@ There are two ways you can update the device drivers correctly:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-1-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click**Update** to do it for free, but it’s partly manual.  
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de.jpg)
 
@@ -214,24 +197,18 @@ There are two ways you can update the device drivers correctly:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-smile-station-quick-tips-for-chuckling-creations/"><u>[New] 2024 Approved Smile Station Quick Tips for Chuckling Creations</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-knowledge-for-aspiring-youtube-subscribers-for-2024/"><u>[Updated] Essential Knowledge for Aspiring YouTube Subscribers for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-evaluating-youtubes-monthly-creator-payments/"><u>[Updated] In 2024, Evaluating YouTube's Monthly Creator Payments</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-deciphering-the-world-of-augmented-reality-stickers-googles-role/"><u>2024 Approved Deciphering the World of Augmented Reality Stickers Google's Role</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-the-basics-of-motion-design/"><u>2024 Approved Understanding the Basics of Motion Design</u></a></li>
-<li><a href="https://win-able.techidaily.com/continuous-freezing-issues-resolved-in-the-renamed-new-world/"><u>Continuous Freezing Issues Resolved in the Renamed 'New World'</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-y78plus-t1-edition-by-drfone-android/"><u>How to Bypass FRP on Vivo Y78+ (T1) Edition?</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-find-x7-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo Find X7 Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-smooth-gameplay-fix-high-ping-and-lag-for-a-winning-csgo-match/"><u>Master Smooth Gameplay: Fix High Ping & Lag for a Winning CS:GO Match</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-art-of-game-stability-tackling-robocop-rupture-city-crashes-on-pc/"><u>Mastering the Art of Game Stability: Tackling 'RoboCop: Rupture City' Crashes on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-game-crashes-a-step-by-step-guide-for-a-smooth-run-of-genshin-impact/"><u>Resolving Game Crashes: A Step-by-Step Guide for a Smooth Run of Genshin Impact</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-error-0xc19001e1-on-windows-11-step-by-step-troubleshooting-guide/"><u>Resolving the 'Error 0xC19001E1' On Windows 11: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-dolby-atmos-issues-a-guide-for-windows-11-and-10-users/"><u>Solving Dolby Atmos Issues: A Guide for Windows 11 & 10 Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722995147181-tf2-wont-start-here-are-the-solutions/"><u>TF2 Won't Start? Here Are the Solutions!</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-lone-pairs-on-heteroatoms-may-not-participate-in-resonance-affecting-the-electron-delocalization-and-properties-of-the-molec-student-what-are-the-charac354/"><u>The Lone Pairs on Heteroatoms May Not Participate in Resonance, Affecting the Electron Delocalization and Properties of the Molec [Student]: What Are the Characteristics of a Mortgage?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-mobile-signal-enhancers/"><u>Top Rated Mobile Signal Enhancers</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-r6x-game-crashes-on-your-windows-desktop/"><u>Troubleshooting Guide: Fixing R6X Game Crashes on Your Windows Desktop</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-dead-space-remake-successful-startup-guide/"><u>Troubleshooting the Dead Space Remake: Successful Startup Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-virtual-reality-archivists-handbook-for-game-recordings/"><u>[New] The Virtual Reality Archivist's Handbook for Game Recordings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unmatched-mounting-best-tripod-solutions-for-smartphones-for-2024/"><u>[New] Unmatched Mounting Best Tripod Solutions for Smartphones for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/age-of-empires-ii-windows-10-compatibility-fixed-start-playing-without-hitches/"><u>Age of Empires II Windows 10 Compatibility Fixed - Start Playing Without Hitches</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/freefire-youtube-hashtags-and-tips-for-youtube-gaming-videos/"><u>Best FreeFire YouTube Hashtags and Tips For YouTube Gaming Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722986589881-cyberpunk-2077-overcome-freezing-issue-optimization-success/"><u>Cyberpunk 2077 Overcome Freezing Issue - Optimization Success</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-itel-p40plus-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Itel P40+ Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-addressing-the-limited-storage-problem-in-god-of-war-game/"><u>Resolved: Addressing the Limited Storage Problem in God of War Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/revive-your-mozilla-experience-8-key-fixes-for-when-firefox-stalls/"><u>Revive Your Mozilla Experience: 8 Key Fixes for When Firefox Stalls</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/rhythmic-reactions-10-mobile-music-rippers-for-2024/"><u>Rhythmic Reactions 10 Mobile Music Rippers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-mystery-of-unlisted-content-on-youtube-explored-for-2024/"><u>The Mystery of Unlisted Content on YouTube Explored for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unfolding-the-tapestry-of-mixed-reality-experiences/"><u>Unfolding the Tapestry of Mixed Reality Experiences</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-methods-to-track-your-youtube-video-audience/"><u>Unveiling the Methods to Track Your YouTube Video Audience</u></a></li>
 </ul></div>
 

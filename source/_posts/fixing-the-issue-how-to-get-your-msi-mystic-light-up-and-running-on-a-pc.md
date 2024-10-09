@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Get Your MSI Mystic Light Up and Running on a PC"
-date: 2024-09-11T23:26:15.060Z
-updated: 2024-09-16T20:02:58.506Z
+date: 2024-10-07T16:20:52.664Z
+updated: 2024-10-08T21:32:02.913Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ Here’s how to restart it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
 
 3. Plug the network devices back in again and wait until the indicator lights are back to the normal state.
@@ -65,23 +72,17 @@ Here’s how to restart it:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-scan-now-11.jpg)
 3. Click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or, you can click the Update button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/06/de-uodate-all.jpg)
 
 **The Pro version of Driver Easy**  comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3 Change your DNS settings
 
@@ -93,6 +94,14 @@ To fix this, you can try using Google Public DNS. Here’s how:
 2. Type “ncpa.cpl” and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-386.png)
 3. Right click your Internet connection (**Ethernet** for wired connection or **Wi-Fi** for wireless), then select **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-387.png)
 4. Double click **Internet Protocol Version 4 (TCP/IPv4)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-388.png)
@@ -105,10 +114,10 @@ To fix this, you can try using Google Public DNS. Here’s how:
  Now check to see if this helps you load Twitch streams. If yes, then congrats! If the black screen persists, please try Fix 4, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4 Clear cache and cookies
@@ -127,6 +136,13 @@ Clear cache and cookies in Google Chrome:
 
 5. Open Twitch and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with **Fix 5** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5 Disable browser extensions
 
  Ad blockers and other browser extensions can interfere with Twitch’s functionality and cause streams not to load. Disabling them temporarily can help resolve the issue. Follow the steps below to disable ad blockers and extensions in Google Chrome:
@@ -135,13 +151,6 @@ Clear cache and cookies in Google Chrome:
 2. In the top right corner of your screen, click the **three-vertical-dots** icon > **More tools > Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/extensions.jpg)
 3. Disable any ad blockers or extensions that you have installed by clicking the toggle switch next to them.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart Google Chrome. If disabling browser extensions doesn’t help with the situation, please try the next fix, below.
 
@@ -158,14 +167,20 @@ Here’s how to use it:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/nordvpn-pc.jpg)
 3. Check to see if you can open the website without problems this time. If yes, then you’ve worked around the issue. If no, please head on to Fix 7, below.
 
- NordVPN’s**30-day money-back guarantee** allows you to test run the service for as long as 30 days – if you’re not 100% satisfied, refund anyway.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ NordVPN’s**30-day money-back guarantee** allows you to test run the service for as long as 30 days – if you’re not 100% satisfied, refund anyway.
 
 ## Fix 7 Launch in safe mode
 
@@ -173,22 +188,31 @@ Here’s how to use it:
 
 1. Press **Win** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) **+R** keys to open the **Run** dialog.
 2. Type “**msconfig** ” in the search box and press Enter to open **System Configuration** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
-3. Click the **Boot** tab, enable **Safe Boot** and the**Network** option, and then click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2023/08/safe-mode.jpg)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
+3. Click the **Boot** tab, enable **Safe Boot** and the**Network** option, and then click**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/08/safe-mode.jpg)
 
  Hopefully you can fix Twitch streams not loading with the methods above. If you have any questions, ideas or suggestions, feel free to leave your comments below.
 
@@ -205,5 +229,26 @@ Here’s how to use it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-expertly-curated-9-best-video-conferencing-software-for-smartphones-and-tablets/"><u>[New] In 2024, Expertly Curated 9 Best Video Conferencing Software for Smartphones & Tablets</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-ultimate-guide-to-best-youtube-banner-size-and-channel-art-dimension/"><u>2024 Approved Ultimate Guide to Best YouTube Banner Size and Channel Art Dimension</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-websites-performance-using-innovative-cookiebot-features/"><u>Boost Your Website's Performance Using Innovative Cookiebot Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-rainbow-six-extraction-experience-by-improving-frame-rate-drops/"><u>Enhancing Rainbow Six Extraction Experience by Improving Frame Rate Drops</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-resolving-cs2-game-crash-issues-on-your-pc/"><u>Fixes & Solutions: Resolving CS2 Game Crash Issues on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-prevent-and-solve-pc-issues-with-red-dead-redemption-2/"><u>Guide to Prevent and Solve PC Issues with 'Red Dead Redemption 2'</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-essential-iospc-video-changers-the-ultimate-list/"><u>In 2024, Essential iOS/PC Video Changers The Ultimate List</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-download-master-the-art-of-zebra-gk420d-controls/"><u>Instant Download: Master the Art of Zebra GK420D Controls</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pro-photography-on-iphone-essential-apps-compilation/"><u>Pro Photography on iPhone Essential Apps Compilation</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-instability-problems-a-guide-to-fixing-gas-station-tycoons-crashes-on-desktop-computers/"><u>Solving Instability Problems: A Guide to Fixing Gas Station Tycoon's Crashes on Desktop Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-how-to-get-roblox-running-expert-strategies/"><u>Solving the Issue: How to Get Roblox Running - Expert Strategies</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-photo-repair-instant-purchase-guide/"><u>Stellar Photo Repair: Instant Purchase Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/step-by-step-hp-laptop-screen-recording-explained-for-2024/"><u>Step-by-Step HP Laptop Screen Recording Explained for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-eradicate-stuttering-in-your-pc-fortnite-battles-today/"><u>Troubleshooting Guide: Eradicate Stuttering in Your PC Fortnite Battles Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-repair-error-code-0x803f8001-in-your-minecraft-launcher-windows/"><u>Troubleshooting Guide: How to Repair Error Code 0X803f8001 in Your Minecraft Launcher (Windows)</u></a></li>
+<li><a href="https://win-able.techidaily.com/ubisoft-game-maintenance-essential-troubleshooting-tips-for-a-flawless-assassins-creed-mirage-experience/"><u>Ubisoft Game Maintenance: Essential Troubleshooting Tips for a Flawless Assassin's Creed Mirage Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-step-by-step-fixes-for-ps4-system-freezes/"><u>Ultimate Guide: Step-by-Step Fixes for PS4 System Freezes</u></a></li>
+</ul></div>
 

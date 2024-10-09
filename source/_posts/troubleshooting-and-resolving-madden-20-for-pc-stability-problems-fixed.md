@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Resolving Madden 20 for PC Stability Problems [FIXED]
-date: 2024-09-21T23:09:36.268Z
-updated: 2024-09-28T06:05:48.707Z
+date: 2024-10-06T21:28:17.923Z
+updated: 2024-10-08T16:05:58.714Z
 tags:
   - win11
   - win10
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
  If Genshin Impact crashes on your high-end gaming PC, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Genshin Impact as administrator
 
  Genshin Impact crashing to desktop may indicate a permission issue.**Running Genshin Impact as an administrator** is a possible solution to the crash.
@@ -72,8 +65,29 @@ Here’s how:
 2. Right-click**GenshinImpact.exe** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-admin-02.jpg)
 3. Navigate to the**Compatibility** tab. Under the**Settings** section, check the boxes next to**Disable fullscreen optimizations** (if you’re on Windows 10) and**Run this program as an administrator** . Click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-admin-3.jpg)
 4. Run Genshin Impact and see if the crash has gone.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this fix failed to solve the crash, simply**undo these changes** and move on to the next solution.
 
@@ -90,13 +104,6 @@ Here’s how:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and see if Genshin Impact crashes again.
@@ -111,25 +118,25 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
@@ -160,6 +167,14 @@ Here’s how you can install system updates on Windows 10 or 7:
 1. On your keyboard, press the**Windows logo key** . Select**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates.jpg)
 2. Select**System and Security** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-3.jpg)
 3. Click**Windows Update** .  
 
@@ -168,15 +183,34 @@ Here’s how you can install system updates on Windows 10 or 7:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After installing all the system updates, restart your PC and test the gameplay with Genshin Impact.
 
  If this method doesn’t solve your case, simply check out the next one.
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Change in-game resolution
 
@@ -200,13 +234,6 @@ And just for your reference, here’s my graphics settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-my-settings-1200x648.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the crash persists when you’re playing on the lowest graphics, you can check out the next solution.
 
 ### Fix 8: Run Genshin Impact on another GPU
@@ -226,17 +253,18 @@ And just for your reference, here’s my graphics settings:
 2. Under the**Multiple displays** section, click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click**Browse** to specify the file location of the Genshin Impact launcher.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-3.jpg)
 4. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. Select**Power saving** and click**Save** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-5.jpg)
 
@@ -252,13 +280,6 @@ Now you can launch Genshin Impact and see if it stops crashing.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -283,21 +304,19 @@ Now you can launch Genshin Impact and see if it stops crashing.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-mycam-vs-others-a-comparative-camera-performance-study/"><u>[New] MyCam Vs. Others A Comparative Camera Performance Study</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-perfectly-suited-8-recommended-tools-for-subtitles-and-srts/"><u>[New] Perfectly Suited 8 Recommended Tools for Subtitles & SRTs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/becoming-a-pro-at-using-zoom-on-win10-systems-for-2024/"><u>Becoming a Pro at Using Zoom on WIN10 Systems for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-the-problem-continuous-running-of-fallout-3-on-windows-11/"><u>Bypassing the Problem: Continuous Running of Fallout 3 on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722999341742-cyberpunk-2077-graphics-optimization-for-windows-11-use-your-gpu/"><u>Cyberpunk 2077 Graphics Optimization for Windows 11 – Use Your GPU!</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-to-prevent-starfield-from-crashing-on-your-windows-computer/"><u>Effective Solutions to Prevent Starfield From Crashing on Your Windows Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-ensure-your-graphics-card-is-utilized-by-call-of-duty-warzone-on-windows-11/"><u>How To Ensure Your Graphics Card Is Utilized by Call of Duty: Warzone on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-the-errgfxd3dinit-graphics-error-in-gta-v/"><u>How to Resolve the ERR_GFX_D3D_INIT Graphics Error in GTA V</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-accessing-the-archives-of-social-media-history-pc-and-mobile-guide/"><u>In 2024, Accessing the Archives of Social Media History PC & Mobile Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-pubg-sounds-simple-tips/"><u>In 2024, Mastering PUBG Sounds Simple Tips</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-transforming-your-facebook-display-photo-quickly/"><u>In 2024, Transforming Your Facebook Display Photo Quickly</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-7-best-real-time-video-translation-apps/"><u>New In 2024, 7 Best Real Time Video Translation Apps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/shot-by-shot-mastering-the-art-of-filmmaking-s-cinema-world/"><u>Shot by Shot Mastering the Art of Filmmaking 'S Cinema World</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixed-pc-issues-with-persona-3-fes-remake/"><u>Troubleshooting Guide: Fixed PC Issues with Persona 3 FES Remake</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/two-ways-to-track-my-boyfriends-apple-iphone-6-plus-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>Two Ways to Track My Boyfriends Apple iPhone 6 Plus without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/wave-goodbye-to-game-crashes-expert-fixes-for-a-smooth-run-of-total-war-warhammer-iii-on-pc/"><u>Wave Goodbye to Game Crashes: Expert Fixes for a Smooth Run of TOTAL WAR: WARHAMMER III on PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-agriplay-squad-top-10-farming-games-to-bond-over/"><u>[New] 2024 Approved AgriPlay Squad Top 10 Farming Games to Bond Over</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-master-the-art-of-live-sound-capture-on-the-internet/"><u>[New] Master the Art of Live Sound Capture on the Internet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-modern-photo-editing-wonders-frame-integration-essentials-2023/"><u>[Updated] 2024 Approved Modern Photo Editing Wonders Frame Integration Essentials, 2023</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-streamlining-your-watch-time-on-instagram-mobiledesktop-for-2024/"><u>[Updated] Streamlining Your Watch Time on Instagram (Mobile/Desktop) for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-free-online-conversion-change-mp4-audio-files-into-high-quality-flac-format-with-movavi/"><u>1. Free Online Conversion: Change MP4 Audio Files Into High-Quality FLAC Format with Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-ps4-freezing-problems-with-these-easy-steps-to-repair-guide/"><u>Banish PS4 Freezing Problems with These Easy Steps to Repair Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-non-responsive-utorrent-a-guide-to-7-quick-fixes/"><u>Dealing with Non-Responsive Utorrent: A Guide to 7 Quick Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-challenges-in-yakuza-like-a-dragon-for-personal-computers/"><u>Defeating Challenges in 'Yakuza: Like a Dragon' For Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-the-non-launch-issue-with-armored-core-vi-the-fires-of-rubicon/"><u>Diagnosing & Repairing the Non-Launch Issue with Armored Core VI: The Fires of Rubicon</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-look-at-the-samsung-galaxy-z-flip-5-a-complete-product-analysis/"><u>Inside Look at the Samsung Galaxy Z Flip 5: A Complete Product Analysis</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/maximizing-reach-tweeting-on-facebook/"><u>Maximizing Reach Tweeting on Facebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-among-us-deadlock-tips-for-escaping-load-loop-troubles/"><u>Overcoming the 'Among Us' Deadlock: Tips for Escaping Load Loop Troubles</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-stop-your-gas-station-simulator-from-crashing-on-pc/"><u>Resolved: How to Stop Your Gas Station Simulator From Crashing on PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/whats-the-average-time-required-for-full-charging-of-an-ev-battery/"><u>What's the Average Time Required for Full Charging of an EV Battery?</u></a></li>
 </ul></div>
 

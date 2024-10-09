@@ -1,7 +1,7 @@
 ---
 title: How to Stop Guilty Gear Strive From Crashing on Your PC - A Step-by-Step Solution
-date: 2024-09-21T17:37:59.480Z
-updated: 2024-09-28T06:04:41.150Z
+date: 2024-10-01T18:04:32.197Z
+updated: 2024-10-08T18:01:22.700Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Disable your microphone for your Forza Horizon 3**
 
  If you’ve enabled your microphone for Forza Horizon 3, it may be the cause of the crash issue. Just disable it to see whether the game will keep crashing or not. Here is how to do it:
@@ -49,21 +56,14 @@ thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/123.png)
 2. **Toggle off** the microphone for Forza Horizon 3.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap14-1.png)
 3. Reboot your Windows system and run the game again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this fix works, your Forza Horizon 3 won’t crash. If not, please try the next fix.
@@ -79,17 +79,18 @@ thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755
 2. Select **Forza Horizon 3**  and click **Advanced options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap18.png)
 3. Click **Reset**  to reset your **Forza Horizon 3** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap20.png)
 4. Launch the game and play it again.
 
  If it won’t crash, you’ve already fixed this annoying issue! If not, there are more solutions below for you to try.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Delete the temporary files of your Forza Horizon 3**
 
@@ -98,6 +99,19 @@ thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open the**Windows Settings** , and then click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap21.png)
 2. Select **Storage**  and click**This PC (C:)** .  
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap22.png)
 3. Click **Temporary files** .  
@@ -132,26 +146,13 @@ thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-3.png)
 3. Click **Update**  next to your graphics card to automatically download the correct version of this driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All**  ).  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap3-2.png)
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have any issue with**Driver Easy** , please contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) for advice. You should attach the URL of this article so they can help you better.
@@ -163,6 +164,13 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 1. On your keyboard, press the **Windows logo key**  and **R**  at the same time to open the Run Dialog. Type **msconfig**  and press **Enter**  to open the   **System Configuration**  window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap266.png)
 2. Select the **Services**  tab, check   **Hide all Microsoft services**  and then click **Disable all**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2.png)
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
@@ -191,13 +199,20 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap2q.png)
 3. Restart your PC when the Windows update process is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this fix works, your game won’t keep crashing again. If not, you may need to reinstall the game to resolve the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 8: Reinstall your Forza Horizon 3**
@@ -210,22 +225,8 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap29.png)
 3. Open the**Store** app. In the search bar, type**Forza Horizon 3**  and click the**Search** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap32.png)
 4. Select the game you purchased before to start installing the game. Launch the game to see if it will still keep crashing. Hopefully, you will be able to resolve this annoying issue by reinstalling the game.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, you can enjoy the game! Please leave your comment below if you have any questions!
 
@@ -247,18 +248,24 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-advanced-techniques-for-audacity-audio-mastery-for-2024/"><u>[Updated] Advanced Techniques for Audacity Audio Mastery for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/decode-and-solve-pc-specific-dark-screen-dilemma-on-zoom-chats-advanced-guide-updated/"><u>Decode and Solve PC-Specific Dark Screen Dilemma on Zoom Chats – Advanced Guide (Updated )</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/frame-it-up-right-expert-approved-photo-editing-software-2023-for-2024/"><u>Frame It Up Right Expert-Approved Photo Editing Software, 2023 for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-realtek-rtl81drivers-for-your-pc-on-windows-107/"><u>Get the Latest Realtek RTL81#Drivers for Your PC on Windows 10/7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-successfully-solving-error-code-0x800f0922-during-windows-11-updates-top-8-fixes/"><u>Guide to Successfully Solving Error Code 0X800f0922 During Windows 11 Updates (Top 8 Fixes)</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-poco-c65-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Poco C65? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ios-leading-video-capture-solutions/"><u>IOS Leading Video Capture Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movavi-convertidor-online-de-mp3-a-mp4-libre-de-tarifas-conversion-sin-coste/"><u>Movavi Convertidor Online De MP3 a MP4 Libre De Tarifas - Conversión Sin Coste</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-pc-issues-resolving-outriders-freezing-and-stuttering/"><u>Troubleshooting PC Issues: Resolving Outriders' Freezing and Stuttering</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-fixing-your-hp-monitor-issues-successfully/"><u>Troubleshooting Tips: Fixing Your HP Monitor Issues Successfully</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncovering-the-hidden-steam-account-code-digit/"><u>Uncovering the Hidden Steam Account Code Digit</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/understanding-the-metaverse-in-contrast-to-multiplemetaverse-explained-guide/"><u>Understanding the Metaverse in Contrast to MultipleMetaverse (Explained Guide)</u></a></li>
-<li><a href="https://win-able.techidaily.com/victory-lap-getting-rocket-league-back-on-track-with-these-fixes/"><u>Victory Lap: Getting Rocket League Back on Track with These Fixes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-easy-effective-and-accurate-method-to-download-fb-gifs-anywhere-for-2024/"><u>[New] Easy, Effective and Accurate Method to Download FB GIFs Anywhere for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-harvest-hits-the-next-level-of-virtual-farms/"><u>[Updated] Harvest Hits The Next Level of Virtual Farms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-expert-iphone-photography-using-hdr/"><u>[Updated] In 2024, Expert iPhone Photography Using HDR</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-unveiling-the-best-skype-recorders-of-this-year/"><u>2024 Approved Unveiling the Best Skype Recorders of This Year</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-study-editmagics-power-edition/"><u>Comprehensive Study EditMagic's Power Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-failed-launch-attempts-of-the-amd-radeon-program-quick-solutions/"><u>Dealing With Failed Launch Attempts of the AMD Radeon Program - Quick Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-troubleshooting-guide-to-fix-call-of-dutys-modern-warfare-pcxbox-dev-6eerror-code-6034/"><u>DIY Troubleshooting Guide to Fix Call of Duty's Modern Warfare (PC/Xbox) DEV-6eError Code 6034</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/elite-defining-video-processor-advanced-hd-conversion-software-solutions/"><u>Elite Defining Video Processor: Advanced HD Conversion Software Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-solving-steam-failed-to-connect-local-process-problems/"><u>Expert Advice on Solving 'Steam Failed to Connect' Local Process Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-hacks-overcoming-the-rust-not-responding-issue/"><u>Fixes and Hacks: Overcoming the 'Rust Not Responding' Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-deadly-steamuidll-missing-file-warning-for-smooth-gaming/"><u>Fixing the Deadly 'steamui.dll Missing File' Warning for Smooth Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-unexpected-shutdowns-in-grand-theft-auto-5/"><u>How To Address Unexpected Shutdowns in Grand Theft Auto 5</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-camera-functionality-during-a-google-meet-conference-call/"><u>How to Restore Camera Functionality During a Google Meet Conference Call</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-realme-11x-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Realme 11X 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-error-correction-in-rainbow-six-siege-tackling-code-103003/"><u>Mastering Error Correction in Rainbow Six Siege: Tackling Code 103003</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gaming-ahead-no-more-crashing-escape-from-tarkov-on-your-pc/"><u>Smooth Gaming Ahead: No More Crashing 'Escape From Tarkov' On Your PC</u></a></li>
 </ul></div>
 

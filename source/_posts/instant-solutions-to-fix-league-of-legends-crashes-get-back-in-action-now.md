@@ -1,7 +1,7 @@
 ---
 title: Instant Solutions to Fix League of Legends Crashes – Get Back in Action Now
-date: 2024-09-30T16:27:31.437Z
-updated: 2024-10-03T17:09:56.587Z
+date: 2024-10-04T20:32:44.078Z
+updated: 2024-10-08T16:48:41.106Z
 tags:
   - win11
   - win10
@@ -87,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -112,22 +105,15 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
@@ -146,28 +132,41 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
@@ -181,6 +180,13 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -208,16 +214,22 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-red-dead-redemption-2-stuck-on-loading-screen/"><u>[Solved] Red Dead Redemption 2 Stuck on Loading Screen</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-elevating-your-digital-presence-best-vocal-tweakers-for-vtubers-for-2024/"><u>[Updated] Elevating Your Digital Presence Best Vocal Tweakers for VTubers for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-tecno-pova-5-unlock-without-password-by-drfone-android/"><u>5 Solutions For Tecno Pova 5 Unlock Without Password</u></a></li>
-<li><a href="https://win-able.techidaily.com/a-comprehensive-guide-to-overcoming-the-notorious-superpeople-bug/"><u>A Comprehensive Guide to Overcoming the Notorious 'Superpeople Bug'</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-printer-disconnection-on-windows-11-devices/"><u>Addressing Printer Disconnection on Windows 11 Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/common-solutions-for-thunder-tier-ones-stability-issues-when-played-on-a-computer/"><u>Common Solutions for Thunder Tier One's Stability Issues When Played on a Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-tricks-for-utilizing-the-measure-feature-on-android-phones-effectively/"><u>Essential Tricks for Utilizing the Measure Feature on Android Phones Effectively</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/mastering-video-format-change-transforming-veg-into-mp4-in-sony-vegas-pro/"><u>Mastering Video Format Change: Transforming VEG Into MP4 in Sony Vegas Pro</u></a></li>
-<li><a href="https://win-premium.techidaily.com/microsoft-to-implement-significant-security-enhancements-following-severe-criticism-insights-from-zdnet/"><u>Microsoft to Implement Significant Security Enhancements Following Severe Criticism - Insights From ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-playstations-problem-the-trouble-with-starting-outriders/"><u>Solving PlayStation's Problem: The Trouble with Starting Outriders</u></a></li>
-<li><a href="https://win-able.techidaily.com/tech-tip-fixing-mysterious-shade-caused-disruptions-in-pc-gaming/"><u>Tech Tip: Fixing Mysterious Shade-Caused Disruptions in PC Gaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-from-twitter-videosyoutube-songs-to-scribbled-mp3-files/"><u>[New] Step-by-Step From Twitter Videos/YouTube Songs to Scribbled MP3 Files</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-streamlined-techniques-for-capturing-stories-on-instagram-for-2024/"><u>[Updated] Streamlined Techniques for Capturing Stories on Instagram for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-fixes-for-non-functioning-ringtones-across-ios-and-android-devices/"><u>Essential Fixes for Non-Functioning Ringtones Across iOS and Android Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/future-visions-10-sci-fi-metaverse-movies-explore-worlds-anew-for-2024/"><u>Future Visions 10 Sci-Fi Metaverse Movies Explore Worlds Anew for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-forza-horizon-4-running-perfectly-pro-tips-for-dealing-with-launch-difficulties/"><u>Get Forza Horizon 4 Running Perfectly: Pro Tips for Dealing with Launch Difficulties</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-cant-display-page-errors-on-chrome-for-easy-browsing/"><u>How to Overcome 'Can’t Display Page' Errors on Chrome for Easy Browsing</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-game-crash-issues-with-nba-2k21-on-windows-computers/"><u>How to Overcome Game Crash Issues with NBA 2K21 on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-praeys-for-the-gods-from-continuously-crashing-on-your-computer/"><u>How to Stop Praeys for the Gods From Continuously Crashing on Your Computer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-poco-x6-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Poco X6 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-motorola-moto-e13-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Motorola Moto E13 Phone?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instantaneously-combine-photos-into-facebook-stories/"><u>In 2024, Instantaneously Combine Photos Into Facebook Stories</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-art-of-quick-repairs-for-apex-legends-load-failures-top-techniques-inside/"><u>Master the Art of Quick Repairs for Apex Legends Load Failures - Top Techniques Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-these-techniques-to-repair-relink-functionality-and-enjoy-granblue-fantasy-without-glitches/"><u>Master These Techniques to Repair 'Relink' Functionality and Enjoy Granblue Fantasy Without Glitches!</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-troubleshooting-techniques-for-unresponsive-discord-applications/"><u>Mastering Troubleshooting Techniques for Unresponsive Discord Applications</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-issues-how-to-fix-oculus-graphics-driver-errors/"><u>Resolving Issues: How to Fix Oculus Graphics Driver Errors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/shorts-fixed-ready-to-stream-and-share-for-2024/"><u>Shorts Fixed - Ready to Stream and Share for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-bless-unleashed-latency-issues-effective-ways-to-reduce-lag-and-improve-your-gaming-experience/"><u>Solving Bless Unleashed Latency Issues: Effective Ways to Reduce Lag and Improve Your Gaming Experience</u></a></li>
 </ul></div>
 

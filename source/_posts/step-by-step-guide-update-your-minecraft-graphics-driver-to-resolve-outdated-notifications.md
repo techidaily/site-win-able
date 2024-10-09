@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Update Your Minecraft Graphics Driver to Resolve 'Outdated' Notifications"
-date: 2024-10-02T16:07:41.215Z
-updated: 2024-10-03T16:42:22.970Z
+date: 2024-10-04T17:00:11.549Z
+updated: 2024-10-08T18:17:10.002Z
 tags:
   - win11
   - win10
@@ -45,8 +45,23 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -68,20 +83,13 @@ You can use the following steps to check for Minecraft updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-1.jpg)
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Java edition
@@ -95,6 +103,14 @@ You can use the following steps to check for Minecraft updates.
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -102,13 +118,6 @@ You can use the following steps to check for Minecraft updates.
  Once you’ve installed all system updates, restart your PC and check if the issue persists.
 
 If you’re still seeing the message, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair Windows
 
@@ -139,34 +148,27 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
 4. Click **Options** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
@@ -194,20 +196,24 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-front-to-back-and-back-again-the-insta-rotation-ritual-for-success/"><u>[New] In 2024, From Front to Back, and Back Again The Insta Rotation Ritual for Success</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-innovating-communication-integrate-google-meets-in-daily-life/"><u>[New] In 2024, Innovating Communication Integrate Google Meets in Daily Life</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-reacting-to-self-viewer-errors-on-popular-social-networks-for-2024/"><u>[Updated] Reacting to Self-Viewer Errors on Popular Social Networks for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-windows-movie-maker-turn-your-ideas-into-animated-reality/"><u>2024 Approved Windows Movie Maker Turn Your Ideas Into Animated Reality</u></a></li>
-<li><a href="https://win-able.techidaily.com/ensure-seamless-operation-verify-your-cpu-against-vanguards-basic-requirements/"><u>Ensure Seamless Operation: Verify Your CPU Against Vanguard's Basic Requirements</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-perfectly-stream-your-ps4-gaming-session/"><u>How to Perfectly Stream Your PS4 Gaming Session</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 14 Pro Max</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-command-ensuring-all-programs-launch-as-administrator-on-your-windows-11-pc/"><u>Master the Command: Ensuring All Programs Launch as Administrator on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/origin-service-down-heres-the-ultimate-guide-to-getting-your-account-up-and-running/"><u>Origin Service Down? Here’s the Ultimate Guide to Getting Your Account Up and Running</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-fortnite-startup-errors-dealing-with-entry-point-not-found/"><u>Overcoming Fortnite Startup Errors: Dealing with 'Entry Point Not Found'</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-gobie-fatal-error-in-black-desert-reborn-ue4-fix-guide/"><u>Resolving GOBIE Fatal Error in Black Desert Reborn - UE4 Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-gaming-experience-tips-for-avoiding-fallout-3-freezes-when-running-windows-10/"><u>Smooth Gaming Experience: Tips for Avoiding Fallout 3 Freezes When Running Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-unifying-multiple-fortnite-accounts/"><u>Step-by-Step Tutorial on Unifying Multiple Fortnite Accounts</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-winwordexe-issues-with-these-5-handy-fixes/"><u>Troubleshoot WINWORD.EXE Issues with These 5 Handy Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-dolby-atmos-problems-in-windows-11-and-windows-10-systems/"><u>Troubleshooting Dolby Atmos Problems in Windows 11 and Windows 10 Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/90s-chuckles-dissecting-the-vhs-of-the-goofies/"><u>'90S Chuckles Dissecting the VHS of The Goofies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-navigating-the-world-of-screen-capture-nvidia-edition/"><u>[New] Navigating the World of Screen Capture NVIDIA Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-secret-sauce-of-successful-pixlr-editing/"><u>[New] The Secret Sauce of Successful Pixlr Editing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-orchestrate-acoustics-within-presentation-ppts/"><u>2024 Approved Orchestrate Acoustics Within Presentation PPTS</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-launch-errors-in-division-2-with-these-proven-techniques/"><u>Beat Launch Errors in Division 2 with These Proven Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/crisp-and-clear-imagery-how-recent-fixes-have-refined-outriders-visual-presentation/"><u>Crisp and Clear Imagery: How Recent Fixes Have Refined Outriders' Visual Presentation</u></a></li>
+<li><a href="https://win-able.techidaily.com/discord-crash-woes-while-broadcasting-heres-how-to-keep-your-live-content-running-without-hiccups/"><u>Discord Crash Woes While Broadcasting? Here's How to Keep Your Live Content Running Without Hiccups</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-anticheat-not-detected-a-solution-to-common-eac-startup-issues/"><u>Easy AntiCheat Not Detected - A Solution to Common EAC Startup Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-system-appearance-with-custom-pointer-design/"><u>Enhancing System Appearance with Custom Pointer Design</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-troubleshooting-fps-drops-in-counter-strike-global-offensive/"><u>Expert Tips for Troubleshooting FPS Drops in Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-when-elder-scrolls-online-wont-start-properly/"><u>Fixes & Solutions When 'Elder Scrolls Online' Won’t Start Properly</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-navigate-crash-free-gaming-troubleshooting-tips-for-pc-users/"><u>Forza Horizon Navigate Crash-Free Gaming - Troubleshooting Tips for PC Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-thinkpad-t420s-driver-updates-compatible-with-windows-10/"><u>Free Download: ThinkPad T420s Driver Updates Compatible with Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007455136-how-to-resolve-hitman-3-connection-errors-effectively-and-get-back-to-gaming/"><u>How to Resolve Hitman 3 Connection Errors Effectively and Get Back to Gaming!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-15-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 15?</u></a></li>
+<li><a href="https://win-able.techidaily.com/jane-austens-pride-and-prejudice/"><u>Jane Austen's Pride and Prejudice</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-track-without-interruptions-solving-f1-202-pc-crashes/"><u>Master the Track Without Interruptions: Solving F1 202# PC Crashes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/seamless-blob-disposal-in-photopeas-interface/"><u>Seamless Blob Disposal in Photopea's Interface</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/video-editor-works-on-m1-chip/"><u>Video Editor Works on M1 Chip</u></a></li>
 </ul></div>
 

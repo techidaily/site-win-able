@@ -1,7 +1,7 @@
 ---
 title: Resolving Stuttering Issues in Fallout 76 - A Comprehensive Guide
-date: 2024-09-21T05:01:05.005Z
-updated: 2024-09-27T16:23:41.182Z
+date: 2024-10-07T17:33:11.285Z
+updated: 2024-10-08T16:12:46.877Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ After installing all the updates, restart your PC and check the gameplay.
 
  If RDR2 still stutters on your latest system, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Change power plan to Ultimate performance
 
 **Power plan** is a setting that allows you to manage how your system consumes energy. In addition to the existing High performance power plan, Microsoft rolled out a hidden one named**Ultimate performance** a while ago. You can try this plan and see if things work out for you.
@@ -60,40 +67,28 @@ After installing all the updates, restart your PC and check the gameplay.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . (If you don’t see this power plan, simply continue to the next step to unhide it.)  
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
-4. In the command prompt, type or paste the following command and press **Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
+4. In the command prompt, type or paste the following command and press **Enter** .  
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now you can start RDR2 and check if it stutters again.
@@ -113,28 +108,21 @@ Now you can start RDR2 and check if it stutters again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and test the gameplay in RDR2 again.
 
  If the latest GPU driver doesn’t do the trick for you, you can move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Enable HAGs
 
@@ -152,14 +140,21 @@ Now you can start RDR2 and check if it stutters again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now you can launch RDR2 and check if there’s any improvements.
@@ -172,13 +167,6 @@ If HAGs doesn’t work for you, you can try the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/rdr2-hot-air-balloon.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Fine tune in-game settings
 
  There’re reports showing frame-drops at certain scenes can be fixed by**changing game settings** . So after trying the fixes above to make the most of your hardware, you can also play with the in-game graphics settings to get the most FPS.
@@ -187,17 +175,25 @@ If HAGs doesn’t work for you, you can try the next method.
 2. Set**TAA** to**medium** . Turn off**FXAA** and**MSAA** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-1.jpg)
 3. Set**Water Refraction Quality** and**Water Reflection Quality** to**High** or lower. (You can also try disabling TAA sharpening and open image sharpening in the NVIDIA control panel instead.)  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-2.jpg)
 4. Also set**Reflection MSAA** to**X4** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/RDR2-graphics-tuning-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can now test your gameplay and see if the game lags again.
 
@@ -224,22 +220,22 @@ You can now test your gameplay and see if the game lags again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-time-efficient-a-comprehensive-guide-to-srt-to-txt-switching/"><u>[New] Time Efficient A Comprehensive Guide to SRT to TXT Switching</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-your-guide-to-8-best-fb-movies-downloader-selection/"><u>[Updated] In 2024, Your Guide to #8 Best FB Movies Downloader Selection</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ultimate-video-monitors-face-off/"><u>2024 Approved Ultimate Video Monitors Face-Off</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/7-top-ranked-apps-for-horizontal-and-vertical-igtv-editing-for-2024/"><u>7 Top-Ranked Apps for Horizontal and Vertical IGTV Editing for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-driver-download-for-qualcomm-atheros-ar956x-wireless-adapter-enhance-connectivity-today/"><u>Easy Driver Download for Qualcomm Atheros AR956x Wireless Adapter: Enhance Connectivity Today</u></a></li>
-<li><a href="https://win-able.techidaily.com/horizon-zero-dawn-pc-stability-improved-overcoming-common-gameplay-interruptions-and-bugs/"><u>Horizon Zero Dawn PC Stability Improved: Overcoming Common Gameplay Interruptions and Bugs</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-silent-gameplay-in-dark-souls-iiis-lost-ark/"><u>How to Fix Silent Gameplay in Dark Souls III's LOST ARK</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-infinix-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Infinix Get Deleted photos Back with Ease and Safety?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-dying-light-from-stuttering-and-slowing-down-on-your-pc/"><u>How to Stop Dying Light ² From Stuttering and Slowing Down on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/improved-playability-comprehensive-guide-to-addressing-stutter-and-boosting-fps-in-rdr2/"><u>Improved Playability: Comprehensive Guide to Addressing Stutter and Boosting FPS in RDR2</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/navigating-snapchats-networking-tools-with-finesse-for-2024/"><u>Navigating Snapchat's Networking Tools with Finesse for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-guide-for-ntdlldll-errors-in-windows-11-and-windows-10/"><u>Resolved: Troubleshooting Guide for ntdll.dll Errors in Windows 11 and Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solved-pci-device-controller-problems-related-to-encrypting-and-decrypting-data/"><u>Solved: PCI Device Controller Problems Related to Encrypting and Decrypting Data 🛠️✨</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013877151-stardew-valley-wont-start-on-your-console-heres-what-you-need-to-know/"><u>Stardew Valley Won’t Start on Your Console? Here’s What You Need to Know</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723002610637-stardew-valley-wont-start-here-are-solutions-that-worked-for-players/"><u>Stardew Valley Won't Start? Here Are Solutions That Worked for Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-stop-wallpaper-engine-from-crashing-in-windows-operating-systems/"><u>Troubleshooting Guide: How to Stop Wallpaper Engine From Crashing in Windows Operating Systems</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-access-tons-of-free-vocal-textures/"><u>[New] Access Tons of Free Vocal Textures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-future-proof-files-top-5-cloud-services-for-peak-performance/"><u>[New] Future-Proof Files Top 5 Cloud Services for Peak Performance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-professionals-almanac-to-efficient-voice-recording/"><u>[Updated] Professional's Almanac to Efficient Voice Recording</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-saving-tweets-with-smiles-gif-master-2024-edition/"><u>[Updated] Saving Tweets with Smiles GIF Master 2024 Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-captivating-comedy-crafted-step-by-step-meme-tutorial/"><u>2024 Approved Captivating Comedy Crafted Step-by-Step Meme Tutorial</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-x50-gt-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor X50 GT? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-how-to-turn-on-hyper-v-for-windows-11-users/"><u>Comprehensive Tutorial: How To Turn On Hyper-V for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-comprehensive-guide-to-your-free-behringer-usb-audio-software/"><u>Effortless Installation: Comprehensive Guide to Your Free Behringer USB Audio Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011361025-fixing-high-input-delay-in-your-gameplay-of-cyberpunk-2dark-dreams-digital-official-site-for-cd-projekt-red-games-witcher-series-cyberpunk-2077-and-more/"><u>Fixing High Input Delay in Your Gameplay of Cyberpunk 2#Dark Dreams Digital - Official Site for CD Projekt Red Games, Witcher Series, Cyberpunk 2077, and More</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-outer-worlds-crashing-on-pc/"><u>How to Fix The Outer Worlds Crashing on PC</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-move-and-manage-your-social-snapshots-locally/"><u>How To Move and Manage Your Social SnapShots Locally</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-samsung-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Samsung</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterclass-resolving-compatibility-issues-and-crashes-in-football-manager-2021-for-pc-users/"><u>Masterclass: Resolving Compatibility Issues and Crashes in Football Manager 2021 for PC Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-performance-tips-for-smoother-gameplay-and-higher-fps-in-fall-guys/"><u>Maximizing Performance: Tips for Smoother Gameplay and Higher FPS in Fall Guys</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-xbox-live-lag-issues-with-these-proven-techniques-guide/"><u>Overcome Xbox Live Lag Issues with These Proven Techniques (Guide)</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-performance-hiccups-for-smoother-gameplay-of-fall-guys-on-personal-computers/"><u>Resolving Performance Hiccups for Smoother Gameplay of Fall Guys on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-no-sound-woes-fix-roblox-game-volume-issues-in-windows-11-and-10/"><u>Say Goodbye to No-Sound Woes! Fix Roblox Game Volume Issues in Windows 11 and 10</u></a></li>
 </ul></div>
 

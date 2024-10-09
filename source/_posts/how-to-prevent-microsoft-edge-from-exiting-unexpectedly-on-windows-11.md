@@ -1,7 +1,7 @@
 ---
 title: How to Prevent Microsoft Edge From Exiting Unexpectedly on Windows 11
-date: 2024-09-23T09:04:21.374Z
-updated: 2024-09-28T11:41:31.622Z
+date: 2024-10-06T22:10:05.876Z
+updated: 2024-10-08T17:35:37.697Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -47,12 +54,33 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -74,13 +102,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Clear cache and history
 
  If your Microsoft Edge opens but stops working, you can use this way to fix the problem. Clear browsing history and cache data has been proved useful by many users.
@@ -91,20 +112,20 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. Click**Clear history** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
@@ -119,6 +140,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  It’s reported that the Rapport could cause Microsoft Edge crashing and many users had reported after uninstalling Trusteer Rapport/Endpoint the problem has been solved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
 
@@ -142,20 +170,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -168,23 +189,9 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -210,24 +217,20 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-mobile-magic-no-cost-image-transformation-tool/"><u>[New] In 2024, Mobile Magic No-Cost Image Transformation Tool</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-find-your-fit-understanding-basic-to-pro-plans-at-vimeo/"><u>[Updated] In 2024, Find Your Fit Understanding Basic to Pro Plans at Vimeo</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-precisionvid-recorder-inspection/"><u>[Updated] PrecisionVid Recorder Inspection</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-splitgates-frame-rate-tips-for-eliminating-lags-and-hitches/"><u>Boost Splitgate's Frame Rate – Tips for Eliminating Lags and Hitches</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009205501-deadly-hacks-to-prevent-constant-dead-by-daylight-crashes/"><u>Deadly Hacks to Prevent Constant Dead by Daylight Crashes !</u></a></li>
-<li><a href="https://win-able.techidaily.com/destiny-nix-launch-hitches-on-desktops-heres-your-step-by-step-solution/"><u>Destiny Nix Launch Hitches on Desktops? Here's Your Step-by-Step Solution!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-pathfinder-why-wrath-of-the-righteous-continuously-fails-on-launch/"><u>Fixing Pathfinder: Why 'Wrath of the Righteous' Continuously Fails on Launch</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-choose-between-portable-and-plugged-in-virtual-reality-whats-your-preference-wireless-or-connected-for-2024/"><u>How to Choose Between Portable and Plugged-In Virtual Reality What's Your Preference, Wireless or Connected for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-max-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro Max to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-the-art-of-directing-powerdirectors-complete-guide-for-2024/"><u>Master the Art of Directing PowerDirector's Complete Guide for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/mastering-media-manipulation-combining-windows-photos-and-story-remix/"><u>Mastering Media Manipulation Combining Windows Photos and Story Remix</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-star-wars-squadrons-freezing-problems-solutions-inside/"><u>Overcoming STAR WARS Squadrons Freezing Problems: Solutions Inside</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/snicker-scribbles-humorhub/"><u>Snicker Scribbles HumorHub</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-solution-dealing-with-ralink-rt3290-driver-errors-on-windows-7-8-and-11/"><u>Step-by-Step Solution: Dealing with Ralink RT3290 Driver Errors on Windows 7, 8 & 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-affordable-home-theater-system-bundles-the-ultimate-guide/"><u>Top Affordable Home Theater System Bundles: The Ultimate Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-with-football-manager-2023-heres-how-to-fix-it/"><u>Trouble with Football Manager 2023? Here's How to Fix It!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-repair-graphics-driver-crashed-errors-in-valorant-fast/"><u>Troubleshoot and Repair 'Graphics Driver Crashed' Errors in Valorant Fast</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-frame-rate-issues-in-resident-evil-village-pc/"><u>Troubleshooting and Fixing Frame Rate Issues in Resident Evil Village (PC)</u></a></li>
-<li><a href="https://win-able.techidaily.com/valheim-gaming-optimization-effective-techniques-to-resolve-low-fps-issues/"><u>Valheim Gaming Optimization: Effective Techniques to Resolve Low FPS Issues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-5-ways-to-record-webinar-for-free/"><u>[New] In 2024, 5 Ways to Record Webinar for Free</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-video-crafting-for-the-modern-youtube-creator/"><u>[New] Video Crafting for the Modern YouTube Creator</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-listing-high-quality-free-streamers-for-webm-files/"><u>[Updated] Exclusive Listing High-Quality, Free Streamers for WebM Files</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-learn-to-flip-film-sequences-on-iphone/"><u>[Updated] Learn to Flip Film Sequences on iPhone</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-wealth-like-a-mythical-dragon-expert-strategies-for-infinite-gains-on-your-computer/"><u>Conquer Wealth Like a Mythical Dragon: Expert Strategies for Infinite Gains on Your Computer</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/creative-capture-uncovering-the-top-6-ways-to-document-minecraft-sessions-for-2024/"><u>Creative Capture Uncovering the Top 6 Ways to Document Minecraft Sessions for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-lag-on-pandoras-battlefield-in-avatar-game-with-these-optimization-techniques/"><u>Eliminate Lag on Pandora’s Battlefield in Avatar Game with These Optimization Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-se-2020-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterclass-overcoming-frequent-gameplay-interruptions-in-wwe-2k22-for-computer-users/"><u>Masterclass: Overcoming Frequent Gameplay Interruptions in WWE 2K22 for Computer Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-ark-crashing-problems-with-these-proven-techniques/"><u>Resolve ARK Crashing Problems with These Proven Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-dota-2-crashing-issues-a-comprehensive-guide/"><u>Resolve Your Dota 2 Crashing Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nokia-c12-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-resolving-metro-exodus-stability-problems-on-computers/"><u>Ultimate Troubleshooting Guide: Resolving Metro Exodus Stability Problems on Computers</u></a></li>
+<li><a href="https://facebook.techidaily.com/untraceable-searches-delete-your-fb-snoop-logs/"><u>Untraceable Searches: Delete Your FB Snoop Logs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725289506199-winxvideo-ai/"><u>Winxvideo AI: 자동화된 방식으로 영상品質을 높여 전문가적인 수정</u></a></li>
 </ul></div>
 

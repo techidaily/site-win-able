@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips"
-date: 2024-09-28T16:57:27.369Z
-updated: 2024-10-03T16:37:53.505Z
+date: 2024-10-03T18:17:25.715Z
+updated: 2024-10-08T18:57:00.407Z
 tags:
   - win11
   - win10
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
@@ -82,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch the game to test your issue. If it’s still occurring, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Verify Warframe cache files
 
@@ -109,10 +102,16 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 Your game still freezes? Try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Lower in-game graphics settings
@@ -125,13 +124,6 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
@@ -140,7 +132,21 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If your issue persists, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Turn off unnecessary programs
 
@@ -179,19 +185,17 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/he-best-storytelling-techniques-to-grow-your-youtube-channel-for-2024/"><u>[New] The Best Storytelling Techniques to Grow Your YouTube Channel for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-selection-high-quality-zero-price-free-luts/"><u>[Updated] In 2024, The Ultimate Selection High Quality, Zero Price Free LUTs</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-sims-4-lagging-on-pc-pro-tips-2024/"><u>How to Fix Sims 4 Lagging on PC – Pro Tips 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-2-phone-without-password-by-drfone-android/"><u>How To Unlock Lava Yuva 2 Phone Without Password?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/improving-box-pull-back-pleasure-for-2024/"><u>Improving Box Pull-Back Pleasure for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximizing-fun-overcoming-lag-and-fps-drops-in-forza-horizon-5-on-pc-setup/"><u>Maximizing Fun: Overcoming Lag and FPS Drops in Forza Horizon 5 on PC Setup</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-start-up-issues-with-pathfinder-wrath-of-the-righteous-a-comprehensive-troubleshooting-guide/"><u>Overcoming Start-Up Issues with Pathfinder: Wrath of the Righteous - A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/sid-meiers-civ6-constant-disruptions-solved-top-tech-tweaks-and-adjustments-revealed/"><u>Sid Meier's Civ6 Constant Disruptions Solved: Top Tech Tweaks & Adjustments Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-understanding-and-resolving-two-point-decrease-in-frame-rate-on-pc-platforms/"><u>Solved: Understanding and Resolving Two-Point Decrease in Frame Rate on PC Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-lag-issues-effective-techniques-to-reduce-your-back-4-blood-gameplay-latency/"><u>Solving Lag Issues: Effective Techniques to Reduce Your 'Back 4 Blood' Gameplay Latency</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-premium-platforms-for-purchasing-ai-generated-content/"><u>Top 7 Premium Platforms for Purchasing AI-Generated Content</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-strategies-to-shoot-a-flawless-green-screen-scene/"><u>Top Strategies to Shoot a Flawless Green Screen Scene</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-to-resolve-mozilla-thunderbird-launch-issues/"><u>Troubleshooting Steps to Resolve Mozilla Thunderbird Launch Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-resident-evil-village-not-launching/"><u>[SOLVED] 'Resident Evil Village Not Launching'</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-five-protocols-to-record-your-youtube-live-video/"><u>[Updated] 2024 Approved Top Five Protocols to Record Your YouTube LIVE Video</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-break-down-long-form-videos-the-insiders-guide-to-youtube-chapter-inclusion-for-2024/"><u>[Updated] Break Down Long-Form Videos The Insider's Guide to YouTube Chapter Inclusion for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-keep-it-flowing-repasting-content-on-ig/"><u>[Updated] In 2024, Keep It Flowing Repasting Content on IG</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-thrill-town-10-similar-video-games-to-gta-v-for-2024/"><u>[Updated] Thrill Town 10 Similar Video Games To GTA V for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725287142808-handbrake/"><u>「HandBrakeが動かない時の完全ガイド - 起動・変換エラー対策を学ぶ」</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enabling-extra-protection-a-guide-to-turning-on-gmails-2fa/"><u>Enabling Extra Protection: A Guide to Turning On Gmail's 2FA</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-11-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 11 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/latest-fixes-and-solutions-for-the-not-launching-error-in-hogwarts-legacy/"><u>Latest Fixes and Solutions for the 'Not Launching' Error in Hogwarts Legacy</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-enshrouded-crashes-a-pc-troubleshooting-guide/"><u>Say Goodbye to Enshrouded Crashes - A PC Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-frame-drops-on-steam-v-tips-to-improve-performance-on-pc/"><u>Troubleshooting Frame Drops on Steam 'V': Tips to Improve Performance on PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Itel P55+ | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Armored Core 6 on Windows: Diagnosing and Repairing Sudden Game Crashes in the Fires of Rubicon"
-date: 2024-09-24T03:12:23.900Z
-updated: 2024-09-27T21:06:22.441Z
+date: 2024-10-01T20:12:14.594Z
+updated: 2024-10-08T21:45:46.832Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/how-to-fix-Pathfinder-Wrath-of-the-Righteous-freezing-on-PC.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Add your game as an exception to your antivirus
@@ -53,13 +53,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
  Performance issues such as freezing and stuttering may be caused by an outdated or misconfigured graphics driver. If you can’t remember when was the last time you updated your drivers, definitely do it right now. This is probably the best shot you have got without doing a lot of troubleshooting. Additionally, graphics card manufacturers usually release game ready drivers to guarantee that players can get the best performance out of your graphics card.
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1 – Manually update your graphics driver
 
@@ -80,31 +73,38 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and test the gameplay. If this doesn’t do the trick, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Verify integrity of game files
 
  A variety of issues may be caused by corrupted game files, whether it’s glitched graphics or inability to launch the game. When the Pathfinder: Wrath of the Righteous freezing issue arise, you should check the integrity of the game files on Steam or GOG Galaxy:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Verify on Steam
 
@@ -112,6 +112,13 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
 2. Select the**LOCAL FILES** tab and click on the**VERIFY INTEGRITY OF GAME FILES…** button. Then Steam will verify the game files. Simply wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
@@ -128,10 +135,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
  When it’s all done, relaunch your game. If the freezing issue persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable overlays
@@ -144,23 +151,16 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
 3. Click **In-Game** . Uncheck the box **Enable the Steam Overlay while in-game** . Then click **OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Launch your game from .exe file
 
@@ -192,6 +192,13 @@ Once done, restart your game and test the gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
  That’s it. Feel free to drop a comment below if any fixes listed above worked for you. We also welcome alternate methods in case you’ve found one that worked for you.
@@ -211,22 +218,24 @@ Once done, restart your game and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/0-best-youtube-keyword-tools-to-get-more-views/"><u>[New] 10 Best YouTube Keyword Tools to Get More Views</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-audience-expansion-masterclass-skyrocketing-your-youtube-numbers/"><u>[New] In 2024, Audience Expansion Masterclass Skyrocketing Your Youtube Numbers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-essential-tips-for-effective-instagram-video-conversations/"><u>[Updated] 2024 Approved Essential Tips for Effective Instagram Video Conversations</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-examining-the-strengths-and-weaknesses-in-free2x-tools-for-2024/"><u>[Updated] Examining the Strengths and Weaknesses in Free2X Tools for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aurora-hdr-superior-or-subpar-imaging-in-2024/"><u>Aurora HDR Superior or Subpar Imaging, In 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-graphics-bug-your-complete-guide-to-tackling-redd-2s-errgfxstate-error/"><u>Beat the Graphics Bug: Your Complete Guide to Tackling REDD 2'S ERR_GFX_State Error</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/choosing-between-obs-and-fraps-for-excellent-screen-capture-for-2024/"><u>Choosing Between OBS and Fraps for Excellent Screen Capture for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/elder-scrolls-online-update-fixes-the-notorious-blackwood-server-issues/"><u>Elder Scrolls Online Update - Fixes the Notorious Blackwood Server Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008048438-expert-fixes-for-bypassing-csgo-login-problems-get-playing-now/"><u>Expert Fixes for Bypassing CSGO Login Problems - Get Playing Now</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-the-persistent-launch-freeze-in-far-cry-5/"><u>Expert Tips for Resolving the Persistent Launch Freeze in Far Cry 5</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-online-conversion-of-mp3-audio-files-movavi/"><u>Free Online Conversion of MP3 Audio Files - Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-y78plus-t1-edition-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo Y78+ (T1) Edition Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/instantly-solve-valorant-graphics-driver-crash-problems-with-these-tips/"><u>Instantly Solve 'Valorant Graphics Driver Crash' Problems with These Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-pc-shutdown-glitches-while-playing-football-manager-nineteen-twenty-two/"><u>Overcoming the PC Shutdown Glitches While Playing Football Manager Nineteen Twenty-Two</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfecting-motion-capture-in-a-canon-lens-for-2024/"><u>Perfecting Motion Capture in a Canon Lens for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/star-wars-taming-the-turbulence-of-fighter-collisions-solved-techniques-revealed/"><u>Star Wars: Taming the Turbulence of Fighter Collisions - Solved Techniques Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/stardew-valley-wont-start-on-your-console-heres-what-you-need-to-know/"><u>Stardew Valley Won’t Start on Your Console? Here’s What You Need to Know!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-change-photo-color-like-a-pro/"><u>[New] How to Change Photo Color Like A Pro?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-essential-audio-transforming-software-for-streamers/"><u>[Updated] Essential Audio Transforming Software for Streamers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-step-into-wealthy-creator-land-via-youtube-shorts-revenue-for-2024/"><u>[Updated] Step Into Wealthy Creator Land via YouTube Shorts Revenue for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/cure-your-call-of-duty-woes-solved-ending-game-crashes-on-pc-with-the-latest-2024-patch/"><u>Cure Your Call of Duty Woes: [SOLVED] Ending Game Crashes on PC with the Latest 2024 Patch</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/from-snapshots-to-videos-your-maccam-adventure/"><u>From Snapshots to Videos Your MacCam Adventure</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-playstation-4-modern-warfare-3-mw3-not-working-problems/"><u>How to Resolve PlayStation 4 Modern Warfare 3 MW3 Not Working Problems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-xiaomi-14-ultra-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi 14 Ultra in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-motorola-moto-g-5g-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Motorola Moto G 5G (2023) Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-realme-gt-5-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Realme GT 5 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-sound-savants-playbook-for-efficient-audible-records/"><u>In 2024, The Sound Savant's Playbook for Efficient Audible Records</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-listening-experience-how-to-add-podcasts-via-ipadiphone/"><u>In 2024, The Ultimate Listening Experience How to Add Podcasts via iPad/iPhone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-far-cry-6s-darkness-tips-to-address-black-screen-issues/"><u>Overcoming Far Cry 6'S Darkness: Tips to Address Black Screen Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-lags-in-elden-ring-six-speedy-tweaks-for-ultimate-frame-rate-and-playability/"><u>Say Goodbye to Lags in Elden Ring: Six Speedy Tweaks for Ultimate Frame Rate & Playability</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-team-fortress-2-not-launching-properly/"><u>Solutions for 'Team Fortress 2 Not Launching Properly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-3-free-video-transcoders-for-windows-11-in-2020-hitch-free-hd-and-4k-video-conversion/"><u>Top 3 Free Video Transcoders for Windows 11 in 2020: Hitch-Free HD & 4K Video Conversion</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-complete-blackout-on-your-far-cry-6-gameplay/"><u>Troubleshooting Complete Blackout on Your Far Cry 6 Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-the-lost-ark-game-crash-issue/"><u>Troubleshooting Steps: Resolving the 'Lost Ark' Game Crash Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-for-smooth-csgo-gameplay-performance/"><u>Troubleshooting Techniques for Smooth CS:GO Gameplay Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-when-minecraft-freezes-or-doesnt-respond/"><u>Troubleshooting Tips for When Minecraft Freezes or Doesn’t Respond</u></a></li>
 </ul></div>
 

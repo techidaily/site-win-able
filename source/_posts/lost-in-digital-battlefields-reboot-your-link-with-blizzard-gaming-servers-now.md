@@ -1,7 +1,7 @@
 ---
 title: Lost in Digital Battlefields? Reboot Your Link with Blizzard Gaming Servers Now
-date: 2024-09-26T09:42:55.041Z
-updated: 2024-09-27T18:54:18.938Z
+date: 2024-10-03T16:42:09.516Z
+updated: 2024-10-08T20:56:00.856Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * Software confliction
 * etc.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
 
  Before you try any of these fixes below, please make sure to[check the game server status](https://support.activision.com/onlineservices) and restart your modem and router to rule out any possible connection issues.
@@ -67,13 +74,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
 If your game isn’t on the list, follow these steps:
@@ -85,10 +85,16 @@ If your game isn’t on the list, follow these steps:
 4. Restart your Battle.net and play the game again the test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2\. Perform a network reset
@@ -111,10 +117,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
@@ -126,8 +132,22 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
@@ -136,10 +156,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 6. Click **OK** to apply.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
@@ -162,20 +182,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
 
@@ -215,15 +221,19 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-can-you-change-your-voice-magically-explore-alternative-tools/"><u>[New] Can You Change Your Voice Magically? Explore Alternative Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-cross-monitors-data-synthesis/"><u>[Updated] 2024 Approved Cross-Monitors Data Synthesis</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-stepwise-instructions-preserve-your-memories-by-uploading-to-snapchat/"><u>[Updated] Stepwise Instructions Preserve Your Memories by Uploading to Snapchat</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovate-laughter-through-adobe-creation/"><u>2024 Approved Innovate Laughter, Through Adobe Creation</u></a></li>
-<li><a href="https://win-able.techidaily.com/avoiding-dota-2-anti-cheat-penalties-fixes-for-2-error/"><u>Avoiding Dota 2 Anti-Cheat Penalties - Fixes for 2# Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/combat-latency-in-call-of-dutys-warzone-20-with-these-expert-tips-2er-2024/"><u>Combat Latency in Call of Duty's Warzone 2.0 with These Expert Tips - 2Er 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ffxiv-update-problems-how-to-ensure-successful-version-verification-processes/"><u>FFXIV Update Problems: How to Ensure Successful Version Verification Processes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-nubia-red-magic-8s-proplus-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Nubia Red Magic 8S Pro+ Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/improve-frame-rate-in-rainbow-six-extraction-expert-tips-for-higher-fps/"><u>Improve Frame Rate in Rainbow Six Extraction – Expert Tips for Higher FPS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unraveling-the-mystery-behind-google-chromes-false-alarm-critical-error-fixes/"><u>Unraveling the Mystery Behind Google Chrome’s False Alarm: Critical Error Fixes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-instantaneous-duo-recording-cam-plus-screen/"><u>[New] Instantaneous Duo Recording Cam + Screen</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-partition-performance-topping-recorder-showdown/"><u>[Updated] In 2024, Partition Performance Topping Recorder Showdown</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-f04-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy F04 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/breaking-down-solutions-for-the-stuck-loading-screen-in-football-manager-2021/"><u>Breaking Down Solutions for the Stuck Loading Screen in Football Manager 2021</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/cutting-edge-actions-screening-tech-report-for-2024/"><u>Cutting-Edge Actions Screening Tech Report for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-list-of-superior-real-time-streaming-networks/"><u>In 2024, The Ultimate List of Superior Real-Time Streaming Networks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-v30-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo V30 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/meet-the-future-innovative-ai-for-discussion/"><u>Meet the Future: Innovative AI for Discussion</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003355038-overcoming-common-problems-with-nvidias-geforce-experience-fixed/"><u>Overcoming Common Problems with NVIDIA's GeForce Experience - Fixed</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-smooth-gameplay-addressing-csgo-performance-hiccups/"><u>Quick Fixes for Smooth Gameplay: Addressing CS:GO Performance Hiccups</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-village-mastering-steady-gameplay-on-your-gaming-pc-fps-stabilized/"><u>Resident Evil Village - Mastering Steady Gameplay on Your Gaming PC, FPS Stabilized!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-pc-game-file-corruption-ultimate-guide/"><u>Resolving PC Game File Corruption - Ultimate Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fix-for-easy-anti-cheat-missing-error-when-playing-online-games/"><u>Step-by-Step Fix for 'Easy Anti-Cheat Missing' Error When Playing Online Games</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-downloading-and-updating-your-d-link-drivers-on-a-pc-with-windows/"><u>Step-by-Step Guide: Downloading and Updating Your D-Link Drivers on a PC with Windows</u></a></li>
 </ul></div>
 

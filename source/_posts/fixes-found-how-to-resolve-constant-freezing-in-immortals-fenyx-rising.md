@@ -1,7 +1,7 @@
 ---
 title: "Fixes Found: How to Resolve Constant Freezing in Immortals Fenyx Rising"
-date: 2024-09-21T11:02:45.635Z
-updated: 2024-09-28T01:34:32.729Z
+date: 2024-10-06T22:32:56.009Z
+updated: 2024-10-08T23:42:24.090Z
 tags:
   - win11
   - win10
@@ -34,16 +34,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC specs meet the requirements
@@ -82,18 +76,25 @@ Here’s how:
 2. Under the**Installed** section, click the picture of Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -121,13 +122,6 @@ If this method doesn’t help, you can take a look at the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
@@ -135,10 +129,10 @@ If this method doesn’t help, you can take a look at the next one.
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
@@ -150,6 +144,14 @@ And here’s how you can make sure your system is the latest:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -175,24 +177,24 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-android-and-ios-leaders-in-asmr-content-for-2024/"><u>[Updated] Android & iOS Leaders in ASMR Content for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-formula-to-fame-elevating-subscriber-numbers-on-youtube/"><u>[Updated] The Formula to Fame Elevating Subscriber Numbers on Youtube</u></a></li>
-<li><a href="https://fox-that.techidaily.com/apple-declines-your-card-here-are-6-ways-to-fix-it-quickly/"><u>Apple Declines Your Card? Here Are 6 Ways To Fix It Quickly</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeat-fallout-3-launch-failures-with-our-top-troubleshooting-tactics/"><u>Defeat Fallout 3 Launch Failures with Our Top Troubleshooting Tactics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-how-to-excel-in-ai-prompt-development-through-our-selection-of-top-5-online-education-platforms/"><u>Discover How to Excel in AI Prompt Development Through Our Selection of Top 5 Online Education Platforms</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-infinix-smart-8-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Infinix Smart 8 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/empowering-communication-with-intelligence-how-to-forge-a-specialized-chatbot-using-your-own-dataset/"><u>Empowering Communication with Intelligence: How to Forge a Specialized Chatbot Using Your Own Dataset</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-restoring-functionality-to-keyboards-in-pathfinders-wrath-of-the-righteous/"><u>Expert Advice on Restoring Functionality to Keyboards in Pathfinder's Wrath of the Righteous</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-open-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/forza-horizon-5-performance-boost-updating-your-graphics-drivers/"><u>Forza Horizon 5 Performance Boost: Updating Your Graphics Drivers</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-mass-effect-legendary-edition-from-crashing-on-pc-or-your-gaming-console/"><u>How To Prevent Mass Effect Legendary Edition From Crashing on PC or Your Gaming Console</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-successfully-reinstall-and-rectify-errors-in-your-ryzen-master-driver-setup/"><u>How To Successfully Reinstall and Rectify Errors in Your Ryzen Master Driver Setup</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-issue-how-to-fix-continuous-crashes-in-beat-saber/"><u>Resolving the Issue: How to Fix Continuous Crashes in Beat Saber</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-status-of-wolcen-release-an-in-depth-look-at-why-its-not-yet-available/"><u>The Status of Wolcen Release: An In-Depth Look at Why It's Not Yet Available</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-stop-your-cities-skylines-from-crashing-expert-advice/"><u>The Ultimate Guide to Stop Your Cities: Skylines From Crashing - Expert Advice</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-3-futuristic-tech-trends-to-keep-an-eye-on/"><u>Top 3 Futuristic Tech Trends to Keep an Eye On</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unleash-creativity-with-these-top-10-instagram-reel-apps-for-2024/"><u>Unleash Creativity with These Top 10 Instagram Reel Apps for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-helldivers-ii-wont-start-on-steam-and-how-to-successfully-fix-it/"><u>Why Helldivers II Won't Start on Steam and How to Successfully Fix It</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-limiting-video-size-the-mac-way-to-insta-cutting/"><u>[New] In 2024, Limiting Video Size The Mac Way to Insta-Cutting</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-social-medias-highest-wave-instagrams-thousand-strong-fanbase/"><u>[New] In 2024, Mastering Social Media's Highest Wave - Instagram’s Thousand-Strong Fanbase</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-metaverse-and-omniverse-distinctions/"><u>[Updated] Exploring the Metaverse and Omniverse Distinctions</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-wwii-troubleshooting-for-persistent-black-screen-issues-in-windows-environments/"><u>COD: WWII Troubleshooting for Persistent Black Screen Issues in Windows Environments</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-stuttering-and-unexpected-quits-during-your-serious-sam-grope-on-pc-a-comprehensive-fix-guide/"><u>Eliminating Stuttering & Unexpected Quits During Your Serious Sam Grope on PC – A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-overcoming-black-display-glitches-in-far-cry-6/"><u>Expert Guide: Overcoming Black Display Glitches in Far Cry 6</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-implemented-cod-black-ops-cold-war-now-functional-on-windows/"><u>Fixes Implemented: Cod: Black Ops Cold War Now Functional on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-repair-vcompdll-cannot-be-found-errors-comprehensive-fixes-for-windows-users/"><u>How to Repair 'vcomp.dll Cannot Be Found' Errors: Comprehensive Fixes for Windows Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-expert-guide-6-ways-to-document-your-minecraft-experiences/"><u>In 2024, Expert Guide 6 Ways to Document Your Minecraft Experiences</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-professional-content-creators-guide-studio-vs-beta-platform/"><u>In 2024, Professional Content Creator's Guide Studio Vs. Beta Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-15-pro-unveiled-revolutionary-spatial-recording-capabilities-for-the-upcoming-apple-vision-pro/"><u>IPhone 15 Pro Unveiled: Revolutionary Spatial Recording Capabilities for the Upcoming Apple Vision Pro</u></a></li>
+<li><a href="https://techidaily.com/is-your-lava-yuva-2-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Lava Yuva 2 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-cameras-to-document-the-beat-of-2024s-music-scenes/"><u>Leading Cameras to Document the Beat of 2024'S Music Scenes</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-call-of-duty-black-ops-iv-overcoming-lag-issues-and-boosting-performance/"><u>Optimizing Call of Duty: Black Ops IV - Overcoming Lag Issues and Boosting Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-to-stop-the-division-2-from-crashing-effectively/"><u>Quick Solutions to Stop The Division 2 From Crashing Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-of-division-2-failure-to-start-a-step-by-step-guide/"><u>Resolving the Issue of Division 2 Failure to Start : A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-chrome-stalling-issue-in-windows-11-with-these-simple-tips/"><u>Solve Your Chrome Stalling Issue in Windows 11 with These Simple Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-a56s-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo A56s 5G Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-enhancing-utorrents-downloading-efficiency/"><u>Troubleshooting and Enhancing uTorrent's Downloading Efficiency</u></a></li>
 </ul></div>
 

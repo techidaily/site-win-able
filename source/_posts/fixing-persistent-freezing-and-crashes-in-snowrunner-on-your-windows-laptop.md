@@ -1,7 +1,7 @@
 ---
 title: Fixing Persistent Freezing & Crashes in SnowRunner on Your Windows Laptop
-date: 2024-09-29T16:53:36.549Z
-updated: 2024-10-03T17:08:30.506Z
+date: 2024-10-04T21:39:16.058Z
+updated: 2024-10-08T17:58:31.343Z
 tags:
   - win11
   - win10
@@ -32,22 +32,21 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 * [Fix 2: Edit Settings](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Official Fix
 
 Follow the steps below to fix the crashing issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: Check the requirements
 
@@ -78,23 +77,16 @@ Follow the steps below to fix the crashing issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Install beta patch
 
@@ -104,11 +96,33 @@ Restart your computer for the changes to take effect.
 ![Steam game Yakuza 3 Remastered properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Go to the**BETAS** tab and enter the beta access code**yakuza6patch** .  
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Relaunch the game, you’ll be in the beta.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Lower your graphics settings
 
@@ -119,26 +133,33 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-45-48.jpg)
 3. In the pop-up window, check**Override high DPI scaling behavior** , choose**Application** in the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
 
- This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
 
 ## Fix 2: Edit Settings
 
@@ -165,13 +186,6 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-49-11.jpg)
 8. Restart your PC and your problem should be fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
  That’s it, hope the fixes work for you. Hopefully, you can enjoy the rest of the game!
@@ -191,24 +205,20 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-bring-your-clips-to-life-a-compreenased-way-to-post-on-youtube/"><u>[New] In 2024, Bring Your Clips to Life A Compreenased Way to Post on YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-hearthstone-crashing-on-pc/"><u>[Solved] Hearthstone Crashing on PC</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-elevate-your-presentations-with-smart-s2t-technology-for-2024/"><u>[Updated] Elevate Your Presentations with Smart S2T Technology for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-glam-rific-guide-to-hauls-and-hair-care/"><u>[Updated] In 2024, Glam-Rific Guide to Hauls and Hair Care</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-game-sound-transformation-the-no-cost-pathway-in-free-fire/"><u>[Updated] In-Game Sound Transformation The No-Cost Pathway in Free Fire</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools/"><u>2024 Approved Voice Reinvention with Technology Rankings of 7 Innovative Audio Tools</u></a></li>
-<li><a href="https://facebook.techidaily.com/anti-monopoly-measures-the-drive-against-tech-goliaths/"><u>Anti-Monopoly Measures: The Drive Against Tech Goliaths</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-tips-eliminating-game-crashes-in-house-flipper-2-for-windows-users/"><u>Comprehensive Troubleshooting Tips: Eliminating Game Crashes in House Flipper 2 for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeat-pc-errors-for-an-uninterrupted-dive-into-the-tower-of-fantasy-game/"><u>Defeat PC Errors for an Uninterrupted Dive Into the 'Tower of Fantasy' Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-on-resolving-the-elder-scrolls-online-initialization-issues/"><u>Expert Tips on Resolving The Elder Scrolls Online Initialization Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-directx-drawing-issues-a-step-by-step-guide/"><u>How to Fix DirectX Drawing Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-elite-8-cameras-revolutionizing-online-broadcasts/"><u>In 2024, Elite 8 Cameras Revolutionizing Online Broadcasts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-experts-choice-the-best-of-all-8k-cameras/"><u>In 2024, Expert's Choice The Best of All 8K Cameras</u></a></li>
-<li><a href="https://win-able.techidaily.com/overwatch-fixed-graphics-driver-issues-now-resolved/"><u>Overwatch Fixed: Graphics Driver Issues Now Resolved</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gamers-unite-fixing-the-payday-2-wont-launch-dilemma-easily/"><u>PC Gamers Unite! Fixing the 'Payday 2 Won't Launch' Dilemma Easily</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-8-methods-for-streaming-online-soundtracks-via-movavi-on-macos-systems/"><u>Top 8 Methods for Streaming Online Soundtracks via Movavi on macOS Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-problems-with-elex-ii-game-crashes-for-pc-users/"><u>Troubleshooting Persistent Problems with Elex II Game Crashes for PC Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-how-to-stop-red-dead-redemption-amo-from-crashing-on-windows/"><u>Troubleshooting Steps: How to Stop 'Red Dead Redemption Amo' From Crashing on Windows</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/which-should-you-choose-a-side-by-side-look-at-google-nest-audio-and-apple-homepod/"><u>Which Should You Choose? A Side-by-Side Look at Google Nest Audio and Apple HomePod</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-extended-review-uncomplicated-hdr-approach/"><u>[New] 2024 Approved Extended Review Uncomplicated HDR Approach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-guide-viewing-raya-and-the-last-dragon-on-any-device-3-approaches/"><u>Complete Guide: Viewing 'Raya and the Last Dragon' On Any Device - 3 Approaches</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-constant-stalls-in-god-of-war-for-your-computer-setup/"><u>Fixing Constant Stalls in God of War for Your Computer Setup</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guide-on-downloading-and-converting-5x-fpm-art-technique-lessons-to-mp4avi-files/"><u>Guide on Downloading & Converting 5X FPM Art Technique Lessons to MP4/AVI Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-prevent-and-resolve-palworld-from-crashing-on-desktop-systems/"><u>Guide: Prevent and Resolve PalWorld From Crashing on Desktop Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-poco-x6-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Poco X6 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-social-media-key-apps-for-professional-ig-videographers/"><u>In 2024, Mastering Social Media Key Apps for Professional IG Videographers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-paving-the-path-to-online-success-youtubes-keyword-guide/"><u>In 2024, Paving the Path to Online Success YouTube's Keyword Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/iphone-data-destruction-protocol-with-the-mobile-stellar-eraser-app/"><u>IPhone Data Destruction Protocol with the Mobile Stellar Eraser App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721437336075-level-up-gaming-skills-with-these-top-chatgpt-games/"><u>Level Up Gaming Skills with These Top ChatGPT Games!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-village-performance-optimized-overcoming-pc-gameplays-frame-rate-decreases/"><u>Resident Evil Village Performance Optimized: Overcoming PC Gameplay's Frame Rate Decreases</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-world-of-warships-pc-problems-5-fast-and-effective-solutions/"><u>Solving the World of Warships PC Problems: 5 Fast and Effective Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-poco-c50-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Poco C50 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-metro-exodus-pc-game-crashes/"><u>Troubleshooting Guide: Resolving Metro Exodus PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-rocket-leagues-crash-problem-a-comprehensive-2024-solutions-list/"><u>Ultimate Fix for Rocket League's Crash Problem: A Comprehensive 2024 Solutions List</u></a></li>
 </ul></div>
 
