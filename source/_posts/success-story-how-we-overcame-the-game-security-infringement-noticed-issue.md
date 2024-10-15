@@ -1,7 +1,7 @@
 ---
 title: "Success Story: How We Overcame the 'Game Security Infringement Noticed' Issue"
-date: 2024-10-02T23:11:54.778Z
-updated: 2024-10-08T17:34:36.839Z
+date: 2024-10-14T02:20:46.288Z
+updated: 2024-10-15T01:01:03.791Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 * [Fix 4: Change NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 5: Install the old driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your drivers
 
  Make sure all of your drivers are updated. You might think you’ve updated your graphic driver, but that’s not enough. **Many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.** The outdated or corrupted driver could be the culprit for crashing, lagging, or flickering issues.
@@ -58,10 +51,16 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -71,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Change mini map shape
 
@@ -85,10 +91,10 @@ Restart your computer for the changes to take effect.
 If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall shaders & clear cache
@@ -110,10 +116,10 @@ If it’s not working, move to the next fix.
 8. Press**Windows key + R** to open the Run box.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. Type**%programdata%** and press**Enter** .  
@@ -122,13 +128,6 @@ If it’s not working, move to the next fix.
 11. Restart Battle.net and relaunch the game.
 
 No luck with this fix? Try the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Change NVIDIA settings
 
@@ -143,10 +142,10 @@ No luck with this fix? Try the next one.
  If it’s not working, you’d better follow[fix 5](https://tools.techidaily.com/drivereasy/download/) to install the old NVIDIA driver.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Install the old driver
@@ -157,6 +156,19 @@ No luck with this fix? Try the next one.
 2. Type **devmgmt.msc** and press **Enter** to open the Device Manager window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8f66b1083.png)
 3. Double click on Display adapters to expand the category. Right-click the NVIDIA graphics card installed on your computer, then select **Uninstall device** (in some cases, this could be**Uninstall** ).![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8fbb41a7c.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. On the Uninstall confirm dialog box, select the **Delete the driver software for this device** check box, then click **Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8ff4327d4.png)
@@ -188,21 +200,21 @@ No luck with this fix? Try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/adobe-premiere-pro-stabilization-techniques-for-windows-10-and-11-users-facing-crashes/"><u>Adobe Premiere Pro Stabilization Techniques for Windows 10 & 11 Users Facing Crashes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-ultimate-chill-with-the-id-cooling-fx360-pro-top-reviews/"><u>Affordable Ultimate Chill with the ID-Cooling FX360 Pro – Top Reviews</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-tips-to-open-nvidia-control-panel-without-errors/"><u>Comprehensive Troubleshooting Tips to Open NVIDIA Control Panel Without Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/doom-eternal-gameplay-disruptions-how-to-make-them-history/"><u>DOOM Eternal Gameplay Disruptions: How To Make Them History</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-resolving-warcraft-3-reforged-stability-problems-on-pc-2024-edition/"><u>Expert Advice: Resolving Warcraft 3 Reforged Stability Problems on PC, 2024 Edition</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-excel-2000-files-on-mac-complete-guide-by-stellar-guide/"><u>How to Recover Deleted Excel 2000 Files on Mac Complete Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-y100i-power-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Y100i Power 5G on Mac?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/navigating-the-dynamics-of-instagram-highlight-categories-for-2024/"><u>Navigating the Dynamics of Instagram Highlight Categories for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/practical-methods-for-bypassing-an-iphones-passcode-lock/"><u>Practical Methods for Bypassing an iPhone's Passcode Lock</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-your-device-why-you-shouldnt-trust-the-google-bard-application/"><u>Protect Your Device: Why You Shouldn't Trust the Google Bard Application</u></a></li>
-<li><a href="https://win-able.techidaily.com/rocket-league-fix-how-i-solved-game-freezing-problems/"><u>Rocket League Fix - How I Solved Game Freezing Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-hello-to-smooth-gaming-in-world-of-warcraft-fixing-the-flicker-issue/"><u>Say Hello to Smooth Gaming in World of Warcraft - Fixing the Flicker Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-resolution-overcoming-obstacles-in-your-discord-install-journey/"><u>Step-by-Step Resolution: Overcoming Obstacles in Your Discord Install Journey</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-frame-rate-problems-in-resident-evil-village-on-your-computer/"><u>Troubleshooting & Solving Frame Rate Problems in Resident Evil Village on Your Computer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-capturewin-the-hassle-free-screen-recorder/"><u>[New] 2024 Approved CaptureWin The Hassle-Free Screen Recorder</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-digital-dividends-the-creators-guide-to-monetization/"><u>[New] 2024 Approved Digital Dividends The Creator's Guide to Monetization</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aptivate-viewers-designing-engaging-youtube-trailers-with-filmora/"><u>[New] Captivate Viewers Designing Engaging YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-crafting-captivating-facebook-biographies-a-comprehensive-guide/"><u>[New] In 2024, Crafting Captivating Facebook Biographies - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-free-yourself-with-top-4-applications-for-youtube-to-wav-conversion/"><u>[Updated] Free Yourself with Top 4 Applications for YouTube-to-WAV Conversion</u></a></li>
+<li><a href="https://win-able.techidaily.com/crash-free-playtime-ultimate-troubleshooting-guide-for-left-4-dead-2-stability/"><u>Crash-Free Playtime: Ultimate Troubleshooting Guide for Left 4 Dead 2 Stability</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dont-just-jump-think-about-it-pre-dvr-considerations-needed/"><u>Don't Just Jump, Think About It! Pre-DVR Considerations Needed</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-for-fixing-the-tarkov-103003-error-a-step-by-step-tutorial/"><u>Expert Advice for Fixing the 'Tarkov 103#003 Error': A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-roblox-e277-mistake-on-your-desktop-ultimate-guide/"><u>Fix Roblox E277 Mistake on Your Desktop: Ultimate Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-for-constant-age-of-wonders-planetfall-crashes-on-pc/"><u>Fixes and Solutions for Constant 'Age of Wonders: Planetfall' Crashes on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-gameloop-crashes-in-windows-11-and-windows-10-complete-guide/"><u>How to Fix GameLoop Crashes in Windows 11 & Windows 10 – Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-common-problems-with-nvidias-geforce-experience-fixed/"><u>Overcoming Common Problems with NVIDIA's GeForce Experience - Fixed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gamers-celebrate-la-noire-launch-confirmed-after-delays/"><u>PC Gamers Celebrate: L.A. Noire Launch Confirmed After Delays</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-8k-capture-the-ultimate-camera-guide-for-2024/"><u>Premier 8K Capture The Ultimate Camera Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-woes-be-gone-a-users-manual-for-restoring-winhttpdll-files/"><u>Windows Woes Be Gone: A User’s Manual for Restoring Winhttp.dll Files</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/winrecovery-your-key-to-regaining-lost-data/"><u>WinRecovery: Your Key to Regaining Lost Data</u></a></li>
 </ul></div>
 

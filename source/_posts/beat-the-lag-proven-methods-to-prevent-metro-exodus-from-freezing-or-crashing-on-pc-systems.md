@@ -1,7 +1,7 @@
 ---
 title: "Beat the Lag: Proven Methods to Prevent Metro Exodus From Freezing or Crashing on PC Systems"
-date: 2024-09-10T14:08:26.440Z
-updated: 2024-09-11T14:08:26.440Z
+date: 2024-10-11T19:11:55.342Z
+updated: 2024-10-14T22:02:05.436Z
 tags:
   - win11
   - win10
@@ -17,27 +17,10 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 
 **League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -50,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -104,19 +100,12 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
@@ -124,9 +113,23 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -139,20 +142,6 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -170,53 +159,20 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -232,37 +188,9 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Run League of Legends to see if you resolved this issue.
 
@@ -277,8 +205,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -286,12 +212,20 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-unveiling-the-secrets-maximizing-video-reach-on-igtv-with-horizinas/"><u>[New] Unveiling the Secrets Maximizing Video Reach on IGTV with Horizinas</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-electrical-energy-the-best-lipo-for-uavs/"><u>[Updated] Mastering Electrical Energy The Best LiPo for UAVs</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-black-ops-cold-war-a-comprehensive-guide-to-solve-shader-compilation-glitches/"><u>Call of Duty: Black Ops Cold War - A Comprehensive Guide to Solve Shader Compilation Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-game-hiccups-the-ultimate-guide-to-prevent-multiversus-from-freezing/"><u>Eliminate Game Hiccups: The Ultimate Guide to Prevent MultiVersus From Freezing</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-strategies-to-combat-lag-and-increase-fps-in-valheim-tips-updated-for-202-grope-your-gaming-experience-by-improving-the-frame-rate/"><u>Expert Strategies to Combat Lag and Increase FPS in Valheim - Tips Updated for 202 Grope Your Gaming Experience by Improving the Frame Rate!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-logitech-driving-force-gt-controller-on-windows-supports-win-7-to-win-11/"><u>Get Your Logitech Driving Force GT Controller on Windows – Supports Win 7 to Win 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002315419-lastly-always-listen-to-your-body-and-dont-hesitate-to-adjust-your-dietary-approach-based-on-how-you-feel-physically-and-mentally/"><u>Lastly, Always Listen to Your Body, and Don’t Hesitate to Adjust Your Dietary Approach Based on How You Feel Physically and Mentally.</u></a></li>
+<li><a href="https://win-able.techidaily.com/lego-star-wars-skywalker-saga-stability-improvements-for-pc-gamers/"><u>Lego Star Wars: Skywalker Saga Stability Improvements for PC Gamers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/livecam-rivals-meet/"><u>LiveCam Rivals Meet</u></a></li>
+<li><a href="https://win-able.techidaily.com/persistent-launch-error-with-black-flag-game-solutions-and-preventative-measures/"><u>Persistent Launch Error with Black Flag Game: Solutions & Preventative Measures</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-y27s-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo Y27s? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/reclaiming-deleted-youtube-treasures-a-2-step-guide-for-2024/"><u>Reclaiming Deleted YouTube Treasures A 2-Step Guide for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fix-ensuring-seamless-launches-for-valheim-in-the-latest-update/"><u>The Ultimate Fix: Ensuring Seamless Launches for Valheim in the Latest Update</u></a></li>
+</ul></div>
 

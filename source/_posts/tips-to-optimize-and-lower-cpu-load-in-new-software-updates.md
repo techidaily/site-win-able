@@ -1,7 +1,7 @@
 ---
 title: Tips to Optimize and Lower CPU Load in New Software Updates
-date: 2024-09-10T14:08:33.191Z
-updated: 2024-09-11T14:08:33.191Z
+date: 2024-10-10T18:12:33.020Z
+updated: 2024-10-14T23:58:18.859Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ thumbnail: https://thmb.techidaily.com/740b68b56d6bbac7152f3eef9f605d6bffa61f711
 
  Your Origin client can’t get online? Don’t worry… You’re not the only one. Many Origin users have had the same issue occurring on their computers. But more importantly, you should be able to fix this issue very easily
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fixes to try
 
@@ -56,20 +39,6 @@ thumbnail: https://thmb.techidaily.com/740b68b56d6bbac7152f3eef9f605d6bffa61f711
  Perhaps you’re having a connection issue with Origin because there is a virus or malware on your computer. They may change your Internet settings or corrupt your computer file so Origin can’t go online. You should run your antivirus software to scan your computer for viruses and malware.
 
  If this resolves your problem, great! But if not, there are still other fixes you can try…
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Temporarily disable your antivirus
 
@@ -92,41 +61,20 @@ thumbnail: https://thmb.techidaily.com/740b68b56d6bbac7152f3eef9f605d6bffa61f711
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_each device_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbc8d302569.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  You can do it for free if you like, but it’s partly manual.
 
 * Restart your computer.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset your hosts file
 
@@ -142,44 +90,33 @@ To do so:
 %windir%\system32\drivers\etc  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbd1c77cbb2.png)
 4. Double click**hosts** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbd2e1b6cf2.jpg)
 5. Select**Notepad** , then click**OK** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbec88bf79c.jpg)
 6. **Delete** **all the content** of the file, then copy and paste the**following text** into the file.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 # Copyright (c) 1993-2006 Microsoft Corp
 
@@ -226,26 +163,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbf0306507c.jpg)
 8. Check to see if this works for you.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 If not, then you may need to…
 
 ### Fix 5: Reset your Internet connection settings
@@ -255,6 +172,14 @@ If not, then you may need to…
 1. On your computer, click the**Start** button and type “_cmd_ “.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd68d188b6f7.png)
 2. Right click**Command Prompt** in the list of results, then select**Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6a6691c908.jpg)
 3. Type the following lines of command at Command Prompt, and after typing each line, press**Enter** on your keyboard.  
 ipconfig /release  
@@ -282,8 +207,6 @@ netsh winhttp reset proxy
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -291,12 +214,22 @@ netsh winhttp reset proxy
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-28-days-to-becoming-an-instagram-reel-sensation/"><u>[Updated] 28 Days to Becoming an Instagram Reel Sensation</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-harmony-and-hype-perfecting-film-teaser-tunes-for-2024/"><u>[Updated] Harmony and Hype Perfecting Film Teaser Tunes for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-extracting-youtube-images-online-desktop-tools-and-terminal-tactics/"><u>2024 Approved Extracting YouTube Images Online, Desktop Tools & Terminal Tactics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-tips-to-prevent-audio-loss-in-live-obs-recording/"><u>2024 Approved Tips to Prevent Audio Loss in Live OBS Recording</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discover-the-top-30-free-intro-creators-on-youtube-for-2024/"><u>Discover the Top 30 Free Intro Creators on YouTube for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-to-fix-directx-compatibility-problems-in-rainbow-six-siege/"><u>Easy Steps to Fix DirectX Compatibility Problems in Rainbow Six Siege</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-methods-to-enhance-frame-rates-and-reduce-lag-during-gaming-sessions-on-windows-machines/"><u>Effective Methods to Enhance Frame Rates and Reduce Lag During Gaming Sessions on Windows Machines</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-to-resolve-gtfo-application-freezing/"><u>Effective Strategies to Resolve GTFO Application Freezing</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-unstick-your-frozen-outlook-program-for-easy-use-again/"><u>Guide: Unstick Your Frozen Outlook Program for Easy Use Again</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-motorola-moto-g13-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Motorola Moto G13 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-streaming-supremacy-the-peak-of-youtuber-popularity/"><u>In 2024, Streaming Supremacy The Peak of YouTuber Popularity</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/proven-strategies-maximizing-efficiency-in-your-mobizen-screencast-processes/"><u>Proven Strategies Maximizing Efficiency in Your Mobizen Screencast Processes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-black-screen-of-death-when-starting-overwatch-a-step-by-step-guide/"><u>Resolving the 'Black Screen of Death' When Starting Overwatch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-astros-a50-headset-not-showing-up-on-your-command-center/"><u>Solutions for Astro's A50 Headset Not Showing Up on Your Command Center</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-vr-undetected-here-are-six-remedies/"><u>Steam VR Undetected? Here Are Six Remedies!</u></a></li>
+</ul></div>
 

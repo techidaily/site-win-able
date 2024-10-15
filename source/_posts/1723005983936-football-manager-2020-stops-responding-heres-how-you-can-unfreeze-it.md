@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2020 Stops Responding? Here's How You Can Unfreeze It!
-date: 2024-10-07T21:17:15.142Z
-updated: 2024-10-08T20:16:31.971Z
+date: 2024-10-13T23:54:54.628Z
+updated: 2024-10-15T05:38:04.234Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Add an exception to your antivirus
@@ -56,14 +56,14 @@ Take Avast as an example:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If it’s not your antivirus software, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -90,13 +90,6 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -115,20 +108,19 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 4. When the process is finished, relaunch the game to check.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this fix bring no luck, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable overlay and launch in Windowed mode
 
@@ -139,8 +131,22 @@ If this fix bring no luck, move to the next fix.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If it’s still not working, you may try resetting your whole PC. Note that you need to backup important files before resetting. Some players indicated the game started working normally after that.
 
@@ -163,24 +169,22 @@ If this fix bring no luck, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-11-cutting-edge-techniques-for-optimizing-your-fb-videos-for-2024/"><u>[New] 11 Cutting-Edge Techniques for Optimizing Your FB Videos for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-premium-virtual-playstation-simulators-for-modern-computers-for-2024/"><u>[New] Premium Virtual PlayStation Simulators for Modern Computers for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-how-to-disconnect-permanently-from-the-tiktok-community/"><u>[Updated] 2024 Approved How to Disconnect Permanently From the TikTok Community</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-navigating-the-complexities-of-obs-a-beginners-guide/"><u>2024 Approved Navigating the Complexities of OBS A Beginner’s Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/6-unique-asian-themed-structures-in-minecraft/"><u>6 Unique Asian-Themed Structures in Minecraft</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/boost-your-fitness-journey-fitbit-versa-3s-integrated-gps-and-wellness-tools-for-extra-drive/"><u>Boost Your Fitness Journey: Fitbit Versa 3'S Integrated GPS and Wellness Tools for Extra Drive</u></a></li>
-<li><a href="https://win-able.techidaily.com/call-of-duty-black-ops-cold-war-fix-the-continuous-pc-freeze-issue-update-2024/"><u>Call of Duty: Black Ops Cold War - Fix the Continuous PC Freeze Issue (Update 2024)</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-for-stable-gameplay-stop-starfield-pc-crashes-now/"><u>Expert Tips and Fixes for Stable Gameplay: Stop Starfield PC Crashes Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-for-using-windows-file-browsing-in-place-of-ls/"><u>Expert Tips for Using Windows File Browsing in Place of LS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/heavy-haulers-face-off-t5-or-sjcam-s6-legend-in-2024/"><u>Heavy Haulers Face-Off T5 or SJCAM S6 Legend, In 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-11-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-motorola-moto-g13-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Motorola Moto G13? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012520797-master-the-mysteries-no-more-crashes-resident-evil-village-on-pc-solved/"><u>Master the Mysteries, No More Crashes: Resident Evil Village on PC Solved!</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-problems-a-guide-to-playing-modern-warfare-successfully-on-a-pc/"><u>Overcoming Launch Problems: A Guide to Playing Modern Warfare Successfully on a PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-video-card-compatibility-problem-in-the-sims-4-tips-and-solutions/"><u>Resolving 'Video Card Compatibility Problem in The Sims 4': Tips & Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-gameplay-ahead-prevent-world-of-warships-pc-freezes-and-glitches-using-our-top-easy-strategies/"><u>Smooth Gameplay Ahead! Prevent World of Warships PC Freezes and Glitches Using Our Top Easy Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-to-glitch-free-playthrough-of-assassins-creed-valhalla-on-your-pc/"><u>Solution to Glitch-Free Playthrough of Assassin’s Creed Valhalla on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-issues-when-starting-farmland-tycoon-22/"><u>Troubleshooting Tips: Resolving Issues When Starting Farmland Tycoon 22</u></a></li>
-<li><a href="https://win-able.techidaily.com/unveiling-the-reasons-behind-immortals-fenyx-risings-postponed-debut-issue-resolved/"><u>Unveiling the Reasons Behind Immortals Fenyx Rising's Postponed Debut - Issue Resolved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-dead-by-daylight-keeps-crashing-2024-tips/"><u>[Fixed] Dead by Daylight Keeps Crashing | 2024 Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-essential-video-promo-tips-for-startups-infographic/"><u>[Updated] 2024 Approved Essential Video Promo Tips for Startups (Infographic)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-step-by-step-guide-recording-your-favorite-shows-with-a-spectrum-tv-box/"><u>1. Step-by-Step Guide: Recording Your Favorite Shows with a Spectrum TV Box</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-storyboards-to-shortcuts-instra-to-tiksync-guide/"><u>2024 Approved From Storyboards to Shortcuts Instra-to-TikSync Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011205961-boost-your-survival-game-in-dayz-improve-item-drops-now/"><u>Boost Your Survival Game in DayZ - Improve Item Drops Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-the-darkness-effective-solutions-for-cyberpunk-2077s-black-screen-conundrum/"><u>Conquering the Darkness: Effective Solutions for Cyberpunk 2077'S Black Screen Conundrum</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-solving-the-persistent-issue-of-minecraft-dungeons-frequent-pc-freezes/"><u>Diagnosing & Solving the Persistent Issue of Minecraft Dungeon's Frequent PC Freezes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-silent-skies-troubleshooting-the-skyrim-audio-issue/"><u>Fixing Silent Skies: Troubleshooting the Skyrim Audio Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/genetic-variations-in-the-cytochrome-p45amoeba-methylene-blue-enzymes-may-lead-to-slower-or-faster-clearance-of-drugs-impacting-their-efficacy-and-potential590/"><u>Genetic Variations in the Cytochrome P45amoeba Methylene Blue Enzymes May Lead to Slower or Faster Clearance of Drugs, Impacting Their Efficacy and Potential for Harm.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-7-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 7</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-your-devices-persistent-black-screen-dilemma-resolved/"><u>How to Fix Your Device's Persistent Black Screen Dilemma - Resolved!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-archive-in-minutes-with-these-tools/"><u>In 2024, Instagram Archive in Minutes with These Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/lost-ark-for-pc-troubleshooting-and-fixing-persistent-crash-errors/"><u>Lost Ark for PC: Troubleshooting and Fixing Persistent Crash Errors</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/mart-youtubers-playbook-fixing-short-snafus/"><u>The Smart Youtuber's Playbook Fixing Short Snafus</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-truth-behind-my-decision-to-stop-suggesting-100-cpu-heatsinks/"><u>The Truth Behind My Decision to Stop Suggesting $100 CPU Heatsinks</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-the-dell-inspiron-14-plus-74aster-dragon-enthusiasts-guide/"><u>Understanding the Dell Inspiron 14 Plus (74Aster Dragon Enthusiasts' Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/yongnuo-yn560-iv-wireless-flash-speedlite-master-review/"><u>Yongnuo YN560 IV Wireless Flash Speedlite Master Review</u></a></li>
 </ul></div>
 

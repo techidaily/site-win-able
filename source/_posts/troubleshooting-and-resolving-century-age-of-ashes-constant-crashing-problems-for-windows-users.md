@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Resolving 'Century: Age of Ashes' Constant Crashing Problems for Windows Users"
-date: 2024-10-03T20:06:07.032Z
-updated: 2024-10-08T21:09:42.424Z
+date: 2024-10-11T21:11:46.526Z
+updated: 2024-10-14T17:21:02.591Z
 tags:
   - win11
   - win10
@@ -52,29 +52,16 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 ![Switch GPU to CPU for fast previews in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects-1.jpg)
 2. Click the**GPU information** button in the Fast previews section and switch GPU to CPU.  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Switch GPU to CPU for fast previews in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects.jpg)
 
- After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
-
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
 
 ## Fix 2: Update your graphics driver
 
@@ -108,13 +95,6 @@ There’re mainly two ways you can update your graphics drivers:
 
 **Or**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -132,21 +112,15 @@ There’re mainly two ways you can update your graphics drivers:
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -155,6 +129,13 @@ There’re mainly two ways you can update your graphics drivers:
  Launch After Effects to see if it would crash or not. Normally, after you updated the graphics driver, the crashing issue will disappear.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Purge memory & disk cache
 
@@ -167,22 +148,22 @@ There’re mainly two ways you can update your graphics drivers:
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If After Effects works well after you purged memory and disk cache, it may suggests that currently your computer doesn’t has sufficient RAM or storage for After Effects to run properly and you may need to upgrade the memory or storage to prevent crashes due to insufficient resources in the future.
 
  The mechanical hard drive may also be the culprit of the crashing issue. As we all know, the mechanical hard drive is prone to damage. Bad sectors may corrupt the files stored on it and cause crashing. If it is the case, you may want to replace the mechanical hard drive to a solid-state drive (SSD).
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Delete the temp folder of After Effects
 
@@ -195,10 +176,10 @@ There’re mainly two ways you can update your graphics drivers:
 4. Launch After Effects to see if this issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If After Effects still crashes, try the next fix, below.
@@ -208,6 +189,13 @@ If After Effects still crashes, try the next fix, below.
  Codecs are used to encode and decode your video files in After Effects. When codecs are corrupted or installed incorrectly, it may trigger the After Effects crashing issue. To fix crashing caused by codecs, you should try reinstall or update them.
 
  Some incompatible plugins would also crash After Effects. Before installing a 3rd party plugin, you need ensure it is 100% compatible with both your version of After Effects and other plugins. If you’ve installed a new plugin recently, try deactivating it to see if it is the crashing culprit. If it doesn’t help, you may need to reinstall After Effects.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Update / reinstall After Effects
 
@@ -241,24 +229,21 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-advanced-techniques-for-better-obs-encoding/"><u>[Updated] 2024 Approved Advanced Techniques for Better OBS Encoding</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-digestible-vid-info-quick-start/"><u>2024 Approved Digestible Vid Info Quick Start</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-from-observing-to-involved-the-tiktok-life-journey/"><u>2024 Approved From Observing to Involved The TikTok Life Journey</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-toontech-full-evaluation-and-how-to-guide-24/"><u>2024 Approved ToonTech Full Evaluation & How-To Guide '24</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-get-origin-running-again-on-your-windows-nk-problem-solved/"><u>How to Get Origin Running Again on Your Windows Nk: Problem Solved!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nubia Z50 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-premier-zombie-apocalypse-battles-ranking-top-titles/"><u>In 2024, Premier Zombie Apocalypse Battles Ranking Top Titles</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-smoothest-gameplay-with-lg-27uhd68-freesync-tv/"><u>In 2024, The Smoothest Gameplay with LG 27UHD68 FreeSync TV</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/iphoneandroid-choose-great-focus-shots/"><u>IPhone/Android Choose Great Focus Shots</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-data-center-connectivity-errors-in-halo-infinite-fix-the-no-ping-detected-issue/"><u>Overcoming Data Center Connectivity Errors in Halo Infinite – Fix the 'No Ping Detected' Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-troubleshooting-guide-fixing-continuous-arcadegeddon-freezes-and-crashes/"><u>PC Troubleshooting Guide: Fixing Continuous Arcadegeddon Freezes and Crashes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/prime-time-podcasting-release-patterns/"><u>Prime Time Podcasting Release Patterns</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-cod-vanguard-error-0x00001338-on-pc-step-by-step-guide/"><u>Resolved: How to Fix CoD Vanguard Error 0X00001338 on PC - Step-by-Step Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/stream-quality-which-is-superior-obs-or-fraps/"><u>Stream Quality Which Is Superior, OBS or Fraps?</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-eliminating-stuttering-issues-in-cyberpunk-2077/"><u>Troubleshooting Guide: Eliminating Stuttering Issues in Cyberpunk 2077</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-blizzards-battlenet-launcher-issues-on-windows-pc/"><u>Troubleshooting Guide: Fixing Blizzard's Battle.net Launcher Issues on Windows PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-overcoming-frequent-crashes-while-playing-genshin-impact-on-pc/"><u>Troubleshooting Tips: Overcoming Frequent Crashes While Playing Genshin Impact on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-issues-with-the-msi-afterburner-overlay/"><u>Troubleshooting Tips: Resolving Issues with the MSI Afterburner Overlay</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-solving-maplestory-freezing-issues-in-windows-10-2023-edition/"><u>Ultimate Guide: Solving MapleStory Freezing Issues in Windows 10 - 2023 Edition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-slideshow-software-for-iphone-fi-and-pro-max/"><u>[New] Perfect Slideshow Software For iPhone Fi & Pro Max</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-cutting-ties-with-instagram-users-for-2024/"><u>[Updated] Cutting Ties with Instagram Users for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-superior-android-3d-film-watcher/"><u>[Updated] In 2024, Superior Android 3D Film Watcher</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-stand-out-on-google-the-ultimate-thumbnail-font-guide/"><u>2024 Approved Stand Out on Google The Ultimate Thumbnail Font Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unleashing-creativity-yi-hero-in-motion-and-still-frames/"><u>2024 Approved Unleashing Creativity Yi Hero in Motion and Still Frames</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-frame-rate-reductions-insights-into-fortnites-season-8-performance-tweaks/"><u>Decoding Frame Rate Reductions - Insights Into Fortnite's Season #8 Performance Tweaks</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-enhance-rainbow-six-siege-playability-and-reduce-lag/"><u>Effective Solutions to Enhance Rainbow Six Siege Playability & Reduce Lag</u></a></li>
+<li><a href="https://fox-within.techidaily.com/effortless-ssd-cloning-solutions-best-free-programs-for-quick-hdd-transfer-to-ssd/"><u>Effortless SSD Cloning Solutions: Best Free Programs for Quick HDD Transfer to SSD</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-preventing-and-repairing-game-instability-for-slime-rancher-2-on-pc/"><u>Expert Guide: Preventing and Repairing Game Instability for Slime Rancher 2 on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-when-the-elder-scrolls-online-wont-start-properly/"><u>How to Fix When 'The Elder Scrolls Online' Won’t Start Properly</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-scripting-stimulating-screen-grabbers/"><u>In 2024, Scripting Stimulating Screen-Grabbers</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-launch-problems-with-star-wars-the-old-republic-swtor/"><u>Resolving Launch Problems with Star Wars The Old Republic (SWTOR)</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-black-display-problems/"><u>Troubleshooting and Fixing Black Display Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/warframe-startup-problems-resolved-enjoy-uninterrupted-gaming/"><u>Warframe Startup Problems Resolved - Enjoy Uninterrupted Gaming</u></a></li>
 </ul></div>
 

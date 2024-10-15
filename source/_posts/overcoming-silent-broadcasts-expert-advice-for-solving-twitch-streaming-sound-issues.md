@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Silent Broadcasts: Expert Advice for Solving Twitch Streaming Sound Issues"
-date: 2024-09-10T14:08:35.933Z
-updated: 2024-09-11T14:08:35.933Z
+date: 2024-10-11T01:17:58.535Z
+updated: 2024-10-14T16:10:35.428Z
 tags:
   - win11
   - win10
@@ -21,13 +21,10 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 
  However, just like other newly launched games, Resident Evil Village is not immune to performance issues. Recently, we’ve seen that many gamers are experiencing in-game fps drops. If you’re on the same boat, you’ve come to the right place! After reading this article, you should be able to fix this issue on your own easily!
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -63,23 +60,16 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and [manually install them, the normal Windows way](https://tools.techidaily.com/drivereasy/download/) .)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -88,20 +78,6 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 ## Fix 2: Optimize GPU Settings
 
  If the in-game FPS doesn’t imrpove much after you updated your graphics driver, you may need to tweak the graphics settings. Here’s how to do it:
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Step 1: Tweak your graphics card settings
 
@@ -127,21 +103,14 @@ For AMD users, follow the steps below:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-
-
-
+ Launch the game to see the fps increases. If not, move on to modify Windows 10 OS graphics settings.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
- Launch the game to see the fps increases. If not, move on to modify Windows 10 OS graphics settings.
 
 ### Step 2: Modify Windows 10 OS graphics settings
 
@@ -150,21 +119,16 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 1. On your keyboard, press **the Windows logo key** and type **graphics settings** . Then select **Graphics settings** from the list of search results to open it.  
 ![search graphics settings Windows 10](https://images.drivereasy.com/wp-content/uploads/2021/04/search-graphics-settings-Windows-10.jpg)
 2. In the Graphics settings window, click **Browse** to open **File Explorer** .  
-![Windows 10 graphics settings](https://images.drivereasy.com/wp-content/uploads/2021/05/Windows-10-graphics-settings.jpg)
-3. Then go to **the drive where you save Resident Evil Village game files** \> **Program Files (x86)** or **Program Files** \> **Steam** \> **steamapps** \> **common** \> **Resident Evil Village** game folder, double-click **the .exe file** of Resident Evil Village to add the game.
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![Windows 10 graphics settings](https://images.drivereasy.com/wp-content/uploads/2021/05/Windows-10-graphics-settings.jpg)
+3. Then go to **the drive where you save Resident Evil Village game files** \> **Program Files (x86)** or **Program Files** \> **Steam** \> **steamapps** \> **common** \> **Resident Evil Village** game folder, double-click **the .exe file** of Resident Evil Village to add the game.
 
 4. Once added, click the**Options** button under re8.exe, then select **High performance** and click **Save** .  
 ![Windows 10 graphics settings high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/Windows-10-graphics-settings-high-performance.jpg)
@@ -179,20 +143,6 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 2. Tweak the settings one by one until you find the graphics profile that suits your hardware and ganrantees a good gaming experience.  
 ![Resident Evil Village in-game graphics settings](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-in-game-graphics-settings.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Restart the game to check if the Resident Evil Village fps drops again. If this issue persists, try the next fix, below.
 
 ## Fix 3: Install the latest game patch
@@ -203,19 +153,12 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 
  Run Resident Evil Village again to see whether the FPS is back to normal. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 4: Disable the Steam Overlay
 
@@ -225,56 +168,16 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 ![Resident Evil Village steam properties](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-steam-properties.jpg)
 2. In the**GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![Disable the Steam Overlay for Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/Disable-the-Steam-Overlay-for-Resident-Evil-Village.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Launch Resident Evil Village to see if the game runs smoothly. If the issue persists, try the next fix, below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 5: Set Resident Evil Village to High priority
 
@@ -289,20 +192,6 @@ To set Resident Evil Village to High priority:
 
  Restart the game to see if the in-game FPS improves. If the FPS is still the same, try the next fix, below.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 6: Close resource-hogging apps
 
  If too many applications or programs are running at the same time in the background, the in-game fps may unstable and even dops a lot. You may need to**restrict applications and downloads in the background** before playing the game. Here is how to do it:
@@ -310,6 +199,19 @@ To set Resident Evil Village to High priority:
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![End task](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run Resident Evil Village to see if you can play the game smoothly. if not, try the next fix, below.
 
@@ -325,22 +227,23 @@ To set Resident Evil Village to High priority:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the window that pops up, expand **Hide additional plans** and select **High performance** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 Launch Resident Evil Village to check if the in-game fps improves.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 8: Adjust your Windows system for the best performance
 
@@ -350,56 +253,10 @@ Launch Resident Evil Village to check if the in-game fps improves.
 ![run SystemPropertiesAdvanced](https://images.drivereasy.com/wp-content/uploads/2021/05/run-SystemPropertiesAdvanced.jpg)
 2. Under the**Advanced** tab, click the Settings… button in the**Performance** section.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Advanced Performance Settings](https://images.drivereasy.com/wp-content/uploads/2021/05/Advanced-Performance-Settings.jpg)
 3. Under the**Visual Effects** tab, select**Adjust for best performance** and click**OK** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Adjust Windows for best performance](https://images.drivereasy.com/wp-content/uploads/2021/05/Adjust-Windows-for-best-performance.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Launch Resident Evil Village to see if you get a better in-game fps.
 
@@ -420,8 +277,6 @@ Launch Resident Evil Village to see if you get a better in-game fps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -429,12 +284,21 @@ Launch Resident Evil Village to see if you get a better in-game fps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-from-unverified-beginnings-to-high-flying-fame-on-instagram-unveil-the-6-keys/"><u>[New] From Unverified Beginnings to High-Flying Fame on Instagram Unveil the 6 Keys</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-scripting-for-advanced-typography-in-after-effects/"><u>[New] Innovative Scripting for Advanced Typography in After Effects</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outubes-payment-cycle-a-detailed-look/"><u>[New] YouTube’s Payment Cycle A Detailed Look</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-getting-started-audacitys-guide-to-microphone-use-on-mac/"><u>[Updated] In 2024, Getting Started Audacity's Guide to Microphone Use on Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/8-ways-to-fix-hogwarts-legacy-crashing-on-startup-pc/"><u>8 Ways To Fix Hogwarts Legacy Crashing on Startup PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-intel-centrino-6205-wifi-adapter-driver-software/"><u>Get the Latest: Intel Centrino 6205 WiFi Adapter Driver Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/hogwarts-legacy-wont-start-master-these-5-tricks-to-get-your-game-running-smoothly/"><u>Hogwarts Legacy Won't Start? Master These 5 Tricks to Get Your Game Running Smoothly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007879431-mastering-hitman-3-on-pc-avoid-crashes-and-enjoy-gaming-with-these-tips/"><u>Mastering Hitman 3 on PC - Avoid Crashes and Enjoy Gaming with These Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/metaverse-promotion-essentials/"><u>Metaverse Promotion Essentials</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004178815-no-more-crashes-rapid-remedies-for-the-origin-application-issue/"><u>No More Crashes: Rapid Remedies for the 'Origin' Application Issue</u></a></li>
+<li><a href="https://fox-links.techidaily.com/pixiz-masterclass-merging-photography-and-motion/"><u>Pixiz Masterclass Merging Photography and Motion</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-non-launching-dilemma-a-guide-to-getting-back-4-blood-up-and-running-on-windows/"><u>Solving the Non-Launching Dilemma: A Guide to Getting Back 4 Blood Up and Running on Windows</u></a></li>
+<li><a href="https://win-online.techidaily.com/solving-usb-30s-slow-data-transfer-issue-a-comprehensive-guide-with-7-effective-methods/"><u>Solving USB 3.0'S Slow Data Transfer Issue - A Comprehensive Guide with 7 Effective Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-bugs-in-phasmophobia-updates-and-fixes-for-the-new-year/"><u>Troubleshooting Common Bugs in Phasmophobia: Updates and Fixes for the New Year</u></a></li>
+</ul></div>
 

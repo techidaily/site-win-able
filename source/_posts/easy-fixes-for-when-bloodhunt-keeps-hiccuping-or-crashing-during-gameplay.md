@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for When Bloodhunt Keeps Hiccuping or Crashing During Gameplay
-date: 2024-10-04T19:05:33.438Z
-updated: 2024-10-08T22:17:31.345Z
+date: 2024-10-09T17:52:33.645Z
+updated: 2024-10-14T21:22:37.138Z
 tags:
   - win11
   - win10
@@ -35,25 +35,11 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/how-to-fix-Pathfinder-Wrath-of-the-Righteous-freezing-on-PC.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Add your game as an exception to your antivirus
 
  Some gamers reported on Reddit that it turned out the antivirus application was quarantining the game every time they ran it. They solved the freezing issue by whitelisting the game. To make sure your antivirus is not blocking your game from launching properly, you should disable your antivirus or add your game as an exception. Otherwise, your antivirus might identify the game as a Trojan.
 
  If you’re quite sure there is nothing to do with your antivirus application, try the fixes listed below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Update your graphics driver
 
@@ -72,10 +58,16 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2 – Automatically update your graphics driver (recommended)
@@ -87,13 +79,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
@@ -107,12 +92,26 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  A variety of issues may be caused by corrupted game files, whether it’s glitched graphics or inability to launch the game. When the Pathfinder: Wrath of the Righteous freezing issue arise, you should check the integrity of the game files on Steam or GOG Galaxy:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Verify on Steam
 
 1. Launch your Steam client. From the LIBRARY section, right-click your game title and select**Properties** from the menu.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
 2. Select the**LOCAL FILES** tab and click on the**VERIFY INTEGRITY OF GAME FILES…** button. Then Steam will verify the game files. Simply wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
@@ -122,7 +121,21 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 2. Click the game in your Library.
 3. Click on the**Customize button** ![](https://images.drivereasy.com/wp-content/uploads/2021/09/customization-button-GOG-Galaxy.png) (on the right side of the Play button), select**Manage installation > Verify / Repair** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  GOG Galaxy will now verify all of your game files, and compare them with files hosted on the game servers. If there are any discrepancies GOG Galaxy will redownload, and repair corrupted files.
 
@@ -139,20 +152,13 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 3. Click **In-Game** . Uncheck the box **Enable the Steam Overlay while in-game** . Then click **OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
 
@@ -172,6 +178,13 @@ However, if it doesn’t give you any luck, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 3. Go to**ComputerHKEY\_CURRENT\_USERSOFTWAREowlcat** and delete the entire key.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
 
 Once done, restart your game and test the gameplay.
@@ -185,13 +198,6 @@ Once done, restart your game and test the gameplay.
 3. Once it’s finished, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -212,18 +218,22 @@ Once done, restart your game and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-up-to-date-strategies-for-youtube-earnings/"><u>[New] Up-to-Date Strategies for YouTube Earnings</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-deleting-youtube-comments/"><u>[Updated] 2024 Approved Deleting YouTube Comments</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-sierra-icloud-drive-integrations-and-usage/"><u>2024 Approved Unlocking Sierra iCloud Drive Integrations & Usage</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725287729914-winxvideo-ai4k8k10k/"><u>利用 Winxvideo AI，转换图像成为高清4K/8K/10K级别的艺术品</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-pc-performance-fixing-resident-evil-village-lags-without-compromise/"><u>Boosting PC Performance: Fixing Resident Evil Village Lags Without Compromise</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-guide-installing-epson-xp-430-printer-drivers-on-windows-step-by-step-instructions/"><u>Complete Guide: Installing Epson XP-430 Printer Drivers on Windows - Step by Step Instructions</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-palworld-up-and-running-steps-for-a-smooth-launch/"><u>Getting Palworld Up and Running: Steps for a Smooth Launch</u></a></li>
-<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-unleash-window-history-an-in-depth-look-at-springs-tech/"><u>In 2024, Unleash Window History An In-Depth Look at Spring's Tech</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-low-memory-issues-solutions-for-an-uninterrupted-god-of-war-adventure/"><u>Overcoming Low Memory Issues - Solutions for an Uninterrupted God of War Adventure</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-free-installation-of-tiny-tinas-wonderland-on-pc-fixed-issues-covered/"><u>Trouble-Free Installation of Tiny Tina’s Wonderland on PC: Fixed Issues Covered</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009331984-troubleshooting-fortnite-sign-in-problems-swift-solutions-inside/"><u>Troubleshooting Fortnite Sign-In Problems: Swift Solutions Inside!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975789552-up-to-date-drivers-for-your-surface-book-fast-and-easy-access-now/"><u>Up-to-Date Drivers for Your Surface Book - Fast & Easy Access Now</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-masterclass-the-foremost-image-enhancers-on-iphones-and-androids/"><u>[New] Masterclass The Foremost Image Enhancers on iPhones and Androids</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-boost-engagement-with-effortless-youtube-thumbnail-tips/"><u>[Updated] In 2024, Boost Engagement with Effortless Youtube Thumbnail Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-enigmatic-slow-motion-documentary/"><u>[Updated] In 2024, Enigmatic Slow-Motion Documentary</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-hdtv-showdown-selecting-the-best-8k-models/"><u>[Updated] The Ultimate HDTV Showdown Selecting the Best 8K Models</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-realme-note-50-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Realme Note 50 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-game-crashes-steady-play-for-madden-21-on-windows-systems/"><u>Conquer Game Crashes: Steady Play for Madden '21 on Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/experience-seamless-vr-rapid-repairs-for-the-black-screen-on-oculus-link/"><u>Experience Seamless VR: Rapid Repairs for the Black Screen on Oculus Link</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-keep-manor-lords-running-without-interruption-on-windows-machines/"><u>Expert Tips to Keep Manor Lords Running Without Interruption on Windows Machines</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/flash-bangla-10-minute-a-day-language-routine/"><u>Flash Bangla: 10-Minute a Day Language Routine</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-ensure-smooth-gameplay-resolving-dragons-dogma-2-pc-malfunctions/"><u>How to Ensure Smooth Gameplay: Resolving Dragon's Dogma 2 PC Malfunctions</u></a></li>
+<li><a href="https://win-able.techidaily.com/install-and-enable-virtualization-with-hyper-v-a-guide-for-windows-11-users/"><u>Install and Enable Virtualization with Hyper-V: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-stuttering-issues-in-sifu-on-pc-effective-solutions-inside/"><u>Overcome Stuttering Issues in Sifu on PC - Effective Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-zoom-video-problems-with-these-5-proven-strategies/"><u>Overcome Zoom Video Problems with These 5 Proven Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-to-stop-your-cult-of-the-lamb-game-from-crashing-on-desktop-pcs/"><u>Quick Fixes to Stop Your 'Cult of the Lamb' Game From Crashing on Desktop PCs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/speech-to-text-perfectionism-unleash-with-google-ai-for-2024/"><u>Speech-to-Text Perfectionism Unleash with Google AI for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-overcoming-startup-glitches-in-far-cry-6-gameplay-on-windows-platform/"><u>Successfully Overcoming Startup Glitches in Far Cry 6 Gameplay on Windows Platform</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unlocking-smooth-twitch-video-captures-for-2024/"><u>Unlocking Smooth Twitch Video Captures for 2024</u></a></li>
 </ul></div>
 

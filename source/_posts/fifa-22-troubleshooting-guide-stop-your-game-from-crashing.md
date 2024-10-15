@@ -1,7 +1,7 @@
 ---
 title: FIFA 22 Troubleshooting Guide - Stop Your Game From Crashing
-date: 2024-10-04T18:57:28.996Z
-updated: 2024-10-08T20:35:21.231Z
+date: 2024-10-13T22:31:54.652Z
+updated: 2024-10-14T23:00:16.074Z
 tags:
   - win11
   - win10
@@ -52,13 +52,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If it’s not working, move to next fix.
 
 ### Fix 2: Disable overclocking
@@ -72,13 +65,6 @@ If it’s not working, move to next fix.
 3. Restart the game and check.
 
 No luck with this one? Move to the next.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
 
@@ -110,29 +96,30 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
@@ -145,6 +132,13 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -172,22 +166,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-screen-reporter-toolkit-for-youtube-streamers/"><u>[New] In 2024, Best Screen Reporter Toolkit for YouTube Streamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722991648880-solved-ashen-crash-issue-quickly-and-easily/"><u>[SOLVED] Ashen Crash Issue | Quickly & Easily</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unlocking-apples-podcast-library-a-download-guide/"><u>[Updated] 2024 Approved Unlocking Apple's Podcast Library A Download Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-camera-control-tips-for-unshakable-images/"><u>[Updated] Camera Control Tips for Unshakable Images</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-amazon-prime-fan-favorites-highest-likes-and-view-counts/"><u>2024 Approved Amazon Prime Fan Favorites Highest Likes & View Counts</u></a></li>
-<li><a href="https://win-forum.techidaily.com/apeaac-movavi/"><u>免費線上APE到AAC轉換解決方案 - 為動態影片提供全天候服務的Movavi編輯器</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-gpt-ns-capabilities-for-all-users/"><u>Demystifying GPT-N's Capabilities for All Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-msedgeexe-crashes-troubleshooting-steps-for-stable-edge-browser-performance/"><u>Fixing MSEdge.exe Crashes: Troubleshooting Steps for Stable Edge Browser Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-pc-issues-how-to-prevent-psychonauts-2-from-continuously-crashing/"><u>Fixing PC Issues: How to Prevent 'Psychonauts 2' From Continuously Crashing</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-successfully-running-guardians-of-the-galaxy-8-essential-fixes-for-a-smooth-experience-on-pc/"><u>Guide: Successfully Running Guardians of the Galaxy - 8 Essential Fixes for a Smooth Experience on PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-11-pro-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone 11 Pro in the Best Ways</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-unable-to-sync-with-steam-cloud-error-easily/"><u>How to Overcome 'Unable to Sync with Steam Cloud' Error Easily</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-your-play-strategies-to-stop-palworld-from-halting-unexpectedly-on-pc/"><u>Optimizing Your Play: Strategies to Stop Palworld From Halting Unexpectedly on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011309170-overcome-lag-issues-in-splitgate-top-tips-for-boosting-your-fps/"><u>Overcome Lag Issues in Splitgate – Top Tips for Boosting Your FPS</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-14-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone 14 Plus Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-for-black-ops-cold-war-overcoming-issue-with-error-27711-in-the-ui/"><u>Solution for Black Ops Cold War, Overcoming Issue with Error 27711 in the UI</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-stop-windows-from-misidentifying-audio-device/"><u>Techniques to Stop Windows From Misidentifying Audio Device</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-unlock-free-moving-text-in-your-motion-captures/"><u>2024 Approved Unlock Free Moving Text in Your Motion Captures</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fixes-for-preventing-guilty-gear-strive-pc-game-crashes/"><u>Comprehensive Fixes for Preventing Guilty Gear Strive PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-avoiding-game-interruptions-in-titanfall-2-a-fast-track-fix/"><u>Expert Advice on Avoiding Game Interruptions in Titanfall 2: A Fast Track Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-nba-2k23-pc-issues-with-these-proven-strategies-top-7-solutions-unveiled/"><u>Fix Your NBA 2K23 PC Issues with These Proven Strategies – Top 7 Solutions Unveiled!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-sas-driver-for-windows-tips-for-a-smooth-download-and-installation/"><u>Get the Newest SAS Driver for Windows: Tips for a Smooth Download & Installation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-end-video-resizer-unparalleled-definition/"><u>High-End Video Resizer Unparalleled Definition</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/installing-the-newest-logiteam-g403-controller-software-on-pc-systems/"><u>Installing the Newest Logiteam G403 Controller Software on PC Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/meta-quest-3-launch-update-breaking-down-the-latest-features-pricing-release-timeline-and-technical-specifications/"><u>Meta Quest 3 Launch Update: Breaking Down the Latest Features, Pricing, Release Timeline, and Technical Specifications</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-origin-online-sign-in-issues-now-fixed/"><u>Resolved: Origin Online Sign-In Issues Now Fixed</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-overcoming-ds4-windows-not-working-guide-to-correctly-update-the-device-driver/"><u>Solved! Overcoming 'DS4 Windows Not Working' - Guide to Correctly Update the Device Driver</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streamline-your-youtube-presence-using-premiere-pro-for-2024/"><u>Streamline Your YouTube Presence Using Premiere Pro for 2024</u></a></li>
 </ul></div>
 

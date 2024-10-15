@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'Modern Warfare 2 Not Working' Issue - A Comprehensive Walkthrough
-date: 2024-09-10T14:12:45.813Z
-updated: 2024-09-11T14:12:45.813Z
+date: 2024-10-14T00:25:19.832Z
+updated: 2024-10-14T22:37:31.680Z
 tags:
   - win11
   - win10
@@ -17,27 +17,10 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 
 Playing Teardown game but the constant crashing issue blocks you from the destructible voxel world? Don’t worry. Whether you’re encountering**Teardown crashing** at startup, on quicksave, or during the gameplay, we’ve put together some working fixes for you. Read on to check them out!
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Before getting started
 
@@ -56,19 +39,12 @@ Minimum system requirements of Teardown
 
  If Teardown still crashes even though your components are more than enough, check out the methods below to fix the issue right away.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -97,33 +73,27 @@ Minimum system requirements of Teardown
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Windows Security** \>**Virus & threat protection** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **4)** Click**Manage settings** .
 
@@ -133,20 +103,6 @@ Minimum system requirements of Teardown
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-5.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **6)** When Controlled folder access is enabled, you can click**Allow an app through Controlled folder access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-7.jpg)
@@ -155,41 +111,7 @@ Minimum system requirements of Teardown
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-8.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Relaunch the game to see if crashing persists. If unluckily yes, then go ahead with next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3 – Temporarily disable the antivirus software
 
@@ -198,26 +120,6 @@ Minimum system requirements of Teardown
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
  If the game runs smoothly now, add Teardown to the exception list of your anti-virus programs so you can use both without conflicts. If this method doesn’t work, move towards the next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4 – Update your graphics card driver
 
@@ -244,25 +146,25 @@ Minimum system requirements of Teardown
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-1.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -270,6 +172,13 @@ Minimum system requirements of Teardown
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Launch Teardown to test the game performance with an updated graphics driver. Still no luck? Then try the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -283,29 +192,16 @@ Minimum system requirements of Teardown
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **3)** Navigate to the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for Steam to detect and repair the corrupted game files, and then you can check whether Teardown stops crashing or not. If not, have a look at the last fix.
 
@@ -320,20 +216,6 @@ Minimum system requirements of Teardown
 **2)** Right-click**Teardown** from the game list and click**Manage** \>**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **3)** Click**Uninstall** to confirm.
 
@@ -352,8 +234,6 @@ Minimum system requirements of Teardown
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -361,12 +241,24 @@ Minimum system requirements of Teardown
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-5-must-see-facebook-vids-that-delight-us-all/"><u>[New] In 2024, 5 Must-See Facebook Vids That Delight Us All</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-tiktok-sound-comprerancy-on-muted-video-segments/"><u>[Updated] 2024 Approved TikTok Sound Comprerancy on Muted Video Segments</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-step-by-step-modify-username-in-google-meet/"><u>[Updated] In 2024, Step-by-Step Modify Username in Google Meet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-your-go-to-for-epic-virtual-escapades-for-2024/"><u>[Updated] Your Go-To for Epic Virtual Escapades for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-cyberpunk-2077s-deadly-error-code-2024-what-gamers-need-to-know-now/"><u>Decoding Cyberpunk 2077'S Deadly Error Code 2024: What Gamers Need to Know Now</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-spark-10-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Tecno Spark 10 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correctly-address-graphic-errors-in-your-rust-projects/"><u>How to Correctly Address Graphic Errors in Your Rust Projects</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-shadowplays-failure-to-record-on-your-pc-windows-guide/"><u>How to Resolve Shadowplay's Failure to Record on Your PC - Windows Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-v-purse-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor V Purse to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12-pro-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12 Pro 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimized-browser-performance-tackling-chromes-cpu-overload-issue-resolved/"><u>Optimized Browser Performance: Tackling Chrome's CPU Overload Issue Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-lag-troubles-with-these-fixes-for-dying-light-gameplay/"><u>Resolve Your Lag Troubles with These Fixes for Dying Light Gameplay</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ower-of-personalization-upgrade-your-youtube-url-for-2024/"><u>The Power of Personalization Upgrade Your YouTube URL for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-tier-performance-showdown-hp-zbook-firefly-15-g8-reviewed-for-business-and-creatives/"><u>Top-Tier Performance Showdown: HP ZBook Firefly 15 G8 Reviewed for Business and Creatives</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-persistent-minecraft-crashing-in-just-6-steps/"><u>Troubleshoot Persistent Minecraft Crashing in Just 6 Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-the-challenge-of-non-launchable-gta-5/"><u>Troubleshooting Guide: Overcoming the Challenge of Non-Launchable GTA 5</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-resolving-madden-nfl-2n-on-pc-stability-problems/"><u>Troubleshooting: Resolving Madden NFL 2N on PC Stability Problems</u></a></li>
+</ul></div>
 

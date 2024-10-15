@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Masterclass: Eliminate 'Among Us' Crashing Problems in the New Year, 2024"
-date: 2024-09-10T14:13:01.006Z
-updated: 2024-09-11T14:13:01.006Z
+date: 2024-10-10T01:23:49.356Z
+updated: 2024-10-15T01:31:09.303Z
 tags:
   - win11
   - win10
@@ -23,13 +23,10 @@ _Image source: ea.com_
 
  But there are some issues pissing players off, one of which is that the game doesn’t even launch! Some are getting an error **“Your game failed to launch. An error on our end caused your launch to fail. Try again a little later.”** If you have no clue what has happened, you’ve come to the right place! In this guide, we’ll walk you through the methods to solve your problem and bring your game back to the deep and immersive gaming experience.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Before proceeding to the fixes below…
 
@@ -75,20 +72,6 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/system-requiemnts-1.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  To find out which graphics card you have in your PC, all you have to do is go to the**Display** tab.
 
  If a system restart doesn’t help and you’ve confirmed that your PC is perfectly capable of running Dead Space, you can try these fixes.
@@ -116,27 +99,21 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
 
- You should also try disabling your antivirus if you’re using any. After you’ve done these, attempt to launch the game. If it still fails to launch or triggers any errors, proceed to the next fix. Prior to getting started with the troubleshooting steps below, remember to repeat the similar steps as listed above to turn on the Firewall and enable antivirus to protect your computer from the risk of malicious programs.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+ You should also try disabling your antivirus if you’re using any. After you’ve done these, attempt to launch the game. If it still fails to launch or triggers any errors, proceed to the next fix. Prior to getting started with the troubleshooting steps below, remember to repeat the similar steps as listed above to turn on the Firewall and enable antivirus to protect your computer from the risk of malicious programs.
 
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Close conflicting or non-essential programs
 
@@ -148,18 +125,12 @@ To check your PC hardware specifications, you can follow the steps below.
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unnecessary applications.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
@@ -177,19 +148,12 @@ To check your PC hardware specifications, you can follow the steps below.
 
  Till now, launch the game to test if it works. If this method doesn’t give you any luck, move on to the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4\. Download & install all Windows updates
 
@@ -200,43 +164,22 @@ To check your PC hardware specifications, you can follow the steps below.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  button. If updates are available, follow the on-screen instructions to download and install the updates for your system.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
  After the updates are installed, reboot your device and then try to launch your game. If you’re still having the issue, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. Unfortunately, it’s also susceptible to corruption. When that happens, your PC performance would suffer and your graphics-intensive game may fail to work properly. Therefore, it’s imperative to update your graphics driver. Additionally, when a new title comes out, some graphics card manufacturers would release game-ready drivers, which you should definitely download and install.
 
  There are mainly two ways you can update your drivers: manually and automatically.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Option 1: Manually update your drivers
 
@@ -248,20 +191,6 @@ To check your PC hardware specifications, you can follow the steps below.
 
  Then find the most up-to-date driver and follow the on-screen instructions to download and install it for your system.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Option 2: Automatically update your drivers (recommended)
 
  If you’re looking for a hassle-free way to get driver updates, you can use an automatic driver updater like **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Manually updating drivers is a tedious task and Driver Easy helps you do all the busy work. It helps you scan and detect any missing or outdated drivers, then download and install the latest drivers for your system, direct from the device provider.
@@ -272,85 +201,24 @@ To check your PC hardware specifications, you can follow the steps below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer. If your game isn’t loading, don’t fret! Below are some other fixes.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 6\. Verify your game files
 
  From time to time, game files can get corrupted and some important ones may even be missing, causing the issue of your game failing to launch as expected. To replace the corrupted files and make sure they are intact, you should try to verify them within the gaming platform.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### On Steam
 
@@ -363,19 +231,12 @@ To check your PC hardware specifications, you can follow the steps below.
 
  When the verification process is finished, close the window and check if it solves your problem. If your game still fails to launch, move on to the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### On EA
 
@@ -386,20 +247,6 @@ To check your PC hardware specifications, you can follow the steps below.
 
  Then all you have to do is wait until the repair process is complete. If this doesn’t do the trick, try the next fix below.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### On Epic Games
 
 1. Navigate to the game in your Library. Then click on the**three dots** . Select**Manage** from the drop-down.  
@@ -407,37 +254,16 @@ To check your PC hardware specifications, you can follow the steps below.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-Remake-repair-game-files-on-the-Epic-Games-Launcher.png)
 2. Now click on the**VERIFY** button.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-Remake-how-to-repair-game-files-on-the-Epic-Games-Launcher-click-on-the-VERIFY-button.png)
 
  Depending on the size of your game, it may take a few minutes to verify all your files. Once it finishes, try to launch your game to check whether verifying game files works.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 7\. Repair corrupted system files
 
@@ -479,8 +305,6 @@ To check your PC hardware specifications, you can follow the steps below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -488,12 +312,22 @@ To check your PC hardware specifications, you can follow the steps below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-packaging-perfection-strategies-for-stunning-first-touches/"><u>[Updated] Packaging Perfection Strategies for Stunning First Touches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-sign-up-intermission-explained-when-are-new-slots-expected-to-resume/"><u>ChatGPT Sign-Up Intermission Explained – When Are New Slots Expected to Resume?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/complete-evaluation-of-anker-roav-dashcam-c1-why-it-stands-out-in-its-class/"><u>Complete Evaluation of Anker Roav DashCam C1: Why It Stands Out in Its Class</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-hashtags-and-more-is-there-a-distinction-between-retweet-and-re-tweet/"><u>Exploring Hashtags & More: Is There a Distinction Between 'Retweet' And 'Re-Tweet'?</u></a></li>
+<li><a href="https://win-able.techidaily.com/finding-answers-the-real-deal-about-assassins-creed-valhalla-launch-timing-revealed/"><u>Finding Answers: The Real Deal About Assassin's Creed Valhalla Launch Timing Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-4-error-de-arranque-soluciones-comprobadas-y-estrategias-preventivas-en-2024/"><u>Forza Horizon 4 Error De Arranque: Soluciones Comprobadas Y Estrategias Preventivas en 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/grand-theft-auto-v-crashes-a-comprehensive-guide-to-stabilizing-your-gameplay-experience/"><u>Grand Theft Auto V Crashes: A Comprehensive Guide to Stabilizing Your Gameplay Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-getting-msi-afterburner-to-recognize-graphics-cards-on-new-windows-11-pcs/"><u>Guide: Getting MSI Afterburner to Recognize Graphics Cards on New Windows 11 PCs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-concealed-commentary-on-online-media/"><u>In 2024, Navigating the Concealed Commentary on Online Media</u></a></li>
+<li><a href="https://win-able.techidaily.com/in-depth-guide-to-addressing-the-ghost-runner-error-in-windows-11-systems/"><u>In-Depth Guide to Addressing the 'Ghost Runner' Error in Windows 11 Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/iphone-vs-android-a-comprehensive-guide-to-choosing-your-next-phone/"><u>IPhone Vs. Android – A Comprehensive Guide to Choosing Your Next Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-through-legal-challenges-access-violation-in-case-civ-6-20232024/"><u>Navigating Through Legal Challenges - Access Violation in Case #CIV-6 (2023/2024)</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-when-windows-spotlight-feature-stops-displaying-images-in-windows-11/"><u>Solution Steps When Windows Spotlight Feature Stops Displaying Images in Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-download-and-installation-of-drivers-for-hp-envy-5660/"><u>Step-by-Step Download & Installation of Drivers for HP ENVY 5660</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/upcoming-end-of-support-dates-when-does-microsoft-discontinue-windows-and-office-versions/"><u>Upcoming End-of-Support Dates: When Does Microsoft Discontinue Windows and Office Versions?</u></a></li>
+</ul></div>
 

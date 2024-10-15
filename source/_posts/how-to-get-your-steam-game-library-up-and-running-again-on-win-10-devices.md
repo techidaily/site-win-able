@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Steam Game Library Up and Running Again on Win 10 Devices
-date: 2024-09-10T14:10:23.613Z
-updated: 2024-09-11T14:10:23.613Z
+date: 2024-10-14T03:18:23.581Z
+updated: 2024-10-14T23:38:45.787Z
 tags:
   - win11
   - win10
@@ -17,27 +17,10 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 Many Elite Dangerous players have been reporting the game crashing issue. It occurs randomly, at launch or mid-game, causing extreme annoyance. In this guide, we’ll take a look at Elite Dangerous crashing fixes.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Fix Elite Dangerous Crashing
 
@@ -53,25 +36,18 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 6. **[Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Run the game in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 1 – Ran the game as administrator
 
  Your PC may not give**Elite Dangerous or the game launcher** the necessary permissions they need to work correctly. You might run into game issues like game crashing in this case.
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2 – Verify the integrity of game files
 
@@ -83,37 +59,9 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -121,23 +69,16 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **5)**  Relaunch your game to test the issue.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
 
@@ -169,6 +110,13 @@ This could take several minutes. Wait for the process to be complete.
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5 – Disable unnecessary programs
 
  Game performance issues happen when your game is unable to gain access to the memory it needs. So, it’s always wise to close background programs that take up a lot of PC memory when playing games.
@@ -180,20 +128,6 @@ This could take several minutes. Wait for the process to be complete.
  **Make sure you diable any software overlays (Steam, Discord, Nvidia** **Geforce Experience** ,**etc).**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **3)** Restart your game to see if it runs correctly now.
 
@@ -211,6 +145,13 @@ Your game still won’t work correctly? Read on and try Fix 5.
 
 If the crashing still happens, continue with the next solution below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 7 – Run the game in Windowed mode
 
  In some cases, Elite Dangerous crashes due to resolution or refresh issues. If that’s the problem for you, running the game in Windowed mode may help fix it.
@@ -219,37 +160,16 @@ If the crashing still happens, continue with the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **3)** Double-click**DisplaySettings.xml** to open the file.
 
@@ -269,8 +189,6 @@ If the crashing still happens, continue with the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -278,12 +196,20 @@ If the crashing still happens, continue with the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-best-practices-for-6-trendy-mc-houses/"><u>[New] 2024 Approved Best Practices for 6 Trendy MC Houses</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-pro-photo-framegers-to-polish-pictures-online-for-2024/"><u>[Updated] Pro Photo Framegers to Polish Pictures Online for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-when-red-dead-online-keeps-crashing-windows/"><u>Effective Fixes For When Red Dead Online Keeps Crashing (Windows)</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancements-complete-solving-frame-rate-drops-and-stuttering-in-assassins-creed-valhalla-pc/"><u>Enhancements Complete: Solving Frame Rate Drops & Stuttering in Assassin's Creed Valhalla (PC)</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-fixing-persistent-pc-crashes-in-dreamlight-valley-gameplay/"><u>Expert Advice: Fixing Persistent PC Crashes in Dreamlight Valley Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-preventing-gtfo-application-from-crashing/"><u>Expert Tips for Preventing GTFO Application From Crashing</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-upgrade-your-steam-deck-with-an-sd-card/"><u>How to Upgrade Your Steam Deck with an SD Card</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-the-initialization-failed-error-on-vanguard-weapon-in-valorant/"><u>Resolved: Fixing the 'Initialization Failed' Error on Vanguard Weapon in Valorant</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-la-noire-now-available-on-personal-computers/"><u>Solution Found: L.A. Noire Now Available on Personal Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-11-creative-gpt-inquiries-to-shape-your-storys-characters/"><u>Top 11 Creative GPT Inquiries to Shape Your Story's Characters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-trick-download-windows-7-webcam-driver-in-no-time/"><u>Ultimate Trick: Download Windows 7 Webcam Driver in No Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/unsubscribing-no-more-retrieve-and-re-explore-worlds/"><u>Unsubscribing No More: Retrieve and Re-Explore Worlds</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/xsplit-index-direct-split-and-reviews/"><u>XSplit Index Direct Split and Reviews</u></a></li>
+</ul></div>
 

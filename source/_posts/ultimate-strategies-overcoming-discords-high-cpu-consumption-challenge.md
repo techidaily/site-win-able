@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Strategies: Overcoming Discord's High CPU Consumption Challenge"
-date: 2024-10-05T18:48:26.028Z
-updated: 2024-10-08T17:51:51.034Z
+date: 2024-10-08T01:41:11.906Z
+updated: 2024-10-14T21:08:13.461Z
 tags:
   - win11
   - win10
@@ -59,8 +59,24 @@ Being the second game from Riot after its blockbuster League of Legends, Valoran
 1. **Right click** on the empty area of your desktop, then select **Display settings.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_14-42-27.jpg)
 2. Under the**Scale and layout** section, select an option from the drop down menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_14-47-42.jpg)
 3. Choose a**lower** resolution.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_14-51-18.jpg)
 
  You can test all the resolution options with Valorant and see which one solve your problem. If this method doesn’t work for you, don’t worry, just try the next one.
@@ -81,18 +97,18 @@ Being the second game from Riot after its blockbuster League of Legends, Valoran
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver,**launch Valorant** and see if the issue persists.
 
 If this trick doesn’t work for you, simply try the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Run Valorant in compatible mode
 
@@ -131,19 +147,6 @@ If this trick doesn’t work for you, simply try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_17-17-24.jpg)  
  (Note you**should not** **stop** the**Vanguard** process. Otherwise you’ll have to restart your computer before launching Valorant again.)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. When you’ve exited all the riot related processes,**launch Valorant** and see if you’re still have errors.
 
  If this fix doesn’t work for you, there’s still a last fix you can try.
@@ -157,6 +160,13 @@ Here’s an example of how to disable Windows Security:
 1. On your keyboard, press**Win+I** (the Windows logo key and the I key) to open Windows Settings. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. In the left pane, click**Windows Security** . Then select**Virus & threat protection** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-windows-defender-1.png)
 3. Scroll to the**Virus & threat protection settings**  section and click **Manage settings** .  
@@ -180,6 +190,13 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/valorant-purge-config-1.jpg)
 3. Delete all the files in the**Config** and**Logs** folder. Then restart your PC and check if Valorant launches now.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 8: Release Standby Memory
 
  One common reason Valorant won’t launch is that your PC doesn’t have the available RAM for the game. Windows uses part of the physical RAM as cache, or what is called**Standby Memory** . The system might run into issues when standby memory isn’t released on time. In that case, you can clear the standby memory manually and see how it goes.
@@ -200,13 +217,6 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist-2.jpg)
 2. Navigate to the**Compatibility** tab, check the box next to**Run this program as an administrator** . Click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist-3.jpg)
 3. On your keyboard, press**Win+R** to invoke the**Run** box. Type or paste**taskchd.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/taskschd.msc_.jpg)
@@ -215,10 +225,10 @@ Here’s an example of how to disable Windows Security:
 5. In the**Name** section, type or paste**Empty Standby Memory** . Then click**Change User or Group.** …  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-3.jpg)
@@ -227,17 +237,17 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-4.jpg)
 7. Click**Find Now** . In the search results, select**SYSTEM** . Then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-5.jpg)
 8. Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-6-2.jpg)
 9. Navigate to the**Actions** tab, click**New…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-7.jpg)
 10. Browse and select the**EmptyStandbyList.exe** program. Click**OK** .  
@@ -251,10 +261,10 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 9: Reinstall Valorant
@@ -265,22 +275,8 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_17-45-57.jpg)
 2. Select**Programs and Features** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-10_10-03-56.jpg)
 3. One at a time,**double click** **Valorant and Riot Vanguard** to uninstall them.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_17-52-29.jpg)
 4. Go to the[Valorant official website](https://playvalorant.com/en-us/) and download the latest version.
@@ -304,17 +300,20 @@ Here’s an example of how to disable Windows Security:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-depth-steps-using-mobizen-for-smooth-screen-recording/"><u>[New] In-Depth Steps Using Mobizen for Smooth Screen Recording</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-cinematic-revolution-exploring-the-best-shots-and-lighting-tips-24-edition-for-2024/"><u>[New] The Cinematic Revolution Exploring the Best Shots & Lighting Tips - '24 Edition for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-utilize-srt-playback-across-operating-systems/"><u>[New] Utilize SRT Playback Across Operating Systems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-pros-of-expanded-ram-in-minecraft-gaming-world/"><u>[Updated] 2024 Approved Pros of Expanded Ram in Minecraft Gaming World</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-edu-top-ten-inspiring-educational-content-yt/"><u>2024 Approved Edu-Top Ten Inspiring Educational Content YT</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-intro-to-radial-photo-distortion-ps-tutorial/"><u>2024 Approved Intro to Radial Photo Distortion PS Tutorial</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-the-eos-authentication-hurdle-in-palworld-with-these-proven-fixes/"><u>Overcome the EOS Authentication Hurdle in Palworld with These Proven Fixes!</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-relinking-issue-in-granblue-fantasy-a-comprehensive-guide/"><u>Solving the 'Relinking Issue' In Granblue Fantasy – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-roblox-pc-error-code-277-essential-fixes-and-advice/"><u>Troubleshooting Roblox PC Error Code 277: Essential Fixes and Advice</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-boost-your-splitgate-gameplay-with-higher-fps/"><u>Troubleshooting Tips: Boost Your Splitgate Gameplay with Higher FPS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-olympic-speed-skating-snapshot-the-short-track-edition/"><u>[New] Olympic Speed Skating Snapshot The Short-Track Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-full-potential-of-macs-preview-tool/"><u>[New] Unlocking Full Potential of Mac's Preview Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-full-capabilities-of-morphvox-voice-alteration/"><u>[New] Unlocking the Full Capabilities of MorphVOX Voice Alteration</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-platform-showdown-twitch-meets-youtube/"><u>[Updated] The Ultimate Platform Showdown Twitch Meets YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/alan-wake-2-stability-guide-essential-troubleshooting-techniques/"><u>Alan Wake 2 Stability Guide: Essential Troubleshooting Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/battle-through-warzones-visual-disruptions-fixing-persistent-flicker-problems/"><u>Battle Through Warzone's Visual Disruptions - Fixing Persistent Flicker Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-addressing-the-graphics-state-issue-in-red-dead-redemption-2-errgfxstate/"><u>Comprehensive Guide to Addressing the Graphics State Issue in Red Dead Redemption 2 (ERR_GFX_STATE)</u></a></li>
+<li><a href="https://win-able.techidaily.com/everstop-crashes-in-everspace-2-heres-how-to-get-smooth-gameplay-on-pc/"><u>Everstop Crashes in Everspace 2? Here's How to Get Smooth Gameplay on PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-itel-p55-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Itel P55 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-recurrent-freezing-and-closure-issues-with-microsoft-outlook/"><u>Resolving Recurrent Freezing & Closure Issues with Microsoft Outlook</u></a></li>
+<li><a href="https://fox-where.techidaily.com/scopri-lssd-ad-alta-velocita-ssd-sata-iii-per-la-migrazione-intensiva-del-tuo-computer/"><u>Scopri L'SSD Ad Alta Velocità SSD SATA III Per La Migrazione Intensiva Del Tuo Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-the-silence-audio-troubles-with-discords-screen-sharing-feature/"><u>Solve the Silence: Audio Troubles with Discord's Screen Sharing Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-rdr2-errors-by-expanding-the-virtual-memory-size/"><u>Troubleshoot RDR2 Errors by Expanding the Virtual Memory Size</u></a></li>
+<li><a href="https://win-able.techidaily.com/unveiling-the-secret-fixes-for-cyberpunk-2077-black-screen-malfunction/"><u>Unveiling the Secret Fixes for Cyberpunk 2077 Black Screen Malfunction</u></a></li>
 </ul></div>
 

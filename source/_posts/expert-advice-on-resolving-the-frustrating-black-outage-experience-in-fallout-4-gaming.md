@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Resolving the Frustrating Black Outage Experience in Fallout 4 Gaming
-date: 2024-09-10T14:11:33.606Z
-updated: 2024-09-11T14:11:33.606Z
+date: 2024-10-10T01:50:35.990Z
+updated: 2024-10-15T02:52:31.018Z
 tags:
   - win11
   - win10
@@ -39,33 +39,10 @@ thumbnail: https://thmb.techidaily.com/130efd155dd3113027502bebb58cb6e6e0e86e94c
 | RAM              | 8 GB                                                         |
 | HDD space        | 30 GB                                                        |
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 6 fixes for Fallout 4 freezing issue
 
@@ -88,39 +65,12 @@ thumbnail: https://thmb.techidaily.com/130efd155dd3113027502bebb58cb6e6e0e86e94c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 4. After the process, relaunch the game and check the crash will appear or not.
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Remove incompatible programs
 
@@ -138,22 +88,35 @@ thumbnail: https://thmb.techidaily.com/130efd155dd3113027502bebb58cb6e6e0e86e94c
 1. Right click the _executable (.exe) file_ or the _shortcut_ for your game, then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56cae670797.png)
 2. Click the **Compatibility** tab, check **Run this program in compatibility mode** , and click **OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56cbe70a295.jpg)
 3. Run your game to see if this works for you.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 ### Fix 4: Update your graphics driver
 
@@ -170,20 +133,14 @@ thumbnail: https://thmb.techidaily.com/130efd155dd3113027502bebb58cb6e6e0e86e94c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 ### Fix 5: Change your game mode and correct the resolutions by modifying your game file
 
@@ -202,20 +159,6 @@ Here’s how you can do it:
 **iSize W=1920**
 3. Save the file and exit Notepad.
 4. Run Fallout 4 to see if it goes smoothly.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 6: Adjust the frame rate
 
@@ -241,8 +184,6 @@ Here’s how you can set the frame rate of Fallout 4:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,12 +191,20 @@ Here’s how you can set the frame rate of Fallout 4:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-free-and-paid-drawing-tools-for-windows-enthusiasts/"><u>[New] Free and Paid Drawing Tools for Windows Enthusiasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-spectre-3-clash-mirage-4-unleashed/"><u>[New] In 2024, Spectre 3 Clash Mirage 4 Unleashed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-leveraging-patient-stories-a-guide-to-powerful-videography/"><u>[Updated] 2024 Approved Leveraging Patient Stories A Guide to Powerful Videography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unwind-youtube-videos-advanced-retrospectives/"><u>[Updated] Unwind YouTube Videos Advanced Retrospectives</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortlessly-sharing-your-macs-dvd-files-with-apple-tv-the-ultimate-airplay-tutorial/"><u>Effortlessly Sharing Your Mac's DVD Files with Apple TV – The Ultimate AirPlay Tutorial</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/naraka-point-blank-unravelled-glitches-and-fixes/"><u>Naraka: Point Blank - Unravelled Glitches and Fixes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011200421-overcome-the-roblox-error-277-on-windows-expert-tips-for-2n24/"><u>Overcome the Roblox Error 277 on Windows - Expert Tips for 2N24!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-lost-connection-with-battlenet-how-to-restore/"><u>Resolved: Lost Connection with Battle.net - How to Restore</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-comprehensive-guide-to-smoothing-out-google-chromes-flickering-issues-on-your-pc-updated/"><u>The Comprehensive Guide to Smoothing Out Google Chrome’s Flickering Issues on Your PC (Updated )</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-8-solutions-stabilizing-marvels-guardians-of-the-galaxy-game-on-your-pc/"><u>Top 8 Solutions: Stabilizing Marvel's Guardians of the Galaxy Game on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-prevent-hitman-3-from-freezing-on-pc-expert-tips-inside/"><u>Ultimate Guide to Prevent Hitman 3 From Freezing on PC - Expert Tips Inside</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-movie-magic-made-simple-a-step-by-step-guide-for-2024/"><u>Updated Movie Magic Made Simple A Step-by-Step Guide for 2024</u></a></li>
+</ul></div>
 

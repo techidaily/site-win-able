@@ -1,7 +1,7 @@
 ---
 title: Fixing the Persistent Black Screen Issue in Fortnite on PC
-date: 2024-09-10T14:11:46.227Z
-updated: 2024-09-11T14:11:46.227Z
+date: 2024-10-13T17:22:32.554Z
+updated: 2024-10-14T16:13:04.541Z
 tags:
   - win11
   - win10
@@ -18,27 +18,10 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 Amazon’s MMO New World has a very engaging and in-depth system that attracts gamers to play the game. But there’re bugs and technical mishaps such as constantly freezing that may frustrate you.  
  New World does have a support service, but they’re experiencing long wait times connecting to an associate for New World queries, but you’re not alone, there are fixes that we’ve gathered from gamers that may help you solve the issue.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -63,19 +46,6 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
@@ -86,20 +56,6 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 
  If the latest graphics driver doesn’t fix the problem, you can move to the next fix.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 2: Verify the integrity of game files
 
  New World is a large AAA title game that is easily freezing when there are missing or corrupted files. Therefore, verifying the integrity of your game files is a common fix for the freezing issue.
@@ -108,18 +64,12 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
@@ -134,27 +84,29 @@ If the problem persists, take a look at the next fix below.
 2. Type**devmgmt.msc** and click the **OK** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
 6. Restart your PC for the change to take effect.
 
 If this fix doesn’t bring luck, take a look at the next fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Underclock your GPU core
 
@@ -167,25 +119,32 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 3. Open the software and find your graphics card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-featured.jpg)
 4. Because of the different PC environments, you may need to keep adjusting the Core Clock until you’re no longer freezing.  
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here we suggest underclocking your GPU Core Clock by 400 MHz and memory clock 500 MHz.
 5. In MSI Afterburner, change your power limit to 80%.
 6. Save the profile and relaunch New World to check.
 
 If it’s still not working, try the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Lower your graphics settings
 
@@ -196,18 +155,12 @@ If it’s still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select **Visuals** . Then set **Max FPS** 60 fps.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
@@ -225,55 +178,21 @@ If it’s still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
  Once you’ve finished the process, restart your PC and check if New World freezing again.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 7: Move the files to the SSD drive
 
@@ -291,8 +210,6 @@ If you haven’t tried it, give it a go it might help.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -300,12 +217,21 @@ If you haven’t tried it, give it a go it might help.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-insiders-guide-to-concealed-snap-content/"><u>[Updated] 2024 Approved The Insider's Guide to Concealed Snap Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-comprehensive-overview-of-google-docs-voice-input-functionality/"><u>[Updated] Comprehensive Overview of Google Docs Voice Input Functionality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-easy-ways-to-merge-igtv-and-instagram-stories/"><u>[Updated] In 2024, Easy Ways to Merge IGTV & Instagram Stories</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-fresh-take-on-viewing-the-new-lg-bp550-review/"><u>A Fresh Take on Viewing The New LG BP550 Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/chrome-flicker-fixes-in-windows-explained-a-thorough-and-timely-guide-users/"><u>Chrome Flicker Fixes in Windows Explained: A Thorough and Timely Guide Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/day-and-night-fitbit-inspire-hr-review-your-unyielding-partner-in-health-monitoring-and-fitness-goals/"><u>Day & Night, Fitbit Inspire HR Review - Your Unyielding Partner in Health Monitoring and Fitness Goals</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-your-account-after-being-hit-by-the-newest-dota-2-cheat-detector/"><u>Fixing Your Account After Being Hit by the Newest Dota 2 Cheat Detector</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpts-role-in-crafting-my-podcast-script/"><u>GPT's Role in Crafting My Podcast Script</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001656004-gta-not-working-heres-how-to-get-your-online-adventure-back-on-track/"><u>GTA nOt wOrkIng? Here's How to Get Your Online Adventure Back on Track!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-huawei-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Huawei Phone that is Locked?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-windows-10-unveiling-the-secrets-of-tablet-mode/"><u>Mastering Windows 10: Unveiling the Secrets of Tablet Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/remedies-for-unstartable-speech-to-text-on-windows-platform/"><u>Remedies for Unstartable Speech-to-Text on Windows Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-controllers-not-detected-in-windows-here-are-the-solutions/"><u>Steam Controllers Not Detected in Windows? Here Are the Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-low-frames-per-second-fps-issues-in-titanfall-2-a-comprehensive-guide/"><u>Tackling Low Frames Per Second (FPS) Issues in Titanfall 2: A Comprehensive Guide</u></a></li>
+</ul></div>
 

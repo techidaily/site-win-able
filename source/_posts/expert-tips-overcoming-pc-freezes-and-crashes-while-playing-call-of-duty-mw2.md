@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Overcoming PC Freezes & Crashes While Playing Call of Duty: MW2"
-date: 2024-10-06T17:00:29.721Z
-updated: 2024-10-08T23:14:27.537Z
+date: 2024-10-09T06:02:02.168Z
+updated: 2024-10-15T01:06:03.474Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
 
  A black screen is usually caused by some temporary graphics settings issue. And this can usually be fixed by switching between the windowed and full screen mode. To do so:
@@ -50,13 +57,6 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 2. Press the**Alt** and**Enter** keys on your keyboard at the same time to switch back to the full screen view.
 
  This should fix your black screen issue. But if not, then you should try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -89,29 +89,30 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your game
@@ -122,13 +123,6 @@ OR
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
@@ -153,18 +147,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-learn-the-basics-of-facebook-metrics-easily/"><u>[New] Learn the Basics of Facebook Metrics, Easily</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-visual-jokes-on-the-go-no-cost-with-creatememe-for-2024/"><u>[New] Visual Jokes on the Go No Cost with CreateMeme for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-maximizing-profile-video-attraction-strategies/"><u>[Updated] 2024 Approved Maximizing Profile Video Attraction Strategies</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-monetization-carryminati-ajey-nagar-youtube-income/"><u>2024 Approved YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719164851824-champions-blueprint-managing-soccer-legends-at-no-cost/"><u>Champion's Blueprint: Managing Soccer Legends at No Cost</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722985025473-house-flipper-2-stalling-heres-how-to-restore-smooth-gaming-on-pc/"><u>House Flipper 2 Stalling? Here's How to Restore Smooth Gaming on PC!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-infinix-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Infinix Devices</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-dive-into-youtubes-best-practices-for-playlist-design/"><u>In 2024, Dive Into Youtube's Best Practices for Playlist Design</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leverage-no-cost-artificial-intelligence-tools-for-image-alt-text-creation/"><u>Leverage No-Cost Artificial Intelligence Tools for Image Alt Text Creation</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-hurdles-in-sea-of-thieves-a-step-by-step-guide/"><u>Overcoming Launch Hurdles in Sea of Thieves – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-pcs-silent-gamut-the-ultimate-guide-to-restoring-audio-in-fallout-4/"><u>Solve Your PC's Silent Gamut: The Ultimate Guide to Restoring Audio in Fallout 4</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-euro-truck-simulator-2-no-longer-causes-pc-problems-after-recent-update/"><u>Troubleshooting Guide: How Euro Truck Simulator 2 No Longer Causes PC Problems After Recent Update</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-tribes-of-midgard-stability-problems-and-crashes/"><u>Troubleshooting Steps: Resolving 'Tribes of Midgard' Stability Problems and Crashes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-enhancing-android-viewing-latest-in-vr-and-360-videos/"><u>[New] 2024 Approved Enhancing Android Viewing - Latest in VR & 360 Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-innovation-at-hand-creating-3d-textures-with-photo/"><u>2024 Approved Innovation at Hand Creating 3D Textures with PHOTO</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-webp-images-to-png-format-by-movavi/"><u>Free Online Converter: WebP Images to PNG Format by Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-brother-mfc-l2690dw-printing-drivers-and-enhance-your-print-quality/"><u>Get the Latest Brother MFC-L2690DW Printing Drivers and Enhance Your Print Quality</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-issue-of-the-elder-scrolls-online-failing-to-launch-expert-advice/"><u>How to Fix the Issue of The Elder Scrolls Online Failing to Launch – Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-utorrent-not-downloadingconnecting-to-peers/"><u>How to Fix uTorrent Not Downloading/Connecting to Peers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-switch-it-up-the-best-face-swap-apps-for-iphone-and-android-for-2024/"><u>New Switch It Up The Best Face Swap Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fix-resolving-the-launch-failed-message-in-multiversus-for-windows-users/"><u>The Ultimate Fix: Resolving the 'Launch Failed' Message in MultiVersus for Windows Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/through-eyes-unseen-an-essential-vr-chronology-for-2024/"><u>Through Eyes Unseen An Essential VR Chronology for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-cities-skylines-game-crashes-a-comprehensive-tips-list/"><u>Ultimate Fixes for Cities: Skylines Game Crashes - A Comprehensive Tips List</u></a></li>
+<li><a href="https://win-able.techidaily.com/waste-disposal/"><u>Waste Disposal</u></a></li>
 </ul></div>
 

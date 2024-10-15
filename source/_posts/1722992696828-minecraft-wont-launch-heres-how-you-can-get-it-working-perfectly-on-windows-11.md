@@ -1,7 +1,7 @@
 ---
 title: Minecraft Won't Launch? Here's How You Can Get It Working Perfectly on Windows 11!
-date: 2024-10-03T17:00:00.181Z
-updated: 2024-10-08T20:06:44.611Z
+date: 2024-10-08T05:05:47.939Z
+updated: 2024-10-14T22:17:47.227Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 If that doesn’t work for you, try the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -61,13 +61,6 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/windows-11-privacy-and-security.png)
 3. Click**Firewall & network protection** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/firewall-and-network-protection.png)
 4. Scroll down and find**Allow an app through firewall** . Then click it.  
 
@@ -75,6 +68,13 @@ If that doesn’t work for you, try the fixes below.
 5. Make sure Minecraft is on the list and the**Private** and**Public** options are checked. If it’s not on the list, that means Minecraft doesn’t have access and you’ll need to click on the**Change settings** button. Then follow the on-screen instructions to add the Minecraft executable file to the list.
 
  After applying the changes, try installing Minecraft and check if it’s working properly. If your problem persists, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Download & install all Windows updates
 
@@ -87,23 +87,23 @@ If that doesn’t work for you, try the fixes below.
 3. Click **Check for updates** . If there are any updates available, Windows will download them.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates.png)
 4. Click **Restart now**  to restart your PC or you can **Schedule the restart** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
 
  Then try to double-click on the downloaded package and see if you can install Minecraft now. If you’ve still having the issue, try the next fix below.
 
@@ -127,6 +127,13 @@ If that doesn’t work for you, try the fixes below.
 
  After updating drivers, restart your computer. Upon the reboot, try to install Minecraft to see if you can do it successfully. If it fails, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run Windows Store troubleshooter
 
  When you have any issues on your system, you can try running the corresponding troubleshooter to see if it helps detect your issues and hopefully fix them.
@@ -141,28 +148,15 @@ If that doesn’t work for you, try the fixes below.
 4. Click on the**Run** button next to**Windows Store Apps** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-apps-run-troubleshooter.png)
 
  Then wait for it to detect and troubleshoot your issues. If it fails to identify them, try the next fix below.
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run a full scan of your PC
 
@@ -199,17 +193,18 @@ If that doesn’t work for you, try the fixes below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-experts-guide-to-rapid-time-lapsing/"><u>[Updated] Expert's Guide to Rapid Time-Lapsing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-visual-victory-apple-and-android-highlight-covers-for-2024/"><u>[Updated] Visual Victory Apple & Android Highlight Covers for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-unraveling-the-value-of-stability-in-photoshop-shake-reduction/"><u>2024 Approved Unraveling the Value of Stability in Photoshop Shake Reduction</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-overcoming-minecraft-not-opening-hurdles/"><u>Comprehensive Troubleshooting: Overcoming Minecraft Not Opening Hurdles</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-crashes-in-oxygen-not-included-tips-and-tricks-for-seamless-gaming/"><u>Fixing Crashes in 'Oxygen Not Included': Tips and Tricks for Seamless Gaming</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/how-to-change-youtube-video-playback-speed-desktopmobile-for-2024/"><u>How to Change YouTube Video Playback Speed [Desktop/Mobile] for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/how-to-turn-images-into-pdfs-for-free-a-simple-guide-with-an-online-tool/"><u>How to Turn Images Into PDFs for Free: A Simple Guide with an Online Tool</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-bokeh-experience-top-apps-for-iphone-and-android-users/"><u>New 2024 Approved The Ultimate Bokeh Experience Top Apps for iPhone and Android Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-freezing-frustration-expert-guides-you-through-six-steps-to-fix-mw2-pc-issues/"><u>Overcome Freezing Frustration: Expert Guides You Through Six Steps to Fix MW2 PC Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/steam-ui-dll-not-found-correct-the-root-causes-behind-steams-terminal-mishap/"><u>Steam UI DLL Not Found? Correct the Root Causes Behind Steam’s Terminal Mishap</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-illustrators-toolkit-making-text-pop-in-3d/"><u>The Illustrator's Toolkit Making Text Pop in 3D</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-strategies-overcoming-discords-high-cpu-consumption-challenge/"><u>Ultimate Strategies: Overcoming Discord's High CPU Consumption Challenge</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-blend-modes-for-perfect-clip-integration/"><u>[Updated] Blend Modes for Perfect Clip Integration</u></a></li>
+<li><a href="https://win-able.techidaily.com/breeze-through-fixing-javascript-hiccups-in-discord-chatbot-development/"><u>Breeze Through Fixing JavaScript Hiccups in Discord Chatbot Development</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/burn-photos-to-dvd-how-to-burn-photos-to-dvd-with-transitions-and-music-for-2024/"><u>Burn Photos to DVD | How to Burn Photos to DVD with Transitions and Music for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/charge-your-phone-anywhere-handy-hacks-to-avoid-using-a-standard-charger/"><u>Charge Your Phone Anywhere: Handy Hacks to Avoid Using a Standard Charger</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-11-pro-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 11 Pro Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-origin-slow-download-speed-2024-tips/"><u>How to Fix Origin Slow Download Speed – 2024 Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55plus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55+ to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/recuperacion-de-particiones-borradas-o-extintas-en-windows-11-una-guia-definitiva/"><u>Recuperación De Particiones Borradas O Extintas en Windows 11: Una Guía Definitiva</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-overcoming-persona-3-reboot-challenges-and-launch-successfully/"><u>Step-by-Step Guide to Overcoming Persona 3 Reboot Challenges and Launch Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/struggling-with-battlefield-5-boot-up-problems-discover-effortless-fixes-in-our-latest-guide/"><u>Struggling with Battlefield 5 Boot-Up Problems? Discover Effortless Fixes in Our Latest Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-low-frame-rates-expert-tips-to-enhance-your-gaming-experience-in-new-world/"><u>Troubleshooting Low Frame Rates: Expert Tips to Enhance Your Gaming Experience in New World</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-successfully-navigating-through-fortnite-version-ls-0013-launch-glitches/"><u>Troubleshooting Successfully: Navigating Through Fortnite Version LS-0013 Launch Glitches</u></a></li>
+<li><a href="https://win-great.techidaily.com/ultimate-guide-to-effective-castingo-utilization-techniques/"><u>Ultimate Guide to Effective Castingo Utilization Techniques</u></a></li>
 </ul></div>
 

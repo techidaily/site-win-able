@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Pathfinder: Wrath of the Righteous Continuously Fails on Launch"
-date: 2024-10-05T20:04:54.026Z
-updated: 2024-10-08T16:52:07.912Z
+date: 2024-10-09T22:27:00.899Z
+updated: 2024-10-15T04:43:04.910Z
 tags:
   - win11
   - win10
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 5. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Verify integrity of game files
 
  The game may not work as expected if some important game files are missing or corrupted, as the game file corruption usually lead to game crashes.
@@ -97,22 +90,15 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -123,16 +109,10 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
  Launch Pathfinder: Wrath of the Righteous again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable overlays
@@ -145,16 +125,16 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -179,29 +159,44 @@ Here’s how to do it:
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch Pathfinder: Wrath of the Righteous to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -239,20 +234,19 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-swift-solutions-shifting-ios-media-files/"><u>[Updated] 2024 Approved Swift Solutions Shifting iOS Media Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-swift-recovery-reviving-windows-photo-viewer-on-modern-os/"><u>[Updated] Swift Recovery Reviving Windows Photo Viewer on Modern OS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-realme-12-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Realme 12 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/age-of-empires-4-wont-start-heres-your-guide-to-a-successful-launch/"><u>Age of Empires 4 Won't Start? Here's Your Guide to a Successful Launch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-about-micromobility-tracking-events-staying-updated-and-uncovering-the-latest-rumors/"><u>All About Micromobility - Tracking Events, Staying Updated & Uncovering the Latest Rumors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-remote-communication-with-manycam-advanced-features-for-professional-live-video-software-and-digital-camera-alternatives/"><u>Elevate Your Remote Communication with ManyCam: Advanced Features for Professional Live Video Software and Digital Camera Alternatives</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/facebooks-360-livestream-a-complete-comprehensive-guide/"><u>Facebook's 360 Livestream A Complete Comprehensive Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-c53-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme C53 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-shift-whats-updated-in-windows-11/"><u>Navigating the Shift: What's Updated in Windows 11?</u></a></li>
-<li><a href="https://win-able.techidaily.com/ntdlldll-stability-issue-solution-for-both-windows-10-and-windows-11-users/"><u>nTdll.dll Stability Issue Solution for Both Windows 10 and Windows 11 Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-fallout-4s-black-screen-glitch-with-easy-fixes/"><u>Overcome Fallout 4'S Black Screen Glitch with Easy Fixes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-obs-issues-why-its-no-longer-failing-to-record-screen/"><u>Overcome OBS Issues: Why It's No Longer Failing to Record Screen</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solution-how-to-overcome-fortnites-stubborn-loading-barrier/"><u>Quick Solution: How to Overcome Fortnite's Stubborn Loading Barrier</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-your-warzone-game-textures-expert-tips-and-solutions/"><u>Troubleshooting Your Warzone Game Textures - Expert Tips & Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-ps4-system-freezes-a-comprehensive-walkthrough/"><u>Ultimate Guide: Resolving PS4 System Freezes – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-breaking-through-virtual-barriers-crafting-engaging-metaverse-content-for-2024/"><u>[Updated] Breaking Through Virtual Barriers Crafting Engaging Metaverse Content for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-direct-conversion-of-spotify-music-5-tools-for-youtube-streaming/"><u>[Updated] Direct Conversion of Spotify Music 5 Tools for YouTube Streaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-troubleshooting-steps-for-persistent-pc-game-crashes/"><u>Assassin's Creed Valhalla - Troubleshooting Steps for Persistent PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-techniques-for-connectivity-hiccups-in-rainbow-six-siege/"><u>Comprehensive Troubleshooting Techniques for Connectivity Hiccups in Rainbow Six Siege</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-solutions-for-resolving-csgo-gameplay-lag/"><u>Effortless Solutions for Resolving CS:GO Gameplay Lag</u></a></li>
+<li><a href="https://driver-install.techidaily.com/expedite-bios-flash-for-dell-latitude/"><u>Expedite BIOS Flash for Dell Latitude</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-fallout-3-crashes-on-windows-11-expert-tips-and-solutions/"><u>How to Fix Fallout 3 Crashes on Windows 11: Expert Tips and Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-comprehensive-guide-for-free-video-translator-downloading/"><u>In 2024, Comprehensive Guide for Free Video Translator Downloading</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-errors-successfully-launched-star-wars-jedi-fallen-order-after-initial-failures/"><u>No More Errors! Successfully Launched Star Wars Jedi: Fallen Order After Initial Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-resolving-http-503-service-temporarily-unavailable/"><u>Quick Solutions for Resolving HTTP 503 - Service Temporarily Unavailable</u></a></li>
+<li><a href="https://win-able.techidaily.com/reconnecting-to-the-game-fixing-your-rainbow-six-siege-network-hiccups/"><u>Reconnecting to the Game: Fixing Your Rainbow Six Siege Network Hiccups</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-know-about-phone-aspect-ratio-vertical-trying-to-learn-about-iphone-vertical-video-dimensions-read-this-article-to-get-all-yo/"><u>Updated In 2024, Do You Want to Know About Phone Aspect Ratio Vertical? Trying to Learn About iPhone Vertical Video Dimensions? Read This Article to Get All Your Answers on Vertical Phone Aspect Ratio Definition, Types and Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722901360003-whats-ahead-at-samsung-unpacked-exclusive-info-on-the-date-latest-product-teasers-and-speculations/"><u>What's Ahead at Samsung Unpacked? Exclusive Info on the Date, Latest Product Teasers, and Speculations !</u></a></li>
 </ul></div>
 

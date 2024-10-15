@@ -1,7 +1,7 @@
 ---
 title: "Solved: Team Fortress 2 Keeps Crashing"
-date: 2024-10-01T16:20:59.224Z
-updated: 2024-10-08T17:45:45.997Z
+date: 2024-10-09T23:55:19.797Z
+updated: 2024-10-15T03:31:23.310Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
@@ -63,32 +70,18 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -102,6 +95,19 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Once you confirmed the antivirus is the culprit of Football Manager 2021 crashing, you need to add both the game launcher and FM 21 to its exceptions, or completely uninstall the program.
 
 If this method doesn’t help, go ahead with the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Delete the Preferences and Caches folder
 
@@ -118,10 +124,10 @@ If this method doesn’t help, go ahead with the next fix below.
 So does the crash go away now? If not, there is the last fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
@@ -135,15 +141,15 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
@@ -174,20 +180,21 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-perfect-your-story-a-roundup-of-best-editing-apps/"><u>[New] 2024 Approved Perfect Your Story A Roundup of Best Editing Apps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-elite-choices-in-total-sweep-cinematography-for-2024/"><u>[Updated] Elite Choices in Total Sweep Cinematography for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/access-resumed-the-latest-update-fixes-origins-online-account-issue/"><u>Access Resumed - The Latest Update Fixes Origin's Online Account Issue</u></a></li>
-<li><a href="https://win-dash.techidaily.com/bluetooth-ready-in-no-time-with-speedy-windows-7-driver-installations/"><u>Bluetooth-Ready in No Time with Speedy Windows 7 Driver Installations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/demystifying-ussd-how-does-unstructured-supplementary-service-data-work/"><u>Demystifying USSD: How Does Unstructured Supplementary Service Data Work?</u></a></li>
-<li><a href="https://win-able.techidaily.com/diy-solutions-for-gtfo-crashes-in-your-applications/"><u>DIY Solutions for GTFO Crashes in Your Applications</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-s18e-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo S18e?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-freezing-in-your-overwatch-matches/"><u>How to Fix Persistent Freezing in Your Overwatch Matches</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-zoom-issues-on-windows-1110-expert-tips/"><u>How to Fix Persistent Zoom Issues on Windows 11/10 - Expert Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-patchwork-ultimate-solutions-to-start-fallout-n-3-on-your-pc/"><u>Master the Patchwork: Ultimate Solutions to Start Fallout N 3 on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-final-hurdle-phasmophobias-persistent-90-load-issue/"><u>Overcoming the Final Hurdle: Phasmophobia's Persistent 90% Load Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resolving-the-failed-to-open-disc-error-in-makemmerge-a-step-by-step-guide/"><u>Resolving the 'Failed to Open Disc' Error in MakeMMerge: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ssence-and-creation-process-of-mukbangs/"><u>The Essence and Creation Process of Mukbangs</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-powerful-ammo-tactics-a-deep-dive-into-fps-changes-for-me-le-players/"><u>Unlocking Powerful Ammo Tactics: A Deep Dive Into FPS Changes for ME LE Players</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unearthing-the-top-10-sleeper-social-media-stars/"><u>[New] In 2024, Unearthing the Top 10 Sleeper Social Media Stars</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-anonymization-techniques-to-blur-faces/"><u>[Updated] Advanced Anonymization Techniques to Blur Faces</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-top-40-twitter-visuals-the-essential-gif-hoarders-toolkit-for-2024/"><u>[Updated] Top 40 Twitter Visuals The Essential GIF Hoarder's Toolkit for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-zooming-into-success-how-to-improve-your-livestream-quality-on-youtube/"><u>[Updated] Zooming Into Success How to Improve Your Livestream Quality on YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-streamline-document-creation-with-microsoft-word-speech-recognition/"><u>2024 Approved Streamline Document Creation with Microsoft Word Speech Recognition</u></a></li>
+<li><a href="https://win-able.techidaily.com/behind-the-scenes-the-reasons-behind-guilty-gear-strive-postponement-explained/"><u>Behind the Scenes: The Reasons Behind 'Guilty Gear Strive' Postponement Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/everlasting-voyages-in-sea-of-thieves-crash-errors-now-solved/"><u>Everlasting Voyages in Sea of Thieves: Crash Errors Now Solved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-preventing-resident-evil-4-remastered-from-suddenly-shutting-down/"><u>Fixing the Issue: Preventing Resident Evil 4 Remastered From Suddenly Shutting Down</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-from-glitches-fixing-lag-in-call-of-duty-vanguard-effortlessly/"><u>Free From Glitches: Fixing Lag in Call of Duty: Vanguard Effortlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-reconnecting-fallout-76-game-servers-on-pc/"><u>Guide: Reconnecting Fallout 76 Game Servers on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-gl-error-3-with-nvidia-on-windows-oses/"><u>How to Correct GL Error 3 with Nvidia on WIndows OSes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011857463-how-to-fix-witcher-3-wild-hunt-wont-launch/"><u>How to Fix Witcher 3: Wild Hunt Won’t Launch</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-a-comprehensive-guide-to-high-quality-laptop-recordings/"><u>In 2024, A Comprehensive Guide to High-Quality Laptop Recordings</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-smooth-gameplay-effective-solutions-for-chivalry-2s-ping-and-latency-issues/"><u>Master Smooth Gameplay: Effective Solutions for Chivalry 2'S Ping and Latency Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-realme-v30-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Realme V30 IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 

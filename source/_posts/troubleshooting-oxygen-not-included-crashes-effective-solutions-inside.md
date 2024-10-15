@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting 'Oxygen Not Included' Crashes: Effective Solutions Inside"
-date: 2024-10-05T23:13:57.397Z
-updated: 2024-10-08T23:22:05.931Z
+date: 2024-10-13T18:49:56.811Z
+updated: 2024-10-15T04:18:41.426Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
@@ -68,25 +75,11 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
  If your computer meets the minimum requirements, read on and check the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2:**Restart your computer**
 
  If you’re running multiple programs on your computer at the same time, hogging your resources, your game might crash. If that’s the core issue， performing a simple reboot on your PC should fix your problem.
 
  Restart your computer and your game to test your issue. If the game still crashes, move on to Fix 3, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3:**Run the game as an administrator**
 
@@ -99,6 +92,19 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click **Yes** .
 
@@ -116,13 +122,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Paste   **C:\\Program Files (x86)\\Steam\\steamapps\\common\\Oxygen Not Included** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-278.png)
@@ -130,6 +129,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **3)** Right-click**OxygenNotIncluded.exe** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-282.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
@@ -139,18 +145,18 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-279.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Relaunch your game to check if your issue had been resolved.
 
  If you still get the error code in Windows 8 mode, repeat **steps 1 – 3**  and select **Windows 7**  from the drop-down list.
 
  If running your game in compatibility mode didn’t work for you, move on and try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5:**Change branches in Oxygen Not Included**
 
@@ -166,22 +172,15 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-284.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click the**BETAS tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-287.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Click the**list box** to open the drop-down menu, select the name of the branch you want to play.
@@ -243,6 +242,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -265,6 +271,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Restart your computer.
 
  If Oxygen Not Included crashing still happens after the update, try the fix below.
@@ -276,13 +289,6 @@ OR
 **1)**  If you’re running Steam now, right-click the Steam icon on the taskbar, and then select **Exit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
@@ -297,10 +303,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-277.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall Oxygen Not Included. Then, try launching the game again to see if this fixed your problem.
@@ -328,16 +334,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellent-free-memes-at-your-fingertips/"><u>2024 Approved Excellent FREE Memes at Your Fingertips</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficient-ways-to-defrag-in-windows-11-using-revo-uninstaller-tools/"><u>Efficient Ways to Defrag in Windows 11 Using Revo Uninstaller Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-your-adventure-overcoming-constant-freezing-and-crashing-in-genshin-impact-for-windows-users/"><u>Enhance Your Adventure: Overcoming Constant Freezing and Crashing in Genshin Impact for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-tf2-up-and-running-fixes-for-starting-issues-on-pc-and-consoles/"><u>Get Your TF2 Up and Running: Fixes for Starting Issues on PC & Consoles</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-cyberpunk-2077-from-freezing-on-your-pc-or-console/"><u>How to Stop Cyberpunk 2077 From Freezing on Your PC or Console</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-stability-tips-to-prevent-city-skylines-from-crashing-update/"><u>Mastering Stability: Tips to Prevent City Skylines From Crashing Update</u></a></li>
-<li><a href="https://article-posts.techidaily.com/premium-memory-device-for-sony-a7s-cameras-for-2024/"><u>Premium Memory Device for Sony A7S Cameras for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-me3-legendary-ed-stability-issues-on-pc-and-xbox-a-step-by-step-guide/"><u>Solving ME3 Legendary Ed. Stability Issues on PC and Xbox: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/stay-active-with-fitbit-versa-3s-internal-gps-tracking-and-comprehensive-health-app-suite/"><u>Stay Active with Fitbit Versa 3'S Internal GPS Tracking & Comprehensive Health App Suite</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-secrets-to-customizing-your-storys-pace-in-instagram-for-2024/"><u>The Secrets to Customizing Your Story's Pace in Instagram for 2024</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/virtual-cameras-revolutionized-explore-manycam-live-streaming-apps/"><u>Virtual Cameras Revolutionized: Explore ManyCam Live Streaming Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-methods-for-subtle-audio-softening-with-lumafusion/"><u>[New] Methods for Subtle Audio Softening with Lumafusion</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-renewed-set-of-interview-starters-for-attractive-listenership/"><u>[Updated] In 2024, Renewed Set of Interview Starters for Attractive Listenership</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-soloists-journey-personal-growth-and-success-on-youtube-for-musicians/"><u>[Updated] In 2024, The Soloist's Journey Personal Growth and Success on YouTube for Musicians</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-after-effects-with-top-rated-text-tools/"><u>[Updated] Mastering After Effects with Top-Rated Text Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehhemic-approach-eliminating-the-ark-crashing-point-with-expertise/"><u>Comprehhemic Approach: Eliminating the 'Ark' Crashing Point with Expertise</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-roblox-error-277-in-windows-ultimate-troubleshooting-guide/"><u>Fix Roblox Error 277 in Windows: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-ps4-network-problems-the-complete-step-by-step-tutorial/"><u>How To Resolve PS4 Network Problems: The Complete Step-by-Step Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-a05-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Samsung Galaxy A05</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-100-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor 100 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oneplus-nord-ce-3-lite-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any OnePlus Nord CE 3 Lite 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-gamers-advice-overcoming-gameplay-interruptions-in-gta-v/"><u>Master Gamers' Advice: Overcoming Gameplay Interruptions in GTA V</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-madden-22-loading-deadlock-proven-fixes-and-tips-inside/"><u>Say Goodbye to Madden 22 Loading Deadlock: Proven Fixes & Tips Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-puzzle-overcome-loading-glitch-in-madden-nfl-22/"><u>Solving the Puzzle: Overcome 'Loading' Glitch in Madden NFL 22</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-how-to-for-harnessing-hd-video-from-facebook-feeds/"><u>The How-To for Harnessing HD Video From Facebook Feeds</u></a></li>
 </ul></div>
 

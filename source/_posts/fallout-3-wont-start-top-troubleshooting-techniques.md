@@ -1,7 +1,7 @@
 ---
 title: Fallout 3 Won't Start? Top Troubleshooting Techniques
-date: 2024-09-10T14:15:37.622Z
-updated: 2024-09-11T14:15:37.622Z
+date: 2024-10-14T03:43:39.351Z
+updated: 2024-10-15T01:54:29.646Z
 tags:
   - win11
   - win10
@@ -17,27 +17,10 @@ thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571
 
 FIFA 21 is definitely an upgrade from 20 with an improvement to both career mode and ultimate mode. Despite this, players are encountering several issues like the game not launching. If you happened to be one of them, don’t worry. We’ve got several working fixes for you.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -54,26 +37,6 @@ FIFA 21 is definitely an upgrade from 20 with an improvement to both career mode
 9. [Launch FIFA 21 in Windowed or Windowed borderless mode](https://tools.techidaily.com/drivereasy/download/)
 10. [Delete files from ProgramData (Origin)](https://www.drivereasy.com/knowledge/solved-fifa-21-not-launching/#fix10)
 11. [Delete files from AppData (Origin)](https://www.drivereasy.com/knowledge/solved-fifa-21-not-launching/#fix11)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Before getting started
 
@@ -100,20 +63,6 @@ To check your system information, you can:
 
 ![check system information](https://images.drivereasy.com/wp-content/uploads/2020/10/check-system-information.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ---
 
 ## Fix 1: Allow your game through Windows Firewall
@@ -135,6 +84,13 @@ To do so, you can:
 
 ![allow  an app through controlled folder access FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-1200x684.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click **Add an allowed app** **\> Browse all apps** .
 
 ![allow  an app through controlled folder access FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-2-1-1200x684.png)
@@ -144,20 +100,6 @@ To do so, you can:
  Also, if you’re using any antivirus software like Avast, AVG, you’re supposed to disable them before you launch your game. Because there is a possibility that this antivirus software is in conflict with your game launching.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 2: Update your graphics driver
 
@@ -180,6 +122,13 @@ OR
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 2 – Automatically update your drivers** (recommended)
 
  Manually updating graphics drivers does take some time and patience. Also if you encounter other issues related to driver updates while playing the game in the future, you’ll again have to bother downloading and installing the latest drivers on your own. So to save you time, we highly recommend using Driver Easy as your great pick for driver updates.
@@ -194,39 +143,18 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -246,53 +174,18 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![disable in-game overlay on Steam FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/select-Properties-on-Steam-2.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Select **GENERAL**  and uncheck the box **Enable the Steam Overlay while in-game** .
 
 ![disable in-game overlay on Steam FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-Steam-overlay-1.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  After applying the changes, exit Steam and run your game to see if this fixed the issue. If the issue persists, try the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Origin
 
@@ -308,23 +201,16 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![disable in-game overlay on Origin FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/uncheck-the-box-1200x653.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Exit Origin and relaunch your game to check if it works. If it doesn’t, try the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 4: Verify the integrity of game files
 
@@ -336,37 +222,9 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![verify integrity of game files on Steam FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/select-Properties-on-Steam-3.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) Select the **LOCAL FILES**  tab and click the **VERIFY INTEGRITY OF GAME FILES…** button.
 
 ![verify integrity of game files on Steam FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/verify-integrity-of-game-files-Steam-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  3) Steam will verify the game’s files and this process may take several minutes. After it’s finished, launch your game to check if it works for you. If not, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -377,45 +235,18 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![repair game files on Origin](https://images.drivereasy.com/wp-content/uploads/2020/10/repair-game-in-Origin-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  After the process is completed, click**Update Game** to make sure that you have the latest version of the game. The new version of the game can have patches that fix errors.
 
  2) Now click**Origin** and select**Sign Out** .
 
 ![repair game files on Origin](https://images.drivereasy.com/wp-content/uploads/2020/10/exit-Origin.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 To make sure you’ve completely quit Origin, you can:
 
@@ -424,20 +255,6 @@ To make sure you’ve completely quit Origin, you can:
  2) Type**taskmgr** and press**Enter** to open the Windows Task Manager.
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  3) Under the**Processes** tab, scroll down and find**Origin** . Right-click on it and select**End task** .
 
@@ -459,37 +276,9 @@ To make sure you’ve completely quit Origin, you can:
 
 ![run FIFA 21 as an administrator](https://images.drivereasy.com/wp-content/uploads/2020/10/run-the-game-as-an-administrator-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 3) Now launch your game and check if it works.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 6: Run FIFA 21 in compatibility mode for Windows 8
 
@@ -498,6 +287,19 @@ To make sure you’ve completely quit Origin, you can:
  1) Locate the file where you installed your game. Find the**FIFA 21 .exe file** and right-click on it.
 
 ![Run FIFA 21 in compatibility mode for Windows 8 FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/run-FIFA-21-in-compatibility-mode-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2\. Select the**Compatibility** tab and check the box**Run this program in compatibility mode for:** (make sure that you select**Windows 8** ). Then click**Apply > OK** .
 
@@ -519,43 +321,9 @@ To make sure you’ve completely quit Origin, you can:
 
 ![Change DIRECTX_SELECT value](https://images.drivereasy.com/wp-content/uploads/2020/10/if-the-directselect-value-is-0.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) After applying the changes, click**File > Save** .
 
 ![Change DIRECTX_SELECT value](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-File-and-click-on-Save.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 4) Close the notepad and launch your game if it solves the problem.
 
@@ -577,20 +345,6 @@ To make sure you’ve completely quit Origin, you can:
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 9: Launch FIFA 21 in Windowed or Windowed borderless mode
 
  Some players have reported that launching the game in Windowed or Windowed borderless mode helped fix the issue. So you’re supposed to give it a shot.
@@ -599,37 +353,9 @@ To make sure you’ve completely quit Origin, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/set-the-settings-to-default-in-FIFA-21-launcher.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) When you’re guided to the**Game Settings** window, under the**Display Configuration** tab, select**Windowed or Windowed Borderless** mode. Then click**Ok** to apply the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/launch-the-game-in-Windowed-or-borderless-Windowed-mode.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 3) Now launch your game to check if it does the trick.
 
@@ -645,20 +371,6 @@ To make sure you’ve completely quit Origin, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/program-data-Origin.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Delete all the files from this folder, except the**LocalContent** file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/do-not-delete-this-file-1.jpg)
@@ -673,37 +385,16 @@ To make sure you’ve completely quit Origin, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/appdata.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Right-click on**Origin** and select**Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-from-appdata.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  4) In the address bar of File Explorer, click on**AppData** .
 
@@ -725,8 +416,6 @@ To make sure you’ve completely quit Origin, you can:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -734,12 +423,20 @@ To make sure you’ve completely quit Origin, you can:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-master-the-art-of-sharing-gaming-moments-xboxfb-livestream/"><u>[New] 2024 Approved Master the Art of Sharing Gaming Moments Xbox/FB Livestream</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-leading-cloud-services-with-best-price/"><u>[New] 2024 Approved The Leading Cloud Services with Best Price</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-profit-strategies-in-youtube-marketing/"><u>[New] In 2024, Profit Strategies in YouTube Marketing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-vlc-player-insider-top-10-underrated-functions-for-2024/"><u>[New] VLC Player Insider Top 10 Underrated Functions for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-multiverse-crashes-top-8-strategies-for-a-smooth-gaming-experience/"><u>Beat Multiverse Crashes: Top 8 Strategies for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/biomutant-on-pc-crashing-problems-solved-with-latest-techniques-and-advice/"><u>Biomutant on PC - Crashing Problems Solved with Latest Techniques & Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-advice-detecting-and-dealing-with-chatgpt-fraudulent-websites/"><u>Expert Advice: Detecting and Dealing with ChatGPT Fraudulent Websites</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-infinix-zero-5g-2023-turbomirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Infinix Zero 5G 2023 TurboMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-3-stability-guide-how-to-prevent-game-crashes-on-your-computer/"><u>Modern Warfare 3 Stability Guide: How to Prevent Game Crashes on Your Computer</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-7-tips-to-create-teaching-videos/"><u>New 7 Tips to Create Teaching Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/plot-perfection-integrating-chatgpt-in-narrative-design/"><u>Plot Perfection: Integrating ChatGPT in Narrative Design</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-for-fixing-the-problematic-game-launch-in-fortnite-ls-0013/"><u>Steps for Fixing the Problematic Game Launch in Fortnite (LS-0013)</u></a></li>
+</ul></div>
 

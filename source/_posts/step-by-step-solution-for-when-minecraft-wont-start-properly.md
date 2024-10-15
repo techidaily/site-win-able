@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for When Minecraft Won't Start Properly
-date: 2024-09-10T14:16:30.012Z
-updated: 2024-09-11T14:16:30.012Z
+date: 2024-10-12T20:57:54.359Z
+updated: 2024-10-15T04:13:49.081Z
 tags:
   - win11
   - win10
@@ -21,27 +21,10 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
 
  Discord is an application that specializes in text, image, audio and video for video games. It brings fantastic experience for playing video games.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -53,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Disable Discord in Task Manager
 
  Before getting started, you’ll need to end tasks running Discord in your computer, so you can delete Discord’s folders in your computer in Step 2.
@@ -62,34 +52,8 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14b463b359.jpg)
 3. In the**Process** tab, select any process related with**Discord** , and click**End task** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
  You’ll need to repeat this several times to end Discord task if there are more than one processes for Discord.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 4. Then close**Task Manager** .
 
@@ -104,41 +68,23 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 5. Type_**%LocalAppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
 6. Your File Explorer will open a new window. Right click the**Discord** **folder** and click**Delete** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
 7. Restart your computer.
@@ -170,19 +116,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1502542d98.jpg)
 4. Restart your computer to take effect.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
 
@@ -192,8 +131,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,12 +138,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-best-free-youtube-video-editing-apps-for-iphone-and-ipad-and-how-tos/"><u>[New] 2024 Approved Best Free YouTube Video Editing Apps for iPhone & iPad & How-Tos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-best-of-breed-top-screen-capture-software-reviews/"><u>[Updated] 2024 Approved The Best of Breed Top Screen Capture Software Reviews</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capture-and-save-windows-11-screens-effortlessly/"><u>[Updated] Capture & Save Windows 11 Screens Effortlessly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-economical-dslrs-for-the-cost-conscious-for-2024/"><u>[Updated] Economical DSLRs for the Cost-Conscious for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-million-tokens-revolution-in-gemini-context/"><u>$1 Million Tokens Revolution in Gemini Context</u></a></li>
+<li><a href="https://win-able.techidaily.com/dota-2-fixes-resolved-issues-with-game-not-starting-or-getting-stuck-during-load/"><u>Dota 2 Fixes: Resolved Issues with Game Not Starting or Getting Stuck During Load</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-left-4-dead-2-ultimate-guide-to-resolving-game-crashes/"><u>Fixing Left 4 Dead 2: Ultimate Guide to Resolving Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-ntdlldll-error-how-to-resolve-application-crashes-in-windows-11-and-windows-1nten/"><u>Fixing the [ntdll.dll Error] – How to Resolve Application Crashes in Windows 11 and Windows 1nTen</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-steam-launch-failures-in-helldivers-2-tips-and-tricks/"><u>Guide to Fixing Steam Launch Failures in Helldivers 2 - Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723014036325-quick-solutions-upping-the-pace-of-your-utorrent-transfer-speeds/"><u>Quick Solutions: Upping the Pace of Your uTorrent Transfer Speeds!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722865361052-the-next-big-thing-detailed-specs-and-pricing-of-the-forthcoming-apple-ring-revealed/"><u>The Next Big Thing? Detailed Specs and Pricing of the Forthcoming Apple Ring Revealed</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "God of War PC Version: Fixes & Solutions for Persistent Crashing Issues"
-date: 2024-10-05T21:03:06.541Z
-updated: 2024-10-08T19:31:41.987Z
+date: 2024-10-09T19:46:29.200Z
+updated: 2024-10-14T20:03:34.561Z
 tags:
   - win11
   - win10
@@ -41,19 +41,35 @@ Here are the steps:
 1. Launch your Steam client and click the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
 
@@ -94,26 +110,12 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/in-game-settings-1.jpg)
 3. Under the**Display** tab, set the parameters as follows:  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Windows Mode** :_Borderless_ or_Windowed_  
 **VSync** :_Off_  
 **Enable FPS Limit** :_On_  
 **FPS Limit** : Set the value to_between 30 and 60_
 
  While doing this may decrease the visual performance, it’s an effective workaround for Outriders inventory/menu crashes before the full version launches.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Enforce DX12
 
@@ -123,24 +125,24 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** in the left pane and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
 4. Close the window and launch Outriders.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
@@ -148,10 +150,10 @@ There are mainly two ways you can update the graphics driver:
 Still no luck with DX12? Then check out the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
@@ -191,16 +193,24 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ow-you-can-get-paid-for-videos/"><u>[New] How You Can Get Paid for Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-which-is-better-for-streamers-obs-studio-or-fraps/"><u>[New] Which Is Better for Streamers, OBS Studio or Fraps?</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-browser-speedy-solutions-for-slow-chrome-problems/"><u>Boost Your Browser: Speedy Solutions for Slow Chrome Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhancing-pc-performance-overcome-forza-horizon-ns-frame-rate-issues/"><u>Enhancing PC Performance: Overcome Forza Horizon N's Frame Rate Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/firefox-freeze-fixes-ultimate-troubleshooting-guide/"><u>Firefox Freeze Fixes: Ultimate Troubleshooting Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-registering-class-files-in-windows-11-overcoming-common-hurdles/"><u>Guide to Registering Class Files in Windows 11 – Overcoming Common Hurdles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721426226662-overcoming-gpts-text-limit-tips-and-tricks/"><u>Overcoming GPT's Text Limit – Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-guide-fixing-your-lol-lag-problems/"><u>Solution Guide: Fixing Your LoL Lag Problems</u></a></li>
-<li><a href="https://win-premium.techidaily.com/speedy-techniques-to-move-pictures-from-macbook-to-ipad-seamlessly/"><u>Speedy Techniques to Move Pictures From Macbook to iPad Seamlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tactics-for-the-application-has-unexpectedly-stopped-on-cod-mw3-mobile-game/"><u>Troubleshooting Tactics for 'The Application Has Unexpectedly Stopped' On COD MW3 Mobile Game</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974219128-windows-compatible-driver-update-for-nvidia-geforce-mx150-graphics-cards-download-now/"><u>Windows-Compatible Driver Update for NVIDIA GeForce MX150 Graphics Cards – Download Now</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-linux-tools-for-high-quality-screenshots-revealed/"><u>[New] Top Linux Tools For High-Quality Screenshots Revealed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ahead-of-the-curve-best-hydro-games-compiled-for-2024/"><u>[Updated] Ahead of the Curve Best Hydro Games Compiled for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-toggle-the-past-the-twitch-live-trick/"><u>[Updated] Toggle the Past The Twitch Live Trick</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-snapshot-solution-effortless-iphoneipad-video-production/"><u>2024 Approved The Snapshot Solution Effortless iPhone/iPad Video Production</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-10-ios-videos-premier-iphone-and-ipad-players/"><u>2024 Approved Top 10 iOS Videos Premier iPhone & iPad Players</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-magic-v2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor Magic V2 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175706177-discovering-noctuas-new-addition-to-the-home-series-meet-the-nv-fs1-desk-fan-for-a-steal-at-100/"><u>Discovering Noctua's New Addition to the Home Series - Meet the NV-FS1 Desk Fan for a Steal at $100</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-delay-explained-unveiling-the-reasons-behind-the-postponed-launch/"><u>Elden Ring Delay Explained - Unveiling the Reasons Behind the Postponed Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-sounds-problems-quickly-expert-advice-on-halo-infinite/"><u>Fixing Sounds Problems Quickly: Expert Advice on Halo Infinite</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-stabilizing-palworld-game-performance-on-pcs/"><u>Guide to Stabilizing PalWorld Game Performance on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000000594-how-to-enable-msi-afterburner-detection-for-your-gpu-on-windows-1011-problem-solved/"><u>How to Enable MSI Afterburner Detection for Your GPU on Windows 10/11: Problem Solved!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/master-data-protection-with-hitachi-drives-unlock-the-power-of-aomeis-premiere-cloning-software/"><u>Master Data Protection with Hitachi Drives: Unlock the Power of AOMEI's Premiere Cloning Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-fnaf-security-breach-pc-errors-a-step-by-step-guide/"><u>Solve Your FNaF Security Breach PC Errors - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tesla-autonomous-ride-sharing-botcheetah-price-estimates-expected-release-date-and-speculated-features/"><u>Tesla Autonomous Ride-Sharing Botcheetah - Price Estimates, Expected Release Date, and Speculated Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-battlefield-2042-pc-instability-solutions-and-tips/"><u>Troubleshooting Battlefield 2042 PC Instability: Solutions and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-your-discord-stream-solutions-and-tips/"><u>Troubleshooting Your Discord Stream - Solutions & Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-tutorial-overcoming-crashes-in-tribes-of-midgard-gaming-experience/"><u>Ultimate Fix Tutorial: Overcoming Crashes in 'Tribes of Midgard' Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996888849-understanding-the-football-manager-2022-launch-hitches-now-resolved/"><u>Understanding the Football Manager 2022 Launch Hitches - Now Resolved</u></a></li>
 </ul></div>
 

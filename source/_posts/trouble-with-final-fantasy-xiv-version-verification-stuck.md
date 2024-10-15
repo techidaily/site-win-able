@@ -1,7 +1,7 @@
 ---
 title: Trouble with Final Fantasy XIV - Version Verification Stuck
-date: 2024-10-07T17:53:34.131Z
-updated: 2024-10-08T23:11:17.077Z
+date: 2024-10-09T20:17:28.138Z
+updated: 2024-10-14T16:51:48.727Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 4. **[Run Mafia Definitive Edition and game launcher as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of your game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1 – Check the minimum requirements for Mafia: Definitive Edition
 
@@ -81,15 +74,22 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After ruling out the underpowered PC as a cause, you can continue with more in-depth fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -123,6 +123,13 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -141,10 +148,10 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-1-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Right-click**Mafia: Definitive Edition** from the game list and click**Manage** . Then, click**Browse local files** .
@@ -152,10 +159,10 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-2-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re using Epic Games Launcher, generally you can find the game’s installation folder here:**C.\\Program Files\\Epic Games\\\[Game name\]**
@@ -177,10 +184,10 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Relaunch Mafia Definitive Edition and see if the not-launching issue is resolved. If this still doesn’t help, please proceed to the next fix.
@@ -194,13 +201,6 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 **1)** Right-click the**mafiadefinitiveedition.exe file** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Click the**Compatibility** tab, and then check the box next to**Run this program as an administrator** .
 
@@ -238,13 +238,6 @@ You also need to grant the game launcher administrator rights as follows:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-1-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click**Mafia Definitive Edition** from the game list, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-1-7.jpg)
@@ -263,16 +256,16 @@ You also need to grant the game launcher administrator rights as follows:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Select**Mafia Definitive Edition** from the list, and click the icon with three dots next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click**Verify** .
 
@@ -281,6 +274,13 @@ You also need to grant the game launcher administrator rights as follows:
  The process may take a few minutes, and after it completes, you can relaunch Mafia Definitive Edition to test. If the problem persists, check out the last fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6 – Temporarily disable your antivirus
 
@@ -313,18 +313,22 @@ You also need to grant the game launcher administrator rights as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-a-perfect-playtime-how-to-take-great-xbox-one-shots-for-2024/"><u>[New] A Perfect Playtime How to Take Great Xbox One Shots for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-optimizing-your-project-b-roll-utilization-tips/"><u>[Updated] In 2024, Optimizing Your Project B-Roll Utilization Tips</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-zero-cost-downloads-for-high-quality-audios-discover-this-list-of-23-tools/"><u>[Updated] Zero Cost Downloads for High-Quality Audios Discover This List of 23 Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/apex-legends-error-code-23-diagnosis-and-effective-fixes-detailed/"><u>Apex Legends Error Code 23 – Diagnosis and Effective Fixes Detailed</u></a></li>
-<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-overcoming-persistent-pc-game-crashes/"><u>Assassin's Creed Valhalla - Overcoming Persistent PC Game Crashes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/clearing-your-personalized-feed-eliminating-suggestions-in-instagram/"><u>Clearing Your Personalized Feed: Eliminating Suggestions in Instagram</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-workarounds-solving-spellbreak-crash-issues-in-windows/"><u>Fixes & Workarounds: Solving Spellbreak Crash Issues in Windows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/fun-filled-cosmic-calamity-as-earthly-cities-collide-with-mars-birth-whirlwind-revelries/"><u>Fun-Filled Cosmic Calamity as Earthly Cities Collide with Mars, Birth Whirlwind Revelries</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-your-files-easily-simplified-steps-for-pc-file-movement/"><u>In 2024, Your Files, Easily Simplified Steps for PC File Movement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pioneering-progress-in-ai-discovering-chatgpts-interpreter-masterpieces/"><u>Pioneering Progress in AI - Discovering ChatGPT's Interpreter Masterpieces</u></a></li>
-<li><a href="https://win-able.techidaily.com/praey-for-the-gods-crash-fixes-enhancing-your-gaming-experience-on-windows/"><u>Praey for the Gods Crash Fixes - Enhancing Your Gaming Experience on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-the-game-from-quitting-resolve-your-issues-with-assassins-creed-valhalla/"><u>Stop the Game From Quitting: Resolve Your Issues with Assassin's Creed Valhalla</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-pc-lag-issues-in-outlast-freedom/"><u>Ultimate Guide: Resolving PC Lag Issues in Outlast Freedom</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-opting-for-hdri-a-better-step-forward-in-video-production/"><u>[New] Opting for HDRI A Better Step Forward in Video Production</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716070183922-updated-in-2024-capture-every-moment-on-mac-free/"><u>[Updated] In 2024, Capture Every Moment on Mac, FREE!</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-blizzards-bandwidth-bullies-speedy-easy-tips-to-end-world-of-warcraft-delays/"><u>Beat Blizzard's Bandwidth Bullies: Speedy, Easy Tips to End World of Warcraft Delays</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-install-and-play-helldivers-2-on-steam-despite-initial-errors/"><u>How to Successfully Install and Play Helldivers 2 on Steam Despite Initial Errors</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y200e-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-se-2022-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone SE (2022) Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-lunapics-essence-in-photo-editing/"><u>Mastering Lunapic's Essence in Photo Editing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximizing-your-viewing-experience-on-a-budget-with-the-75-caixun-4k-android-tv/"><u>Maximizing Your Viewing Experience on a Budget with the 75 Caixun 4K Android TV</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-3-pc-stutter-and-crash-effective-fixes-to-enhance-playability/"><u>Modern Warfare 3 PC Stutter and Crash: Effective Fixes to Enhance Playability</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashes-master-these-8-tricks-to-prevent-hogwarts-legacy-from-freezing-up/"><u>No More Crashes! Master These 8 Tricks to Prevent Hogwarts Legacy From Freezing Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-pc-compatibility-issues-for-modern-warfare-launches-in-202ebye/"><u>Overcoming PC Compatibility Issues for 'Modern Warfare' Launches in 202Ebye</u></a></li>
+<li><a href="https://win-able.techidaily.com/post-crash-factors-the-conditions-after-an-accident-such-as-fire-or-secondary-impacts-also-contribute-to-the-severity-of-outcomes-for-those-involved/"><u>Post-Crash Factors - The Conditions After an Accident, Such as Fire or Secondary Impacts, Also Contribute to the Severity of Outcomes for Those Involved.</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-implemented-to-overcome-sea-of-thieves-startup-issues/"><u>Resolved: Fixes Implemented to Overcome Sea of Thieves Startup Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-motorola-edge-2023-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Motorola Edge 2023 Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-improve-outriders-freezing-problems-on-desktop-computers/"><u>Troubleshoot and Improve Outriders' Freezing Problems on Desktop Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-success-resident-evil-5-playing-perfectly-on-your-computer/"><u>Troubleshooting Success! Resident Evil 5 Playing Perfectly on Your Computer</u></a></li>
 </ul></div>
 

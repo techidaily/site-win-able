@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Anno 1800'S DirectX Complications – Successful Fixes
-date: 2024-09-10T14:15:08.893Z
-updated: 2024-09-11T14:15:08.893Z
+date: 2024-10-13T02:10:36.585Z
+updated: 2024-10-15T01:31:38.661Z
 tags:
   - win11
   - win10
@@ -17,27 +17,10 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
 **Anno 1800 crashes with a DirectX error** ? You’re certainly not alone. While this can be quite frustrating, it’s often not hard to fix at all…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to fix Anno 1800 DirectX error
 
@@ -62,25 +45,12 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -94,19 +64,12 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Install the latest game patch
 
@@ -115,20 +78,6 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
  If there is no patches available, or the patch fails to address the problem, then please try **Fix 3** , below.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Switch DirectX versions
 
@@ -144,20 +93,6 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , then copy & paste **dxdiag** into the box and click **dxdiag** .
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
 
  2) Check out your **DirectX version** in the first page of the report.
@@ -172,23 +107,16 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  3) Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 
@@ -202,6 +130,19 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-236.png)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Open the engine.ini file.
 
 3) Change**DeviceType: DX 12** to**DX 11** and**Adapter: 1** to**Adapter: 0** .
@@ -209,20 +150,6 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 4) Check to see if Anno 1800 DirectX error crashes problem is resolved. If not, please try**Fix 4** .
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Check if your PC meets the system requirements for Anno 1800
 
@@ -252,29 +179,16 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -293,8 +207,6 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -302,12 +214,22 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-skew-and-warp-a-photographers-guide/"><u>[New] Skew and Warp A Photographer's Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-5-best-tools-to-convert-videos-directly-to-twitter/"><u>[Updated] The 5 Best Tools to Convert Videos Directly to Twitter</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/analyzing-user-feedback-the-latest-on-lg-bp350-display-tech-for-2024/"><u>Analyzing User Feedback The Latest on LG BP350 Display Tech for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-pfr-rate-to-elevate-sluggish-video-flow/"><u>Best PFR Rate to Elevate Sluggish Video Flow</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103988990-bluetooth-fixes-windows-problems-resolved/"><u>Bluetooth Fixes: Windows Problems Resolved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/f1-2021-pc-version-crash-fix-stop-the-constant-disruptions-now/"><u>F1 2021 PC Version Crash Fix – Stop the Constant Disruptions Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-find-out-if-xbox-live-is-currently-active-or-downed/"><u>How to Find Out if Xbox Live Is Currently Active or Downed</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-your-lost-ark-working-again-a-step-by-step-fix-for-launch-issues/"><u>How to Get Your Lost Ark Working Again – A Step-by-Step Fix for Launch Issues</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/initiate-flip-reverse-video-display-on-vlc-software/"><u>Initiate Flip Reverse Video Display on VLC Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/instant-remedy-stop-repeatedly-crashing-during-your-outriders-gaming-sessions/"><u>Instant Remedy: Stop Repeatedly Crashing During Your Outriders Gaming Sessions</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002690680-overcoming-system-interruptions-nier-replicant-crashes-now-sorted/"><u>Overcoming System Interruptions - NieR: Replicant Crashes Now Sorted!</u></a></li>
+<li><a href="https://win-able.techidaily.com/pathfinder-wrath-of-the-righteous-your-ultimate-guide-to-a-smooth-pc-gaming-experience/"><u>Pathfinder: Wrath of the Righteous - Your Ultimate Guide to a Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-users-handbook-fixing-persistent-crashes-in-the-game-palworld/"><u>PC Users' Handbook: Fixing Persistent Crashes in the Game Palworld</u></a></li>
+</ul></div>
 

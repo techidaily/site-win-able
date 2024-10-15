@@ -1,7 +1,7 @@
 ---
 title: "Resolve PC Gaming Nightmares: Tips to Stop Outriders From Freezing and Stuttering"
-date: 2024-10-04T19:23:42.163Z
-updated: 2024-10-08T18:31:22.278Z
+date: 2024-10-08T19:49:49.606Z
+updated: 2024-10-14T20:23:00.233Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  Outdated versions of the software may bring buggy issues when you’re using the software, and Metro Exodus is no exception. That’s why the software developers keep releasing new patches to fix bugs and improve features.
@@ -45,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking your CPU
@@ -93,13 +100,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-77.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note: You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer to take effect.
@@ -128,6 +128,13 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-78.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart the game and see if it works this time.
 
 #### If you can’t open the game at all
@@ -142,22 +149,15 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the**General** tab and click**Set Launch Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-81.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Type**_dxlevel110_** in the field, then click**OK** .
@@ -201,18 +201,17 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-creating-stunning-canon-time-lapse-videos-for-2024/"><u>[New] Creating Stunning Canon Time-Lapse Videos for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-6-awesome-free-webcam-games-for-computer/"><u>[New] In 2024, 6 Awesome Free Webcam Games for Computer</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-metaverse-milestones-top-10-movies-that-transcend-our-own-universe/"><u>[Updated] In 2024, Metaverse Milestones Top 10 Movies That Transcend Our Own Universe</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-maximizing-engagement-in-online-collaboration-with-snap-camera/"><u>[Updated] Maximizing Engagement in Online Collaboration with Snap Camera</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-roblox-load-issues-solutions-for-a-smooth-gameplay-experience/"><u>Fixing Roblox Load Issues: Solutions for a Smooth Gameplay Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-cyberpunk-2077-download-failures-on-steam/"><u>How to Overcome Cyberpunk 2077 Download Failures on Steam</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-and-fix-the-witcher-3-on-your-computer-from-frequent-freezing/"><u>How to Prevent and Fix 'The Witcher 3' On Your Computer From Frequent Freezing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-downloading-and-installing-epson-xp-430-printer-drivers-for-windows-users-a-comprehensive-tutorial/"><u>How To: Downloading and Installing Epson XP-430 Printer Drivers for Windows Users - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-aspect-ratios-for-youtube-images/"><u>In 2024, The Ultimate Guide to Aspect Ratios for YouTube Images</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-obstacles-in-tarkov-mastering-the-fix-for-error-103-grok003/"><u>Overcoming Obstacles in Tarkov: Mastering the Fix for Error 103 Grok003</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-csgo-startup-issues-steps-to-resolve-non-launch/"><u>Troubleshooting CS:GO Startup Issues - Steps to Resolve Non-Launch</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-pc-issues-for-call-of-duty-warzone-as-of-2024/"><u>Troubleshooting PC Issues for Call of Duty: Warzone as of 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/video-recording-tutorial-for-windows-11-users-utilizing-integrated-software-features/"><u>Video Recording Tutorial for Windows 11 Users: Utilizing Integrated Software Features</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-font-powerhouses-for-captivating-youtube-thumbnails/"><u>[New] 2024 Approved Font Powerhouses for Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-turn-your-video-content-into-revenue-the-vimeo-monetization-way/"><u>[New] 2024 Approved Turn Your Video Content Into Revenue The Vimeo Monetization Way</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebooks-micro-video-revolution-insights-into-2023-landscape/"><u>[Updated] 2024 Approved Facebook's Micro-Video Revolution Insights Into 2023 Landscape</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unveiling-the-best-locations-for-finding-top-quality-insta-tones-and-crafting-excellent-alarms-for-2024/"><u>[Updated] Unveiling the Best Locations for Finding Top-Quality Insta Tones and Crafting Excellent Alarms for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-sifting-through-the-elements-of-instagram-stories/"><u>2024 Approved Sifting Through the Elements of Instagram Stories</u></a></li>
+<li><a href="https://win-able.techidaily.com/escape-stuck-screens-expert-fixes-for-far-cry-5s-endless-load-time/"><u>Escape Stuck Screens: Expert Fixes for Far Cry 5'S Endless Load Time</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-repair-a-black-screen-glitch-in-steam-games-updated-strategies/"><u>How to Repair a Black Screen Glitch in Steam Games (Updated Strategies )</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-k70-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi K70 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-frame-rate-and-eliminating-glitches-expert-tips-for-smoother-gameplay-on-the-ascent/"><u>Improving Frame Rate & Eliminating Glitches: Expert Tips for Smoother Gameplay on 'The Ascent'</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-performance-hiccups-in-mass-effect-legendary-edition-for-both-pc-gamers-and-xbox-users/"><u>Solving Performance Hiccups in Mass Effect Legendary Edition for Both PC Gamers and Xbox Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-global-tapestry-of-romantic-speech/"><u>The Global Tapestry of Romantic Speech</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-iphone-15-pro-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for iPhone 15 Pro and Android Phones</u></a></li>
 </ul></div>
 

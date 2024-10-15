@@ -1,7 +1,7 @@
 ---
 title: Boost Your Race Day Visuals - Update Graphics Driver for Fix Forza Horizon
-date: 2024-10-04T21:01:55.070Z
-updated: 2024-10-08T20:14:39.476Z
+date: 2024-10-12T01:25:28.299Z
+updated: 2024-10-15T05:02:45.083Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 3. [**Scan and repair Windows**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Check your default GPU](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure you’re using the latest drivers
 
  The message is self-explanatory: **you need to check if you’re using the latest graphics driver** . The latest video driver gives your GPU a performance boost. But unlike system updates, most of the time you need to take care of driver updates yourself.
@@ -54,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -83,20 +76,13 @@ You can use the following steps to check for Minecraft updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-1.jpg)
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Java edition
@@ -120,10 +106,10 @@ You can use the following steps to check for Minecraft updates.
 If you’re still seeing the message, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair Windows
@@ -137,7 +123,21 @@ If you’re still seeing the message, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -161,17 +161,17 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
 4. Click **Options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can restart Minecraft and check if the message is still there.
 
@@ -196,20 +196,24 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-earn-on-youtube-decoding-recent-policy-changes-for-2024/"><u>[New] Earn on YouTube Decoding Recent Policy Changes for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-directly-send-snaps-from-your-phone-a-tutorial/"><u>[New] In 2024, Directly Send Snaps From Your Phone - A Tutorial</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/outube-revenue-pathways-and-payments/"><u>[New] YouTube Revenue Pathways and Payments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-empty-windows-directories-a-complete-removal-guide/"><u>Dealing with Empty Windows Directories: A Complete Removal Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/efficiency-achieved-tackling-and-solving-cyberpunk-cuper-2077s-high-cpu-drain/"><u>Efficiency Achieved: Tackling and Solving Cyberpunk Cuper 2077'S High CPU Drain</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-and-solutions-for-resolving-minecrafts-world-connection-failure/"><u>Expert Tips and Solutions for Resolving Minecraft's 'World Connection Failure'</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-audio-problems-restoring-voice-chat-functionality-in-among-us-pc-version/"><u>Fixing Audio Problems: Restoring Voice Chat Functionality in Among Us (PC Version)</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-connection-issues-solutions-for-unable-to-connect-in-minecraft/"><u>Fixing Connection Issues: Solutions for 'Unable to Connect' In Minecraft</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-fps-dropslow-fps-in-valorant-2024-tips/"><u>How to Fix FPS Drops/Low FPS in Valorant - 2024 Tips</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Best Spy Watches For your Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-play-solutions-for-a-smooth-pubg-experience/"><u>Optimizing Play: Solutions for a Smooth PUBG Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722998093100-overwatch-wont-launch-fixed/"><u>Overwatch Won’t Launch [FIXED]</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-on-fixing-launching-errors-in-farming-simulator-22/"><u>Step-by-Step Guide on Fixing Launching Errors in Farming Simulator 22</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/top-15-fritt-accessa-video-stabilaapparatorer-2024-beskaeftigelse-losninger/"><u>Top 15 Fritt Accessa Video-Stabilaapparatorer 2024 - Beskæftigelse Lösninger</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-are-you-looking-for-an-interesting-dub-app-for-your-android-or-iphone-read-on-to-find-out-the-best-video-dubbing-app-from-our-list-of-funny-/"><u>Updated In 2024, Are You Looking for an Interesting Dub App for Your Android or iPhone? Read on to Find Out the Best Video Dubbing App From Our List of Funny and Creative Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-ultimate-guide-to-designing-youtube-shorts-templates/"><u>[New] The Ultimate Guide to Designing YouTube Shorts Templates</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-best-10-video-editing-apps-to-edit-and-make-instagram-reels/"><u>[Updated] In 2024, Best 10 Video Editing Apps to Edit and Make Instagram Reels</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-streamline-your-audio-savings-from-youtube-playback/"><u>2024 Approved Streamline Your Audio Savings From YouTube Playback</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1728470594217-onedrive/"><u>同步到OneDrive：如何将任何本地文件夹上传（包括两个有效方法）</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elite-selection-of-smartglasses-dominating-2024/"><u>Elite Selection of Smartglasses Dominating 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/thing-you-need-to-succeed-with-youtube-short-videos-for-2024/"><u>Everything You Need to Succeed with YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-the-chic-style-with-taotronics-tt-dl16-led-lamps-a-comprehensive-review/"><u>Experience the Chic Style with TaoTronics TT-DL16 LED Lamps - A Comprehensive Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-wwe-2k20-crashes-clear-straightforward-tips-for-gaming-bliss-on-pc/"><u>Fix Your WWE 2K20 Crashes: Clear, Straightforward Tips for Gaming Bliss on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-resident-evil-village-performance-problems-on-pc-expert-tips-and-solutions/"><u>Fixing Resident Evil Village Performance Problems on PC: Expert Tips & Solutions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/from-instagram-video-to-mp3-sound/"><u>From Instagram Video to Mp3 Sound</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-lost-iphone-applications-a-step-by-step-guide/"><u>How To Recover Lost Iphone Applications: A Step-By-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-your-journey-with-the-best-navigators-66-twitter-accounts-for-unbeatable-travel-deals-and-advice/"><u>Master Your Journey With The Best Navigators: 66 Twitter Accounts For Unbeatable Travel Deals & Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-xcom-2-crashing-issues-on-windows-pcs/"><u>Resolved: How to Fix XCOM 2 Crashing Issues on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-connection-issues-in-utorrent-for-improved-torrents-sharing-and-download-speed/"><u>Resolving Connection Issues in uTorrent for Improved Torrents Sharing and Download Speed</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-the-hogwarts-legacy-wont-start-issue-top-strategies-of-2024/"><u>Solve the 'Hogwarts Legacy Won't Start' Issue: Top Strategies of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-overcoming-obstacles-to-play-saints-row-on-a-windowsmac-device/"><u>Solved: Overcoming Obstacles to Play Saints Row on a Windows/Mac Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/terraria-stability-guide-no-more-crashes/"><u>Terraria Stability Guide: No More Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-prevent-pc-crashes-in-praey-for-the-gods-game/"><u>Troubleshooting Steps to Prevent PC Crashes in Praey: For The Gods Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/ubisoft-connection-problems-solve-them-here-with-our-latest-tips/"><u>Ubisoft Connection Problems? Solve Them Here with Our Latest Tips</u></a></li>
 </ul></div>
 

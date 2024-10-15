@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Ending Edge Browser Failures on Windows 10"
-date: 2024-09-10T14:08:58.701Z
-updated: 2024-09-11T14:08:58.701Z
+date: 2024-10-09T04:49:41.109Z
+updated: 2024-10-14T23:03:35.424Z
 tags:
   - win11
   - win10
@@ -21,27 +21,10 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 
  Surprisingly, this is quite a common problem. But although it’s quite frustrating, it’s usually not that hard to fix.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fixes for Internet Explorer has stopped working
 
@@ -71,27 +54,14 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc4523d19203.jpg)
 4. Restart your computer and check if Internet Explorer works properly. If the problem still exists, then move on to **Fix 2** , below.
 
-
-
+---
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
----
 
 ### Fix 2: Disable add-ons
 
@@ -105,69 +75,16 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc706de27b22.png)
 2. Click **Programs** \>**Manage add-ons** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d0662b2bda.jpg)
 3. You’ll then see a list of all your Internet Explorer add-ons. Disable**each add-on** in the list, one at at time, by clicking it, then clicking**Disable** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d0bb770ebc.jpg)
 4. **Restart** your computer and check if Internet Explorernow works:  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
    * If Internet Explorer does work after disabling all your add-ons, it’s likely one of your add-ons was the problem. Now you just need to figure out which one. To do this, enable the first add-on in the list, then see if Internet Explorer still works. If it doesn’t, then you’ve found the cause of the problem. If Internet Explorer works fine after enabling the first add-on, enable the second and test again. Continue testing each add-on in this way until you find the one that stops Internet Explorer from working. Once you find it, disable it again. If you need it, contact the vendor for support.  
    * If disabling your add-ons doesn’t solve your problem, move on to**Fix 3** .
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Uninstall toolbars
 
@@ -179,25 +96,6 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc70860ce2fe.png)
 2. Right-click on **the each toolbar** in your list of programs and features **and clickUninstall** / ****Change .**  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1acaa16c1.jpg)
 3. Click**Yes** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd64bdd78f4.jpg)
@@ -206,6 +104,19 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
    * If uninstalling your toolbars doesn’t solve your problem, move on to**Fix 4** .
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Change your hardware acceleration setting
 
@@ -221,6 +132,13 @@ Here’s how to do it…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc98b95b2550.jpg)
 3. **Restart**  your computer and see if Internet Explorer works properly. If not, move on to **Fix 5** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### Fix 5: Reset your security zones to their default levels
@@ -235,52 +153,19 @@ Here’s how to do it…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc706de27b22.png)
 2. Click**Security** \> **Reset all zones to default level** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd4e878da26.jpg)
 3. Click **OK** .
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 4. **Restart** your computer and see if **Internet Explorer**  works properly. If the problem persists, move on to **Fix 6** below.
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 6: Reinstall Internet Explorer
 
@@ -293,46 +178,52 @@ Here’s how to do it…
 2. Click**Turn Windows features on or off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d38595c458.jpg)
 3. Deselect**Internet Explorer** (your version of Internet Explorer may be different to the screenshot below).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd4105003d2.jpg)
 4. Click**Yes** to confirm.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd414308414.png)
 5. Click **OK** and wait until Internet Explorer turns off.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. **Restart** your computer.
 7. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **appwiz.cpl**  and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc70860ce2fe.png)
 8. Click**Turn Windows features on or off** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d38595c458.jpg)
 9. Tick the **Internet Explorer**  checkbox, then click**OK** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd4228e8c23.jpg)
 10. Wait until Internet Explorer turns on.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 11. Re-launch Internet Explorer and see if it works properly.
 
 ---
@@ -347,8 +238,6 @@ Here’s how to do it…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -356,12 +245,20 @@ Here’s how to do it…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-to-add-custom-thumbnails-to-your-youtube-videos/"><u>[Updated] 2024 Approved How To Add Custom Thumbnails to Your YouTube Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-cutting-edge-excellence-top-editors-for-videos/"><u>[Updated] In 2024, Cutting Edge Excellence Top Editors for Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-playback-of-srt-audio-files-in-computers-windowsmacos-for-2024/"><u>[Updated] Playback of SRT Audio Files in Computers (Windows/macOS) for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-pro-level-strategies-to-purge-backgrounds-in-figma/"><u>[Updated] Pro-Level Strategies to Purge Backgrounds in Figma</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alter-subnet-configurations-in-windows-11/"><u>Alter Subnet Configurations in Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-affordable-joy-in-hobby-drones-in-depth-look-at-syma-s111g-rc-helicopter-for-indoor-use/"><u>Discovering Affordable Joy in Hobby Drones: In-Depth Look at Syma S111G RC Helicopter for Indoor Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-system-call-issues-on-windows-11-and-11/"><u>Fixing System Call Issues on Windows 11 & 11</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-a05-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy A05 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-network-delays-and-connectivity-errors-in-new-world-effective-solutions/"><u>Overcoming Network Delays and Connectivity Errors in 'New World': Effective Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-performance-hacks-overcoming-sons-of-the-forest-game-freezes-and-crashes/"><u>PC Performance Hacks: Overcoming Sons of the Forest Game Freezes & Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-pc-issues-how-to-stop-enshrouded-games-from-freezing/"><u>Resolving PC Issues: How to Stop Enshrouded Games From Freezing</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-reactivating-spatial-audio-in-your-windows-10-or-11-system/"><u>Troubleshooting Guide: Reactivating Spatial Audio in Your Windows 10 or 11 System</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+</ul></div>
 

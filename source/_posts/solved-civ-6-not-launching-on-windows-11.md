@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Civ 6 Not Launching on Windows 11"
-date: 2024-10-06T19:12:36.503Z
-updated: 2024-10-08T16:47:48.860Z
+date: 2024-10-12T18:04:59.615Z
+updated: 2024-10-14T18:08:30.316Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 5. **[Perform a system restore](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Download and install all Windows updates
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### On Windows 11
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
@@ -59,31 +66,26 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-
- Upon reboot, play supported content to check if it works. If your THX Spatial Audio is still not working, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Upon reboot, play supported content to check if it works. If your THX Spatial Audio is still not working, move on to the next fix.
 
 ## 2\. Run the audio troubleshooter
 
@@ -99,23 +101,9 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/audio-run-the-troubleshooter.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If there are no troubleshooters showing up here, click**Additional troubleshooters** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/troubleshoot-additional-troubleshooters.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -124,16 +112,10 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 2. On the top right corner, click View by **Large icons** . Scroll down and select **Troubleshooting** .  
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/troubleshooting.jpg)
@@ -141,19 +123,20 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/sound-troubleshooter.png)
 4. Follow the on-screen instructions to run the troubleshooter and apply any fix if you see it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If Windows fails to troubleshoot your issues, try the next fix below.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Make sure you set THX Spatial Audio as your device
@@ -194,13 +177,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
  When the update completes, restart your computer. Then play supported content to check for changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Perform a system restore
 
  After everything else, you can restore your system to a point from before THX Spatial Audio was acting up. It’s possible that the issue you’re having was facilitated by a change that your system has gone through recently which you cannot pinpoint.
@@ -225,6 +201,19 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 6. When it successfully created the restore point, click**Close** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/close-the-window.png)
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, if none of the solutions listed above gives you any luck, you may need to check if there are any missing or corrupted system files. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues, but most of the time it only scans major files and may miss minor issues.
 
@@ -257,18 +246,22 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-fullscreen-imprint-of-site/"><u>[New] In 2024, Fullscreen Imprint of Site</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-enhancing-roku-experience-for-facebook-live-broadcasts/"><u>2024 Approved Enhancing Roku Experience for Facebook Live Broadcasts</u></a></li>
-<li><a href="https://win-able.techidaily.com/chrome-high-cpu-usage-problem-addressed-optimal-fixes-and-solutions/"><u>Chrome High CPU Usage Problem Addressed – Optimal Fixes and Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/essential-tips-for-resolving-halo-infinites-audio-malfunctions/"><u>Essential Tips for Resolving Halo Infinite's Audio Malfunctions</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-mount-and-blade-2-bannerlord-performance-issues-and-crashes/"><u>How to Resolve Mount & Blade 2: Bannerlord Performance Issues and Crashes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-nubia-red-magic-9-proplus-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Nubia Red Magic 9 Pro+ to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-best-online-junctions-providing-free-high-end-vector-artworks-and-graphics/"><u>In 2024, Best Online Junctions Providing Free, High-End Vector Artworks & Graphics</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/navigating-through-geforce-experience-hiccups-effective-solutions-for-error-free-gaming-enhancements/"><u>Navigating Through GeForce Experience Hiccups: Effective Solutions for Error-Free Gaming Enhancements</u></a></li>
-<li><a href="https://win-able.techidaily.com/outriders-gaming-fix-eliminating-the-ue4-madness-unreal-process-crash-glitch/"><u>Outriders Gaming Fix - Eliminating the 'UE4 Madness' Unreal Process Crash Glitch</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-huawei-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Huawei , is it possible?</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-destiny-2-server-disconnection-issues/"><u>Resolved: Fixing 'Destiny 2 Server Disconnection Issues'</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-spheres-meld-facebook-and-instagrams-bond-deepens/"><u>Social Spheres Meld: Facebook & Instagram's Bond Deepens</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-htc-vive-redefining-virtual-playtime-with-unmatched-immersion-for-2024/"><u>[New] HTC Vive Redefining Virtual Playtime with Unmatched Immersion for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unleashing-shareability-secrets-of-trending-on-fb-for-2024/"><u>[New] Unleashing Shareability Secrets of Trending on Fb for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-financially-flourishing-online-media-personality/"><u>[Updated] In 2024, Financially Flourishing Online Media Personality</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-visionary-solutions-top-1-ward-video-recorders-on-the-web-for-2024/"><u>[Updated] Visionary Solutions Top 1 Ward Video Recorders on the Web for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigate-and-watch-harnessing-netflixs-picture-in-picture-functionality/"><u>2024 Approved Navigate and Watch Harnessing Netflix's Picture-in-Picture Functionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-minecrafts-persistent-frozen-screen-a-comprehensive-guide-to-smoother-gameplay/"><u>Beat Minecraft's Persistent Frozen Screen : A Comprehensive Guide to Smoother Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/dauntless-pc-issues-resolved-how-to-stop-the-game-from-crashing/"><u>Dauntless PC Issues Resolved - How to Stop the Game From Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-titanfall-2-crashes-swift-and-easy-guide/"><u>How to Stop Titanfall 2 Crashes: Swift & Easy Guide!</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-game-disruptions-solving-persona-5-strikers-pc-performance-issues/"><u>No More Game Disruptions: Solving Persona 5 Strikers PC Performance Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-to-league-of-legends-game-freezing-issues/"><u>Quick Solutions to League of Legends Game Freezing Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issues-with-fifa-21-game-installation-and-launch/"><u>Resolved: Issues with FIFA 21 Game Installation and Launch</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seamless-soundscape-design-with-expert-crossfading-techniques-audacity-for-2024/"><u>Seamless Soundscape Design with Expert Crossfading Techniques (Audacity) for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990617559-solving-the-puzzle-of-cyberpunk-2077-interruptions-essential-strategies-for-a-seamless-play/"><u>Solving the Puzzle of Cyberpunk 2077 Interruptions: Essential Strategies for a Seamless Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-frame-rate-fluctuations-and-latency-problems-in-black-ops-4/"><u>Troubleshooting Frame Rate Fluctuations & Latency Problems in Black Ops 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-silent-issues-fixing-lost-ark-audio-problems/"><u>Troubleshooting Silent Issues: Fixing 'Lost Ark' Audio Problems</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/troubleshooting-steps-for-faulty-onikuma-mic-setup-fixed/"><u>Troubleshooting Steps for Faulty Onikuma Mic Setup [FIXED]</u></a></li>
+<li><a href="https://win-able.techidaily.com/war-thunder-continuously-crashing-fix-it-with-these-top-5-expert-tips/"><u>War Thunder Continuously Crashing? Fix It with These Top 5 Expert Tips</u></a></li>
 </ul></div>
 

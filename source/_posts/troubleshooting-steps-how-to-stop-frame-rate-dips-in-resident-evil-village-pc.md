@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: How to Stop Frame Rate Dips in Resident Evil Village [PC]"
-date: 2024-09-10T14:16:43.061Z
-updated: 2024-09-11T14:16:43.061Z
+date: 2024-10-13T03:35:25.801Z
+updated: 2024-10-14T17:58:35.277Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 
 Resident Evil Village is a great survival horror game in the storied Resident Evil franchise. But the cursor became annoying while in-game with Village. This post gives you some possible fixes, give it a try.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -33,26 +30,6 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 2. [Change resolution](https://tools.techidaily.com/drivereasy/download/)
 3. [Change mouse settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Update device driver](https://tools.techidaily.com/drivereasy/download/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Download an invisible cursor theme file
 
@@ -65,21 +42,16 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device.jpg)
 3. Click**Mouse** on the left panel, then click**Additional mouse options** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
 4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Apply** . Your mouse cursor will disappear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cursor.gif)
 6. If you want the cursor back, click**Use Default** in the Mouse Properties window, then click**Apply** .  
@@ -97,20 +69,6 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 
 **Note** : This fix might let the image lose a lot of quality.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 3: Change mouse settings
 
  Change the in-game mouse settings might help. Players have proved that the max sensitivity is not 10 and you can set the number go beyond 10.
@@ -119,35 +77,21 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-8.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 If this fix brings no luck, move to the next one.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Update device driver
 
@@ -173,19 +117,12 @@ There are two ways you can update your device drivers:
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -200,8 +137,6 @@ There are two ways you can update your device drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,12 +144,23 @@ There are two ways you can update your device drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-designing-engaging-instagram-feature-film-posts/"><u>[New] Designing Engaging Instagram Feature Film Posts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-50plus-trending-tiktok-hashtags-to-get-more-views-and-likes/"><u>[Updated] 50+ Trending TikTok Hashtags to Get More Views and Likes</u></a></li>
+<li><a href="https://win-able.techidaily.com/6-fast-solutions-stop-roblox-from-freezing-on-your-computer/"><u>6 Fast Solutions: Stop Roblox From Freezing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-riot-games-secrets-the-inside-scoop-on-league-of-legends-quick-item-drop-rates/"><u>Decoding Riot Games' Secrets: The Inside Scoop on League of Legends Quick Item Drop Rates</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-it-now-effective-solutions-for-risk-of-rain-ebx-not-crashing-issues/"><u>Fix It Now: Effective Solutions for Risk of Rain Ebx Not Crashing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003581920-fix-your-hearthstone-crashes-and-glitches-on-windows-solutions-inside/"><u>Fix Your Hearthstone Crashes and Glitches on Windows - Solutions Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/frosted-forever-confronting-persistent-ice-in-a-transformed-terra/"><u>Frosted Forever: Confronting Persistent Ice in a Transformed Terra</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-motorola-edge-40-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Motorola Edge 40 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/kostenloze-konvertie-van-3gp-naar-wav-audios-online-movavi/"><u>Kostenloze Konvertie Van 3GP Naar WAV-Audios Online - Movavi</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-cropping-like-a-pro-advanced-techniques-for-avidemux-users/"><u>New In 2024, Cropping Like a Pro Advanced Techniques for Avidemux Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-persistent-freezing-and-crashing-in-ghostwire-tokyo-on-pc/"><u>Resolved: Fixes for Persistent Freezing and Crashing in Ghostwire: Tokyo on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-successful-solutions-for-when-saints-row-fails-to-start-on-your-pc/"><u>Resolving Issues: Successful Solutions for When Saints Row Fails to Start on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-get-your-witcher-3-game-running-smoothly-again/"><u>Step-By-Step Solutions To Get Your Witcher 3 Game Running Smoothly Again</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-zte-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For ZTE Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-silent-twitch-channels-expert-tips-for-casters/"><u>Troubleshooting & Fixing Silent Twitch Channels - Expert Tips for Casters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/ultimate-10-volume-uplifters-for-windowsios-devices-for-2024/"><u>Ultimate 10 Volume Uplifters for Windows/iOS Devices for 2024</u></a></li>
+</ul></div>
 

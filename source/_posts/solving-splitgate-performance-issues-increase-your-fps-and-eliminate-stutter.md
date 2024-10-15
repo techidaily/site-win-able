@@ -1,7 +1,7 @@
 ---
 title: "Solving Splitgate Performance Issues: Increase Your FPS & Eliminate Stutter"
-date: 2024-10-04T23:31:15.774Z
-updated: 2024-10-08T18:25:08.170Z
+date: 2024-10-13T20:04:11.561Z
+updated: 2024-10-15T04:38:38.167Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ The recent hotfix by Riot didn’t seem to fix the stuttering issue in Valorant,
 5. **[Turn on VSync](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Empty Standby Memory](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Install all Windows updates
 
  While the ubiquitous Windows update prompts might be annoying to some, keeping the system up to date is actually saving your time by avoiding tons of compatibility issues. So when you’re troubleshooting game issues, it’s always recommended to**check for system updates** first.
@@ -52,15 +45,15 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
@@ -72,6 +65,13 @@ Here’s how you can check for updates manually:
 
 If this fix doesn’t help you, take a look at the next one below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Change your power plan
 
  In the recent build of Windows, users are able to unlock a new power plan called**Ultimate Performance** , which might to some extent improve gaming experience. If you’re willing to try this out, simply do the following:
@@ -79,13 +79,6 @@ If this fix doesn’t help you, take a look at the next one below.
 1. On your keyboard, press **Win+R** (the Windows logo key and the r key) at the same time. Type or paste **powercfg.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . (If you don’t see this power plan, simply continue to the next step to unhide it.)  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
@@ -100,6 +93,13 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 Now you test the gameplay in Valorant and check for improvements.
 
  If this trick doesn’t do the trick for you, simply try the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -151,10 +151,16 @@ If the latest driver doesn’t help you, check out the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/valorant-low-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Empty Standby Memory
@@ -168,10 +174,10 @@ This method may require a basic level of computer knowledge.
 2. In Resource Monitor, navigate to the**Memory** tab. In the**Physical Memory** section, you’ll see the current memory usage. Check if**Standby Memory** is taking up too much of your total RAM.![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. You can empty the standby memory manually.  
@@ -188,47 +194,35 @@ This method may require a basic level of computer knowledge.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist-3.jpg)
 3. On your keyboard, press**Win+R** to invoke the**Run** box. Type or paste**taskchd.msc** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/taskschd.msc_.jpg)
 4. In the right pane, select**Create Task** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-1.jpg)
 5. In the**Name** section, type or paste**Empty Standby Memory** . Then click**Change User or Group.** …  
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-3.jpg)
 6. In the pop-up window, click**Advanced…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-4.jpg)
 7. Click**Find Now** . In the search results, select**SYSTEM** . Then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-5.jpg)
 8. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-6-2.jpg)
 9. Navigate to the**Actions** tab, click**New…** .  
 
@@ -236,6 +230,13 @@ This method may require a basic level of computer knowledge.
 10. Browse and select the**EmptyStandbyList.exe** program. Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-8.jpg)
 11. Then navigate to the**Triggers** tab, click**New..** ..  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Under the**Advanced settings** , set**Repeat task** to**every 10 minutes** . Set**for a duration of** to**Indefinitely** .  
  Click**OK** .  
@@ -265,19 +266,19 @@ This method may require a basic level of computer knowledge.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/days-gone-ps4-fps-hits-computers-unleash-the-wild-bandit-in-epic-open-world/"><u>'Days Gone': PS4 FPS Hits Computers, Unleash the Wild Bandit in Epic Open World</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-your-own-google-vr-glasses/"><u>[New] Crafting Your Own Google VR Glasses</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-from-digital-designs-to-emoji-delights-making-the-most-of-your-gifs/"><u>[Updated] 2024 Approved From Digital Designs to Emoji Delights Making the Most of Your GIFs</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-art-of-crafting-persuasive-video-covers-for-social-media-platforms/"><u>[Updated] 2024 Approved The Art of Crafting Persuasive Video Covers for Social Media Platforms</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-a1-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo A1 5G System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/cure-ailing-mov-video-formats-on-mac/"><u>Cure Ailing MOV Video Formats on Mac</u></a></li>
-<li><a href="https://win-able.techidaily.com/definitive-fix-stop-code-vein-from-halting-with-these-simple-steps/"><u>Definitive Fix: Stop 'Code Vein' From Halting with These Simple Steps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/vering-youtubes-green-magic-for-effective-filming/"><u>Discovering Youtube's Green Magic for Effective Filming</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-to-completely-erase-data-on-iphone-se-2022-to-avoid-privacy-leak-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Guide to Completely Erase Data on iPhone SE (2022) to Avoid Privacy Leak | Stellar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-scoop-on-googles-upcoming-extravaganza-breaking-news-and-forecast-analysis/"><u>Inside Scoop on Google's Upcoming Extravaganza: Breaking News & Forecast Analysis</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-battlefield-avoid-low-fps-woes-in-war-thunder-tips-and-tricks/"><u>Mastering the Battlefield: Avoid Low FPS Woes in War Thunder (Tips & Tricks)</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013581410-resolve-your-sea-of-thieves-game-crash-issues-here/"><u>Resolve Your Sea of Thieves Game Crash Issues Here!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-for-overcoming-mmi2-no-sim-card-provisioning-errors/"><u>Troubleshooting Tips for Overcoming 'MMI2 - No SIM Card Provisioning' Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solution-reducing-discords-cpu-drain/"><u>Ultimate Solution: Reducing Discord's CPU Drain</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-crafting-tomorrows-art-today-the-finest-9-resources-for-3d-typographic-exploration/"><u>[New] Crafting Tomorrow's Art Today The Finest 9 Resources for 3D Typographic Exploration</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-step-by-step-adding-a-flurry-of-images-and-videos-to-your-ig-story/"><u>[New] In 2024, Step-by-Step Adding a Flurry of Images & Videos to Your IG Story</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-innovative-dialogues-the-key-to-listener-retention/"><u>[New] Innovative Dialogues The Key to Listener Retention</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-share-across-platforms-instagram-meets-facebook/"><u>[Updated] 2024 Approved Share Across Platforms Instagram Meets Facebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-virtual-reality-top-emulators-for-playing-ps3-games-on-pc/"><u>[Updated] 2024 Approved Virtual Reality Top Emulators for Playing PS3 Games on PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-premier-list-visionary-audiovideo-makers-web/"><u>[Updated] The Premier List Visionary Audio/Video Makers Web</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-the-codex-defeating-cod-warzone-error-6328-with-expert-guidance/"><u>Conquer the Codex: Defeating COD Warzone Error 6328 with Expert Guidance</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-2022-spotify-web-player-back-on-track-optimizing-speed-and-functionality/"><u>Get Your 2022 Spotify Web Player Back on Track: Optimizing Speed & Functionality</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-paso-a-paso-organizar-y-conducir-un-webinar-libremente-en-tu-ordenador/"><u>Guía Paso a Paso: Organizar Y Conducir Un Webinar Libremente en Tu Ordenador</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fixes-to-stop-me3-from-crashing-on-your-console-or-computer/"><u>Mastering the Fixes to Stop ME3 From Crashing on Your Console or Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-support-troubleshooting-star-wars-jedi-fallen-orders-crashing-problems/"><u>PC Gaming Support: Troubleshooting Star Wars Jedi: Fallen Order's Crashing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-new-world-connection-issues-a-step-by-step-guide/"><u>Resolving New World Connection Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/the-advantages-of-iphone-15s-new-usb-type-c-port-exploring-its-significance/"><u>The Advantages of iPhone 15’S New USB Type-C Port: Exploring Its Significance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-clearer-photos-a-guide-to-picsarts-bg-eraser-for-2024/"><u>Unveiling Clearer Photos A Guide to Picsart's Bg Eraser for 2024</u></a></li>
 </ul></div>
 

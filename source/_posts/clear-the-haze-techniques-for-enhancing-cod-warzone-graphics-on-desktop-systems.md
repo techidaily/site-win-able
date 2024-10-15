@@ -1,7 +1,7 @@
 ---
 title: "Clear the Haze: Techniques for Enhancing COD: Warzone Graphics on Desktop Systems"
-date: 2024-10-06T19:10:47.419Z
-updated: 2024-10-08T23:46:50.147Z
+date: 2024-10-10T16:58:22.174Z
+updated: 2024-10-14T20:08:16.271Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 5. **[Increase virtual memory](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Check for Windows update](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Meet the minimum system requirements
 
@@ -88,18 +81,18 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-113-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-358.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -121,10 +114,10 @@ If your problem persists, then go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-896.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Right-click **DOOM** and select **Properties** .
@@ -132,10 +125,10 @@ If your problem persists, then go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -147,10 +140,10 @@ If your problem persists, then go ahead with the next fix below.
 If this didn’t work, try the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Lower your in-game settings
@@ -169,6 +162,13 @@ If this didn’t work, try the fix, below.
 
 If not, move on and try the next solution below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Increase virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when performing an intensive task, Windows will dip into virtual memory for temporary file storage.
@@ -186,6 +186,13 @@ If not, move on and try the next solution below.
 **3)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
@@ -206,24 +213,18 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **8)** Click **Set** , and then click **OK** .
 
 **9)**  Restart your computer and your game.
 
  If the game crashing issue still exists, then go ahead with the next solution below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Check for Windows updates
 
@@ -253,13 +254,6 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
@@ -269,10 +263,10 @@ If not, move on and try the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_12-34-56-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall DOOM.
@@ -300,22 +294,24 @@ If not, move on and try the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/fixed-csgo-fps-drops-issues/"><u>[Fixed] CS:GO FPS Drops Issues</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-easy-guide-to-finding-free-and-secure-vlc-software-for-macos-users/"><u>[New] Easy Guide to Finding Free & Secure VLC Software for macOS Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-facebook-flashback-finder/"><u>[Updated] Facebook Flashback Finder</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-navigating-partner-selection-for-youtube-joint-ventures/"><u>2024 Approved Navigating Partner Selection for YouTube Joint Ventures</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-on-the-move-photography-tweaks-with-luts/"><u>2024 Approved On-the-Move Photography Tweaks with LUTs</u></a></li>
-<li><a href="https://win-able.techidaily.com/apex-legends-error-code-23-your-comprehensive-guide-to-resolution-and-recovery/"><u>Apex Legends Error Code 23: Your Comprehensive Guide to Resolution and Recovery</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-tips-for-eliminating-cod-mw2s-troublesome-directx-problem/"><u>Comprehensive Tips for Eliminating COD MW2's Troublesome DirectX Problem</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721477020098-dealing-with-a-delayed-iphone-screen-shutdown-here-are-some-expert-tips/"><u>Dealing with a Delayed iPhone Screen Shutdown? Here Are Some Expert Tips!</u></a></li>
-<li><a href="https://win-able.techidaily.com/firefox-stalling-resolve-all-freezing-problems-with-our-step-by-step-guide/"><u>Firefox Stalling? Resolve All Freezing Problems with Our Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-raw-to-revealed-constructing-compelling-collage-features/"><u>From Raw to Revealed: Constructing Compelling Collage Features</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y27-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-what-is-talking-avatar/"><u>New In 2024, What Is Talking Avatar?</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-frustrating-lags-10-effective-solutions-for-an-optimal-battlefield-5-experience/"><u>Say Goodbye to Frustrating Lags: 10 Effective Solutions for an Optimal Battlefield 5 Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-issue-of-alan-wake-2s-unavailable-release/"><u>Solving the Issue of Alan Wake 2'S Unavailable Release</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722986937806-steam-vr-disappeared-here-are-6-clever-fixes-to-get-it-back-on-track/"><u>Steam VR Disappeared? Here Are 6 Clever Fixes to Get It Back on Track</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-doom-eternal-why-it-wont-launch-and-how-to-fix-it/"><u>Troubleshooting DOOM Eternal - Why It Won't Launch and How to Fix It</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/understanding-the-absence-of-wps-buttons-on-modern-android-devices-what-you-need-to-know/"><u>Understanding the Absence of WPS Buttons on Modern Android Devices: What You Need to Know</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-enhancing-collaboration-the-seamless-merge-of-zoom-and-gmail-for-2024/"><u>[New] Enhancing Collaboration The Seamless Merge of Zoom & Gmail for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-logitech-options-not-working-on-windows/"><u>[SOLVED] Logitech Options Not Working on Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-share-the-screen-with-zoom-for-2024/"><u>[Updated] How to Share the Screen with Zoom for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-mastering-video-narratives-top-5-captioning-approaches-for-tiktok/"><u>[Updated] Mastering Video Narratives Top 5 Captioning Approaches for TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-quickest-quarter-mile-sochi-22/"><u>[Updated] The Quickest Quarter Mile - Sochi '22</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-exploring-samsungs-photo-enhancing-tools/"><u>2024 Approved Exploring Samsung’s Photo Enhancing Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-nk-2077-how-to-eliminate-stuttering-and-smooth-performance/"><u>Cyberpunk Nk 2077: How to Eliminate Stuttering and Smooth Performance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/exploring-stardews-peak-mods-list-of-the-best-for-2024/"><u>Exploring Stardew's Peak Mods - List of the Best for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996354120-getting-elden-ring-online-play-up-and-running-again-expert-advice/"><u>Getting Elden Ring Online Play Up & Running Again – Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/god-of-war-pc-stability-issues-resolved-game-no-longer-crashes/"><u>God of War PC Stability Issues Resolved: Game No Longer Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/guilty-gear-strive-pc-version-diagnosing-and-fixing-continuous-crashes-for-smoother-gameplay/"><u>Guilty Gear Strive PC Version: Diagnosing and Fixing Continuous Crashes for Smoother Gameplay</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-for-macos-sierras-system-return-to-el-capitan/"><u>In 2024, Step-by-Step for MacOS Sierra's System Return to El Capitan</u></a></li>
+<li><a href="https://article-helps.techidaily.com/master-iphone-photo-watermarks-the-top-apps-reviewed-for-2024/"><u>Master iPhone Photo Watermarks The Top Apps Reviewed for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-troubleshooting-tips-preventing-granblue-fantasy-relinks-from-crashing/"><u>PC Troubleshooting Tips: Preventing Granblue Fantasy Relinks From Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-trouble-heres-how-to-get-rid-of-that-annoying-black-screen/"><u>Rainbow Six Siege Trouble? Here's How to Get Rid of That Annoying Black Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-abcs-airway-breathing-circulation-are-the-first-priority-in-managing-any-patient-with-suspected-poisoning/"><u>The ABCs (Airway, Breathing, Circulation) Are the First Priority in Managing Any Patient with Suspected Poisoning</u></a></li>
+<li><a href="https://win-able.techidaily.com/tormented-souls-game-stability-issues-how-to-fix-crashes-on-windows/"><u>Tormented Souls Game Stability Issues: How to Fix Crashes on Windows</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-potential-of-imo-messenger-an-in-depth-review/"><u>Unveiling the Potential of Imo Messenger - An In-Depth Review</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/you-need-to-know-about-vanishing-shorts-thumbnails-on-youtube-for-2024/"><u>What You Need to Know About Vanishing Shorts Thumbnails on YouTube for 2024</u></a></li>
 </ul></div>
 

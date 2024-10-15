@@ -1,7 +1,7 @@
 ---
 title: "Dual Collision Dilemma: Deciphering 'It Takes Two Hits' For PC Issues"
-date: 2024-10-05T16:57:27.597Z
-updated: 2024-10-08T18:15:06.493Z
+date: 2024-10-12T21:04:48.133Z
+updated: 2024-10-14T19:54:29.492Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Origin as administrator
 
  Origin sometimes may not work properly if it is not granted the administrator privilege. If Origin still keeps crashing after you cleared the Origin cache, you can try running Origin as administrator. Here is how to do it:
@@ -98,13 +105,6 @@ If Origin crashes again, try the next fix to update your graphics driver.
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -130,32 +130,11 @@ If Origin crashes again, try the next fix to update your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Orgin-1234.png)
 4. In the**Origin Properties** window, navigate to the**Compatibility** tab and click**Run compatibility troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Origin-compatibility-troubleshoot.png)
 5. Select**Try recommended settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/windows-compatibility-troubleshooter.png)
 6. Click**Test the program…** to see if the new settings fix the problem.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/windows-compatibility-troubleshooter-2.png)
 7. If Origin can load normally, then click**Next** and Select**Yes, save these settings for this program** .  
@@ -171,6 +150,13 @@ If Origin crashes again, try the next fix to update your graphics driver.
 * **Run this program as an administrator:**  If Origin is not given administrator privileges, it may not run properly. Try this setting to give the program the administrator privileges.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Origin-compatibility-troubleshooter-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re using 4K monitor, you can try the**Change high DPI settings** option:
 
 1. Click**Change high DPI settings** .  
@@ -178,13 +164,20 @@ If Origin crashes again, try the next fix to update your graphics driver.
 2. **Check the box** next to**Override high DPI scaling behavior** , and set**Scaling performed by:** **System** . Click**OK** to close the Origin Properties window and save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Origin-Properties-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If Origin still crashes after you tried this fix, try the next one, below.
 
@@ -230,32 +223,39 @@ If Origin crashes again, try the next fix to update your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Restart** your PC and launch Origin to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall** it to avoid game crashing issues in the future.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Origin
 
@@ -270,10 +270,10 @@ If Origin crashes again, try the next fix to update your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
@@ -283,6 +283,13 @@ If Origin crashes again, try the next fix to update your graphics driver.
  iii. Double-click**Origin** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 iv. Restart your Windows system when it is completed.
 
@@ -311,15 +318,22 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/black-ops-cold-war-crack-the-mystery-behind-errorcode-0xc0000005-and-play-smoothly/"><u>'Black Ops Cold War': Crack the Mystery Behind ERROR_CODE 0xC0000005 and Play Smoothly!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unveiling-the-ultimate-hdr-camera-lineup/"><u>[Updated] Unveiling the Ultimate HDR Camera Lineup</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-infinix-hot-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Infinix Hot 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722994326110-battlefront-ii-freezes-on-pc-heres-what-you-need-to-know/"><u>Battlefront II Freezes on PC? Here's What You Need to Know</u></a></li>
-<li><a href="https://win-able.techidaily.com/diablo-immortal-stability-issues-on-pc-heres-the-ultimate-fix/"><u>Diablo Immortal Stability Issues on PC? Here's the Ultimate Fix</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-nvidia-quadro-graphics-drivers-for-your-windows-10-system/"><u>Get the Newest Nvidia Quadro Graphics Drivers for Your Windows 10 System</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-detailed-review-all-about-gecatas-recording-mechanism/"><u>In 2024, Detailed Review All About Gecata's Recording Mechanism</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-hurdle-unraveling-the-mystery-behind-robocop-rogue-city-startup-issues/"><u>PC Gaming Hurdle: Unraveling the Mystery Behind RoboCop: Rogue City Startup Issues</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-stop-back-4-blood-from-freezing-and-crashing-on-windows/"><u>Troubleshooting Steps - Stop 'Back 4 Blood' From Freezing and Crashing on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-acclaimed-screenplay-assembly-place/"><u>2024 Approved Acclaimed Screenplay Assembly Place</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-expert-tips-best-10-ae-text-setups/"><u>2024 Approved Expert Tips Best 10 AE Text Setups</u></a></li>
+<li><a href="https://win-able.techidaily.com/5-proven-methods-for-smoothing-out-gameplay-and-boosting-fps-in-2n24/"><u>5 Proven Methods for Smoothing Out Gameplay and Boosting FPS in 2N24</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-step-by-step-guide-to-utilizing-the-compact-version-of-driver-easy-on-androidios-devices/"><u>A Step-by-Step Guide to Utilizing the Compact Version of Driver Easy on Android/iOS Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-step-by-step-walkthrough-getting-your-rocket-league-game-running-smoothly-again/"><u>A Step-by-Step Walkthrough: Getting Your Rocket League Game Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/arma-3-tarkov-error-code-103003-explained-and-solved-expert-advice/"><u>Arma 3 Tarkov Error Code 103003 Explained and Solved: Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-error-1068-in-windows-a-comprehensive-guide-solution-found/"><u>Fixing Error 1068 in Windows: A Comprehensive Guide - SOLUTION FOUND!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-modern-warfare-unplayable-on-pc-issue-for-smooth-gaming/"><u>How to Resolve 'Modern Warfare Unplayable on PC' Issue for Smooth Gaming</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone 8 Plus</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-mastering-video-posts-on-tiktok-your-guide-for-mac-and-pc-users/"><u>In 2024, Mastering Video Posts on TikTok Your Guide for MAC & PC Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-routes-turning-pinterest-vids-into-music-files/"><u>In 2024, Ultimate Routes Turning Pinterest Vids Into Music Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996915939-madden-20-continuous-crashes-on-windows-heres-how-to-make-it-run-smoothly/"><u>Madden 20 Continuous Crashes on Windows? Here's How to Make It Run Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/mafia-the-final-cut-revealed-release-cancellation-clarification/"><u>Mafia: The Final Cut Revealed - Release Cancellation Clarification</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-for-clearing-the-black-screen-error-in-battlefront-2/"><u>Solution Steps for Clearing the Black Screen Error in Battlefront 2</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-windows-update-failure-error-0x8007001f/"><u>Troubleshooting Guide for Windows Update Failure (Error 0X8007001f)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-choice-in-car-dvd-systems-with-portability-and-duo-screens-for-young-travel-enjoyment/"><u>Ultimate Choice in Car DVD Systems with Portability & Duo Screens for Young Travel Enjoyment</u></a></li>
 </ul></div>
 

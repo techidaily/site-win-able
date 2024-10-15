@@ -1,7 +1,7 @@
 ---
 title: HP My Display Has Stopped Working [SOLVED]
-date: 2024-09-10T14:15:06.856Z
-updated: 2024-09-11T14:15:06.856Z
+date: 2024-10-08T00:47:44.406Z
+updated: 2024-10-14T20:15:25.634Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 
 It’s really frustrating to experience**FPS drops** when you’re playing**GTA 5** . But don’t worry! Although it’s incredibly annoying, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -90,34 +87,14 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/DE-csan-screen-2.png)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.
 
@@ -135,20 +112,6 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 4: Modify the graphics settings
 
  Modifying the graphics settings is another fix to boost FPS in the game. You need to modify the graphics settings both in Nvidia Control Panel and in the game.
@@ -159,37 +122,26 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel.jpg)
 2. View Control Panel by **Large icons** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.”  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
 
 #### Lower the in-game graphics settings
@@ -218,43 +170,16 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 4. In the**Advanced Graphics** tab, modify the settings like the screenshots below:  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/GTA-5-advanced-graphics-settings.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Launch GTA 5 again to see if you can play the game smoothly. If not, try the next fix, below.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Restrict applications and downloads in the background
 
@@ -264,23 +189,23 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 2. Select other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run GTA 5 again to see if you can play the game smoothly. It the FPS in GTA 5 still drops, try the next fix, below.
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 6: Change the power plan of your PC
 
@@ -290,38 +215,18 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch GTA 5 to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 7: Adjust your Windows system for the best performance
 
@@ -349,8 +254,6 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -358,12 +261,22 @@ It’s really frustrating to experience**FPS drops** when you’re playing**GTA 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/fixed-rainbow-six-siege-wont-launch/"><u>[FIXED] Rainbow Six Siege Won’t Launch</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-expert-tips-for-enhancing-ppts-with-auditory-content/"><u>[New] In 2024, Expert Tips for Enhancing PPTs with Auditory Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-your-creativity-in-full-rotation-best-practices-for-vr-video/"><u>[Updated] Unleash Your Creativity in Full Rotation Best Practices for VR Video</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-greatest-kid-friendly-flying-toys-summary/"><u>2024 Approved Greatest Kid-Friendly Flying Toys Summary</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-gameplay-stability-troubleshooting-the-falling-fps-problem-in-forza-horizon-5-resolved/"><u>Enhancing Gameplay Stability: Troubleshooting the Falling FPS Problem in Forza Horizon 5 [RESOLVED]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-dac-technology-why-you-should-consider-adding-one-to-your-system/"><u>Exploring DAC Technology: Why You Should Consider Adding One to Your System</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012455529-how-i-fixed-the-persistent-steam-cant-log-in-error-share-your-success/"><u>How I Fixed the Persistent 'Steam Can't Log In' Error – Share Your Success</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-poco-f5-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Poco F5 5G Is Unlocked</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-enable-shadowplay-screen-capturing-functionality-on-your-windows-device-solved/"><u>How To Enable Shadowplay Screen Capturing Functionality On Your Windows Device [Solved]</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-13-proipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 13 Pro/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-fixed-tips-and-solutions-to-prevent-elite-dangerous-from-crashing/"><u>PC Gaming Fixed: Tips and Solutions to Prevent Elite Dangerous From Crashing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tion-mastery-on-youtube-top-6-methods-for-engaged-audience-growth/"><u>Retention Mastery on YouTube Top 6 Methods for Engaged Audience Growth</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-11-proplus-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 11 Pro+ Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-startup-issues-with-granblue-fantasy-focus-on-relink-launch-problems/"><u>Troubleshooting Startup Issues with Granblue Fantasy - Focus on ReLink Launch Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-wsappx-identifying-and-resolving-excessive-memory-and-processor-consumption/"><u>Understanding WSAPPX: Identifying & Resolving Excessive Memory & Processor Consumption</u></a></li>
+</ul></div>
 

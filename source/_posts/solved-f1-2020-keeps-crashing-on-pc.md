@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] F1 2020 Keeps Crashing on PC"
-date: 2024-09-10T14:16:41.039Z
-updated: 2024-09-11T14:16:41.039Z
+date: 2024-10-08T02:28:45.497Z
+updated: 2024-10-14T22:02:44.583Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
 
 Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not alone! While this is a very frustrating issue, it can be fixed…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## How to fix**Madden 20** crashing
 
@@ -49,39 +46,11 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 4) Restart your computer for the changes to take effect.
 
@@ -89,19 +58,12 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
 
@@ -133,37 +95,16 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -176,6 +117,13 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
  Hardware components up-to-date but M20 still crashes? Don’t worry – here are a few more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Repair Madden 20
 
@@ -195,19 +143,12 @@ Here is how to do it:
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Install the latest game patch
 
@@ -253,8 +194,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -262,12 +201,22 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-10-free-youtube-playlist-downloaders-onlinepcandroidios2/"><u>[New] 2024 Approved 10 FREE YouTube Playlist Downloaders [Online/PC/Android/iOS]2</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-join-the-meme-revolution-expert-tips-for-the-metaverse/"><u>[New] 2024 Approved Join the Meme Revolution Expert Tips for the Metaverse</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-checklist-for-perfecting-your-laptops-screen-capture-abilities/"><u>[New] In 2024, The Ultimate Checklist for Perfecting Your Laptop's Screen Capture Abilities</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-innovative-fb-video-plays-for-the-modern-user/"><u>2024 Approved Innovative FB Video Plays for the Modern User</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-tips-for-dynamic-and-engaging-video-covers-on-the-worlds-largest-social-media-network/"><u>2024 Approved Tips for Dynamic & Engaging Video Covers on the World's Largest Social Media Network</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-exceptional-value-the-lenovo-tab-m10-fhdplus-2020-review-spectacular-screen-unbeatable-budget/"><u>Discover Exceptional Value: The Lenovo Tab M10 FHD+ (2020) Review - Spectacular Screen, Unbeatable Budget</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722986973626-guilty-gear-strive-performance-enhanced-say-goodbye-to-lags/"><u>Guilty Gear Strive Performance Enhanced: Say Goodbye to Lags</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-when-call-of-duty-black-ops-4-wont-load-solutions-uncovered/"><u>How to Troubleshoot When Call of Duty: Black Ops 4 Won't Load - Solutions Uncovered!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-oppo-a78-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Oppo A78 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-gameplay-solving-the-frame-drops-and-freezing-scenario-for-call-of-duty-mw3/"><u>Optimizing Gameplay: Solving the Frame Drops & Freezing Scenario for Call of Duty: MW3</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-how-to-download-and-install-samsung-m2020-driver-software/"><u>Step-by-Step: How to Download & Install Samsung M2020 Driver Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-successfully-install-pacific-drive-on-your-computer/"><u>Steps to Successfully Install Pacific Drive on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tips-to-fix-the-infamous-leaf-error-on-apex-legends-guide-for-gaming-enthusiasts/"><u>Top Tips to Fix the Infamous 'Leaf' Error on Apex Legends – Guide for Gaming Enthusiasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-playing-robocops-latest-installment-rogue-city-solutions-found/"><u>Trouble Playing RoboCop's Latest Installment, 'Rogue City': Solutions Found</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-mastering-the-fast-conversion-of-whatsapp-soundtracks-into-mp3-files/"><u>Updated 2024 Approved Mastering the Fast Conversion of WhatsApp Soundtracks Into MP3 Files</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Call of Duty Black Ops Cold War - Fixing User Interface Error 27711"
-date: 2024-10-06T22:59:29.750Z
-updated: 2024-10-08T21:22:33.094Z
+date: 2024-10-08T19:45:44.186Z
+updated: 2024-10-15T03:32:13.764Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 
  If the error persists after a reboot, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Scan and repair your game
 
  This error could mean that there’s**an integrity issue** with your game files. In other words, there are files corrupted or missing in your game folder. If that’s the case, a scan and repair might help you fix this glitch:
@@ -53,15 +46,22 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 2. Click **Options**  and select **Scan and Repair** . Then wait until the checking is completed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now you can launch the game and see if it loads this time.
 
  If this method doesn’t give you luck, simply take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -95,13 +95,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
@@ -121,22 +114,35 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -162,20 +168,19 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/fixed-horizon-zero-dawn-boost-fps-and-increase-performance/"><u>[Fixed] Horizon Zero Dawn BOOST FPS and Increase Performance</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unified-imagery-the-ultimate-blend-strategy/"><u>[Updated] 2024 Approved Unified Imagery The Ultimate Blend Strategy</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pros-and-cons-the-best-vr-gear-for-your-hands/"><u>2024 Approved Pros and Cons The Best VR Gear for Your Hands</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bebop-parrot-the-ultimate-feathered-performance-review-for-2024/"><u>Bebop Parrot The Ultimate Feathered Performance Review for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/best-recorders-for-lecture-recording-for-2024/"><u>Best Recorders for Lecture Recording for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-guilty-gear-strive-from-crashing-on-your-pc-a-step-by-step-solution/"><u>How to Stop Guilty Gear Strive From Crashing on Your PC - A Step-by-Step Solution</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/major-overhaul-microsoft-revamps-windows-keyboard-design-after-years-insights-from-zdnet/"><u>Major Overhaul: Microsoft Revamps Windows Keyboard Design After Years – Insights From ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movavis-free-web-service-effortless-wma-to-avi-file-conversion-online/"><u>Movavi's Free Web Service: Effortless WMA to AVI File Conversion Online</u></a></li>
-<li><a href="https://win-able.techidaily.com/navigating-troubleshooting-for-tales-of-arise-on-unreal-engine-4/"><u>Navigating Troubleshooting for Tales of Arise on Unreal Engine 4</u></a></li>
-<li><a href="https://win-able.techidaily.com/nba-2k24-how-to-fix-error-code-727e66ac-2024-tips/"><u>NBA 2K24: How to Fix Error Code 727E66ac -2024 Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-gaming-interruptions-effortlessly-resolve-titanfall-2-continuous-crashing/"><u>No More Gaming Interruptions: Effortlessly Resolve Titanfall 2 Continuous Crashing</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-stuttering-issues-in-fallout-76-a-comprehensive-guide/"><u>Resolving Stuttering Issues in Fallout 76 - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-fix-overcoming-content-warning-and-voice-chat-not-working-problems-seamlessly/"><u>The Ultimate Fix: Overcoming 'Content Warning' And 'Voice Chat Not Working' Problems Seamlessly</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-xiaomi-redmi-note-12-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Redmi Note 12 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-elite-sound-recording-tools-11-selection/"><u>[Updated] 2024 Approved Elite Sound Recording Tools - #11 Selection</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-15-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 15 Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-solutions-for-resolving-csgo-frame-rate-hiccups/"><u>Effortless Solutions for Resolving CS:GO Frame Rate Hiccups</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-steam-from-hanging-or-crashing/"><u>Fixing the Issue: How to Stop Steam From Hanging or Crashing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guida-rapida-allottimizzazione-gratuita-di-contenuti-multimediali-converti-3gp-in-mp4-con-movavi/"><u>Guida Rapida All'ottimizzazione Gratuita Di Contenuti Multimediali - Converti .3GP in .MP4 Con Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-doom-eternal-from-unexpectedly-crashing/"><u>How to Prevent DOOM Eternal From Unexpectedly Crashing</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unlock-zooms-full-power-with-share-screen-expertise/"><u>In 2024, Unlock Zoom’s Full Power with Share Screen Expertise</u></a></li>
+<li><a href="https://win-able.techidaily.com/phoenix-point-stability-issues-heres-how-you-can-solve-them/"><u>Phoenix Point Stability Issues? Here's How You Can Solve Them</u></a></li>
+<li><a href="https://win-able.techidaily.com/reactivate-and-fix-your-windows-11-spotlight-issue-a-step-by-step-guide/"><u>Reactivate and Fix Your Windows 11 Spotlight Issue - A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/society-transformed-7-benefits-from-social-networking/"><u>Society Transformed: 7 Benefits From Social Networking</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-future-of-presentations-capturing-via-webcam/"><u>The Future of Presentations Capturing via Webcam</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-players-unable-to-start-pathfinder-wrath-of-the-righteous-game/"><u>Troubleshooting Tips for Players Unable to Start Pathfinder: Wrath of the Righteous Game</u></a></li>
 </ul></div>
 

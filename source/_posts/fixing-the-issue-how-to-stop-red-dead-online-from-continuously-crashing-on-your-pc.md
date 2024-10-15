@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Stop Red Dead Online From Continuously Crashing on Your PC"
-date: 2024-09-10T14:10:35.143Z
-updated: 2024-09-11T14:10:35.143Z
+date: 2024-10-07T23:05:33.773Z
+updated: 2024-10-15T00:15:49.010Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 
  In this article, you will find the most effective fixes and workarounds that have helped many other PC players.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Check your PC specs first
 
@@ -65,6 +48,13 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 
 **RECOMMENDED**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you. The first three are some basic troubleshooting steps, you can skip these fixes if you’ve already tried them.
@@ -75,6 +65,13 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Stop overclocking your GPU](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install Graphic Tools](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify game integrity
 
@@ -88,20 +85,6 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-on-Steam-1.png)
 6. Steam will verify the game’s files – this process may take several minutes.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 If you’re on Rockstar game launcher, you can verify integrity by:
 
 * Navigate to**Settings**
@@ -113,20 +96,6 @@ If you’re on Rockstar game launcher, you can verify integrity by:
  Some third-party tools or software can interfere with your Red Dead Online, especially if you’re using tools like MSI Afterburner or RGB software, OBS, and Bandicam. Open Task Manager (**Esc** +**Shift** +**Esc** ) to close all these background apps or simply uninstall them.
 
  In addition, another possible cause of Red Dead Online crashing is your**antivirus software** . Disabling some of these services won’t always work. You can temporarily uninstall the software or add Red Dead Online to its exclusions.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Run Red Dead Online as admin
 
@@ -173,40 +142,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)
 4. Restart your computer for the changes to take effect.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Stop overclocking your GPU
 
@@ -228,64 +176,26 @@ OR
 ![add graphics tools](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-feature-1.jpg)
 3. Choose **Graphics Tools** from the results list.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-graphics-tool.jpg)
 4. Launch your game again to see if you can get rid of game crashes now.
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 5. If not, you can go to**Graphics Settings** \>**Advanced Graphics** , and make sure**Graphics API** is set to**DirectX 12** .  
 ![change Vulkan to DX12](https://images.drivereasy.com/wp-content/uploads/2021/01/DX12.png)
 6. If changing it to DX12 didn’t help, you can try reverting it back to Vulkan.
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 ---
 
@@ -303,8 +213,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -312,12 +220,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-aesthetic-alchemy-grading-with-colors/"><u>[New] Aesthetic Alchemy Grading with Colors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-tools-for-perfect-images-for-2024/"><u>[New] Essential Tools for Perfect Images for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-selective-sharpening-photo-editing-techniques/"><u>[Updated] Mastering Selective Sharpening Photo Editing Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-guide-to-platform-choice-and-management/"><u>2024 Approved Comprehensive Guide to Platform Choice and Management</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-srt-to-xml-ssa-and-ttml-transformations/"><u>2024 Approved Expert Tips for SRT-to-XML, SSA, and TTML Transformations</u></a></li>
+<li><a href="https://win-latest.techidaily.com/comment-resoudre-le-code-derreur-wheauncorrectable-dans-windows-10/"><u>Comment Résoudre Le Code D'erreur WHEA_UNCORRECTABLE Dans Windows 10</u></a></li>
+<li><a href="https://facebook.techidaily.com/delete-prep-navigate-your-facebook-break-with-ease/"><u>Delete Prep: Navigate Your Facebook Break With Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/directx-issues-in-fortnite-warzone-correct-them-within-4-easy-stages/"><u>DirectX Issues in Fortnite Warzone? Correct Them Within 4 Easy Stages</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-guide-enabling-dolby-atmos-sound-on-your-pc-running-windows-11-or-10/"><u>DIY Guide: Enabling Dolby Atmos Sound on Your PC Running Windows 11 or 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-ensuring-your-game-works-correctly-by-validating-its-data/"><u>Expert Advice: Ensuring Your Game Works Correctly by Validating Its Data</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-why-your-outriders-game-keeps-crashing/"><u>Fixing the Issue: Why Your Outriders Game Keeps Crashing</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-photography-with-nikon-d7500/"><u>In 2024, Mastering Photography with Nikon D7500</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-through-the-dark-fixes-for-nba-2k21-loading-screen-glitches/"><u>Navigating Through the Dark: Fixes for NBA 2K21 Loading Screen Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001367628-no-more-freezing-controllers-easy-fixes-inside/"><u>No More Freezing Controllers - Easy Fixes Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-configuration-server-connection-failure-effortlessly-today/"><u>Solve ‘Configuration Server Connection Failure’ Effortlessly Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-overcoming-screen-recording-issues-in-obs-studio/"><u>Troubleshooting Tips: Overcoming Screen Recording Issues in OBS Studio</u></a></li>
+</ul></div>
 

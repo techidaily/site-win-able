@@ -1,7 +1,7 @@
 ---
 title: Enable and Master Hyper-V on Windows 11 – An In-Depth Guide
-date: 2024-10-07T19:14:38.058Z
-updated: 2024-10-08T20:13:29.741Z
+date: 2024-10-10T17:41:17.244Z
+updated: 2024-10-15T06:03:57.590Z
 tags:
   - win11
   - win10
@@ -54,20 +54,13 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-volume-mixer.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’ve turned up the volume for Roblox but the audio is still missing, or Roblox doesn’t show up in your Volume mixer, try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Check Roblox settings
 
@@ -78,23 +71,16 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-34-14.jpg)
 3. Switch to the**Settings** tab. Make sure your audio is not muted and the**Volume** is not too low.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-35-15.jpg)
 
- If you have turned up the in-game volume but still hear no sound, try the next solution.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you have turned up the in-game volume but still hear no sound, try the next solution.
 
 ## Fix 3: Set your output device
 
@@ -106,9 +92,23 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-sound-output.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Sometimes the devices connected to your PC could interfere with normal audio output. If you’ve adjusted the above settings but your computer speaker still doesn’t work, make sure to unplug/disconnect devices such as your headset or external speaker from your PC.
 
 If the problem persists, move on to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your audio driver
 
@@ -131,6 +131,19 @@ If the problem persists, move on to the next solution.
 
  Restart your PC for the new drivers to take effect. Run Roblox to see if the problem persists.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Configure the audio channel of your speaker
 
  Some gamers have reported that modifying the audio channel of their speakers has solved the problem. To configure the settings:
@@ -143,8 +156,22 @@ If the problem persists, move on to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-54-50.jpg)
 4. Under the**Playback** tab, select**Speakers** then click**Configure** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-56-53.jpg)
 5. Switch the audio channel to**Stereo** . Click**Test** to see if the audio works normally, then click**Next** and follow the on-screen instructions to finish the configuration.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-05-52.jpg)
 
@@ -158,13 +185,6 @@ If the problem persists, move on to the next solution.
 2. Type**control panel** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 3. Switch to**View by: Small icons** , then click**Troubleshooting** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-26-18.jpg)
 4. Click**Troubleshoot audio playback** .  
@@ -185,13 +205,6 @@ If the problem persists, move on to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-31-51-1.jpg)
 10. The troubleshooter will show you the results and fix the problems if it can. You can close the troubleshooter now.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-32-31.jpg)
 
 If the problem persists, try the last fix.
@@ -205,21 +218,14 @@ If the problem persists, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 3. Switch to**View by: Category** , then click**Uninstall a program** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_10-24-05.jpg)
 4. Find Roblox player, right-click it then click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_10-26-30.jpg)
@@ -254,19 +260,24 @@ If the problem persists, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-clean-cut-windows-10-screen-logger/"><u>[New] 2024 Approved Clean-Cut Windows 10 Screen Logger</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-lightroom-crafting-breathtaking-hdr-photos/"><u>[New] Mastering Lightroom Crafting Breathtaking HDR Photos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-zipping-to-captions-direct-method-for-srt-file-creation/"><u>[New] Zipping to Captions Direct Method for .Srt File Creation</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-the-sims-4-crashing-on-pc/"><u>[Solved] The Sims 4 Crashing on PC</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-comparing-leading-screen-recorder-software/"><u>2024 Approved Comparing Leading Screen Recorder Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-erp-overcoming-pc-performance-glitches-including-fps-hiccups-and-interruptions/"><u>Battlefield Erp: Overcoming PC Performance Glitches, Including FPS Hiccups & Interruptions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-instructions-on-syncing-your-samsung-infrared-remote-to-any-tv-model/"><u>Complete Instructions on Syncing Your Samsung Infrared Remote to Any TV Model</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-persistent-roblox-error-277-on-your-computer/"><u>How to Fix the Persistent Roblox Error 277 on Your Computer</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-customize-your-youtube-experience-with-altered-pace/"><u>In 2024, Customize Your YouTube Experience with Altered Pace</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-navigating-picture-in-picture-video-integration-for-mac-os-x/"><u>In 2024, Navigating Picture in Picture Video Integration for Mac OS X</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-causes-of-frame-rate-drops-in-forza-horizon-5/"><u>Resolved: Fixing the Causes of Frame Rate Drops in Forza Horizon 5</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-vanguards-failed-start-up-problems-in-valorant-solutions-inside/"><u>Troubleshooting Vanguard's Failed Start-Up Problems in Valorant – Solutions Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-stop-warcraft-3-reforged-from-freezing-and-crashing/"><u>Ultimate Guide: Stop Warcraft 3 Reforged From Freezing & Crashing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-premier-applications-for-video-conferencing-for-2024/"><u>[New] Premier Applications for Video Conferencing for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-device-entry-guide-to-googles-video-conferencing-for-2024/"><u>[Updated] Device Entry Guide to Google's Video Conferencing for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snaps-boomerangs-mastering-and-tips/"><u>2024 Approved Snap's Boomerangs Mastering & Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-uninterrupted-immersion-fixing-game-hiccups-for-a-fluid-high-fps-experience-today/"><u>Achieve Uninterrupted Immersion: Fixing Game Hiccups for a Fluid, High-FPS Experience Today!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-ai-engagement-seven-key-strategies-for-improvement/"><u>Boosting AI Engagement: Seven Key Strategies for Improvement</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-errors-and-how-to-overcome-them-getting-past-the-blockage-in-persona-3-reload/"><u>Common Errors and How to Overcome Them: Getting Past the Blockage in Persona 3 Reload</u></a></li>
+<li><a href="https://fox-access.techidaily.com/cutting-edge-imaging-top-8k-cameras-unveiled/"><u>Cutting-Edge Imaging Top 8K Cameras Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-solutions-overcoming-common-fortnite-load-failures/"><u>Effortless Solutions: Overcoming Common Fortnite Load Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-errors-a-guide-to-fixing-v-rising-pc-compatibility-problems/"><u>Fixing Persistent Errors: A Guide to Fixing V Rising PC Compatibility Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-remake-resolving-resident-evil-4-game-crashes/"><u>Fixing the Remake: Resolving 'Resident Evil 4' Game Crashes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-oppo-f23-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Oppo F23 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-master-your-media-best-6-video-apps-for-macos-big-sur-users/"><u>In 2024, Master Your Media Best 6 Video Apps for macOS Big Sur Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/rev-up-your-forza-horizon-5-experience-with-these-7-power-up-tricks-for-loading-screen-woes/"><u>Rev Up Your Forza Horizon 5 Experience with These 7 Power-Up Tricks for Loading Screen Woes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/step-by-step-guide-to-scripting-engaging-youtube-videos/"><u>Step-by-Step Guide to Scripting Engaging YouTube Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-insider-guide-to-intensified-minecraft-views/"><u>The Insider Guide to Intensified Minecraft Views</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-get-past-madden-22s-loading-screen-glitch/"><u>The Ultimate Guide to Get Past Madden 22’S Loading Screen Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-overcome-fps-drops-and-stutters-in-call-of-duty-modern-warfare-2-on-pc/"><u>Troubleshooting Guide: How to Overcome FPS Drops & Stutters in Call of Duty Modern Warfare 2 on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-warzones-missing-texture-problem/"><u>Troubleshooting Warzone's Missing Texture Problem</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-avc-player-on-devices/"><u>Ultimate AVC Player on Devices</u></a></li>
 </ul></div>
 

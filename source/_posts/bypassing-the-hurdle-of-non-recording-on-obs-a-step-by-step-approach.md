@@ -1,7 +1,7 @@
 ---
 title: Bypassing the Hurdle of Non-Recording on OBS – A Step-by-Step Approach
-date: 2024-09-10T14:15:33.480Z
-updated: 2024-09-11T14:15:33.480Z
+date: 2024-10-08T05:02:11.976Z
+updated: 2024-10-14T18:48:37.635Z
 tags:
   - win11
   - win10
@@ -28,33 +28,10 @@ It’s frustrating when you experience performance or stability problems during 
 5. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 1: Update your graphics driver
 
@@ -84,6 +61,13 @@ It’s frustrating when you experience performance or stability problems during 
 
 If your issue continues to occur, then move on to the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: End unnecessary programs
 
  If you’re running multiple programs at the same time while gaming, that could cause your PC to overload and make your game freeze.
@@ -94,19 +78,12 @@ If your issue continues to occur, then move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-03-45-1024x251.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **2)** Right-click the programs you want to close and select**End Task** . Specifically, if you have the Riva Statistics software or MSI Afterburner, try turning them off when you’re gaming to see if the issue persists.
 
@@ -114,9 +91,29 @@ If your issue continues to occur, then move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Restart_GTA5_ to see if this fixed your issue.
 
 If it didn’t, read on and try Fix 3.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify your game files
 
@@ -128,6 +125,13 @@ If it didn’t, read on and try Fix 3.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
  This could take several minutes. Wait for the process to be complete.
@@ -137,26 +141,6 @@ If it didn’t, read on and try Fix 3.
 **4)** Relaunch_GTA5_ to test your issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 4: Adjust your virtual memory
 
@@ -170,20 +154,6 @@ If it didn’t, read on and try Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-41.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **2)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-35.jpg)
@@ -192,61 +162,13 @@ If it didn’t, read on and try Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-31.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **4)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-27.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **5)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-22.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **6)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
@@ -258,43 +180,22 @@ If it didn’t, read on and try Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-13.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **8)** Restart your computer and your game.
 
  If your issue still exists, don’t fret. Read on and try the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1912746">
+<span id="1328679">
 					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 5: Reinstall your game
 
@@ -310,20 +211,6 @@ If it didn’t, read on and try Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_14-21-51.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **4)** Restart **your computer** .
 
 **5)** Reinstall the game on your PC, then restart the game.
@@ -338,23 +225,16 @@ If the issue continues to occur, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-14-26.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-14-31.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **3)**  Restart your computer and your game.
 
@@ -373,8 +253,6 @@ If the issue continues to occur, go to the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -382,12 +260,24 @@ If the issue continues to occur, go to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-monetary-milestones-pewdiepies-income-summary/"><u>[New] In 2024, Monetary Milestones PewDiePie’s Income Summary</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exploring-how-youtube-picks-most-engaging-comments/"><u>[Updated] 2024 Approved Exploring How YouTube Picks Most Engaging Comments</u></a></li>
+<li><a href="https://win-able.techidaily.com/activate-and-configure-microsoft-hyper-v-on-your-new-windows-pressappointment/"><u>Activate & Configure Microsoft Hyper-V on Your New Windows Press_appointment</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-v29e-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo V29e? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breaking-boundaries-custom-font-use-in-after-effects/"><u>Breaking Boundaries Custom Font Use in After Effects</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comment-reparer-avec-succes-un-menu-demarrant-defectueux-dans-windows-11-guide-complet-en-9-etapes/"><u>Comment Réparer Avec Succès Un Menu Démarrant Défectueux Dans Windows 11 : Guide Complet en 9 Étapes</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-fixing-phasmophobias-vr-connectivity-issues/"><u>Comprehensive Guide to Fixing Phasmophobia's VR Connectivity Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/dark-souls-iii-performance-enhancements-fixes-for-common-game-crashes-and-bugs/"><u>Dark Souls III Performance Enhancements – Fixes for Common Game Crashes and Bugs</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-non-responsive-battlenlauncher-errors-on-windows-systems/"><u>Expert Tips for Resolving Non-Responsive Battle.nLauncher Errors on Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-infamous-the-witcher-3-game-crashes-a-detailed-walkthrough-for-gamers/"><u>Fixing the Infamous 'The Witcher 3' Game Crashes - A Detailed Walkthrough for Gamers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/formulating-engaging-visual-strategies-in-fb-marketing-for-2024/"><u>Formulating Engaging Visual Strategies in FB Marketing for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-optimize-your-maplestory-game-on-windows-11-this-year/"><u>Mastering Stability: Optimize Your MapleStory Game on Windows 11 This Year</u></a></li>
+<li><a href="https://discover-community.techidaily.com/rechtzeitig-beheben-von-problemen-mit-dem-papierkorbruckentransporter-in-windows-11/"><u>Rechtzeitig Beheben Von Problemen Mit Dem Papierkorbrückentransporter in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-batman-arkh-issues-fixes-for-crashing-errors-and-system-failures/"><u>Resolving Batman ARKH Issues: Fixes for Crashing Errors and System Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pixel-panic-solutions-to-black-screen-anomaly-for-windows-players-of-call-of-duty-wwii/"><u>Troubleshooting Pixel Panic: Solutions to Black Screen Anomaly for Windows Players of Call of Duty: WWII</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-list-10-best-music-video-production-companies/"><u>Updated 2024 Approved The Ultimate List 10 Best Music Video Production Companies</u></a></li>
+</ul></div>
 

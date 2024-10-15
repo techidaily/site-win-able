@@ -1,7 +1,7 @@
 ---
 title: "Solution Found: Troubleshooting Diablo 2 Resurrected Crashes"
-date: 2024-09-10T14:15:29.417Z
-updated: 2024-09-11T14:15:29.417Z
+date: 2024-10-09T23:34:00.143Z
+updated: 2024-10-14T23:16:22.234Z
 tags:
   - win11
   - win10
@@ -29,27 +29,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 | GPU              | NVIDIA GeForce GTX 660 or similar |
 | Storage          | 20 GB                             |
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -59,6 +42,13 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 2. [Disable overclocking](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
 
@@ -71,6 +61,13 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 
 If it’s not working, move to next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -82,20 +79,6 @@ If it’s not working, move to next fix.
 3. Restart the game and check.
 
 No luck with this one? Move to the next.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Update your drivers
 
@@ -126,64 +109,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -196,18 +133,12 @@ OR
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -226,8 +157,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,12 +164,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-capturing-your-xbox-playtime-for-sharing/"><u>[Updated] 2024 Approved Capturing Your Xbox Playtime for Sharing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-a-complete-walkthrough-on-editing-your-videos-covers-on-fb/"><u>[Updated] In 2024, A Complete Walkthrough on Editing Your Videos' Covers on FB</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-share-tiktok-videos-to-facebook-in-quick-easy-steps/"><u>[Updated] In 2024, Share TikTok Videos to Facebook in Quick Easy Steps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-b-roll-wisdom-enhancing-your-cinematic-quality/"><u>2024 Approved B-Roll Wisdom Enhancing Your Cinematic Quality</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-12-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 12 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compare-organisms/"><u>Compare Organisms</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-guide-stabilizing-horizon-forbidden-west-full-gameplay-on-windows/"><u>Complete Guide: Stabilizing 'Horizon Forbidden West' Full Gameplay on Windows</u></a></li>
+<li><a href="https://win-webster.techidaily.com/effiziente-methoden-mehrfach-computer-synchronisation-mit-google-drive/"><u>Effiziente Methoden: Mehrfach-Computer-Synchronisation Mit Google Drive</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/excellence-exchange-global-creators/"><u>Excellence Exchange Global Creators</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-recurring-issues-how-to-stop-world-of-tanks-blitz-from-continuously-crashing/"><u>Fixing Recurring Issues: How to Stop World of Tanks Blitz From Continuously Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-not-launching-issue-in-last-epoch-game-tips-and-solutions-pc-2024-update/"><u>Fixing the 'Not Launching' Issue in Last Epoch Game: Tips & Solutions (PC) | 2024 Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/gear-up-your-experience-essential-tips-to-avoid-grand-theft-auto-5-crashes/"><u>Gear Up Your Experience: Essential Tips to Avoid Grand Theft Auto 5 Crashes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-on-device-ai-work-unraveling-the-mechanics-behind-the-tech/"><u>How Does On-Device AI Work? Unraveling The Mechanics Behind the Tech</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improvements-in-the-elder-scrolls-online-resolving-issues-with-blackwood-latency/"><u>Improvements in The Elder Scrolls Online - Resolving Issues with Blackwood Latency</u></a></li>
+<li><a href="https://win-able.techidaily.com/nba-2k21-black-screen-glitch-fixes-and-workarounds-ready-for-the-2024-launch/"><u>NBA 2K21 Black Screen Glitch - Fixes and Workarounds Ready for the 2024 Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-risk-of-rain-2-stability-issues-with-these-expert-fixes/"><u>Resolve Risk of Rain 2 Stability Issues with These Expert Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-problems-how-to-get-resident-evil-village-game-running-smoothly/"><u>Solved Problems: How To Get Resident Evil Village Game Running Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/thunder-tier-one-stability-solving-recurring-pc-game-crashes-efficiently/"><u>Thunder Tier One Stability: Solving Recurring PC Game Crashes Efficiently</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tips-for-lowering-cyberpunk-2077s-steep-cpu-demands-and-enhancing-performance/"><u>Top Tips for Lowering Cyberpunk 2077'S Steep CPU Demands and Enhancing Performance</u></a></li>
+</ul></div>
 

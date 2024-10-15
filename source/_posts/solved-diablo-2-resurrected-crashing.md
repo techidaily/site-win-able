@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Diablo 2 Resurrected Crashing"
-date: 2024-10-01T22:34:30.611Z
-updated: 2024-10-08T19:41:06.137Z
+date: 2024-10-13T23:40:54.173Z
+updated: 2024-10-15T06:29:21.895Z
 tags:
   - win11
   - win10
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 
 If this method doesn’t help, check out your graphics driver.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3 – Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, Diablo 2 Resurrected crashing is more likely to occur. To fix it, you should update your graphics driver to the latest.
@@ -74,6 +67,13 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
@@ -81,6 +81,13 @@ If this method doesn’t help, check out your graphics driver.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Run the game as an administrator
 
@@ -94,14 +101,14 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
 
@@ -114,23 +121,16 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Turn off overlays
 
@@ -142,14 +142,14 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 **On GeForce Experience**
 
@@ -158,16 +158,10 @@ If this method doesn’t help, check out your graphics driver.
 2. Toggle off**In-game overlay** .  
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
@@ -196,24 +190,20 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-in-depth-analysis-razers-hd-webcam/"><u>[New] 2024 Approved In-Depth Analysis Razer's HD Webcam</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-discover-top-cost-effective-dvd-player-apps/"><u>[New] Discover Top Cost-Effective DVD Player Apps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-superior-methods-for-silent-video-production/"><u>[New] Superior Methods for Silent Video Production</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-tiktoks-toptwitter-tweets-amassing-views/"><u>[Updated] TikTok's #TopTwitter Tweets Amassing Views</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-lag-masterclass-on-optimizing-your-gameplay-in-cod-warzones-latest-version/"><u>Beat the Lag: Masterclass on Optimizing Your Gameplay in CoD Warzone's Latest Version</u></a></li>
-<li><a href="https://win-forum.techidaily.com/convertir-acuerdos-de-suscripcion-a-audio-en-formato-mp3-sin-coste-alguno-con-herramientas-online/"><u>Convertir Acuerdos De Suscripción a Audio en Formato MP3 Sin Coste Alguno Con Herramientas Online</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-steam-startup-issues-a-step-by-step-guide-with-7-key-fixes/"><u>Eliminate Steam Startup Issues: A Step-by-Step Guide with 7 Key Fixes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhancing-payment-procedures-with-abbyy-and-m-files-for-faster-revenue-cycle-turnover/"><u>Enhancing Payment Procedures with ABBYY & M-Files for Faster Revenue Cycle Turnover</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-sea-of-thieves-up-and-running-tips-for-overcoming-start-up-problems/"><u>Getting Sea of Thieves Up and Running: Tips for Overcoming Start-Up Problems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-crashed-system-setbacks-modern-fixes-and-strategies-pc-focus/"><u>Overcoming 'Crashed' System Setbacks: Modern Fixes & Strategies (PC Focus)</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-oxygen-game-stability-errors-effectively/"><u>Overcoming Oxygen (Game) Stability Errors Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-windows-with-these-5-firewall-adjustments/"><u>Secure Windows with These 5 Firewall Adjustments</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-fixes-for-the-common-steam-fatal-error-in-steamuidll/"><u>Step-by-Step Fixes for the Common Steam Fatal Error in steamui.dll</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-pc-freezes-in-your-game-solutions-for-age-of-wonders-planetfall-issues/"><u>Stop PC Freezes in Your Game – Solutions for Age of Wonders: Planetfall Issues</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-sprinkle-of-life-in-your-text-animations/"><u>The Sprinkle of Life in Your Text Animations</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-watching-how-to-tell-if-netflix-is-down-for-everyone/"><u>Trouble Watching? How To Tell if Netflix Is Down for Everyone</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-solving-phasmophobia-game-crashing-issues/"><u>Ultimate Guide: Solving Phasmophobia Game Crashing Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-true-environmental-impact-of-electric-cars/"><u>Unveiling the True Environmental Impact of Electric Cars</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-ultimate-user-friendly-untangle-for-youtube-earnings-assessment/"><u>[Updated] In 2024, The Ultimate User-Friendly Untangle for YouTube Earnings Assessment</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-bsod-blues-in-helldivers-2-expert-tips-and-tricks-to-get-you-back-on-track/"><u>Beat the BSOD Blues in HellDivers 2 - Expert Tips & Tricks to Get You Back on Track!</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-minecrafts-black-screen-fiasco-expert-strategies-for-a-crystal-clear-game/"><u>Defeat Minecraft's Black Screen Fiasco: Expert Strategies for a Crystal Clear Game</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-most-effective-photo-and-document-converters-of-2eighty-four/"><u>Discover the Most Effective Photo & Document Converters of 2Eighty-Four</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-educational-event-emitter/"><u>Elite Educational Event Emitter</u></a></li>
+<li><a href="https://win-able.techidaily.com/far-cry-6-pc-instability-fixed-no-more-game-crashes/"><u>Far Cry 6 PC Instability Fixed: No More Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011833776-fixing-apex-legends-wont-load-fast-and-simple-solutions/"><u>Fixing 'Apex Legends Won't Load': Fast and Simple Solutions!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/launch-success-guaranteed-overcoming-the-stuck-startup-problem-of-forza-horizon-4-ultimate-fixes-and-advice/"><u>Launch Success Guaranteed! Overcoming the Stuck Startup Problem of Forza Horizon 4 - Ultimate Fixes and Advice</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/prime-authors-draft-platform-for-2024/"><u>Prime Author's Draft Platform for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-mute-issues-in-black-ops-cold-war-gameplay-on-your-desktop-computer/"><u>Quick Fixes for Mute Issues in Black Ops Cold War Gameplay on Your Desktop Computer</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/sneak-peeks-into-instagrams-latest-hacks-for-2024/"><u>Sneak Peeks Into Instagram's Latest Hacks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/unfreeze-and-upgrade-resolve-cyberpunk-2077s-chilling-lags-effectively/"><u>Unfreeze and Upgrade - Resolve Cyberpunk 2077'S Chilling Lags Effectively</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unlocking-your-most-watched-fb-movies/"><u>Unlocking Your Most-Watched Fb Movies</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-creative-with-free-sound-effects-a-beginners-guide-to-final-cut-pro/"><u>Updated Get Creative with Free Sound Effects A Beginners Guide to Final Cut Pro</u></a></li>
 </ul></div>
 

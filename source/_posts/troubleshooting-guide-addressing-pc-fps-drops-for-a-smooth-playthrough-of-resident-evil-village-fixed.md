@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Addressing PC FPS Drops for a Smooth Playthrough of Resident Evil Village [FIXED]"
-date: 2024-10-03T16:13:13.377Z
-updated: 2024-10-08T20:05:33.457Z
+date: 2024-10-12T22:55:40.087Z
+updated: 2024-10-15T04:51:50.202Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/7a6d4afad02b673dd8fdf74213202fda14f2e9bab
 4. [**Repair the game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Check the minimum requirements to play Madden NFL 22
 
  Video games nowadays are becoming more graphically demanding. So if Madden 22 just won’t work on your computer, you should make sure the machine is up for handling the game.
@@ -48,6 +55,13 @@ Here are the minimum requirements for Madden NFL 22:
 | **Storage**   | 50GB                                     |
 
  If your computer specs are more than enough to run the game, the cause may be related to device drivers, antivirus or something else. Read on to more solutions below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your device drivers
 
@@ -64,27 +78,7 @@ There are mainly two ways to update your drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click the**Update** button to update certain driver you want.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -101,14 +95,14 @@ There are mainly two ways to update your drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 See if the issue persists. If yes, continue to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Repair the game files
 
@@ -120,9 +114,23 @@ See if the issue persists. If yes, continue to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Madden 22 from the list and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It may take a few minutes for the process to complete. Upon completion, check whether you can play the game normally. If not, proceed to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -134,21 +142,7 @@ See if the issue persists. If yes, continue to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the process finishes, restart Madden 22 to test the issue. If it’s still not working, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Temporarily disable your antivirus
 
@@ -188,24 +182,22 @@ See if the issue persists. If yes, continue to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-characters-animation-basics-in-wmm/"><u>[New] Crafting Characters Animation Basics in WMM</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-top-choice-vr-game-engines-update-march-2023-for-2024/"><u>[New] Top Choice VR Game Engines Update - March 2023 for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-elevate-your-profile-instagram-voice-alteration-guide/"><u>[Updated] In 2024, Elevate Your Profile Instagram Voice Alteration Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-million-view-achievement-and-its-monetary-benefit/"><u>[Updated] In 2024, Million View Achievement and Its Monetary Benefit</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-harmonious-hushes-softening-sounds-with-garageband/"><u>2024 Approved Harmonious Hushes Softening Sounds with Garageband</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-the-blues-with-these-8-strategies-for-correcting-windows-10-update-error-code-0x800f0922/"><u>Beat the Blues with These 8 Strategies for Correcting Windows 10 Update Error Code 0X800F0922</u></a></li>
-<li><a href="https://win-able.techidaily.com/cs2-crashes-resolved-master-the-latest-fixes-to-ensure-uninterrupted-gaming-on-your-pc-2024-edition/"><u>CS2 Crashes Resolved: Master the Latest Fixes to Ensure Uninterrupted Gaming on Your PC - 2024 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010513859-definitive-fix-for-preventing-mass-effect-le-from-freezing-or-crashing-a-gamers-guide/"><u>Definitive Fix for Preventing Mass Effect LE From Freezing or Crashing: A Gamer's Guide.</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-the-most-out-of-your-division-2-gameplay-overcoming-low-fps-challenges-in-the-2024-version/"><u>Get The Most Out of Your Division 2 Gameplay: Overcoming Low FPS Challenges in the 2024 Version</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-x-flip-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-realme-c55-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Realme C55 PC | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/instant-solutions-to-beat-valorants-graphics-driver-error-problem/"><u>Instant Solutions to Beat Valorant’s ‘Graphics Driver Error’ Problem</u></a></li>
-<li><a href="https://win-dash.techidaily.com/intel-raid-device-software-update-get-the-best-support-for-your-windows-pcs/"><u>Intel RAID Device Software Update: Get the Best Support for Your Windows PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-connection-woes-when-steam-friend-list-is-inaccessible/"><u>Resolving Connection Woes: When Steam Friend List Is Inaccessible</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-nokia-c22-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Nokia C22 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-dragon-age-origins-crashes-on-windows-11-with-these-tips-and-fixes/"><u>Troubleshoot Dragon Age: Origins Crashes on Windows 11 with These Tips and Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-the-oculus-link-black-screen-with-these-fast-and-easy-methods/"><u>Troubleshoot the Oculus Link Black Screen with These Fast and Easy Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-resolve-undetected-steam-vr-devices-on-windowsmac/"><u>Troubleshooting Tips: How to Resolve Undetected Steam VR Devices on Windows/Mac</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-restoring-msi-mystic-light-capabilities-in-windows-environment/"><u>Troubleshooting Tips: Restoring MSI Mystic Light Capabilities in Windows Environment</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-snapsplit-scrutiny/"><u>[New] In 2024, SnapSplit Scrutiny</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-totv-multimedia-player-wmp-alternative-for-2024/"><u>[New] TOTV Multimedia Player WMP Alternative for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-through-virtual-lenses-a-historical-view/"><u>2024 Approved Through Virtual Lenses A Historical View</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-the-headache-of-error-0x887a0006-your-definitive-guide-to-a-smooth-update-process/"><u>Bypass the Headache of Error 0X887A0006 - Your Definitive Guide to a Smooth Update Process</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-desktop-release-delayed-discover-an-exceptional-open-source-chatbot-as-your-alternative/"><u>ChatGPT Desktop Release Delayed? Discover an Exceptional Open-Source Chatbot as Your Alternative.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-interaction-premium-us-exclusive-chatgpt-now-at-20mth/"><u>Elevate Your Interaction: Premium U.S.-exclusive ChatGPT Now at $20/Mth</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-specs-a-deep-dive-into-echo-pop-vs-echo-dot-comparisons/"><u>Evaluating Specs: A Deep Dive Into Echo Pop Vs. Echo Dot Comparisons</u></a></li>
+<li><a href="https://win-able.techidaily.com/experience-the-thrill-of-days-gone-official-pc-release-announced/"><u>Experience the Thrill of 'Days Gone': Official PC Release Announced!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-repeated-breakdowns-of-tormented-souls-on-your-computer/"><u>Fixing the Repeated Breakdowns of Tormented Souls on Your Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-productivity-combine-chatgpt-and-vs-code-for-ultimate-development-hacks/"><u>Maximizing Productivity: Combine ChatGPT & VS Code for Ultimate Development Hacks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/official-hp-deskjet-3520-printer-drivers-free-download-for-optimal-print-quality/"><u>Official HP Deskjet 3520 Printer Drivers - Free Download for Optimal Print Quality</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-issues-fixed-hearthstone-game-crashes-on-windows/"><u>Resolving Issues: Fixed Hearthstone Game Crashes on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/"><u>Reviving Game Playthroughs: Solve Xbox Headset Problems with These Proven Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-and-tricks-to-prevent-crusader-kings-iii-from-crashing-on-pc/"><u>Tips and Tricks to Prevent Crusader Kings III From Crashing on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-a-non-functioning-clownfish-audio-modulator/"><u>Troubleshooting Steps for a Non-Functioning Clownfish Audio Modulator</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-your-logitech-games-app-refuses-to-start/"><u>Troubleshooting Steps When Your Logitech Games App Refuses to Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/wwe-2k20-crashing-problems-heres-how-to-resolve-them-quickly-on-your-computer/"><u>WWE 2K20 Crashing Problems? Here's How to Resolve Them Quickly on Your Computer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixes for Gaming: Eliminating FPS Drops and Smoothing Out Stutter in Your Play"
-date: 2024-10-05T19:04:56.391Z
-updated: 2024-10-08T19:38:59.930Z
+date: 2024-10-07T17:59:23.157Z
+updated: 2024-10-14T23:58:42.342Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 5. **[Swap Wifi to Ethernet connection](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Stop other bandwidth-intensive activities
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-620.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) **Right-click** on the application that’s eating up your bandwidth and select **End Process** .
@@ -74,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
  4) When Windows asks you to confirm, click **End process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-622.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** Make sure you know what sort of applications you’re closing. **DO NOT** stop any programs that you’re not familiar with in case you mistakenly end the crucial ones (often related to your system) such as sychost.exe.
 
@@ -119,6 +126,13 @@ ipconfig /flushdns
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Restart modem & router
 
  You should restart your modem and router especially if they haven’t been switched off for a long time. Just give them some time to cool off and clear up the cache. Here’s how to do it:
@@ -127,16 +141,16 @@ ipconfig /flushdns
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-597.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-596.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 wireless router
 
@@ -170,10 +184,24 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-629.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you have any problems using **Driver Easy Pro**  to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -191,13 +219,6 @@ wireless router
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## OBS lags when recording
 
  Overloaded GPU is the main cause reason for the lag issue. Luckily, below you will find some solutions that do work for many OBS users:
@@ -206,13 +227,6 @@ wireless router
 2. **[Update graphics card drivers](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Shut down unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Adjust OBS settings
 
@@ -227,22 +241,16 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/image-15.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note that settings optimized for different streaming services (Twitch, Youtube, etc.) may vary, and you can probably find the recommended settings on their official websites (e.g., **[OBS settings for Twitch](https://stream.twitch.tv/)**  ).
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Update graphics card drivers
 
@@ -251,19 +259,6 @@ wireless router
  If you’re interested in the benefits of Driver Easy, please take a look at **[Fix 4](https://tools.techidaily.com/drivereasy/download/)**  . The steps to perform driver updates using Driver Easy are exactly the same.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Shut down unnecessary programs
 
@@ -276,13 +271,6 @@ wireless router
  2) In the pop-up window, toggle off **Game Mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-451.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to the **Game bar** tab and turn off the toggle button below **Record game clips, screenshots, and broadcast using Game bar** .
 
@@ -319,24 +307,24 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-content-layout-on-social-networks-facebooks-perspective/"><u>[New] 2024 Approved Content Layout on Social Networks Facebook’s Perspective</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-5-best-webcams-for-gaming/"><u>[New] In 2024, 5 Best Webcams for Gaming</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-android-and-ios-users-choice-top-playlist-saving-apps-for-youtube-for-2024/"><u>[Updated] Android & iOS Users' Choice Top Playlist Saving Apps for YouTube for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pushing-boundaries-with-high-speed-cinematography/"><u>[Updated] Pushing Boundaries with High-Speed Cinematography</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-realme-c55-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amp-your-gameplay-with-newly-released-amd-vega-drivers-easy-setup-inside/"><u>Amp Your Gameplay with Newly Released AMD Vega Drivers – Easy Setup Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/avoid-gaming-downfalls-how-to-prevent-among-us-crashes/"><u>Avoid Gaming Downfalls: How to Prevent 'Among Us' Crashes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-solutions-to-lg-screen-drivers-error-in-windows-versions-11-7-81/"><u>Easy Solutions to LG Screen Drivers Error in Windows Versions (11, 7, 8.1)</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-co-op-problems-heres-how-to-solve-them/"><u>Elden Ring Co-Op Problems? Here's How to Solve Them</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-to-resolve-the-recurring-crash-of-manor-lords-on-personal-computers/"><u>Fixes to Resolve the Recurring Crash of Manor Lords on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723006854978-garrys-mod-stability-issues-master-the-fix-for-non-stop-crashes/"><u>Garry's Mod Stability Issues? Master The Fix For Non-Stop Crashes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-shutterbug-secrets-perfecting-reflections-in-water/"><u>In 2024, IPhone Shutterbug Secrets Perfecting Reflections in Water</u></a></li>
-<li><a href="https://win-able.techidaily.com/mount-and-blade-ii-bannerlord-game-crashing-issues-solved/"><u>Mount & Blade II: Bannerlord Game Crashing Issues Solved</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/openai-advances-with-chatgpt-the-new-era-of-voice-enabled-ai-responses/"><u>OpenAI Advances with ChatGPT: The New Era of Voice-Enabled AI Responses</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-tips-to-eliminate-fortnite-lag-and-gameplay-interruptions/"><u>Quick Tips to Eliminate Fortnite Lag and Gameplay Interruptions</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-pc-issues-in-a-total-war-saga-troy-solutions-and-fixes/"><u>Resolved! Pc Issues in 'A Total War Saga - Troy': Solutions & Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723003742979-resolving-the-endless-cycle-stop-fuser-from-hitting-pc-blackouts-now/"><u>Resolving the Endless Cycle: Stop Fuser From Hitting PC Blackouts Now</u></a></li>
-<li><a href="https://win-news.techidaily.com/simple-methods-for-converting-mxf-files-into-mov/"><u>Simple Methods for Converting MXF Files Into Mov</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-troubleshooting-lol-launch-issues/"><u>Ultimate Guide: Troubleshooting LoL Launch Issues</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capture-and-share-the-essential-guide-to-maccasting-for-2024/"><u>[New] Capture and Share The Essential Guide to Maccasting for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevate-your-iphone-x-experience-with-pro-animoji-use/"><u>[New] In 2024, Elevate Your iPhone X Experience with Pro Animoji Use</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-a-thorough-evaluation-of-the-high-resolution-dell-p2715q-monitor/"><u>[Updated] 2024 Approved A Thorough Evaluation of the High-Resolution Dell P2715Q Monitor</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-infographic-exploration-premier-fifa-videos/"><u>[Updated] Infographic Exploration Premier FIFA Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-bite-size-flavors-top-eating-moments-on-tiktok/"><u>2024 Approved Bite-Size Flavors Top Eating Moments on TikTok</u></a></li>
+<li><a href="https://win-able.techidaily.com/age-of-empires-4-startup-troubles-heres-how-you-can-resolve-them/"><u>Age of Empires 4 Startup Troubles? Here's How You Can Resolve Them</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-stop-valheim-from-freezingstuttering-in-your-pc-game/"><u>Fixes & Solutions: How to Stop Valheim From Freezing/Stuttering in Your PC Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-origin-not-launching-on-windows-11-a-step-by-step-guide/"><u>Fixes for 'Origin Not Launching on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fully-optimized-enjoy-the-chaos-of-tiny-tinas-wonderlands-a-complete-fix-for-pc-users/"><u>Fully Optimized: Enjoy the Chaos of Tiny Tina's Wonderlands - A Complete Fix for PC Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/iphone-not-seen-by-itunes-heres-how-to-fix-it-for-windows-nkers/"><u>IPhone Not Seen by iTunes? Here's How to Fix It for Windows Nkers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-sound-blaster-z-driver-download-options-optimized-for-windows-11/"><u>Latest Sound Blaster Z Driver Download Options Optimized for Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/leveraging-technology-for-optimal-fb-stream-recording-for-2024/"><u>Leveraging Technology for Optimal FB Stream Recording for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-connection-woes-ensuring-your-astro-a50-works-with-astros-control-room/"><u>Mastering Connection Woes: Ensuring Your Astro A50 Works with Astro's Control Room</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-top-10-best-free-manga-sites-to-read-online-for-2024/"><u>New Top 10 Best Free Manga Sites to Read Online for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-pc-for-a-smooth-experience-how-to-fix-football-manager-2022s-stability-issues-on-windows/"><u>Optimizing Your PC for a Smooth Experience: How to Fix Football Manager 2022'S Stability Issues on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-to-stop-nioh-2-from-crashing-full-version-help-guide/"><u>Step-by-Step Fixes to Stop Nioh 2 From Crashing: Full Version Help Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-cant-start-the-game-check-your-game-files/"><u>Troubleshooting: Can't Start the Game? Check Your Game Files!</u></a></li>
 </ul></div>
 

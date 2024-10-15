@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips - Solving Your FOOTBALL MANAGER 2020 Crash Problems
-date: 2024-09-10T14:12:44.502Z
-updated: 2024-09-11T14:12:44.502Z
+date: 2024-10-13T17:51:04.859Z
+updated: 2024-10-14T21:28:51.179Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes…
 
@@ -66,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -73,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
  The good new is, the Origin client and the Steam client will automatically download available updates and install them for you, so you don’t actually have to worry. However, if you’ve turned off the automatic updating option at some point before, make sure you turn it on or manually install the updates for your Apex Legends.
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Configure your DNS settings
 
@@ -82,56 +79,18 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
@@ -157,39 +116,18 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 5: Switch to another server
 
@@ -201,21 +139,15 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -231,8 +163,6 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,12 +170,23 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-dissecting-screencapturex-pros-latest-recording-capabilities/"><u>[New] 2024 Approved Dissecting ScreenCaptureX Pro's Latest Recording Capabilities</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-leverage-free-luts-to-upgrade-your-obs-video-production-quality/"><u>[New] 2024 Approved Leverage Free LUTs to Upgrade Your OBS Video Production Quality</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-pixelprofilers-picks-top-tools-for-your-screen-snapping-needs/"><u>[New] In 2024, PixelProfiler's Picks Top Tools for Your Screen Snapping Needs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-elevate-your-reel-game-on-insta-with-tiktoks-best-practices/"><u>[Updated] 2024 Approved Elevate Your Reel Game on Insta with TikTok's Best Practices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-efficient-video-download-from-facebooks-domain/"><u>[Updated] Efficient Video Download From Facebook's Domain</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-ethical-approaches-to-extract-mp4-from-youtube/"><u>[Updated] Ethical Approaches to Extract MP4 From YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-120mm-all-in-one-cpu-coolers-detailed-test-results-for-models-by-be-quiet-corsair-cooler-master-and-enermax/"><u>Best 120Mm All-in-One CPU Coolers: Detailed Test Results for Models by Be Quiet!, Corsair, Cooler Master & Enermax</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-prevent-and-solve-gaming-applications-from-crashing/"><u>Comprehensive Guide to Prevent and Solve Gaming Applications From Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-system-compatibility-for-vanguard-by-upgrading-insufficient-cpu-specs/"><u>Enhance System Compatibility for Vanguard by Upgrading Insufficient CPU Specs</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-to-prevent-dead-by-daylight-crashes-top-tricks-for-a-stable-gameplay-experience/"><u>Expert Advice to Prevent Dead By Daylight Crashes: Top Tricks for a Stable Gameplay Experience</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-automating-youtube-playback-in-social-networks-a-focus-on-facebook/"><u>In 2024, Automating Youtube Playback in Social Networks A Focus on Facebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-stuttering-and-freezing-in-baldurs-gate-with-these-6-proven-remedies/"><u>Overcome Stuttering & Freezing in Baldur's Gate with These 6 Proven Remedies</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-village-wont-start-discover-the-fixes-that-work/"><u>Resident Evil Village Won't Start? Discover the Fixes That Work!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-successfully-start-age-of-empires-ii-on-windows-11/"><u>Resolved: How to Successfully Start Age of Empires II on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-lag-fix-baldurs-gate-stuttering-and-freezing-using-our-expert-guide/"><u>Say Goodbye to Lag! Fix Baldur's Gate Stuttering & Freezing Using Our Expert Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/unanswered-questions-surrounding-diablo-immortals-pc-launch-date-amidst-delay-rumors/"><u>Unanswered Questions Surrounding Diablo Immortal's PC Launch Date Amidst Delay Rumors</u></a></li>
+</ul></div>
 

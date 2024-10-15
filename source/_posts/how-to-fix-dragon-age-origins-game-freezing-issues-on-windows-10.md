@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Dragon Age: Origins Game Freezing Issues on Windows 10"
-date: 2024-09-10T14:11:32.248Z
-updated: 2024-09-11T14:11:32.248Z
+date: 2024-10-13T16:11:01.872Z
+updated: 2024-10-14T19:33:03.669Z
 tags:
   - win11
   - win10
@@ -18,13 +18,10 @@ thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c
 Fallout 3 is an old but classic game. Although Fallout 3 can be installed and played on Windows 10 (read[this article](https://tools.techidaily.com/drivereasy/download/) to learn how), you may meet the freezing problem now and then at any random moment.  
  Here are a few methods that can help you get rid of this freezing issue.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these methods
 
@@ -36,6 +33,13 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 4. **[Update your graphics card drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Fallout 3](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Play in Windowed mode
 
  Sometimes, game freezing issue can be easily solved by changing the game’s display options. Play the game in Windowed mode when you meet freezes. This method can let you play without freezes for hours.
@@ -45,46 +49,20 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option.jpg)
 3. Tick the **Windowed** box under Mode.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
 4. Relaunch the game and check whether it will freeze or not.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 **Note** : If using dual monitors, disable your second one from your**Windows display settings** .  
  Ensure that the resolution of the game matches that of your display monitors.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Edit your configuration file
 
@@ -97,59 +75,20 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
-
-
+---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
----
 
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
 
@@ -160,18 +99,12 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
@@ -180,22 +113,16 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
 7. Click**Apply** \>**OK** .
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 8. Run Fallout 3 to check whether the game is running properly.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Update your graphics card drivers
 
@@ -226,22 +153,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -264,8 +185,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -273,12 +192,16 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-your-one-stop-guide-30-prime-websites-offering-free-vectr-and-graphic-services/"><u>[New] In 2024, Your One-Stop Guide 30 Prime Websites Offering Free Vectr & Graphic Services</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996576083-back-4-blood-pc-game-stability-issues-resolved-no-more-unexpected-crashes/"><u>Back 4 Blood PC Game Stability Issues Resolved: No More Unexpected Crashes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-best-web-based-video-editors-for-chrome-os/"><u>In 2024, The Best Web-Based Video Editors for Chrome OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-game-advanced-techniques-to-prevent-phasmophobia-from-crashing-in-2amo/"><u>Master the Game: Advanced Techniques to Prevent Phasmophobia From Crashing in 2Amo</u></a></li>
+<li><a href="https://win-able.techidaily.com/path-of-exile-instance-connection-woes-beat-them-with-our-2024-guide-to-flawless-gameplay/"><u>Path of Exile Instance Connection Woes? Beat Them with Our 2024 Guide to Flawless Gameplay</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/seamless-local-data-transfer-tactics-a-step-by-step-manual-for-moving-files-without-wifi/"><u>Seamless Local Data Transfer Tactics: A Step-by-Step Manual for Moving Files Without WiFi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-exploring-features-in-apple-books/"><u>The Ultimate Guide: Exploring Features in Apple Books</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/top-10-mac-compatible-slide-show-creators-ultimate-guide-to-stunning-visual-presentations/"><u>Top 10 Mac-Compatible Slide Show Creators: Ultimate Guide to Stunning Visual Presentations</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-the-new-world-connection-issue/"><u>Ultimate Guide: Resolving the New World Connection Issue</u></a></li>
+</ul></div>
 

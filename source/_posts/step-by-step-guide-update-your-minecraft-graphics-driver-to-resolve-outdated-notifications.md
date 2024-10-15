@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Update Your Minecraft Graphics Driver to Resolve 'Outdated' Notifications"
-date: 2024-10-04T17:00:11.549Z
-updated: 2024-10-08T18:17:10.002Z
+date: 2024-10-11T06:28:18.356Z
+updated: 2024-10-15T04:03:26.705Z
 tags:
   - win11
   - win10
@@ -46,21 +46,20 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -68,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
  After updating your graphics driver, restart your PC and check if Minecraft is running fine.
 
 If the update message pops up again, check out the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check the versions of Minecraft and your system
 
@@ -83,20 +89,27 @@ You can use the following steps to check for Minecraft updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-1.jpg)
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
 
 ##### Java edition
 
 1. Open or restart your Minecraft launcher.
 2. If you’re not seeing an update prompt, to the right of the Play button, click the arrow and select Latest release.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Make sure you’re on the latest Windows
 
@@ -105,10 +118,10 @@ You can use the following steps to check for Minecraft updates.
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -132,6 +145,13 @@ If you’re still seeing the message, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 Once done, restart Windows and try again in Minecraft.
@@ -148,13 +168,6 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
 
@@ -163,13 +176,6 @@ Here’s how you can check the preferred GPU of Minecraft:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
 
@@ -196,24 +202,22 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/90s-chuckles-dissecting-the-vhs-of-the-goofies/"><u>'90S Chuckles Dissecting the VHS of The Goofies</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-navigating-the-world-of-screen-capture-nvidia-edition/"><u>[New] Navigating the World of Screen Capture NVIDIA Edition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-secret-sauce-of-successful-pixlr-editing/"><u>[New] The Secret Sauce of Successful Pixlr Editing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-orchestrate-acoustics-within-presentation-ppts/"><u>2024 Approved Orchestrate Acoustics Within Presentation PPTS</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-launch-errors-in-division-2-with-these-proven-techniques/"><u>Beat Launch Errors in Division 2 with These Proven Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/crisp-and-clear-imagery-how-recent-fixes-have-refined-outriders-visual-presentation/"><u>Crisp and Clear Imagery: How Recent Fixes Have Refined Outriders' Visual Presentation</u></a></li>
-<li><a href="https://win-able.techidaily.com/discord-crash-woes-while-broadcasting-heres-how-to-keep-your-live-content-running-without-hiccups/"><u>Discord Crash Woes While Broadcasting? Here's How to Keep Your Live Content Running Without Hiccups</u></a></li>
-<li><a href="https://win-blog.techidaily.com/easy-anticheat-not-detected-a-solution-to-common-eac-startup-issues/"><u>Easy AntiCheat Not Detected - A Solution to Common EAC Startup Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-system-appearance-with-custom-pointer-design/"><u>Enhancing System Appearance with Custom Pointer Design</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-troubleshooting-fps-drops-in-counter-strike-global-offensive/"><u>Expert Tips for Troubleshooting FPS Drops in Counter-Strike Global Offensive</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-when-elder-scrolls-online-wont-start-properly/"><u>Fixes & Solutions When 'Elder Scrolls Online' Won’t Start Properly</u></a></li>
-<li><a href="https://win-able.techidaily.com/forza-horizon-navigate-crash-free-gaming-troubleshooting-tips-for-pc-users/"><u>Forza Horizon Navigate Crash-Free Gaming - Troubleshooting Tips for PC Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-thinkpad-t420s-driver-updates-compatible-with-windows-10/"><u>Free Download: ThinkPad T420s Driver Updates Compatible with Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007455136-how-to-resolve-hitman-3-connection-errors-effectively-and-get-back-to-gaming/"><u>How to Resolve Hitman 3 Connection Errors Effectively and Get Back to Gaming!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-15-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 15?</u></a></li>
-<li><a href="https://win-able.techidaily.com/jane-austens-pride-and-prejudice/"><u>Jane Austen's Pride and Prejudice</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-track-without-interruptions-solving-f1-202-pc-crashes/"><u>Master the Track Without Interruptions: Solving F1 202# PC Crashes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/seamless-blob-disposal-in-photopeas-interface/"><u>Seamless Blob Disposal in Photopea's Interface</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/video-editor-works-on-m1-chip/"><u>Video Editor Works on M1 Chip</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-no-delay-scrutinized-top-8-capture-tools/"><u>[New] 2024 Approved No Delay Scrutinized Top 8 Capture Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-how-many-gb-is-a-24-hour-video/"><u>[New] In 2024, How Many GB Is a 24-Hour Video?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-8-best-website-for-3d-graffiti-fonts/"><u>2024 Approved 8 Best Website for 3D Graffiti Fonts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-camera-kings-battle-ultimate-sj6-vs-xiaomis-yi-kickstart-dream/"><u>2024 Approved Camera Kings Battle Ultimate SJ6 Vs. Xiaomi’s Yi Kickstart Dream</u></a></li>
+<li><a href="https://win-able.techidaily.com/adobe-launch-malfunction-solve-the-error-code-0xc0000022-problem-today/"><u>Adobe Launch Malfunction - Solve the Error Code 0xC0000022 Problem Today</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-photoscape-appraisal-top-pick-for-cost-free-image-manipulation/"><u>Comprehensive PhotoScape Appraisal: Top Pick for Cost-Free Image Manipulation</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-speeding-up-your-steam-gameplay-experience/"><u>Expert Advice on Speeding Up Your Steam Gameplay Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-nox-player-pc-crashes/"><u>How to Fix Persistent Nox Player PC Crashes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-premier-top-eight-for-unparalleled-4k-viewing/"><u>In 2024, Premier Top Eight for Unparalleled 4K Viewing</u></a></li>
+<li><a href="https://win-able.techidaily.com/overwatch-stutters-and-jumps-discover-how-to-ensure-uninterrupted-gameplay/"><u>Overwatch Stutters and Jumps? Discover How to Ensure Uninterrupted Gameplay</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/revolutionize-advertising-try-all-50-available-free-youtube-banners-for-2024/"><u>Revolutionize Advertising – Try All 50 Available FREE YouTube Banners for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/tips-for-emptying-your-youtubes-watch-later-queue/"><u>Tips for Emptying Your YouTube's Watch Later Queue</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-for-resolving-repeated-hiccups-in-your-warframe-gaming-experience/"><u>Tips for Resolving Repeated Hiccups in Your Warframe Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-slow-chromium-performance-with-these-quick-fixes/"><u>Troubleshoot Slow Chromium Performance with These Quick Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-youtube-videos-that-keep-playing-sound-with-no-visuals-chrome-and-firefox/"><u>Troubleshooting YouTube Videos that Keep Playing Sound with No Visuals (Chrome & Firefox)</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-clears-memory-shortage-bug-in-god-of-war-everything-you-need-to-know/"><u>Update Clears Memory Shortage Bug in God of War - Everything You Need to Know</u></a></li>
 </ul></div>
 

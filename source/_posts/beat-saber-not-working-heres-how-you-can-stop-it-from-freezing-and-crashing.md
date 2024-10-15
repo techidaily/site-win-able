@@ -1,7 +1,7 @@
 ---
 title: Beat Saber Not Working? Here's How You Can Stop It From Freezing and Crashing
-date: 2024-09-10T14:12:07.204Z
-updated: 2024-09-11T14:12:07.204Z
+date: 2024-10-11T00:27:04.302Z
+updated: 2024-10-14T16:59:20.861Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/69f3067d39675d6781ab4c7e0458c920b25824eda
 
 Beat Saber is a great VR title, but many players are reporting game crashing issues. If you’re also experiencing Beat Saber crashes, we’ve put together every possible solution that proved helpful to other players.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -37,51 +34,18 @@ Beat Saber is a great VR title, but many players are reporting game crashing iss
 6. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Update your headset firmware](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 1: Install the latest game patch
 
  Game developers keep releasing new game patches to fix known issues, so be sure to install the latest updates.
 
  Steam will default to updating your game automatically. But if you have disabled automatic updates, please enable this feature for Beat Saber and make sure it’s up to date.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 2: Verify integrity of game files
 
@@ -91,25 +55,19 @@ Beat Saber is a great VR title, but many players are reporting game crashing iss
 2. Right-click Beat Saber and select**Properties** .  
 ![Properties-BeatSaber](https://images.drivereasy.com/wp-content/uploads/2020/12/Properties-BeatSaber.jpg)
 3. Select the **Local files** tab and click the **Verify integrity of game files…** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ Verify integrity of game files...](https://images.drivereasy.com/wp-content/uploads/2020/12/localfiles.jpg)
 4. Steam will verify the game files. It may take about 3-5 minutes.
 5. Once complete, launch the game again to test the issue.
 
  If Beat Saber keeps crashing rather randomly, don’t be upset, for we have a few more fixes to try.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 3: Remove all the mods
 
@@ -121,41 +79,15 @@ Beat Saber is a great VR title, but many players are reporting game crashing iss
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/local-files.jpg)
 2. Locate the**Plugins** folder, and delete the .dll files inside.  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Beat-Saber-Plugin.jpg)
 3. Relaunch your game and see if it keeps crashing.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 If Beat Saber still crashes without any mods, you can try the fix, below.
 
@@ -187,43 +119,10 @@ If Beat Saber still crashes without any mods, you can try the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with **Full Support** and a **30-day Money Back Guarantee** . You will be prompted to upgrade when you click **Update All** ).
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. Restart your computer for the changes to take full effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 5: Run as administrator
 
@@ -237,21 +136,21 @@ If Beat Saber still crashes without any mods, you can try the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/administrator.jpg)
 6. Click**Apply** \>**OK** .
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
-
  To run your game as an administrator ensure you have full access to all the game files. This should fix some game crashes, but if unfortunately not, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Perform a clean reinstall
 
@@ -290,8 +189,6 @@ Download Beat Saber again and see if a clean reinstall solves this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -299,12 +196,21 @@ Download Beat Saber again and see if a clean reinstall solves this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-get-premium-video-openers-here/"><u>[New] Get Premium Video Openers Here</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-definitive-guide-to-instagram-to-mp4-transformation-2-ways/"><u>[New] The Definitive Guide to Instagram-to-MP4 Transformation 2 Ways</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-far-cry-6-crashing-on-pc/"><u>[SOLVED] Far Cry 6 Crashing on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-hell-let-loose-keeps-crashing-on-pc/"><u>[SOLVED] Hell Let Loose Keeps Crashing on PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-techniques-for-finding-original-images-in-instagram-posts/"><u>[Updated] Techniques for Finding Original Images in Instagram Posts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-premium-portable-recording-the-15-camcorders/"><u>2024 Approved Premium Portable Recording The #15 Camcorders</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/7-profitable-uses-of-a-3d-printer-how-you-can-save-money/"><u>7 Profitable Uses of a 3D Printer: How You Can Save Money</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998809964-battle-ready-fix-your-titanfall-2-crashing-problems-in-minutes/"><u>Battle Ready: Fix Your Titanfall 2 Crashing Problems in Minutes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-correcting-video-input-problems-with-easy-steps/"><u>Diagnosing & Correcting Video Input Problems with Easy Steps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-itel-p55-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Itel P55 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/photo-perfection-in-pixels-a-compreran-guide-to-polarrs-features/"><u>Photo Perfection in Pixels A Compreran Guide to Polarr’s Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/problem-fixed-upgrading-oculus-graphics-drivers-for-smooth-performance/"><u>Problem Fixed: Upgrading Oculus Graphics Drivers for Smooth Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723006059782-roblox-load-time-woes-heres-what-you-can-do/"><u>Roblox Load Time Woes? Here's What You Can Do</u></a></li>
+<li><a href="https://win-able.techidaily.com/warframe-wont-start-troubleshoot-fixes-and-solutions/"><u>Warframe Won't Start? Troubleshoot Fixes and Solutions</u></a></li>
+</ul></div>
 

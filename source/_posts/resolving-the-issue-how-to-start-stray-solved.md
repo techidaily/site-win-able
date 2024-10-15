@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: How to Start Stray (Solved!)"
-date: 2024-09-10T14:09:48.104Z
-updated: 2024-09-11T14:09:48.104Z
+date: 2024-10-13T04:03:32.760Z
+updated: 2024-10-14T17:27:18.426Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/c7fb1a1a59ed51b20bad7caf096cb0b1673edc9a7
 
 The Stray is a hit in July. As a cat lover, I’m obsessed with the game, however, the game crashing, freezing, and not launching is pushing me away. We just wanna run around like a cat. It’s common to see crashings when a game is newly released, except waiting for a new patch, there’s something we can try to fix the game issue.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -48,20 +45,6 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 
 If it doesn’t work, move to the next fix.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 2: Put commands in the launch option
 
  You can fix the Stray crashing issue by putting commands in the Launch option. There are three commands, you can try it one-by-one to see which one fix your problem.
@@ -69,70 +52,50 @@ If it doesn’t work, move to the next fix.
 1. In Steam, right-click on Stray and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-properties.jpg)
 2. In the**GENERAL** tab, type**\-d3d11** without any space in the LAUNCH OPTIONS.  
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-launch-options.jpg)
 3. Launch the game.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4. If this command doesn’t work, repeat**Step 1 & 2** , enter**\-dx11** in the space and launch the game again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx11.jpg)
 5. If it failed again, repeat**Step 1& 2** , try**\-dx12** this time.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx12.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  If none of the commands work for you, move to the next fix if you have Oculus app installed on your PC. If you don’t have it, move to the[Fix 4](https://tools.techidaily.com/drivereasy/download/) .
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Open Oculus app
 
@@ -142,19 +105,6 @@ If it doesn’t work, move to the next fix.
 2. Open the Oculus app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/oculus-app.jpg)
 3. Back to Steam and click**Play** to launch Stray.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 4. You should be able to play the game.
 
@@ -182,29 +132,17 @@ If it doesn’t work, move to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Download and install file from GitHub
 
@@ -215,35 +153,23 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-1.jpg)
 3. You need unzip tool (e.g. WinRAR) to extract the file.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4. Right-click on the**dxvk-1.10.2.tar.gz** and click**Extract to “dxvk-1.10.2\\”** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-2.jpg)
 5. Open the**extracted folder > dxvk-1.10.2 > dxvk-1.10.2 > x64** . Select all the file and copy these files.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-3.jpg)
 6. Back to Steam. Right-click on**Stray > Manager > Browse local files** . It will bring you directly to your game file folder.  
@@ -254,21 +180,14 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-5.jpg)
 9. Launch the game and see if it works.
 
- If the fix doesn’t work for you, you can delete the pasted files from the Win64 folder.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+ If the fix doesn’t work for you, you can delete the pasted files from the Win64 folder.
 
 ### Fix 6: Lower graphic settings
 
@@ -284,8 +203,6 @@ If it doesn’t work, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -293,12 +210,20 @@ If it doesn’t work, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-in-class-real-time-broadcast-systems/"><u>[New] In 2024, Best-in-Class Real-Time Broadcast Systems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-premium-internet-voice-pads/"><u>[New] In 2024, Premium Internet Voice Pads</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-fading-out-the-art-of-ebbing-audio-energy-in-fl-studio/"><u>[Updated] In 2024, Fading Out The Art of Ebbing Audio Energy in FL Studio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-youtube-channel-in-mobile-personal-and-business/"><u>[Updated] In 2024, How to Create YouTube Channel in Mobile [Personal & Business]</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-when-call-of-duty-warzone-wont-start/"><u>Effective Solutions When Call of Duty Warzone Won't Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/endless-game-interruptions-learn-how-to-stop-dread-hunger-from-freezing-your-pc/"><u>Endless Game Interruptions? Learn How to Stop Dread Hunger From Freezing Your PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/guide-youtube-to-mp4-ensuring-data-security/"><u>Guide YouTube to MP4 - Ensuring Data Security</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-designing-custom-youtube-music-sequences/"><u>In 2024, Designing Custom YouTube Music Sequences</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-challenges-of-launching-a-nier-replicant-remaster-game/"><u>Overcoming the Challenges of Launching a NieR Replicant Remaster Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-free-gaming-essential-fixes-for-robocop-rogue-city-pc-edition/"><u>Trouble-Free Gaming: Essential Fixes for RoboCop: Rogue City PC Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solving-mass-effect-legendary-edition-freezing-issues-on-pc-and-xbox/"><u>Troubleshooting Guide: Solving Mass Effect Legendary Edition Freezing Issues on PC and Xbox</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-problems-during-spellbreak-gameplay/"><u>Troubleshooting PC Problems During Spellbreak Gameplay</u></a></li>
+</ul></div>
 

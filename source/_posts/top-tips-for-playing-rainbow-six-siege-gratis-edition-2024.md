@@ -1,7 +1,7 @@
 ---
 title: Top Tips for Playing Rainbow Six Siege Gratis Edition - 2024
-date: 2024-09-10T14:16:03.706Z
-updated: 2024-09-11T14:16:03.706Z
+date: 2024-10-10T19:27:03.068Z
+updated: 2024-10-14T17:33:05.978Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/74c4cd312c44e9d7a650b4b1e65607327faaab90d
 
 How disappointed are you when you’re about to immerse in Old Detroit in the iconic RoboCop: Rogue City, but only to find that it refuses to launch on your computer? If this is also you, don’t worry, you’re not alone, and there are some effective fixes that have worked for many other gamers. Try them and get the RoboCop: Rogue City not launching problem fixed for you.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes for the RoboCop: Rogue City not launching problem
 
@@ -38,26 +35,6 @@ How disappointed are you when you’re about to immerse in Old Detroit in the ic
 7. **[Modify the TDR value in the Registry Editor](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 1\. Check your computer specs
 
@@ -79,19 +56,18 @@ Here are the requirements for RoboCop: Rogue City for your reference:
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 2\. Turn on Hardware-accelerated GPU scheduling
 
@@ -104,50 +80,17 @@ Here are the requirements for RoboCop: Rogue City for your reference:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-56.png)
 4. Then click **Change default graphics settings** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-59.png)
 5. Make sure that the toggles for **Hardware-accelerated GPU scheduling**  and **Optimizations for windowed games** are both set to **On** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-60.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Run RoboCop: Rogue City now to see if it launches well. Some also mentioned that turning off Hardware-accelerated GPU scheduling helps RoboCop: Rogue City to launch. So you can try this too to see if it works for you.
 
@@ -173,20 +116,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -197,69 +126,6 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-**Note** : You can do it for free if you like, but it’s partly manual.
-4. Restart your PC for the changes to take effect.
-
-**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
- Try to run RoboCop: Rogue City again and see if the latest graphics driver helps it to launch. If this fix doesn’t work for you, try the next fix, below.
-
----
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-## 4\. Verify game files
-
- When a game refuses to launch on Steam, you can always try to verify the game files to make sure that the problem is not caused by faulty or corrupted game files. To do so:
-
-1. Launch Steam.
-2. In**LIBRARY** , right-click on RoboCop: Rogue City and select**Properties** from the drop-down menu.  
-
-![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
-3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
-
-![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
-4. Steam will then verify the game’s files – this process may take several minutes.
-
- When the verification is done, try to launch RoboCop: Rogue City again. If it’s still not launching, please move on.
-
----
-
-
-
-
 
 <!-- affiliate ads begin -->
 <span id="1982459">
@@ -274,8 +140,38 @@ To do so, first visit the website of your GPU manufacturer:
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+**Note** : You can do it for free if you like, but it’s partly manual.
+4. Restart your PC for the changes to take effect.
 
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+ Try to run RoboCop: Rogue City again and see if the latest graphics driver helps it to launch. If this fix doesn’t work for you, try the next fix, below.
+
+---
+
+## 4\. Verify game files
+
+ When a game refuses to launch on Steam, you can always try to verify the game files to make sure that the problem is not caused by faulty or corrupted game files. To do so:
+
+1. Launch Steam.
+2. In**LIBRARY** , right-click on RoboCop: Rogue City and select**Properties** from the drop-down menu.  
+
+![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
+3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
+4. Steam will then verify the game’s files – this process may take several minutes.
+
+ When the verification is done, try to launch RoboCop: Rogue City again. If it’s still not launching, please move on.
+
+---
 
 ## 5\. Add Steam and RoboCop to the antivirus exception list
 
@@ -289,6 +185,13 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Run Steam as admin
 
  It’s also possible that lacking certain system permissions is stopping Steam and RoboCop: Rogue City from running properly. To make sure that this is not why your RoboCop: Rogue City doesn’t launch, you can run Steam and RoboCop: Rogue City as administrator so as to give them all the privileges they may need to run. To do so:
@@ -297,37 +200,23 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-56.png)
 2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-57.png)
 3. Then tick the box for **Run this program in compatibility mode for:**  then select **Windows 8** from the dropdown list.  
-![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-58.png)
-
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-58.png)
 
  Now open Steam and RoboCop: Rogue City again (it should be opened with administrative permission), to see if it launches well. If the problem still remains, please move on to the next fix.
 
@@ -344,18 +233,12 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location: ``**Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\`GraphicsDrivers`**``  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-87.png)
 4. On the right side, right-click the empty area and select **New > DWORD (32-bit) Value** .  
@@ -363,6 +246,13 @@ To do so, first visit the website of your GPU manufacturer:
 5. Name the new entry **TdrLevel** , then double-click it and make sure that its **Value data** is**0** . Click OK to save.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-89.png)
 6. Restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then see if RoboCop: Rogue City can launch now.
 
@@ -378,8 +268,6 @@ Then see if RoboCop: Rogue City can launch now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -387,12 +275,22 @@ Then see if RoboCop: Rogue City can launch now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-optimizing-team-calls-prepost-meeting-screen-customization-for-2024/"><u>[New] Optimizing Team Calls Pre/Post-Meeting Screen Customization for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-comprehensive-guide-to-top-hashtag-analysis-tools-fbtwitterinsta-for-2024/"><u>[Updated] Comprehensive Guide to Top Hashtag Analysis Tools (FB/Twitter/Insta) for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-seek-out-sites-that-connect-you-to-youtube-revenue-models-for-2024/"><u>[Updated] Seek Out Sites That Connect You to YouTube Revenue Models for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unveiling-hidden-truths-about-instagram-viewers/"><u>[Updated] Unveiling Hidden Truths About Instagram Viewers</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-list-video-games-journey-recorder/"><u>A-List Video Games Journey Recorder</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-on-rectifying-stuttering-glitches-in-gearbox-softwares-borderlands-3/"><u>Comprehensive Guide on Rectifying Stuttering Glitches in Gearbox Software's Borderlands 3</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-hp-beatbox-audio-drivers-compatibility-with-windows-operating-systems-windows-1087/"><u>Fixing HP BeatBox Audio Drivers Compatibility with Windows Operating Systems (Windows 10/8/7)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-world-of-podcast-rss-formatting-for-2024/"><u>Navigating the World of Podcast RSS Formatting for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-sieges-2024-refresh-gameplay-enhancements-and-more/"><u>Rainbow Six Siege's 2024 Refresh: Gameplay Enhancements and More!</u></a></li>
+<li><a href="https://win-able.techidaily.com/repaired-version-terrifying-encounter-with-a-fnaf-security-breach-now-running-smoothly-on-pc/"><u>Repaired Version: Terrifying Encounter with a FNAF Security Breach Now Running Smoothly on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-microsofts-night-light-functionality-on-latest-operating-systems/"><u>Resolving Issues with Microsoft's Night Light Functionality on Latest Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-fixing-world-of-warcraft-wont-start-on-pc/"><u>Solution Found: Fixing 'World of Warcraft Won't Start on PC'</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-and-tricks-to-overcome-call-of-duty-bfv-stutter-issues-on-pc-and-console/"><u>Tips and Tricks to Overcome Call of Duty BFV Stutter Issues on PC & Console</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-high-fps-dropouts-and-stutter-in-battlefield-2042-pc-version/"><u>Troubleshooting High FPS Dropouts & Stutter in Battlefield 2042 PC Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/utorrent-crashing-discover-7-effective-solutions/"><u>Utorrent Crashing: Discover 7 Effective Solutions</u></a></li>
+</ul></div>
 

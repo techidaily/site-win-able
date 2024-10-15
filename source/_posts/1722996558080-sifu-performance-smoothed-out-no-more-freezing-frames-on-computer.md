@@ -1,7 +1,7 @@
 ---
 title: 'Sifu' Performance Smoothed Out - No More Freezing Frames on Computer!
-date: 2024-09-10T14:11:29.494Z
-updated: 2024-09-11T14:11:29.494Z
+date: 2024-10-09T19:34:23.436Z
+updated: 2024-10-14T19:26:00.695Z
 tags:
   - win11
   - win10
@@ -27,13 +27,10 @@ thumbnail: https://thmb.techidaily.com/0b724e890933179083e665890982beb41082b155e
 
  There are several factors that can cause this issue. In some cases, this could be a hardware issue that shows your PC specs not meeting Warframe’s requirements. Or, it could be a software glitch related to an outdated driver and software conflicts. But don’t worry. We’ve got a few solutions for you in this post.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## How to Fix Warframe Freezing
 
@@ -45,25 +42,18 @@ thumbnail: https://thmb.techidaily.com/0b724e890933179083e665890982beb41082b155e
 4. [**Lower in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Turn off unnecessary programs**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your home network
 
  A bad network connection can often cause your game to freeze, lag or even crash, so you may want to**restart your network** by turning off your modem and router for at least 20 seconds then turning them back on.
 
  If you’re using a Wi-Fi connection, try using an ethernet cable. An ethernet cable can provide a more stable internet connection. If that’s not an option, you can instead, move your computer closer to your router as the distance between your PC and the Router could also affect your Wi-Fi connection and your gaming performance.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 2: Update your graphics driver
 
@@ -86,52 +76,12 @@ thumbnail: https://thmb.techidaily.com/0b724e890933179083e665890982beb41082b155e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch the game to test your issue. If it’s still occurring, try the next fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 3: Verify Warframe cache files
 
@@ -145,39 +95,18 @@ thumbnail: https://thmb.techidaily.com/0b724e890933179083e665890982beb41082b155e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-35-03.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **3)**  After the process is complete, click**Optimize** .
 
 **4)** Launch the game to test your issue.
 
 Your game still freezes? Try the next fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 4: Lower in-game graphics settings
 
@@ -189,6 +118,13 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
@@ -199,19 +135,12 @@ Your game still freezes? Try the next fix below.
 
 If your issue persists, then move on to the next fix below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 5: Turn off unnecessary programs
 
@@ -241,8 +170,6 @@ If your issue persists, then move on to the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,12 +177,18 @@ If your issue persists, then move on to the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-taking-your-reels-up-a-notch-with-these-top-editors-for-2024/"><u>[New] Taking Your Reels Up a Notch with These Top Editors for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>[Updated] In 2024, Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audio-memo-fundamentals-a-complete-guidebook/"><u>Audio Memo Fundamentals A Complete Guidebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/cutting-edge-fixes-for-persistent-lags-in-pc-gaming-whats-new-in-2cuary/"><u>Cutting-Edge Fixes for Persistent Lags in PC Gaming – What's New in 2Cuary</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-freeze-no-more-essential-tips-to-keep-your-game-running-smoothly-in-2einite-pc-fixes-of-2024/"><u>Fortnite Freeze No More: Essential Tips to Keep Your Game Running Smoothly in 2Einite - PC Fixes of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-steam-controller-recognition-problems-in-windows-os/"><u>How to Fix Steam Controller Recognition Problems in Windows OS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-m6-pro-4g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco M6 Pro 4G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-selecting-the-perfect-screen-recorder-for-educational-purposes/"><u>In 2024, Selecting the Perfect Screen Recorder for Educational Purposes</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-a-nonfunctional-alienware-command-center/"><u>Step-by-Step Solutions for a Nonfunctional Alienware Command Center</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixes-for-warzone-game-not-starting-up/"><u>Troubleshooting Guide: Fixes for Warzone Game Not Starting Up</u></a></li>
+<li><a href="https://article-tips.techidaily.com/virtual-reality-walking-platforms-an-in-depth-look-for-2024/"><u>Virtual Reality Walking Platforms An In-Depth Look for 2024</u></a></li>
+</ul></div>
 

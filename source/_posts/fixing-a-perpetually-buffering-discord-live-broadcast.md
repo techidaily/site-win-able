@@ -1,7 +1,7 @@
 ---
 title: Fixing a Perpetually Buffering Discord Live Broadcast
-date: 2024-09-10T14:11:43.442Z
-updated: 2024-09-11T14:11:43.442Z
+date: 2024-10-14T00:26:39.006Z
+updated: 2024-10-15T02:46:14.349Z
 tags:
   - win11
   - win10
@@ -21,27 +21,10 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
 
 If this is happening to you, don’t panic. Try the fixes below.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fixes to try
 
@@ -59,20 +42,6 @@ If this is happening to you, don’t panic. Try the fixes below.
 
  You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## First Thing First…
 
  When something goes wrong with Discord, the first thing you need to check is the **[server status for Discord](https://status.discordapp.com/)**  . You can also follow [**@Discord**](https://twitter.com/discord) on Twitter to see if there are any ongoing issues.
@@ -83,25 +52,25 @@ If this is happening to you, don’t panic. Try the fixes below.
 
  Before we dive into anything advanced, make sure you restart your computer. A simple restart will reset your software and desktop environment and can often fix software glitches like this. So give it a shot!
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 2\. Check Your Internet Connection
 
  The Discord streams not loading issue could simply be a connection problem. If you haven’t checked out your network status to see if there’s anything that went wrong, you can do this by opening another application that requires Internet access to function.
 
  If that application fails, too, then you’ve found the core problem. Check **[this article](https://tools.techidaily.com/drivereasy/download/)**  to troubleshoot your network issue. If Discord is the only app that doesn’t work for you and the rest of your apps works just fine, read on and try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3\. Run Discord as Administrator
 
@@ -113,18 +82,12 @@ If you’re not sure how to do it, follow the instructions below:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/open-task-manager.png)
 2. Right-click Discord then select**End Task** . (Ensure you right-click on the main Discord link, not the subdirectory entries)  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/close-discord.png)
 3. Right-click the Discord icon on your desktop, then select**Properties** .  
@@ -133,19 +96,12 @@ If you’re not sure how to do it, follow the instructions below:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/Discord-admin-access.png)
 5. Relaunch Discord.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 If your stream still gets stuck on loading, try the next fix.
 
@@ -159,53 +115,20 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-settings.png)
 2. On the left side menu, select Advanced, then toggle**off** the option for**Hardware Acceleration** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-hardware-acceleration.png)
 3. Click**Okay** to move on.  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-confirm.png)
 4. Discord will relaunch automatically. See if this has resolved your issue.
 
  If Discord still won’t load streams correctly, read on and try the next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 5\. Update Your Graphics Driver
 
@@ -222,19 +145,12 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -260,6 +176,19 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 
 If your issue still exists, move on to the fix, below.
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 7\. Switch to Windowed Mode
 
  If your Discord is stuck in fullscreen mode, try switching to Windowed Mode.
@@ -284,33 +213,12 @@ If your issue still exists, move on to the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/06/image-1.png)
 4. Open Discord to see if the issue still exists.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 9\. Try Desktop App/Another Browser
 
@@ -321,20 +229,6 @@ If your issue still exists, move on to the fix, below.
  If neither the desktop app nor the web version works for you, it could be that there’s something wrong on Discord’s end preventing you from streaming correctly.
 
  In this case, you can contact Discord support for assistance or try[**Discord PTB**](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients) , also called public test build, to see if the problem still exists.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 10\. Reinstall Discord
 
@@ -358,8 +252,6 @@ If your issue still exists, move on to the fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -367,12 +259,22 @@ If your issue still exists, move on to the fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-quick-views-snap-and-share/"><u>[New] In 2024, FB Quick Views Snap & Share</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-taking-screenshots-on-mac-5-methods/"><u>[New] In 2024, Taking Screenshots on Mac [5 Methods]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-beginners-blueprint-progressive-sound-intensity-rise/"><u>[Updated] Beginner’s Blueprint Progressive Sound Intensity Rise</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-a-detailed-guide-to-advanced-human-interface-systems/"><u>[Updated] In 2024, A Detailed Guide to Advanced Human Interface Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/95-bargain-alert-secure-your-second-gen-apple-pencil-with-our-limited-time-labor-day-discount-zdnet/"><u>$95 Bargain Alert! Secure Your Second-Gen Apple Pencil with Our Limited Time Labor Day Discount | ZDNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-overcoming-directx-errors-in-battlefield-2cyb42/"><u>Effective Solutions for Overcoming DirectX Errors in Battlefield 2CYB42</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-approach-wearable-unlocks-your-mac/"><u>Innovative Approach Wearable Unlocks Your Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stability-issues-for-call-of-duty-warzone-2er-a-comprehensive-troubleshooting-guide/"><u>Overcoming Stability Issues for Call of Duty Warzone 2.er: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/reviving-the-soundscape-fixing-complete-audio-absence-in-minecraft-pc-edition/"><u>Reviving the Soundscape: Fixing Complete Audio Absence in Minecraft PC Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-correcting-common-javascript-issues-in-discord/"><u>Simple Steps: Correcting Common JavaScript Issues in Discord</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/strategies-for-dealing-with-the-absent-d3dx927dll-library-on-your-pc/"><u>Strategies for Dealing with The Absent d3dx9_27.dll Library on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-apex-legends-understanding-and-fixing-the-error-403695870/"><u>Troubleshooting Apex Legends - Understanding and Fixing the Error 403695870</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-destiny-2-broccoli-collision-glitch-what-you-need-to-know/"><u>Ultimate Fix for Destiny 2 Broccoli Collision Glitch - What You Need to Know</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unlocking-the-secrets-of-ape-files-a-comprehensive-guide-on-using-apes-player/"><u>Unlocking the Secrets of APE Files: A Comprehensive Guide on Using APES Player</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/win10-mastery-crucial-tips-and-tricks/"><u>Win10 Mastery Crucial Tips and Tricks</u></a></li>
+</ul></div>
 

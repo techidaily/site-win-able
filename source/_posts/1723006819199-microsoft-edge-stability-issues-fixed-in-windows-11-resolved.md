@@ -1,7 +1,7 @@
 ---
 title: Microsoft Edge Stability Issues Fixed in Windows 11 - Resolved!
-date: 2024-09-10T14:12:17.878Z
-updated: 2024-09-11T14:12:17.878Z
+date: 2024-10-08T01:55:20.147Z
+updated: 2024-10-14T18:16:51.550Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  But don’t worry if you happen to be one of them. In this tutorial, we’ll guide you through some working fixes and help you get back to the Hall of the Gods asap.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -87,38 +70,18 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Update your graphics driver
 
@@ -143,22 +106,23 @@ If this method doesn’t help, you can take a look at the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -176,34 +140,14 @@ And here’s how you can make sure your system is the latest:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -219,8 +163,6 @@ And here’s how you can make sure your system is the latest:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,12 +170,26 @@ And here’s how you can make sure your system is the latest:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-blog-thumbnail-proportions-tips/"><u>[New] 2024 Approved Blog Thumbnail Proportions Tips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-complete-guide-to-cd-conversion-and-burning-with-wmp/"><u>[New] 2024 Approved The Complete Guide to CD Conversion & Burning with WMP</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-laying-the-groundwork-for-successful-zoom-meetings-for-2024/"><u>[New] Laying the Groundwork for Successful Zoom Meetings for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-hues-iphone-low-light-mastery/"><u>[Updated] Harnessing Hues IPhone Low-Light Mastery</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-expert-tags-analyzer-software-fb-tweet-and-insta-edition/"><u>2024 Approved Expert Tags Analyzer Software FB, Tweet & Insta Edition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-ultimate-dji-phantom-4-extension-pack/"><u>2024 Approved The Ultimate DJI Phantom 4 Extension Pack</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-13-ultra-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from 13 Ultra</u></a></li>
+<li><a href="https://win-able.techidaily.com/battling-frame-rate-drop-and-latency-in-call-of-duty-modern-warfare-3/"><u>Battling Frame Rate Drop and Latency in Call of Duty Modern Warfare 3</u></a></li>
+<li><a href="https://win-able.techidaily.com/blackout-no-more-fixing-the-star-wars-battlefront-2-screen-problem-efficiently/"><u>Blackout No More: Fixing the Star Wars Battlefront 2 Screen Problem Efficiently</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-fixes-for-blackout-screenshots-in-rainbow-six-siege-gaming-solutions/"><u>Complete Fixes for Blackout Screenshots in Rainbow Six Siege - Gaming Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012070358-eliminate-stutter-in-elden-ring-fast-fixes-you-can-do-today/"><u>Eliminate Stutter in Elden Ring - Fast Fixes You Can Do Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-restoring-functionality-to-broken-logitech-control-panel-on-windows/"><u>Expert Advice: Restoring Functionality to Broken Logitech Control Panel on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001338625-fix-that-frustrating-frame-rate-drop-in-overwatch-instantly/"><u>Fix That Frustrating Frame-Rate Drop in Overwatch, Instantly!</u></a></li>
+<li><a href="https://common-error.techidaily.com/ftdisk-system-warning-how-incorrect-driver-installation-affects-memory-safety/"><u>FTDisk System Warning: How Incorrect Driver Installation Affects Memory Safety</u></a></li>
+<li><a href="https://win-able.techidaily.com/helldivers-2-destruction-dilemmas-on-pc-masterful-fixes-and-strategies-await/"><u>Helldivers 2 Destruction Dilemmas on PC? Masterful Fixes and Strategies Await!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/oneplus-nology-buzz-projected-pricing-release-window-and-potential-upgrades-for-next-gen-device/"><u>OnePlus Nology Buzz: Projected Pricing, Release Window & Potential Upgrades for Next-Gen Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-correcting-error-3-cxxx-in-rainbow-six-siege/"><u>Step-by-Step Guide to Correcting Error 3-CXXX in Rainbow Six Siege</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-preventing-starcraft-ii-pc-game-crashes-and-enjoying-uninterrupted-playtime/"><u>Ultimate Guide: Preventing StarCraft II PC Game Crashes and Enjoying Uninterrupted Playtime</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-the-potential-of-todays-drones-for-tomorrow/"><u>Unveiling the Potential of Today's Drones for Tomorrow</u></a></li>
+</ul></div>
 

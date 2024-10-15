@@ -1,7 +1,7 @@
 ---
 title: Disco Elysium Won't Launch on Windows – Troubleshooting Steps Inside
-date: 2024-10-06T19:13:36.380Z
-updated: 2024-10-08T21:03:31.866Z
+date: 2024-10-09T03:44:41.112Z
+updated: 2024-10-14T23:56:03.311Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 5. **[Replace game files with a fan-made patch](https://tools.techidaily.com/drivereasy/download/)**
 6. [**Check for corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Scan and repair your game files
 
  When troubleshooting game not launching issues, first you need to make sure there aren’t any corrupted or missing files.
@@ -45,17 +52,17 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-1.jpg)
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
 
  If this trick doesn’t give you luck, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -76,13 +83,6 @@ Here’s how you can check the file integrity on Steam:
 
  If the latest video driver doesn’t help you, check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Install all Windows updates
 
  The Windows 10 system updates help keep your system running smoothly. Usually Windows installs updates on a regular basis, but you can check manually to confirm you’re using the latest system.
@@ -92,6 +92,19 @@ Here’s how you can check the file integrity on Steam:
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
@@ -105,6 +118,13 @@ Here’s how you can check the file integrity on Steam:
 
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Replace game files with a fan-made patch
 
  Another hack without installing GFWL would be replacing certain game files of Resident Evil 5 with a fan-made patch. It appears the patch can fix some known bugs of Resident Evil 5\. You can try the patch and see if it gives you luck.
@@ -115,28 +135,14 @@ Here’s how you can check the file integrity on Steam:
 3. Open the Resident Evil 5 folder and paste the patch files.  
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
 
@@ -149,14 +155,14 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -179,18 +185,20 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-how-to-charm-your-way-into-a-friends-tiktok-show/"><u>[New] 2024 Approved How to Charm Your Way Into a Friend’s TikTok Show</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchat-voice-overhaul-two-efficient-ways-revealed/"><u>[Updated] 2024 Approved Snapchat Voice Overhaul Two Efficient Ways Revealed</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-top-edits-made-easy-a-newbies-guide-to-video-trimming-and-enhancing/"><u>[Updated] In 2024, Top Edits Made Easy A Newbie's Guide to Video Trimming & Enhancing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-scriptsmiths-network/"><u>2024 Approved Ultimate Scriptsmiths Network</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-powered-job-market-the-evolutionary-leap/"><u>AI-Powered Job Market – The Evolutionary Leap</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/behind-the-screen-samsung-ue590-4k-freesync-analysis-for-2024/"><u>Behind the Screen Samsung UE590 4K, FreeSync Analysis for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/cutting-edge-screencast-tech-obs-innovations-explained-for-2024/"><u>Cutting-Edge Screencast Tech OBS Innovations Explained for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-the-leaf-bug-in-apex-legends-latest-patch/"><u>How to Overcome the 'Leaf' Bug in Apex Legends (Latest Patch)</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-solve-your-phasmophobia-glitches-update-fixes-and-tips-for-players/"><u>How to Solve Your Phasmophobia Glitches - Update Fixes and Tips for Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-fps-in-dota-2-after-fixing-windows-11-and-10-lag/"><u>Improving FPS in Dota 2 After Fixing Windows 11 & 10 Lag</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-crashes-insurancy-sandstorm-now-running-smoothly/"><u>Say Goodbye to Crashes: Insurancy: Sandstorm Now Running Smoothly</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-fifa-21-startup-difficulties-all-cleared-up/"><u>Troubleshooting the FIFA 21 Startup Difficulties – All Cleared Up</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-solving-frame-per-second-dip-issues-in-outriders/"><u>Ultimate Guide to Solving Frame Per Second Dip Issues in Outriders</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-superior-mobile-and-pc-discord-capture-apps-for-2024/"><u>[New] Superior Mobile & PC Discord Capture Apps for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-android-gaming-experience-kinemaster-reviewed/"><u>[New] The Ultimate Android Gaming Experience - KineMaster Reviewed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-what-is-virtual-reality-video/"><u>[New] What Is Virtual Reality Video?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-yt-thumbnails-downloading-via-browser-app-and-command-line/"><u>[New] YT Thumbnails Downloading via Browser, App & Command Line</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-guide-mastering-creative-effects-in-online-zoom-sessions/"><u>2024 Approved Step-by-Step Guide Mastering Creative Effects in Online Zoom Sessions</u></a></li>
+<li><a href="https://win-able.techidaily.com/banishing-bugs-and-crashes-for-a-smooth-experience-with-lego-star-wars-the-skywalker-saga-on-pc-fixes-included/"><u>Banishing Bugs & Crashes for a Smooth Experience with Lego Star Wars: The Skywalker Saga on PC (Fixes Included)</u></a></li>
+<li><a href="https://win-able.techidaily.com/five-effortless-methods-to-overcome-bluestacks-crashes-effectively/"><u>Five Effortless Methods to Overcome Bluestacks Crashes Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-bloodhunt-gameplay-hiccups-and-lag-on-your-computer/"><u>Fixing Bloodhunt Gameplay Hiccups and Lag on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correctly-address-and-overcome-the-ue4-madness-error-in-outriders/"><u>How to Correctly Address and Overcome the 'UE4 Madness' Error in Outriders</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-15-pro-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 15 Pro to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-to-prevent-game-crashes-in-assassins-creed-valhalla-pc-version/"><u>Optimizing Performance to Prevent Game Crashes in Assassin's Creed: Valhalla PC Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/pathfinder-wrath-of-the-righteeous-crash-troubleshooting-guide/"><u>Pathfinder: Wrath of the Righteeous Crash Troubleshooting Guide</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-x50-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor X50</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-for-eliminating-lag-in-chivalry-2-expert-advice-from-2024/"><u>Top Strategies for Eliminating Lag in Chivalry 2: Expert Advice From 2024</u></a></li>
 </ul></div>
 

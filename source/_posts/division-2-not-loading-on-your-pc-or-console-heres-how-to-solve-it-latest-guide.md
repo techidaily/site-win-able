@@ -1,7 +1,7 @@
 ---
 title: Division 2 Not Loading on Your PC or Console? Here's How to Solve It (Latest Guide)
-date: 2024-10-04T21:36:02.335Z
-updated: 2024-10-08T20:04:27.909Z
+date: 2024-10-10T16:37:45.149Z
+updated: 2024-10-14T18:26:45.019Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 6. **[Switch the DNS server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Is Fallout 76 down?](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1:**Reset Winsock**
 
  Winsock is an application in Windows that handles the data on the computer that programs use for Internet access. So when you can’t connect Fallout 76 to its server, you can give Winsock a try. It reverts the Winsock Catalog back to its default settings, which often proves useful in network problems.
@@ -49,13 +56,6 @@ Here is how to reset Winsock data:
  3) In the Command Prompt, type **netsh winsock reset**  and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer.
 
@@ -82,10 +82,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure you have the latest network drivers
@@ -102,16 +102,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -131,6 +131,13 @@ Here is how to restart your network:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _modem_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
@@ -145,13 +152,6 @@ _wireless router_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 5: Flush your DNS and Renew your IP**
 
  DNS and IP issues may also cause Fallout 76 to disconnect from the server. So you can flush your DNS and renew your IP to see if it solves the issue.
@@ -163,10 +163,10 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
@@ -181,19 +181,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.
@@ -201,6 +188,13 @@ _wireless router_
 **ipconfig /release**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Type**the following command line** and press **Enter**  on your keyboard.
 
@@ -224,31 +218,31 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In **View by** , choose **Category** . Then click **View network status and tasks** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In the pop-up window, click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right-click on**your current network** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
@@ -293,22 +287,21 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-synchronized-aesthetics-audio-meets-picture/"><u>[New] Synchronized Aesthetics Audio Meets Picture</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-5-emulation-suites-to-experience-sonys-ps1-library-for-2024/"><u>[New] Top 5 Emulation Suites to Experience Sony's PS1 Library for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-steps-for-crusader-kings-3-stalling-performance-in-pc/"><u>[RESOLVED] Troubleshooting Steps for Crusader Kings 3 Stalling Performance in PC</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-top-10-fb-video-downloader-tools-firefox-compatible-for-2024/"><u>[Updated] Top 10 FB Video Downloader Tools, Firefox Compatible for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-5-audio-bitrate-changers-enhance-your-videos-with-ideal-sound-quality/"><u>Best 5 Audio Bitrate Changers: Enhance Your Videos with Ideal Sound Quality</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077s-fix-for-notorious-input-lag-problem/"><u>Cyberpunk 2077'S Fix for Notorious Input Lag Problem</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-x50-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor X50</u></a></li>
-<li><a href="https://win-able.techidaily.com/dissecting-the-solution-to-call-of-duty-warzone-pacific-turmoil/"><u>Dissecting the Solution to Call of Duty: Warzone Pacific Turmoil</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-installation-complimentary-asrock-ab350-pro4-windows-chipset-and-rom-drivers/"><u>Effortless Installation: Complimentary ASROCK AB350 Pro4 Windows Chipset & ROM Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-catch-every-moment-of-the-anticipated-samsung-unpacked-conference-online/"><u>How to Catch Every Moment of the Anticipated Samsung Unpacked Conference Online</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-the-unexpected-shutdown-issue-in-minecraft-exit-code-0-explained/"><u>How to Overcome the Unexpected Shutdown Issue in Minecraft - Exit Code 0 Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-discord-upgrade-issues-successful-patch-implemented/"><u>Resolved Discord Upgrade Issues: Successful Patch Implemented</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-resolving-nvidia-control-panel-unresponsiveness-and-startup-failures/"><u>Step-by-Step Guide: Resolving NVIDIA Control Panel Unresponsiveness and Startup Failures</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-outriders-eliminating-pc-glitches-and-hiccups/"><u>Troubleshooting Tips for Outriders: Eliminating PC Glitches and Hiccups</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-wow-solutions-when-your-blizzard-game-wont-start/"><u>Troubleshooting WoW: Solutions When Your Blizzard Game Won't Start</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-z-flip-5-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy Z Flip 5 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-xripad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone XR/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-properly-posted-tweets-with-professional-videos/"><u>[New] In 2024, Properly Posted Tweets with Professional Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-brighter-horizons-is-intense-light-for-hdr-right/"><u>[Updated] Brighter Horizons Is Intense Light for HDR Right?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-5-cost-effective-video-editing-software-for-gamers/"><u>[Updated] Top 5 Cost-Effective Video Editing Software (For Gamers)</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-2042-not-working-fix-your-game-crashes-now/"><u>Battlefield 2042 Not Working? Fix Your Game Crashes Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-competitive-edge-with-zero-lag-gameplay-comprehensive-guide-on-warzone-20-ping-optimization/"><u>Boost Your Competitive Edge with Zero-Lag Gameplay - Comprehensive Guide on Warzone 2.0 Ping Optimization</u></a></li>
+<li><a href="https://win-able.techidaily.com/halo-3-pc-stability-diagnosing-crashes-and-effective-strategies-for-uninterrupted-play/"><u>Halo 3 PC Stability: Diagnosing Crashes & Effective Strategies for Uninterrupted Play</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-x-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone X With 7 Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-kinemasters-android-gameplay/"><u>In 2024, The Ultimate Guide to KineMaster's Android Gameplay</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/meme-maniacs-twitters-funniest-video-threads-roundup-for-2024/"><u>Meme Maniacs Twitter's Funniest Video Threads Roundup for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-glitches-resolve-fifa-2eboardplatform-and-ensure-a-smooth-gaming-experience-on-your-computer-with-our-guide/"><u>No More Glitches: Resolve FIFA 2Eboard/Platform and Ensure a Smooth Gaming Experience on Your Computer with Our Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pacific-crash-in-call-of-duty-warzone-now-patched-and-stable/"><u>Pacific Crash in Call of Duty: Warzone Now Patched and Stable</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-gaming-experience-achieved-starfield-no-longer-faces-audio-disruptions/"><u>Seamless Gaming Experience Achieved – Starfield No Longer Faces Audio Disruptions</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-installing-cyberpunk-2077-from-steam-your-step-by-step-guide-to-fix-downloading-issues/"><u>Successfully Installing Cyberpunk 2077 From Steam? Your Step-by-Step Guide to Fix Downloading Issues</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-20-wonderful-stop-motion-ideas-for-beginners-and-kids-filmora/"><u>Updated In 2024, 20 Wonderful Stop Motion Ideas for Beginners and Kids - Filmora</u></a></li>
+<li><a href="https://win-able.techidaily.com/world-of-warcraft-wont-start-here-are-solutions-that-worked/"><u>World of Warcraft Won't Start? Here Are Solutions That Worked!</u></a></li>
 </ul></div>
 

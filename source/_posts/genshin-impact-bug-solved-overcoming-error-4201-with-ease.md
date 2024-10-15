@@ -1,7 +1,7 @@
 ---
 title: Genshin Impact Bug Solved! Overcoming Error 4201 with Ease
-date: 2024-10-06T16:21:28.331Z
-updated: 2024-10-08T23:37:06.912Z
+date: 2024-10-08T06:23:41.967Z
+updated: 2024-10-14T16:47:48.299Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify if your PC meets the system requirements for PoE
 
  First and foremost, you should verify if your computer can handle PoE. Here’s the information you may need:
@@ -80,10 +73,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics card drivers
@@ -115,10 +108,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of game files
@@ -133,16 +126,16 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** . Then wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-18.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Once complete, exit Steam and reopen it. Run PoE and wait to see if it keeps crashing.
 
@@ -161,22 +154,21 @@ In case this fix didn’t help, please move on to Fix 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
@@ -184,6 +176,13 @@ In case this fix didn’t help, please move on to Fix 4.
 Still unable to solve the problem? If yes, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Change certain in-game configurations
 
@@ -202,6 +201,13 @@ Still unable to solve the problem? If yes, proceed to the next fix.
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
 
@@ -231,17 +237,14 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-extensive-breakdown-gecata-tracking-device-assessment/"><u>[New] Extensive Breakdown Gecata Tracking Device Assessment</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-your-clips-an-in-depth-look-at-recmeisters-features/"><u>[Updated] In 2024, Mastering Your Clips An In-Depth Look at Recmeister's Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-premium-enterprise-sky-saver-guide/"><u>[Updated] Premium Enterprise Sky Saver Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-black-screen-problem-in-halo-infinite-a-complete-guide/"><u>Fixing the 'Black Screen' Problem in Halo Infinite: A Complete Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2019-no-more-freezes-the-ultimate-guide-to-stable-gameplay/"><u>Football Manager 2019 No More Freezes - The Ultimate Guide to Stable Gameplay</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/quick-start-methods-for-producing-and-perfecting-multiple-snaps-in-snapchat-for-2024/"><u>Quick Start Methods for Producing and Perfecting Multiple Snaps in Snapchat for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resident-evil-5-starting-difficulties-on-pc-comprehensive-fix-guide-available-now/"><u>Resident Evil 5 Starting Difficulties on PC: Comprehensive Fix Guide Available Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-next-generation-awaits-exploring-apples-revolutionary-tandem-oled-displays-on-the-latest-ipad-pro/"><u>The Next Generation Awaits: Exploring Apple's Revolutionary Tandem OLED Displays on the Latest iPad Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-directx-problems-in-battlefield-2042-tips-and-tricks/"><u>Troubleshooting DirectX Problems in Battlefield 2042 – Tips and Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-constant-crashes-of-snowrunner-on-windows-computers/"><u>Troubleshooting Guide: Resolving Constant Crashes of SnowRunner on Windows Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/unveiling-effective-solutions-for-permanent-blackout-dilemmas-on-screens/"><u>Unveiling Effective Solutions for Permanent Blackout Dilemmas on Screens</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-to-the-newest-version-of-rtx-2080-graphics-card-drivers-on-your-windows-computer-windows-1011/"><u>Upgrade to the Newest Version of RTX 2080 Graphics Card Drivers on Your Windows Computer (Windows 10/11)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-making-yields-with-content-the-creators-money-map/"><u>[New] 2024 Approved Making Yields with Content The Creator's Money Map</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-10-spotify-recorders/"><u>[New] In 2024, Top 10 Spotify Recorders</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-continuous-crashing-issues-with-metro-exodus-on-computer/"><u>Effective Solutions for Continuous Crashing Issues with Metro Exodus on Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-problem-of-stardew-valley-not-loading-properly/"><u>How to Overcome the Problem of Stardew Valley Not Loading Properly</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-critical-development-bug-in-call-of-dutys-modern-warfare-and-warzone/"><u>Resolving Critical Development Bug in Call of Duty's Modern Warfare and Warzone</u></a></li>
+<li><a href="https://facebook.techidaily.com/socializing-smartly-planning-events-on-facebook/"><u>Socializing Smartly: Planning Events on Facebook</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462175907-struggling-with-ios-updates-for-your-device-here-are-9-fixes-that-work/"><u>Struggling with iOS Updates for Your Device? Here Are 9 Fixes that Work!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-strategies-for-unrestricted-space-allocation-for-2024/"><u>Superior Strategies for Unrestricted Space Allocation for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-fix-to-uncover-arise-in-epic-games-engine/"><u>The Definitive Fix to Uncover Arise in Epic Games Engine</u></a></li>
 </ul></div>
 

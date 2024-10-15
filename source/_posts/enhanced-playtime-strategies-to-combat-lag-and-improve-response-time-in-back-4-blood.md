@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Playtime: Strategies to Combat Lag and Improve Response Time in 'Back 4 Blood'"
-date: 2024-10-07T19:41:26.970Z
-updated: 2024-10-08T20:42:21.303Z
+date: 2024-10-08T06:26:33.633Z
+updated: 2024-10-15T00:53:52.373Z
 tags:
   - win11
   - win10
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re still getting a high ping and game seems laggy, try the next fix.
 
 ## Fix 4: Update network driver
@@ -87,23 +94,17 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update both your graphics driver and network driver with just one click. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new drivers to take effect. Launch Back 4 Blood to see if the problem persists. If your ping is still high and experiences lags in game, no worries, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Check your DNS settings
 
@@ -112,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -129,16 +123,36 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
 4. Your DNS cache is successfully cleared.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -149,6 +163,13 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-11_15-44-44.png)
 2. Click **Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
 
@@ -156,46 +177,19 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
 
@@ -229,18 +223,22 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-obs-studio-and-skype-a-perfect-duo-explained/"><u>[Updated] 2024 Approved OBS Studio & Skype A Perfect Duo Explained</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-innovate-content-dissemination-youtube-to-facebook-methods/"><u>[Updated] In 2024, Innovate Content Dissemination YouTube-to-Facebook Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-blur-ultimate-6-step-guide-to-smooth-play-of-hogwarts-legacy/"><u>Beat the Blur: Ultimate 6-Step Guide to Smooth Play of Hogwarts Legacy</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-latency-problems-in-league-of-legends-a-comprehensive-guide/"><u>Fixing Latency Problems in League of Legends: A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-xs-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone XS to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Poco M6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-htc-u23-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass HTC U23 Pro FRP</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oneplus-open-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From OnePlus Open to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/launching-triumph-how-to-resolve-baldurs-gate-3-not-starting-problems/"><u>Launching Triumph: How to Resolve Baldur's Gate 3 Not Starting Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-code-breakers-a-step-by-step-guide-to-fixing-dev-error-5573-on-ps4-and-xbox/"><u>Resolving Code Breakers: A Step-by-Step Guide to Fixing Dev Error 5573 on PS4 and Xbox</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-pacific-drive-failure-step-by-step-solutions/"><u>Troubleshooting Pacific Drive Failure: Step-by-Step Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-directdraw-glitches-in-windows-applications/"><u>Ultimate Fixes for DirectDraw Glitches in Windows Applications</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-10-power-players-youtubes-ladies-in-gaming/"><u>[Updated] 10 Power Players YouTube's Ladies in Gaming</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-produce-playful-photoshopped-gifs-via-giphy/"><u>[Updated] 2024 Approved Produce Playful Photoshopped Gifs via Giphy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-digital-heroes-choice-top-10-astonishing-adventure-games/"><u>[Updated] In 2024, Digital Heroes' Choice Top 10 Astonishing Adventure Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incremental-sound-diminishment-guidebook/"><u>2024 Approved Incremental Sound Diminishment Guidebook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assessing-the-accuracy-of-chatgpt-and-bard-for-budgets/"><u>Assessing the Accuracy of ChatGPT and Bard for Budgets</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-eliminating-flicker-glitches-in-battle-royale-game/"><u>Effective Solutions for Eliminating Flicker Glitches in Battle Royale Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhanced-performance-in-naraka-bladepoint-game-crashes-fixed-now/"><u>Enhanced Performance in Naraka: Bladepoint - Game Crashes Fixed Now</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-infinix-hot-40-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Infinix Hot 40 Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-frame-rates-in-rainbow-six-extraction-proven-solutions-to-combat-fps-drops/"><u>Maximizing Frame Rates in Rainbow Six Extraction: Proven Solutions to Combat FPS Drops</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/primary-speaking-language-of-croatia/"><u>Primary Speaking Language of Croatia</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-compatibility-problems-between-corsair-icue-and-windows-operating-systems/"><u>Resolving Compatibility Problems Between Corsair iCUE and Windows Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-cs2-crashing-problems-on-pc-updated-solutions-for-202/"><u>Solving CS2 Crashing Problems on PC: Updated Solutions for 202^</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-manor-lords-game-crashes-steps-for-stable-pc-gaming/"><u>Solving Manor Lords Game Crashes: Steps for Stable PC Gaming</u></a></li>
+<li><a href="https://driver-install.techidaily.com/syncing-up-windows-with-samsung-ssd-efficiency/"><u>Syncing Up Windows with Samsung SSD Efficiency</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-gta-vs-errgfxd3dinit-graphics-error/"><u>Troubleshooting and Fixing GTA V's ERR_GFX_D3D_INIT Graphics Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-warzone-20-pc-game-crashes/"><u>Troubleshooting Guide: Fixing 'Warzone 2.0' PC Game Crashes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Overwatch's First-Time Boot Dilemma – No Image Showed
-date: 2024-10-06T23:24:09.183Z
-updated: 2024-10-08T22:00:04.545Z
+date: 2024-10-14T02:48:57.842Z
+updated: 2024-10-14T20:59:25.188Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 3. [**Change settings in your graphics control panel**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Set graphics preference to High performance**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Run Warzone in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -71,20 +78,20 @@ Here’s how you can check for updates manually:
 3. Click**Windows Update** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
@@ -104,20 +111,20 @@ Once done, restart your PC and see if Warzone is using your GPU.
 2. In the left pane, click**Manage 3D settings** . Click**CUDA – GPUs** and select your graphics card. Then click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-1.jpg)
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-2.jpg)
@@ -136,10 +143,10 @@ Once done, restart your PC and see if Warzone is using your GPU.
 3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (By default it’s_%USERPROFILE%\\Documents\\Call of Duty Modern Warfare_ )  
@@ -148,21 +155,14 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-1.jpg)
 5. In the pop-up window, select**High performance** and click**OK** to apply the settings.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-2.jpg)
 6. You can do the same for**Modern Warfare Launcher.exe** . Once done, start Warzone and compare the GPU utilization with the gameplay.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this setting doesn’t help, take a look at the next solution below.
@@ -195,16 +195,22 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-accelerated-screen-recordings-and-voice-over-assistance/"><u>[New] In 2024, Accelerated Screen Recordings & Voice Over Assistance</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-quickening-media-display-on-ppt/"><u>2024 Approved Quickening Media Display on PPT</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-freezes-forever-learn-how-pathfinder-for-pc-has-been-optimized-and-enhanced/"><u>Banish Freezes Forever! Learn How Pathfinder for PC Has Been Optimized and Enhanced</u></a></li>
-<li><a href="https://network-issues.techidaily.com/corrected-full-screen-windows-fail-to-appear-on-monitor-windows-10/"><u>Corrected: Full Screen Windows Fail to Appear on Monitor (Windows 10)</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12r-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12R Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y77t-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-pioneering-websites-for-modern-letterforms/"><u>In 2024, Pioneering Websites for Modern Letterforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-constant-steam-app-crashes-swift-strategies-to-stabilize-your-gaming-experience/"><u>Overcome Constant Steam App Crashes: Swift Strategies to Stabilize Your Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-game-interruptions-successful-fixes-to-stop-valheim-from-closing-on-pc/"><u>Overcoming Game Interruptions: Successful Fixes to Stop Valheim From Closing on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/red-dead-redemption-cuestion-de-solucion-en-la-pantalla-de-carga/"><u>Red Dead Redemption Cuestión De Solución en La Pantalla De Carga</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-bypass-issue-twitter-video-on-chrome-freeze/"><u>[New] 2024 Approved Bypass Issue Twitter Video on Chrome Freeze</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rom-humble-beginnings-to-prodigy-carryminatis-earnings-ajey-for-2024/"><u>[New] From Humble Beginnings to Prodigy CarryMinati's Earnings (Ajey) for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-affordable-pc-screen-grabber-selection-list/"><u>[New] In 2024, Affordable PC Screen Grabber Selection List</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-seeking-the-perfect-cut-choose-between-filmora-or-democreator/"><u>[Updated] 2024 Approved Seeking the Perfect Cut? Choose Between Filmora or Democreator</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-behind-the-scenes-creating-successful-youtube-shorts-videos-for-2024/"><u>[Updated] Behind the Scenes Creating Successful YouTube Shorts Videos for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-game-on-everywhere-selecting-top-5-emulators-for-playing-gb-classics-on-windows-pcs/"><u>[Updated] In 2024, Game On Everywhere! - Selecting Top 5 Emulators for Playing GB Classics on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/avatars-epic-journey-mastering-the-frontiers-of-pandora-on-windows-and-mac/"><u>Avatar’s Epic Journey - Mastering the Frontiers of Pandora on Windows and Mac</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-htc-u23-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best HTC U23 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-guide-resolving-nioh-2-game-crashes/"><u>Complete Guide: Resolving Nioh 2 Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-dark-meetings-the-ultimate-troubleshooting-steps-to-solve-zooms-pc-display-problem/"><u>No More Dark Meetings: The Ultimate Troubleshooting Steps to Solve Zoom's PC Display Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-loading-stagnation-on-your-madden-22-game-with-these-simple-steps/"><u>Overcome 'Loading' Stagnation on Your Madden 22 Game with These Simple Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/revitalize-your-matches-proven-techniques-to-combat-low-fps-problems-in-valorant-for-the-current-year/"><u>Revitalize Your Matches: Proven Techniques to Combat Low FPS Problems in Valorant for the Current Year</u></a></li>
+<li><a href="https://techtrends.techidaily.com/scarica-e-duplica-i-tuoi-dvd-preferiti-con-nessuna-degradazione-della-qualita-su-mac-big-sur/"><u>Scarica E Duplica I Tuoi DVD Preferiti Con Nessuna Degradazione Della Qualità Su Mac, Big Sur</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/secure-techniques-for-combining-several-vmdk-disks-into-a-single-file/"><u>Secure Techniques for Combining Several VMDK Disks Into a Single File</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-discord-streaming-issues-and-crashes/"><u>Troubleshooting Guide: Overcoming Discord Streaming Issues and Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-a-stable-rocket-league-overcoming-performance-lags/"><u>Troubleshooting Tips for a Stable Rocket League: Overcoming Performance Lags</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-resolving-assassins-creed-odyssey-pc-game-crashes-effortlessly/"><u>Troubleshooting: Resolving Assassin's Creed Odyssey PC Game Crashes Effortlessly</u></a></li>
 </ul></div>
 

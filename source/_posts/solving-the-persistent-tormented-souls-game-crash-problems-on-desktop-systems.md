@@ -1,7 +1,7 @@
 ---
 title: Solving the Persistent 'Tormented Souls' Game Crash Problems on Desktop Systems
-date: 2024-09-10T14:15:30.765Z
-updated: 2024-09-11T14:15:30.765Z
+date: 2024-10-08T22:22:15.013Z
+updated: 2024-10-15T02:07:51.754Z
 tags:
   - win11
   - win10
@@ -21,27 +21,10 @@ thumbnail: https://thmb.techidaily.com/280ddac45a43e26292eec3f07f23cb423510585b5
 
  If**Pathfinder: Wrath of the Righteous keeps crashing** on your Windows PC, don’t worry. Although it’s quite frustrating, you’re definitely not the only person that experiences this issue. The good news is you’ve come to the right place, and you should be able to fix this issue easily after reading this article.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## The system requirements of Pathfinder: Wrath of the Righteous for Windows PC
 
@@ -61,20 +44,6 @@ thumbnail: https://thmb.techidaily.com/280ddac45a43e26292eec3f07f23cb423510585b5
 
  If the game keeps crashing on your powerful PC, just read on and try the fixes below.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Try these fixes
 
  Whether the game crashes on startup or crashes in the middle of the game, you can find a fix to try in this article. You don’t need to try them all. Just work your way down the list until you find the one that works for you.
@@ -85,26 +54,6 @@ thumbnail: https://thmb.techidaily.com/280ddac45a43e26292eec3f07f23cb423510585b5
 4. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Verify integrity of game files
 
@@ -117,24 +66,25 @@ thumbnail: https://thmb.techidaily.com/280ddac45a43e26292eec3f07f23cb423510585b5
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
-
-
+![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Run Pathfinder: Wrath of the Righteous after the verifying process is complete and see if the game crashes again. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -151,38 +101,26 @@ thumbnail: https://thmb.techidaily.com/280ddac45a43e26292eec3f07f23cb423510585b5
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Install the latest game patch
 
@@ -199,6 +137,14 @@ thumbnail: https://thmb.techidaily.com/280ddac45a43e26292eec3f07f23cb423510585b5
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Pathfinder: Wrath of the Righteous_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
@@ -215,25 +161,12 @@ thumbnail: https://thmb.techidaily.com/280ddac45a43e26292eec3f07f23cb423510585b5
 
 If this fix didn’t work, try the next fix to perform a clean boot.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Perform a clean boot
 
@@ -247,54 +180,22 @@ Here’s how to do it:
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and launch Pathfinder: Wrath of the Righteous to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -323,8 +224,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -332,12 +231,24 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-transform-your-games-into-a-live-stream-spectacle/"><u>[New] In 2024, Transform Your Games Into a Live Stream Spectacle</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-macs-best-capture-exploring-leading-screen-recording-software/"><u>[New] Mac's Best Capture Exploring Leading Screen Recording Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-infuse-kinetic-smear-into-photos-in-photoshop-for-2024/"><u>[Updated] Infuse Kinetic Smear Into Photos in Photoshop for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-obs-and-streamlabs-battle-who-will-triumph-in-live-broadcasts/"><u>[Updated] OBS and Streamlabs Battle Who Will Triumph in Live Broadcasts?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unmatched-gaming-broadcasts-set-up-with-obs-for-2024/"><u>[Updated] Unmatched Gaming Broadcasts - Set Up with OBS for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoiding-dota-2-anti-cheat-penalties-fixes-for-2-error/"><u>Avoiding Dota 2 Anti-Cheat Penalties - Fixes for 2# Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/combat-latency-in-call-of-dutys-warzone-20-with-these-expert-tips-2er-2024/"><u>Combat Latency in Call of Duty's Warzone 2.0 with These Expert Tips - 2Er 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ffxiv-update-problems-how-to-ensure-successful-version-verification-processes/"><u>FFXIV Update Problems: How to Ensure Successful Version Verification Processes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-games-from-crashing-on-your-computer/"><u>How to Stop Games From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-the-zoom-cannot-initiate-video-streaming-problem-a-guide-with-five-methods/"><u>How to Troubleshoot the 'Zoom Cannot Initiate Video Streaming' Problem: A Guide with Five Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-frame-rate-in-rainbow-six-extraction-expert-tips-for-higher-fps/"><u>Improve Frame Rate in Rainbow Six Extraction – Expert Tips for Higher FPS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-creative-boundaries-with-high-quality-affects-plug-ins/"><u>In 2024, Explore Creative Boundaries with High-Quality Affects Plug-Ins</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-mix-fold-3-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi Mix Fold 3 Phone Now with These Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-startup-issues-in-far-cry-5-a-step-by-step-guide/"><u>Overcoming Startup Issues in Far Cry 5: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-to-prevent-valorant-from-crashing-out-of-nowhere-on-pc/"><u>Step-by-Step Solution to Prevent Valorant From Crashing Out of Nowhere on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-the-potential-crafting-top-tier-gopro-filming/"><u>Unlocking the Potential Crafting Top-Tier Gopro Filming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-pc-with-noctuas-latest-masterpiece-the-highly-anticipated-nh-d15g2-cpu-air-cooler-at-an-affordable-price/"><u>Upgrade Your PC with Noctua's Latest Masterpiece: The Highly Anticipated NH-D15G2 CPU Air Cooler at an Affordable Price</u></a></li>
+</ul></div>
 

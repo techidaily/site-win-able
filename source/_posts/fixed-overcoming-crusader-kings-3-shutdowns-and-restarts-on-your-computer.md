@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Overcoming Crusader Kings 3 Shutdowns and Restarts on Your Computer"
-date: 2024-10-02T16:19:09.156Z
-updated: 2024-10-08T22:18:11.143Z
+date: 2024-10-10T00:03:01.316Z
+updated: 2024-10-14T18:16:13.479Z
 tags:
   - win11
   - win10
@@ -82,10 +82,16 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 If Disco Elysium still crashes, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4 – Disable extraneous software
@@ -100,13 +106,6 @@ If Disco Elysium still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Restart your game to see if it runs correctly now.
 
  You may also need to disable your antivirus as game crashes is sometimes caused by interference from antivirus software. If your game works properly after you disable the antivirus software, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
@@ -114,6 +113,13 @@ If Disco Elysium still crashes, try the next fix below.
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 If Disco Elysium won’t work correctly, read on and try Fix 5.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5 – Verify integrity of game files
 
@@ -127,16 +133,16 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click **Disco Elysium – The Final Cut** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -152,6 +158,13 @@ If your game still crashes after this, try the fix below.
 
  If you’re overclocking your CPU or GPU, stop it. An unstable overclock will crash your game and the whole system. So, you should set your CPU clock speed rate back to the default to see if that resolves the crash issue.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 7 – Reinstall the game
 
  If your game is not properly installed on your PC or if your game version is outdated, you’re likely to run into issues like game crashes. Try reinstalling your game to see if that’s the problem for you:
@@ -162,35 +175,28 @@ If your game still crashes after this, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Disco Elysium – The Final Cut** , and select **Manage > Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2019-11-25_11-20-09-edited.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Restart Steam and reinstall the game.
 
 **5)** Relaunch your game.
 
 If the crashing issue still exists, there’s still 1 fix to try.
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 8: Check for Windows updates
 
@@ -204,16 +210,16 @@ If the crashing issue still exists, there’s still 1 fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Restart your computer and your game.
 
 If the game still crashes, then try the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 9 – Run as administrator
 
@@ -225,16 +231,16 @@ To run your game as administrator, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_16-59-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the **Compatibility** tab and check **Run this program as an administrator** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-00-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Repeat steps 1-2 to grant Steam admin rights.
 
@@ -261,22 +267,19 @@ To run your game as administrator, follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unleashing-creativity-advanced-obs-techniques-explained/"><u>[New] In 2024, Unleashing Creativity Advanced OBS Techniques Explained</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-smart-screenshot-assembly-leading-androidiphone-montage-aids/"><u>[Updated] Smart Screenshot Assembly Leading Android/iPhone Montage Aids</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-streamline-profitability-on-yt-post-monetization-financial-steps/"><u>2024 Approved Streamline Profitability on YT – Post-Monetization Financial Steps</u></a></li>
-<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-12-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off Apple iPhone 12 without Password</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-nubia-red-magic-9-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Nubia Red Magic 9 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-how-to-speed-up-video-streams-on-tiktok/"><u>In 2024, How to Speed Up Video Streams on TikTok</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-infinix-note-30-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Infinix Note 30 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-fake-followers-trap-on-youtube-landscapes/"><u>In 2024, Unveiling Fake Followers' Trap on YouTube Landscapes</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gamers-rejoice-as-la-noire-finally-arrives-for-microsoft-windows-users/"><u>PC Gamers Rejoice as 'L.A. Noire' Finally Arrives for Microsoft Windows Users!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quick-thumbs-up-creating-your-own-google-image-mosaic-for-2024/"><u>Quick Thumbs Up Creating Your Own Google Image Mosaic for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-for-players-overcoming-compatibility-problems-with-thaumaturge-on-personal-computers/"><u>Solutions for Players: Overcoming Compatibility Problems with Thaumaturge on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-superheroes-cant-visit-your-desktop-a-guide/"><u>Solving the 'Superheroes Can't Visit Your Desktop': A Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/successful-solutions-starting-problems-with-cs-2-explained/"><u>Successful Solutions: Starting Problems with CS 2 Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-tips-to-resolve-frequent-cities-skylines-pc-game-freezes/"><u>Top Tips to Resolve Frequent Cities: Skylines PC Game Freezes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-warzones-flickering-problem-for-smooth-gameplay-experience/"><u>Troubleshooting Warzone's Flickering Problem for Smooth Gameplay Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/warzone-visual-bugs-sorted-out-top-solutions-for-stable-gameplay-experience/"><u>Warzone Visual Bugs Sorted Out: Top Solutions for Stable Gameplay Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-against-dota-2s-crash-problem-top-solutions-for-uninterrupted-gaming/"><u>Winning Against Dota 2'S Crash Problem - Top Solutions for Uninterrupted Gaming</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-foremost-editing-software-for-mobile-creations/"><u>[New] Foremost Editing Software for Mobile Creations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-solutions-to-overcome-kernel-system-page-faults/"><u>Comprehensive Solutions to Overcome Kernel System Page Faults</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/does-poor-video-quality-mean-its-time-to-upgrade-from-zoom-exploring-causes/"><u>Does Poor Video Quality Mean It's Time To Upgrade From Zoom? Exploring Causes</u></a></li>
+<li><a href="https://win-able.techidaily.com/freeze-no-more-effective-solutions-for-optimizing-assassins-creed-odyssey-on-pc/"><u>Freeze No More: Effective Solutions for Optimizing Assassin's Creed Odyssey on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-overcome-the-launch-error-black-screen-in-helldivers-2-game/"><u>Guide to Overcome the Launch Error: Black Screen in Helldivers 2 Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-ensure-optimal-minecraft-performance-by-updating-your-device-drivers/"><u>How to Ensure Optimal Minecraft Performance by Updating Your Device Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-startup-problems-with-amd-radeon-graphics-driver-software/"><u>How to Overcome Startup Problems With AMD Radeon Graphics Driver Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-newbie-friendly-guide-to-winning-with-telegram-promotion/"><u>In 2024, Newbie-Friendly Guide to Winning with Telegram Promotion</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-professional-shooters-guide-to-stability/"><u>In 2024, Professional Shooters' Guide to Stability</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/modern-ai-metrics-beyond-the-historical-turing-index/"><u>Modern AI Metrics: Beyond the Historical Turing Index</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforma-mods-a-videos-mov-por-internet-sin-pago-con-la-ultima-tecnica-segura/"><u>Transforma MODs a Vídeos MOV Por Internet Sin Pago Con La Última Técnica Segura!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-nier-replicant-remaster-may-not-start-up/"><u>Troubleshooting Guide: Why NieR Replicant Remaster May Not Start Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-continuous-crashes-in-outlook-software/"><u>Troubleshooting Tips: Resolving Continuous Crashes in Outlook Software</u></a></li>
+<li><a href="https://win-web3.techidaily.com/wie-man-den-uefi-secure-boot-fur-die-installation-von-windows-11-aktiviert-anleitung-und-tipps/"><u>Wie Man Den UEFI Secure Boot Für Die Installation Von Windows 11 Aktiviert - Anleitung Und Tipps</u></a></li>
 </ul></div>
 

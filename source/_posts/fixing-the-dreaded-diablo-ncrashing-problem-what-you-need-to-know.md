@@ -1,7 +1,7 @@
 ---
 title: Fixing the Dreaded Diablo nCrashing Problem - What You Need to Know
-date: 2024-09-10T14:13:15.981Z
-updated: 2024-09-11T14:13:15.981Z
+date: 2024-10-12T17:56:28.537Z
+updated: 2024-10-14T23:12:36.064Z
 tags:
   - win11
   - win10
@@ -19,33 +19,10 @@ Many Red Dead Redemption 2 players are reporting that they can’t even get past
 
  If you run into an**infinite loading screen** ,**not responding** , or**crashing to desktop** error, don’t panic. You’re definitely not alone and many players have solved their issues with the fixes below:
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -135,37 +112,23 @@ There are two ways you can update your graphics drivers:
 
 ![click scan now](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-3.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
 ![update all drivers with driver easy](https://images.drivereasy.com/wp-content/uploads/2019/11/update-all-your-drivers-1.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Note: You can do it for free if you like, but it’s partly manual.
 
@@ -193,39 +156,11 @@ Note: You can do it for free if you like, but it’s partly manual.
 
 ![delete Rockstar launcher profiles](https://images.drivereasy.com/wp-content/uploads/2019/11/launcher-settings-1024x482.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  4) Sign in to the Rockstar Games Launcher again and launch Red Dead Redemption 2.
 
 If this method doesn’t work for you, you can try the next fix.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Run Red Dead Redemption 2 as admin
 
@@ -263,6 +198,13 @@ If this method doesn’t work for you, you can try the next fix.
 
 ![NVIDIA control panel](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-control-panel-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under Manage 3D settings, click**Program Settings** \>**Add** \> select your**Red Dead Redemption 2 exe.** program file.  
   
  Then scroll down the list and click**Vertical sync** and**Triple buffering** and select them both On. Click**Apply** to save the changes.
@@ -279,19 +221,12 @@ If this method doesn’t work for you, you can try the next fix.
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 7: Add Graphics Tools
 
@@ -311,6 +246,13 @@ If this method doesn’t work for you, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/add-a-graphics-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Once complete, restart your computer.
 
 #### in Windows 11
@@ -321,37 +263,16 @@ If this method doesn’t work for you, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Settings-Apps-Optional-features-1200x658.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click on the**View features** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Settings-Apps-Optional-features-View-features-1200x658.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  4) Scroll down and find**Graphics Tools** , then check the box and click**Next** .
 
@@ -360,20 +281,6 @@ If this method doesn’t work for you, you can try the next fix.
  5) Click**Install** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Graphics-Tools-Install-1200x658.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Wait for it to finish the process.
 
@@ -389,26 +296,6 @@ Wait for it to finish the process.
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/11/system-configuration.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) Click the **Services** tab and check the **Hide all Microsoft services** box, then click **Disable all** .
 
 ![disable all services](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services-1.png)
@@ -417,43 +304,9 @@ Wait for it to finish the process.
 
 ![Open task manager](https://images.drivereasy.com/wp-content/uploads/2019/11/open-task-manager-1.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  4) Under the Startup tab, select each startup item and then click**Disable** .
 
 ![disable all startup apps](https://images.drivereasy.com/wp-content/uploads/2019/11/image-1019-1.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  5) Go back to**System Configuration** , click**OK** .
 
@@ -466,20 +319,6 @@ Wait for it to finish the process.
 * After enabling each startup application, you need to restart your computer again to find the conflicting one.
 
  Once you find out the problematic software, you may need to uninstall it to avoid running into the same issue in the future.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 9: Repair your system files
 
@@ -503,20 +342,6 @@ Wait for it to finish the process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 #### Option 2 – Manually
 
  To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your personal data.
@@ -529,6 +354,13 @@ Wait for it to finish the process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -539,25 +371,12 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  4) You may receive something like the following messages after the verification.
 
@@ -608,8 +427,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -617,12 +434,20 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-4k-odyssey-begins-here-exploring-the-eizo-cg318-4k-monitor/"><u>[New] A 4K Odyssey Begins Here – Exploring the EIZO CG318-4K Monitor</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-a-deeper-dive-into-documenting-gaming-sessions-on-the-ps3/"><u>[New] A Deeper Dive Into Documenting Gaming Sessions on the PS3</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-exploring-the-latest-in-instagram-filters-for-stunning-visuals-for-2024/"><u>[Updated] Exploring the Latest in Instagram Filters for Stunning Visuals for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-update-2024-bug-exposed-solutions-inside/"><u>Cyberpunk 2077 Update 2024 Bug Exposed - Solutions Inside</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-premier-selection-of-external-blu-ray-writers-tech-enthusiasts/"><u>Discover the Premier Selection of External Blu-Ray Writers Tech Enthusiasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-beat-destiny-2s-centipede-error-and-get-back-to-gaming/"><u>How to Beat Destiny 2’S Centipede Error and Get Back to Gaming</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 with a Mask On</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repaired-epson-printer-printing-anomalies/"><u>Repaired: Epson Printer Printing Anomalies</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-crashes-in-everspaced-2-on-desktop-systems-expert-fixes/"><u>Resolving Crashes in EverSpaced 2 on Desktop Systems - Expert Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-warzone-textures-not-loading/"><u>Solved: Warzone Textures Not Loading</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-overcoming-steam-friends-not-available-problems/"><u>Solved! Overcoming 'Steam Friends Not Available' Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002410064-solving-league-of-legends-stalling-problems-in-minutes-learn-how/"><u>Solving League of Legends Stalling Problems in Minutes – Learn How</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-startup-issues-with-starfield-game-on-steam-and-xbox/"><u>Troubleshooting Guide: Resolving Startup Issues with Starfield Game on Steam & Xbox</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix the Notorious 'Black Screen' Problem"
-date: 2024-09-10T14:10:12.732Z
-updated: 2024-09-11T14:10:12.732Z
+date: 2024-10-13T23:55:29.622Z
+updated: 2024-10-14T16:56:49.895Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/e696268502b283ed640a05098ec06b8044deb546b
 
 **[Hitman 3](https://www.epicgames.com/store/en-US/p/hitman-3?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=ed55aa5edc5941de92fd7f64de415793)**  has been out! But for some players, it only shows a black screen when loading. This is frustrating since it doesn’t allow you to even go past its opening scene. But the good news is, it’s fixable.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -62,20 +59,6 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 2: Allow Hitman 3 through firewall
 
  Windows firewall and anti-virus software are intended to protect your computer from malware attacks. However, there’s a possibility that your game is perceived as viruses and they stop it from booting up. In this cause, you need to make sure the firewall is not blocking your game. Follow the steps to do this:
@@ -86,37 +69,9 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) From the left panel, click **Allow an app or feature through Windows Defender Firewall** .
 
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  3) Now you need to scroll down until you can find**HITMAN 3** . Make sure it’s ticked for Private and Public.
 
@@ -131,6 +86,13 @@ To play Hitman 3, you need a PC with the following minimum specs:
  If you’re using other anti-virus software, make sure you whitelist HITMAN 3\. If it still didn’t help you boot up HITMAN 3 properly, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -159,38 +121,10 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -212,20 +146,6 @@ Here’s how to do this:
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 5: Try a different display mode
 
  Some players reported that there are some issues with the PC and the game running in the default display mode. To get past the black screen, trying a different mode before hitting the**PLAY** button could help you fix it.
@@ -236,47 +156,34 @@ Here’s how:
   
 ![try a different display mode](https://images.drivereasy.com/wp-content/uploads/2021/01/full-screen-mode-options.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2) In the**Display Mode** section, select a different display mode to test which one helps you fix the issue.
 
 ![try a different display mode in HITMAN 3](https://images.drivereasy.com/wp-content/uploads/2021/01/try-a-different-display-mode.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If you’ve tried the other display modes but the game still just shows you a black screen, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Disable unnecessary programs
 
@@ -290,27 +197,27 @@ Here’s how to disable programs in Task Manager:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-from-the-taskbar-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the **Processes** tab, check the programs that are using more CPU from the list. Then right-click on those programs and select **End task** .  
   
 ![check cpu usage and end the tasks that are using more cpu](https://images.drivereasy.com/wp-content/uploads/2020/10/check-cpu-usage-and-end-the-task.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the **Startup**  tab, you can additionally prevent some programs from starting up on system boot. This will lower your overall cpu usage when using your PC.  
   
 ![stop-programs-running-at-startup](https://images.drivereasy.com/wp-content/uploads/2020/10/stop-programs-running-at-startup-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  After you’ve done these, try to launch Hitman 3 and you should be able to load into the game.
 
@@ -326,8 +233,6 @@ Here’s how to disable programs in Task Manager:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -335,12 +240,22 @@ Here’s how to disable programs in Task Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-enhancing-social-engagement-with-zoom-fb-live-streams-for-2024/"><u>[New] Enhancing Social Engagement with Zoom-FB Live Streams for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-red-dead-redemption-2-crashing-on-pc/"><u>[Solved] Red Dead Redemption 2 Crashing on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-bringing-your-vision-to-life-posting-photos-on-youtube/"><u>2024 Approved Bringing Your Vision to Life Posting Photos on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/finding-out-what-my-email-is-simple-methods-and-tips/"><u>Finding Out What My Email Is - Simple Methods and Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/gmail-whitelisting-guide-mastering-email-protection/"><u>Gmail Whitelisting Guide: Mastering Email Protection</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-a15-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-repair-amd-radeon-software-startup-failures/"><u>How to Successfully Repair AMD Radeon Software Startup Failures</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-lava-blaze-curve-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Lava Blaze Curve 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/itunes-audio-problem-fixed-update-your-system-now/"><u>ITunes Audio Problem Fixed - Update Your System Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-roblox-launch-troubles-pro-tips-and-solutions-for-the-modern-player/"><u>Mastering Roblox Launch Troubles: Pro Tips and Solutions for the Modern Player</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-gameplay-solutions-for-code-veins-freezing-problems/"><u>Optimizing Gameplay: Solutions for Code Vein's Freezing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-issues-in-red-dead-redemption-2-solutions-and-tips-for-gamers/"><u>Overcoming Launch Issues in Red Dead Redemption 2 - Solutions and Tips for Gamers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/steps-for-successful-extraction-of-fb-content/"><u>Steps for Successful Extraction of FB Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-stop-dota-2-from-suddenly-shutting-down/"><u>Troubleshooting Tips: Stop Dota 2 From Suddenly Shutting Down</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-to-intel-irisplus-graphics-655-essential-drivers-for-windows-10-and-11-users/"><u>Upgrade to Intel Iris+ Graphics 655: Essential Drivers for Windows 10 and 11 Users</u></a></li>
+</ul></div>
 

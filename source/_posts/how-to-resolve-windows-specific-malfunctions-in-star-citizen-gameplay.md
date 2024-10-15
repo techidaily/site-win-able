@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Windows-Specific Malfunctions in Star Citizen Gameplay
-date: 2024-09-10T14:16:54.409Z
-updated: 2024-09-11T14:16:54.409Z
+date: 2024-10-12T22:12:05.941Z
+updated: 2024-10-14T18:13:19.376Z
 tags:
   - win11
   - win10
@@ -21,27 +21,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
  💗If you like this post, please enter **DRIVEREASY** in the SUPPORT A CREATOR section to support us! Much Love!💗
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Minimum system requirements for Fortnite
 
@@ -53,20 +36,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **Processor**        | **Core i3 2.4 Ghz** |
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Recommended system requirements for Fortnite
 
@@ -92,6 +61,13 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Lower graphics settings
 
  It is possible that the black screen issue occurs because of your graphics card cannot capable the high settings in the game or the game and your graphics card are not compatible with the latest build that you’re using. So try to lower graphics settings in Fortnite to see whether it resolves this problem or not.
@@ -107,23 +83,16 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method: Update your graphics card
 
@@ -156,35 +125,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 ---
 
@@ -207,39 +156,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Method 6: Unblock the game from Windows Firewall
 
@@ -251,24 +180,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
@@ -288,8 +205,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -297,12 +212,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-peeling-away-at-sharex-comparative-views-and-substitutes-for-2024/"><u>[New] Peeling Away at ShareX Comparative Views & Substitutes for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-into-the-world-of-film-making-effective-use-of-movie-maker-on-windows-8-pcs/"><u>[New] Step Into the World of Film Making Effective Use of Movie Maker on Windows 8 PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-vanguard-patch-notes-for-fixing-error-5573/"><u>Call of Duty: Vanguard Patch Notes for Fixing Error 5573</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-romance-ways-chatgpt-can-boost-your-love-life/"><u>Enhancing Romance: Ways ChatGPT Can Boost Your Love Life</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-and-improve-frame-rate-drops-for-forza-horizon-5-on-a-pc-setup/"><u>How to Address and Improve Frame Rate Drops for Forza Horizon 5 on a PC Setup</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-combining-forces-sharing-tweets-on-facebook-networks/"><u>In 2024, Combining Forces Sharing Tweets on Facebook Networks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-iphone-12-mini-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From iPhone 12 mini Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-crashes-solved-issues-with-team-fortress-2-stability/"><u>No More Crashes: Solved Issues with Team Fortress 2 Stability</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-input-lag-in-valorant-tips-and-tricks-for-a-smoother-experience-2024-edition/"><u>Overcoming Input Lag in Valorant: Tips and Tricks for a Smoother Experience, 2024 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-hang-ups-on-windows-10-with-these-simple-steps/"><u>Resolve Hang-Ups on Windows 10 With These Simple Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-for-flawless-audio-transitions-with-audacity-for-2024/"><u>Step-by-Step for Flawless Audio Transitions with Audacity for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-the-helldivers-2-bsod-issue/"><u>Ultimate Guide: Resolving the Helldivers 2 BSoD Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-fixing-modern-warfares-error-6034-on-pc-and-xbox-platforms/"><u>Ultimate Troubleshooting Tips for Fixing Modern Warfare's Error 6034 on PC and Xbox Platforms</u></a></li>
+</ul></div>
 

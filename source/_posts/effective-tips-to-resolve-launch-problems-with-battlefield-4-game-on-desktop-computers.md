@@ -1,7 +1,7 @@
 ---
 title: Effective Tips to Resolve Launch Problems with Battlefield 4 Game on Desktop Computers
-date: 2024-09-10T14:16:52.100Z
-updated: 2024-09-11T14:16:52.100Z
+date: 2024-10-08T20:04:02.678Z
+updated: 2024-10-14T19:29:02.961Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ thumbnail: https://thmb.techidaily.com/363cfd8ccc7387dbea9a9af2228add755c6db4677
 
  Lost Ark is one of the most anticipated MMORPGs of 2022\. However, since its release, many players have been complaining about the Lost Ark not launching issue. If you’re also stuck on the loading screen or running into a black screen, don’t worry. After reading this post, you’ll learn some easy and quick fixes to get your Lost Ark back to work.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -47,58 +44,41 @@ thumbnail: https://thmb.techidaily.com/363cfd8ccc7387dbea9a9af2228add755c6db4677
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-defender-firewall-1.jpg)
 2. Click**Allow an app or feature through Windows Defender Firewall** from the left pane.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-2.jpg)
 3. Click**Change settings** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-3.jpg)
 4. Scroll down to locate Lost Ark. Then**check the boxes under the Domain, Private and Public tabs** , and click**OK** to save the settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-denfender-firewall-lost-ark.jpg)
 5. If you can’t find the game on the list, click**Allow another app** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-4.jpg)
 6. Click**Browse** , navigate to the Lost Ark installation folder and choose the**LostArk.exe file** . Then click**Add** .
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 7. Make sure the game is allowed for Domain, Private and Public access, and click**OK** to confirm the changes.
 
 Now see if you could start the game. If not, try the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Verify integrity of game files
 
@@ -108,18 +88,12 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Lost Ark** and select**Properties** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Click the**Local Files** tab, and click**Verify integrity of game files** .  
@@ -140,55 +114,20 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  You can also get the drivers you need for free, but you’ll need to download them one at a time and manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  A driver update should greatly improve your game experience. But if this doesn’t resolve the problem, check out the next solution.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4 – Run Lost Ark as an administrator
 
@@ -199,41 +138,8 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-2.jpg)
 3. Select the**Compatibility** tab. Tick**Disable full-screen optimizations** and**Run this program as an administrator** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click**OK** .
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  Try launching the game to see how things go. Still no luck? Take a look at the next method.
 
@@ -248,26 +154,6 @@ Now see if you could start the game. If not, try the next method.
 
  Restart and check the game. If it still can’t get past the loading screen, continue to Fix 6.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 6 – Switch to DX9
 
  Some Lost Ark players experienced performance issues such as crashing or stuttering when running the game on DX11\. If you’re in the same situation, launching the game in DX9 may mitigate your problem.
@@ -278,20 +164,6 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under Launch Options, type**\-force-d3d9** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/swtich-to-dx9.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Now relaunch Steam and Lost Ark. Is it able to work correctly in the DX9 version? If not, try the next fix below.
 
@@ -306,36 +178,37 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Restart your game and check if Lost Ark goes back to the normal state.
 
@@ -352,8 +225,6 @@ Restart your game and check if Lost Ark goes back to the normal state.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -361,12 +232,26 @@ Restart your game and check if Lost Ark goes back to the normal state.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-maximizing-traffic-with-effective-youtube-titles/"><u>[New] 2024 Approved Maximizing Traffic with Effective YouTube Titles</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-customize-confidently-express-optimizing-your-voice-on-snapchat-for-2024/"><u>[New] Customize, Confidently Express Optimizing Your Voice on Snapchat for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-integrating-websites-into-your-instagram-presence/"><u>[New] Integrating Websites Into Your Instagram Presence</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-ghostrunner-fatal-error-on-windows-10/"><u>[Solved] Ghostrunner Fatal Error on Windows 10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-leading-free-art-pages-for-easy-no-cost-illustrations/"><u>[Updated] 2024 Approved Leading Free Art Pages for Easy, No-Cost Illustrations</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-mastering-macpc-compatible-tiktok-uploads/"><u>[Updated] 2024 Approved Mastering MAC/PC Compatible TikTok Uploads</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-enhancing-soundscapes-mastering-audacity-crossfading/"><u>2024 Approved Enhancing Soundscapes Mastering Audacity Crossfading</u></a></li>
+<li><a href="https://discover-best.techidaily.com/come-upload-a-dvd-on-google-drive-successfully-guided-tutorial/"><u>Come Upload a DVD on Google Drive - Successfully Guided Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-gameplay-fluidity-solutions-to-dying-light-2s-frame-rate-problems-on-pc/"><u>Enhancing Gameplay Fluidity: Solutions to Dying Light 2'S Frame Rate Problems on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010534074-how-i-fixed-the-issue-of-chromes-high-cpu-usage-for-good/"><u>How I Fixed the Issue of Chrome's High CPU Usage for Good</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-and-resolve-armored-core-vi-startup-failures/"><u>How to Address and Resolve Armored Core VI Startup Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-hiccups-origin-user-account-access-is-live-and-working/"><u>No More Hiccups: Origin User Account Access Is Live and Working!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-launching-difficulties-mastering-multiversus-startup-for-pc-users/"><u>Overcome Launching Difficulties: Mastering MultiVersus Startup for PC Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-frequent-pc-shutdowns-while-playing-overwatch-2/"><u>Overcoming Frequent PC Shutdowns While Playing Overwatch 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-persistent-load-screen-errors-in-among-us-for-uninterrupted-fun/"><u>Resolving Persistent Load Screen Errors in Among Us for Uninterrupted Fun</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/starfield-update-fixes-previous-freezing-and-crash-problems-for-pc-gamers/"><u>Starfield Update Fixes Previous Freezing & Crash Problems for PC Gamers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-zte-blade-a73-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from ZTE Blade A73 5G FRP Bypass</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-and-install-canon-mg2900-printing-device-software/"><u>Update and Install Canon MG2900 Printing Device Software</u></a></li>
+</ul></div>
 

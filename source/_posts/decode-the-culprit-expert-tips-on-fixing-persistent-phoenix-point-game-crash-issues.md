@@ -1,7 +1,7 @@
 ---
 title: "Decode the Culprit: Expert Tips on Fixing Persistent Phoenix Point Game Crash Issues"
-date: 2024-10-07T20:42:43.414Z
-updated: 2024-10-08T19:38:11.227Z
+date: 2024-10-08T06:39:39.863Z
+updated: 2024-10-14T18:38:59.943Z
 tags:
   - win11
   - win10
@@ -130,6 +130,13 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  If you still have random crashes with FIFA 20, you should give the next fix a try.
@@ -137,16 +144,10 @@ In case you don’t know how, here’s the guidance:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 2: Roll back your graphics card driver**
@@ -165,31 +166,30 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
 
  4) Choose one of the reasons based on your own situation and click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Restart your computer for the changes to take effect.
 
  Now run FIFA 20 and check whether your crashing problem still exists. If it does, then please proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update Windows operating system
 
@@ -209,6 +209,13 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Change DirectX settings
 
  When your FIFA 20 crashes with an error message mentioning “DirectX,” you’re most likely having a DirectX issue that requires you to change related settings of the game.
@@ -226,10 +233,10 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
@@ -241,13 +248,6 @@ In case you don’t know how, here’s the guidance:
  Run FIFA 20 and check whether it continues to crash. If it does, try out the next fix then.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Adjust settings in NVIDIA Control Panel
 
@@ -262,6 +262,13 @@ In case you don’t know how, here’s the guidance:
  On completion, click**Apply** to save the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
 
@@ -285,28 +292,15 @@ If you continue to face the crashing problem, please move on to Fix 6.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
@@ -328,13 +322,6 @@ sfc /scannow
 
 ![This image has an empty alt attribute; its file name is image-182.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If prompted for consent, click **Yes** .
 
  2) In Command Prompt, type the following command (**note** that there’s a space to the left of each slash “/”):
@@ -344,6 +331,13 @@ dism.exe /online /cleanup-image /restorehealth
  After that, hit **Enter** on your keyboard. Then the DISM tool will begin to scan for any problems and try to fix them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
@@ -385,20 +379,24 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-breaking-barriers-making-your-post-a-sensation-on-fb/"><u>[New] Breaking Barriers Making Your Post a Sensation on FB</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-enhance-live-stream-performance-with-these-5-pro-tips-for-2024/"><u>[New] Enhance Live Stream Performance with These 5 Pro Tips for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-direct-linking-of-youtube-content-to-facebook-feeds-via-autoplay-settings/"><u>[New] In 2024, Direct Linking of YouTube Content to Facebook Feeds via Autoplay Settings</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlocking-your-potential-for-higher-instagram-video-visibility/"><u>[Updated] In 2024, Unlocking Your Potential for Higher Instagram Video Visibility</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-crafting-photos-into-engaging-videos-in-pixiz/"><u>2024 Approved Step-by-Step Crafting Photos Into Engaging Videos in Pixiz</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-htc-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to HTC FRP Bypass Instantly</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-list-editors-for-android-pics/"><u>A-List Editors for Android Pics</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefront-2-pc-performance-optimization-solving-slow-launch-problems/"><u>Battlefront 2 PC Performance Optimization - Solving Slow Launch Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-2024-solution-manual-fixing-discord-latency-problems/"><u>Complete 2024 Solution Manual: Fixing Discord Latency Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000883214-deal-with-outdated-minecraft-drivers-learn-the-simple-trick-to-upgrade-and-enjoy-smooth-gameplay/"><u>Deal with 'Outdated' Minecraft Drivers? Learn the Simple Trick to Upgrade and Enjoy Smooth Gameplay!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-your-noxplayer-from-recurrently-shutting-down-on-laptop-or-computer/"><u>How to Stop Your NoxPlayer From Recurrently Shutting Down on Laptop or Computer</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-honor-x7b-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Honor X7b Phones</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-for-continuous-freezing-issues-in-lost-ark-pc-version/"><u>Resolved: Fixes for Continuous Freezing Issues in Lost Ark PC Version</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-the-persistent-screen-flicker-problem/"><u>Resolved: Fixing the Persistent Screen Flicker Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-prevent-and-fix-pc-issues-with-cult-of-the-lamb/"><u>Step-by-Step Guide: Prevent and Fix PC Issues with Cult of the Lamb</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-from-live-to-recorded-a-discord-journey/"><u>[Updated] 2024 Approved From Live to Recorded A Discord Journey</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-aspiring-asmr-producers-guide-to-video-excellence/"><u>[Updated] 2024 Approved The Aspiring ASMR Producer's Guide to Video Excellence</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boost-creativity-with-free-audio-effects-online/"><u>[Updated] In 2024, Boost Creativity with Free Audio Effects Online</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-from-overflow-to-organization-editing-giant-tiktok-files-with-precision/"><u>[Updated] In 2024, From Overflow to Organization Editing Giant TikTok Files with Precision</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999619643-cracking-the-case-wider-open-play-leo-noirre-now-on-pc-everything-unveiled/"><u>Cracking the Case Wider Open: Play 'L.eo. Noirre' Now on PC – Everything Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-when-your-dells-usb-port-stops-responding/"><u>Effective Solutions: When Your Dell's USB Port Stops Responding</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-experience-increasing-fps-on-tainted-grail-conquest/"><u>Elevate Your Experience - Increasing FPS on 'Tainted Grail: Conquest'</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-image-clarity-solutions-for-resolving-fuzzy-graphics-in-cod-warzone-pc-version/"><u>Enhancing Image Clarity: Solutions for Resolving Fuzzy Graphics in COD: Warzone (PC Version)</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-gta-5-crashing-woes-tips-and-solutions-explored/"><u>Fix Your GTA 5 Crashing Woes - Tips & Solutions Explored</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-centipede-glitch-in-your-destiny-2-adventure/"><u>How to Overcome the 'Centipede' Glitch in Your Destiny 2 Adventure</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-performance-issues-in-farming-simulator-22-understanding-frame-rate-dips/"><u>PC Performance Issues in Farming Simulator 22: Understanding Frame Rate Dips</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-fatal-exception-in-wow-understanding-and-fixing-error-132/"><u>Resolving Fatal Exception in WoW: Understanding and Fixing Error 132</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/say-goodbye-to-streaming-struggles-mastering-the-resolution-of-netflix-error-nw-1-19/"><u>Say Goodbye to Streaming Struggles: Mastering the Resolution of Netflix Error NW-1-19</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-why-does-my-overwatch-2-continuously-crash-on-pc/"><u>Solving the Issue: Why Does My Overwatch 2 Continuously Crash on PC?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-strategies-for-selecting-an-ideal-selfie-stick/"><u>Top 6 Strategies for Selecting an Ideal Selfie Stick</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-common-issues-resolving-halo-3s-computer-system-failures/"><u>Troubleshooting Common Issues: Resolving Halo 3'S Computer System Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-directx-issues-in-battlefield-2042/"><u>Ultimate Guide: Resolving DirectX Issues in Battlefield 2042</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-resolving-missing-wlanapidll-issues-in-windows-systems/"><u>Understanding and Resolving Missing WLanapi.dll Issues in Windows Systems</u></a></li>
 </ul></div>
 

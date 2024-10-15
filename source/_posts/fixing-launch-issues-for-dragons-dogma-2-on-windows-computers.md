@@ -1,7 +1,7 @@
 ---
 title: Fixing Launch Issues for Dragon's Dogma 2 on Windows Computers
-date: 2024-10-02T18:06:57.080Z
-updated: 2024-10-08T18:13:52.561Z
+date: 2024-10-07T23:50:38.237Z
+updated: 2024-10-14T20:27:21.176Z
 tags:
   - win11
   - win10
@@ -70,30 +70,24 @@ The Ascent
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch the game again and check if this fix works. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -110,15 +104,15 @@ The Ascent
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -142,23 +136,16 @@ The Ascent
 3. In the GENERAL section, enter`**-dx11**` under LAUNCH OPTIONS. By doing that, Steam will run the game with DirectX 11 next time.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Run The Ascent with DriectX 11](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-The-Ascent-with-DriectX-11.jpg)
 4. Launch The Ascent and see if this issue persists.
 
 If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable Movie / Film Grain, Depth Of Field, Post-Process Effects
 
@@ -170,13 +157,6 @@ If the game still crashes, try the next fix, below.
 **`%LOCALAPPDATA%\TheAscent\Saved\Config\WindowsNoEditor`**  
 ![Run dialog](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-dialog.jpg)
 2. Open the file**Engine.ini** in Notepad.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. To disble Moive / Film Grain, add the following and save the file:  
 
@@ -197,6 +177,13 @@ If the game still crashes, try the next fix, below.
 6. Launch the game again after you save the Engine.ini file.
 
  See if it crashes after you disable those in-game graphics settings. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update MS Visual C++ Redistributables
 
@@ -229,36 +216,38 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
  Restart your PC and launch The Ascent to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -295,16 +284,19 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-cutting-edge-8-screen-tech-lists/"><u>[New] 2024 Approved Cutting-Edge 8 Screen Tech Lists</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-from-cluttered-to-clear-a-canva-guide-for-borders-removal/"><u>[New] In 2024, From Cluttered to Clear A Canva Guide for Borders Removal</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-f1-2021-keeps-crashing-on-pc/"><u>[SOLVED] F1 2021 Keeps Crashing on PC</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/casting-made-simple-directly-stream-google-meet-to-youtube-for-2024/"><u>Broadcasting Made Simple Directly Stream Google Meet to YouTube for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-access-denied-roblox-game-due-to-pc-settings/"><u>Fixing Access Denied Roblox Game Due To PC Settings</u></a></li>
-<li><a href="https://win-able.techidaily.com/forza-horizon-5-lag-solutions-optimize-your-gameplay-and-enjoy-seamless-performance/"><u>Forza Horizon #5 Lag Solutions - Optimize Your Gameplay and Enjoy Seamless Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-graphics-glitch-fixes-for-errgfxstate-issue/"><u>Red Dead Redemption 2 Graphics Glitch - Fixes for ERR_GFX_STATE Issue</u></a></li>
-<li><a href="https://blog-min.techidaily.com/resolve-mobile-streaming-hiccups-how-to-fix-movietube-malfunctioning-on-smartphones-and-tablets/"><u>Resolve Mobile Streaming Hiccups: How to Fix MovieTube Malfunctioning on Smartphones & Tablets</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/step-by-step-guide-to-understanding-vr-technology/"><u>Step-by-Step Guide to Understanding VR Technology</u></a></li>
-<li><a href="https://win-able.techidaily.com/what-you-need-to-know-about-the-latest-update-on-mafia-definitive-edition-launch/"><u>What You Need to Know About the Latest Update on Mafia: Definitive Edition Launch</u></a></li>
-<li><a href="https://win-able.techidaily.com/wrc-10-fixes-how-to-play-the-fifa-2018-world-rally-game-without-issues-on-your-computer/"><u>WRC 10 Fixes: How to Play the FIFA 2018 World Rally Game Without Issues on Your Computer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-tips-on-inserting-captions-into-youtube-videos-for-2024/"><u>[Updated] Expert Tips on Inserting Captions Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-the-best-text-voice-generators-for-all-platforms/"><u>2024 Approved The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/hogwarts-legacy-not-opening-heres-what-you-need-to-know/"><u>Hogwarts Legacy Not Opening? Here's What You Need to Know !</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-riot-games-addressed-the-202e-connectivity-issue-in-lols-latest-patch/"><u>How Riot Games Addressed the 202E Connectivity Issue in LoL's Latest Patch</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-more-than-just-watch-time-understanding-youtube-views-calculation/"><u>In 2024, More than Just Watch Time Understanding YouTube Views Calculation</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stream-stability-essential-troubleshooting-steps-for-twitch-glitches/"><u>Mastering Stream Stability: Essential Troubleshooting Steps for Twitch Glitches</u></a></li>
+<li><a href="https://article-tips.techidaily.com/optimal-card-selection-for-professional-video-editing/"><u>Optimal Card Selection for Professional Video Editing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-a25-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy A25 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-no-more-freezes-smooth-sailing-with-assassins-creed-odyssey-on-pc/"><u>Resolved: No More Freezes - Smooth Sailing with Assassin's Creed Odyssey on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-ghostrunner-critical-crashes-in-windows-11-a-complete-guide/"><u>Resolving GhostRunner Critical Crashes in Windows 11 - A Complete Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-platform-debate-which-appliance-prevails-podcast-or-youtube/"><u>The Platform Debate Which Appliance Prevails – Podcast or YouTube?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-unseen-obstacles-of-crafting-genuine-intellect-how-apple-and-samsung-cast-doubt-over-microsofts-ai-ambitions-insight/"><u>The Unseen Obstacles of Crafting Genuine Intellect: How Apple & Samsung Cast Doubt over Microsoft's AI Ambitions Insight</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-team-communication-get-your-league-of-legends-voice-chat-working-again/"><u>Trouble with Team Communication? Get Your League of Legends Voice Chat Working Again</u></a></li>
 </ul></div>
 

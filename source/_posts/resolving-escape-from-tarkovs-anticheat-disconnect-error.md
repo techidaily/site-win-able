@@ -1,7 +1,7 @@
 ---
 title: Resolving Escape From Tarkov's 'Anticheat Disconnect Error'
-date: 2024-10-07T19:06:04.480Z
-updated: 2024-10-08T19:25:14.490Z
+date: 2024-10-10T16:06:37.853Z
+updated: 2024-10-15T05:09:23.072Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 2. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Switch DirectX versions](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Check if your PC meets the system requirements for Anno 1800](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -86,18 +79,18 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , then copy & paste **dxdiag** into the box and click **dxdiag** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
 
  2) Check out your **DirectX version** in the first page of the report.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) If you’re running DirectX 11 or below and Anno 1800 crashes, you can try[**updating DirectX 12**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem. If you’re running DirectX and Anno 1800 crashes, you can try[**switching to DirectX 11**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem.
 
@@ -108,22 +101,15 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 
@@ -137,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-236.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Open the engine.ini file.
 
 3) Change**DeviceType: DX 12** to**DX 11** and**Adapter: 1** to**Adapter: 0** .
@@ -144,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 4) Check to see if Anno 1800 DirectX error crashes problem is resolved. If not, please try**Fix 4** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check if your PC meets the system requirements for Anno 1800
 
@@ -174,10 +174,10 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
@@ -210,16 +210,18 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-understanding-user-psychology-in-youtube-shorts-template-design/"><u>[New] Understanding User Psychology in YouTube Shorts Template Design</u></a></li>
-<li><a href="https://win-able.techidaily.com/bouncing-back-in-f1-2021-pc-version-expert-tips-to-prevent-game-crashes-and-enjoy-uninterrupted-racing/"><u>Bouncing Back in F1 2021 PC Version: Expert Tips to Prevent Game Crashes and Enjoy Uninterrupted Racing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-latest-buzz-on-xbox-vr-gear-projections-of-costs-and-release-timelines/"><u>Exploring the Latest Buzz on Xbox VR Gear: Projections of Costs and Release Timelines</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-discovering-the-quintessential-25-influence-kings-and-queens/"><u>In 2024, Discovering The Quintessential 25 Influence Kings and Queens</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-motorola-razr-40-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Motorola Razr 40 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-g2-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo G2 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movavi-web-and-software-safety-evaluation-is-it-trustworthy/"><u>Movavi Web & Software Safety Evaluation: Is It Trustworthy?</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-obstacle-successfully-starting-google-chrome-again/"><u>Overcoming the Obstacle: Successfully Starting Google Chrome Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000891408-quick-solutions-overcome-fortnite-sign-in-failures-now/"><u>Quick Solutions: Overcome Fortnite Sign-In Failures Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-expert-insights-on-computer-components/"><u>Tom's Tech Reviews: Expert Insights on Computer Components</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlock-the-secrets-understanding-the-release-roadblocks-for-guilty-gear-strive/"><u>Unlock the Secrets: Understanding the Release Roadblocks for Guilty Gear Strive</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-launching-lens-captured-content-examination-and-replacements/"><u>[Updated] In 2024, Launching Lens Captured Content Examination and Replacements</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unveiling-the-comprehensiveness-of-obs-as-a-recorder/"><u>[Updated] Unveiling the Comprehensiveness of OBS as a Recorder</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-in-depth-analysis-of-googles-voice-to-text-capabilities/"><u>2024 Approved In-Depth Analysis of Google's Voice-to-Text Capabilities</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-curated-list-of-happiness-crying-combo-on-instagram-pages-for-2024/"><u>A Curated List of Happiness-Crying Combo on Instagram Pages for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/capture-memories-in-high-definition-new-feature-enables-ray-bans-meta-glasses-to-film-for-3-minutes-straight/"><u>Capture Memories in High Definition: New Feature Enables Ray-Ban's Meta Glasses to Film for 3 Minutes Straight!</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-14-ultra-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi 14 Ultra Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-resolve-black-screen-problem-in-resident-evil-village-pc/"><u>Fixing the Issue: How to Resolve Black Screen Problem in Resident Evil Village (PC)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-editing-excellence-the-ultimate-guide-to-top-notebooks/"><u>In 2024, Editing Excellence The Ultimate Guide to Top Notebooks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-essential-drone-motors-guide-for-optimal-flight/"><u>In 2024, Essential Drone Motors Guide for Optimal Flight</u></a></li>
+<li><a href="https://extra-information.techidaily.com/safest-drone-selections-5-great-options-for-young-ones/"><u>Safest Drone Selections 5 Great Options for Young Ones</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-fixes-for-the-initial-non-launch-problems-with-monster-hunter-stories-2/"><u>Solution Found! Fixes for the Initial Non-Launch Problems with Monster Hunter Stories 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-playback-problems-for-smooth-gaming-in-deathloop-on-pc-setups/"><u>Solving Playback Problems for Smooth Gaming in Deathloop on PC Setups</u></a></li>
+<li><a href="https://win-able.techidaily.com/what-to-do-if-your-game-of-rocket-league-just-wont-start/"><u>What To Do If Your Game of Rocket League Just Won't Start?</u></a></li>
 </ul></div>
 

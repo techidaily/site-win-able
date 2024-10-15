@@ -1,7 +1,7 @@
 ---
 title: Navigating Troubleshooting for Tales of Arise on Unreal Engine 4
-date: 2024-10-01T16:04:19.476Z
-updated: 2024-10-08T17:54:01.877Z
+date: 2024-10-07T21:09:40.291Z
+updated: 2024-10-14T17:51:43.478Z
 tags:
   - win11
   - win10
@@ -31,10 +31,10 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
  If all the servers are showing as up, it’s likely something else is going on.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Select your gaming platforms first
@@ -85,13 +85,6 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-209.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
@@ -111,6 +104,13 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 **2)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-355.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Right-click **Call of Duty WW2** and select **Properties.**
 
@@ -140,13 +140,6 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Select **Web Browser** and click **DELETE WEB BROWSER CACHE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
@@ -155,16 +148,16 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-786.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Click **DELETE ALL BROWSER COOKIES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-785.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)** Click **OK.**
 
@@ -220,6 +213,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the**steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
@@ -240,6 +246,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)**  Follow the on-screen instructions to uninstall your Steam.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
@@ -253,13 +266,6 @@ OR
 **10)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **11)** Restart your game to see if this fixed the error code issue.
 
@@ -329,13 +335,6 @@ Hopefully, your game works correctly now. Enjoy!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-90-1024x562.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Select**Console info.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-94.png)
@@ -343,13 +342,6 @@ Hopefully, your game works correctly now. Enjoy!
 **5)** Select**Reset console** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-97.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Select**Reset and keep my games & apps** .
 
@@ -377,6 +369,13 @@ Hopefully, your game works correctly now. Enjoy!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-107-1024x439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-108.png)
@@ -386,10 +385,10 @@ Hopefully, your game works correctly now. Enjoy!
 Hope one of the fixes above worked for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fixes for PlayStation 4 Players
@@ -465,6 +464,13 @@ Hope one of the fixes above worked for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1094.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Select **Restore to Default Settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1095.png)
@@ -497,24 +503,18 @@ Hope one of the fixes above worked for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-crucial-details-for-deciding-on-a-youtube-tv-subscription/"><u>[New] 2024 Approved Crucial Details for Deciding on a YouTube TV Subscription</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-smooth-soundscape-fading-techniques-with-lumafusion-for-2024/"><u>[New] Smooth Soundscape Fading Techniques with Lumafusion for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-funny-flicks-compilation-of-chuckle-inducing-short-youtube-videos-for-2024/"><u>[Updated] Funny Flicks Compilation of Chuckle-Inducing Short YouTube Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-should-you-keep-previewing-fb-activity-visible-insights/"><u>[Updated] Should You Keep Previewing FB Activity Visible? Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-swift-remedies-to-rescue-your-windows-10-photos-app/"><u>2024 Approved Swift Remedies to Rescue Your Windows 10 Photos App</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-lava-blaze-curve-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Lava Blaze Curve 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-guide-to-stop-v-from-skipping-frames-and-hanging-pc-edition/"><u>Complete Guide to Stop V From Skipping Frames & Hanging - PC Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-crashes-for-good-master-these-easy-fixes-for-a-seamless-call-of-duty-mw3-experience/"><u>Fix Crashes for Good - Master These Easy Fixes for a Seamless Call of Duty MW3 Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-preventing-left-4-dead-2-from-crashing-on-your-pc/"><u>Fixes for Preventing Left 4 Dead 2 From Crashing on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-performance-hiccups-optimizing-your-play-of-outriders-on-windows-pcs/"><u>Fixing Performance Hiccups: Optimizing Your Play of Outriders on Windows PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-doom-eternal-crashing-issues/"><u>How to Fix DOOM Eternal Crashing Issues?</u></a></li>
-<li><a href="https://win-able.techidaily.com/immediate-strategies-to-overcome-dayzs-fps-decreases-effortlessly/"><u>Immediate Strategies to Overcome DayZ's FPS Decreases Effortlessly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-samsung-galaxy-a25-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Samsung Galaxy A25 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-stellar-photo-alterations-frameshift-prowess/"><u>In 2024, Stellar Photo Alterations FrameShift Prowess</u></a></li>
-<li><a href="https://win-able.techidaily.com/maplestory-for-windows-nx-users-troubleshooting-tips-to-prevent-game-crashes-latest-fixes/"><u>MapleStory for Windows nX Users: Troubleshooting Tips to Prevent Game Crashes (Latest Fixes)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-slow-down-the-action-top-10-video-players-for-smooth-playback-for-2024/"><u>New Slow Down the Action Top 10 Video Players for Smooth Playback for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-overcome-rainbow-six-sieges-server-connection-problems/"><u>Step-by-Step Solutions to Overcome Rainbow Six Siege's Server Connection Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-complete-solution-for-nvidia-geforce-experience-error-code-0x00eus/"><u>The Complete Solution for NVIDIA Geforce Experience Error (Code 0X00eus)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/weaving-external-pages-into-your-insta-narrative-for-2024/"><u>Weaving External Pages Into Your Insta Narrative for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-maximizing-visual-impact-with-extra-camera-work/"><u>[New] In 2024, Maximizing Visual Impact with Extra Camera Work</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-demystifying-income-flow-to-creators-within-the-short-video-model/"><u>[Updated] In 2024, Demystifying Income Flow to Creators Within the Short Video Model</u></a></li>
+<li><a href="https://win-able.techidaily.com/beating-the-frozen-curse-in-rocket-league-expert-tips-for-a-fluid-gameplay-session/"><u>Beating the Frozen Curse in Rocket League: Expert Tips for a Fluid Gameplay Session</u></a></li>
+<li><a href="https://win-able.techidaily.com/dying-light-2-fps-optimization-techniques-get-smooth-gameplay-on-your-pc-without-the-hiccups/"><u>Dying Light 2 FPS Optimization Techniques - Get Smooth Gameplay on Your PC Without the Hiccups!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-ds4-connectivity-and-driver-error-on-windows-devices/"><u>Expert Tips for Resolving DS4 Connectivity and Driver Error on Windows Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-iphone-6-plus-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On iPhone 6 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-turn-off-and-uninstall-the-copilot-tool-from-your-windows-11-system-efficiently/"><u>How to Turn Off and Uninstall the Copilot Tool From Your Windows 11 System Efficiently</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nokia-c210-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/jurassic-world-evolution-game-crash-solutions-no-more-interruptions/"><u>Jurassic World Evolution Game Crash Solutions – No More Interruptions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-kodis-couldnt-retrieve-directory-information/"><u>Troubleshooting Guide: Overcoming Kodi's 'Couldn't Retrieve Directory Information'</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-12-pro-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 12 Pro? 5 Tips You Must Know</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-apple-iphone-14-plus-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile Apple iPhone 14 Plus Before the Plan Expires</u></a></li>
+<li><a href="https://win-able.techidaily.com/war-thunder-stability-woes-master-the-tricks-to-prevent-frequent-crashes-latest-fixes/"><u>War Thunder Stability Woes? Master the Tricks to Prevent Frequent Crashes (Latest Fixes)</u></a></li>
 </ul></div>
 

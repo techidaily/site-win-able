@@ -1,7 +1,7 @@
 ---
 title: "Successfully Fixing the 'Frozen Screen' Issue: Error 887A0005 Solution Guide"
-date: 2024-09-10T14:08:25.006Z
-updated: 2024-09-11T14:08:25.006Z
+date: 2024-10-10T00:53:21.262Z
+updated: 2024-10-15T03:23:36.865Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/af63d40e10f4812d796851153ffe13a5133162342
 
 Some players are reporting that they can’t get past the Mojang screen. It looks like it’s hard to fix, and this problem can persist for months. If you’re one of them, don’t worry. In this post, you’ll find all the possible fixes with detailed troubleshooting steps.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -55,43 +52,16 @@ The known problematic software are:
 
  You can view[the full list](https://minecrafthopper.net/help/known-incompatible-software/) of known incompatible software here.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Don’t use free VPNs
 
  Mojang has blocked most VPN users from logging into Minecraft as these free VPNs are often used by malicious users to hack into accounts. This can cause login/loading issues. Some VPNs such as[Express VPN](https://tools.techidaily.com/drivereasy/download/) and[NordVPN](https://tools.techidaily.com/drivereasy/download/) (get an[80% off coupon](https://tools.techidaily.com/drivereasy/download/) ) get Minecraft unblocked, giving you access to all of the latest features no matter where you live.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Update your device drivers
 
@@ -109,6 +79,13 @@ There are mainly two ways to update your device drivers:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
@@ -129,20 +106,6 @@ There are mainly two ways to update your device drivers:
 
  Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 5: End the runtime broker
 
  This is a temporary fix for many players, and you can try this to see if it works for you, too. Here’s how:
@@ -157,61 +120,28 @@ There are mainly two ways to update your device drivers:
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 3. Restart your PC to see if Minecraft can load normally.
 
 If this method doesn’t work for you, then try the next fix, below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 6: Run Minecraft Launcher in compatibility mode
 
@@ -225,19 +155,12 @@ If this method doesn’t work for you, then try the next fix, below.
 
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 7: Perform a clean reinstall
 
@@ -266,8 +189,6 @@ If this method doesn’t work for you, then try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -275,12 +196,24 @@ If this method doesn’t work for you, then try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-hero-4-vs-hero-5-performance-face-off/"><u>[New] 2024 Approved Hero 4 VS Hero 5 Performance Face-Off</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-zip-to-subs-creating-srt-from-compressed-texts/"><u>[Updated] Zip to Subs Creating .SRT From Compressed Texts</u></a></li>
+<li><a href="https://win-able.techidaily.com/banishing-cannot-connect-to-world-error-in-minecraft-for-ultimate-gameplay/"><u>Banishing 'Cannot Connect to World' Error in Minecraft for Ultimate Gameplay</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722968653381-download-your-asus-dvd-players-latest-drivers-now/"><u>Download Your ASUS DVD Player's Latest Drivers Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009266270-end-game-lag-and-crashes-in-mordhau-ultimate-fix-guide-revealed/"><u>End Game Lag & Crashes in Mordhau – Ultimate Fix Guide Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-accelerate-your-sims-4-experience-and-say-goodbye-to-lag-on-pc/"><u>Expert Advice: Accelerate Your Sims 4 Experience and Say Goodbye to Lag on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-overcoming-sword-and-fairy-7-game-freezes-on-windows-machines/"><u>Expert Guide: Overcoming Sword and Fairy 7 Game Freezes on Windows Machines</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-madden-nfl-22-problems-fast-and-simple-top-tips-included/"><u>Fix Your Madden NFL 22 Problems Fast and Simple - Top Tips Included</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-your-internet-explorer-back-up-and-running/"><u>How to Get Your Internet Explorer Back Up and Running</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-realme-12plus-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Realme 12+ 5G Through Google Earth?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-videography-secrets-leveraging-strikethrough-for-impactful-edits/"><u>In 2024, Videography Secrets Leveraging Strikethrough for Impactful Edits</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-stability-overcoming-crashing-in-spellbreak-on-windows-computers/"><u>Optimizing Stability: Overcoming Crashing in Spellbreak on Windows Computers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reignite-printer-output-5-effective-steps-for-non-printing-canon-on-windows-11/"><u>Reignite Printer Output: 5 Effective Steps for Non-Printing Canon on Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-complete-igtv-user-manual/"><u>The Complete IGTV User Manual</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-creative-potential-with-direct-drawing-in-windows-11/"><u>Unlock Your Creative Potential with Direct Drawing in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/yakuza-3-remastered-not-starting-up-troubleshooting-steps-for-pc/"><u>Yakuza 3 Remastered Not Starting Up: Troubleshooting Steps for PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Splitgate: Solutions for Low Frames Per Second and Stuttering Issues"
-date: 2024-10-06T21:13:27.871Z
-updated: 2024-10-08T18:02:57.158Z
+date: 2024-10-07T23:37:27.867Z
+updated: 2024-10-14T16:12:18.318Z
 tags:
   - win11
   - win10
@@ -52,20 +52,13 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If it’s not working, move to next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable overclocking
@@ -81,16 +74,10 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
@@ -125,15 +112,15 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -145,6 +132,13 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -172,20 +166,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-3dr-the-soloists-voyage-in-3d-printing-tech/"><u>[Updated] '3DR' The Soloist’s Voyage in 3D Printing Tech</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-starfield-applications-soaring-cpu-use-with-these-cutting-edge-techniques/"><u>Conquer Starfield Application's Soaring CPU Use with These Cutting-Edge Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-and-the-challenge-of-error-code-2024-solutions-inside/"><u>Cyberpunk 2077 and the Challenge of Error Code 2024 - Solutions Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-error-code-84-in-fortnite-a-comprehensive-solution-for-smooth-multiplayer-gaming/"><u>Eliminate Error Code 84 in Fortnite: A Comprehensive Solution for Smooth Multiplayer Gaming</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-beyond-ustream-live-stream-platforms-reviewed/"><u>In 2024, Beyond Ustream Live Stream Platforms Reviewed</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-15-plus-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 15 Plus? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-the-art-of-travel-cinematography-top-tips-for-aspiring-travel-vloggers/"><u>Mastering the Art of Travel Cinematography: Top Tips for Aspiring Travel Vloggers</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-and-xbox-gamers-rejoice-fixing-the-crash-issues-in-mass-effect-legendary-edition/"><u>PC and Xbox Gamers Rejoice: Fixing the Crash Issues in Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-incompatibility-issues-steelseries-gg-and-windows-operating-system-failures/"><u>Resolving Incompatibility Issues: SteelSeries GG and Windows Operating System Failures</u></a></li>
-<li><a href="https://win-able.techidaily.com/stable-playthrough-of-madden-nfl-21-for-windows-overcoming-common-breakdowns/"><u>Stable Playthrough of Madden NFL 21 for Windows - Overcoming Common Breakdowns</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-repairing-a-broken-geforce-experience-overlay-feature/"><u>Step by Step Guide: Repairing a Broken GeForce Experience Overlay Feature</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016940523-troubleshooting-and-repairing-the-audio-input-for-oculus-quest-ebrary-inc/"><u>Troubleshooting and Repairing the Audio Input for Oculus Quest Ebrary, Inc.</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unlock-earnings-the-guide-to-successful-vimeo-monetization-for-2024/"><u>Unlock Earnings The Guide to Successful Vimeo Monetization for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-the-fight-against-nioh-2-complete-edition-crashes-no-more/"><u>Winning the Fight Against Nioh 2 Complete Edition: Crashes No More</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-how-to-post-tweets-on-facebook-for-2024/"><u>[New] How to Post Tweets on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-contrasting-youtubes-ownership-norms-with-cc-ideals-for-2024/"><u>[Updated] Contrasting YouTube's Ownership Norms with CC Ideals for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-delivering-quality-imagery-applying-lut-techniques-in-adobes-tools/"><u>2024 Approved Delivering Quality Imagery Applying LUT Techniques in Adobe's Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-the-uninvited-pc-party-crasher-6-expert-hacks-to-resolve-stray-crashes-now/"><u>Fix the Uninvited PC Party Crasher: 6 Expert Hacks to Resolve Stray Crashes Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-issues-troubleshooting-a-non-responsive-vrchat-experience/"><u>Fixing Persistent Issues: Troubleshooting a Non-Responsive VRChat Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-download-directly-from-instagram-a-methodology-for-iphone-users/"><u>In 2024, Download Directly From Instagram A Methodology for iPhone Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leveraging-zooms-full-spectrum-of-live-video-capabilities-for-2024/"><u>Leveraging Zoom's Full Spectrum of Live Video Capabilities for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/off-the-cuff-tricks-to-work-with-onedrive-locally/"><u>Off-the-Cuff Tricks to Work with OneDrive Locally</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-issues-with-nba-2k21-on-windows-pc/"><u>Resolved: Fixing Issues with NBA 2K21 on Windows PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/stabilize-your-gameplay-overcoming-cod-mws-constant-crashing-problem/"><u>Stabilize Your Gameplay! Overcoming COD: MW's Constant Crashing Problem</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-5-effortless-strategies-pour-transformer-vos-fichiers-avi-lourds-en-mp4-gratuitement/"><u>Top 5 Effortless Strategies Pour Transformer Vos Fichiers AVI Lourds en MP4 Gratuitement</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-madden-22-effortlessly-expert-fix-it-tips/"><u>Troubleshoot Madden 22 Effortlessly: Expert Fix-It Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-hack-preventing-black-desert-online-from-freezing-on-windows/"><u>Ultimate Hack: Preventing Black Desert Online From Freezing on Windows</u></a></li>
 </ul></div>
 

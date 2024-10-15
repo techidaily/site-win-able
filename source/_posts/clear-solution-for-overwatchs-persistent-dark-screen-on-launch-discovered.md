@@ -1,7 +1,7 @@
 ---
 title: Clear Solution for Overwatch's Persistent Dark Screen on Launch Discovered
-date: 2024-09-10T14:17:13.632Z
-updated: 2024-09-11T14:17:13.632Z
+date: 2024-10-08T21:59:49.768Z
+updated: 2024-10-14T21:21:29.712Z
 tags:
   - win11
   - win10
@@ -17,33 +17,10 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
 
 As one of the most anticipated video games in early 2022, Monster Hunter Rise is finally here. The game is amazing. However, there are sporadic reports about Monster Hunter Rise not launching or black screen on startup. If you happen to be on the same boat, don’t worry. Here is a full list of fixes to help you solve the bugs and regain a smooth gaming experience.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -64,11 +41,26 @@ As one of the most anticipated video games in early 2022, Monster Hunter Rise is
 2. Locate the**MonsterHunterRise.exe file** and select**Properties** .  
 ![open as an administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-Properties.jpg)
 3. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
  Directly launch the exe file to see how it works. If it still doesn’t start properly, try**running the game in compatibility mode for Windows 8** . This is a simple workaround for many players.
 
 Still no luck? Move on to the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Allow your game through Controlled Folder Access and antivirus
 
@@ -80,45 +72,19 @@ Still no luck? Move on to the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2.jpg)
 3. Toggle on the**Controlled folder access** , and click **Allow an app through Controlled folder access** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/3.jpg)
 4. Click **Add an allowed app** **\> Browse all apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/browse-all-apps.png)
 5. Navigate to the game’s installation folder and add the**MonsterHunterRise.exe file** .
 
- If you have also installed any third-party anti-virus software like McAfee, Bitdefender and Avast, make sure your game is added to their whitelists and not blocked.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+ If you have also installed any third-party anti-virus software like McAfee, Bitdefender and Avast, make sure your game is added to their whitelists and not blocked.
 
 ### Fix 3 – Update your graphics driver
 
@@ -134,6 +100,13 @@ Still no luck? Move on to the next method below.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once done, restart the computer for the changes to take effect. Then test if the issue reoccurs. If yes, there are a few more fixes below.
 
 ### Fix 4 – Disable resource-hogging programs
@@ -144,50 +117,16 @@ Still no luck? Move on to the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Check your current **CPU and memory usage** to see what apps are consuming your resources most. Then right-click the process you want to end and select **End task** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Check if the game launches as expected. If not, take a look at Fix 5.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -197,84 +136,26 @@ Check if the game launches as expected. If not, take a look at Fix 5.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Monster Hunter Rise** and click**Properties** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify intergrity of game files** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  It may take a few minutes to finish scanning and repairing. Then you can restart the game to see if the problem persists. If so, continue to the last method.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 6 – Repair your system files
 
@@ -290,19 +171,12 @@ Check if the game launches as expected. If not, take a look at Fix 5.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Test the game to see if your system runs faster and smoother now.
 
@@ -319,8 +193,6 @@ Test the game to see if your system runs faster and smoother now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -328,12 +200,22 @@ Test the game to see if your system runs faster and smoother now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/he-art-of-disregarding-harmful-youtube-comments-for-2024/"><u>[New] The Art of Disregarding Harmful YouTube Comments for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-best-5-camera-apps-to-shoot-and-record-videos-on-iphone-and-andriod/"><u>[Updated] 2024 Approved Best 5 Camera Apps to Shoot and Record Videos on iPhone and Andriod</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-screenmaster-mastering-window-recordings-on-spring/"><u>[Updated] 2024 Approved ScreenMaster Mastering Window Recordings on Spring</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-silent-strike-sequels-the-next-10-best-samurai-adventures/"><u>[Updated] 2024 Approved Silent Strike Sequels The Next 10 Best Samurai Adventures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/best-10-non-game-console-screen-capture-tools-for-2024/"><u>Best 10 Non-Game Console Screen Capture Tools for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-x50-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on X50</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-vrchat-connectivity-issues-why-it-wont-load/"><u>Fixing VRChat Connectivity Issues: Why It Won't Load</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hassle-free-diy-motherboard-kits-for-seamless-personal-computing-endeavors/"><u>Hassle-Free DIY Motherboard Kits for Seamless Personal Computing Endeavors</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-connection-problems-in-grand-theft-auto-online/"><u>Resolving Connection Problems in Grand Theft Auto Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-frame-rate-drop-problem-in-dying-light-an-fps-guide/"><u>Resolving the Frame Rate Drop Problem in Dying Light: An FPS Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-huoxijie-vii-sword-and-fairy-n7-stability-problems-for-smooth-gaming-experience/"><u>Solve Huòxījié VII (Sword and Fairy N7) Stability Problems for Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-msi-afterburner-and-non-detecting-gpu-issues-on-windows-1110/"><u>Troubleshooting Guide: MSI Afterburner and Non-Detecting GPU Issues on Windows 11/10</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-enhancing-frame-rates-in-tainted-grail-conquest/"><u>Ultimate Guide to Enhancing Frame Rates in Tainted Grail: Conquest</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/windows-1011m4awav/"><u>Windows 10/11向けM4AからWAVへの自由ソフトウェア・サイトリコメンド：変換ガイド</u></a></li>
+</ul></div>
 

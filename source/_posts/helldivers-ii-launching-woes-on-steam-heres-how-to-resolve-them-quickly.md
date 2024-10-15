@@ -1,7 +1,7 @@
 ---
 title: Helldivers II Launching Woes on Steam? Here's How to Resolve Them Quickly
-date: 2024-09-10T14:08:57.002Z
-updated: 2024-09-11T14:08:57.002Z
+date: 2024-10-08T17:07:50.474Z
+updated: 2024-10-15T01:09:50.222Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 Star Wars Jedi: Fallen Order, an action-adventure game, was released on November 15, 2019\. I bet most players (not to mention the Star Wars fans) would enjoy the experience of waving a lightsaber and slaughtering enemies, despite a few game issues that might put a damper on it. One of the most commonly-seen problem is crashing – whether on startup or in the middle of the game – and it’s also the most annoying one. So what can you possibly do to fix this issue? Read on and find the answers.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## System Requirements for Star Wars Jedi: Fallen Order
 
@@ -51,20 +48,6 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
  Once you confirm that your gear is up for running Star Wars Jedi, move down and try out the fixes below. However, if your computer doesn’t meet the requirements for this game, please upgrade some of your hardware components first.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to fix Star Wars Jedi: Fallen Order crash
 
  Here are 6 fixes that have proved useful to many players. You can try any of them selectively, or you can try them one by one; just work your way down the list until you find the one that works.
@@ -82,20 +65,6 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 **[Fix 6: Wait for more updates](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Update your graphics drivers
 
@@ -119,25 +88,24 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Check to see if the crashing problem reoccurs. If it does, please try out the next method, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Run the game as an administrator
 
@@ -147,37 +115,9 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) In the **Properties** window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-26.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Now you should be able to run the game under administrative privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
@@ -199,25 +139,18 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ![This image has an empty alt attribute; its file name is image-23.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-23.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-click **Star Wars Jedi: Fallen Order** and select **Properties** .
 
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1025.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  4) Wait for the process to complete. When finished, exit Steam and then reopen it. Run Star Wars Jedi and see if it keeps crashing.
 
@@ -241,25 +174,25 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-67.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  4) After the verification is finished, relaunch Star Wars Jedi and see if your problem goes away.
 
  If verifying the integrity of game files didn’t resolve your issue, you should take a stab at Fix 4.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Close unnecessary programs
 
@@ -271,29 +204,16 @@ To completely shut down a program:
 
 ![This image has an empty alt attribute; its file name is img_5a0d6aed19abc.png](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6aed19abc.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) In the **Task Manager**  window, on the **Processes** tab, select the program you want to shut down and click **End task** . (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-243.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Exercise caution when you try to end these processes** . If you mistakenly close one of the important system programs, that might cause your computer to stop running properly.
 
@@ -309,20 +229,6 @@ To completely shut down a program:
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 5: Stop overclocking
 
  To anyone in pursuit of ultimate gaming experience, it’s quite common to speed up the CPU/GPU a notch or two. Usually, it won’t cause you much trouble; just don’t push them too hard – otherwise, the overclocking may undermine the stability of your PC, raising the risks of game crashes and even hardware malfunction (such as overheat).
@@ -336,6 +242,19 @@ To completely shut down a program:
  This method may seem rather passive, but if the root cause doesn’t really lie in your gaming machine, then you should probably just wait for some new updates to get the problem fixed. Of course, if you’d like to do something else, you can also forward your problem to the developer ( **[Contact EA](https://help.ea.com/en/contact-us/)**  ) or look for other solutions on related forums.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Extra Info:**Unreal Engine crashes**
 
@@ -359,8 +278,6 @@ To completely shut down a program:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -368,12 +285,19 @@ To completely shut down a program:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastering-ps3-gaming-capture-step-by-step-guide/"><u>[Updated] In 2024, Mastering PS3 Gaming Capture Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-instant-archive-access-revived-deleted-reddit-entries/"><u>[Updated] Instant Archive Access Revived Deleted Reddit Entries</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-mac-4k-monitor-selections-top-10-edition/"><u>[Updated] Premier Mac 4K Monitor Selections Top 10 Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-making-your-twitter-videos-dance-convert-them-into-expressive-animated-gifs/"><u>2024 Approved Making Your Twitter Videos Dance Convert Them Into Expressive Animated GIFs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-sony-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Sony ?</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-resolving-frequent-crashes-in-the-pc-version-of-metro-exodus-edt/"><u>Diagnosing and Resolving Frequent Crashes in the PC Version of Metro Exodus EDT</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-apex-legends-game-engine-troubles-solutions-included/"><u>Fixing Apex Legends Game Engine Troubles - Solutions Included</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/global-smartphone-rankings-shaken-iphones-claim-first-seven-spots-exclusive-insights/"><u>Global Smartphone Rankings Shaken: IPhones Claim First Seven Spots - Exclusive Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-complete-mutism-a-guide-to-reactivating-sounds-in-skyrim/"><u>Overcoming Complete Mutism: A Guide to Reactivating Sounds in Skyrim</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-secured-connection-not-established-in-mozilla-firefox/"><u>Troubleshooting Steps: Resolving 'Secured Connection Not Established' In Mozilla Firefox</u></a></li>
+<li><a href="https://video-capture.techidaily.com/watching-sky-sports-via-kodi-heres-a-comprehensive-illustrated-guide-for-you/"><u>Watching Sky Sports via Kodi? Here's a Comprehensive, Illustrated Guide for You!</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-against-lag-in-battlefield-5-proven-strategies-for-ultimate-flow/"><u>Winning Against Lag in Battlefield 5 - Proven Strategies for Ultimate Flow</u></a></li>
+</ul></div>
 

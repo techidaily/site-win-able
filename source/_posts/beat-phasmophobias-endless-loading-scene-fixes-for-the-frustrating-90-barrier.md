@@ -1,7 +1,7 @@
 ---
 title: Beat Phasmophobia's Endless Loading Scene - Fixes for the Frustrating 90%% Barrier
-date: 2024-10-05T21:00:50.901Z
-updated: 2024-10-08T23:34:18.003Z
+date: 2024-10-08T20:09:06.851Z
+updated: 2024-10-14T17:37:44.798Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 5. **[Run Steam as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reset your network](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Uninstall and reinstall Phasmophobia](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 1: Make sure your computer meets the specs
 
@@ -79,13 +72,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-phasmophobia-stuck-at-90-loading-screen/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1 – Manually update your drivers
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) , [AMD](https://www.amd.com/en/support) , and[Intel](https://www.intel.com/content/www/us/en/download-center/home.html) keep releasing driver updates. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
@@ -103,13 +89,6 @@ OR
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
@@ -139,21 +118,35 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Delete the game’s save file
 
  If your game files are corrupt, they can cause your game to be stuck on the loading screen. Deleting the files can sometimes resolve the problem:
 
  1) On your keyboard, press the**Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-icon.jpg) and**R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type**%appdata%LocalLowKinetic GamesPhasmophobia** , then press**Enter** on your keyboard.
 
 ![delete save file Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Locate the**saveData.txt** file and delete it.
@@ -173,37 +166,30 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-right-click-from-the-desktop-and-select-open-file-location.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Scroll down and find the **Steam application** . It should be highlighted. Right-click on it and select **Properties** .
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-select-Properties-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select the**Compatibility**  tab and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-steam-as-an-administrator-apply-ok.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this didn’t work, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Reset your network
 
@@ -215,15 +201,22 @@ Here’s how you can do this:
   
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-type-in-the-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Reset now** .  
   
 ![do a network reset](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Reset-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Yes** .
@@ -233,6 +226,13 @@ Here’s how you can do this:
 Now restart your computer and your problem should be fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Uninstall and reinstall Phasmophobia
 
@@ -276,14 +276,20 @@ Take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-10-best-no-cost-video-calls-for-remote-collaboration/"><u>[New] 2024 Approved 10 Best No-Cost Video Calls for Remote Collaboration</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-essential-apps-to-extract-and-save-your-vimeo-videos/"><u>2024 Approved Essential Apps to Extract and Save Your Vimeo Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/battle-royale-breakdown-overcoming-warzones-persistent-screen-problem-with-2024-solutions/"><u>Battle Royale Breakdown: Overcoming Warzone's Persistent Screen Problem with 2024 Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-fixes-to-correct-memory-error-12707-on-your-modern-warfare-3-gameplay/"><u>Comprehensive Fixes to Correct 'Memory Error 12707' On Your Modern Warfare 3 Gameplay</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-v27e-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo V27e</u></a></li>
-<li><a href="https://techtrends.techidaily.com/must-watch-disneyplus-movie-selection-currently-streaming/"><u>Must-Watch Disney+ Movie Selection Currently Streaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-steps-for-cyberpunk-2077-ignoring-gpu-performance-on-windows-11/"><u>Solution Steps for Cyberpunk 2077 Ignoring GPU Performance on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-problem-of-persona-3-reload-failure-to-load/"><u>Solving the Problem of Persona ^3 Reload Failure to Load</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unwind-with-bargains-top-deals-on-noise-canceling-earbuds-for-better-sleep/"><u>Unwind with Bargains: Top Deals on Noise-Canceling Earbuds for Better Sleep</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-invisible-dimensions-of-instagram-story-fans/"><u>[New] The Invisible Dimensions of Instagram Story Fans</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-optimal-ppt-transformers-for-videos/"><u>2024 Approved Optimal PPT Transformers for Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/expert-tips-for-crafting-professional-slug-line-notations/"><u>Expert Tips for Crafting Professional Slug Line Notations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/formati-audio-da-trasformare-gratuitamente-il-tuo-guida-alla-conversione-di-file-aif-in-ogg-online-con-movavi/"><u>Formati Audio Da Trasformare Gratuitamente: Il Tuo Guida Alla Conversione Di File AIF in OGG Online Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-ai-amplifies-cybercrime-risks-exploring-5-ways-it-benefits-criminals/"><u>How AI Amplifies Cybercrime Risks - Exploring 5 Ways It Benefits Criminals</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-xiaomi-redmi-note-12-4g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Xiaomi Redmi Note 12 4G and Browser | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavijpeg/"><u>Movaviで簡単なJPEGファイルのオンライン変換 - 完全無料</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-frame-retrieval-techniques-for-any-graphics-card/"><u>Next-Gen Frame Retrieval Techniques for Any Graphics Card</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-dota-2-vac-ban-issues-tips-and-tricks-for-the-new-year/"><u>Overcoming Dota 2 VAC Ban Issues - Tips and Tricks for the New Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-puzzle-of-pc-performance-understanding-a-twin-decline-in-frames-per-second-fps/"><u>Solving the Puzzle of PC Performance: Understanding a Twin Decline in Frames Per Second (FPS)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/step-into-the-details-the-quickest-ways-to-zoom-in-minecraft/"><u>Step Into the Details The Quickest Ways to ZOOM in Minecraft</u></a></li>
+<li><a href="https://win-able.techidaily.com/team-fortress-not-launching-heres-how-you-can-get-it-running-again/"><u>Team Fortress Not Launching? Here's How You Can Get It Running Again!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-repairing-corrupted-disks-on-steam-platform-with-ease/"><u>Troubleshooting and Repairing Corrupted Disks on Steam Platform with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-helldivers-ii-wont-start-on-steam-and-solutions/"><u>Troubleshooting Guide: Why Helldivers II Won't Start on Steam & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-how-to-boost-fps-and-overcome-lag-in-resident-evil-village-pc-version/"><u>Ultimate Guide: How to Boost FPS and Overcome Lag in Resident Evil Village (PC Version)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: DirectX Trouble? Fix Your FIFA 19 Game Without Hesitation
-date: 2024-09-10T14:11:28.160Z
-updated: 2024-09-11T14:11:28.160Z
+date: 2024-10-12T05:38:43.892Z
+updated: 2024-10-14T20:59:50.566Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
  Playing**FIFA 19** and got a**DirectX** error message all of a sudden? You’re not alone. But don’t worry – it’s often not hard to fix at all…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fixes For FIFA 19 DirectX Error
 
@@ -48,20 +31,6 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 1. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 2. [**Update DirectX**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Check if your PC meets the system requirements for FIFA 19**](https://tools.techidaily.com/drivereasy/download/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Update your graphics driver
 
@@ -77,37 +46,23 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -117,19 +72,12 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Update DirectX
 
@@ -140,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
  Once you’ve updated DirectX, check to see if the FIFA game DirectX error issue is fixed. If yes, then great! If it’s still no joy, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Check if your PC meets the system requirements for FIFA 19
 
@@ -177,20 +132,6 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -210,8 +151,6 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,12 +158,24 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capture-winning-with-mov-files-on-your-windows-system/"><u>[New] Capture Winning with MOV Files on Your Windows System</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-dual-display-dynamics-video-recorder-rankings/"><u>[Updated] In 2024, Dual Display Dynamics Video Recorder Rankings</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-netgear-c3000-wireless-n-gigabit-internet-gateway-a-technology-timecapsule/"><u>Comprehensive Analysis of the Netgear C3000 Wireless-N Gigabit Internet Gateway – A Technology Timecapsule</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-the-storportsys-blue-screen-of-death-under-windows-1nk-system/"><u>Diagnosing and Repairing the storport.sys Blue Screen of Death Under Windows 1Nk System</u></a></li>
+<li><a href="https://win-able.techidaily.com/dirt-5-stability-issues-solutions-for-preventing-pc-game-crashes/"><u>Dirt 5 Stability Issues? Solutions for Preventing PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-issues-how-to-stop-dragon-age-origins-from-crashing-on-windows-11/"><u>Fixing Issues: How to Stop 'Dragon Age: Origins' From Crashing on Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-meme-noob-to-pro-mastering-the-9gag-craft-for-2024/"><u>From Meme Noob to Pro Mastering the 9GAG Craft for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-fifa-20-directx-issues-and-enhance-gameplay/"><u>How to Fix FIFA 20 DirectX Issues and Enhance Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-age-of-empires-4-for-seamless-gaming-experience-without-stuttering/"><u>Optimizing Age of Empires 4 for Seamless Gaming Experience Without Stuttering</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-problems-with-hogwarts-legacy-expert-tips-for-2n4/"><u>Overcoming Launch Problems with Hogwarts Legacy - Expert Tips for 2N4</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-a18-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo A18 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722993682706-solve-dayz-frame-rate-drops-swiftly-expert-strategies-inside/"><u>Solve DayZ Frame Rate Drops Swiftly - Expert Strategies Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-ubisoft-connect-problems-step-by-step-guide/"><u>Solving the Ubisoft Connect Problems : Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-starter-guide-to-mastering-iphone-bluetooth-connectivity/"><u>The Ultimate Starter Guide to Mastering iPhone Bluetooth Connectivity</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-fix-a-nonfunctional-windows-11-taskbar/"><u>Troubleshooting Steps to Fix a Nonfunctional Windows 11 Taskbar</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-and-most-popular-iphone-apps/"><u>Updated 2024 Approved Best and Most Popular iPhone Apps</u></a></li>
+</ul></div>
 

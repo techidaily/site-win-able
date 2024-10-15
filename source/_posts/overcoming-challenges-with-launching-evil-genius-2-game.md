@@ -1,7 +1,7 @@
 ---
 title: Overcoming Challenges with Launching Evil Genius 2 Game
-date: 2024-09-10T14:10:18.178Z
-updated: 2024-09-11T14:10:18.178Z
+date: 2024-10-08T21:03:58.278Z
+updated: 2024-10-15T05:17:39.429Z
 tags:
   - win11
   - win10
@@ -19,33 +19,10 @@ Cyberpunk 2077 is finally here! After several hours of gameplay, did you feel yo
 
 Don’t worry, here’re fixes may help you solve the issue.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -54,6 +31,13 @@ Don’t worry, here’re fixes may help you solve the issue.
 1. [Change the in-game settings](https://tools.techidaily.com/drivereasy/download/)
 2. [Change the mouse setting](https://tools.techidaily.com/drivereasy/download/)
 3. [Update the device driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Change the in-game settings
 
@@ -64,44 +48,19 @@ Don’t worry, here’re fixes may help you solve the issue.
 1. Launch the game and go to**SETTINGS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-13.jpg)
 2. Click the**CONTROLS** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Under the**First-Person** Camera (Controller) section, find**Show Advanced Options** and click**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #### For mouse/keyboard users
 
@@ -112,29 +71,17 @@ If you’re not using the controller, check the below settings.
 3. Make sure the Resolution matches the resolution of your monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-53-01.jpg)
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Scroll down to find the**Resolution Scaling** section.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
@@ -153,21 +100,21 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
 
-If it doesn’t work, move to the next fix.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+If it doesn’t work, move to the next fix.
 
-
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update the device driver
 
@@ -197,35 +144,8 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -241,8 +161,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,12 +168,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-premium-after-effects-essentials-compact-no-cost-bundle/"><u>[New] Premium After Effects Essentials Compact, No-Cost Bundle</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-transformation-unleash-potential-with-tubebuddy/"><u>[Updated] In 2024, Channel Transformation Unleash Potential with TubeBuddy</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-depth-assessment-comprehensive-camstudio-review-for-2024/"><u>[Updated] In-Depth Assessment Comprehensive CamStudio Review for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-iphone-capture-and-record-at-once/"><u>[Updated] Perfecting iPhone Capture & Record at Once</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-galaxy-s24-ultra-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Galaxy S24 Ultra</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-preventing-gas-station-simulator-from-frequently-crashing-on-windows/"><u>Effective Solutions for Preventing Gas Station Simulator From Frequently Crashing on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-rainbow-six-extraction-performance-fixing-your-games-frame-per-second-drops/"><u>Enhancing Rainbow Six Extraction Performance: Fixing Your Game's Frame Per Second Drops</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2020-a-step-by-step-guide-to-correcting-game-crashes/"><u>Football Manager 2020: A Step-by-Step Guide to Correcting Game Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-code-28-issue-on-your-windows-pcs-device-manager/"><u>How to Fix a 'Code 28' Issue on Your Windows PC's Device Manager</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995040674-how-to-fix-the-division-2-game-crashing-issue-simple-solutions/"><u>How to Fix the Division 2 Game Crashing Issue - Simple Solutions!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-android-video-editor-showdown-top-10-free-and-paid-apps/"><u>In 2024, Android Video Editor Showdown Top 10 Free and Paid Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-server-links-a-comprehensive-2024-manual-for-fixing-path-of-exile-connections/"><u>Mastering Server Links: A Comprehensive 2024 Manual for Fixing Path of Exile Connections</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-frustration-effective-fixes-for-dealing-with-deathloop-pc-freezes-and-crashes/"><u>No More Frustration: Effective Fixes for Dealing with Deathloop PC Freezes & Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-remedies-for-immediate-control-program-stabilization/"><u>Quick Remedies for Immediate Control Program Stabilization</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-why-cyberpunk-2077-ignores-gpus-on-windows-10-systems-fixed/"><u>Solution Guide: Why Cyberpunk 2077 Ignores GPUs on Windows 10 Systems - Fixed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-overcoming-the-error-0xc19001e1-on-your-windows-11-device/"><u>Step-by-Step Solutions for Overcoming the 'Error 0xC19001E1' On Your Windows 11 Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamline-wi-fi-connection-upgrade-with-new-card-for-os-xwindows/"><u>Streamline Wi-Fi Connection: Upgrade with New Card for OS X/Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-paperclip-challenge-and-the-revolution-of-artificial-intelligence/"><u>The Paperclip Challenge and the Revolution of Artificial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-snapchats-my-ai-is-more-than-a-gadget-amusement/"><u>Why Snapchat’s My AI Is More Than a Gadget Amusement</u></a></li>
+</ul></div>
 

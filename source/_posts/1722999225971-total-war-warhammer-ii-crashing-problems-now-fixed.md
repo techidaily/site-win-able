@@ -1,7 +1,7 @@
 ---
 title: "Total War: Warhammer II Crashing Problems - Now Fixed"
-date: 2024-10-04T23:01:18.850Z
-updated: 2024-10-08T16:34:20.114Z
+date: 2024-10-12T17:22:20.447Z
+updated: 2024-10-14T22:13:24.281Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 
 If this fix doesn’t work, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run as administrator
 
  Lack of administrative rights can also be the reason for Nier Replicant crashing issue.
@@ -60,16 +67,10 @@ If this fix doesn’t work, move to the next fix.
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
@@ -85,6 +86,13 @@ If this fix doesn’t work, move to the next fix.
 2. Right click NieR Replicant ver.1.22474487139… and select**Properties** …  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
@@ -109,26 +117,12 @@ There are mainly two ways you can update the graphics driver:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC after drivers are updated, then relaunch the game to check.
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus software
 
@@ -141,32 +135,32 @@ Here’s how to disable Windows Security temporarily.
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Relaunch NieR Replicant and check if it’s running properly.
@@ -192,18 +186,16 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-manycam-review-is-there-a-better-alternative/"><u>[New] In 2024, ManyCam Review Is There A Better Alternative?</u></a></li>
-<li><a href="https://win-able.techidaily.com/blackout-no-more-solving-cyberpunk-2077s-persistent-display-dilemma/"><u>Blackout No More: Solving Cyberpunk 2077'S Persistent Display Dilemma</u></a></li>
-<li><a href="https://win-able.techidaily.com/crash-no-more-solutions-for-lego-star-wars-the-skywalker-saga-on-pc/"><u>Crash No More! Solutions for 'Lego Star Wars: The Skywalker Saga' On PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-fixes-when-the-thaumaturge-app-keeps-failing-to-open-on-windows-1011/"><u>Effective Fixes When The Thaumaturge App Keeps Failing to Open on Windows 10/11</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-performance-problems-optimize-your-resident-evil-village-game-on-pc/"><u>Fixing Performance Problems: Optimize Your Resident Evil Village Game on PC</u></a></li>
-<li><a href="https://article-files.techidaily.com/guiding-viewers-eyes-leading-lines-for-iphone-photography/"><u>Guiding Viewers' Eyes Leading Lines for iPhone Photography</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-assassins-creed-valhalla-from-crashing-proven-solutions-for-a-smooth-gaming-experience-2er-2024/"><u>How to Stop Assassin's Creed Valhalla From Crashing: Proven Solutions for a Smooth Gaming Experience, 2Er 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-reno-10-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo Reno 10 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-transform-imaging-expertise-in-adobes-high-dynamic-range/"><u>In 2024, Transform Imaging Expertise in Adobe's High Dynamic Range</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012968925-say-goodbye-to-rogue-companys-pc-crashes-problem-solved/"><u>Say Goodbye to Rogue Company's PC Crashes - Problem Solved!</u></a></li>
-<li><a href="https://facebook.techidaily.com/simplifying-personal-details-change-age-and-date-of-birth-on-facebook/"><u>Simplifying Personal Details: Change Age & Date of Birth on Facebook</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/uncharted-waters-of-assassins-creed-valhalla-a-detailed-review-of-the-epic-nordic-quest/"><u>Uncharted Waters of Assassin's Creed: Valhalla - A Detailed Review of the Epic Nordic Quest</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quitting-live-video-in-quicktime/"><u>[Updated] 2024 Approved Quitting Live Video in QuickTime</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-how-to-fix-game-lags-and-eliminate-frameskipping/"><u>Cyberpunk 2077: How to Fix Game Lags & Eliminate Frameskipping</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/digital-artistry-creating-vibrant-gifs-for-social-media/"><u>Digital Artistry Creating Vibrant GIFs for Social Media</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-overwatch-from-crashing-due-to-graphics-drivers/"><u>How to Stop Overwatch From Crashing Due to Graphics Drivers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-xiaomi-redmi-note-12r-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-your-gaming-setup-eliminate-stutter-and-improve-divisions-2s-fps/"><u>Master Your Gaming Setup: Eliminate Stutter & Improve Divisions 2'S FPS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2022-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2022) Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-for-overcoming-vrchat-loading-and-functionality-problems/"><u>Solution Steps for Overcoming VRChat Loading and Functionality Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-final-stand-zombie-army-4-dead-war-now-running-flawlessly-after-critical-pc-bug-fixes/"><u>The Final Stand - Zombie Army 4: Dead War Now Running Flawlessly After Critical PC Bug Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-acer-predator-orion-n5010-premium-gaming-laptop-at-a-bargain-price/"><u>The Ultimate Guide to the Acer Predator Orion N5010: Premium Gaming Laptop at a Bargain Price</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo Y27 4G? | Dr.fone</u></a></li>
 </ul></div>
 

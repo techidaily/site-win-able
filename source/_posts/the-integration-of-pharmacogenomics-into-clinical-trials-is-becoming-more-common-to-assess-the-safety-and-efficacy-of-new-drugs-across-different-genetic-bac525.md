@@ -1,7 +1,7 @@
 ---
 title: The Integration of Pharmacogenomics Into Clinical Trials Is Becoming More Common to Assess the Safety and Efficacy of New Drugs Across Different Genetic Backgrounds
-date: 2024-10-01T22:56:34.956Z
-updated: 2024-10-08T16:50:36.812Z
+date: 2024-10-08T05:21:48.437Z
+updated: 2024-10-15T00:46:56.073Z
 tags:
   - win11
   - win10
@@ -56,10 +56,10 @@ Here’s how to use Fortect to run a Windows repair:
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -81,10 +81,16 @@ Here’s how to use Fortect to run a Windows repair:
 5. Check your computer to see if the game still crashes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -101,6 +107,14 @@ Here’s how to use Fortect to run a Windows repair:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -130,10 +144,10 @@ To check the specs of your PC:
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
@@ -164,10 +178,10 @@ To check the specs of your PC:
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
@@ -181,26 +195,13 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Make sure your system is up to date
@@ -217,10 +218,10 @@ Here are the steps:
 3. Wait a while for Windows to check and automatically install the updates for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -246,14 +247,24 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-beyond-the-buzzwords-the-leading-edits-without-vimeo/"><u>[New] Beyond the Buzzwords The Leading Edits Without Vimeo</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-perfecting-your-tone-techniques-for-zoom-podcast-sessions/"><u>[New] Perfecting Your Tone Techniques for ZOOM Podcast Sessions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-artists-companion-a-curated-list-of-8-premier-iphone-drawing-tools-for-2024/"><u>[New] The Artist's Companion A Curated List of 8 Premier iPhone Drawing Tools for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/bless-unleashed-troubleshooting-how-to-eliminate-lag-spikes-and-reduce-ping-on-pc/"><u>Bless Unleashed Troubleshooting: How to Eliminate Lag Spikes and Reduce Ping on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012128769-cure-marvels-guardians-of-the-galaxy-pc-glitches-with-these-8-essential-fixes/"><u>Cure Marvel's Guardians of the Galaxy PC Glitches with These 8 Essential Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/formula-1-22021-stability-improvements-resolving-frequent-crashes-on-personal-computers/"><u>Formula 1 2#2021 Stability Improvements: Resolving Frequent Crashes on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723006890656-madden-nfl-21-pc-stability-issues-heres-how-to-resolve-them/"><u>Madden NFL 21 PC Stability Issues? Here's How to Resolve Them</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/oming-obscured-viewing-fix-for-youtube-for-2024/"><u>Overcoming Obscured Viewing Fix for Youtube for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-the-ultimate-hack-grabbing-gif-images-from-tweets/"><u>[New] 2024 Approved The Ultimate Hack Grabbing GIF Images From Tweets</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-sound-in-sight-mixing-music-into-microsofts-presentation-tool/"><u>[New] In 2024, Sound in Sight Mixing Music Into Microsoft's Presentation Tool</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-encyclopedia-reacting-effectively-on-youtube-vids/"><u>[Updated] The Ultimate Encyclopedia Reacting Effectively on YouTube Vids</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-gt-neo-5-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/directing-biometric-access-control-for-windows-11-users/"><u>Directing Biometric Access Control for Windows 11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/dying-light-frame-rate-problem-solutions-and-fixes/"><u>Dying Light Frame Rate Problem: Solutions & Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-diablo-2-resurrected-sudden-shutdowns/"><u>Fixes for 'Diablo 2: Resurrected' Sudden Shutdowns</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-premier-pro-freezing-issues-on-windows-11-and-10/"><u>Fixing Premier Pro Freezing Issues on Windows 11 and 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-when-resident-evil-village-wont-start/"><u>How to Resolve When Resident Evil Village Won't Start</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-8-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 8 Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oneplus-open-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your OnePlus Open Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-inside-the-wearable-world-how-does-vr-work/"><u>In 2024, Inside the Wearable World How Does VR Work?</u></a></li>
+<li><a href="https://win-able.techidaily.com/mass-effect-ultimate-collection-bug-fixes-now-include-stutteringstutter-free-experience-guarantee/"><u>Mass Effect Ultimate Collection Bug Fixes Now Include Stuttering/Stutter-Free Experience Guarantee</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-quick-fixes-forcing-a-restart-to-safe-mode-on-your-windows-machine/"><u>Mastering Quick Fixes: Forcing a Restart to Safe Mode on Your Windows Machine</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-msvcr110dll-missing-file-issue-in-helldivers-2/"><u>Resolving the 'msvcr110.dll Missing File' Issue in HellDivers 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-the-sound-heres-how-you-can-resolve-audio-problems-in-minecraft-for-windowsmac/"><u>Trouble with the Sound? Here's How You Can Resolve Audio Problems in Minecraft for Windows/Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-madden-nfl-21-pc-instability-issues/"><u>Troubleshooting Guide: Fixing Madden NFL 21 PC Instability Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-eliminating-valorants-pc-crashes-for-good/"><u>Ultimate Troubleshooting Guide: Eliminating Valorant's PC Crashes for Good</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/your-map-to-entering-the-world-of-win-11-beta-testers/"><u>Your Map to Entering the World of Win 11 Beta Testers</u></a></li>
 </ul></div>
 

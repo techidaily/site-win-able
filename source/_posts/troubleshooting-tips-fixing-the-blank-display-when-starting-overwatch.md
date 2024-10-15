@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Fixing the Blank Display when Starting Overwatch"
-date: 2024-10-03T17:45:55.842Z
-updated: 2024-10-08T17:20:16.504Z
+date: 2024-10-11T20:08:34.943Z
+updated: 2024-10-15T03:32:54.794Z
 tags:
   - win11
   - win10
@@ -53,10 +53,10 @@ If you still have the issue, you can try the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 Turn off Discord Overlay and Hardware Acceleration
@@ -69,27 +69,20 @@ If you still have the issue, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay-1200x685.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Advanced** tab and turn off**Hardware Acceleration** . Your Discord will be restarted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-hardware-acceleration-1-1200x638.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 Allow FIFA 19 to run through the Firewall
 
@@ -121,13 +114,6 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged driver to automatically download the correct version of this driver, and then you can manually install it (you can do this with the FREE version).
 
 OR
@@ -135,6 +121,13 @@ OR
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -151,13 +144,6 @@ OR
  Your FIFA 19 should be working properly again now. If not, you can try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6 Force Vertical Sync and Triple Buffering on
 
@@ -178,13 +164,6 @@ OR
  Click**Apply** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/force-V-Sync-On.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For AMD users:  
 
@@ -277,21 +256,22 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/system-config.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services.png)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Startup** tab, then**Open Task Manager** .
@@ -301,6 +281,13 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  4) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/startup.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Go back to **System Configuration** , then click **OK** to save the changes.
 
@@ -323,21 +310,22 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/power-shell.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re on Windows 11, it will be**Terminal (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Copy the following command and press**Enter** .
 
@@ -372,15 +360,22 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-best-practices-when-basking-in-the-podcast-glow-for-2024/"><u>[New] Best Practices When Basking in the Podcast Glow for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quality-overload-top-10-hd-video-apps-for-your-android/"><u>2024 Approved Quality Overload Top 10 HD Video Apps for Your Android</u></a></li>
-<li><a href="https://win-able.techidaily.com/2024s-best-fixes-for-call-of-duty-warzone-lag-and-freezes-on-personal-computers/"><u>2024'S Best Fixes for Call of Duty Warzone Lag and Freezes on Personal Computers</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/discover-amazons-best-the-hottest-tiktok-items-you-must-know-for-2024/"><u>Discover Amazon's Best The Hottest TikTok Items You Must Know for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/essential-techniques-and-secrets-for-success-in-roller-champions-pc-multiplayer-edition-guide-updated-for-216/"><u>Essential Techniques & Secrets for Success in Roller Champions PC Multiplayer Edition (Guide Updated for 2^16)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fast-track-update-your-logitech-peripherals-on-windows-with-hassle-free-driver-downloads/"><u>Fast Track: Update Your Logitech Peripherals on Windows with Hassle-Free Driver Downloads</u></a></li>
-<li><a href="https://win-able.techidaily.com/from-silent-dragons-to-roaring-battles-solving-skyrims-sound-malfunctions/"><u>From Silent Dragons to Roaring Battles: Solving Skyrim's Sound Malfunctions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-drone-tech-leading-gimbals-ranked/"><u>In 2024, Top Drone Tech Leading Gimbals Ranked</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-infinix-hot-40-pro-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Infinix Hot 40 Pro Phone</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-freezes-in-path-of-exile-easy-solutions-and-tips-for-smooth-gaming/"><u>No More Freezes in Path of Exile: Easy Solutions & Tips for Smooth Gaming</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-step-by-step-adding-snap-camera-to-teams-chats/"><u>[New] In 2024, Step-by-Step Adding Snap Camera to Teams Chats</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-poco-x6-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Poco X6 by Name | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-unending-initialization-error-on-anthem-interface/"><u>Addressing Unending Initialization Error on Anthem Interface</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-issues-and-solutions-restoring-your-discord-camera-functionality/"><u>Common Issues & Solutions: Restoring Your Discord Camera Functionality</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fixes-for-smooth-minecraft-gaming-on-your-computer/"><u>Comprehensive Fixes for Smooth Minecraft Gaming on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/echoes-lost-voices-found-correcting-fallout-amoanqf4-no-output-problems-on-desktop/"><u>Echoes Lost, Voices Found: Correcting Fallout Amoanqf4 No Output Problems on Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-adobe-failed-to-launch-properly-error-code-0xc0000022/"><u>Fixing the 'Adobe Failed to Launch Properly' Error Code 0xC0000022</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-hunger-malfunctions-and-improve-performance-in-dread-game-for-windows-users/"><u>How to Resolve Hunger Malfunctions and Improve Performance in Dread Game for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-s18-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo S18 phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-charting-a-course-for-cash-flows-the-3-step-methodology-for-measuring-youtube-earnings/"><u>In 2024, Charting a Course for Cash Flows The 3-Step Methodology for Measuring YouTube Earnings</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-new-gen-game-latency-a-comprehensive-guide-for-smooth-play/"><u>Overcoming New-Gen Game Latency: A Comprehensive Guide for Smooth Play</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professionals-guide-to-top-10-fcp-tools/"><u>Professional's Guide to Top 10 FCP Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/reducing-sound-levels-gradually-with-easy-steps-in-lumafusion-for-2024/"><u>Reducing Sound Levels Gradually with Easy Steps in Lumafusion for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-tecno-spark-10-pro-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Tecno Spark 10 Pro without backup.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-wealth-reddits-top-13-money-making-methods-for-2024/"><u>Unlocking Wealth Reddit's Top 13 Money-Making Methods for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-hasnt-elden-ring-hit-the-market-exploring-the-reasons-behind-its-hold-up/"><u>Why Hasn't Elden Ring Hit the Market? Exploring the Reasons Behind Its Hold-Up</u></a></li>
 </ul></div>
 

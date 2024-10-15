@@ -1,7 +1,7 @@
 ---
 title: "Solving Persona 5 Strikers Display Problems: Black Screen Solutions Available"
-date: 2024-09-10T14:09:00.798Z
-updated: 2024-09-11T14:09:00.798Z
+date: 2024-10-10T17:24:42.763Z
+updated: 2024-10-14T17:03:31.482Z
 tags:
   - win11
   - win10
@@ -19,33 +19,10 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 
  Elden Ring has finally arrived. However, many players are complaining that they encounter many performance issues when playing the game. And one of the issues that trouble many players is the**black screen problem on startup** . When this happens, players can see and move the game cursor and hear the music playing, but nothing else is displayed. If you’re facing the same issue, don’t worry. Here we’ve put together all the working fixes for you to try.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -57,20 +34,6 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 4. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Launch the game in windowed mode
 
@@ -84,59 +47,32 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-windowed-mode.jpg)
 4. Close the**Properties** window and launch the game.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Restart your graphics driver
 
  When you get a black screen on your Windows PC, you can try using the keyboard shortcut**Windows logo key + Ctrl + Shift + B** to restart your graphics driver. If Windows is responsive, your screen will flash and then the game should work fine. But if not, go ahead with the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Update your graphics driver
 
@@ -172,19 +108,12 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
  Launch Elden Ring again and check if you still get stuck on a black screen.
 
@@ -195,29 +124,24 @@ If the issue persists, move on to the next fix.
 1. On your keyboard, press the**Windows logo key** . Type**check for updates** . Then click**Check for updates** from the list of results.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the**Check for updates** button.  
-![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
-
- When updates are available, follow the on-screen instructions to download and install them.
-
-
-
-
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+ When updates are available, follow the on-screen instructions to download and install them.
 
 ### Fix 5: Verify the integrity of game files
 
@@ -243,35 +167,8 @@ If the issue remains, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, toggle off**Enable the Steam Overlay while in-game** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
 4. Close the**Properties** window and launch the game.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 Now check if the black screen issue has gone away.
 
@@ -289,8 +186,6 @@ Now check if the black screen issue has gone away.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -298,12 +193,26 @@ Now check if the black screen issue has gone away.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-subscribe-bonanza-thousands-acquired-for-just-5-for-2024/"><u>[Updated] Subscribe Bonanza Thousands Acquired for Just $5 for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1-uncover-lost-imessages-a-guide-to-retrieving-past-texts-on-your-iphone/"><u>1. Uncover Lost iMessages: A Guide to Retrieving Past Texts on Your iPhone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-flawless-frameworks-premium-webcams-for-your-podcasts/"><u>2024 Approved Flawless Frameworks Premium Webcams for Your Podcasts</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-garrys-mod-crashing-woes-updated-fixes-tips-and-solutions/"><u>Banish Garry's Mod Crashing Woes: Updated Fixes, Tips, and Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/beste-video-resizer-2023-professionelle-losungen-zur-komprimierung-von-4k1080p-videodateien/"><u>Beste Video-Resizer 2023: Professionelle Lösungen Zur Komprimierung Von 4K/1080p Videodateien</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/breaking-down-barriers-combining-obs-with-zoom/"><u>Breaking Down Barriers Combining OBS with Zoom</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-modern-warfare-3-stops-working-fixing-game-crashes-and-unexpected-closures-quickly/"><u>COD Modern Warfare 3 Stops Working: Fixing Game Crashes and Unexpected Closures Quickly</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-for-solving-steam-cannot-update-cloud-library-issues/"><u>Expert Advice for Solving 'Steam Cannot Update Cloud Library' Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-overcoming-image-scanning-discrepancies/"><u>Expert Tips on Overcoming Image Scanning Discrepancies</u></a></li>
+<li><a href="https://win-able.techidaily.com/freeze-thaw-cycles/"><u>Freeze-Thaw Cycles:</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-tecno-phantom-v-fold-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Tecno Phantom V Fold Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-infinix-note-30-vip-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Infinix Note 30 VIP.</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/losen-sie-probleme-mit-clonezilla-warum-das-system-die-partition-nicht-finden-kann/"><u>Lösen Sie Probleme Mit Clonezilla: Warum Das System Die Partition Nicht Finden Kann</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fixes-navigate-past-the-new-world-connection-snag/"><u>Mastering Fixes: Navigate Past The 'New World Connection' Snag</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-no-compatible-graphics-hardware-was-found-solved/"><u>Overwatch No Compatible Graphics Hardware Was Found [Solved]</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-resolving-javascript-issues-in-discord/"><u>Quick Solutions: Resolving JavaScript Issues in Discord</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-initialization-error-of-vanguard-ability-on-valorant-a-comprehensive-fix/"><u>Troubleshooting the Initialization Error of Vanguard Ability on Valorant: A Comprehensive Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-cant-i-play-diablo-immortal-on-my-computer-insights-and-expectations/"><u>Why Can't I Play Diablo Immortal on My Computer? Insights & Expectations</u></a></li>
+</ul></div>
 

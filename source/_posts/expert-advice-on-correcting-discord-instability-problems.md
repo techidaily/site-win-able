@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Correcting Discord Instability Problems
-date: 2024-10-06T19:29:02.179Z
-updated: 2024-10-08T21:30:41.287Z
+date: 2024-10-08T03:33:14.872Z
+updated: 2024-10-15T01:05:06.520Z
 tags:
   - win11
   - win10
@@ -107,21 +107,7 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify your game files
 
@@ -133,6 +119,19 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-129.png)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select**Verify files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-130.png)
@@ -143,16 +142,22 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Epic Game Launcher
 
@@ -162,15 +167,22 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-119.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Verify** to start verifying the game files.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-123.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
@@ -189,13 +201,6 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-124.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Go to**the Compatibility tab** and click**Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-126.png)
@@ -203,6 +208,13 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
  3)**Check the box** next to**Override high DPI scaling behavior** and select**Scaling performed by: Application** . Then click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-127.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4)**Tick the box** next to**Disable fullscreen optimizations** and click**OK** .
 
@@ -228,13 +240,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-150.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Settings** … in the**Performance** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-151.png)
@@ -242,6 +247,13 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  4) Under**the Advanced tab** , click**Change…** in the**Virtual memory** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-152.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5)**Check the box** next to**Automatically manage paging file size for all drives** . Then click OK to save the changes.
 
@@ -271,16 +283,16 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-157-1024x756.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Set**Reflection Quality** to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-158-1024x758.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Set**Vegetation Quality** to**Medium** .
 
@@ -294,16 +306,16 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-161-1024x777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  9) Set the value of**Object Detail** to**50** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-162-1024x759.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10) Set**Terrain Quality** to**Medium** . Then save all the changes.
 
@@ -332,20 +344,21 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-science-of-social-media-optimizing-post-performance-on-instagram-for-2024/"><u>[New] The Science of Social Media Optimizing Post Performance on Instagram for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-ultimate-top-12-tycoons-your-gateway-to-game-dominance/"><u>[Updated] In 2024, The Ultimate Top 12 Tycoons - Your Gateway to Game Dominance</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-a-comprehensive-examination-of-lg-27ud68-display-tech/"><u>2024 Approved A Comprehensive Examination of LG 27UD68 Display Tech</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-of-the-best-smartphone-ready-vr-headset-roundup/"><u>2024 Approved Best of the Best Smartphone-Ready VR Headset Roundup</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/a-treasure-trove-of-9-complete-holiday-flicks-free-streaming/"><u>A Treasure Trove of 9 Complete Holiday Flicks, Free Streaming</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-how-walmartplus-can-enhance-your-shopping-journey/"><u>Discover How Walmart+ Can Enhance Your Shopping Journey</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-fix-heartcrashes-on-pc-to-enjoy-uninterrupted-play-in-hearthstone/"><u>Expert Advice: Fix Heartcrashes on PC to Enjoy Uninterrupted Play in Hearthstone</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-correctly-address-and-repair-the-notorious-0xc19001e1-glitch-in-w10/"><u>Expert Tips to Correctly Address and Repair the Notorious 0xC19001E1 Glitch in W10</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-lower-fps-in-forza-horizon-5-tips-and-tricks/"><u>Fixing Lower FPS in Forza Horizon 5: Tips and Tricks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-13-pro-max-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 13 Pro Max Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/meeting-vanguards-minimum-requirements-improving-your-computers-processor-power/"><u>Meeting Vanguard's Minimum Requirements: Improving Your Computer's Processor Power</u></a></li>
-<li><a href="https://win-able.techidaily.com/outriders-optimization-how-we-overcame-slow-motion-gameplay-woes/"><u>Outriders Optimization - How We Overcame Slow Motion Gameplay Woes</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-relink-function-failures-for-an-enhanced-granblue-fantasy-experience/"><u>Overcoming 'Relink' Function Failures for an Enhanced Granblue Fantasy Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-common-issues-in-jurasseic-world-evolution-solutions-revealed/"><u>Troubleshooting Common Issues in Jurasseic World Evolution - Solutions Revealed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-essential-sites-for-high-end-vector-images/"><u>[New] 2024 Approved Essential Sites for High-End Vector Images</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-architectural-marvels-for-vr-display/"><u>[Updated] In 2024, Architectural Marvels for VR Display</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-perils-of-faux-youtube-supporter-purchases/"><u>[Updated] The Perils of Faux YouTube Supporter Purchases</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/bridging-the-gap-in-file-exchange-mastering-the-art-of-sending-files-between-windows-and-android-with-googles-quick-share-feature-tech-tips-by-zdnet/"><u>Bridging the Gap in File Exchange: Mastering the Art of Sending Files Between Windows and Android with Google's Quick Share Feature | Tech Tips by ZDNET</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-steps-to-set-up-asgard-addon-in-kodi-versions-20-and-19/"><u>Easy Steps to Set Up Asgard Addon in Kodi Versions 20 and 19</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-when-pages-wont-display-correctly-in-chrome/"><u>Effective Solutions for When Pages Won't Display Correctly in Chrome</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-frame-rates-now-6-effective-techniques-to-solve-elden-rings-fps-challenges/"><u>Enhance Frame Rates Now! 6 Effective Techniques to Solve Elden Ring's FPS Challenges</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-motorola-g54-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Motorola G54 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/insufficient-cpu-warning-boost-your-processor-power-for-seamless-vanguard-use/"><u>Insufficient CPU Warning: Boost Your Processor Power for Seamless Vanguard Use</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-gameplay-overcoming-latency-challenges-in-cod-black-ops-4/"><u>Optimizing Your Gameplay: Overcoming Latency Challenges in Cod: Black Ops 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-common-causes-and-fixes-for-fatal-error-in-arise-tales-ue4-edition/"><u>Resolved: Common Causes and Fixes for 'Fatal Error' In Arise Tales - UE4 Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolved-windows-error-during-disk-formatting-fix-and-steps/"><u>Resolved: Windows Error During Disk Formatting - Fix and Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-problem-of-non-responsive-microsoft-outlook/"><u>Solving the Problem of Non-Responsive Microsoft Outlook</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-fixing-fallout-3s-freezing-problem-in-windows-11-environments/"><u>Troubleshooting Steps for Fixing Fallout 3'S Freezing Problem in Windows 11 Environments</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-powerdirector-color-grading-tips-for-seamless-clip-integration/"><u>Updated PowerDirector Color Grading Tips for Seamless Clip Integration</u></a></li>
 </ul></div>
 

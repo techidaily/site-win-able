@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting High Disk and CPU Load in WSAPPX: A Step-by-Step Guide to Optimization"
-date: 2024-10-01T23:07:09.408Z
-updated: 2024-10-08T23:21:39.195Z
+date: 2024-10-09T23:12:05.236Z
+updated: 2024-10-14T21:25:35.408Z
 tags:
   - win11
   - win10
@@ -62,19 +62,6 @@ thumbnail: https://thmb.techidaily.com/c7d5334a16d86bd0def81a6a6e6f6a57897cdf76f
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Stop overclocking
 
  Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent game crashes, you should reset the CPU or the graphics card to the manufacturer specifications.
@@ -88,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/c7d5334a16d86bd0def81a6a6e6f6a57897cdf76f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here are the system requirements for Control:
 
@@ -116,15 +110,23 @@ Here are the system requirements for Control:
 2. View the Control Panel by **Large icons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
@@ -137,6 +139,19 @@ Here are the system requirements for Control:
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Modify Intel graphics card
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
@@ -146,36 +161,32 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
@@ -200,13 +211,6 @@ Here are the system requirements for Control:
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
@@ -233,21 +237,7 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-49-47.png)
 2. Click **Verify** to start verifying the game files.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
@@ -270,13 +260,20 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 See if this fix works for you. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 11: Reinstall the game
@@ -305,20 +302,16 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ecoding-the-economic-incentives-behind-youtubes-shorts-programme/"><u>[New] Decoding the Economic Incentives Behind YouTube's Shorts Programme</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-freeframe-forum-a-collectors-paradise-for-budget-friendly-backgrounds/"><u>[Updated] The FreeFrame Forum A Collector's Paradise for Budget-Friendly Backgrounds</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-assessing-the-right-level-of-luminosity-in-creative-hdr-ventures/"><u>2024 Approved Assessing the Right Level of Luminosity in Creative HDR Ventures</u></a></li>
-<li><a href="https://win-able.techidaily.com/common-launch-errors-in-farming-simulator-22-and-how-to-correct-them/"><u>Common Launch Errors in Farming Simulator 22 and How to Correct Them</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/elite-watchlist-top-10-advanced-video-capture-programs/"><u>Elite Watchlist Top 10 Advanced Video Capture Programs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-asus-rog-phone-8-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Asus ROG Phone 8 Pro to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-smartphone-video-recording-assistants/"><u>In 2024, Best Smartphone Video Recording Assistants</u></a></li>
-<li><a href="https://win-able.techidaily.com/play-without-pause-fixing-the-crash-glitches-of-immortals-fenyx-rising/"><u>Play Without Pause: Fixing the Crash Glitches of Immortals Fenyx Rising</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-for-instant-reload-resolving-apex-legends-issues/"><u>Quick Fixes for Instant Reload: Resolving Apex Legends Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-issues-steps-to-recover-from-an-unresponsive-nvidia-control-panel/"><u>Resolving Issues: Steps to Recover From an Unresponsive NVIDIA Control Panel</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-adventures-how-to-fix-dauntless-stuttering-lag-and-freezing-on-pc/"><u>Seamless Adventures: How to Fix Dauntless Stuttering, Lag, & Freezing on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-pathway-to-high-frame-rate-mastery-surpassing-120-fps-on-your-ps5/"><u>The Pathway to High Frame Rate Mastery: Surpassing 120 FPS on Your PS5</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-6-solutions-to-improve-performance-and-stability-in-baldurs-gate/"><u>Top 6 Solutions to Improve Performance and Stability in Baldur's Gate</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-your-football-manager-202n1-pc-solutions-to-end-game-crashing-woes/"><u>Troubleshooting Your Football Manager 202N1 PC: Solutions to End Game Crashing Woes</u></a></li>
-<li><a href="https://fox-info.techidaily.com/ultimate-index-downloading-your-preferred-chime-files-for-2024/"><u>Ultimate Index Downloading Your Preferred Chime Files for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-documenting-digital-dialogues/"><u>[New] Documenting Digital Dialogues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-crafting-effective-in-stream-ad-campaigns-on-facebook-a-comprehensive-guide/"><u>[Updated] 2024 Approved Crafting Effective In-Stream Ad Campaigns on Facebook A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-transitional-beats-with-cross-sound-blending/"><u>[Updated] Crafting Transitional Beats with Cross-Sound Blending</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-unlock-viewer-interest-with-these-5-effective-tiktok-captions/"><u>[Updated] In 2024, Unlock Viewer Interest with These 5 Effective TikTok Captions</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-discord-connection-issues-a-guide-to-overcoming-packet-loss/"><u>Fixing Discord Connection Issues: A Guide to Overcoming Packet Loss</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-correcting-mouse-malfunctions-in-resident-evil-the-enemy-within/"><u>Guide: Correcting Mouse Malfunctions in Resident Evil - The Enemy Within</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stabilize-your-gameplay-fixing-bugs-in-mass-effect-trilogy-definitive-edition-on-pc-and-xbox/"><u>How to Stabilize Your Gameplay - Fixing Bugs in Mass Effect Trilogy Definitive Edition on PC and Xbox</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-8t-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 8T 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-6-free-talking-stock-photo-sites/"><u>In 2024, Top 6 Free Talking Stock Photo Sites</u></a></li>
+<li><a href="https://win-able.techidaily.com/spellbreak-pc-woes-heres-your-ultimate-guide-to-uninterrupted-gaming/"><u>Spellbreak PC Woes? Here's Your Ultimate Guide to Uninterrupted Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-a-non-functioning-paradox-launcher/"><u>Troubleshooting Guide: Resolving Issues with a Non-Functioning Paradox Launcher</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Gobi Fatal Error in Ubisoft's Back Cu Blood: A Guide for Unreal Engine 4 Players"
-date: 2024-10-06T17:51:59.824Z
-updated: 2024-10-08T22:30:07.620Z
+date: 2024-10-13T22:10:09.578Z
+updated: 2024-10-15T04:29:38.918Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 7: Stop overlocking your GPU/CPU](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
 
@@ -77,13 +70,34 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -118,10 +132,10 @@ If the game still crashes, try the next fix below.
 If the crash still occurs, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
@@ -137,10 +151,10 @@ If the crash still occurs, go ahead with the next fix.
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Launch the game with DirectX 10
@@ -159,16 +173,16 @@ If the crash still occurs, go ahead with the next fix.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
 
@@ -180,25 +194,11 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Apply > OK** .
 
  4) Relaunch the game to test your issue.
 
 If the problem still exists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
 
@@ -231,18 +231,21 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/approved-expertly-lit-the-17-must-haves-for-youtubers/"><u>2024 Approved Expertly Lit The 17 Must-Haves for Youtubers</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/automated-user-tracking-with-cookiebot-enhancing-your-websites-analytics/"><u>Automated User Tracking with Cookiebot: Enhancing Your Website's Analytics</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723003565146-call-of-duty-black-ops-4-not-launching-discover-how-to-fix-it-now/"><u>Call of Duty Black Ops 4 Not Launching? Discover How to Fix It Now</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-launch-crisis-addressed-what-you-need-to-know/"><u>Cyberpunk 2077 Launch Crisis Addressed: What You Need to Know</u></a></li>
-<li><a href="https://win-able.techidaily.com/decode-handling-fatal-dev-bugs-within-activisions-modern-warfare-series-and-battle-royale-mode/"><u>Decode: Handling Fatal (Dev) Bugs Within Activision's Modern Warfare Series & Battle Royale Mode</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-techniques-to-resolve-gta-5-not-loading-dilemma/"><u>Effective Techniques to Resolve 'GTA 5 Not Loading' Dilemma</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-easily-set-up-a-home-theater-system-without-cords-in-your-college-living-space/"><u>How to Easily Set Up a Home Theater System Without Cords in Your College Living Space</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-troubleshoot-common-issues-with-closed-captioning-in-windows-10/"><u>How to Troubleshoot Common Issues with Closed Captioning in Windows 10</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-layering-youtube-songs-onto-video-plays/"><u>In 2024, Layering YouTube Songs Onto Video Plays</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/onikuma-headset-mic-malfunction-heres-how-you-can-fix-it/"><u>Onikuma Headset Mic Malfunction? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revolutionize-your-viewing-in-depth-analysis-of-lg-c9-oled-65-inch-screens-stunning-4k-performance/"><u>Revolutionize Your Viewing: In-Depth Analysis of LG C9 OLED 65-Inch Screen's Stunning 4K Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/steps-to-overcome-persistent-freezing-problems-in-fusion-360/"><u>Steps to Overcome Persistent Freezing Problems in Fusion 360</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-15-zero-cost-antivirus-software-our-top-bootable-selections/"><u>Top 15 Zero-Cost Antivirus Software: Our Top Bootable Selections</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-complete-routine-for-hulu-capture-on-diverse-devices/"><u>[New] The Complete Routine for Hulu Capture on Diverse Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-become-a-yt-hub-pro-complete-guide-revealed-for-2024/"><u>[Updated] Become a YT Hub Pro Complete Guide Revealed for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-enhance-your-storytelling-mastering-the-green-screen-on-instagram-for-2024/"><u>[Updated] Enhance Your Storytelling Mastering the Green Screen on Instagram for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-drones-leap-into-clarity-q500-reviewed/"><u>2024 Approved A Drone's Leap Into Clarity - Q500 Reviewed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-samsung-galaxy-z-fold-5-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Samsung Galaxy Z Fold 5 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-discord-streaming-disruptions/"><u>Effective Fixes for Discord Streaming Disruptions</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-titanfall-2-glitches-step-by-step-easy-fix-for-continuous-crashes/"><u>Eliminate Titanfall 2 Glitches - Step-by-Step Easy Fix for Continuous Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-steam-interruptions-easy-fixes-for-a-smoother-gaming-experience/"><u>End Steam Interruptions: Easy Fixes for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/expert-free-fb-image-creator-no-fee/"><u>Expert Free FB Image Creator (No Fee)</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-note-13-pro-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi Note 13 Pro 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-iphone-12-mini-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From iPhone 12 mini Smoothly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a15-4g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A15 4G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-dead-by-daylights-2024-crash-glitches-with-these-proven-solutions-and-tips/"><u>Overcome Dead By Daylight's 2024 Crash Glitches with These Proven Solutions & Tips!</u></a></li>
+<li><a href="https://win-able.techidaily.com/start-menu-not-working-in-windows-11-solved/"><u>Start Menu Not Working in Windows 11 [Solved]</u></a></li>
+<li><a href="https://win-able.techidaily.com/team-fortress-2-now-running-smoothly-after-initial-glitches/"><u>Team Fortress 2 Now Running Smoothly After Initial Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/wrc-10-fix-resolving-issues-with-the-fia-world-rally-championship-game-crashes-on-windows-pc/"><u>WRC 10 Fix: Resolving Issues with the FIA World Rally Championship Game Crashes on Windows PC</u></a></li>
 </ul></div>
 

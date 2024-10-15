@@ -1,7 +1,7 @@
 ---
 title: Boosting Forza Horizon 5 Visuals? Update Your Graphic Drivers Today
-date: 2024-09-10T14:10:59.623Z
-updated: 2024-09-11T14:10:59.623Z
+date: 2024-10-13T05:34:24.692Z
+updated: 2024-10-14T21:58:43.205Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ thumbnail: https://thmb.techidaily.com/3269c858221e8ab75b91d65fc2cbdc3bf0d972fb5
 
  Forza Horizon 5 is finally here. However, some players reported that they were unable to launch the game and got the message saying that “**Please update your graphics driver…(Code: FH301)** ”. If you’re facing the same error, don’t worry. Here we’ll tell you how to update your graphics driver easily and quickly.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Three ways to update your graphics driver
 
@@ -41,75 +38,37 @@ thumbnail: https://thmb.techidaily.com/3269c858221e8ab75b91d65fc2cbdc3bf0d972fb5
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/start-device-manager.jpg)
 2. In Device Manager, double-click**Display adapters** to expand it.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/display-adapter.jpg)
 3. Right-click your**graphics card** and select**Update driver** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/graphics-update-driver.jpg)
 4. Select**Search automatically for drivers** . Windows will automatically search for the latest driver for your graphics card and then install it.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/search-automatically-for-drivers.jpg)
 5. Once the process is complete, restart your computer.
 
  If Windows doesn’t find a new driver, you can try looking for one from your graphics card manufacturer’s website or by using a third-party driver updater.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Method 2: Update graphics driver automatically (Recommended)
 
@@ -122,25 +81,19 @@ thumbnail: https://thmb.techidaily.com/3269c858221e8ab75b91d65fc2cbdc3bf0d972fb5
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After installing the latest graphics driver, restart your PC for the changes to take effect. Now you should be able to launch Forza Horizon 5.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Update your graphics driver manually
 
@@ -150,19 +103,6 @@ thumbnail: https://thmb.techidaily.com/3269c858221e8ab75b91d65fc2cbdc3bf0d972fb5
 2. Select the**type of your graphics card** and your**operating system** . Once you locate the correct one, select the latest version to**download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/nvidia-driver.jpg)
 3. Once downloaded,**double-click** on the downloaded file and follow the on-screen instructions to install the driver.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 4. **Restart** your PC and check if you can launch Forza horizon 5.
 
@@ -179,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/3269c858221e8ab75b91d65fc2cbdc3bf0d972fb5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,12 +126,20 @@ thumbnail: https://thmb.techidaily.com/3269c858221e8ab75b91d65fc2cbdc3bf0d972fb5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unique-book-trail-showcases/"><u>[New] In 2024, Unique Book Trail Showcases</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-vr-bike-games-a-compreayers-guide-for-2024/"><u>[New] TOP VR Bike Games A Compreayer’s Guide for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-game-ahead-with-funimates-easy-apk-instructions-for-2024/"><u>[Updated] Game Ahead with Funimate's Easy APK Instructions for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-how-to-upload-a-video-on-twitter-for-2024/"><u>[Updated] How to Upload a Video on Twitter for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-5-stability-guide-resolving-pc-performance-and-crash-problems/"><u>Battlefield #5 Stability Guide - Resolving PC Performance and Crash Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-fixing-the-constant-freezing-problem-in-gas-station-simulator-for-personal-computers/"><u>Diagnosing and Fixing the Constant Freezing Problem in Gas Station Simulator for Personal Computers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-joining-the-twitter-community-from-scratch/"><u>In 2024, Joining the Twitter Community From Scratch</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y27-4g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y27 4G Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-instability-in-subnautica-below-zero-tips-and-tricks-for-pc-gamers/"><u>Resolving Instability in Subnautica: Below Zero - Tips and Tricks for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-black-screen-problem-in-fallout-4-quick-fix-guide/"><u>Solve Your 'Black Screen' Problem in Fallout 4 - Quick Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-lag-in-resident-evil-village-pc-edition-explained/"><u>Troubleshooting & Solving Lag in Resident Evil Village - PC Edition Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-steps-resolving-battlenet-launch-issues/"><u>Ultimate Troubleshooting Steps: Resolving Battle.net Launch Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/wsappx-explained-managing-high-resource-usage-on-your-computer/"><u>WSAPPX Explained: Managing High Resource Usage on Your Computer</u></a></li>
+</ul></div>
 

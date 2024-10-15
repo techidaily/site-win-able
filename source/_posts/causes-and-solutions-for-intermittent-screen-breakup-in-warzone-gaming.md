@@ -1,7 +1,7 @@
 ---
 title: Causes & Solutions for Intermittent Screen Breakup in Warzone Gaming
-date: 2024-10-06T18:38:40.570Z
-updated: 2024-10-08T18:45:24.573Z
+date: 2024-10-13T20:10:49.326Z
+updated: 2024-10-14T16:24:10.415Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
   
 ![check if a game supports Steam Remote Play or not](https://images.drivereasy.com/wp-content/uploads/2020/10/check-if-a-game-supports-Steam-Remote-Play-or-not.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you’ve made sure that your game supports Remote Play, you can perform the troubleshooting steps below to fix the issue.
 
 ---
@@ -78,13 +71,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
  Or you can go to the device manufacturer’s driver download page. Then find the correct driver for your system, download and install it step by step.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 2 – Automatically update your drivers** (recommended)
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -102,6 +88,13 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-video-card-driver.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, try connecting to your remote computer to check if it works.
@@ -116,13 +109,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![disable hardware encoding Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the left pane of the window, select**Remote Play** . Then click**ADVANCED CLIENT OPTIONS** .  
   
 ![disable hardware encoding Steam Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play.jpg)
@@ -130,6 +116,13 @@ The Steam Remote Play is a feature that allows you to stream your games from you
  3) Uncheck the option**Enable hardware decoding** and then click**OK** .
 
 ![disable hardware decoding Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play-not-working.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now try reconnecting your device to check if the issue persists.
 
@@ -142,10 +135,10 @@ Now try reconnecting your device to check if the issue persists.
  1) On the bottom right hand side of your screen, right-click on the network![network icon](https://images.drivereasy.com/wp-content/uploads/2020/10/network-icon.png) or Wi-Fi![wifi icon](https://images.drivereasy.com/wp-content/uploads/2020/10/wifi-icon.png) icon. Then select**Open Network & Internet settings** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-IPv6-select-open-network-settings.jpg)
@@ -162,16 +155,16 @@ Now try reconnecting your device to check if the issue persists.
 
 ![uncheck the checkbox Internet Protocol Version 6](https://images.drivereasy.com/wp-content/uploads/2020/10/uncheck-the-checkbox-Internet-Protocol-Version-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Now restart your computer for the settings to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Use a static IP address
 
@@ -182,10 +175,10 @@ To set a static IP address, you can:
  1) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **R**  at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Type**ncpa.cpl** and press**Enter** .
@@ -197,26 +190,27 @@ To set a static IP address, you can:
 
 ![set a static ip address to fix Steam Remote Play not working issue](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In the**Properties** window for the adapter, select**Internet Protocol Version 4 (TCP/IPv4)** and then click the**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-to-fix-Steam-Remote-Play-not-working-issue.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Select the**Use the following IP address** option. Then type in the**IP address** ,**Subnet mask,** and**Default Gateway** corresponding to your network setup.
 
 ![set a static ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To check them, you can:
 
@@ -236,16 +230,16 @@ To check them, you can:
 
 ![how to check my ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/check-my-ip-address-how-to.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Now you can see your**IPv4 Address, Subnet Mask and Default Gateway** .  
 
 ![my own ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/my-own-ip-address.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you’ve set a static IP address, try connecting to your devices to check if it works.
 
@@ -270,16 +264,24 @@ To check them, you can:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-mirthful-missions-delving-into-the-goofy-movie-vhs/"><u>[Updated] 2024 Approved 'Mirthful Missions' - Delving Into The Goofy Movie VHS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dispatching-digital-speed-dismantling-windows-100mbps-barrier/"><u>Dispatching Digital Speed: Dismantling Windows’ 100Mbps Barrier</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-and-tricks-preventing-elite-dangerous-game-crashes-on-windows/"><u>Expert Tips & Tricks: Preventing Elite Dangerous Game Crashes on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-oddworld-soulstorm-pc-game-launch-issues-complete-guide/"><u>How To Fix Oddworld Soulstorm PC Game Launch Issues - Complete Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-troubleshooting-guide-fixing-starfield-game-stability-problems/"><u>PC Troubleshooting Guide: Fixing Starfield Game Stability Problems</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/scrutinizing-the-value-in-a-new-apple-watch-release/"><u>Scrutinizing the Value in a New Apple Watch Release</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/streamline-capturing-and-saving-tweets-visuals-on-android/"><u>Streamline Capturing and Saving Tweets' Visuals on Android</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-complete-unstick-your-discord-stream-from-endless-loading/"><u>Troubleshooting Complete: Unstick Your Discord Stream From Endless Loading</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-for-fault-12707-in-call-of-duty-modern-warfare-3/"><u>Troubleshooting Guide for Fault #12707 in Call of Duty Modern Warfare 3</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-hp-laserjet-printer-drivers-for-windows-10/"><u>Update HP Laserjet Printer Drivers for Windows 10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-5-easy-free-methods-to-master-youtube-video-frames/"><u>[New] 2024 Approved 5 Easy, Free Methods to Master YouTube Video Frames</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-dodging-account-penaltinas-on-youtube/"><u>[New] 2024 Approved Dodging Account Penaltinas on Youtube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-efficient-onboarding-engaging-with-friends-via-instagram-live-for-2024/"><u>[New] Efficient Onboarding Engaging with Friends via Instagram Live for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-screenshot-synopsis-study/"><u>[New] ScreenShot Synopsis Study</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-advanced-tips-to-create-and-blend-hdr-images-using-lightroom/"><u>[Updated] 2024 Approved Advanced Tips to Create & Blend HDR Images Using Lightroom</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-comprehensive-guide-to-avoid-copyright-breaches-in-tiktok-videos/"><u>[Updated] Comprehensive Guide to Avoid Copyright Breaches in TikTok Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-reigniting-creativity-a-comprehensive-look-at-windows-10-for-editors/"><u>[Updated] Reigniting Creativity A Comprehensive Look at Windows 10 for Editors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-secrets-to-a-never-ending-snapstreak-inside-knowledge/"><u>[Updated] Secrets to a Never-Ending Snapstreak Inside Knowledge</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-illuminating-the-future-luminances-influence-on-hdr/"><u>2024 Approved Illuminating the Future Luminance’s Influence on HDR</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-6-free-talking-stock-photo-sites/"><u>2024 Approved Top 6 Free Talking Stock Photo Sites</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-crystal-clear-visuals-resolving-graphic-blurriness-in-call-of-duty-warzone-for-pc/"><u>Achieve Crystal-Clear Visuals: Resolving Graphic Blurriness in Call of Duty: Warzone for PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-steps-to-fix-your-discord-setup-hurdles/"><u>Effortless Steps to Fix Your Discord Setup Hurdles</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashing-problems-in-discord-app/"><u>How To Fix Persistent Crashing Problems in Discord App</u></a></li>
+<li><a href="https://win-able.techidaily.com/instantly-resolve-gamepad-issues-say-goodbye-to-constant-disconnects/"><u>Instantly Resolve Gamepad Issues - Say Goodbye to Constant Disconnects</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-low-frames-per-second-in-dayz-fast-and-easy-solutions-for-gamers/"><u>Master Low Frames Per Second in DayZ: Fast and Easy Solutions for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-game-crashing-here-are-8-proven-fixes-for-marvels-guardians-of-the-galaxy-issues/"><u>PC Game Crashing? Here Are 8 Proven Fixes for Marvel's Guardians of the Galaxy Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-starting-problems-heres-how-you-can-get-the-game-running-smoothly-again/"><u>Rainbow Six Siege Starting Problems? Here's How You Can Get the Game Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-baldurs-gate-3-launching-problem-on-pcmac/"><u>Resolving Baldur's Gate 3 Launching Problem on PC/MAC</u></a></li>
+<li><a href="https://win-able.techidaily.com/revive-your-steam-vr-experience-quick-fixes-if-its-not-detected-by-system/"><u>Revive Your Steam VR Experience: Quick Fixes if It's Not Detected by System</u></a></li>
 </ul></div>
 

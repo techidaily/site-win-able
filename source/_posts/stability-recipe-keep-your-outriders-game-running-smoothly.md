@@ -1,7 +1,7 @@
 ---
 title: "Stability Recipe: Keep Your Outriders Game Running Smoothly"
-date: 2024-09-10T14:14:58.604Z
-updated: 2024-09-11T14:14:58.604Z
+date: 2024-10-12T03:12:24.406Z
+updated: 2024-10-15T06:06:07.239Z
 tags:
   - win11
   - win10
@@ -17,33 +17,10 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 
 **Epic Games Launcher won’t open?** Don’t worry… Although it’s very frustrating, you’re not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -60,20 +37,6 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 1: End the Epic Games Launcher process in Task Manager
 
  Make sure the Epic Games launcher is not running in the background. If it is, when you double-click its shortcut on your desktop, it won’t launch. So you need to end the processes related to Epic Games Launcher in Task Manager first. Here’s how to do it:
@@ -82,29 +45,42 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/keyboard.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
 
  If Epic Games Launcher still won’t launcher, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
@@ -118,20 +94,6 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 3: Adjust your display settings
 
  Check your display settings if this issue persists. If you adjusted the size of text, apps, and other items, try changing it back. Here is how to check:
@@ -140,23 +102,16 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the**Scale and layout** section, make sure it is set to**100%** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 3) Run Epic Games Launcher again to see if this issue reappears.
 
@@ -189,25 +144,12 @@ _You can do it for free if you like, but it’s partly manual._
  The Pro version of Driver Easy comes with full technical support.  
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Change Epic Games Launcher Properties
 
@@ -216,20 +158,6 @@ _You can do it for free if you like, but it’s partly manual._
  1) On your desktop,**right-click** on**the shortcut of Epic Games Launcher** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
@@ -245,20 +173,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
  This issue may also be triggered by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Epic Games Launcher.
@@ -271,20 +185,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 7: Repair Epic Games Launcher
 
  Try repairing the Epic Games Launcher in the Control Panel to see if this fix works for you. Here’s how to do it:
@@ -292,6 +192,19 @@ _You can do it for free if you like, but it’s partly manual._
  1) On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control appwiz.cpl** and press**Enter** to open the**Programs and Features** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
@@ -303,6 +216,13 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 8: Reinstall Epic Games Launcher
 
  If none of the fixes above work for you, you may need to reinstall Epic Games Launcher. You can follow the steps below:
@@ -310,20 +230,6 @@ _You can do it for free if you like, but it’s partly manual._
  1) On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control appwiz.cpl** and press**Enter** to open the**Programs and Features** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
@@ -348,8 +254,6 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -357,12 +261,16 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/complete-guide-on-troubleshooting-and-preventing-resident-evil-ebeque-4-remake-crashes/"><u>Complete Guide on Troubleshooting and Preventing Resident Evil Ebeque 4 Remake Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/double-drop-in-frames-per-second-fps-for-pc-players-corrected-successfully/"><u>Double Drop in Frames Per Second (FPS) for PC Players Corrected Successfully</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-poco-c65-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Poco C65 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-much-could-you-make-on-youtube-snippets/"><u>In 2024, How Much Could You Make on YouTube Snippets?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-economical-mobvoi-ticwatch-e2-great-value-or-poor-offering/"><u>In-Depth Look at the Economical Mobvoi TicWatch E2: Great Value or Poor Offering?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-warzone-performance-on-pc-no-more-freezes/"><u>Mastering Warzone Performance on PC: No More Freezes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-connectivity-issues-astro-a50-doesnt-appear-as-an-input-device/"><u>Solving Connectivity Issues: Astro A50 Doesn't Appear as an Input Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-critical-errors-the-ultimate-fix-for-gobi-fatal-error-in-back-4-blood/"><u>Troubleshooting Critical Errors: The Ultimate Fix for 'Gobi Fatal Error in Back 4 Blood'</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-how-to-remove-tiktok-watermarks-best-online-methods/"><u>Updated 2024 Approved How to Remove TikTok Watermarks Best Online Methods</u></a></li>
+</ul></div>
 

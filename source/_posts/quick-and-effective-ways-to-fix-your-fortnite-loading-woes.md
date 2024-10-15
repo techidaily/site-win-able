@@ -1,7 +1,7 @@
 ---
 title: Quick & Effective Ways to Fix Your Fortnite Loading Woes
-date: 2024-09-10T14:08:34.539Z
-updated: 2024-09-11T14:08:34.539Z
+date: 2024-10-10T17:51:32.143Z
+updated: 2024-10-15T06:15:00.153Z
 tags:
   - win11
   - win10
@@ -21,13 +21,10 @@ thumbnail: https://thmb.techidaily.com/03226297e1d4f4326afb184b72adefb3e61770579
 
 **Why won’t Fortnite load?** It’s likely that there are buggy issues in your game that stop your game from loading. Meanwhile your graphics card issue can also cause the Fortnite freezes on loading screen. Sometimes it’s hard to identify the reason, but there’s something you can do to fix it.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -41,25 +38,12 @@ thumbnail: https://thmb.techidaily.com/03226297e1d4f4326afb184b72adefb3e61770579
 
  Note: the screenshots below come from Windows 10, and fixes also work on Windows 8 and Windows 7.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Reinstall Fortnite in your computer
 
@@ -72,26 +56,6 @@ thumbnail: https://thmb.techidaily.com/03226297e1d4f4326afb184b72adefb3e61770579
  Note: Be sure to meet the **[system requirements](https://tools.techidaily.com/drivereasy/download/)**  to install and play Fortnite in your computer, as the insufficient system resources will fail to load your Fortnite.
 
  If your problem still persists, don’t worry. There are other solutions.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Set your graphics settings to Low
 
@@ -111,21 +75,21 @@ To do so, follow these steps:
    * **Show** **FPS** : On  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be91f07309c9.jpg)
 
- Save your game settings, and restart your computer to see if your Fortnite loads properly.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+ Save your game settings, and restart your computer to see if your Fortnite loads properly.
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -153,20 +117,6 @@ To do so, follow these steps:
 
 Still no luck? Okay, there’s something else to try.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 4: Run Fortnite as administrator
 
  Runing your game as administrator can grant admin rights to run your game in your computer, and this will hopefully fix Fortnite not loading problem.
@@ -175,6 +125,14 @@ Still no luck? Okay, there’s something else to try.
 2. Right click on the**Fortnite executable** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9213d5616f.jpg)
 3. Click**Yes** to verify the UAC. If you’re prompted to enter your admin account and password, enter the information.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Then you can run your Fortnite as admin.
 
 Check if your game can load properly.
@@ -193,61 +151,38 @@ Below lists out some PC settings you can configure:
 2. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921926a881.jpg)
 3. Click the**Boot** tab, select your**Windows system** , and click**Advanced options** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921b2b791d.jpg)
-4. Check the box next to**Number of processors** , and select the**highest number** available. In my case I have the highest number of 4, so I select**4** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921cace95b.jpg)
-5. Click**OK** to save. Then click**Apply** and**OK** to finish.  
-
-
-
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921b2b791d.jpg)
+4. Check the box next to**Number of processors** , and select the**highest number** available. In my case I have the highest number of 4, so I select**4** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921cace95b.jpg)
+5. Click**OK** to save. Then click**Apply** and**OK** to finish.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921e101920.jpg)
 6. You’ll be prompted a dialog to ask you to restart, select**Exist without restart** because you’ll have a restart after configuring the settings below.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921fa6ef14.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 #### 2\. Adjust settings in System Properties
 
@@ -258,58 +193,13 @@ Below lists out some PC settings you can configure:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922528c0d3.jpg)
 3. Click**Advanced system settings** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9228805808.jpg)
 4. The**System Properties** pane will pop up. Under the**Advanced** tab, click the**Settings** button in the**Performance** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922bfef5f6.jpg)
 5. Click the**Advanced** tab, and make sure to select**Adjust for best performance of Programs** . Then click**Apply** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9237d987ca.jpg)
 6. Click**Data Execution Prevention** , and make sure to choose **Turn on DEP for essential Windows programs and services only** . Then Click**Apply** and**OK** to save.  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9234f416dc.jpg)
 7. Save your changes and restart your computer.
@@ -329,8 +219,6 @@ Launch your Fortnite and see if it will load properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -338,12 +226,23 @@ Launch your Fortnite and see if it will load properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-win11-elite-screen-recording-software/"><u>[New] In 2024, Win11 Elite Screen Recording Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-craft-standout-videos-mastery-of-youtube-thumbnail-dimensions-for-2024/"><u>[Updated] How to Craft Standout Videos Mastery of YouTube Thumbnail Dimensions for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-5-crashes-try-these-proven-methods-to-keep-your-game-running-smoothly/"><u>Battlefield 5 Crashes? Try These Proven Methods to Keep Your Game Running Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-lag-in-rainbow-six-siege-proven-techniques-and-advice/"><u>Beat Lag in Rainbow Six Siege: Proven Techniques and Advice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-top-6-super-mario-bros-adventures-on-pc-ultimate-selection/"><u>Best Top 6 Super Mario Bros Adventures on PC: Ultimate Selection</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-frame-rate-in-fallout-76-top-strategies/"><u>Boost Your Frame Rate in Fallout 76 - Top Strategies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/come-ottenere-il-miglior-compressore-mp4-su-mac-guida-dettagliata-allevitare-perdite-di-qualita-durante-la-compressione-dei-file-multimediale/"><u>Come Ottenere Il Miglior Compressore MP4 Su Mac: Guida Dettagliata All'Evitare Perdite Di Qualità Durante La Compressione Dei File Multimediale</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/consistent-nutrition-with-the-petsafe-six-serving-auto-feeder-ideal-for-regular-pet-meals/"><u>Consistent Nutrition with the PetSafe Six-Serving Auto Feeder: Ideal for Regular Pet Meals</u></a></li>
+<li><a href="https://win-able.techidaily.com/current-status-of-xbox-live-is-the-service-operational-right-now/"><u>Current Status of Xbox Live: Is the Service Operational Right Now?</u></a></li>
+<li><a href="https://win-premium.techidaily.com/does-flipbuilder-ensure-functionality-of-want-links-at-all-zoom-levels-on-web-pages/"><u>Does FlipBuilder Ensure Functionality of Want Links at All Zoom Levels on Web Pages?</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-resolving-dying-light-game-sound-malfunctions-effortlessly/"><u>Expert Advice: Resolving Dying Light Game Sound Malfunctions Effortlessly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nnovators-handbook-crafting-cool-youtube-videos-for-2024/"><u>Mac Innovators' Handbook Crafting Cool Youtube Videos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-device-drivers-update-a-guide-to-using-driver-easys-mobile-version/"><u>Seamless Device Drivers Update: A Guide to Using Driver Easy's Mobile Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-gaming-experience-fix-your-far-cry-cuisine-6-pc-game-crashes-now/"><u>Seamless Gaming Experience: Fix Your Far Cry Cuisine 6 PC Game Crashes Now</u></a></li>
+<li><a href="https://facebook.techidaily.com/silence-on-next-gen-oculus-a-shift-in-plans-max-80-charaters/"><u>Silence on Next-Gen Oculus: A Shift in Plans (Max 80 Charaters)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sonys-hdrcx405-improved-stability-and-dual-record/"><u>Sony's HDRCX405: Improved Stability & Dual Record</u></a></li>
+</ul></div>
 

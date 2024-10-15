@@ -1,7 +1,7 @@
 ---
 title: Why Doesn't My GPU Run Cyberpunk 2077? Solutions for Windows 10 Users
-date: 2024-10-06T19:13:06.168Z
-updated: 2024-10-08T16:18:51.649Z
+date: 2024-10-10T23:55:18.402Z
+updated: 2024-10-14T16:41:51.533Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 2. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Change Graphics performance preference**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure you’re using a CPU with integrated graphics
 
@@ -75,15 +68,15 @@ To do so, first visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -101,39 +94,39 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
+
  If this trick doesn’t solve your problem, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -144,6 +137,13 @@ And it’s quite easy to check for updates:
 1. On your keyboard, press **Win+I**  (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -170,16 +170,21 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-inspirational-hiring-vids-1-10/"><u>[New] 2024 Approved Discover Inspirational Hiring Vids #1-10</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rom-long-to-brief-how-to-shorten-youtube-footage-for-2024/"><u>[New] From Long to Brief How to Shorten YouTube Footage for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-world-of-warcraft-not-starting-issues-on-your-windows-computer/"><u>How to Fix World of Warcraft Not Starting Issues on Your Windows Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/hyperscape-pc-stability-issues-solutions-found/"><u>HyperScape PC Stability Issues - Solutions Found!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-craft-the-perfect-cinematic-journey-with-imovie/"><u>In 2024, Craft the Perfect Cinematic Journey with iMovie</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-webcam-applications-in-windows-our-choices/"><u>In 2024, Essential Webcam Applications in Windows Our Choices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-your-gaming-experience-tips-for-increasing-frames-per-second-fps-in-rust/"><u>Optimize Your Gaming Experience: Tips for Increasing Frames Per Second (FPS) in Rust</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-camera-unavailable-obstacle-on-snapchat-a-step-by-step-guide/"><u>Overcoming 'Camera Unavailable' Obstacle on Snapchat – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-gaming-finals-helpful-hints-and-tips/"><u>Overcoming Launch Errors Gaming Finals: Helpful Hints and Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-for-framerate-drop-and-lag-problems-in-battlefield-2042-pc-version/"><u>Resolved: Fixes for Framerate Drop & Lag Problems in Battlefield 2042 PC Version</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978150760-the-spread-of-market-economies-around-the-world-and-their-eventual-adoption-by-even-socialist-states-like-china/"><u>The Spread of Market Economies Around the World and Their Eventual Adoption by Even Socialist States Like China</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-digital-duality-merge-images-onlinepc/"><u>[New] In 2024, Digital Duality Merge Images Online/PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-golden-threshold-of-youtubes-monetization/"><u>[New] In 2024, The Golden Threshold of YouTube's Monetization</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-review-of-updated-videoshow-app-for-24-users/"><u>[New] In-Depth Review of Updated VideoShow App for '24 Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-outshine-xsplit-with-these-cutting-edge-alternatives/"><u>[Updated] Outshine Xsplit with These Cutting-Edge Alternatives</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-swift-playback-on-instagram-videos-mobiledesktop-for-2024/"><u>[Updated] Swift Playback on Instagram Videos (Mobile/Desktop) for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-roblox-lag-and-downtime-essential-fixes-that-work-new-6-step-guide-for-gamers/"><u>Beat Roblox Lag & Downtime: Essential Fixes That Work - New 6-Step Guide for Gamers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-assist-in-creating-personalized-fitness-programs-safely-through-chatgpt/"><u>Can AI Assist in Creating Personalized Fitness Programs Safely Through ChatGPT?</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-black-ops-cold-war-mishap-resolving-the-frustrating-error-code-80070057-successfully/"><u>COD: Black Ops Cold War Mishap – Resolving the Frustrating Error Code 80070057 Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2-fixes-ensure-smooth-startup-and-gameplay-experience/"><u>Cyberpunk 2# Fixes Ensure Smooth Startup & Gameplay Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-combat-excessive-disk-space-and-cpu-consumption-in-wsappx-applications/"><u>How to Combat Excessive Disk Space & CPU Consumption in WSAPPX Applications</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-record-streaming-audio-online/"><u>How to Record Streaming Audio Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-art-of-gaining-traction-using-hashtags-in-igtv/"><u>In 2024, The Art of Gaining Traction Using Hashtags in IGTV</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-enable-your-pcs-graphics-card-for-optimal-gameplay-in-call-of-duty-warzone-under-windows-amoled/"><u>Solved: Enable Your PC's Graphics Card for Optimal Gameplay in Call of Duty: Warzone Under Windows Amoled</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-for-league-of-legends-persistent-black-screen-problem/"><u>Step-by-Step Troubleshooting for League of Legends' Persistent Black Screen Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-20-ping-optimization-techniques-for-faster-gameplay-tips-and-tricks/"><u>Warzone 2.0 Ping Optimization Techniques for Faster Gameplay - Tips & Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-dvd-ripper-ultra-edition-high-quality-dvd-conversion-and-copying-on-windows-10/"><u>WinX DVD Ripper Ultra Edition – High-Quality DVD Conversion & Copying on Windows 10</u></a></li>
 </ul></div>
 

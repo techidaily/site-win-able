@@ -1,7 +1,7 @@
 ---
 title: Age of Empires IV Installation Issues Resolved – Fixes & Solutions
-date: 2024-10-02T21:59:58.138Z
-updated: 2024-10-08T22:03:54.595Z
+date: 2024-10-10T05:28:56.527Z
+updated: 2024-10-14T19:35:18.153Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
  The game may crash if your PC fails to meet its system requirement.  
@@ -65,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -100,16 +100,16 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -119,22 +119,35 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -147,10 +160,10 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
@@ -160,13 +173,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -208,20 +214,17 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/crafting-dissolves-with-ableton-live/"><u>Crafting Dissolves with Ableton Live</u></a></li>
-<li><a href="https://win-able.techidaily.com/efficient-techniques-to-overcome-session-problems-in-palworlds-search-feature/"><u>Efficient Techniques to Overcome Session Problems in Palworld's Search Feature</u></a></li>
-<li><a href="https://win-able.techidaily.com/error-free-gaming-how-to-overcome-lost-ark-network-problems/"><u>Error-Free Gaming: How To Overcome Lost Ark Network Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2021-what-to-do-when-youre-stuck-on-the-start-screen/"><u>Football Manager 2021: What To Do When You're Stuck on the Start Screen?</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723006237914-how-to-fix-compiling-shaders-in-call-of-duty-black-ops-cold-war-problem-no-more/"><u>How to Fix 'Compiling Shaders' In Call of Duty Black Ops Cold War – Problem No More!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-stop-surroundsound-from-shifting-with-your-head-in-airpods-a-step-by-step-guide/"><u>How to Stop SurroundSound From Shifting with Your Head in AirPods: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-infinix-hot-40i-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Infinix Hot 40i to iPad | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro Max without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725287906599-iphonedvd/"><u>IPhone動画からDVDへ：自由で簡単なダウンロード方法と作成プロセス</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/override-intrusive-scrolling-behaviors-on-os/"><u>Override Intrusive Scrolling Behaviors on OS</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-latency-problems-in-rainbow-six-siege-comprehensive-guide/"><u>Resolving Latency Problems in Rainbow Six Siege - Comprehensive Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-integrating-an-ms-excel-spreadsheet-into-your-website/"><u>Step-by-Step Guide: Integrating an MS Excel Spreadsheet Into Your Website</u></a></li>
-<li><a href="https://win-able.techidaily.com/update-the-google-app-ensure-that-you-have-the-latest-version-of-the-google-app-installed-on-your-device-go-to-the-play-store-search-for-google-and-update-i435/"><u>Update the Google App: Ensure that You Have the Latest Version of the Google App Installed on Your Device. Go to the Play Store, Search for Google, and Update if Necessary</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-a-great-educational-video-for-youtube-for-2024/"><u>[New] How to Make a Great Educational Video for YouTube for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-transform-raw-footage-to-polished-youtube-stories-on-windows/"><u>[Updated] In 2024, Transform Raw Footage to Polished YouTube Stories on Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimizing-live-periscope-video-speed/"><u>[Updated] Optimizing Live Periscope Video Speed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/beseitigung-des-problems-handbrake-ist-nun-64-bit-verfugbar-ersetzung-von-vlc-durch-eine-passende-version-fur-64-bit-systeme/"><u>Beseitigung Des Problems: HandBrake Ist Nun 64 Bit Verfügbar - Ersetzung Von VLC Durch Eine Passende Version Für 64 Bit Systeme</u></a></li>
+<li><a href="https://win-able.techidaily.com/bioshock-2-remastered-updated-fixes-and-enhancements/"><u>Bioshock 2 Remastered: Updated Fixes & Enhancements</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-solving-amazon-prime-video-connectivity-problems/"><u>Comprehensive Guide: Solving Amazon Prime Video Connectivity Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-resolving-discords-continuous-loading-problem-during-streaming/"><u>Effective Solutions for Resolving Discord's Continuous Loading Problem During Streaming</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-oppo-reno-11-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Oppo Reno 11 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-video-game-top-1080p-video-editing-tools/"><u>In 2024, Elevate Your Video Game Top 1080P Video Editing Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-11-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme 11 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-dreamlight-valley-pc-issues-6-critical-fixes-and-solutions/"><u>Solving Dreamlight Valley PC Issues: 6 Critical Fixes & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-overcome-wolcen-lords-of-mayhem-pc-instability-issues/"><u>Ultimate Guide to Overcome Wolcen Lords of Mayhem PC Instability Issues</u></a></li>
 </ul></div>
 

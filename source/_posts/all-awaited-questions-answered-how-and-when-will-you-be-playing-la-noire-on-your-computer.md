@@ -1,7 +1,7 @@
 ---
 title: "All Awaited Questions Answered: How and When Will You Be Playing L.A. Noire on Your Computer?"
-date: 2024-10-06T23:17:01.163Z
-updated: 2024-10-08T23:55:15.526Z
+date: 2024-10-09T18:41:23.638Z
+updated: 2024-10-15T04:16:53.225Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 **[How to Enter Safe Mode in Windows 8 & 8.1](https://tools.techidaily.com/drivereasy/download/)**
 **[How to Enter Safe Mode in Window 7, Vista & XP](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update Outlook
 
  Sometimes, an outdated version of Outlook may also be the cause of your issue. In this case, an update is very likely the solution to it. Here is how to do it:
@@ -54,23 +61,9 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-56-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Office Account** , and then click **Update Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-15-27-1024x620.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Click **Update Now.**
 
@@ -79,13 +72,6 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 **5)** Wait for the program to detect the latest version of Outlook, and then follow the on-screen instructions to update your Outlook.
 
  After the update, reopen Outlook to see if it can work correctly. If not, read on and check the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Repair your Outlook account
 
@@ -105,6 +91,13 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
  Click **Next,** then follow the on-screen instructions to repair your account.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-33-54.jpg)
 5. **Reopen Outlook to check if it runs smoothly now.**  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Reopen Outlook to check if it runs smoothly now.
 
 If your problem persists, try the next fix.
@@ -123,22 +116,16 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-13-48.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click **Add-ins.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-13-36.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Verify that the **Manage** option is set to **COM Add-ins** . Then, click **Go** .
 
@@ -151,13 +138,20 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-12-35.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Reopen Outlook to see if this worked for you. If your problem still exists, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Rebuild the Outlook data file
 
@@ -169,13 +163,6 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-56.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click **Account Settings** , and then click **Account Settings** in the drop-down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-41.jpg)
@@ -183,13 +170,6 @@ If your problem persists, try the next fix.
 **4)**  Click the **Data Files tab** . Then, select **your account** and click **Open File Location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  If you find an **.ost file** in the current window, right-click **the file** , and then click **Rename** .
 
@@ -207,13 +187,6 @@ If your problem persists, try the next fix.
 
  Reopen Outlook to see if this worked for you. If your problem still exists, check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall Office 365
 
  If none of the above fixes helped, reinstalling Office 365 may be the solution for you. Here is how to do it:
@@ -226,9 +199,23 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click **Microsoft Office 365** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Go to[](https://www.office.com/) **[Office 365](https://www.office.com/)**  official website and click **Sign in** to sign in your account.
 
@@ -237,6 +224,13 @@ If your problem persists, try the next fix.
 **5)**  Click **Install Office** , and then click **Office 365 apps** to download Office 365.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-09-21.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)**  Open the **downloaded file** and follow the on-screen instructions to install Office 365 again.
 
@@ -265,21 +259,20 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhancing-live-skype-broadcasts-using-obs-software-for-2024/"><u>[New] Enhancing Live Skype Broadcasts Using OBS Software for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-features-of-the-latest-win11-release/"><u>[Updated] Innovative Features of the Latest Win11 Release</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-autofocus-on-iphone-cameras-efficiently/"><u>[Updated] Mastering Autofocus on iPhone Cameras Efficiently</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-virtual-escapades-with-top-samsung-gear-vr-games/"><u>[Updated] Virtual Escapades with Top Samsung Gear VR Games</u></a></li>
-<li><a href="https://driver-error.techidaily.com/blinky-mouse-in-the-shadows-of-windows/"><u>Blinky Mouse in the Shadows of Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/civilization-vi-startup-errors-resolved-fixes-for-windows-10-users/"><u>Civilization VI Startup Errors Resolved: Fixes for Windows 10 Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/elevate-your-valorant-experience-fix-stuttering-and-improve-frame-rates-efficiently/"><u>Elevate Your Valorant Experience: Fix Stuttering and Improve Frame Rates Efficiently</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-zte-nubia-z60-ultra-by-drfone-android/"><u>How to Bypass FRP on ZTE Nubia Z60 Ultra?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-monthly-earnings-from-youtube-as-a-content-creator/"><u>In 2024, Monthly Earnings From YouTube as a Content Creator</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-warzone-20-7-crucial-fixes-for-a-seamless-launch-experience-on-your-pc/"><u>Mastering Warzone 2.0: 7 Crucial Fixes for a Seamless Launch Experience on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/mlb-the-show-21-server-connectivity-latest-patch-solves-the-problems/"><u>MLB The Show 21 Server Connectivity - Latest Patch Solves the Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-persistent-crashes-in-immortals-a-guide-to-a-smooth-fenyx-rising-experience/"><u>Overcoming Persistent Crashes in Immortals: A Guide to a Smooth Fenyx Rising Experience</u></a></li>
-<li><a href="https://facebook.techidaily.com/securing-your-pages-with-strategic-admins/"><u>Securing Your Pages with Strategic Admins</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-sailing-addressing-and-fixing-recurring-watch-dogs-legion-crashes-on-personal-computers/"><u>Smooth Sailing: Addressing and Fixing Recurring 'Watch Dogs: Legion' Crashes on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-for-when-counter-strike-global-offensive-wont-open-properly/"><u>Solutions for When Counter Strike Global Offensive Won't Open Properly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-15-top-mobiles-elevating-dji-video-production-value/"><u>[New] 15 Top Mobiles Elevating DJi Video Production Value</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-free-online-conversion-transform-tiff-images-into-png-format-with-easy-to-use-tools/"><u>1. Free Online Conversion: Transform TIFF Images Into PNG Format with Easy-to-Use Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-gaming-bugs-8-crucial-fixes-for-stable-play-in-marvels-guardians-of-the-galaxy-on-pc/"><u>Beat Gaming Bugs: 8 Crucial Fixes for Stable Play in 'Marvel's Guardians of the Galaxy' On PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-most-anticipated-and-exclusive-ps5-gaming-experiences/"><u>Discover the Most Anticipated and Exclusive PS5 Gaming Experiences!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-world-of-warships-from-crashing-on-your-pc-five-essential-tips/"><u>How to Stop World of Warships From Crashing on Your PC – Five Essential Tips</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-13-pro-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 13 Pro to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/italys-favorite-salutations-mastering-common-italian-greetings/"><u>Italy's Favorite Salutations: Mastering Common Italian Greetings</u></a></li>
+<li><a href="https://win-able.techidaily.com/now-rewrite-the-equation-using-these-equivalent-fractions/"><u>Now, Rewrite the Equation Using These Equivalent Fractions</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-world-of-warcraft-game-crash-problems/"><u>Quick Fixes for 'World of Warcraft' Game Crash Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/secure-installation-new-nvidia-drivers-ready/"><u>Secure Installation: New Nvidia Drivers Ready</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-fixing-new-worlds-slowdown-and-network-issues/"><u>Step-by-Step Solution for Fixing New World’s Slowdown and Network Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/successful-guide-rndis-driver-installation-and-updates-on-windows-systems/"><u>Successful Guide: RNDIS Driver Installation and Updates on Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-when-persona-3-ffi-wont-start/"><u>Troubleshooting Guide: Resolving Issues When Persona 3 FFI Won't Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-the-mystery-behind-unexpected-drops-in-game-frame-rates/"><u>Unraveling the Mystery Behind Unexpected Drops in Game Frame Rates</u></a></li>
+<li><a href="https://techidaily.com/update-drivers-with-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Update drivers with Device Manager on Windows 10 & 7</u></a></li>
 </ul></div>
 

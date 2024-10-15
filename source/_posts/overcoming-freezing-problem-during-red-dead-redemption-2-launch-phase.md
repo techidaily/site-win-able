@@ -1,7 +1,7 @@
 ---
 title: Overcoming Freezing Problem During Red Dead Redemption 2 Launch Phase
-date: 2024-09-10T14:09:28.341Z
-updated: 2024-09-11T14:09:28.341Z
+date: 2024-10-11T04:20:17.700Z
+updated: 2024-10-15T03:58:33.741Z
 tags:
   - win11
   - win10
@@ -19,33 +19,10 @@ Many Red Dead Redemption 2 players are reporting that they can’t even get past
 
  If you run into an**infinite loading screen** ,**not responding** , or**crashing to desktop** error, don’t panic. You’re definitely not alone and many players have solved their issues with the fixes below:
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -63,19 +40,12 @@ Many Red Dead Redemption 2 players are reporting that they can’t even get past
 
  Before getting started, you need to make sure your PC meets **[Red Dead Redemption 2 PC System Requirements](https://support.rockstargames.com/articles/360037044893/Red-Dead-Redemption-2-PC-System-Requirements)**  .
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Verify game integrity
 
@@ -149,20 +119,6 @@ There are two ways you can update your graphics drivers:
 
 ![click scan now](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-3.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
 ![update all drivers with driver easy](https://images.drivereasy.com/wp-content/uploads/2019/11/update-all-your-drivers-1.jpg)
@@ -193,25 +149,18 @@ Note: You can do it for free if you like, but it’s partly manual.
 
 ![delete Rockstar launcher profiles](https://images.drivereasy.com/wp-content/uploads/2019/11/launcher-settings-1024x482.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  4) Sign in to the Rockstar Games Launcher again and launch Red Dead Redemption 2.
 
 If this method doesn’t work for you, you can try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Red Dead Redemption 2 as admin
 
@@ -225,19 +174,12 @@ If this method doesn’t work for you, you can try the next fix.
 
 ![run Red Dead Redemption 2 as admin](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasy-run-as-admin.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  4) Click**Change high DPI settings** .
 
@@ -251,19 +193,12 @@ If this method doesn’t work for you, you can try the next fix.
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 6: Turn off Vsync
 
@@ -286,26 +221,6 @@ If this method doesn’t work for you, you can try the next fix.
  5) If this method doesn’t work for you, go to**NVIDIA Control Panel** \>**Manage 3D settings** \>**Restore Defaults** .
 
 ![Restore defaults in NVIDIA control panel](https://images.drivereasy.com/wp-content/uploads/2019/11/restore-defaults.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  6) Relaunch your Red Dead Redemption 2 to see if the infinite loading issue is gone.
 
@@ -331,19 +246,12 @@ If this method doesn’t work for you, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/add-a-graphics-tool.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4) Once complete, restart your computer.
 
@@ -355,61 +263,27 @@ If this method doesn’t work for you, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Settings-Apps-Optional-features-1200x658.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click on the**View features** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Settings-Apps-Optional-features-View-features-1200x658.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  4) Scroll down and find**Graphics Tools** , then check the box and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Graphics-tools-1200x658.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  5) Click**Install** .
 
@@ -437,37 +311,9 @@ Wait for it to finish the process.
 
 ![Open task manager](https://images.drivereasy.com/wp-content/uploads/2019/11/open-task-manager-1.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  4) Under the Startup tab, select each startup item and then click**Disable** .
 
 ![disable all startup apps](https://images.drivereasy.com/wp-content/uploads/2019/11/image-1019-1.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  5) Go back to**System Configuration** , click**OK** .
 
@@ -481,20 +327,6 @@ Wait for it to finish the process.
 
  Once you find out the problematic software, you may need to uninstall it to avoid running into the same issue in the future.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 9: Repair your system files
 
  It’s very likely that some system files are corrupt or missing, and your game is sharing the same files, thus causing your Red Dead Redemption to get stuck on the loading screen. To restore these files, here’s how:
@@ -504,6 +336,13 @@ Wait for it to finish the process.
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) is a computer repair software that can diagnose problems on your computer and fix them immediately.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
@@ -528,26 +367,6 @@ Wait for it to finish the process.
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -608,8 +427,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -617,12 +434,21 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-samsung-ue590-masterclass-cutting-edge-gaming-display/"><u>[New] Samsung UE590 Masterclass Cutting-Edge Gaming Display</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-razers-kiyo-webcam-complete-overview/"><u>[Updated] Razer's Kiyo Webcam - Complete Overview</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bidding-adieu-with-elegance-sample-choices/"><u>Bidding Adieu with Elegance Sample Choices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-quality-methodology-stitching-gopro-sequences-in-virtual-reality-films-for-2024/"><u>High-Quality Methodology Stitching GoPro Sequences in Virtual Reality Films for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-optimize-and-stabilize-outriders-gaming-experience-on-pc/"><u>How to Optimize and Stabilize Outriders Gaming Experience on PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-stop-motion-films-the-ultimate-15-list/"><u>In 2024, Pioneering Stop-Motion Films - The Ultimate 15 List</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fifa-21-performance-in-depth-solutions-to-prevent-and-fix-pc-crashes-comprehensive-guide/"><u>Mastering FIFA 21 Performance: In-Depth Solutions to Prevent and Fix PC Crashes - Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-game-capture-overcoming-shadowplay-recording-challenges-on-windows-machines/"><u>Mastering Game Capture: Overcoming Shadowplay Recording Challenges on Windows Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-affordable-2gb-ram-version-of-the-popular-raspberry-pi-5-released/"><u>New Affordable 2GB RAM Version of the Popular Raspberry Pi 5 Released</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-playthroughs-await-with-these-swift-fixes-for-elden-rings-fps-problems/"><u>Seamless Playthroughs Await with These Swift Fixes for Elden Ring's FPS Problems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-samsung-galaxy-a51-your-go-to-for-affordable-5g-technology/"><u>The Ultimate Guide to Choosing a Samsung Galaxy A51: Your Go-To for Affordable 5G Technology</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-cs-2-startup-issues/"><u>Troubleshooting Steps: Resolving CS 2 Startup Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-20-troubles-here-are-7-fixes-to-launch-on-your-pc-successfully/"><u>Warzone 2.0 Troubles? Here Are 7 Fixes to Launch on Your PC Successfully</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/what-are-the-best-site-to-promote-youtube-videos/"><u>What Are the Best Site to Promote YouTube Videos</u></a></li>
+</ul></div>
 

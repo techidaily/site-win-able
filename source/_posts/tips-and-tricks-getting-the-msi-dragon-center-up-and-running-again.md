@@ -1,7 +1,7 @@
 ---
 title: "Tips and Tricks: Getting the MSI Dragon Center Up and Running Again"
-date: 2024-09-10T14:12:05.875Z
-updated: 2024-09-11T14:12:05.875Z
+date: 2024-10-12T04:44:08.486Z
+updated: 2024-10-14T20:56:16.336Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
  Here are some fixes that have helped many other gamers with their Paradox Launcher not working problem, and you may want to give them a try as well.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes for Paradox Launcher not working problem
 
@@ -60,20 +43,6 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Reinstall Paradox Launcher
 
  If your Paradox Launcher refuses to launch, it’s possible that there are some damaged or corrupt program files. To fix this sort of problem, a clean reinstallation is almost the quickest and the easiest way. To make sure that the reinstallation is done correctly, here’s what you can do:
@@ -81,95 +50,67 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 1. On your keyboard, press the**Windows** key and the**R** key at the same time. Copy and paste**%localappdata%** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-1.png)
 2. Select the**Paradox Interactive** folder here and click**Delete** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-2.png)
 3. Scroll down a bit to find the**Programs** folder, and**delete** the**Paradox Interactive** folder in it as well.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-3.png)
 4. On your keyboard, press the**Windows** key and the**R** key at the same time. Copy and paste**%appdata%** and hit**Enter** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image.png)
 5. Double-click the**Paradox Interactive** folder, and**delete** the**launcher-v2** folder in it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-4.png)
 6. Then press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
 7. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 8. Click **Paradox Launcher v2** , then **Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-5.png)
 9. Restart your computer afterward.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 10. Then **[download Paradox Launcher](https://www.paradoxinteractive.com/our-games/launcher)**  again.
 
  Run Steam and try to play the game via Paradox Launcher again to see if it launches well. If not, please continue.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Disable conflicting processes in the background
 
@@ -180,37 +121,16 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 2. Select each**Paradox Launcher** related program you see here and click**End Task** to close them one by one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-6.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Then try to play your game via Paradox Launcher again and see if its launching problem is fixed. If the problem still remains, please move on to the next fix below.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 3\. Make sure your Windows is updated
 
@@ -221,19 +141,6 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -241,20 +148,6 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
  Then try to play your game via Paradox Launcher again to see if it can launch. If the problem remains, please move on to the next fix.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Modify your antivirus program settings
 
@@ -280,60 +173,20 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-9.png)
 3. Under**Current threats** , select**Protection history** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-10.png)
 4. If you can see**bootstrapper-v2.exe** or other Paradox Launcher-related services and programs here, click the**Actions** button and select**Restore** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-11.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  When you finish the above settings, but your Paradox Launcher still doesn’t work, please move on to the other fixes.
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5\. Repair damaged system files
 
@@ -346,6 +199,13 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -371,8 +231,6 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -380,12 +238,18 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-trending-pictures-life-stories-uncovered/"><u>2024 Approved Trending Pictures Life Stories Uncovered</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/crafting-co-branded-narratives-for-youtube-audiences/"><u>Crafting Co-Branded Narratives for YouTube Audiences</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/creative-collection-of-swaying-text-styles-for-2024/"><u>Creative Collection of Swaying Text Styles for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-latency-issues-for-a-smoother-experience-in-outriders/"><u>Eliminating Latency Issues for a Smoother Experience in Outriders</u></a></li>
+<li><a href="https://win-able.techidaily.com/escape-from-tarkov-hackers-beware-solving-your-anticheat-errors-quickly-and-effectively/"><u>Escape From Tarkov Hackers Beware! Solving Your Anticheat Errors Quickly and Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013350682-farewell-to-frustration-cyberpunk-2077-glitch-fixed/"><u>Farewell to Frustration - Cyberpunk 2077 Glitch Fixed!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-shoot-slow-motion-video-on-iphone/"><u>How to Shoot Slow Motion Video on iPhone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-t2-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo T2 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oppo-a1x-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo A1x 5G Lock Screen Password</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-back-4-blood-playtime-without-interruptions-stop-the-game-from-crashing-now/"><u>Mastering 'Back 4 Blood' Playtime Without Interruptions – Stop The Game From Crashing Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-pc-compatibility-and-crash-problems-in-nba-2k21/"><u>Troubleshooting Guide: Resolving PC Compatibility and Crash Problems in NBA 2K21</u></a></li>
+</ul></div>
 

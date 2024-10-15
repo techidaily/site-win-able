@@ -1,7 +1,7 @@
 ---
 title: Avoid Frustration - Solve Persistent Garry's Mod Crashing !
-date: 2024-10-03T21:29:06.342Z
-updated: 2024-10-08T17:27:38.893Z
+date: 2024-10-14T00:23:45.192Z
+updated: 2024-10-14T20:41:47.262Z
 tags:
   - win11
   - win10
@@ -70,10 +70,10 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Check your**Display Memory** here.
@@ -87,19 +87,6 @@ Follow the instructions below to view your computer hardware information:
  If you’re running multiple programs at the same time, hogging your system’s resources, that could cause your game to crash. In this case, try restarting your computer to end unwanted programs completely, then relaunch your game.
 
 If your problem still exists after the reboot, check Fix 3, below.
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -140,10 +127,10 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of your game files
@@ -168,13 +155,6 @@ OR
 
  If the crashing issue continues to occur, then go ahead with the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Change the launch option
 
  Many players report that running the game with**\-dxlevel 85 -console -windowed -noborder** launch option fixed the crashing issue. Follow the instructions below to see how to do it:
@@ -185,13 +165,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02-1.jpg)
@@ -199,6 +172,13 @@ OR
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Remove any launch options currently shown.
 
@@ -209,6 +189,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
 
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable automatic downloads from the server
 
@@ -226,21 +213,7 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Steam
 
@@ -250,13 +223,34 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-57.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
 
@@ -265,19 +259,6 @@ Follow the instructions below to stop the automatic downloads:
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-15.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
@@ -292,6 +273,13 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
 **10)**  Relaunch Steam and your game.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8:**Reseat PC components**
 
@@ -360,19 +348,17 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/battle-against-bugs-eliminate-recurring-glitches-in-your-immortals-fenyx-rising-adventure/"><u>Battle Against Bugs: Eliminate Recurring Glitches in Your Immortals Fenyx Rising Adventure</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elite-corporate-space-for-data-safety/"><u>Elite Corporate Space for Data Safety</u></a></li>
-<li><a href="https://win-able.techidaily.com/error-code-leaf-on-apex-legends-causes-and-fixes-detailed/"><u>Error Code Leaf on Apex Legends : Causes and Fixes Detailed</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-guide-how-to-resolve-payday-2-failed-pc-startup-issues/"><u>Fix Guide: How to Resolve Payday 2 Failed PC Startup Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-ready-playstations-god-of-war-hits-pc-as-an-exciting-fps-experience/"><u>Get Ready: PlayStation's God of War Hits PC as an Exciting FPS Experience!</u></a></li>
-<li><a href="https://win-able.techidaily.com/god-of-war-game-fixes-insufficient-memory-error-problem/"><u>God of War Game Fixes 'Insufficient Memory Error' Problem</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-use-of-look-up-tables-in-photoshop-cc/"><u>In 2024, Navigating the Use of Look-Up Tables in Photoshop CC</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-secrets-to-perfectly-lit-evening-portraits/"><u>In 2024, Secrets to Perfectly Lit Evening Portraits</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/infiltrating-intimacy-a-guide-to-fb-privacy/"><u>Infiltrating Intimacy: A Guide to Fb Privacy</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagrams-best-practices-for-sensational-video-loops-for-2024/"><u>Instagram's Best Practices for Sensational Video Loops for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-persistent-bugs-in-pathfinder-the-final-campaign-update/"><u>Resolving Persistent Bugs in Pathfinder - The Final Campaign Update</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-advanced-taskbar-functions-with-end-task-in-windows-11/"><u>Unlocking Advanced Taskbar Functions with End Task in Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-which-screen-recorder-excels-obs-or-fraps/"><u>[New] 2024 Approved Which Screen Recorder Excels OBS or Fraps?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-from-page-to-screen-crafting-jujutsu-kaisen-stories-on-tiktok/"><u>[New] In 2024, From Page to Screen Crafting Jujutsu Kaisen Stories on TikTok</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-eye-opening-list-of-the-top-12-yt-gamers-intros-freepaid-sessions/"><u>[Updated] In 2024, Eye-Opening List of the Top 12 YT Gamers' Intros (Free/Paid Sessions)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-7-camcorders-for-extreme-weather-and-splashes-review/"><u>[Updated] Top 7 Camcorders for Extreme Weather and Splashes Review</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-windows-application-speed-through-improved-networking/"><u>Enhance Windows Application Speed Through Improved Networking</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-steam-remote-play-problems-now-top-troubleshooting-tips/"><u>Fix Your Steam Remote Play Problems Now – Top Troubleshooting Tips!</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-your-battlefield-v-gameplay-the-ultimate-fixes-for-lag-issues/"><u>Improve Your Battlefield V Gameplay: The Ultimate Fixes for Lag Issues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonious-hues-photographic-pieces-of-lifes-palette/"><u>In 2024, Harmonious Hues Photographic Pieces of Life's Palette</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/resolving-playback-issues-smooth-streaming-solutions-for-mkv-files-on-vlc-media-player/"><u>Resolving Playback Issues: Smooth Streaming Solutions for MKV Files on VLC Media Player</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-overcoming-pc-startup-problems-for-far-cry-6/"><u>Solved! Overcoming PC Startup Problems for Far Cry 6</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-seamlessly-moving-your-images-from-android-devices-to-iphones/"><u>Step-by-Step Guide: Seamlessly Moving Your Images From Android Devices to iPhones</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-solving-the-deathloop-stuttering-issue-on-pc-and-playstation-5/"><u>Ultimate Troubleshooting Guide: Solving the Deathloop Stuttering Issue on PC and PlayStation 5</u></a></li>
 </ul></div>
 

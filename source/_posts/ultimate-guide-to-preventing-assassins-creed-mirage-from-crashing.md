@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Preventing Assassin's Creed Mirage From Crashing
-date: 2024-09-10T14:13:13.351Z
-updated: 2024-09-11T14:13:13.351Z
+date: 2024-10-13T19:12:22.028Z
+updated: 2024-10-15T05:48:56.558Z
 tags:
   - win11
   - win10
@@ -17,27 +17,10 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 
 Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story mission is exquisite and aesthetic design is stunning. However, many players are reporting the Hitman 3 crashing issue and complained they can’t enjoy the game at all. If you’re one of them, don’t worry. After reading this post, you’ll be able to rule out the common causes and get your issue fixed.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -63,77 +46,60 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-1.jpg)
 2. Select**3D settings** \>**Manage 3D settings** from the left pane.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-2.jpg)
 3. Go to the**Programs Settings** tab. Then, click the**Add** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-3.jpg)
 4. Select**HITMAN 3** from the list and click**Add Selected Program** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-4.jpg)
 5. Choose**High-performance NVIDIA processor** as the preferred graphics processor for Hitman 3.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-5.jpg)
 6. Exit the NVIDIA Control Panel.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Launch Hitman 3 and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-6.jpg)
 8. Select your**dedicated graphics card** instead of the integrated one next to Graphics Processing Unit, and click**Save** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-7.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If you have an AMD graphics card, you could refer to this[official guide](https://www.amd.com/en/support/kb/faq/dh-017) to configure the Radeon settings.
 
  Now see if Hitman 3 works properly. If not, there are two more fixes to try.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Verify the integrity of game files
 
@@ -142,8 +108,23 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 1. Open your Epic Games Launcher and navigate to the**Library** tab in the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Mouse over the**Hitman 3 tile** and click**the icon with three dots** at the lower right corner. Then, select**Verify** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 3. After the process completes, launch Hitman 3 to test.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Does the game works the right way or does it still crash? If the latter, don’t frustrate and check out the next fix.
 
@@ -163,44 +144,10 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the driver update, you should see Hitman 3 runs more smoothly. But if this method doesn’t work, continue to the last fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 5 – Increase virtual memory
 
@@ -212,76 +159,23 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-2.jpg)
 3. Navigate to the**Advanced** tab. Then, click**Change** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-2.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-3.jpg)
 5. Select the**C drive** and click**Custom size** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-5.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has. Then, click **OK** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 **Note** : According to Microsoft, you should set virtual memory no less than**1.5 times** and no more than **3 times** the amount of RAM on your computer. For example, if you have 8 GB RAM, the**Initial size** should be 8 x 1024 x 1.5 = 12288 MB while the **Maximum size** should be 8 x 1024 x 3 = 24576 MB. If you don’t know how much RAM you have, read our post to[check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-6.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Restart the computer for changes to take effect. Once you’ve done that, run Hitman 3 and the crashes should be resolved now.
 
@@ -298,8 +192,6 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -307,12 +199,22 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximizing-your-social-reach-with-dual-display-facebook-streaming/"><u>[New] 2024 Approved Maximizing Your Social Reach with Dual Display Facebook Streaming</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-immersion-guide-to-lgs-360-vr-headset/"><u>[New] The Ultimate Immersion Guide to LG's 360 VR Headset</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-camera-roll-export-to-snapchat-a-step-by-step-guide-for-2024/"><u>[Updated] Mastering Camera Roll Export to Snapchat A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionize-your-augmented-reality-graphics-using-custom-luts/"><u>[Updated] Revolutionize Your Augmented Reality Graphics Using Custom LUTs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adding-depth-with-3d-text-in-photoshop-workflows/"><u>Adding Depth with 3D Text in Photoshop Workflows</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-solving-call-of-dutys-black-ops-cold-war-error-code-887a0005-explained/"><u>Expert Tips on Solving Call of Duty's Black Ops Cold War Error - Code 887A0005 Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2021-for-windows-solving-common-pc-performance-issues/"><u>Football Manager 2021 for Windows - Solving Common PC Performance Issues</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/meeting-live-google-meet-to-youtube-broadcast-guide-for-2024/"><u>Meeting Live Google Meet to YouTube Broadcast Guide for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-to-rev-up-your-slow-chrome-and-transform-your-surfing-speed/"><u>Quick Fixes to Rev Up Your Slow Chrome and Transform Your Surfing Speed</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/quick-guide-crafting-youtube-thumbnails-on-your-phone/"><u>Quick Guide Crafting YouTube Thumbnails on Your Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-launch-problems-with-sea-of-thieves-step-by-step-solutions/"><u>Resolving Launch Problems with Sea of Thieves - Step-by-Step Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-real-deal-with-ai-chatgpts-8-key-problem-areas/"><u>The Real Deal with AI: ChatGPT's 8 Key Problem Areas</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-the-0xc19001e1-blue-screen-error-on-windows-10/"><u>Troubleshooting and Fixing the 0xC19001E1 Blue Screen Error on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-age-of-empires-iv-download-and-installation-from-the-microsoft-store-now-functional/"><u>Troubleshooting Guide: Age of Empires IV Download and Installation From the Microsoft Store, Now Functional</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-youtube-playback-issues-solutions-included/"><u>Ultimate Guide: Resolving YouTube Playback Issues - Solutions Included</u></a></li>
+</ul></div>
 

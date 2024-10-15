@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Battlefield: Avoid Low FPS Woes in War Thunder (Tips & Tricks)"
-date: 2024-10-04T19:19:53.225Z
-updated: 2024-10-08T19:18:05.733Z
+date: 2024-10-08T19:17:33.199Z
+updated: 2024-10-14T21:20:22.674Z
 tags:
   - win11
   - win10
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
 
@@ -84,27 +77,20 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -133,10 +119,10 @@ If the issue remains, move on to the next fix.
 If this method doesn’t do the trick, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Close unnecessary programs
@@ -153,6 +139,13 @@ Relaunch Minecraft to see if your issue is resolved.
 
 If not, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Uninstall and reinstall Minecraft
 
  If none of the fixes above work for you, you should consider reinstalling Minecraft completely. This will delete your local saves, so be aware to back up any files you wish to keep. Here’s how:
@@ -165,10 +158,10 @@ If not, try the next fix.
 3. After saving your game data, delete everything inside the**.minecraft** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
@@ -176,6 +169,13 @@ If not, try the next fix.
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -201,14 +201,18 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-identifying-and-understanding-touchless-technologies/"><u>[New] In 2024, Identifying and Understanding Touchless Technologies</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-the-art-of-3d-animation-with-elite-design-applications/"><u>2024 Approved Mastering the Art of 3D Animation with Elite Design Applications</u></a></li>
-<li><a href="https://win-able.techidaily.com/beyond-the-black-barrier-successful-strategies-to-fix-your-nba-2k21-loading-stalls/"><u>Beyond the Black Barrier: Successful Strategies to Fix Your NBA 2K21 Loading Stalls</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehebly-repairing-your-ps4-when-it-freezes-a-stepwise-approach/"><u>Comprehebly Repairing Your PS4 When It Freezes - A Stepwise Approach</u></a></li>
-<li><a href="https://win-able.techidaily.com/detective-in-la-noire-finally-on-your-pc-solving-past-compatibility-problems/"><u>Detective in LA Noire Finally on Your PC - Solving Past Compatibility Problems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722966924977-get-your-samsung-c460-up-and-running-download-essential-drivers-today/"><u>Get Your Samsung C460 Up and Running - Download Essential Drivers Today!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-motorola-moto-g23-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Motorola Moto G23 to iPad | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solutions-for-last-epoch-system-failures-on-pcs-2024-update/"><u>Ultimate Solutions for 'Last Epoch' System Failures on PCs - 2024 Update</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-best-of-androids-podcast-app-world-top-6/"><u>Unveiling the Best of Android's Podcast App World - Top 6</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-leading-websites-for-digital-3d-text-with-a-golden-accent/"><u>[New] In 2024, Leading Websites for Digital 3D Text with a Golden Accent</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-moments-like-never-before-toolwiz-apps-2023-review/"><u>2024 Approved Capturing Moments Like Never Before Toolwiz App's 2023 Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/analyzing-the-best-for-gaming-screens/"><u>Analyzing the Best for Gaming Screens</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-cord-with-youtube-mp3-conversion-tools/"><u>Cut the Cord with YouTube-MP3 Conversion Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-stop-sovled-warno-from-continuously-crashing-on-your-pc/"><u>Fixes & Solutions: How to Stop [SOVLED] Warno From Continuously Crashing on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-tips-eliminating-fps-dips-and-lags-in-call-of-duty-black-ops-4/"><u>Fixes & Tips: Eliminating FPS Dips & Lags in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/gtfo-fixes-implemented-tackling-sudden-lag-drops-reducing-stutter-in-gameplay-and-enhancing-system-responsiveness/"><u>GTFO Fixes Implemented: Tackling Sudden Lag Drops, Reducing Stutter in Gameplay and Enhancing System Responsiveness</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999961120-half-life-alyx-optimization-guide-stop-the-lag-and-frame-drops-now/"><u>Half-Life: Alyx Optimization Guide - Stop the Lag and Frame Drops Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fixing-persona-3-reload-pc-game-crashes/"><u>Solved: Fixing PERSONA 3 RELOAD PC Game Crashes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-6-plus-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 6 Plus Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-your-mass-effect-legendary-edition-wont-start/"><u>Troubleshooting Guide: Why Your Mass Effect Legendary Edition Won't Start</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-tutorial-how-to-download-setup-and-use-revo-uninstaller-app-for-iosandroid/"><u>Ultimate Tutorial: How to Download, Setup, and Use Revo Uninstaller App for iOS/Android</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-list-10-best-free-green-screen-apps-for-mobile-phones/"><u>Updated In 2024, The Ultimate List 10 Best Free Green Screen Apps for Mobile Phones</u></a></li>
 </ul></div>
 

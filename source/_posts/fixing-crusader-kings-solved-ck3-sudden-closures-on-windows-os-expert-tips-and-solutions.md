@@ -1,7 +1,7 @@
 ---
 title: Fixing Crusader Kings ([SOLVED] CK3) Sudden Closures on Windows OS - Expert Tips and Solutions
-date: 2024-10-02T18:38:42.065Z
-updated: 2024-10-08T18:52:03.804Z
+date: 2024-10-08T18:55:48.983Z
+updated: 2024-10-14T20:56:45.576Z
 tags:
   - win11
   - win10
@@ -49,13 +49,6 @@ _Halo 3 Minimum System Requirements_
 
  If your computer meets these requirements but still Halo 3 doesn’t launch properly, try the methods below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Stop apps from running in the background
 
  Generally, the game crashes because it’s running out of memory or overheating. So to save data usage and system resources, you can stop some apps from running in the background by following these steps:
@@ -66,10 +59,10 @@ _Halo 3 Minimum System Requirements_
 ![open settings](https://images.drivereasy.com/wp-content/uploads/2020/08/start-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Privacy** .  
@@ -78,10 +71,10 @@ _Halo 3 Minimum System Requirements_
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Scroll down and under the**App permissions** section, click**Background apps** .  
@@ -117,13 +110,6 @@ _Halo 3 Minimum System Requirements_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Update your video card drivers
 
  A range of gaming problems such as crashing and freezing is caused by a wrong, faulty, or outdated graphics driver. Halo 3 is no exception. To enjoy smooth gameplay, you should always keep your graphics driver up to date.
@@ -146,6 +132,19 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and launch Halo3 to check if the issue is fixed. If not, try the next fix.
@@ -164,6 +163,13 @@ To do so:
 
 ![msconfig open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select the**Services** tab.  
  Then click**Hide all Microsoft services** and click**Disable all** .
 
@@ -173,6 +179,13 @@ To do so:
   
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Under the**Startup** tab in the Task Manager window, right-click on each**Enabled** Startup item, then click**Disable** . After that, close the window.  
   
 ![perform a clean boot; disable certain item](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-4-2.jpg)
@@ -181,7 +194,21 @@ To do so:
   
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) Restart your computer and it’ll be in a clean boot environment.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Run Halo 3 as an administrator
 
@@ -191,13 +218,6 @@ To do so:
   
 ![open as an administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-Properties.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click the**Compatibility** tab and click**Run this program as an administrator** . Click**Apply** and**OK** .  
   
@@ -213,10 +233,10 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Install the latest game patch
@@ -226,19 +246,6 @@ To do so:
  So if there is a patch available, download and install it, then run the game again to check if the problem is solved. If it isn’t, or there is no new patch available, then move on to Fix 7.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Verify the integrity of game files
 
@@ -260,13 +267,6 @@ To do so:
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/integrity-of-cache.png)
   
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Files verification may take several minutes. Once the process is completed, the window will automatically exit. Till then, relaunch your game.  
   
@@ -294,17 +294,17 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-quick-guide-to-making-twitter-videos-into-expressive-gifs/"><u>[New] In 2024, Quick Guide to Making Twitter Videos Into Expressive GIFs</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nnovative-techniques-for-enhancing-youtube-audio-for-2024/"><u>[New] Innovative Techniques for Enhancing YouTube Audio for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-professional-opinions-best-9-digital-microphone-capture-gear/"><u>[Updated] Professional Opinions Best 9 Digital Microphone Capture Gear</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722997174357-dealing-with-limited-system-resources-solutions-to-the-inadequate-memory-bug-in-god-of-war/"><u>Dealing with Limited System Resources: Solutions to the 'Inadequate Memory' Bug in God of War.</u></a></li>
-<li><a href="https://win-able.techidaily.com/decode-and-fix-the-audio-issues-in-dying-light-with-proven-techniques/"><u>Decode and Fix the Audio Issues in 'Dying Light' With Proven Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008919933-destiny-2s-beyond-light-pc-gameplay-issues-resolved-updated-fixes/"><u>Destiny 2'S Beyond Light PC Gameplay Issues Resolved - Updated Fixes</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-ace-2-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Ace 2 Pro in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-zero-money-high-quality-ranks-of-best-recording-apps/"><u>In 2024, Zero Money, High Quality Ranks of Best Recording Apps</u></a></li>
-<li><a href="https://win-able.techidaily.com/masterminds-mute-fix-restoring-audio-to-evil-genius-2/"><u>Mastermind's Mute Fix: Restoring Audio to Evil Genius 2</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-index-affordable-flexible-image-sources-for-2024/"><u>Premier Index Affordable, Flexible Image Sources for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/seeking-solutions-why-no-facebook-videos-pop-up-in-2024/"><u>Seeking Solutions Why No Facebook Videos Pop Up, In 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-your-vision-to-life-adobe-premiere-pro-for-mac-creators/"><u>Updated Bring Your Vision to Life Adobe Premiere Pro for Mac Creators</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-capture-youtube-live-a-comprehensive-guide-for-all-tech-enthusiasts/"><u>[New] In 2024, Capture YouTube Live A Comprehensive Guide for All Tech Enthusiasts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-capture-and-share-your-games-online/"><u>[Updated] How to Capture and Share Your Games Online</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitsoundscape-audio-from-tweets-for-2024/"><u>[Updated] TwitSoundscape Audio From Tweets for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-vlc-player-tips-10-hidden-features/"><u>[Updated] VLC Player Tips 10 Hidden Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-black-ops-cold-war-freezing-problem-how-to-get-back-in-action-with-ease/"><u>Call of Duty: Black Ops Cold War Freezing Problem - How to Get Back in Action with Ease</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-warcraft-3-reforged-from-crashing-on-your-pc-tips-and-tricks/"><u>How to Stop Warcraft 3 Reforged From Crashing on Your PC (Tips & Tricks)</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-freezing-glitches-in-call-of-duty-black-ops-cold-war-fixing-tips-and-solutions/"><u>Overcoming Freezing Glitches in Call of Duty: Black Ops Cold War - Fixing Tips and Solutions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/reclaim-your-past-retrieve-lost-chrome-history-using-these-6-simple-steps/"><u>Reclaim Your Past: Retrieve Lost Chrome History Using These 6 Simple Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-frustration-alien-fireteam-elite-no-longer-crashes-on-pc/"><u>Say Goodbye to Frustration – Alien: Fireteam Elite No Longer Crashes on PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/strategic-hashtag-application-for-greater-instagram-traction-for-2024/"><u>Strategic Hashtag Application for Greater Instagram Traction for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-solving-the-persistent-problem-of-outlook-freezing-or-crashing/"><u>Understanding and Solving the Persistent Problem of Outlook Freezing or Crashing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Stop Watch Dogs Legion From Endlessly Crashing on Personal Computers
-date: 2024-10-05T17:33:45.718Z
-updated: 2024-10-08T17:51:44.832Z
+date: 2024-10-12T16:59:19.244Z
+updated: 2024-10-15T04:39:36.979Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
  Before carrying out the fixes below, please make sure your PC specs meet the **[minimum system requirements](https://support.rockstargames.com/articles/200149466/L-A-Noire-PC-System-Requirements)**  to play L.A. Noire.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Run Steam as an administrator
 
  To ensure L.A. Noire can access necessary permissions to launch properly, it’s suggested you run the Steam client as an administrator. Here’s how to do this:
@@ -50,16 +43,16 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Select the**Compatibility** tab. Then, tick the box next to**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch the Steam client and start L.A. Noire to check if it works well now. If not, move on to the next fix below.
 
@@ -77,33 +70,33 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait until the repair process completes, then you can launch L.A. Noire to see if the problem disappears. If not, head towards the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Launch the DXSETUP.exe file
 
@@ -117,6 +110,19 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Select the**Local Files** tab, and click**Browse Local Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-1.jpg)
@@ -128,6 +134,13 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
  Follow the wizard to complete the installation, and the DirectX error that stops L.A. Noire from launching should be gone. If the problem reoccurs, go to the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Opt out of all beta programs
 
@@ -158,37 +171,30 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Right-click**L.A. Noire** from the game list and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Untick**Use Desktop Game Theatre while SteamVR is active** . Then, click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/50.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart L.A. Noire and check if it starts without error. If the not launching problem persists, don’t despair. There is the last fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6 – Update your graphics driver
 
@@ -213,10 +219,16 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -248,20 +260,21 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-prime-techniques-for-saving-app-scenes/"><u>[New] 2024 Approved Prime Techniques for Saving App Scenes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-complete-guide-to-proficient-periscope-operation-for-2024/"><u>[Updated] Complete Guide to Proficient Periscope Operation for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-and-the-perplexing-challenge-understanding-the-impact-of-error-2024/"><u>Cyberpunk 2077 and the Perplexing Challenge: Understanding the Impact of Error 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/final-fixes-for-google-chrome-eating-up-too-much-processor-power/"><u>Final Fixes for Google Chrome Eating Up Too Much Processor Power</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-address-the-missing-msvcr110dll-file-in-helldivers-game/"><u>How to Address the Missing MSVCR110.dll File in Helldivers Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashes-in-call-of-duty-mobile-warzone-20-for-pc-players/"><u>How to Fix Persistent Crashes in Call of Duty Mobile Warzone 2.0 for PC Players</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-x50-gt-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor X50 GT? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photoshop-alternatives-on-android/"><u>In 2024, Photoshop Alternatives on Android</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-11-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme 11 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-collision-solved-resolving-dual-accident-issues/"><u>PC Collision Solved: Resolving Dual Accident Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-phoenix-point-crashes-with-these-effective-solutions/"><u>Say Goodbye to Phoenix Point Crashes with These Effective Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/tactical-insights-for-cod-warzone-players-in-the-new-pacific-map/"><u>Tactical Insights for COD: Warzone Players in the New Pacific Map</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-gaming-mini-pc-picks-unleash-compact-power/"><u>Top Gaming Mini PC Picks: Unleash Compact Power</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-enhancing-your-gaming-experience-with-windows-11-tweaks/"><u>Ultimate Guide: Enhancing Your Gaming Experience with Windows 11 Tweaks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-speed-the-complete-handbook-on-srt-to-txt-transformation/"><u>Unlock Speed The Complete Handbook on SRT to TXT Transformation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-elevating-design-skills-for-career-advancement/"><u>[New] In 2024, Elevating Design Skills for Career Advancement</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-step-by-step-pathway-to-mastering-srt-files/"><u>[Updated] In 2024, Step-by-Step Pathway to Mastering SRT Files</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-premium-avplayer-xpress-for-mobile-and-desktop-users/"><u>2024 Approved Premium AVPlayer Xpress for Mobile & Desktop Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/bug-squashed-the-2024-patch-for-league-of-legends-reconnection-issue-explained/"><u>Bug Squashed: The 2024 Patch for League of Legends' Reconnection Issue Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-resolution-issues-fixing-the-games-initial-black-screen/"><u>Elden Ring Resolution Issues: Fixing the Game's Initial Black Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-arcade-experience-large-format-framing-recommended/"><u>Elevate Your Arcade Experience: Large-Format Framing Recommended</u></a></li>
+<li><a href="https://win-able.techidaily.com/game-on-with-no-delay-fixing-input-lag-for-a-smoother-valorant-experience-2024-edition/"><u>Game On with No Delay: Fixing Input Lag for a Smoother Valorant Experience, 2024 Edition</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-content-warning-voice-chat-not-working/"><u>How to Fix Content Warning Voice Chat Not Working</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-sea-of-thieves-stability-issues-a-comprehensive-guide/"><u>How to Resolve Sea of Thieves Stability Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-in-depth-walkthrough-editing-youtube-videos-in-wmm/"><u>In 2024, In-Depth Walkthrough Editing YouTube Videos in WMM</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-blueprint-for-capturing-streaming-audio-online/"><u>In 2024, The Ultimate Blueprint for Capturing Streaming Audio Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installation-guide-downloading-and-setting-up-canon-mp280-printer-drivers-on-windows-11-8-or-7/"><u>Installation Guide: Downloading and Setting Up Canon MP280 Printer Drivers on Windows 11, 8 or 7</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-for-when-discords-camera-feature-stops-working/"><u>Quick Solutions for When Discord's Camera Feature Stops Working</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-resolving-citysketchers-urban-collapse-bug-top-hacks-of-2024/"><u>Ultimate Guide to Resolving CitySketchers' Urban Collapse Bug - Top Hacks of 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-transition-understanding-the-move-towards-electric-cars/"><u>Unveiling the Transition: Understanding the Move Towards Electric Cars</u></a></li>
 </ul></div>
 

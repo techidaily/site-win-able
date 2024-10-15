@@ -1,7 +1,7 @@
 ---
 title: Halo Infinite Stability Guide - Stop PC Disruptions and Get Back to Gaming Smoothly!
-date: 2024-09-10T14:13:18.759Z
-updated: 2024-09-11T14:13:18.759Z
+date: 2024-10-13T02:33:30.387Z
+updated: 2024-10-15T01:45:18.609Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
 
 The long awaited horror game**Resident Evil Village** (RE8) is finally out now. However, according to reports, quite a lot of players have been experiencing game crashing at startup or whilst in game problem. If you’re in the same dilemma, don’t worry. It isn’t too hard to fix at all…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## How to fix Resident Evil Village Crashing on PC
 
@@ -40,19 +37,12 @@ The long awaited horror game**Resident Evil Village** (RE8) is finally out now. 
 9. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 10. **[Reinstall Resident Evil Village and Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1:   **Make sure your PC meets the minimum specifications for Resident Evil Village**
 
@@ -75,26 +65,20 @@ To check the specs of your PC:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
  If your PC specs have been up to the mark but Resident Evil Village still crashes, please move on to **Fix 2** , below to begin troubleshooting.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Update your device drivers
 
@@ -108,19 +92,6 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -140,35 +111,15 @@ You can disable Steam overlay with the following steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-steam-properties-1.jpg)
 3. In the **GENERAL** section, uncheck the **Enable Steam Overlay while in-game** box.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Disable-the-Steam-Overlay-for-Resident-Evil-Village-2.jpg)
 4. Run Resident Evil Village to see if the crashing problem is fixed. If it doesn’t cut it, please try**Fix 4** , below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Run Steam as administrator
 
@@ -180,41 +131,7 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123-1.png)
 2. Click **Yes**  when UAC prompts for permissions to proceed.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  After that, launch Resident Evil Village game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 5** , below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Verify game integrity on Steam
 
@@ -230,19 +147,6 @@ The steps are pretty easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/INTEGRITY.png)
 5. Wait a few minutes for Steam to validate the files of the game. Again, any files found missing or corrupt would be automatically downloaded in the process.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 6. Re-launch Resident Evil Village to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try **Fix 6** , below.
 
 ### Fix 6: Close background apps
@@ -255,20 +159,6 @@ Here’s how to close background apps:
 2. Select the**Startup** tab, then right-click on each item and click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  RE8 still crashes? Don’t worry – there’s a couple more fixes for you to try.
 
@@ -285,18 +175,12 @@ Here’s how to close background apps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-steam-properties-1.png)
 3. Click**Local** \>**Browse…** .
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4. Open the**Config** file and set**HDRMode-false** .
 
@@ -306,34 +190,7 @@ Here’s how to close background apps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/desk.cpl_.png)
 2. Scroll to the Windows HD Color section and turn the toggle for**Play HDR games and apps** to**Of** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/windows-hdr-off.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Once you have disabled HDR, run the game in the client and see if it still crashes. If it’s still on-going, please move on to **Fix 8** .
 
@@ -342,6 +199,13 @@ Here’s how to close background apps:
  The game crash is likely to be a bug that comes along previous updates, which requires to be patched in the next release. To check if this is the case, you can install the latest patch, then run the game again to see if the crashing problem ceases.
 
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to **Fix 9** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Perform a clean boot
 
@@ -354,23 +218,33 @@ Here are the steps to perform a clean boot:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Type or past **msconfig**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-1.jpg)
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services-1.png)
 3. Browse through the full list of services, make sure to   **check the boxes for the items that belong to your hardware manufacturers**  (such as Intel, AMD, and Qualcomm) and **uncheck the boxes for the rest** . Once finished, click **OK** to apply the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/esential.png)
 4. Restart your computer, then test to see if the game still crashes.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
    * **If Resident Evil Village stops crashing** , you can try repeating these steps, disabling half of the services each time until you pinpoint the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Resident Evil Village still crashes** , please continue to **Fix 10** .
@@ -392,8 +266,6 @@ Here are the steps to perform a clean boot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -401,12 +273,22 @@ Here are the steps to perform a clean boot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-will-televising-facebook-vids-become-a-trend/"><u>[New] In 2024, Will Televising Facebook Vids Become a Trend ?</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-high-cpu-load-on-god-of-war-top-tips-and-tricks/"><u>Beat High CPU Load on God of War: Top Tips and Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-in-class-writing-workshop/"><u>Best-in-Class Writing Workshop</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-solutions-to-sound-difficulties-in-halo-infinite/"><u>Comprehensive Solutions to Sound Difficulties in Halo Infinite</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999341742-cyberpunk-2077-graphics-optimization-for-windows-11-use-your-gpu/"><u>Cyberpunk 2077 Graphics Optimization for Windows 11 – Use Your GPU!</u></a></li>
+<li><a href="https://win-able.techidaily.com/death-stranding-stops-working-on-pc-heres-how-you-can-resolve-that-problem/"><u>Death Stranding Stops Working on PC? Here's How You Can Resolve That Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-ensure-your-graphics-card-is-utilized-by-call-of-duty-warzone-on-windows-11/"><u>How To Ensure Your Graphics Card Is Utilized by Call of Duty: Warzone on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-errgfxd3dinit-graphics-error-in-gta-v/"><u>How to Resolve the ERR_GFX_D3D_INIT Graphics Error in GTA V</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-simplicity-in-recording-an-overwatch-perspective/"><u>In 2024, Simplicity in Recording An Overwatch Perspective</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-sim-racing-wheel-drivers-compatible-with-windows-7810/"><u>Latest Logitech Sim Racing Wheel Drivers Compatible with Windows 7/8/10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/no-cost-screen-capture-the-best-windows-applications-reviewed-for-2024/"><u>No-Cost Screen Capture The Best Windows Applications Reviewed for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/professionele-vob-to-flv-konvertierung-onlinelastigheid-gratis-bij-movavi/"><u>Professionele Vob-to-FLV Konvertierung: Onlinelastigheid Gratis Bij Movavi</u></a></li>
+<li><a href="https://techidaily.com/sign-a-pdf-v15-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign a PDF v1.5 document with electronic signature tool</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixed-pc-issues-with-persona-3-fes-remake/"><u>Troubleshooting Guide: Fixed PC Issues with Persona 3 FES Remake</u></a></li>
+<li><a href="https://win-able.techidaily.com/wave-goodbye-to-game-crashes-expert-fixes-for-a-smooth-run-of-total-war-warhammer-iii-on-pc/"><u>Wave Goodbye to Game Crashes: Expert Fixes for a Smooth Run of TOTAL WAR: WARHAMMER III on PC</u></a></li>
+</ul></div>
 

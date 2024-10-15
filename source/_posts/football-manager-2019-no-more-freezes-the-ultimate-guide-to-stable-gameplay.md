@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2019 No More Freezes - The Ultimate Guide to Stable Gameplay
-date: 2024-10-03T16:15:29.371Z
-updated: 2024-10-08T22:13:55.590Z
+date: 2024-10-12T16:30:39.161Z
+updated: 2024-10-15T06:21:18.187Z
 tags:
   - win11
   - win10
@@ -38,22 +38,15 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 8. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1\. Check your PC specs
 
  Make sure you’re playing Football Manager 2022 in a 64-bit processor and operating system. If you’re on a 32-bit system, it’s recommended to upgrade your system and perhaps your device.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2\. Add an exception to your antivirus
 
@@ -66,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 * **[McAfee](https://service.mcafee.com/?page=shell&shell=article-view&articleId=TS102056)**
 
  Or you can uninstall your antivirus temporarily (note that disabling it won’t work) and be very careful about the websites you’re visiting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3\. Update your graphics driver
 
@@ -80,19 +80,25 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/driver-easy-5.7.1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your drivers, restart your PC and test the gameplay.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4\. Verify the integrity of game files
 
@@ -105,6 +111,13 @@ After updating your drivers, restart your PC and test the gameplay.
 
 3) Go to **LOCAL FILES** and click **Verify integrity of game files…**
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once complete, launch the game to check if your game is working again.
 
@@ -128,18 +141,18 @@ Once complete, launch the game to check if your game is working again.
 
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select **Local Files** and then**Browse local files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-9.png)
 
  3) Locate the game’s executable and run the game as an administrator.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7\. Open the game in windowed mode
 
@@ -148,17 +161,17 @@ Once complete, launch the game to check if your game is working again.
  1) Right-click on Football Manager 2021 and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the **GENERAL** tab, uncheck **Enable the Steam Overlay while in-game** and type **\-windowed** under **LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 
  Launch your Football Manager 2022 to check if your launch issues have been resolved successfully.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8\. Repair your system files
 
@@ -202,13 +215,6 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -220,10 +226,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
@@ -283,24 +289,20 @@ Feel free to drop us a line if you have any suggestions or questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-minicam-record-evaluation-and-backup-software/"><u>[New] 2024 Approved MiniCam Record Evaluation & Backup Software</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-designing-engaging-podcast-teasers-for-2024/"><u>[New] Designing Engaging Podcast Teasers for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-how-to-rotate-youtube-videos-by-any-angle-2023-guide-andeditors/"><u>[New] How to Rotate YouTube Videos by Any Angle [2023 Guide &Editors]</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-professionals-guide-to-adding-youtube-content-to-powerpoint-slides/"><u>[Updated] The Professional's Guide to Adding YouTube Content to PowerPoint Slides</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-game-crashes-on-your-pc-essential-tips/"><u>Fixing Game Crashes on Your PC: Essential Tips</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Poco X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-roadmap-to-your-own-instagram-corporate-identity/"><u>In 2024, The Roadmap to Your Own Instagram Corporate Identity</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-total-360-giroptic-vr-capture-examination/"><u>In 2024, Total 360 Giroptic VR Capture Examination</u></a></li>
-<li><a href="https://win-able.techidaily.com/logitech-g-hub-not-working-a-comprehensive-fix-guide-for-windows-users/"><u>Logitech G Hub Not Working? A Comprehensive Fix Guide for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimized-and-secure-playthroughs-on-your-computer-with-the-patched-fnaf-security-update/"><u>Optimized & Secure Playthroughs on Your Computer with the Patched FNAF Security Update</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-a-guide-to-successfully-running-payday-2-on-pc/"><u>Overcoming Launch Errors: A Guide to Successfully Running Payday 2 on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-the-ultimate-fixes-for-a-non-responsive-logitech-c920-webcam/"><u>Resolved: The Ultimate Fixes for a Non-Responsive Logitech C920 Webcam</u></a></li>
-<li><a href="https://win-able.techidaily.com/rocket-league-performance-restored-say-goodbye-to-freezing-glitches/"><u>Rocket League Performance Restored - Say Goodbye to Freezing Glitches!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-network-hiccups-for-smooth-play-in-the-new-world-update/"><u>Troubleshooting Network Hiccups for Smooth Play in the New World Update</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-preventing-hitman-3-from-crashing-on-your-computer-tips/"><u>Ultimate Guide to Preventing Hitman 3 From Crashing on Your Computer - Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-the-secrets-to-swiftly-resolving-apex-legends-startup-challenges/"><u>Unlocking the Secrets to Swiftly Resolving Apex Legends Startup Challenges.</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unveiling-secret-nods-discovering-googles-best-kept-easter-eggs-from-iconic-films-and-series/"><u>Unveiling Secret Nods: Discovering Google's Best-Kept Easter Eggs From Iconic Films & Series</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-guide-to-effective-instagram-tagging-with-these-top-25-hashes/"><u>[New] The Ultimate Guide to Effective Instagram Tagging with These Top 25 Hashes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/automate-m2-drive-installation-on-win/"><u>Automate M.2 Drive Installation on Win</u></a></li>
+<li><a href="https://win-able.techidaily.com/avatars-pandora-adventure-stable-gameplay-experience-on-windows-and-pc/"><u>Avatar's Pandora Adventure - Stable Gameplay Experience on Windows & PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/bhargava-a-et-al-2017-acute-human-poisoning-cases-associated-with-the-herbicide-glyphosebased-formulations-in-india-19842015-j-toxicol-clin-toxicol-63-20-28517/"><u>Bhargava A., Et Al (2017). Acute Human Poisoning Cases Associated with the Herbicide Glyphosebased Formulations in India, 1984–2015. J Toxicol Clin Toxicol, 6(3), 20-28.</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-the-code-on-ue4s-back-4-blood-gobi-fatality-fix-your-game-now/"><u>Cracking the Code on UE4's Back 4 Blood 'Gobi' Fatality - Fix Your Game Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-recurring-freezing-glitches-of-deathloop-on-computer-and-ps5-platforms/"><u>Fixing the Recurring Freezing Glitches of Deathloop on Computer & PS5 Platforms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-infinix-note-30-vip-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Infinix Note 30 VIP?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-solve-the-missing-dll-msvcr110dll-issue-on-helldivers-2/"><u>How To Solve The Missing DLL MSVCR110.dll Issue on HellDivers 2</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-steelseries-engine-on-your-windows-11-machine-free-guide/"><u>Install SteelSeries Engine on Your Windows 11 Machine – Free Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/manipulating-media-with-mastery-tools/"><u>Manipulating Media with Mastery Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/reinventez-vos-videos-transformation-mp4-vers-asf-sans-frais-via-lhebergeur-en-ligne-de-movavi/"><u>Réinventez Vos Vidéos: Transformation MP4 Vers ASF Sans Frais via L'hébergeur en Ligne De Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-left-4-dead-2-game-crash-issues/"><u>Resolved: Fixes for Left 4 Dead 2 Game Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/specific-antidotes-can-be-life-saving-and-should-be-administered-as-soon-as-possible-if-indicated/"><u>Specific Antidotes Can Be Life-Saving and Should Be Administered as Soon as Possible if Indicated.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-power-play-enhancing-your-pages-popularity-ranking-for-2024/"><u>The Power Play Enhancing Your Page's Popularity Ranking for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus Ace 3 | Dr.fone</u></a></li>
 </ul></div>
 

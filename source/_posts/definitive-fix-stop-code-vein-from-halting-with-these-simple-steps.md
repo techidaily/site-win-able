@@ -1,7 +1,7 @@
 ---
 title: "Definitive Fix: Stop 'Code Vein' From Halting with These Simple Steps"
-date: 2024-10-02T19:42:28.251Z
-updated: 2024-10-08T17:41:10.294Z
+date: 2024-10-12T06:22:00.044Z
+updated: 2024-10-15T05:15:51.091Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 
  Run Fortnite again to check if you can log into the game or not. If it not, or there was no new game patch available, move on to Fix 2, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Reboot your network
 
  By rebooting your network, your Internet connection speed may be back to normal. So maybe it will also resolve this issue. Here is how to do it:  
@@ -77,14 +84,14 @@ See if you can log in or not. if not, try the next fix, below.
 2. Click**GO** to start testing your connection speed.  
 ![speedtest](https://images.drivereasy.com/wp-content/uploads/2018/10/speedtest.png)
 
- If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
 
 ### Fix 4: Reset Winsock data
 
@@ -94,24 +101,10 @@ See if you can log in or not. if not, try the next fix, below.
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-5-step-1.jpg)
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
 
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Flush your DNS and Renew your IP
 
@@ -132,10 +125,10 @@ See if you can log in or not. if not, try the next fix, below.
 2. Type the command line**ipconfig /release**  and press **Enter**  on your keyboard.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ipconfig release](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-release.jpg)
@@ -172,13 +165,6 @@ See if you can log in or not. if not, try the next fix, below.
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
 ![Update Broadcom 802.11.ac Network Adapter driver](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-Broadcom-802.11.ac-Network-Adapter-driver.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Fix 7: Avoid wireless interference
@@ -198,24 +184,24 @@ See if you can log in or not. if not, try the next fix, below.
 ![inetcpl.cpl](https://images.drivereasy.com/wp-content/uploads/2018/10/inetcpl-cpl.jpg)
 2. Navigate to the **Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…** ). Then click on **LAN settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![internet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/internet-properties.jpg)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
@@ -231,24 +217,38 @@ See if you can log in or not. if not, try the next fix, below.
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Ethernet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties.jpg)
 5. Double-click**Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Ethernet properties 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties-2.jpg)
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
 
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 See if you can log in or not. If not, try the next fix.
 
@@ -285,24 +285,18 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-cultivating-a-thriving-online-community-subscriber-growth-tactics/"><u>[New] 2024 Approved Cultivating a Thriving Online Community Subscriber Growth Tactics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-your-videos-a-youtube-hit-top-tips-and-strategies-for-2024/"><u>[Updated] How To Make Your Videos a YouTube Hit Top Tips and Strategies for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-kinemaster-techniques-for-impeccable-storytelling-pace/"><u>[Updated] Kinemaster Techniques for Impeccable Storytelling Pace</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-top-11-audio-capture-devices-for-live-broadcasts/"><u>[Updated] Top 11 Audio Capture Devices for Live Broadcasts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-learn-to-extract-twitter-media-as-audible-files/"><u>2024 Approved Learn to Extract Twitter Media as Audible Files</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-knowledge-acquisition-beyond-virtual-videos/"><u>2024 Approved Mastering Knowledge Acquisition Beyond Virtual Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/diablo-immortal-pc-release-put-on-hold-detailed-analysis-and-future-prospects/"><u>Diablo Immortal PC Release Put on Hold – Detailed Analysis and Future Prospects</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008669317-fix-your-deathloop-starting-problem-with-these-simple-solutions/"><u>Fix Your Deathloop Starting Problem with These Simple Solutions!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-launching-problems-with-monster-hunter-stories-2-wings-of-ruin-tips-and-tricks/"><u>How to Overcome Launching Problems with Monster Hunter Stories 2: Wings of Ruin - Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-and-resolve-game-crashes-on-pc-for-death-stranding-players/"><u>How to Prevent and Resolve Game Crashes on PC for Death Stranding Players</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/immersed-tube-tunnel-construction-is-used-for-underwater-crossings-and-involves-precise-placement-and-joining-of-prefabricated-sections/"><u>Immersed Tube Tunnel Construction Is Used for Underwater Crossings and Involves Precise Placement and Joining of Prefabricated Sections</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-7-plus-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 7 Plus Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/path-of-exile-connection-woes-heres-your-2024-step-by-step-solution/"><u>Path of Exile Connection Woes? Here's Your 2024 Step-by-Step Solution</u></a></li>
-<li><a href="https://win-able.techidaily.com/restoring-game-sounds-in-skyrim-a-step-by-step-guide/"><u>Restoring Game Sounds in Skyrim - A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/s-most-popular-online-video-reverse-editors-for-2024/"><u>S Most Popular Online Video Reverse Editors for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-frame-rate-drops-and-stutters-in-the-latest-game-version/"><u>Solving Frame Rate Drops and Stutters in the Latest Game Version</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-fix-guide-for-starting-far-cry-6-successfully-on-desktops-and-laptops/"><u>The Ultimate Fix Guide for Starting Far Cry 6 Successfully on Desktops and Laptops</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-guide-eradicating-the-dota-2-account-bans-of-2022/"><u>The Ultimate Guide: Eradicating the Dota 2 Account Bans of 2022</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-a-comprehensive-list-of-top-virtual-classrooms-not-inspired-by-udemy/"><u>[Updated] A Comprehensive List of Top Virtual Classrooms Not Inspired by Udemy</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-instant-sticker-transformation-your-guide-to-making-gifs-pop-in-telegram-and-more/"><u>[Updated] Instant Sticker Transformation Your Guide to Making GIFs Pop in Telegram & More</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-when-and-why-should-you-post-on-instagram/"><u>[Updated] When and Why Should You Post on Instagram?</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-r-type-final-2-pc-game-crash-issues-steps-to-stability/"><u>Fixes for R-Type Final 2 PC Game Crash Issues: Steps to Stability</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-strategic-timestamp-use-for-increased-youtube-traction/"><u>In 2024, Strategic Timestamp Use for Increased YouTube Traction</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-realme-c33-2023-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Realme C33 2023 FRP Without Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-your-matches-the-definitive-guide-to-overcoming-fps-drops-in-valorant-tips-and-tricks/"><u>Maximize Your Matches: The Definitive Guide to Overcoming FPS Drops in Valorant - Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/nox-emulator-instability-on-desktops-identifying-and-fixing-persistent-issues/"><u>Nox Emulator Instability on Desktops: Identifying and Fixing Persistent Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-your-azeroth-struggles-fixing-issues-with-world-of-warcraft-not-starting/"><u>Overcome Your Azeroth Struggles: Fixing Issues with World of Warcraft Not Starting</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/resolving-the-grey-screen-error-while-editing-pages-on-flip-a-step-by-step-guide/"><u>Resolving the Grey Screen Error While Editing Pages on Flip: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-solving-pathfinder-wrath-of-the-righteous-keyboard-malfunctions/"><u>Troubleshooting: Solving 'Pathfinder - Wrath of the Righteous' Keyboard Malfunctions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-installing-the-latest-drivers-on-razer-blade-17-running-windows-operating-systems/"><u>Ultimate Guide to Installing the Latest Drivers on Razer Blade 17 Running Windows Operating Systems</u></a></li>
 </ul></div>
 

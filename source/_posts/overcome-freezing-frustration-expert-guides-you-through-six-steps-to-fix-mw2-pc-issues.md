@@ -1,7 +1,7 @@
 ---
 title: "Overcome Freezing Frustration: Expert Guides You Through Six Steps to Fix MW2 PC Issues"
-date: 2024-10-03T20:36:28.818Z
-updated: 2024-10-08T17:29:38.313Z
+date: 2024-10-10T19:59:10.329Z
+updated: 2024-10-15T05:04:28.691Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest game patch
 
  Respawn Entertainment, the developer of Apex Legends, releases regular game patches to fix bugs and enhance performance. It’s possible that a recent patch has triggered this issue, and that a new patch is required to fix it.
@@ -54,14 +61,14 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-586.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4\. Run Apex Legends to see if you can pass the loading screen. If not, or there was no new game patch available, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
 
@@ -88,15 +95,22 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Flush your DNS
 
@@ -106,23 +120,9 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/1-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/Snap361-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3\. Launch Apex Legends to see if you resolved this issue. If not, don’t worry. Try the next fix, below.
 
@@ -150,10 +150,10 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
  6\. Launch Apex Legends to see if you fixed this issue. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Repair Apex Legends in Origin
@@ -166,9 +166,23 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-591-1024x582.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
 
@@ -196,13 +210,6 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
@@ -216,13 +223,6 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
  2\. Go to **My Game Library** , then **right-click** on **Apex Legends** and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if you can pass the loading screen. If so, congratulations! You’ve resolved this issue.
 
@@ -245,17 +245,18 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-art-of-adding-gifs-to-instagram-posts-4-easy-steps/"><u>[New] In 2024, The Art of Adding GIFs to Instagram Posts (4 Easy Steps)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-elevate-your-edits-creating-stellar-tiktok-react-videos-in-filmoras-pro-features/"><u>[Updated] Elevate Your Edits Creating Stellar TikTok React Videos in Filmora's Pro Features</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-gopro-videos-the-ultimate-guide/"><u>[Updated] Mastering Gopro Videos The Ultimate Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-15-advanced-tips-for-sports-broadcasting-nba/"><u>2024 Approved 15 Advanced Tips for Sports Broadcasting (NBA)</u></a></li>
-<li><a href="https://win-able.techidaily.com/ace-the-apocalypse-masterful-methods-to-fix-and-avoid-critical-ark-malfunctions/"><u>Ace the Apocalypse: Masterful Methods to Fix and Avoid Critical 'Ark' Malfunctions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-tech-savings-alert-featuring-the-enhanced-pixel-7a-phone-ultra-compact-anker-nano-charger-revolutionary-tv-experience-through-samsung-frame-models15/"><u>Exclusive Tech Savings Alert! Featuring the Enhanced Pixel 7a Phone, Ultra Compact Anker Nano Charger, Revolutionary TV Experience Through Samsung Frame Models and More Spectacular Offers!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-a54-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy A54 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-m14-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy M14 5G FRP?</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-corsair-icue-connectivity-problems-on-windows-11-pcs/"><u>Troubleshooting Corsair iCUE Connectivity Problems on Windows 11 PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-fifa-19-crashing-incidents-on-personal-computers/"><u>Ultimate Fixes for FIFA 19 Crashing Incidents on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/windows-11-taskbar-issues-resolved-effective-solutions-for-common-problems/"><u>Windows 11 Taskbar Issues Resolved? Effective Solutions for Common Problems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-selection-for-captivating-youtube-content-starts/"><u>[New] The Ultimate Selection for Captivating YouTube Content Starts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-freebuy-one-lut-bundle-for-canon-pros/"><u>[Updated] In 2024, Free/Buy-One-LUT Bundle for Canon Pros</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-discovering-the-enhanced-vision-in-samsung-galaxy-s8/"><u>2024 Approved Discovering the Enhanced Vision in Samsung Galaxy S8</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-xiaomi-redmi-13c-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Xiaomi Redmi 13C 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-the-code-on-steams-locked-file-conundrum-a-comprehensive-fix/"><u>Cracking the Code on Steam’s Locked File Conundrum – A Comprehensive Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-gaming-now-a-step-by-step-guide-to-solving-overwatch-2s-boot-difficulties/"><u>Get Gaming Now: A Step-by-Step Guide to Solving Overwatch 2'S Boot Difficulties</u></a></li>
+<li><a href="https://win-able.techidaily.com/grand-theft-auto-v-performance-hacks-how-to-prevent-unexpected-game-stalls-and-freezes/"><u>Grand Theft Auto V Performance Hacks: How to Prevent Unexpected Game Stalls and Freezes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nubia-z50-ultra-drfone-by-drfone-android/"><u>How to Screen Mirroring Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-12-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 12</u></a></li>
+<li><a href="https://win-able.techidaily.com/lightsabers-onscreen-once-more-how-to-repair-the-star-wars-battlefront-ii-midnight-void-bug/"><u>Lightsabers Onscreen Once More - How to Repair the 'Star Wars Battlefront II' Midnight Void Bug</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/next-generation-x-plane-11-analysis-top-notch-graphics-and-realistic-experience/"><u>Next-Generation X-Plane 11 Analysis: Top-Notch Graphics and Realistic Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-steams-error-code-130-a-comprehensive-solution-guide/"><u>Resolving Steam's Error Code 130: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-cant-i-start-evil-genius-2-game/"><u>Troubleshooting Guide: Why Can't I Start Evil Genius 2 Game?</u></a></li>
 </ul></div>
 

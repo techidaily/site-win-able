@@ -1,7 +1,7 @@
 ---
 title: "Solution Hub: How to Combat Constant Disconnections in Risk of Rain 2"
-date: 2024-10-02T16:38:29.137Z
-updated: 2024-10-08T23:12:47.374Z
+date: 2024-10-14T02:49:12.158Z
+updated: 2024-10-15T03:29:39.522Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -94,21 +87,35 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
@@ -122,6 +129,19 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -144,22 +164,21 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -178,13 +197,6 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -208,21 +220,22 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweet-tracks-top-ranked-amazon-originals-on-twittersphere/"><u>[New] 2024 Approved Tweet Tracks Top-Ranked Amazon Originals on Twittersphere</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-fast-and-free-strategies-for-authenticity-in-insta-circles-for-2024/"><u>[New] Fast & Free Strategies for Authenticity in Insta Circles for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unlocking-potential-with-apples-m1-max-clip/"><u>[New] In 2024, Unlocking Potential with Apple's M1 Max Clip</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-recording-sims-4-games-professionally/"><u>[Updated] In 2024, Recording Sims 4 Games Professionally</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/elevating-your-minecraft-game-perfectly-shaped-circles-and-spheres/"><u>Elevating Your Minecraft Game Perfectly Shaped Circles and Spheres</u></a></li>
-<li><a href="https://win-able.techidaily.com/elex-ii-stability-issues-resolved-how-to-stop-game-crashes-on-pc/"><u>Elex II Stability Issues Resolved: How to Stop Game Crashes on PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-lava-yuva-2-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Lava Yuva 2 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723001364236-launch-problems-in-valorant-heres-how-you-can-resolve-them-on-your-pc-latest-tips/"><u>Launch Problems in Valorant? Here's How You Can Resolve Them on Your PC - Latest Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-gamers-guide-prevent-and-resolve-your-pc-games-from-crashing/"><u>Master Gamers' Guide: Prevent and Resolve Your PC Games From Crashing</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-terraria-stability-issues-with-new-2024-fixes-and-hacks/"><u>Overcome Terraria Stability Issues with New 2024 Fixes and Hacks</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-issues-solving-stutter-problems-in-sifu-fps-gameplay/"><u>PC Issues: Solving 'Stutter' Problems in Sifu FPS Gameplay</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/softwares-evolution-the-art-of-small-tweaks-vs-bold-changes/"><u>Software's Evolution: The Art of Small Tweaks vs Bold Changes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-benefits-of-mastering-chatgpt-for-career-advancement/"><u>Top 6 Benefits of Mastering ChatGPT for Career Advancement</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-gta-5-online-connectivity-issues/"><u>Troubleshooting Tips for GTA 5 Online Connectivity Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-the-dead-space-reboot-starting-issue-2024-tips-and-solutions/"><u>Ultimate Fixes for the Dead Space Reboot Starting Issue - 2024 Tips & Solutions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-capabilities-a-review-of-the-samsung-galaxy-note20-ultra-with-5g-connectivity/"><u>Unveiling the Capabilities: A Review of the Samsung Galaxy Note20 Ultra with 5G Connectivity</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-ultimate-mac-screen-capturing-tips-unveiling-5-efficient-techniques/"><u>[Updated] 2024 Approved Ultimate Mac Screen Capturing Tips Unveiling 5 Efficient Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unveiling-the-hidden-potential-of-earnings-on-vimeo-platforms/"><u>[Updated] 2024 Approved Unveiling the Hidden Potential of Earnings on Vimeo Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-viewership-with-innovative-youtube-thumbnail-ideas/"><u>[Updated] Maximize Viewership with Innovative YouTube Thumbnail Ideas</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-zooming-into-clarity-a-blueprint-for-crisp-screenshots/"><u>[Updated] Zooming Into Clarity A Blueprint for Crisp Screenshots</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-glitch-ultimate-fixes-for-when-deathloop-wont-boot-up-correctly/"><u>Beat the Glitch: Ultimate Fixes for When Deathloop Won't Boot Up Correctly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/correcting-inaccurate-clock-settings-on-macos-devices-with-easy-8-methods/"><u>Correcting Inaccurate Clock Settings on macOS Devices with Easy 8 Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/ending-the-chill-fix-freezing-problems-in-fallout-4-for-a-seamless-play-experience/"><u>Ending the Chill: Fix Freezing Problems in Fallout 4 for a Seamless Play Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-csgo-frame-rate-fluctuations-for-a-smoother-gaming-experience/"><u>Fixing CS:GO Frame Rate Fluctuations for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-storytellers-edge-integrating-youtube-vids-with-ig/"><u>In 2024, The Storyteller's Edge Integrating YouTube Vids with IG</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/jailbreak-comedy-hour-best-fb-moments-of-amusement-and-awe/"><u>Jailbreak Comedy Hour Best FB Moments of Amusement and Awe</u></a></li>
+<li><a href="https://win-answers.techidaily.com/origin-crash-woes-solve-them-instantly-and-effortlessly-with-our-expert-tips/"><u>Origin Crash Woes? Solve Them Instantly & Effortlessly with Our Expert Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-starting-issues-in-lost-ark-a-comprehensive-fixers-handbook-gaming-woes/"><u>Overcome Starting Issues in 'Lost Ark': A Comprehensive Fixer’s Handbook Gaming Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-hurdle-how-to-get-baldurs-gate-3-up-and-running/"><u>Overcome the Hurdle: How to Get Baldur's Gate 3 Up and Running</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-tricks-to-prevent-and-repair-league-of-legends-crashes-easily/"><u>Quick Tricks to Prevent and Repair League of Legends Crashes Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-battlefield-2042s-directx-compatibility-problems-quickly-and-easily/"><u>Resolving Battlefield 2042'S DirectX Compatibility Problems Quickly and Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-stop-scavengers-from-crashing-on-your-computer-windows/"><u>Ultimate Guide to Stop Scavengers From Crashing on Your Computer (Windows)</u></a></li>
 </ul></div>
 

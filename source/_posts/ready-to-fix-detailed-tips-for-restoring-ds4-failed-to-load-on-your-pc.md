@@ -1,7 +1,7 @@
 ---
 title: Ready to Fix? Detailed Tips for Restoring 'DS4 Failed to Load' On Your PC
-date: 2024-10-05T17:13:17.726Z
-updated: 2024-10-08T16:30:13.218Z
+date: 2024-10-08T05:13:17.094Z
+updated: 2024-10-14T18:41:31.129Z
 tags:
   - win11
   - win10
@@ -36,6 +36,19 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Disable Discord in Task Manager
 
  Before getting started, you’ll need to end tasks running Discord in your computer, so you can delete Discord’s folders in your computer in Step 2.
@@ -47,23 +60,9 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
  You’ll need to repeat this several times to end Discord task if there are more than one processes for Discord.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Then close**Task Manager** .
 
  Then you’ll be able to delete Discord folders. Continue with the steps below.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Delete Discord folders
 
@@ -72,37 +71,32 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14e6b6694d.jpg)
 3. Your File Explorer will open a window. Right click the**discord folder** and click**Delete** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Type_**%LocalAppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
 6. Your File Explorer will open a new window. Right click the**Discord** **folder** and click**Delete** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
 7. Restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
 
  Hope the steps above helps you with the Discord installation failed issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus Tip: Update available device drivers
 
@@ -125,6 +119,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15008084c8.jpg)
 3. Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1502542d98.jpg)
 4. Restart your computer to take effect.
@@ -146,20 +147,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-stream-with-clarity-ranking-the-best-6-microphones-today/"><u>[New] 2024 Approved Stream with Clarity Ranking the Best 6 Microphones Today</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-foundations-of-effective-youtube-broadcasting/"><u>[Updated] 2024 Approved The Foundations of Effective YouTube Broadcasting</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unlock-the-power-to-create-personalized-whatsapp-alerts/"><u>[Updated] 2024 Approved Unlock the Power to Create Personalized WhatsApp Alerts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-slice-and-shoot-mastering-the-art-of-food-video/"><u>[Updated] Slice and Shoot Mastering the Art of Food Video</u></a></li>
-<li><a href="https://win-able.techidaily.com/achieve-optimal-gameplay-advanced-strategies-to-resolve-warzone-stutter-and-boost-frame-rate/"><u>Achieve Optimal Gameplay: Advanced Strategies to Resolve Warzone Stutter & Boost Frame Rate</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-maze-to-find-your-ideal-4k-screen/"><u>In 2024, Navigating the Maze to Find Your Ideal 4K Screen</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-honor-x50-gt-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Honor X50 GT Phone Hassle-Free</u></a></li>
-<li><a href="https://win-able.techidaily.com/new-techniques-for-fixing-pixel-vibration-in-google-chrome-on-windows-pc-updated-guide/"><u>New Techniques for Fixing Pixel Vibration in Google Chrome on Windows PC: Updated Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-constant-errors-in-microsoft-outlook-a-comprehensive-guide/"><u>Overcoming Constant Errors in Microsoft Outlook: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-prolonged-startup-times-in-star-wars-battlefront-ii-for-pc-gamers/"><u>Resolving Prolonged Startup Times in Star Wars Battlefront II for PC Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-issue-city-skylines-2-wont-start/"><u>Solving the Issue: City Skylines 2 Won't Start</u></a></li>
-<li><a href="https://win-able.techidaily.com/tackling-the-troublesome-black-display-when-playing-overwatch-initially/"><u>Tackling the Troublesome Black Display When Playing Overwatch Initially</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-your-minecraft-server-connectivity-problems-resolved/"><u>Troubleshooting Your Minecraft Server: Connectivity Problems Resolved</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-effortless-downloads-at-zero-cost-find-the-top-20-tools-for-youtube-sound-ripping-for-2024/"><u>[Updated] Effortless Downloads at Zero Cost Find the Top 20 Tools for YouTube Sound Ripping for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-your-digital-footprint-facebook-lives-made-easy-for-2024/"><u>[Updated] Mastering Your Digital Footprint Facebook Lives Made Easy for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-ultimate-guide-correcting-blurry-video-footage-with-proven-techniques/"><u>1. Ultimate Guide: Correcting Blurry Video Footage with Proven Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-equipment-for-cutting-edge-livestreams/"><u>2024 Approved Premier Equipment for Cutting-Edge Livestreams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-incompatible-system-mark-on-windows-11/"><u>Bypass Incompatible System Mark on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-final-age-running-smoothly-on-your-computer-top-fixes-and-hacks-for-a-seamless-2024/"><u>Get 'Final Age' Running Smoothly on Your Computer: Top Fixes & Hacks for a Seamless 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-black-ops-cold-wars-troublesome-error-0xc00e0005/"><u>How to Resolve Black Ops Cold War's Troublesome Error 0XC00e0005</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y100-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y100 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oppo-a78-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Oppo A78 Data? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-connection-glitches-in-apex-legends-with-these-tips/"><u>Resolve Connection Glitches in Apex Legends with These Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-pc-issues-in-armored-core-6-navigating-the-rubicon-fire/"><u>Solving PC Issues in Armored Core 6: Navigating the Rubicon Fire</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stabilized-external-hdd-controls/"><u>Stabilized External HDD Controls</u></a></li>
 </ul></div>
 

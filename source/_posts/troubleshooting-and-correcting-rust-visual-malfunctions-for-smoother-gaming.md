@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting & Correcting Rust Visual Malfunctions for Smoother Gaming
-date: 2024-10-03T17:51:48.604Z
-updated: 2024-10-08T23:15:53.812Z
+date: 2024-10-08T17:49:29.975Z
+updated: 2024-10-14T19:34:29.720Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Released in November,**Call of Duty: Vanguard** is one of the hottest game title
 5. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Make sure your system is up to date](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Repair system files
 
@@ -69,10 +76,10 @@ Here’s how to use Fortect to run a Windows repair:
 2. Click**Yes** when prompted to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
@@ -80,6 +87,13 @@ Here’s how to use Fortect to run a Windows repair:
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -99,20 +113,20 @@ Here’s how to use Fortect to run a Windows repair:
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
@@ -136,19 +150,6 @@ To check the specs of your PC:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
@@ -177,13 +178,6 @@ To check the specs of your PC:
 
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Close background apps
 
  Another fix you could try is to close unnecessary background apps. This is because third-party apps running in the background may compete for CPU, memory and potentially interfere with the performance of the Vanguard game, causing your game to crash.
@@ -195,14 +189,14 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Make sure your system is up to date
 
@@ -215,10 +209,16 @@ Here are the steps:
 2. Click **Check for updates** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
@@ -247,22 +247,19 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-ground-to-greatness-photos-on-a-stretch/"><u>[New] From Ground to Greatness Photos on a Stretch</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-chromatic-excellence-learning-to-leverage-colors/"><u>[New] In 2024, Chromatic Excellence Learning to Leverage Colors</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-harmonize-your-youtube-presence-with-these-ideal-microphones-for-various-channels/"><u>2024 Approved Harmonize Your YouTube Presence With These Ideal Microphones for Various Channels</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722994622561-cortana-malfunctioning-here-are-the-solutions-you-need/"><u>Cortana Malfunctioning? Here Are the Solutions You Need</u></a></li>
-<li><a href="https://win-able.techidaily.com/dealing-with-latency-and-drops-during-high-stakes-gaming-tips-for-call-of-duty-modern-warfare-3s-fps-woes/"><u>Dealing with Latency and Drops During High-Stakes Gaming - Tips for Call of Duty: Modern Warfare 3'S FPS Woes</u></a></li>
-<li><a href="https://win-able.techidaily.com/error-code-8014-in-dead-by-daylight-quick-fixes-and-solutions/"><u>Error Code 8014 in Dead by Daylight - Quick Fixes and Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-game-running-overcoming-hardware-and-driver-errors-in-rainbow-six-extraction/"><u>Get Your Game Running: Overcoming Hardware and Driver Errors in Rainbow Six Extraction</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stabilize-your-gameplay-solve-state-of-decay-2-crashing-problems/"><u>How To Stabilize Your Gameplay: Solve State of Decay 2 Crashing Problems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-honor-80-pro-straight-screen-edition-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Honor 80 Pro Straight Screen Edition without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/raphic-social-strategies-for-budget-brands-for-2024/"><u>Infographic Social Strategies for Budget Brands for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-fix-when-your-witcher-3-wild-hunt-game-wont-start/"><u>Mastering the Fix: When Your Witcher 3: Wild Hunt Game Won't Start</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mobile-savings-and-decoding-digital-threats/"><u>Mobile Savings & Decoding Digital Threats</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-relief-starfields-upgraded-version-eliminates-crashing-glitches/"><u>PC Gaming Relief: Starfield's Upgraded Version Eliminates Crashing Glitches</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/professional-broadcasts-at-home-integrating-dslr-and-facebook-live-for-2024/"><u>Professional Broadcasts at Home Integrating DSLR & Facebook LIVE for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/resolving-common-issues-how-to-ensure-your-4k-tv-is-actually-displaying-in-full-ultra-hd/"><u>Resolving Common Issues: How to Ensure Your 4K TV Is Actually Displaying in Full Ultra HD</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-pc-crashing-issues-with-counter-strike-2-cs2-expert-solutions-and-adjustments/"><u>Say Goodbye to PC Crashing Issues with Counter-Strike 2 (CS2) - Expert Solutions & Adjustments</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-achieve-more-money-from-your-short-videos-on-youtube-for-2024/"><u>[Updated] Achieve More Money From Your Short Videos on YouTube for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-stream-control-showdown-is-obs-best-over-twitch-studio-for-2024/"><u>[Updated] Stream Control Showdown Is OBS Best over Twitch Studio for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-xcover-7-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy XCover 7 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722995771306-diablo-stability-issues-now-solved-and-discussed/"><u>Diablo Ⅲ Stability Issues: Now Solved and Discussed</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-cyberpunk-2077s-gpu-oversight-for-windows-11-users/"><u>Fixing Cyberpunk 2077'S GPU Oversight for Windows 11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-game-of-horizon-zero-dawn-from-crashing-on-pc/"><u>How to Stop Your Game of Horizon Zero Dawn From Crashing on PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xr-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone XR With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/melodies-with-a-twist-funny-tone-websites-listed/"><u>Melodies with a Twist Funny Tone Websites Listed</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-why-immortals-fenyx-rising-delayed-no-longer/"><u>Resolved: Why Immortals: Fenyx Rising Delayed No Longer</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-minecraft-launcher-error-code-0x803f8001-on-windows-11-and-10/"><u>Resolving Minecraft Launcher Error Code 0X803F8001 on Windows 11 and 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-overcoming-common-problems-in-phasmophobia-vr/"><u>Step-by-Step Solution: Overcoming Common Problems in Phasmophobia VR</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-constant-crashes-in-valorant-on-your-computer/"><u>Troubleshooting: How to Fix Constant Crashes in Valorant on Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-features-a-detailed-look-at-snappy-driver-installer-113-review/"><u>Unveiling the Features: A Detailed Look at Snappy Driver Installer 1.13 Review</u></a></li>
 </ul></div>
 

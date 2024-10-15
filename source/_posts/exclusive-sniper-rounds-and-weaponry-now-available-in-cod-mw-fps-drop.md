@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Sniper Rounds and Weaponry Now Available in Cod: MW FPS Drop!"
-date: 2024-10-06T23:05:17.671Z
-updated: 2024-10-08T22:59:14.527Z
+date: 2024-10-13T01:00:55.692Z
+updated: 2024-10-14T23:45:53.883Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
@@ -74,10 +74,10 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
@@ -109,25 +109,24 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -139,6 +138,13 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -166,22 +172,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-ban-unwanted-youtube-recommended-titles/"><u>[New] In 2024, Ban Unwanted YouTube Recommended Titles</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-gaming-hits-with-powerful-hashtag-strategies/"><u>[New] In 2024, Gaming Hits with Powerful Hashtag Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-internet-explorer-cannot-display-the-webpage/"><u>[SOLVED] Internet Explorer Cannot Display the Webpage</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-vlc-and-mpc-debate-who-will-be-your-ultimate-free-video-ally/"><u>[Updated] In 2024, VLC and MPC Debate Who Will Be Your Ultimate Free Video Ally?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-essential-6-platforms-fostering-corporate-connections/"><u>2024 Approved Essential 6 Platforms Fostering Corporate Connections</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-subtlety-savvy-sound-settings-for-garageband/"><u>2024 Approved Subtlety Savvy Sound Settings for Garageband</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-resolve-black-monitor-issues/"><u>Comprehensive Guide to Resolve Black Monitor Issues</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/harness-the-power-of-on-the-go-visual-adjustments/"><u>Harness the Power of On-the-Go Visual Adjustments</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-6-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 6 with a Broken Screen?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-maximizing-your-time-free-countdown-essentials/"><u>In 2024, Maximizing Your Time Free Countdown Essentials</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-mobile-suit-zetas-stability-pc-freezing-solutions-update-for-gamers-202/"><u>Mastering Mobile Suit Zeta's Stability: PC Freezing Solutions Update for Gamers (202</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-game-crashes-ensuring-smooth-playthroughs-of-fallout-3-on-windows-11/"><u>No More Game Crashes: Ensuring Smooth Playthroughs of Fallout 3 on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-for-gamers-handling-fortnite-error-84-unable-to-enter-parties/"><u>Quick Fixes for Gamers: Handling Fortnite Error 84 - Unable to Enter Parties</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-pc-issues-with-payday-2-startup/"><u>Troubleshooting Guide: Fixing PC Issues with Payday 2 Startup</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-problems-with-content-advisory-pop-ups-in-pc-browsers/"><u>Troubleshooting Persistent Problems with Content Advisory Pop-Ups in PC Browsers</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-resolving-assassins-creed-odyssey-freezes-in-pc-gaming-fixes-and-workarounds/"><u>Ultimate Guide to Resolving Assassin's Creed Odyssey Freezes in PC Gaming - Fixes & Workarounds</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-viditech-review-for-2024/"><u>Ultimate VidiTech Review for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-failed-to-create-opengl-context-for-format-qsurfaceformat/"><u>[FIXED] Failed to Create OpenGL Context for Format QSurFaceFormat</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-gasp-and-guffaw-10-instagram-pages-where-laughter-meets-tears/"><u>[New] 2024 Approved Gasp & Guffaw 10 Instagram Pages Where Laughter Meets Tears</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-facebook-live-broadcasting-recorded-videos-for-2024/"><u>[New] Mastering Facebook Live Broadcasting Recorded Videos for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-revamping-your-tiktok-videos-a-comprehensible-guide-for-new-borders/"><u>[Updated] Revamping Your TikTok Videos A Comprehensible Guide for New Borders</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-aturbidity/"><u>Battlefield Aturbidity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/download-and-deploy-llama-2-an-easy-to-follow-manual/"><u>Download & Deploy Llama 2: An Easy-to-Follow Manual</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-logitech-g-prodigy-g403-mouse-drivers-and-latest-updates-for-windows/"><u>Free Logitech G Prodigy (G403) Mouse Drivers & Latest Updates for Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-motorola-moto-g24-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Motorola Moto G24 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-first-steps-to-creating-a-successful-online-stream/"><u>In 2024, The First Steps to Creating a Successful Online Stream</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-sound-settings-resolving-zero-acoustics-in-your-twitch-livestream-setup/"><u>Mastering Sound Settings: Resolving Zero Acoustics in Your Twitch Livestream Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-performance-hiccups-in-persona-4-golden-a-solution-guide/"><u>Overcoming Performance Hiccups in Persona 4 Golden: A Solution Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pro-gamers-fbx-filming-techniques-for-2024/"><u>Pro Gamers' FBX Filming Techniques for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-extraction-fixed-no-more-pc-crashes/"><u>Rainbow Six Extraction: Fixed – No More PC Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-installing-and-playing-tiny-tinas-wonderlands-on-your-pc-a-troubleshooting-guide/"><u>Successfully Installing and Playing Tiny Tina's Wonderlands on Your PC: A Troubleshooting Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-microsoft-flight-simulator-2020-fixes-for-persistent-pc-crashes/"><u>Troubleshooting Microsoft Flight Simulator 2020: Fixes for Persistent PC Crashes</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-editing-nikon-videos-a-comprehensive-guide-to-software-and-techniques-for-2024/"><u>Updated Editing Nikon Videos A Comprehensive Guide to Software and Techniques for 2024</u></a></li>
 </ul></div>
 

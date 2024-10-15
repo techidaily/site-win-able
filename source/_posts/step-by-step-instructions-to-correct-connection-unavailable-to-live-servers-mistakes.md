@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions to Correct 'Connection Unavailable to Live Servers' Mistakes
-date: 2024-10-06T21:57:33.529Z
-updated: 2024-10-08T16:47:40.622Z
+date: 2024-10-12T21:22:00.617Z
+updated: 2024-10-15T00:11:35.302Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 
  Before we dive into anything advanced, make sure you[check the server status](https://www.playlostark.com/en-gb/support/server-status) first. If the server is under maintenance, you’ll need to wait till it’s done.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Test your internet connection
 
  When your network connection is unstable, it can fail to connect you to the game server. A quick test and refresh could help:
@@ -56,23 +49,9 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 
 If this doesn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Restart the game/Steam
 
  Many players have been able to solve the “cannot connect to the server” error by simply**restarting the game or Steam client** . Although it seems like a temporary workaround and you may have to try multiple times, it’s the quickest fix you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Repair game files
 
@@ -83,10 +62,10 @@ If this doesn’t help, try the next fix.
 2. Click**LOCAL FILES** , then click **Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-verify-game-files%E5%89%AF%E6%9C%AC.jpg)
@@ -135,11 +114,25 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14.jpg)
 2. Click **Browse** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Lost Ark game folders and add the game executable to the list. The default location is**C:\\Program Files (x86)\\Steam\\steamapps\\common** .
 4. Find Lost Ark on the list, **tick the checkbox of Private network** , and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block the game connection when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Check your DNS settings
 
@@ -148,13 +141,6 @@ If this doesn’t solve your problem, move on to the next fix.
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -167,17 +153,38 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns%E7%9A%84%E5%89%AF%E6%9C%AC.png)
 4. Your DNS cache is successfully cleared.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
 
@@ -200,13 +207,6 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 7: Repair corrupted system files
 
  If you’re experiencing performance issues like random crashes in Lost Ark and none of the fixes helped, the chances are you’re looking at a system issue. In addition to game files, corrupted system files may also cause the game to crash. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues first, but most of the time, manual repair is required.
@@ -218,14 +218,20 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -250,24 +256,17 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/arnings-exploration-how-youtube-turns-viewers-into-cash/"><u>[New] Earnings Exploration How YouTube Turns Viewers Into Cash</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-virtual-frontiers-five-incredible-upcoming-psvr-games-for-2024/"><u>[Updated] Virtual Frontiers Five Incredible Upcoming PSVR Games for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-ai-hearing-and-handling-software/"><u>2024 Approved Free AI Hearing and Handling Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-positive-interaction-not-pressure-a-subscription-success-story/"><u>2024 Approved Positive Interaction, Not Pressure A Subscription Success Story</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/a-complete-guide-to-enjoying-dvd-content-on-your-microsoft-surface-pro-device/"><u>A Complete Guide to Enjoying DVD Content on Your Microsoft Surface Pro Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-eliminating-latency-issues-during-gameplay-in-fortnite-for-players-using-a-computer/"><u>Comprehensive Guide: Eliminating Latency Issues During Gameplay in Fortnite for Players Using a Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-crashes-in-cyberpunk-2077-expert-pc-tips-fixed/"><u>Fixing Crashes in Cyberpunk 2077: Expert PC Tips [FIXED]</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/high-performance-drone-gimbals-for-2024/"><u>High-Performance Drone Gimbals for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-black-desert-online-crashing-problems-on-your-computer/"><u>How to Fix Black Desert Online Crashing Problems on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-dead-by-daylight-from-crashing-expert-advice/"><u>How To Stop Dead By Daylight From Crashing – Expert Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-the-playstation-4-ce-34878-0-problem-a-detailed-guide-to-restore-your-console/"><u>Overcome the PlayStation 4 CE-34878-0 Problem – A Detailed Guide to Restore Your Console</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-adobe-premiere-pro-crashes-on-windows-1011-systems/"><u>Resolved: Fixing Adobe Premiere Pro Crashes on Windows 10/11 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012681572-smooth-gaming-experience-destiny-2s-beyond-light-update-successfully-launched-on-personal-computers/"><u>Smooth Gaming Experience: Destiny 2'S Beyond Light Update Successfully Launched on Personal Computers!</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-problem-when-the-elder-scrolls-online-wont-start-up-correctly/"><u>Solving the Problem - When 'The Elder Scrolls Online' Won't Start Up Correctly</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/tailored-broadcasting-strategies-for-various-platforms-yt-fb-twitch-for-2024/"><u>Tailored Broadcasting Strategies for Various Platforms (YT, FB, Twitch) for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-social-business-model-and-its-moolah/"><u>The Social Business Model and Its Moolah</u></a></li>
-<li><a href="https://win-able.techidaily.com/tips-and-tricks-to-prevent-sudden-shutdowns-while-playing-cities-skylines-pc/"><u>Tips and Tricks to Prevent Sudden Shutdowns While Playing Cities: Skylines (PC)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011861002-wrc-10-pc-version-stability-fixed-now-running-smoothly/"><u>WRC 10 PC Version Stability Fixed: Now Running Smoothly</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-instagram-stories-tempo-tactics-speeding-up-or-slowing-down/"><u>[New] 2024 Approved Instagram Stories Tempo Tactics – Speeding Up or Slowing Down</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-overwatch-gameplay-recording-made-easy/"><u>2024 Approved Overwatch Gameplay Recording Made Easy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embracing-artificial-intelligence-6-keys-to-a-flourishing-career/"><u>Embracing Artificial Intelligence: 6 Keys to a Flourishing Career</u></a></li>
+<li><a href="https://win-able.techidaily.com/ensuring-uninterrupted-fun-solving-steam-and-pc-problems-to-enjoy-psychonauts-2-seamlessly/"><u>Ensuring Uninterrupted Fun: Solving Steam and PC Problems to Enjoy 'Psychonauts 2' Seamlessly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/expert-techniques-for-swift-mac-screenshotting-using-shortcuts/"><u>Expert Techniques for Swift Mac Screenshotting Using Shortcuts</u></a></li>
+<li><a href="https://win-able.techidaily.com/faster-frame-rates-ahead-how-to-tackle-wows-lag-issues-in-2n24/"><u>Faster Frame Rates Ahead! How to Tackle WoW's Lag Issues in 2N24</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-honor-x50-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Honor X50 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-apple-iphone-7-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on Apple iPhone 7 Plus Safe and Legal</u></a></li>
+<li><a href="https://win-able.techidaily.com/magic-the-gathering-online-conquering-black-screen-malfunctions-and-enhancing-your-gameplay/"><u>Magic: The Gathering Online - Conquering Black Screen Malfunctions and Enhancing Your Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/newspaper-cardboard-or-a-dedicated-tile-painting-tray/"><u>Newspaper, Cardboard, or a Dedicated Tile Painting Tray</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-resolving-league-of-legends-black-screens-updated-tips/"><u>The Ultimate Guide to Resolving League of Legends Black Screens - Updated Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updating-and-installing-latest-epson-printer-drivers-on-windows-10-a-step-by-step-guide/"><u>Updating and Installing Latest Epson Printer Drivers on Windows 10: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

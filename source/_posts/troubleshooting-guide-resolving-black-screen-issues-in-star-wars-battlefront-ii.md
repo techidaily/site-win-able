@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Black Screen Issues in Star Wars Battlefront II"
-date: 2024-10-06T17:39:15.486Z
-updated: 2024-10-08T16:10:05.964Z
+date: 2024-10-10T20:24:33.763Z
+updated: 2024-10-15T02:57:52.339Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ Necromunda: Hired Gun
 5. **[Add the game as an exception to your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  If some important game files are broken or missing, Necromunda: Hired Gun may crash. If it’s the case, you need to verify and repair the game files. Here’s how to do it:
@@ -66,13 +73,6 @@ Necromunda: Hired Gun
 1. Launch Steam and navigate to**LIBRARY** , then**right-click** on**Necromunda: Hired Gun** and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from official server.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
@@ -87,6 +87,19 @@ It may take some time to complete the verifying process.
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Necromunda: Hired Gun when the verifying process completed and see if it crashes or not. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -103,13 +116,6 @@ It may take some time to complete the verifying process.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -121,13 +127,6 @@ It may take some time to complete the verifying process.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -146,18 +145,26 @@ It may take some time to complete the verifying process.
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Necromunda: Hired Gun_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch_Necromunda: Hired Gun_ and see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Add the game as an exception to your 3rd party antivirus software
 
@@ -168,10 +175,10 @@ It may take some time to complete the verifying process.
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking / turbo boosting
@@ -202,24 +209,22 @@ It may take some time to complete the verifying process.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-from-content-creator-to-cash-generator-your-facebook-journey/"><u>[New] 2024 Approved From Content Creator to Cash Generator Your Facebook Journey</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-from-ordinary-to-outstanding-crafting-unique-shorts-thumbnails/"><u>[New] 2024 Approved From Ordinary to Outstanding Crafting Unique Shorts Thumbnails</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mac-users-adding-the-social-app-snapchat/"><u>[New] In 2024, Mac Users Adding the Social App Snapchat</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-provideocapture-pro-10plus-features-and-functionality-overview/"><u>[New] In 2024, ProVideoCapture Pro 10+ Features & Functionality Overview</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-decoding-srt-to-subcap-for-filmmakers/"><u>[Updated] In 2024, Decoding SRT to SUBCAP for Filmmakers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-obs-recording-software-unveiled-in-our-latest-study/"><u>[Updated] Top OBS Recording Software Unveiled in Our Latest Study</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/a-guide-to-the-8-truly-effective-youtube-marketing-methods-for-2024/"><u>A Guide to the 8 Truly Effective Youtube Marketing Methods for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cognitive-enrichment-in-your-forties-top-reasons-to-learn-a-language-later-in-life/"><u>Cognitive Enrichment in Your Forties: Top Reasons to Learn a Language Later in Life</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensively-upgrade-windows-10-from-home-to-pro/"><u>Comprehensively Upgrade Windows 10 From Home to Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-resolve-controller-connection-problems-in-steam-on-windows-pcs/"><u>Expert Tips to Resolve Controller Connection Problems in Steam on Windows PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/farming-simulator-22-now-running-smoothly-on-pc-fps-drops-solved/"><u>Farming Simulator 22 Now Running Smoothly on PC - FPS Drops Solved</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-memory-glitch-in-call-of-duty-modern-warfare-3-error-12707-explained/"><u>How to Fix Memory Glitch in Call of Duty: Modern Warfare 3 - Error 12707 Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-black-ops-4s-frame-rate-dips-and-steady-your-gameplay/"><u>How To Overcome Black Ops 4'S Frame Rate Dips & Steady Your Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-v-rising-game-lag-and-ensure-fluid-playback-on-pc/"><u>How to Stop V Rising Game Lag and Ensure Fluid Playback on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-call-of-duty-wwii-display-problems-fixes-for-windows-players/"><u>Resolving Call of Duty: WWII Display Problems - Fixes for Windows Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/slashing-zooms-resource-demand-proven-methods-to-reduce-cpu-load-expertise/"><u>Slashing Zoom's Resource Demand - Proven Methods to Reduce CPU Load (Expertise)</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-dynamics-redefined-identifying-4-platform-driven-societal-alterations/"><u>Social Dynamics Redefined: Identifying 4 Platform-Driven Societal Alterations</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-strategies-for-troubleshooting-assassins-creed-unity-game-crashes/"><u>Top Strategies for Troubleshooting Assassin's Creed Unity Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723003299648-troubleshooting-steams-remote-play-top-solutions-for-when-it-fails/"><u>Troubleshooting Steam's Remote Play: Top Solutions for When It Fails!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-snapshots-to-spectacular-exploring-polarrs-edits-deeply/"><u>[New] From Snapshots to Spectacular Exploring Polarr's Edits Deeply</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-leaders-list-of-gps-drones-with-precision-tracking/"><u>[New] In 2024, Leader's List of GPS Drones with Precision Tracking</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-make-facebook-videos-extend-the-wallpaper-for-2024/"><u>[Updated] Make Facebook Videos Extend the Wallpaper for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unveiling-the-magic-of-end-screens-for-vimeo-content/"><u>[Updated] Unveiling the Magic of End Screens for Vimeo Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-foremost-picks-superior-ringtone-developers/"><u>2024 Approved Foremost Picks Superior Ringtone Developers</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragon-age-origins-solved-game-stability-for-windows-11-operating-system/"><u>Dragon Age: Origins - Solved Game Stability for Windows 11 Operating System</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-co-op-connectivity-issues-how-to-get-online-play-running-smoothly-again/"><u>Elden Ring Co-Op Connectivity Issues - How to Get Online Play Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/elite-dangerous-pc-version-stability-improvements-no-more-crashes/"><u>Elite Dangerous PC Version Stability Improvements – No More Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-racing-adventure-updating-gpu-driver-in-forza-horizon-5/"><u>Enhance Your Racing Adventure: Updating GPU Driver in Forza Horizon 5</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-errors-what-to-do-when-qbittorrent-performance-drops/"><u>Fixing Errors: What to Do When qBittorrent Performance Drops</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-pc-game-stability-issues-heres-how-you-fixed-it/"><u>Fortnite PC Game Stability Issues? Here's How You Fixed It!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-huion-sketchpen-back-on-track-fast-fix-guide-in-5-steps/"><u>Get Your Huion Sketchpen Back on Track - Fast Fix Guide in 5 Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-windows-critical-error-ntdlldll-failed-to-load-on-pc/"><u>How to Resolve Window's Critical Error: ntdll.dll Failed To Load on PC</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-tecno-spark-20c-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Spark 20C in Minutes | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-photo-fusion-at-home-and-online-synergy-guide/"><u>In 2024, Photo Fusion at Home & Online Synergy Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-bamboo-firmware-simple-access/"><u>Wacom Bamboo Firmware Simple Access</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-does-my-new-world-game-keep-freezing-solve-the-mystery/"><u>Why Does My 'New World' Game Keep Freezing? Solve the Mystery</u></a></li>
 </ul></div>
 

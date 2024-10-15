@@ -1,7 +1,7 @@
 ---
 title: Stop MW3 From Crashing on Your PC with These Quick Fixes!
-date: 2024-09-10T14:14:34.055Z
-updated: 2024-09-11T14:14:34.055Z
+date: 2024-10-08T06:18:54.578Z
+updated: 2024-10-15T05:05:15.453Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/e2a22d0e1eb69e31073b9f86edc15bd17dc9ed743
 
 Some players are reporting that they can’t get past the Mojang screen. It looks like it’s hard to fix, and this problem can persist for months. If you’re one of them, don’t worry. In this post, you’ll find all the possible fixes with detailed troubleshooting steps.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -36,20 +33,6 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 5. **[End the runtime broker](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Minecraft Launcher in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Uninstall your antivirus software
 
@@ -69,19 +52,12 @@ The known problematic software are:
 
  You can view[the full list](https://minecrafthopper.net/help/known-incompatible-software/) of known incompatible software here.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Don’t use free VPNs
 
@@ -104,20 +80,6 @@ There are mainly two ways to update your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
@@ -126,25 +88,12 @@ There are mainly two ways to update your device drivers:
 
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Remove the adware
 
@@ -176,36 +125,16 @@ There are mainly two ways to update your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 3. Restart your PC to see if Minecraft can load normally.
 
 If this method doesn’t work for you, then try the next fix, below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 6: Run Minecraft Launcher in compatibility mode
 
@@ -217,7 +146,21 @@ If this method doesn’t work for you, then try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/save-all.jpg)
 4. Click**Apply** \>**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean reinstall
 
@@ -229,19 +172,6 @@ If this method doesn’t work for you, then try the next fix, below.
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 5. Once done, delete the**.Minecraft** folder.
 6. Download the most recent version of Minecraft Java[here](https://www.minecraft.net/en-us/download/) .
@@ -260,8 +190,6 @@ If this method doesn’t work for you, then try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -269,12 +197,19 @@ If this method doesn’t work for you, then try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-lightning-fast-retrieval-of-vanished-reddit-discussions-for-2024/"><u>[New] Lightning-Fast Retrieval of Vanished Reddit Discussions for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-from-mono-to-vivid-blades-transformation-into-the-4k-era/"><u>[Updated] In 2024, From Mono to Vivid Blade's Transformation Into the 4K Era</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-optimal-video-recording-for-instructors/"><u>[Updated] Optimal Video-Recording for Instructors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-guide-to-use-luts-in-premiere-pro/"><u>2024 Approved Guide to Use LUTs in Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hacking-hd-problems-clearing-chromes-video-blockade-on-social-platforms/"><u>2024 Approved Hacking HD Problems Clearing Chrome's Video Blockade on Social Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/dying-light-performance-issues-solved-enhance-your-gaming-experience/"><u>Dying Light Performance Issues Solved: Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-role-of-a-dac-in-high-quality-sound-should-you-invest-in-one/"><u>Exploring the Role of a DAC in High-Quality Sound: Should You Invest in One?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-is-the-current-performance-of-xbox-live-servers/"><u>How Is the Current Performance of Xbox Live Servers?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-get-1k-followers-every-month-on-instagram/"><u>In 2024, How to Get 1K Followers Every Month on Instagram</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-obstacle-unlock-steps-to-successfully-launch-last-epoch-on-pc/"><u>Overcome the Obstacle: Unlock Steps to Successfully Launch 'Last Epoch' On PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-tips-streamlining-your-windows-10-with-updated-atheros-drivers/"><u>Quick Tips: Streamlining Your Windows 10 with Updated Atheros Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-fixing-game-crashes-in-minecraft-dungeons-on-desktop/"><u>Troubleshooting Tips for Fixing Game-Crashes in Minecraft Dungeons on Desktop</u></a></li>
+</ul></div>
 

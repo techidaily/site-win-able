@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Minecraft Performance Issues on Your PC"
-date: 2024-10-03T20:00:46.897Z
-updated: 2024-10-08T18:09:35.329Z
+date: 2024-10-10T01:20:24.174Z
+updated: 2024-10-14T22:42:47.426Z
 tags:
   - win11
   - win10
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
  Before we dive into anything advanced, make sure you’ve tried to restart the game and your PC to see if it’s just a one-time random error.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## System requirements
@@ -106,15 +106,15 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-2.jpg)
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **On Epic Games** :
 
@@ -135,29 +135,16 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Increase the virtual memory on your PC
 
@@ -172,6 +159,19 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
 
@@ -185,6 +185,13 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 2. Use the below formulas to calculate the values you should set:  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
 _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
@@ -192,24 +199,10 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
 
 If your game still crashes, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Keep your system up-to-date
 
@@ -224,13 +217,6 @@ If your game still crashes, try the next fix.
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the last fix.
 
@@ -247,12 +233,33 @@ If this doesn’t solve your problem, try the last fix.
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
@@ -266,13 +273,6 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch the game. If it once again won’t crash, then you know that one of the services you ticked above is conflicting with it. If it_does_ crash, then the above five services are fine, and you’ll have to keep looking for the offending service.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Repeat steps 2 and 3 above until you find the service that conflicts with Naraka: Bladepoint.  
 
  NOTE: We recommend testing five items in a group since it’s more efficient, but you’re welcome to do it at your own pace.
@@ -285,6 +285,14 @@ If this doesn’t solve your problem, try the last fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
 
@@ -316,14 +324,21 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-best-tools-to-track-popular-tags-on-fb-twt-and-ig-networks/"><u>[New] Best Tools to Track Popular Tags on FB, Twt & IG Networks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-driver-compatibility-for-your-hp-officejet-pro-6978-printer/"><u>How to Fix Driver Compatibility for Your HP OfficeJet Pro 6978 Printer</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-show-or-hide-folders-in-this-pc-on-windows-11/"><u>How to Show or Hide Folders in This PC on Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-hot-40-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Hot 40 Device</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-fcp-like-a-pro-top-5-editing-techniques-to-take-your-videos-to-the-next-level/"><u>New FCP Like a Pro Top 5 Editing Techniques to Take Your Videos to the Next Level</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-lag-and-smooth-frame-rates-in-your-cyberpunk-2077-experience/"><u>Overcoming Lag and Smooth Frame Rates in Your Cyberpunk 2077 Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-woes-top-9-solutions-to-fix-ark-survival-evolved-constant-crashes/"><u>PC Woes? Top 9 Solutions To Fix ARK: Survival Evolved Constant Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-issue-why-cant-i-reach-my-steam-community/"><u>Solved Issue: Why Can't I Reach My Steam Community?</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-solve-paladins-crash-problems-with-these-proven-strategies/"><u>Troubleshoot and Solve Paladins Crash Problems with These Proven Strategies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-eyesharp-hd-high-definition-chromecasting/"><u>[New] 2024 Approved EyeSharp HD High Definition Chromecasting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-obtaining-markless-photos/"><u>[New] Mastering the Art of Obtaining Markless Photos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-poco-c55-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Poco C55 to Roku | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-strategies-for-robust-customer-assistance/"><u>Effective Strategies for Robust Customer Assistance</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-resolving-the-elder-scrolls-online-initialization-issues/"><u>Expert Tips on Resolving The Elder Scrolls Online Initialization Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-oppo-a38-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Oppo A38 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-fix-windows-nx-freezing-issues-during-file-transfers-expert-solutions-unveiled/"><u>How to Fix Windows nX Freezing Issues During File Transfers – Expert Solutions Unveiled</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-barebones-calm-music-selection/"><u>In 2024, Barebones Calm Music Selection</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-discovering-the-finest-online-sound-design-tools-with-cost-breakdown/"><u>New 2024 Approved Discovering the Finest Online Sound Design Tools - With Cost Breakdown</u></a></li>
+<li><a href="https://win-able.techidaily.com/r-type-final-solved-diagnosing-and-repairing-pc-malfunctions-during-play/"><u>R-Type Final [SOLVED]: Diagnosing and Repairing PC Malfunctions During Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-rainbow-six-extraction-pc-game-crashes/"><u>Resolved: Fixing Rainbow Six Extraction PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-mordhau-game-crash-problem-a-step-by-step-guide/"><u>Resolving the Mordhau Game Crash Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-eliminating-stuttering-and-enhancing-flow-in-mass-effect-series/"><u>Solved: Eliminating Stuttering and Enhancing Flow in Mass Effect Series</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010996234-total-war-warhammer-ii-crashes-top-5-solutions-to-try-now/"><u>Total War: Warhammer II Crashes – Top 5 Solutions to Try Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-resolve-far-cry-6-not-launching-issue-for-pc-gamers/"><u>Troubleshoot and Resolve Far Cry 6 Not Launching Issue for PC Gamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-unison-unit-for-voice-broadcasting-for-2024/"><u>Ultimate Unison Unit for Voice Broadcasting for 2024</u></a></li>
 </ul></div>
 

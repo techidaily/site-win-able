@@ -1,7 +1,7 @@
 ---
 title: "Fix Apex Legends Won't Launch: Fast & Simple Solutions!"
-date: 2024-09-10T14:11:09.444Z
-updated: 2024-09-11T14:11:09.444Z
+date: 2024-10-09T03:10:58.694Z
+updated: 2024-10-15T02:33:45.988Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
  If you’re experiencing this frustrating issue now, take a deep breath and try the fixes below.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -67,19 +50,12 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Hard reset Chrome
 
@@ -91,23 +67,29 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-491.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **3)** On your keyboard, press the**Windows logo** key and**R** at the same time to invoke the Run dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-61.png)
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Type**%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data** in the box and click**OK** .
 
@@ -117,35 +99,7 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-493.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Try opening Chrome to test your issue. If you still can’t launch Chrome properly, don’t worry. Move on to fix 4, below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Reset Chrome in safe mode
 
@@ -163,52 +117,26 @@ Reset Chrome in safe mode
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-29-10.jpg)
 4. **Select Restore settings to their original defaults.**  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Select **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-29-48.jpg)
 5. **Click Reset settings.**  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Click **Reset settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-30-13.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  This should fix your issue. If your issue persists, then go ahead with the next fix.
 
@@ -230,6 +158,13 @@ Reset Chrome in safe mode
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-500.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Download and install **[Chrome](https://www.google.com/chrome/)**  .
 
  Hopefully, this article helped in resolving your problem. Feel free to leave a comment below if you have any questions and suggestions.
@@ -246,8 +181,6 @@ Reset Chrome in safe mode
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -255,12 +188,16 @@ Reset Chrome in safe mode
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-reel-ready-content-best-insta-downloaders-explored/"><u>[New] 2024 Approved Reel-Ready Content Best Insta Downloaders Explored</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-ten-web-retailers-for-exquisite-wrapped-delights/"><u>[Updated] In 2024, Top Ten Web Retailers for Exquisite Wrapped Delights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-depth-guide-to-streaming-and-recording-webcasts-professionally/"><u>[Updated] In-Depth Guide to Streaming and Recording Webcasts Professionally</u></a></li>
+<li><a href="https://app-tips.techidaily.com/40-of-technology-sector-employees-ponder-career-moves-according-to-recent-zdnet-poll/"><u>40% of Technology Sector Employees Ponder Career Moves, According to Recent ZDNet Poll</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2021-for-pc-common-crash-problems-and-solutions-uncovered/"><u>Football Manager 2021 for PC - Common Crash Problems and Solutions Uncovered</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-y36i-by-drfone-android/"><u>How to Bypass FRP from Vivo Y36i?</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-valorant-gaming-experience-with-the-latest-fixes-for-fps-issues-best-advice-2e4-edition/"><u>Improve Valorant Gaming Experience with the Latest Fixes for FPS Issues (Best Advice, 2E4 Edition)</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-launch-error-a-step-by-step-approach-to-resolving-stuck-screen-issues/"><u>Minecraft Launch Error - A Step-by-Step Approach to Resolving Stuck Screen Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-preventing-the-ascent-from-crashing-in-your-pc-adventure/"><u>The Ultimate Guide: Preventing 'The Ascent' From Crashing in Your PC Adventure</u></a></li>
+</ul></div>
 

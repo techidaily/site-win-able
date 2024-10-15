@@ -1,7 +1,7 @@
 ---
 title: "Assassin's Creed Unity Performance Tweaks: Stop Game Crashing in 2 the 1St Quarter of 2024!"
-date: 2024-09-10T14:12:36.184Z
-updated: 2024-09-11T14:12:36.184Z
+date: 2024-10-10T03:52:10.491Z
+updated: 2024-10-14T18:49:59.832Z
 tags:
   - win11
   - win10
@@ -19,33 +19,10 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
 
  However, some may get “low FPS” or “stuttering” issues and mistake it as a “lag” issue. So in this post, we’ll address the issues that make your Assassin’s Creed: Valhalla “laggy” altogether and help you improve the game performance on any PC.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -56,19 +33,12 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
 * [5 – Change your DNS settings](https://tools.techidaily.com/drivereasy/download/)
 * [6 – Clean all your temp files](https://tools.techidaily.com/drivereasy/download/)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 1 – Install the latest game patch
 
@@ -86,45 +56,18 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/93354306_10157091808650060_3767062751000657920_n.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 3) Wait 1 minute, then plug the power cord back into the modem/router.
 
 4) Wait for the Internet light to turn green.
 
  Now you can reconnect the Internet and launch Assassin’s Creed Valhalla again to test the issue. If the game is still lagging a lot, check the next fix below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 3 – Update the device drivers
 
@@ -144,19 +87,12 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -164,25 +100,12 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -197,47 +120,27 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Display-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) Scroll down and select**Graphics settings** (in the**Multiple displays** section).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Toggle off the button under**Variable refresh rate** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graohics.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Note: If you’re using a gaming console, you can turn off VRR by going to**Settings** \>**Display & sound** \>**Video output** \>**Video modes** \> uncheck the**Allow** **Variable Refresh Rates** box.
 
@@ -251,19 +154,12 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Apply.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  8) Click**Apply** .
 
@@ -286,6 +182,19 @@ There are two ways for you to update the device drivers:
  3) On the left pane, click**Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/change-adapter.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Right-click on your network adapter and select**Properties** .
 
@@ -313,35 +222,7 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/flush.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Now play your Assassin’s Creed Valhalla again to see if the lagging issue still persists.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 6 – Clean all your temp files
 
@@ -354,20 +235,6 @@ There are two ways for you to update the device drivers:
  2) Press **Ctrl + A** to select all the files, then hit the **Delete** button on your keyboard to remove them. (This won’t delete your personal files.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  3) Tick**Do this for all current items** and click**Continue** if you’re presented with a warning that says “You’ll need to provide administrator permission to delete this folder”, and**Skip** if you see “the folder or a file in it is open in another program.”
 
@@ -399,8 +266,6 @@ There are two ways for you to update the device drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -408,12 +273,26 @@ There are two ways for you to update the device drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-flipping-currencies-through-cosmetics-content-for-2024/"><u>[Updated] Flipping Currencies Through Cosmetics Content for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-video-editing-apps-for-youtube-creators/"><u>[Updated] In 2024, Essential Video Editing Apps for YouTube Creators</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-navigating-inter-service-playlist-shuffling-with-ease-for-2024/"><u>[Updated] Navigating Inter-Service Playlist Shuffling with Ease for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-tecno-spark-20c-frp-bypass-by-drfone-android/"><u>About Tecno Spark 20C FRP Bypass</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-2042-solving-directx-glitches-efficiently/"><u>Battlefield 2042: Solving DirectX Glitches Efficiently</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-see-your-alerts-on-the-iphone-here-are-7-remedies-to-restore-them/"><u>Can't See Your Alerts on the iPhone? Here Are 7 Remedies to Restore Them</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/comprehensive-idevice-screenplay-techniques-for-2024/"><u>Comprehensive iDevice Screenplay Techniques for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-to-solve-nba-2k24-error-727e66ac-your-ultimate-fix-guide/"><u>Effective Strategies to Solve NBA 2K24 Error 727E66ac - Your Ultimate Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000094553-how-to-fix-madden-nfl-20-pc-game-crashing-issues-solved/"><u>How to Fix Madden NFL 20 PC Game Crashing Issues - Solved!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-oppo-reno-11-pro-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Oppo Reno 11 Pro 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-functionality-to-your-google-meet-camera-a-step-by-step-fix/"><u>How to Restore Functionality to Your Google Meet Camera - A Step-by-Step Fix</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-3-memory-glitch-error-12707-solutions-and-tips-for-gamers/"><u>Modern Warfare 3 Memory Glitch (Error 12707) – Solutions & Tips for Gamers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/musical-motifs-and-movie-magic-with-imovie-for-2024/"><u>Musical Motifs and Movie Magic with iMovie for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/myrecover-professionelle-losungen-zur-wiederherstellung-verlorener-partitionen-auf-micro-sd-speicherkarten/"><u>MyRecover: Professionelle Lösungen Zur Wiederherstellung Verlorener Partitionen Auf Micro SD Speicherkarten</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-gtfo-game-lagging-frame-rate-hiccups-and-optimizing-pc-gaming-experience/"><u>Resolved: Fixes for GTFO Game Lagging, Frame Rate Hiccups, and Optimizing PC Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-getting-the-paradox-game-launcher-back-on-track/"><u>Step-by-Step Guide: Getting the Paradox Game Launcher Back on Track</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-overcome-the-red-dead-redemption-loading-screen-glitch/"><u>Troubleshooting: How to Overcome the Red Dead Redemption ^Loading Screen Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-overcoming-star-wars-squadrons-game-crashes/"><u>Ultimate Solution: Overcoming STAR WARS Squadrons Game Crashes</u></a></li>
+</ul></div>
 

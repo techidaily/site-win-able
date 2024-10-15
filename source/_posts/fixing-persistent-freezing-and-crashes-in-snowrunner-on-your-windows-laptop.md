@@ -1,7 +1,7 @@
 ---
 title: Fixing Persistent Freezing & Crashes in SnowRunner on Your Windows Laptop
-date: 2024-10-04T21:39:16.058Z
-updated: 2024-10-08T17:58:31.343Z
+date: 2024-10-10T05:29:29.091Z
+updated: 2024-10-15T06:10:01.029Z
 tags:
   - win11
   - win10
@@ -31,22 +31,16 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 * [Fix 1: Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 2: Edit Settings](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Official Fix
 
 Follow the steps below to fix the crashing issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: Check the requirements
 
@@ -77,10 +71,10 @@ Follow the steps below to fix the crashing issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -96,32 +90,18 @@ Restart your computer for the changes to take effect.
 ![Steam game Yakuza 3 Remastered properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Go to the**BETAS** tab and enter the beta access code**yakuza6patch** .  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Relaunch the game, you’ll be in the beta.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Lower your graphics settings
@@ -133,31 +113,18 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-45-48.jpg)
 3. In the pop-up window, check**Override high DPI scaling behavior** , choose**Application** in the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
 
@@ -171,11 +138,40 @@ Restart your computer for the changes to take effect.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-40.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select**Custom size** . The Initial size should be the**Recommended size** that under**Total paging file size for all drives** .  
  Mine is**2918** MB.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-21-19.jpg)
@@ -205,20 +201,21 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-extended-review-uncomplicated-hdr-approach/"><u>[New] 2024 Approved Extended Review Uncomplicated HDR Approach</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-guide-viewing-raya-and-the-last-dragon-on-any-device-3-approaches/"><u>Complete Guide: Viewing 'Raya and the Last Dragon' On Any Device - 3 Approaches</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-constant-stalls-in-god-of-war-for-your-computer-setup/"><u>Fixing Constant Stalls in God of War for Your Computer Setup</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/guide-on-downloading-and-converting-5x-fpm-art-technique-lessons-to-mp4avi-files/"><u>Guide on Downloading & Converting 5X FPM Art Technique Lessons to MP4/AVI Files</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-prevent-and-resolve-palworld-from-crashing-on-desktop-systems/"><u>Guide: Prevent and Resolve PalWorld From Crashing on Desktop Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-poco-x6-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Poco X6 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-social-media-key-apps-for-professional-ig-videographers/"><u>In 2024, Mastering Social Media Key Apps for Professional IG Videographers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-paving-the-path-to-online-success-youtubes-keyword-guide/"><u>In 2024, Paving the Path to Online Success YouTube's Keyword Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/iphone-data-destruction-protocol-with-the-mobile-stellar-eraser-app/"><u>IPhone Data Destruction Protocol with the Mobile Stellar Eraser App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721437336075-level-up-gaming-skills-with-these-top-chatgpt-games/"><u>Level Up Gaming Skills with These Top ChatGPT Games!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resident-evil-village-performance-optimized-overcoming-pc-gameplays-frame-rate-decreases/"><u>Resident Evil Village Performance Optimized: Overcoming PC Gameplay's Frame Rate Decreases</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-world-of-warships-pc-problems-5-fast-and-effective-solutions/"><u>Solving the World of Warships PC Problems: 5 Fast and Effective Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-poco-c50-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Poco C50 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-metro-exodus-pc-game-crashes/"><u>Troubleshooting Guide: Resolving Metro Exodus PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fix-for-rocket-leagues-crash-problem-a-comprehensive-2024-solutions-list/"><u>Ultimate Fix for Rocket League's Crash Problem: A Comprehensive 2024 Solutions List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-introduction-to-professional-audio-recording-a-mac-and-audacity-approach/"><u>[New] In 2024, Introduction to Professional Audio Recording A Mac & Audacity Approach</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-6-social-sites-boosting-biz-success/"><u>[New] Prime 6 Social Sites Boosting Biz Success</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-giggles-guide-to-sign-insign-out/"><u>[Updated] Giggles Guide to Sign-In/Sign-Out</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-gif-loop-makers-for-2024/"><u>Best Free GIF Loop Makers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-how-to-resolve-msi-afterburner-failure-to-recognize-graphics-card-in-windows-1011/"><u>Fix: How to Resolve MSI Afterburner Failure to Recognize Graphics Card in Windows 10/11</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-error-code-6-in-call-of-duty-modern-warfare-pc-guide/"><u>Fixing Error Code #6 in Call of Duty: Modern Warfare - PC Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012906874-football-manager-2022-wont-start-heres-how-to-get-past-the-launch-blockade-fixed/"><u>Football Manager 2022 Won't Start? Here’s How to Get Past the Launch Blockade - Fixed!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hasty-and-hassle-free-images-on-windows-11/"><u>Hasty & Hassle-Free Images on Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-mastering-the-art-of-system-enhancements/"><u>In 2024, Mastering the Art of System Enhancements</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-note-12-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi Note 12 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redesigning-the-user-experience-in-win11-settings/"><u>Redesigning the User Experience in Win11 Settings</u></a></li>
+<li><a href="https://win-able.techidaily.com/solomon-kr-et-al-2015-the-effects-of-glyphosate-on-amphibians-a-review-and-synthesis-environ-toxicol-pharmacol-403-899-906/"><u>Solomon KR., Et Al (2015). The Effects of Glyphosate on Amphibians: A Review and Synthesis. Environ Toxicol Pharmacol, 40(3), 899-906</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/step-by-step-instructions-for-fb-live-broadcasts-for-2024/"><u>Step-by-Step Instructions for FB Live Broadcasts for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixing-cannot-connect-to-server-mistakes-in-lost-ark-gameplay/"><u>Step-by-Step: Fixing 'Cannot Connect to Server' Mistakes in Lost Ark Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/team-fortress-2-stabilization-strategies-for-an-uninterrupted-gaming-experience/"><u>Team Fortress 2 Stabilization Strategies for an Uninterrupted Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-resolve-issues-with-call-of-duty-modern-warfare-3-mw3-launch-failures/"><u>Troubleshooting Guide: How to Resolve Issues with Call of Duty: Modern Warfare 3 (MW3) - Launch Failures</u></a></li>
 </ul></div>
 
