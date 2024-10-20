@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Dragon Age: Origins Crashes on Windows 11 with These Tips and Fixes"
-date: 2024-10-10T00:12:35.694Z
-updated: 2024-10-14T18:15:13.458Z
+date: 2024-10-18T19:10:50.673Z
+updated: 2024-10-20T18:55:39.862Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/23ad59430c3816e2e36652395dc2a68a894960015
 10. **[Run Program Compatibility Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 11. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics drivers
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience. If the graphics driver on your PC is outdated or corrupted, you may not be able to enjoy the optimal gaming experience, and sometimes you may run into the Control crash issue.
@@ -63,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/23ad59430c3816e2e36652395dc2a68a894960015
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. You’ll need the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) to do this and you’ll be prompted to upgrade.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
@@ -115,19 +108,28 @@ Here are the system requirements for Control:
 1. On your keyboard, press **the Windows logo key** and R at the same time to open the Run dialog. Then type control and press Enter to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 #### Modify AMD graphics card settings
 
@@ -136,10 +138,10 @@ Here are the system requirements for Control:
 2. View the Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
@@ -153,24 +155,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by Large icons.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
@@ -180,13 +168,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
 
@@ -201,6 +182,13 @@ Here are the system requirements for Control:
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Perform a Windows Update
 
  According to the game developers, if MS Visual C++ is missing or corrupted, you may also run into the Control crash issue. To resolve this problem, you need to reinstall Official Microsoft Visual C++ 2013 and .NET Framework.
@@ -212,6 +200,13 @@ Here are the system requirements for Control:
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
 
@@ -229,10 +224,10 @@ Here are the system requirements for Control:
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: Verify the game file
@@ -244,6 +239,13 @@ Here are the system requirements for Control:
 2. Click **Verify** to start verifying the game files.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
@@ -294,24 +296,18 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-cameras-in-phones-for-professional-videos/"><u>[New] Best Cameras in Phones for Professional Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-eliminate-camera-sway-no-tripods-allowed/"><u>[Updated] Eliminate Camera Sway No Tripods, Allowed!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-shadows-and-highlights-for-text-depth-in-illustrator/"><u>[Updated] Shadows & Highlights for Text Depth in Illustrator</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-streamline-discord-the-ultimate-list-of-10-key-plugins-for-2024/"><u>[Updated] Streamline Discord The Ultimate List of 10 Key Plugins for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012113855-hyper-scape-stability-issues-resolved-how-to-stop-pc-game-crashes/"><u>Hyper Scape Stability Issues Resolved – How To Stop PC Game Crashes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-elevating-ad-revenue-through-animated-campaigns-on-facebook/"><u>In 2024, Elevating Ad Revenue Through Animated Campaigns on Facebook</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-interactive-virtual-warehouse-exploration/"><u>In 2024, Interactive Virtual Warehouse Exploration</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-understanding-video-formats-which-is-more-effective-av1-or-vp9/"><u>In 2024, Understanding Video Formats Which Is More Effective, AV1 or VP9?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptops-liquid-loss-leading-to-lack-of-light/"><u>Laptop's Liquid Loss Leading to Lack of Light</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mastering-the-art-of-remote-podcast-production/"><u>Mastering the Art of Remote Podcast Production</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-resolution-of-logitech-setup-issues-on-windows-computers/"><u>Mastering the Resolution of Logitech Setup Issues on Windows Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimal-chrome-functioning-achieved-overcoming-previous-high-processor-demand-issues/"><u>Optimal Chrome Functioning Achieved: Overcoming Previous High Processor Demand Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-ubisoft-connect-problems-easily-tips-and-fixes/"><u>Resolve Ubisoft Connect Problems Easily - Tips and Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-frozen-frames-critical-patches-bring-relief-for-gaming-enthusiasts/"><u>Say Goodbye to Frozen Frames - Critical Patches Bring Relief for Gaming Enthusiasts</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-fixing-cyberpunk-2077s-excessive-cpu-consumption/"><u>Solved: Fixing Cyberpunk 2077'S Excessive CPU Consumption</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-cod-black-ops-cold-war-error-80070057-for-smooth-gameplay/"><u>Solving COD: Black Ops Cold War Error 80070057 for Smooth Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-mystery-of-modern-warfares-error-code-6034-a-step-by-step-guide-for-players/"><u>Solving the Mystery of Modern Warfare's Error Code 6034: A Step-by-Step Guide for Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/team-fortress-now-working-previous-launch-problems-solved/"><u>Team Fortress ([Now Working] – Previous Launch Problems Solved</u></a></li>
-<li><a href="https://video-capture.techidaily.com/x-tape-maker-desktop-compatible-for-2024/"><u>X-Tape Maker Desktop Compatible for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-guides-to-unearthing-elite-cinematography-for-2024/"><u>[Updated] Guides to Unearthing Elite Cinematography for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1725284207486-dvd/"><u>最優秀のDVD取り込みツール：無料フリーソフトで簡単な方法</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/groundbreaking-leap-in-computing-global-premiere-risc-v-laptop-receives-unprecedented-core-and-speed-enhancements-including-state-of-the-art-ai-features/"><u>Groundbreaking Leap in Computing: Global Premiere RISC-V Laptop Receives Unprecedented Core and Speed Enhancements, Including State-of-the-Art AI Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-rust-keeps-crashing-error-troubleshooting-steps/"><u>How to Fix the 'Rust Keeps Crashing' Error - Troubleshooting Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/lgs-ultrafine-vision-a-thorough-4k-screen-evaluation-for-2024/"><u>LG's UltraFine Vision A Thorough 4K Screen Evaluation for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-idevice-snapshots-hurdles-a-guide-to-better-image-handling-and-correction/"><u>Overcoming iDevice Snapshots Hurdles: A Guide to Better Image Handling and Correction</u></a></li>
+<li><a href="https://win-able.techidaily.com/persona-3-reload-overcoming-common-pc-game-crash-issues/"><u>PERSONA 3 RELOAD: Overcoming Common PC Game Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-speedy-chrome-no-more-lag/"><u>Quick Fixes for Speedy Chrome – No More Lag!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/toutes-les-etapes-pour-convertir-facilement-et-gratuit-un-fichier-ts-en-mp3-a-laide-de-movavi-en-ligne/"><u>Toutes Les Étapes Pour Convertir Facilement Et Gratuit Un Fichier .TS en MP3 À L'aide De Movavi en Ligne</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-resolve-overzoomed-images-on-whatsapp-with-these-steps/"><u>Troubleshoot and Resolve Overzoomed Images on WhatsApp with These Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-drivers/"><u>Update Drivers</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728491898900-win11/"><u>Win11におけるネットワークドライブ障害:見えなくなった理由と修正手順</u></a></li>
 </ul></div>
 

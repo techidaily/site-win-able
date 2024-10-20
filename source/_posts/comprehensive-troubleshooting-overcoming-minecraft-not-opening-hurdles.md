@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Troubleshooting: Overcoming Minecraft Not Opening Hurdles"
-date: 2024-10-12T18:44:13.771Z
-updated: 2024-10-15T06:06:20.508Z
+date: 2024-10-18T16:28:53.904Z
+updated: 2024-10-20T17:34:21.342Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 4. [**Change the graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Turn off the preview window
 
  According to many users, a simple workaround to OBS not recording screen is to disable the preview window. What you need to do is to launch OBS and untick the**Studio Mode** at the bottom right corner of the main screen. Then the preview window should be closed and you could check if the problem goes away. If the problem occurs while you’re recording a game, try to**minimize OBS** to the system tray.
@@ -57,13 +50,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-obs-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now OBS should be working with full access and recording your screen properly. If not so, there are a few more fixes to try.
 
 ### Fix 3 – Close unnecessary background programs
@@ -77,14 +63,20 @@ Many Windows users have been reporting the OBS not recording screen issue lately
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Change the graphics settings
 
@@ -94,32 +86,47 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-0.jpg)
 2. Select**System** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select the**Display** tab on the left pane and click**Graphics** **settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**OBS Studio** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-3.jpg)
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Update your device drivers
 
@@ -137,10 +144,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -169,22 +176,24 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/get-hp-officejet-8620-all-in-one-printer-driver-software-download-for-pc-and-mac-users/"><u>[GET] HP Officejet 8620 All-in-One Printer Driver Software Download for PC & Mac Users</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-metaverse-race-begins-dont-miss-these-7-essential-tools/"><u>[Updated] 2024 Approved The Metaverse Race Begins Don't Miss These 7 Essential Tools</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-zooming-in-smoothly-youtube-video-upgrades/"><u>[Updated] In 2024, Zooming in Smoothly YouTube Video Upgrades</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-camera-prospectus-ranking-the-top-5-superior-motion-cameras/"><u>2024 Approved Camera Prospectus Ranking the Top 5 Superior Motion Cameras</u></a></li>
-<li><a href="https://win-able.techidaily.com/age-of-empires-iv-fixed-no-more-pc-game-crashes/"><u>Age of Empires IV Fixed: No More PC Game Crashes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeat-dead-by-daylight-crashes-proven-strategies-and-fixes-of-2024/"><u>Defeat Dead by Daylight Crashes: Proven Strategies and Fixes of 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-zoom-cant-start-video-error-5-effective-solutions-for-smooth-streaming/"><u>Eliminate 'Zoom Can’t Start Video' Error: 5 Effective Solutions for Smooth Streaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-fixing-resident-evil-village-not-loading-errors/"><u>Expert Advice on Fixing Resident Evil Village Not Loading Errors</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-insights-on-enhancing-home-internet-the-tp-link-deco-p9-makes-mesh-wi-fi-a-breeze/"><u>Expert Insights on Enhancing Home Internet: The TP-Link Deco P9 Makes Mesh Wi-Fi a Breeze</u></a></li>
-<li><a href="https://win-able.techidaily.com/hell-let-loose-pc-performance-issues-now-solved-with-easy-steps/"><u>Hell Let Loose PC Performance Issues – Now Solved with Easy Steps</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-2-phone-without-google-account-by-drfone-android/"><u>How to Unlock OnePlus Ace 2 Phone without Google Account?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/maximizing-productivity-with-auditory-storytelling-for-2024/"><u>Maximizing Productivity with Auditory Storytelling for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/scopri-come-masterare-la-conversione-da-dvd-gratuiti-in-usb-passaggi-completi-e-ottimizzati/"><u>Scopri Come Masterare La Conversione Da DVD Gratuiti in USB: Passaggi Completi E Ottimizzati</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-fifa-21-from-crashing-expert-tips-for-a-smooth-gaming-experience/"><u>Stop FIFA 21 From Crashing: Expert Tips for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-palworld-top-solutions-for-launch-and-load-issues/"><u>Troubleshooting Palworld: Top Solutions for Launch and Load Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011469641-troubleshooting-tips-for-preventing-pc-disruptions-in-fifa-19-play-now-fixed/"><u>Troubleshooting Tips for Preventing PC Disruptions in FIFA 19 Play – Now Fixed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-italys-sudden-restriction-on-chatgpt-use-with-immediate-effect/"><u>Unraveling Italy's Sudden Restriction on ChatGPT Use 'With Immediate Effect'</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-selection-12-free-video-players-for-pcmobile-enthusiasts/"><u>[Updated] The Ultimate Selection 12 Free Video Players for PC/Mobile Enthusiasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/baldurs-gate-seemingly-unresponsive-at-launch-fixed/"><u>Baldur's Gate ˈSeemingly Unresponsive at Launch – Fixed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-practices-to-overcome-unwanted-shutdowns-during-your-flight-missions-solutions-for-elite-dangerous/"><u>Best Practices to Overcome Unwanted Shutdowns During Your Flight Missions: Solutions for Elite Dangerous</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-smartphone-snaps-expert-strategies-for-idevice-cameras/"><u>Boost Your Smartphone Snaps: Expert Strategies for iDevice Cameras</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/creating-stunning-instagram-profile-screenshots-for-2024/"><u>Creating Stunning Instagram Profile Screenshots for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cutting-edge-writing-tech-hixgpt-4-powered/"><u>Cutting-Edge Writing Tech: HIX/GPT-4 Powered</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-strategies-for-reducing-battlefield-5-game-lag/"><u>Efficient Strategies for Reducing Battlefield #5 Game Lag</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-modern-warfare-2-experience-overcoming-windowed-woes-steady-fps-and-smooth-action-guaranteed/"><u>Enhance Your Modern Warfare 2 Experience: Overcoming Windowed Woes – Steady FPS and Smooth Action Guaranteed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-addressing-non-charging-issues-on-a-connected-surface-unit/"><u>Expert Tips for Addressing Non-Charging Issues on a Connected Surface Unit</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/interactive-display-on-the-go-the-msi-pro-mp161e2-ultrabook-companion/"><u>Interactive Display on the Go: The MSI Pro MP161E2 Ultrabook Companion</u></a></li>
+<li><a href="https://win-able.techidaily.com/jurassic-world-evolution-expert-tips-for-a-smooth-uncrashed-gaming-experience/"><u>Jurassic World Evolution - Expert Tips for a Smooth, Uncrashed Gaming Experience</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-marketing-in-2024/"><u>New What Is AI Marketing, In 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-constant-outlook-instability-fixes-for-regular-software-interruptions/"><u>Overcoming Constant Outlook Instability: Fixes for Regular Software Interruptions</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-problems-in-call-of-duty-modern-warfare-fps-enjoy-the-fixes-and-features/"><u>Resolved Problems in Call of Duty: Modern Warfare FPS - Enjoy the Fixes and Features!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-playback-problems-with-dolby-atmos-on-your-windows-machine/"><u>Resolving Playback Problems with Dolby Atmos on Your Windows Machine</u></a></li>
+<li><a href="https://win-able.techidaily.com/screen-flickering-gone-discover-how-you-can-achieve-a-stable-display/"><u>Screen Flickering Gone! Discover How You Can Achieve a Stable Display</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-digital-sphere-navigating-popular-channels-facebook-twitter-instagram-youtube/"><u>The Digital Sphere: Navigating Popular Channels - Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-full-scale-of-precision-a-review-of-asus-pa32us-capabilities/"><u>The Full Scale of Precision A Review of Asus PA32U's Capabilities</u></a></li>
 </ul></div>
 

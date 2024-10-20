@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips"
-date: 2024-10-12T21:01:17.686Z
-updated: 2024-10-15T01:57:16.768Z
+date: 2024-10-16T16:47:31.590Z
+updated: 2024-10-20T18:59:22.539Z
 tags:
   - win11
   - win10
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
@@ -83,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
  Relaunch the game to test your issue. If it’s still occurring, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Verify Warframe cache files
 
  Game issues might occur when your game installation files are outdated or get corrupted somehow. In this case, you can verify the game cache files in the Warframe launcher settings menu.
@@ -102,18 +95,18 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-35-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  After the process is complete, click**Optimize** .
 
 **4)** Launch the game to test your issue.
 
 Your game still freezes? Try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Lower in-game graphics settings
 
@@ -125,6 +118,13 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
@@ -133,14 +133,14 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
 
-If your issue persists, then move on to the next fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If your issue persists, then move on to the next fix below.
 
 ## Fix 5: Turn off unnecessary programs
 
@@ -179,21 +179,24 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-top-11-insider-secrets-for-windows-11-mastery/"><u>[New] 2024 Approved Top 11 Insider Secrets for Windows 11 Mastery</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-obs-scheduling-mastery-implementing-a-countdown-clock/"><u>[New] Obs Scheduling Mastery Implementing a Countdown Clock</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-efficient-chroma-removal-in-kinemaster/"><u>2024 Approved Efficient Chroma Removal in KineMaster</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-headline-economy-utilizing-slug-lines-smartly/"><u>2024 Approved Mastering Headline Economy Utilizing Slug Lines Smartly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/detailed-guide-to-preventing-starfield-from-freezing-or-crashing-on-pc-setups/"><u>Detailed Guide to Preventing Starfield From Freezing or Crashing on PC Setups</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-and-correcting-discords-audio-problem-during-screen-presentations/"><u>Diagnosing and Correcting Discord's Audio Problem During Screen Presentations</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-m-audio-fast-track-drivers-compatible-with-windows-107881/"><u>Download M-Audio Fast Track Drivers: Compatible with Windows 10/7/8/8.1</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminating-frame-drops-and-stutter-in-v-a-guide-for-pc-users/"><u>Eliminating Frame Drops and Stutter in V: A Guide for PC Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-non-functional-mic-issue-on-windows-11-a-step-by-step-guide/"><u>Fixing a Non-Functional Mic Issue on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-launch-problems-master-these-simple-fixes/"><u>Fortnite Launch Problems? Master These Simple Fixes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/forza-horizon-npc-engine-optimization-how-i-overcame-the-frame-rate-drop-issue/"><u>Forza Horizon nPC Engine Optimization: How I Overcame the Frame Rate Drop Issue!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-x50iplus-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor X50i+ to PC? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/next-gen-avatars-roll-out-for-oculus-users/"><u>Next-Gen Avatars Roll Out for Oculus Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-frostpunk-stability-issues-and-preventing-future-crashes/"><u>Resolving Frostpunk Stability Issues and Preventing Future Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-left-4-dead-cued-end-of-an-era-beginning-of-a-new-chapter/"><u>Troubleshooting Left 4 Dead Cued: End of an Era, Beginning of a New Chapter</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-a-stable-valorant-experience-without-interruptive-pc-crashes/"><u>Troubleshooting Steps for a Stable Valorant Experience Without Interruptive PC Crashes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/kyrocketing-youtube-views-strategies-to-dodge-bots/"><u>[New] Skyrocketing YouTube Views Strategies to Dodge Bots</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/free-range-humor-development-unleash-your-wit/"><u>Free-Range Humor Development Unleash Your Wit</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-12-mini-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone 12 mini? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-laughing-through-the-metaverse-making-your-own-humor/"><u>In 2024, Laughing Through the Metaverse Making Your Own Humor</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-want-to-turn-a-photo-into-a-cartoon-but-dont-know-how-here-are-some-of-the-best-online-websites-which-allow-you-to-turn-pictures-into-cartoons-witho/"><u>In 2024, Want to Turn a Photo Into a Cartoon but Dont Know How? Here Are some of the Best Online Websites Which Allow You to Turn Pictures Into Cartoons without Downloading Any Software</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-keyboard-shortcuts-inserting-the-system-information-on-windows-11/"><u>Mastering Keyboard Shortcuts: Inserting the System Information on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp4-to-wav-windows-1011/"><u>MP4 to WAV: 最適なコツがわかるWindows 10/11における高速変換手法</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-the-nuances-of-wpl-vs-m3u-files-understanding-differences-and-mastering-conversions/"><u>Navigating the Nuances of WPL Vs. M3U Files: Understanding Differences & Mastering Conversions</u></a></li>
+<li><a href="https://win-able.techidaily.com/nhkfm/"><u>NHKのFMラジオを記録するステップバイステップ: ウィンドウズ・アイフォン・アンドロイド対策</u></a></li>
+<li><a href="https://win-able.techidaily.com/pagina-no-encontrada-404-busca-con-foxingenioso/"><u>Página No Encontrada (404) | Busca Con FoxIngenioso</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-dvd/"><u>PC用 DVD動画抽出手順ガイド</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-guide-for-mov-to-mpeg-transformation-using-windows-11-tools/"><u>Quick Guide for MOV to MPEG Transformation Using Windows 11 Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-to-transform-your-dvd-into-an-avi-file/"><u>Simple Steps to Transform Your DVD Into an AVI File</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-iphone-video-issues-top-6-tips-for-successful-pc-playback/"><u>Solve Your iPhone Video Issues: Top 6 Tips for Successful PC Playback</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-mass-mpa-to-wav-file-conversions/"><u>Step-by-Step Tutorial on Mass MPA to WAV File Conversions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-artisans-guide-to-zen-like-zoom-backgrounds/"><u>The Artisan's Guide to Zen-Like Zoom Backgrounds</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-x-fold-2-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo X Fold 2 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unbeatable-ways-to-archive-lol-encounters/"><u>Unbeatable Ways to Archive LOL Encounters</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/vrs-current-creative-conundrum-latest-insights/"><u>VR's Current Creative Conundrum - Latest Insights</u></a></li>
 </ul></div>
 

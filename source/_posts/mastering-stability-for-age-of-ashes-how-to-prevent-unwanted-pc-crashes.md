@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability for 'Age of Ashes': How to Prevent Unwanted PC Crashes"
-date: 2024-10-04T16:43:39.367Z
-updated: 2024-10-08T21:38:20.957Z
+date: 2024-10-18T16:01:19.019Z
+updated: 2024-10-20T16:38:49.086Z
 tags:
   - win11
   - win10
@@ -44,34 +44,27 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/xbox-supporting-apps.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have the**Xbox Console Companion** installed, please uninstall it. To do so:
 
 1. On your keyboard, press the**Windows logo key** and**X** together to open the Quick Link menu. Then select**Apps and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**Xbox Console Companion** and select**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-xbox-console-companion.jpg)
 3. Click**Uninstall** again.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 
@@ -80,10 +73,16 @@ After that, restart your computer and see if that helps.
 If State of Decay 2 still crashes, go ahead with the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
@@ -107,11 +106,25 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and check if State of Decay 2 is working properly.
 
  If updating your graphics driver fails to stop the crash, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -137,10 +150,10 @@ If this method doesn’t help, check out the next solution.
 2. Under Apps & features, click**State of Decay 2** , then click**Advanced options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-options.jpg)
@@ -166,16 +179,16 @@ If the crashing issue occurs again, continue to the next fix.
 3. In the pop-up window,**select a new drive** from the drop-down menu, then click**Move** again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After doing that, launch State of Decay 2 and check if the problem has gone away.
 
 If this method doesn’t do the trick, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Set English (United States) as the default language
 
@@ -188,13 +201,6 @@ If this method doesn’t do the trick, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-a-language.jpg)
 3. Select**English (United States)** , then click**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/next.jpg)
 4. Click**Install** .  
 
@@ -202,6 +208,13 @@ If this method doesn’t do the trick, try the next fix.
 5. After the language is fully installed, drag it to the first position in the list.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/set-as-default.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now restart your PC and test if State of Decay 2 still crashes.
 
@@ -225,13 +238,6 @@ If this solution doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-service.jpg)
 6. Restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After rebooting your PC, launch State of Decay 2 to see if it crashes again. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
  Once you find out the problematic program that causes the game to crash, you just need to uninstall it to avoid game crashing issues in the future.
@@ -245,15 +251,16 @@ If this solution doesn’t work for you, continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**X** together to open the Quick Link menu. Then select**Apps and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then select**Uninstall** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-app.jpg)
-3. Click**Uninstall** again.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-app.jpg)
+3. Click**Uninstall** again.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 4. Restart your computer and reinstall the game.
@@ -279,19 +286,21 @@ If this solution doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-metaverse-giggle-guide-generating-20plus-amusing-virtual-creations/"><u>[New] In 2024, Metaverse Giggle Guide Generating 20+ Amusing Virtual Creations</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quick-and-clever-sharing-gifs-on-snapchat-made-simple/"><u>[Updated] 2024 Approved Quick & Clever Sharing GIFs on Snapchat Made Simple</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-24-hour-film-size-gb-measurement-guide/"><u>[Updated] 24-Hour Film Size GB Measurement Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-fable-formulators-fellowship-top-7-titans/"><u>[Updated] In 2024, Fable Formulators Fellowship – Top 7 Titans</u></a></li>
-<li><a href="https://win-able.techidaily.com/accelerate-origin-file-transfers-expert-hacks-for-quick-load-times/"><u>Accelerate Origin File Transfers: Expert Hacks for Quick Load Times</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-fix-connectivity-problems-in-new-world-game/"><u>Expert Tips to Fix Connectivity Problems in New World Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-consecutive-software-hiccups-on-your-personal-computer/"><u>How to Fix Consecutive Software Hiccups on Your Personal Computer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Itel S23+? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-tech-toms-essential-guide-to-cutting-edge-hardware/"><u>Mastering Modern Tech: Tom's Essential Guide to Cutting-Edge Hardware</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-the-maze-to-find-your-ideal-4k-screen/"><u>Navigating the Maze to Find Your Ideal 4K Screen</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-compatibility-problems-with-logitech-options-for-windows-users/"><u>Resolving Compatibility Problems with Logitech Options for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-overcoming-common-problems-when-cortana-wont-work-properly/"><u>Solved!: Overcoming Common Problems When Cortana Won't Work Properly</u></a></li>
-<li><a href="https://win-able.techidaily.com/update-diablo-immortal-wont-hit-pc-platforms-as-scheduled/"><u>Update: Diablo Immortal Won't Hit PC Platforms as Scheduled</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-photoshop-shake-reduction-is-it-really-useful/"><u>[New] 2024 Approved Photoshop Shake Reduction - Is It Really Useful?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-a-critical-analysis-of-luminances-role-in-hdr-development/"><u>[New] In 2024, A Critical Analysis of Luminance's Role in HDR Development</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-leverage-youtube-metrics-for-enhanced-visibility/"><u>[Updated] Leverage YouTube Metrics for Enhanced Visibility</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-song-selection-spectrum-discovering-the-perfect-soundtrack-for-every-montage-visionary-project/"><u>2024 Approved Song Selection Spectrum Discovering the Perfect Soundtrack for Every Montage Visionary Project</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-pc-boot-glitches-effective-strategies-for-fixing-saints-row-start-up-failures/"><u>Beat PC Boot Glitches: Effective Strategies for Fixing Saints Row Start-Up Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/ending-your-frustration-with-oxy-tips-for-overcoming-game-crashing-problems/"><u>Ending Your Frustration with 'Oxy:' Tips for Overcoming Game-Crashing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-ghost-recon-breakpoint-crashes-simple-solutions-that-work/"><u>Fixing Ghost Recon Breakpoint Crashes: Simple Solutions That Work</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-exploring-per-view-money-flow-among-youtubers/"><u>In 2024, Exploring Per-View Money Flow Among YouTubers</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launching-problems-in-rainbow-six-siege-fixed/"><u>Overcoming Launching Problems in Rainbow Six Siege – Fixed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/shortcuts-to-success-how-to-skip-edgenuity-online-lessons-gracefully-for-2024/"><u>Shortcuts to Success How to Skip Edgenuity Online Lessons Gracefully for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-mystery-top-6-troubleshooting-tips-when-your-steam-vr-isnt-showing-up/"><u>Solving the Mystery: Top 6 Troubleshooting Tips When Your Steam VR Isn't Showing Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-successfully-starting-saints-row-on-your-computer/"><u>Step-by-Step Guide: Successfully Starting Saints Row on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-the-critical-error-0x0000003d-on-windows-pc/"><u>Step-by-Step Solution for the Critical Error 0X0000003D on Windows PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-hogwarts-legacy-expert-solutions-to-startup-issues/"><u>Troubleshooting Hogwarts Legacy: Expert Solutions to Startup Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-successful-updates/"><u>Unlocking Windows 11 Successful Updates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warcraft-3-reforged-pc-crashes-top-fixes-and-solutions/"><u>Warcraft 3: Reforged PC Crashes? Top Fixes & Solutions !</u></a></li>
 </ul></div>
 

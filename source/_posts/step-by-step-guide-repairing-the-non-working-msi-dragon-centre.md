@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Repairing the Non-Working MSI Dragon Centre"
-date: 2024-10-13T19:18:00.552Z
-updated: 2024-10-14T19:16:03.094Z
+date: 2024-10-15T17:22:24.923Z
+updated: 2024-10-20T16:43:32.367Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 Hope it works for you, if not, try updating your audio driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update the audio driver
@@ -57,23 +57,23 @@ Hope it works for you, if not, try updating your audio driver.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
-**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ### Fix 3: Install Windows updates
 
@@ -83,21 +83,15 @@ Hope it works for you, if not, try updating your audio driver.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Evil Genius 2 and check.
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -120,22 +114,16 @@ Enjoy the game and have a nice day!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-ultimate-guide-incorporating-facebook-live-into-websites/"><u>[New] 2024 Approved The Ultimate Guide Incorporating Facebook LIVE Into Websites</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-affordable-mp3-recording-skype-calls-saved-for-2024/"><u>[New] Affordable MP3 Recording Skype Calls Saved for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-keep-a-permanent-record-fbm-calls-full-recording/"><u>[New] In 2024, Keep a Permanent Record FBM Calls Full Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-accelerated-record-functionality-and-narrator-support/"><u>[Updated] In 2024, Accelerated Record Functionality & Narrator Support</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-ideal-app-for-aspiring-filmmakers-a-reel-crafting-list/"><u>2024 Approved Ideal App for Aspiring Filmmakers A Reel-Crafting List</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-top-attention-grabber-composer/"><u>2024 Approved Top Attention Grabber Composer</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-the-stuck-loading-phase-of-madden-nfl-22-a-troubleshooting-guide/"><u>Bypassing the Stuck Loading Phase of Madden NFL 22: A Troubleshooting Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-warzone-performance-solutions-for-smoother-gameplay-and-higher-fps/"><u>Improving Warzone Performance: Solutions for Smoother Gameplay & Higher FPS</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-xiaomi-civi-3-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Xiaomi Civi 3 FRP Without Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-your-console-experience-overcoming-call-of-duty-error-code-g7t05a-b-in-black-ops-cold-war/"><u>Master Your Console Experience: Overcoming Call of Duty Error Code G7T05A-B in Black Ops Cold War</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-league-of-legends-network-connectivity-problems/"><u>Resolved: Fixing League of Legends Network Connectivity Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/screen-capture-issues-resolved-why-your-obs-is-now-recording-flawlessly/"><u>Screen Capture Issues Resolved: Why Your OBS Is Now Recording Flawlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-gta-5-crash-problems-expert-tips-and-tricks-for-stable-play/"><u>Solve Your GTA 5 Crash Problems: Expert Tips & Tricks for Stable Play</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-what-to-do-if-you-cant-open-your-email-client-outlook/"><u>Step-by-Step Guide: What to Do If You Can't Open Your Email Client (Outlook)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-v27-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo V27 Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-complete-why-fifa-21-wont-launch-solutions-inside/"><u>Troubleshooting Complete: Why FIFA 21 Won't Launch (Solutions Inside)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ogg-aac-online-ogg-aac-movavi/"><u>필기: OGG AAC 파일의 쉽건강한 바인딩을 위해 Online에서 무료 OGG AAC 전환 - Movavi</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-discover-the-leading-8-free-3d-videos-players-for-windowsmac-os/"><u>2024 Approved Discover the Leading 8 FREE 3D Videos Players for Windows/Mac OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-enhanced-solutions-for-hr-efficiency/"><u>AI Enhanced Solutions for HR Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-enhance-your-website-traffic-with-smart-analytics/"><u>Cookiebot-Enabled: Enhance Your Website Traffic with Smart Analytics</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-windows-specific-malfunctions-in-star-citizen-gameplay/"><u>How to Resolve Windows-Specific Malfunctions in Star Citizen Gameplay</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-6s-plus-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unlock-the-power-of-animated-photos-top-tools-for-2024/"><u>New Unlock the Power of Animated Photos Top Tools for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-hurdle-effective-solutions-to-play-robocop-rogue-city-on-personal-computers/"><u>Overcome the Hurdle: Effective Solutions to Play 'Robocop: Rogue City' On Personal Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-on-oculus-quest-2-a-step-by-step-guide-for-non-working-mics/"><u>Solving Audio Problems on Oculus Quest 2 – A Step-by-Step Guide for Non-Working Mics</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990938542-stardew-valley-error-resolved-now-running-smoothly/"><u>Stardew Valley Error Resolved: Now Running Smoothly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-wow-crashes-effective-methods-for-a-smooth-gaming-experience/"><u>Troubleshooting WoW Crashes: Effective Methods for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-choose-copilot-accessing-the-ultimate-free-experience-with-gpt-4-turbo/"><u>Why Choose Copilot? Accessing the Ultimate Free Experience with GPT-4 Turbo</u></a></li>
 </ul></div>
 

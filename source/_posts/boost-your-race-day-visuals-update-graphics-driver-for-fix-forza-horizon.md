@@ -1,7 +1,7 @@
 ---
 title: Boost Your Race Day Visuals - Update Graphics Driver for Fix Forza Horizon
-date: 2024-10-12T01:25:28.299Z
-updated: 2024-10-15T05:02:45.083Z
+date: 2024-10-16T16:13:13.714Z
+updated: 2024-10-20T18:38:52.690Z
 tags:
   - win11
   - win10
@@ -33,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 3. [**Scan and repair Windows**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Check your default GPU](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure you’re using the latest drivers
 
  The message is self-explanatory: **you need to check if you’re using the latest graphics driver** . The latest video driver gives your GPU a performance boost. But unlike system updates, most of the time you need to take care of driver updates yourself.
@@ -47,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -79,10 +92,10 @@ You can use the following steps to check for Minecraft updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Java edition
@@ -90,6 +103,13 @@ You can use the following steps to check for Minecraft updates.
 1. Open or restart your Minecraft launcher.
 2. If you’re not seeing an update prompt, to the right of the Play button, click the arrow and select Latest release.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Make sure you’re on the latest Windows
 
@@ -105,13 +125,6 @@ You can use the following steps to check for Minecraft updates.
 
 If you’re still seeing the message, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Scan and repair Windows
 
  If you’re sure it’s not a driver issue, try scanning Windows and see if it’s a system error.
@@ -123,21 +136,7 @@ If you’re still seeing the message, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -155,21 +154,28 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
 4. Click **Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
 
@@ -196,24 +202,22 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/he-ultimate-guide-to-designing-youtube-shorts-templates/"><u>[New] The Ultimate Guide to Designing YouTube Shorts Templates</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-best-10-video-editing-apps-to-edit-and-make-instagram-reels/"><u>[Updated] In 2024, Best 10 Video Editing Apps to Edit and Make Instagram Reels</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-streamline-your-audio-savings-from-youtube-playback/"><u>2024 Approved Streamline Your Audio Savings From YouTube Playback</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1728470594217-onedrive/"><u>同步到OneDrive：如何将任何本地文件夹上传（包括两个有效方法）</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elite-selection-of-smartglasses-dominating-2024/"><u>Elite Selection of Smartglasses Dominating 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/thing-you-need-to-succeed-with-youtube-short-videos-for-2024/"><u>Everything You Need to Succeed with YouTube Short Videos for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-the-chic-style-with-taotronics-tt-dl16-led-lamps-a-comprehensive-review/"><u>Experience the Chic Style with TaoTronics TT-DL16 LED Lamps - A Comprehensive Review</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-wwe-2k20-crashes-clear-straightforward-tips-for-gaming-bliss-on-pc/"><u>Fix Your WWE 2K20 Crashes: Clear, Straightforward Tips for Gaming Bliss on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-resident-evil-village-performance-problems-on-pc-expert-tips-and-solutions/"><u>Fixing Resident Evil Village Performance Problems on PC: Expert Tips & Solutions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/from-instagram-video-to-mp3-sound/"><u>From Instagram Video to Mp3 Sound</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-recover-lost-iphone-applications-a-step-by-step-guide/"><u>How To Recover Lost Iphone Applications: A Step-By-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-your-journey-with-the-best-navigators-66-twitter-accounts-for-unbeatable-travel-deals-and-advice/"><u>Master Your Journey With The Best Navigators: 66 Twitter Accounts For Unbeatable Travel Deals & Advice</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-xcom-2-crashing-issues-on-windows-pcs/"><u>Resolved: How to Fix XCOM 2 Crashing Issues on Windows PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-connection-issues-in-utorrent-for-improved-torrents-sharing-and-download-speed/"><u>Resolving Connection Issues in uTorrent for Improved Torrents Sharing and Download Speed</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-the-hogwarts-legacy-wont-start-issue-top-strategies-of-2024/"><u>Solve the 'Hogwarts Legacy Won't Start' Issue: Top Strategies of 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-overcoming-obstacles-to-play-saints-row-on-a-windowsmac-device/"><u>Solved: Overcoming Obstacles to Play Saints Row on a Windows/Mac Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/terraria-stability-guide-no-more-crashes/"><u>Terraria Stability Guide: No More Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-prevent-pc-crashes-in-praey-for-the-gods-game/"><u>Troubleshooting Steps to Prevent PC Crashes in Praey: For The Gods Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/ubisoft-connection-problems-solve-them-here-with-our-latest-tips/"><u>Ubisoft Connection Problems? Solve Them Here with Our Latest Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-a-spectrum-of-excellence-top-5-tvs-for-grading-mastery-for-2024/"><u>[New] A Spectrum of Excellence Top 5 TVs for Grading Mastery for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-innovation-in-minimization-the-finest-selection-of-43-mobile-video-trimming-apps/"><u>[New] In 2024, Innovation in Minimization The Finest Selection of 43 Mobile Video Trimming Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-crafting-memes-that-stand-out-the-9gag-way/"><u>2024 Approved Crafting Memes that Stand Out The 9GAG Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expedite-your-browser-eliminating-youtube-stalls-in-chrome/"><u>Expedite Your Browser: Eliminating YouTube Stalls in Chrome</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-f15-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy F15 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-spark-20c-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Spark 20C to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-saving-your-desktop-display-with-free-tech-tools/"><u>In 2024, Saving Your Desktop Display with Free Tech Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-accessing-exclusive-movies-discover-how-our-japanese-film-downloader-enhances-viewing-pleasure/"><u>Master the Art of Accessing Exclusive Movies: Discover How Our Japanese Film Downloader Enhances Viewing Pleasure</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-video-compression-the-ultimate-guide-to-slashing-file-sizes-with-vlc-tools/"><u>Mastering Video Compression: The Ultimate Guide to Slashing File Sizes with VLC Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp4-windows-11/"><u>MP4ビデオの切断方法 - Windows 11用ガイド</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp4m2ts/"><u>MP4ファイルからM2TSへの変換手順を詳しく解説</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-crashing-a-players-handbook-to-a-smooth-minecraft-experience/"><u>No More Crashing - A Player's Handbook to a Smooth Minecraft Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/pubgpc/"><u>PUBGゲームの最高キャプチャ手順：PCおよびスマホ向け</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-and-straightforward-methods-for-converting-multimedia-into-bulk-ogg-audiovideo/"><u>Quick & Straightforward Methods for Converting Multimedia Into Bulk OGG Audio/Video</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-gopro-video-transformation-quickly-convert-your-adventures-into-mp4-avi-or-other-formats-with-our-specialized-tool/"><u>Seamless GoPro Video Transformation: Quickly Convert Your Adventures Into MP4, AVI, or Other Formats with Our Specialized Tool</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-itel-p40-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Itel P40 Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/movwindowsmac/"><u>ビデオファイル(MOV形式)から静止画像を取り出せるプロの手法（Windows/Mac）</u></a></li>
 </ul></div>
 

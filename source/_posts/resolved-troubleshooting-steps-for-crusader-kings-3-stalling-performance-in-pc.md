@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Troubleshooting Steps for Crusader Kings 3 Stalling Performance in PC"
-date: 2024-10-11T05:16:54.922Z
-updated: 2024-10-14T22:21:50.862Z
+date: 2024-10-14T16:41:42.299Z
+updated: 2024-10-20T16:10:06.024Z
 tags:
   - win11
   - win10
@@ -58,10 +58,10 @@ Necromunda: Hired Gun
 6. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Verify the game files
@@ -74,14 +74,14 @@ Necromunda: Hired Gun
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 It may take some time to complete the verifying process.
 
@@ -96,10 +96,10 @@ It may take some time to complete the verifying process.
  Launch Necromunda: Hired Gun when the verifying process completed and see if it crashes or not. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
@@ -137,19 +137,6 @@ It may take some time to complete the verifying process.
 
  Launch Necromunda: Hired Gun to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable overlays
 
  Sometimes overlays may interfere with the game. According to some PC gamers, it seems that the Steam Overlay doesn’t pair well with the game.
@@ -161,10 +148,10 @@ It may take some time to complete the verifying process.
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
@@ -180,6 +167,13 @@ It may take some time to complete the verifying process.
  You can try adding both the game and steam (or Epic Games Launcher) as an exception to your third-party antivirus application. If necessary, you can also try temporarily disabling your 3rd party antivirus software before you play the game.
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking / turbo boosting
 
@@ -209,19 +203,22 @@ It may take some time to complete the verifying process.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-a-comprehensive-look-at-ig-reels-vs-stories/"><u>[New] In 2024, A Comprehensive Look at IG Reels Vs Stories</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-from-manga-to-screen-applying-snapchats-anime-filter/"><u>[New] In 2024, From Manga to Screen Applying Snapchat's Anime Filter</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-lightning-timelapses-on-iphone-reducing-delay/"><u>[New] Lightning Timelapses on iPhone Reducing Delay</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-how-to-zoom-tiktok-videos/"><u>[Updated] How to Zoom TikTok Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-mastering-the-art-of-using-telegram-online/"><u>[Updated] In 2024, Mastering the Art of Using Telegram Online</u></a></li>
-<li><a href="https://win-able.techidaily.com/cod-black-ops-4-launching-errors-rectified-for-smooth-gaming-experience/"><u>COD Black Ops 4 Launching Errors Rectified for Smooth Gaming Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/command-center-controls-essential-tuning-tips-for-fps-beginnings/"><u>Command Center Controls: Essential Tuning Tips for FPS Beginnings</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-chrome-delays-effective-and-easy-remedies-to-enhance-speed/"><u>Eliminate Chrome Delays: Effective and Easy Remedies to Enhance Speed</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-beginners-guide-to-all-things-vector-images-overview-types-and-software-choices/"><u>In 2024, Beginner’s Guide to All Things Vector Images- Overview, Types, and Software Choices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-fixing-the-video-card-restart-issue-successfully/"><u>Solution Guide: Fixing the Video Card Restart Issue Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-solution-for-cyberpunk-2077s-black-screen-dilemma-tips-and-tricks-inside/"><u>The Solution for Cyberpunk 2077'S Black Screen Dilemma - Tips and Tricks Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/tower-of-fantasy-game-now-stable-fix-for-pc-crashing-glitches-unveiled/"><u>Tower of Fantasy Game Now Stable - Fix for PC Crashing Glitches Unveiled</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-error-0xc19n1e1-in-windows-11-systems/"><u>Troubleshooting and Fixing Error 0Xc19n1e1 in Windows 11 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-dev-error-6634-in-call-of-duty-warzone-expert-fixes/"><u>Troubleshooting Dev Error 6634 in Call of Duty Warzone - Expert Fixes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-expected-video-gb-for-continuous-24-hour-viewing-for-2024/"><u>[New] Expected Video GB for Continuous 24-Hour Viewing for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-masterful-outros-and-descriptions-a-guide-to-excellence/"><u>[New] Masterful Outros and Descriptions A Guide to Excellence</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-insiders-look-at-the-most-effective-instagram-tags-for-growth-for-2024/"><u>[New] The Insider's Look at the Most Effective Instagram Tags for Growth for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-advanced-tactics-for-seamless-subtitles-on-vimeo-videos/"><u>2024 Approved Advanced Tactics for Seamless Subtitles on Vimeo Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/accelerating-gameplay-tips-for-fixing-prolonged-loading-cycles-in-fallout-4/"><u>Accelerating Gameplay: Tips for Fixing Prolonged Loading Cycles in Fallout 4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-movies-you-can-start-watching-today-based-on-lifewire-suggestions/"><u>Best Movies You Can Start Watching Today, Based on Lifewire Suggestions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/budget-friendly-multiview-cameras-for-professional-use/"><u>Budget-Friendly Multiview Cameras for Professional Use</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capture-and-save-everything-on-your-screen/"><u>Capture & Save Everything on Your Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/clear-the-haze-techniques-for-enhancing-cod-warzone-graphics-on-desktop-systems/"><u>Clear the Haze: Techniques for Enhancing COD: Warzone Graphics on Desktop Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-issues-how-to-prevent-escape-from-tarkov-from-crashing-on-your-windows-machine/"><u>Fix Issues: How to Prevent 'Escape From Tarkov' From Crashing on Your Windows Machine</u></a></li>
+<li><a href="https://win-able.techidaily.com/genshin-impact-bug-solved-overcoming-error-4201-with-ease/"><u>Genshin Impact Bug Solved! Overcoming Error 4201 with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-check-a-games-steam-price-history/"><u>How to Check a Game's Steam Price History</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-telegrams-wonders-for-marketers-beginning-their-journey/"><u>In 2024, Telegram’s Wonders for Marketers Beginning Their Journey</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-lag-how-to-keep-your-pubg-gaming-seamless-and-responsive/"><u>Overcoming Lag: How to Keep Your PUBG Gaming Seamless and Responsive</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-integration-of-pharmacogenomics-into-clinical-trials-is-becoming-more-common-to-assess-the-safety-and-efficacy-of-new-drugs-across-different-genetic-bac525/"><u>The Integration of Pharmacogenomics Into Clinical Trials Is Becoming More Common to Assess the Safety and Efficacy of New Drugs Across Different Genetic Backgrounds</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-mw3-pc-game-crashes-simple-solutions/"><u>Troubleshooting Common MW3 PC Game Crashes: Simple Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/watch-dogs-legion-how-to-fix-continuous-freezing-and-crashes-on-windows/"><u>Watch Dogs: Legion - How to Fix Continuous Freezing and Crashes on Windows</u></a></li>
 </ul></div>
 

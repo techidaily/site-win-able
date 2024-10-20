@@ -1,7 +1,7 @@
 ---
 title: How to Prevent and Fix 'The Witcher 3' On Your Computer From Frequent Freezing
-date: 2024-10-12T02:59:04.274Z
-updated: 2024-10-14T23:24:33.577Z
+date: 2024-10-17T20:12:27.926Z
+updated: 2024-10-20T17:31:57.899Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 6. [Reset your system without losing data](https://tools.techidaily.com/drivereasy/download/)
 7. [Move the files to the SSD drive](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  The constant freezing might indicate a driver issue. If your driver is updated it might cause the freezing issue. We suggest you should always keep your driver up to date for the best in-game performance.  
@@ -45,21 +52,16 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -67,6 +69,13 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
  After updating your drivers, reboot your PC and relaunch the New World again.
 
  If the latest graphics driver doesn’t fix the problem, you can move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
 
@@ -77,10 +86,10 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
@@ -97,13 +106,6 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
 
@@ -111,10 +113,10 @@ If the problem persists, take a look at the next fix below.
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Restart your PC for the change to take effect.
@@ -132,13 +134,6 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 3. Open the software and find your graphics card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-featured.jpg)
 4. Because of the different PC environments, you may need to keep adjusting the Core Clock until you’re no longer freezing.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here we suggest underclocking your GPU Core Clock by 400 MHz and memory clock 500 MHz.
 5. In MSI Afterburner, change your power limit to 80%.
@@ -159,10 +154,10 @@ If it’s still not working, try the next fix.
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Play New World to check.
@@ -185,10 +180,10 @@ If it’s still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -221,19 +216,20 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-minecraft-not-installing-on-windows-11/"><u>[Solved] Minecraft Not Installing on Windows 11</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-incorporating-captions-into-instagrams-video-platform/"><u>[Updated] 2024 Approved Incorporating Captions Into Instagram's Video Platform</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-foremost-frame-starters-leading-16-youtube-videos-for-more-watchers-for-2024/"><u>[Updated] Foremost Frame Starters Leading 16 YouTube Videos for More Watchers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-honored-proposals-leading-ringtone-creators-iphone/"><u>2024 Approved Honored Proposals Leading Ringtone Creators iPhone</u></a></li>
-<li><a href="https://win-able.techidaily.com/2024-civil-case-update-resolving-exception-access-errors/"><u>2024 Civil Case Update: Resolving Exception Access Errors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-guide-to-fixing-stop-0x0000007b-system-critical-process-terminated-unexpectedly-bsod/"><u>A Step-by-Step Guide to Fixing STOP 0X0000007B System Critical Process Terminated Unexpectedly BSOD</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/assessing-the-lg-k92-5g-phone-why-the-premium-on-5g-may-not-be-justified/"><u>Assessing the LG K92 5G Phone: Why the Premium on 5G May Not Be Justified</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connecting-playstation-virtual-reality-with-your-personal-pc-a-guide/"><u>Connecting PlayStation Virtual Reality with Your Personal PC: A Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminating-the-puzzling-black-display-error-of-fallout-4-game/"><u>Eliminating the Puzzling Black Display Error of Fallout 4 Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/epic-battle-royale-help-eliminating-the-menace-of-dev-error-6634-from-your-warzone-gameplay-tips/"><u>Epic Battle Royale Help: Eliminating the Menace of Dev Error 6634 From Your Warzone Gameplay (Tips )</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-modern-warfare-3-mw3-not-working-launching/"><u>Fix Modern Warfare 3 MW3 Not Working / Launching</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-motorola-moto-g23-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Motorola Moto G23 Quickly | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-of-origin-not-opening-on-recent-windows-versions-10-and-11/"><u>Fixing the Issue of Origin Not Opening on Recent Windows Versions (10 & 11)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-deciphering-social-media-copyright-laws-including-fb/"><u>[New] In 2024, Deciphering Social Media Copyright Laws, Including FB</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-rainbow-six-extraction-crashing-on-pc/"><u>[SOLVED] Rainbow Six Extraction Crashing on PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-transforming-your-media-expertise-in-itunes-recordings/"><u>[Updated] In 2024, Transforming Your Media Expertise in iTunes Recordings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-innovative-approaches-to-gameplay-and-webcam-captures/"><u>[Updated] Innovative Approaches to Gameplay and Webcam Captures</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-non-athlete-front-rows-the-ultimate-alternative-list/"><u>[Updated] Non-Athlete Front Rows The Ultimate Alternative List</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-accurate-and-automatic-video-recording-on-diverse-computing-systems/"><u>2024 Approved Accurate and Automatic Video Recording on Diverse Computing Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photo-and-video-transfer-blueprint-from-android-to-apple/"><u>2024 Approved Photo & Video Transfer Blueprint From Android to Apple</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-low-frame-rate-problems-in-dota-2-for-windows-11-and-10-users/"><u>Addressing Low Frame Rate Problems in Dota 2 for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-gameplay-ultimate-guide-to-increasing-fps-and-resolving-stutters-in-valorant/"><u>Boost Your Gameplay: Ultimate Guide to Increasing FPS & Resolving Stutters in Valorant</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-playback-errors-with-dolby-atmos-on-pc-windows-1110-edition/"><u>How to Resolve Playback Errors with Dolby Atmos on PC: Windows 11/10 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-mordhau-from-freezing-and-crashing-effective-fixes/"><u>How to Stop Mordhau From Freezing & Crashing: Effective Fixes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone XR Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/online-m4v-wma-movavi/"><u>Online 무료 변환: M4V, WMA 편집기 Movavi - 오픈소스</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-intel-dsa-heres-how-you-can-get-it-running-again/"><u>Trouble with Intel DSA? Here’s How You Can Get It Running Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-ghost-runner-overcoming-critical-failures-in-windows-11/"><u>Troubleshooting the Ghost Runner: Overcoming Critical Failures in Windows 11</u></a></li>
 </ul></div>
 

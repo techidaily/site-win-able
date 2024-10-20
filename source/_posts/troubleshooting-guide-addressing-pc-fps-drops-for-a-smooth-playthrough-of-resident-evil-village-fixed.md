@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Addressing PC FPS Drops for a Smooth Playthrough of Resident Evil Village [FIXED]"
-date: 2024-10-12T22:55:40.087Z
-updated: 2024-10-15T04:51:50.202Z
+date: 2024-10-16T16:02:31.214Z
+updated: 2024-10-20T18:36:15.609Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/7a6d4afad02b673dd8fdf74213202fda14f2e9bab
 4. [**Repair the game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Check the minimum requirements to play Madden NFL 22
 
  Video games nowadays are becoming more graphically demanding. So if Madden 22 just won’t work on your computer, you should make sure the machine is up for handling the game.
@@ -57,10 +50,10 @@ Here are the minimum requirements for Madden NFL 22:
  If your computer specs are more than enough to run the game, the cause may be related to device drivers, antivirus or something else. Read on to more solutions below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Update your device drivers
@@ -85,6 +78,13 @@ There are mainly two ways to update your drivers:
 
  Relaunch Madden 22 to see if the driver update does the trick. If not, check out the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Run the game as an administrator
 
  Madden 22 may fail to work with no administrator rights given. A simple trick is to run the game as an administrator. Here are the steps:
@@ -97,13 +97,6 @@ There are mainly two ways to update your drivers:
 
 See if the issue persists. If yes, continue to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4 – Repair the game files
 
  Missing or faulty game files will also prevent Madden 22 from working properly. To see if that’s the case, you could perform a quick scan and repair of the game files. Below we’ll show you how to do this on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and[**Epic Games Launcher**](https://tools.techidaily.com/drivereasy/download/) .
@@ -115,22 +108,29 @@ See if the issue persists. If yes, continue to the next solution.
 2. Right-click Madden 22 from the list and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
  It may take a few minutes for the process to complete. Upon completion, check whether you can play the game normally. If not, proceed to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -143,6 +143,13 @@ See if the issue persists. If yes, continue to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 
  After the process finishes, restart Madden 22 to test the issue. If it’s still not working, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Temporarily disable your antivirus
 
@@ -182,22 +189,19 @@ See if the issue persists. If yes, continue to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-snapsplit-scrutiny/"><u>[New] In 2024, SnapSplit Scrutiny</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-totv-multimedia-player-wmp-alternative-for-2024/"><u>[New] TOTV Multimedia Player WMP Alternative for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-through-virtual-lenses-a-historical-view/"><u>2024 Approved Through Virtual Lenses A Historical View</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-the-headache-of-error-0x887a0006-your-definitive-guide-to-a-smooth-update-process/"><u>Bypass the Headache of Error 0X887A0006 - Your Definitive Guide to a Smooth Update Process</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-desktop-release-delayed-discover-an-exceptional-open-source-chatbot-as-your-alternative/"><u>ChatGPT Desktop Release Delayed? Discover an Exceptional Open-Source Chatbot as Your Alternative.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-interaction-premium-us-exclusive-chatgpt-now-at-20mth/"><u>Elevate Your Interaction: Premium U.S.-exclusive ChatGPT Now at $20/Mth</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-specs-a-deep-dive-into-echo-pop-vs-echo-dot-comparisons/"><u>Evaluating Specs: A Deep Dive Into Echo Pop Vs. Echo Dot Comparisons</u></a></li>
-<li><a href="https://win-able.techidaily.com/experience-the-thrill-of-days-gone-official-pc-release-announced/"><u>Experience the Thrill of 'Days Gone': Official PC Release Announced!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-repeated-breakdowns-of-tormented-souls-on-your-computer/"><u>Fixing the Repeated Breakdowns of Tormented Souls on Your Computer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-productivity-combine-chatgpt-and-vs-code-for-ultimate-development-hacks/"><u>Maximizing Productivity: Combine ChatGPT & VS Code for Ultimate Development Hacks</u></a></li>
-<li><a href="https://driver-download.techidaily.com/official-hp-deskjet-3520-printer-drivers-free-download-for-optimal-print-quality/"><u>Official HP Deskjet 3520 Printer Drivers - Free Download for Optimal Print Quality</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-issues-fixed-hearthstone-game-crashes-on-windows/"><u>Resolving Issues: Fixed Hearthstone Game Crashes on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/"><u>Reviving Game Playthroughs: Solve Xbox Headset Problems with These Proven Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/tips-and-tricks-to-prevent-crusader-kings-iii-from-crashing-on-pc/"><u>Tips and Tricks to Prevent Crusader Kings III From Crashing on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-a-non-functioning-clownfish-audio-modulator/"><u>Troubleshooting Steps for a Non-Functioning Clownfish Audio Modulator</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-your-logitech-games-app-refuses-to-start/"><u>Troubleshooting Steps When Your Logitech Games App Refuses to Start</u></a></li>
-<li><a href="https://win-able.techidaily.com/wwe-2k20-crashing-problems-heres-how-to-resolve-them-quickly-on-your-computer/"><u>WWE 2K20 Crashing Problems? Here's How to Resolve Them Quickly on Your Computer</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-composing-an-alluring-cinematic-teaser-track/"><u>[New] 2024 Approved Composing an Alluring Cinematic Teaser Track</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-share-tips-for-posting-youtube-videos-for-2024/"><u>[New] Insta-Share Tips for Posting YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-f1-2020-keeps-crashing-on-pc/"><u>[SOLVED] F1 2020 Keeps Crashing on PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-efficient-techniques-for-secure-and-effective-lecture-capturing-using-imac/"><u>[Updated] Efficient Techniques for Secure and Effective Lecture Capturing Using iMac</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-immortal-pc-launch-uncertain-stay-updated-on-the-future-of-mobile-exclusive-release/"><u>Diablo Immortal PC Launch Uncertain - Stay Updated on the Future of Mobile-Exclusive Release</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correct-interface-bug-27711-on-call-of-dutys-cold-war-adventure/"><u>How to Correct Interface Bug #27711 on Call of Duty's Cold War Adventure</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-iphone-11-pro-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the iPhone 11 Pro Without Previous Owner?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-creativity-10-top-notch-video-editing-apps-for-kids/"><u>In 2024, Unleash Creativity 10 Top-Notch Video Editing Apps for Kids</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-performance-issues-understanding-fps-fluctuations-in-f1-2021/"><u>PC Performance Issues - Understanding FPS Fluctuations in F1 2021</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-dealing-with-crashes-ultimate-solutions-for-stable-ascent-gaming-on-pc/"><u>Stop Dealing with Crashes: Ultimate Solutions for Stable Ascent Gaming on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-players-unable-to-open-league-of-legends/"><u>Troubleshooting Tips for Players Unable to Open League of Legends</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1728469651707-windows-11/"><u>Windows 11中恢复删除图片的方法</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/poverte-eto-ne-problema-ustranenie-oshibki-razmera-klonirovannogo-zhyostkogo-diska-v-odnu-minutu/"><u>Поверьте, Это Не Проблема! Устранение Ошибки Размера Клонированного Жёсткого Диска В Одну Минуту</u></a></li>
 </ul></div>
 

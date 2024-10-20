@@ -1,7 +1,7 @@
 ---
 title: Assassin's Creed Valhalla - Overcoming Persistent PC Game Crashes
-date: 2024-10-09T05:09:51.680Z
-updated: 2024-10-14T20:27:08.332Z
+date: 2024-10-13T18:15:33.493Z
+updated: 2024-10-20T17:13:52.794Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Although[Assassin’s Creed Valhalla](https://www.epicgames.com/store/en-US/p/as
 4. [**Verify the integrity of your game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Check the minimum specs of Assassin’s Creed Valhalla
 
  Before playing an intensive video game like AC Valhalla, you should make sure your setup meets its minimum requirements. Otherwise, it would be impossible to launch the game.
@@ -48,19 +55,6 @@ Although[Assassin’s Creed Valhalla](https://www.epicgames.com/store/en-US/p/as
 | **Hard Drive space** | 50 GB (SSD recommended)                                                                             |
 
  If your rig is up to handling the game, please move on to some deeper fixes below.
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -80,17 +74,17 @@ There are mainly two ways to update the graphics driver:
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch the game to check its performance with your newly-installed graphics driver. If the update doesn’t do the trick, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Run the game as an administrator
 
@@ -100,6 +94,19 @@ There are mainly two ways to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-3.jpg)
 2. Move your mouse cursor to Assassin’s Creed Valhalla and click the**downward triangle icon** . Then, select**View game details** .  
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-3.jpg)
 3. Select**Properties** on the left pane, and click**Open folder** under Local files.  
 
@@ -107,17 +114,31 @@ There are mainly two ways to update the graphics driver:
 4. Right-click the**ACValhalla.exe file** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-5.jpg)
 5. Navigate to the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-6-1.jpg)
 6. Launch the ACValhalla.exe file directly from the installation folder and see how it works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If the issue persists, head to the fixes below.
 
@@ -129,33 +150,12 @@ If the issue persists, head to the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-4.jpg)
 2. Move your mouse cursor over the title of Assassin’s Creed Valhalla. Then, click the**downward triangle icon** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-3.jpg)
 3. Click**Verify files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the process completes, relaunch the game to test. If this method doesn’t work, try the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Reinstall Assassin’s Creed Valhalla
 
@@ -193,22 +193,20 @@ If the issue persists, head to the fixes below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-enhance-teamwork-and-efficiency-8-must-have-task-apps-for-2024/"><u>[New] Enhance Teamwork & Efficiency 8 Must-Have Task Apps for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-your-workflow-fine-tuning-mouse-clicks/"><u>Accelerate Your Workflow: Fine-Tuning Mouse Clicks</u></a></li>
-<li><a href="https://win-able.techidaily.com/beating-the-clock-techniques-to-decrease-delay-and-improve-reaction-time-in-pcs-bless-unleashed/"><u>Beating the Clock: Techniques to Decrease Delay and Improve Reaction Time in PC's Bless Unleashed</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-and-fair-evaluation-of-airwatch-your-ultimate-guide/"><u>Comprehensive and Fair Evaluation of AirWatch - Your Ultimate Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-destiny-2-overcoming-the-centipede-error-challenge/"><u>Fixing Destiny 2: Overcoming the Centipede Error Challenge</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-one-or-several-sound-systems-back-up-and-running-again/"><u>How to Get One or Several Sound Systems Back Up and Running Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-and-fix-fortnites-freezing-problem-a-2024-user-guide/"><u>How to Prevent & Fix Fortnite's Freezing Problem: A 2024 User Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-building-a-stronger-presence-with-effective-youtube-pairings/"><u>In 2024, Building a Stronger Presence with Effective YouTube Pairings</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-mastering-the-art-of-animation-in-viral-online-videos/"><u>In 2024, Mastering the Art of Animation in Viral Online Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/new-world-continues-to-experience-chilling-halts-a-comprehensive-guide/"><u>New World Continues to Experience Chilling Halts: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gamers-say-goodbye-to-lag-and-stutter-in-half-life-alyx/"><u>PC Gamers, Say Goodbye to Lag and Stutter in 'Half-Life: Alyx'</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005874584-pc-gamers-unite-dive-into-the-epic-world-of-god-of-wars-fps-edition/"><u>PC Gamers, Unite: Dive Into the Epic World of God of War's FPS Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-ffxivs-check-in-compatibility-error-for-latest-patches/"><u>Resolving FFXIV's Check-In Compatibility Error for Latest Patches</u></a></li>
-<li><a href="https://win-able.techidaily.com/stream-smoothly-diagnosing-and-fixing-discords-crash-issues-during-broadcasts/"><u>Stream Smoothly: Diagnosing and Fixing Discord's Crash Issues During Broadcasts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-significance-of-enhanced-thread-support-in-apples-latest-iphone-15-pro/"><u>The Significance of Enhanced Thread Support in Apple's Latest iPhone 15 Pro</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-multimedia-sensation-apps-iphoneandroid-showdown-for-2024/"><u>Top 5 Multimedia Sensation Apps IPhone/Android Showdown for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/windows-server-backup-2012-issue-why-are-my-backups-not-displaying/"><u>Windows Server Backup 2012 Issue: Why Are My Backups Not Displaying?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-follow-the-flow-of-forum-fancies-for-2024/"><u>[New] Follow the Flow of Forum Fancies for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-how-to-disable-auto-recommended-podcast-features-in-spotify/"><u>[Updated] In 2024, How to Disable Auto-Recommended Podcast Features in Spotify</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-list-for-google-pixel-tones/"><u>[Updated] The Ultimate List for Google Pixel Tones</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974199572-easy-installation-of-corsair-keyboards-on-pcs-using-windows-free-driver-download-available-now/"><u>Easy Installation of Corsair Keyboards on PCs Using Windows - Free Driver Download Available Now</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-x100-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo X100?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-troubleshooting-techniques-tackling-the-dark-side-of-warzone-2024-fresh-insights/"><u>Master Troubleshooting Techniques: Tackling the Dark Side of Warzone - 2024 Fresh Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-dungeon-keeps-freezing-learn-how-to-optimize-and-fix-your-game-on-pc/"><u>Minecraft Dungeon Keeps Freezing? Learn How to Optimize and Fix Your Game on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/ntdlldll-stability-issue-solution-for-both-windows-10-and-windows-11-users/"><u>nTdll.dll Stability Issue Solution for Both Windows 10 and Windows 11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-fallout-4s-black-screen-glitch-with-easy-fixes/"><u>Overcome Fallout 4'S Black Screen Glitch with Easy Fixes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-obs-issues-why-its-no-longer-failing-to-record-screen/"><u>Overcome OBS Issues: Why It's No Longer Failing to Record Screen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-logitech-g733-mic-problems-expert-fixes-and-advice/"><u>Resolve Logitech G733 Mic Problems: Expert Fixes & Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-your-warzone-game-textures-expert-tips-and-solutions/"><u>Troubleshooting Your Warzone Game Textures - Expert Tips & Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-switching-your-iphones-regional-settings/"><u>Ultimate Guide: Switching Your iPhone's Regional Settings</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-memory-glitch-solved-fixing-the-infamous-0-1766-error-across-xbox-and-pc-platforms/"><u>Warzone Memory Glitch Solved: Fixing the Infamous 0-1766 Error Across Xbox & PC Platforms</u></a></li>
 </ul></div>
 

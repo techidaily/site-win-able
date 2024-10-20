@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve Overwatch's Persistent Black Screen Problem"
-date: 2024-10-12T01:56:24.944Z
-updated: 2024-10-15T04:19:17.821Z
+date: 2024-10-15T20:22:27.755Z
+updated: 2024-10-20T18:54:11.708Z
 tags:
   - win11
   - win10
@@ -30,24 +30,24 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 4. [Change the screen refresh rate](https://tools.techidaily.com/drivereasy/download/)
 5. [Use windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Check the cable
 
  Make sure your device has a stable and constantly power supply. The WOW screen flickering issue can be caused by the loose wire between the monitor and the computer. So, plug the cable tightly both at the monitor end and he computer end before trying any fixes.
 
  If possible, test the cable on another computer and see if the problem also occurs to another computer.
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Update graphics card driver
 
@@ -70,10 +70,10 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Rolling back your driver
@@ -86,25 +86,11 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-34-32.jpg)
 4. Click**Display adapters** and right-click on your GPU.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
 
 7. Check the issue is persist or not.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Change the screen refresh rate
 
@@ -114,20 +100,34 @@ Restart your computer for the changes to take effect.
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down to find**Advanced display settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Restart your computer and check to see if the problem resolves.
@@ -162,24 +162,22 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-youtubes-most-lucrative-star-title/"><u>[New] 2024 Approved YouTube's Most Lucrative Star Title</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-perfect-shots-a-guide-to-capturing-engaging-youtube-content/"><u>[Updated] 2024 Approved Perfect Shots A Guide to Capturing Engaging YouTube Content</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-8-free-online-tiktok-video-downloaders-no-watermark-included/"><u>[Updated] 8 Free Online TikTok Video Downloaders -No Watermark Included</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-ultimate-guide-to-premium-gopro-case-selection/"><u>[Updated] Ultimate Guide to Premium GoPro Case Selection</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-crafting-cinematic-magic-essential-tips-for-creating-stunning-slow-motion-media-on-instagram/"><u>2024 Approved Crafting Cinematic Magic Essential Tips for Creating Stunning Slow-Motion Media on Instagram</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-troubleshooting-guide-ensuring-smooth-steam-downloads-without-interruptions/"><u>Complete Troubleshooting Guide: Ensuring Smooth Steam Downloads Without Interruptions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-invalid-input-alerts-on-your-visual-interface-device/"><u>Dealing with Invalid Input Alerts on Your Visual Interface Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/decode-the-fixes-an-authoritative-approach-to-overcoming-devastating-ark-server-crashes/"><u>Decode the Fixes: An Authoritative Approach to Overcoming Devastating ARK Server Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-fixes-resolving-ghost-recon-breakpoint-sudden-crash-problems/"><u>Effortless Fixes: Resolving Ghost Recon Breakpoint Sudden Crash Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-error-42eb8-in-genshin-impact-step-by-step-troubleshooting/"><u>How to Overcome Error 42Eb8 in Genshin Impact: Step-by-Step Troubleshooting</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-persistent-starvation-glitches-from-crashing-pc-systems/"><u>How to Prevent Persistent Starvation Glitches From Crashing PC Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-wont-ring-on-alarm-top-5-troubleshooting-steps/"><u>IPhone Won't Ring on Alarm – Top 5 Troubleshooting Steps</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-ricoh-printer-drivers-compatible-with-microsoft-windows-download-and-guide/"><u>Latest Ricoh Printer Drivers Compatible with Microsoft Windows: Download & Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-gameplay-smoothness-how-to-eliminate-unresponsive-behavior-and-freezes-in-pubg-for-optimal-pc-gaming-experience/"><u>Mastering Gameplay Smoothness: How To Eliminate Unresponsive Behavior & Freezes in PUBG for Optimal PC Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-gray-screens-resolving-halo-infinites-black-screen-error/"><u>No More Gray Screens: Resolving Halo Infinite’s Black Screen Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-issues-with-non-delivery-of-skype-messages-a-comprehensive-guide/"><u>Resolving Issues with Non-Delivery of Skype Messages: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-found-fixes-two-point-fall-in-pc-games-frame-rate-performance/"><u>Solution Found! Fixes Two-Point Fall in PC Game's Frame Rate Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-fortnite-video-memory-crash-effective-fixes-and-workarounds/"><u>Solve Fortnite Video Memory Crash: Effective Fixes & Workarounds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-when-your-minecraft-load-screen-wont-proceed/"><u>Troubleshooting Tips When Your Minecraft Load Screen Won't Proceed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-adobe-photos-sway-decrease-a-crucial-feature/"><u>[New] Adobe Photos' Sway Decrease - A Crucial Feature?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-elevating-the-chilly-selecting-five-warm-video-backgrounds/"><u>[New] In 2024, Elevating the Chilly Selecting Five Warm Video Backgrounds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-top-5-mkv-players-for-mac/"><u>[New] Top 5 MKV Players for Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-professional-insights-crafting-and-sharing-360-videos-on-fb/"><u>[Updated] In 2024, Professional Insights Crafting & Sharing 360 Videos on FB</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/show/"><u>「ビデオ解像度調整テクニック集：パワフル編集のコツ見つけまSHOW!」</u></a></li>
+<li><a href="https://win-able.techidaily.com/cs2-crashes-resolved-master-the-latest-fixes-to-ensure-uninterrupted-gaming-on-your-pc-2024-edition/"><u>CS2 Crashes Resolved: Master the Latest Fixes to Ensure Uninterrupted Gaming on Your PC - 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010513859-definitive-fix-for-preventing-mass-effect-le-from-freezing-or-crashing-a-gamers-guide/"><u>Definitive Fix for Preventing Mass Effect LE From Freezing or Crashing: A Gamer's Guide.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-generate-custom-emblems-using-exclusive-template-resources/"><u>In 2024, Generate Custom Emblems Using Exclusive Template Resources</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/instant-solutions-to-beat-valorants-graphics-driver-error-problem/"><u>Instant Solutions to Beat Valorant’s ‘Graphics Driver Error’ Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-not-responding-error-in-rust-software-ultimate-troubleshooting-guide-for-developers/"><u>Overcome the 'Not Responding' Error in Rust Software: Ultimate Troubleshooting Guide for Developers</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-connection-woes-when-steam-friend-list-is-inaccessible/"><u>Resolving Connection Woes: When Steam Friend List Is Inaccessible</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/simplified-steps-for-capturing-google-voice-calls-for-2024/"><u>Simplified Steps for Capturing Google Voice Calls for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-deathloop-stuttering-issues-tips-for-smooth-gaming-on-pc-and-ps5/"><u>Solving Deathloop Stuttering Issues: Tips for Smooth Gaming on PC and PS5</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-editors-edge-boost-your-tiktok-impact/"><u>The Editor's Edge Boost Your TikTok Impact</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-the-oculus-link-black-screen-with-these-fast-and-easy-methods/"><u>Troubleshoot the Oculus Link Black Screen with These Fast and Easy Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-restoring-msi-mystic-light-capabilities-in-windows-environment/"><u>Troubleshooting Tips: Restoring MSI Mystic Light Capabilities in Windows Environment</u></a></li>
 </ul></div>
 

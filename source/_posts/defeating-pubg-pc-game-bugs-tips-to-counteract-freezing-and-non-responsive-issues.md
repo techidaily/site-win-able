@@ -1,7 +1,7 @@
 ---
 title: "Defeating PUBG PC Game Bugs: Tips to Counteract Freezing and Non-Responsive Issues"
-date: 2024-10-14T05:46:50.927Z
-updated: 2024-10-15T02:34:28.902Z
+date: 2024-10-13T18:29:04.543Z
+updated: 2024-10-20T16:42:53.617Z
 tags:
   - win11
   - win10
@@ -57,10 +57,10 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
  If the latest graphics driver doesn’t fix the problem, you can move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
@@ -71,37 +71,10 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the problem persists, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Rollback NVIDIA driver
 
@@ -111,14 +84,50 @@ If the problem persists, take a look at the next fix below.
 2. Type**devmgmt.msc** and click the **OK** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Restart your PC for the change to take effect.
 
 If this fix doesn’t bring luck, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Underclock your GPU core
 
@@ -131,6 +140,13 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 3. Open the software and find your graphics card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-featured.jpg)
 4. Because of the different PC environments, you may need to keep adjusting the Core Clock until you’re no longer freezing.  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Here we suggest underclocking your GPU Core Clock by 400 MHz and memory clock 500 MHz.
 5. In MSI Afterburner, change your power limit to 80%.
@@ -149,13 +165,6 @@ If it’s still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Play New World to check.
 
  If changing graphics settings don’t give you luck, continue to the next fix below.
@@ -170,13 +179,6 @@ If it’s still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
@@ -188,10 +190,10 @@ If it’s still not working, try the next fix.
  Once you’ve finished the process, restart your PC and check if New World freezing again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Move the files to the SSD drive
@@ -219,24 +221,24 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ace-google-meet-selecting-ideal-video-call-bgs/"><u>[New] 2024 Approved Ace Google Meet Selecting Ideal Video Call BGs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-essential-list-of-8-authentic-youtube-boosters/"><u>[New] In 2024, The Essential List of 8 Authentic YouTube Boosters</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-from-unsteady-to-steady-tips-for-fixing-gopro-video-jitters/"><u>[Updated] 2024 Approved From Unsteady to Steady Tips for Fixing GoPro Video Jitters</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-quick-start-guide-recording-your-pcs-display-with-hp-for-2024/"><u>[Updated] Quick Start Guide Recording Your PC's Display with HP for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-shift-twitter-video-preview-panel/"><u>[Updated] Shift Twitter Video Preview Panel</u></a></li>
-<li><a href="https://win-able.techidaily.com/7-simple-solutions-to-stop-halo-infinite-from-crashing-on-your-computer/"><u>7 Simple Solutions to Stop Halo Infinite From Crashing on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-fix-ghost-runners-unwanted-crashes-on-your-windows-10-device/"><u>Expert Tips to Fix Ghost Runner's Unwanted Crashes on Your Windows 10 Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-smooth-out-glitches-in-star-wars-jedi-fallen-order-on-pcs/"><u>Expert Tips to Smooth Out Glitches in 'Star Wars Jedi: Fallen Order' On PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-pc-game-hitman-3-crashes-top-5-expert-strategies/"><u>Fix PC Game 'Hitman 3' Crashes: Top 5 Expert Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-helldivers-ii-resolving-the-black-screen-issue-upon-game-start/"><u>Fixing Helldivers II: Resolving the Black Screen Issue Upon Game Start</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-t630-up-and-running-on-win7810-driver-download-links-here/"><u>Get Your Logitech T630 Up and Running on Win7/8/10 - Driver Download Links Here!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-the-freezing-problems-in-cyberpunk-rewind-for-pc-players/"><u>How to Resolve the Freezing Problems in Cyberpunk: Rewind for PC Players</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-svchostexe-high-cpu-consumption-issue-in-windows-11/"><u>Resolving the svchost.exe High CPU Consumption Issue in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996339886-say-goodbye-to-persistent-screen-flutter-fix-the-irritating-glitch-now/"><u>Say Goodbye to Persistent Screen Flutter: Fix the Irritating Glitch Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/simple-solutions-unfreeze-your-windows-11-with-chrome-troubleshooting-tips/"><u>Simple Solutions: Unfreeze Your Windows 11 with Chrome Troubleshooting Tips</u></a></li>
-<li><a href="https://article-posts.techidaily.com/sleepy-sequences-examining-bedtime-story-video-adaptations/"><u>Sleepy Sequences Examining Bedtime Story Video Adaptations</u></a></li>
-<li><a href="https://win-able.techidaily.com/steps-to-repair-windows-incompatibility-problems-with-logitech-input-device-setup-utility/"><u>Steps to Repair Windows Incompatibility Problems with Logitech Input Device Setup Utility</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-the-causes-of-public-enrolment-termination-in-digital-services-by-authorities/"><u>Understanding the Causes of Public Enrolment Termination in Digital Services by Authorities</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/unlock-your-podcast-potential-advanced-techniques-for-idevice-audio-recording-for-2024/"><u>Unlock Your Podcast Potential Advanced Techniques for iDevice Audio Recording for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-optimizing-your-online-presence-zooming-into-tiktok-videos/"><u>[New] 2024 Approved Optimizing Your Online Presence Zooming Into TikTok Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellent-collection-top-webcam-grips-and-mounts/"><u>[New] Excellent Collection Top Webcam Grips & Mounts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-enhance-your-gopro-videos-time-lapse-guide/"><u>[Updated] 2024 Approved Enhance Your GoPro Videos Time-Lapse Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/100plus-best-whatsapp-bio-ideas-for-12-zodiac-signs-for-2024/"><u>100+ Best Whatsapp Bio Ideas for 12 Zodiac Signs for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/arma-3-stability-solutions-top-fixes-for-game-crashing-glitches-updated-guide/"><u>Arma 3 Stability Solutions: Top Fixes for Game-Crashing Glitches - Updated Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-bandwidth-exploring-revolutionary-5g-applications-that-surpass-connectivity-deep-dive-with-zdnet/"><u>Beyond Bandwidth: Exploring Revolutionary 5G Applications That Surpass Connectivity | Deep Dive with ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehve-solutions-to-eliminate-stuttering-and-increase-frame-rates-in-pc-gaming-environments/"><u>Comprehve Solutions to Eliminate Stuttering and Increase Frame Rates in PC Gaming Environments.</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010038016-elevate-your-gaming-session-strategies-for-fps-boost-and-smooth-playing-in-the-ascent/"><u>Elevate Your Gaming Session: Strategies for FPS Boost & Smooth Playing in The Ascent</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011342095-fix-a-sluggish-chrome-browser-fast-simple-solutions/"><u>Fix a Sluggish Chrome Browser Fast: Simple Solutions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-overwatchs-first-time-boot-dilemma-no-image-showed/"><u>Fixing Overwatch's First-Time Boot Dilemma – No Image Showed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guida-pratica-trasformare-i-tuoi-video-per-luso-su-iphone-con-ease/"><u>Guida Pratica: Trasformare I Tuoi Video per L'Uso Su iPhone Con Ease</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-honor-100-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-terraria-from-crashing-expert-guidance-and-tips/"><u>How to Stop Terraria From Crashing : Expert Guidance and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/proven-solutions-to-helldivers-2-pc-crash-issues/"><u>Proven Solutions to Helldivers 2 PC Crash Issues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-samsung-galaxy-z-fold-5-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Samsung Galaxy Z Fold 5 has been deleted.</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-solution-to-prevent-mordhau-from-exiting-unexpectedly-troubleshooting-steps-inside/"><u>The Definitive Solution to Prevent Mordhau From Exiting Unexpectedly - Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/ubisoft-connect-issues-troubleshooting-and-fixes/"><u>Ubisoft Connect Issues : Troubleshooting and Fixes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-advanced-ai-dialogue-capabilities-with-free-unbounded-gpt-substitutes-for-windows-enthusiasts/"><u>Unlock Advanced AI Dialogue Capabilities with Free, Unbounded GPT Substitutes for Windows Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/visibility-restored-for-youtube-shorts-post-update-for-2024/"><u>Visibility Restored for YouTube Shorts Post-Update for 2024</u></a></li>
 </ul></div>
 

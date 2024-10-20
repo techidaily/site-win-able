@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2020 Stops Responding? Here's How You Can Unfreeze It!
-date: 2024-10-13T23:54:54.628Z
-updated: 2024-10-15T05:38:04.234Z
+date: 2024-10-14T19:54:13.573Z
+updated: 2024-10-20T16:29:15.906Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Add an exception to your antivirus
 
  Many players have indicated their game files were blocked by antivirus software and caused the issue. Try this fix especially you’re an Avast or Avg user. They had virus definitions updated which mistakingly blocks steam/fm.exe.  
@@ -53,16 +46,24 @@ Take Avast as an example:
 4. Click**Exception > Add Exception** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
 
 If it’s not your antivirus software, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
@@ -104,20 +105,21 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this fix bring no luck, move to the next fix.
@@ -131,21 +133,14 @@ If this fix bring no luck, move to the next fix.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If it’s still not working, you may try resetting your whole PC. Note that you need to backup important files before resetting. Some players indicated the game started working normally after that.
@@ -169,22 +164,18 @@ If this fix bring no luck, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/fixed-dead-by-daylight-keeps-crashing-2024-tips/"><u>[Fixed] Dead by Daylight Keeps Crashing | 2024 Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-essential-video-promo-tips-for-startups-infographic/"><u>[Updated] 2024 Approved Essential Video Promo Tips for Startups (Infographic)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1-step-by-step-guide-recording-your-favorite-shows-with-a-spectrum-tv-box/"><u>1. Step-by-Step Guide: Recording Your Favorite Shows with a Spectrum TV Box</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-storyboards-to-shortcuts-instra-to-tiksync-guide/"><u>2024 Approved From Storyboards to Shortcuts Instra-to-TikSync Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011205961-boost-your-survival-game-in-dayz-improve-item-drops-now/"><u>Boost Your Survival Game in DayZ - Improve Item Drops Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquering-the-darkness-effective-solutions-for-cyberpunk-2077s-black-screen-conundrum/"><u>Conquering the Darkness: Effective Solutions for Cyberpunk 2077'S Black Screen Conundrum</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-and-solving-the-persistent-issue-of-minecraft-dungeons-frequent-pc-freezes/"><u>Diagnosing & Solving the Persistent Issue of Minecraft Dungeon's Frequent PC Freezes</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-silent-skies-troubleshooting-the-skyrim-audio-issue/"><u>Fixing Silent Skies: Troubleshooting the Skyrim Audio Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/genetic-variations-in-the-cytochrome-p45amoeba-methylene-blue-enzymes-may-lead-to-slower-or-faster-clearance-of-drugs-impacting-their-efficacy-and-potential590/"><u>Genetic Variations in the Cytochrome P45amoeba Methylene Blue Enzymes May Lead to Slower or Faster Clearance of Drugs, Impacting Their Efficacy and Potential for Harm.</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-7-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 7</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-your-devices-persistent-black-screen-dilemma-resolved/"><u>How to Fix Your Device's Persistent Black Screen Dilemma - Resolved!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-archive-in-minutes-with-these-tools/"><u>In 2024, Instagram Archive in Minutes with These Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/lost-ark-for-pc-troubleshooting-and-fixing-persistent-crash-errors/"><u>Lost Ark for PC: Troubleshooting and Fixing Persistent Crash Errors</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/mart-youtubers-playbook-fixing-short-snafus/"><u>The Smart Youtuber's Playbook Fixing Short Snafus</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-truth-behind-my-decision-to-stop-suggesting-100-cpu-heatsinks/"><u>The Truth Behind My Decision to Stop Suggesting $100 CPU Heatsinks</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-the-dell-inspiron-14-plus-74aster-dragon-enthusiasts-guide/"><u>Understanding the Dell Inspiron 14 Plus (74Aster Dragon Enthusiasts' Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/yongnuo-yn560-iv-wireless-flash-speedlite-master-review/"><u>Yongnuo YN560 IV Wireless Flash Speedlite Master Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-production-to-publication-streamlining-video-submission/"><u>[New] In 2024, From Production to Publication Streamlining Video Submission</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-budget-enthusiasts-choices-the-right-gopro-add-ons-for-newbies/"><u>2024 Approved Budget Enthusiasts Choices The Right GoPro Add-Ons for Newbies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unforgettable-cinematic-journey-top-15-timeless-motion-pictures/"><u>2024 Approved Unforgettable Cinematic Journey - Top 15 Timeless Motion Pictures</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/bypassing-recent-vpn-troubles-after-windows-2023-update-find-solutions-now/"><u>Bypassing Recent VPN Troubles After Windows 2023 Update? Find Solutions Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-fix-heartcrashes-on-pc-to-enjoy-uninterrupted-play-in-hearthstone/"><u>Expert Advice: Fix Heartcrashes on PC to Enjoy Uninterrupted Play in Hearthstone</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-overcoming-battlefield-2042s-stability-issues-on-windows-platforms/"><u>Expert Advice: Overcoming Battlefield 2042'S Stability Issues on Windows Platforms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-capture-flawless-underwater-images-easily-in-7-steps/"><u>In 2024, Capture Flawless Underwater Images Easily in 7 Steps</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/meeting-vanguards-minimum-requirements-improving-your-computers-processor-power/"><u>Meeting Vanguard's Minimum Requirements: Improving Your Computer's Processor Power</u></a></li>
+<li><a href="https://win-able.techidaily.com/phasmophobia-crash-troubles-heres-how-to-resolve-the-latest-issues/"><u>Phasmophobia Crash Troubles? Here's How to Resolve the Latest Issues!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-hevc-h2-files-into-avch264-without-restricting-output-size-top-5-strategies/"><u>Transforming HEVC (H.2지) Files Into AVC/H.264 Without Restricting Output Size: Top 5 Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-directx-issues-in-anno-1800/"><u>Troubleshooting Guide: Fixing DirectX Issues in Anno 1800</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solving-the-starfield-not-starting-issue-on-steam-or-xbox/"><u>Troubleshooting Guide: Solving the 'Starfield Not Starting' Issue on Steam or Xbox</u></a></li>
 </ul></div>
 

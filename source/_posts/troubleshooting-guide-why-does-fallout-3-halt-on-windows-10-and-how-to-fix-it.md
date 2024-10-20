@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Does Fallout 3 Halt on Windows 10 and How to Fix It?"
-date: 2024-10-02T22:34:28.243Z
-updated: 2024-10-08T21:00:46.009Z
+date: 2024-10-15T19:17:07.934Z
+updated: 2024-10-20T19:51:37.966Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 4. **[Update your graphics card drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Fallout 3](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Play in Windowed mode
 
  Sometimes, game freezing issue can be easily solved by changing the game’s display options. Play the game in Windowed mode when you meet freezes. This method can let you play without freezes for hours.
@@ -46,16 +53,23 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 4. Relaunch the game and check whether it will freeze or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If using dual monitors, disable your second one from your**Windows display settings** .  
  Ensure that the resolution of the game matches that of your display monitors.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Edit your configuration file
 
@@ -69,25 +83,26 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
@@ -98,13 +113,6 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. In the LOCAL FILES tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
@@ -147,10 +155,10 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -161,13 +169,6 @@ OR
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5:**Reinstall**  Fallout 3
 
@@ -194,19 +195,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fb-live-streaming-to-perfect-mp3-format-2023-converter/"><u>[New] In 2024, FB Live Streaming to Perfect MP3 Format - 2023 Converter</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-precision-in-screenshots-a-detailed-guide/"><u>[New] In 2024, Precision in Screenshots A Detailed Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-total-gaze-field-vr-device-overview/"><u>[New] Total Gaze Field VR Device Overview</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011648204-cod-wwii-the-forgotten-map-pacific-crash-site-unveiled/"><u>COD: WWII - The Forgotten Map, Pacific Crash Site Unveiled!</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-logitech-g930-microphone-cut-out-issue-a-step-by-step-guide/"><u>Fixing Logitech G930 Microphone Cut-Out Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Nubia Z50 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722986498163-league-of-legends-performance-hiccups-heres-how-to-tackle-them-swiftly/"><u>League of Legends Performance Hiccups? Here's How to Tackle Them Swiftly!</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-halo-infinite-performance-a-guide-to-fixing-persistent-lag-and-crashes-on-your-computer-7-tips/"><u>Mastering Halo Infinite Performance: A Guide to Fixing Persistent Lag and Crashes on Your Computer [7 Tips]</u></a></li>
-<li><a href="https://win-able.techidaily.com/portable-driver-easy-unveiled-a-users-manual-for-quick-and-easy-setup-on-any-device/"><u>Portable Driver Easy Unveiled: A User's Manual for Quick and Easy Setup on Any Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-for-overcoming-launch-hurdles-with-overwatch-2/"><u>Quick Fixes for Overcoming Launch Hurdles with Overwatch 2</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sea-dwellers-in-focus-tips-for-shooting-stunning-gopro-video-below-water-for-2024/"><u>Sea Dwellers in Focus Tips for Shooting Stunning GoPro Video Below Water for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/by-step-producing-youtube-trailers-using-filmora/"><u>Step-by-Step Producing YouTube Trailers Using Filmora</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-for-fixing-warzones-dev-error-6634-expert-tips-and-solutions/"><u>Step-by-Step Troubleshooting for Fixing Warzone's Dev Error #6634 - Expert Tips & Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-transforming-mundane-footage-into-spectaculair-slow-mo-instareel-for-2024/"><u>[New] Transforming Mundane Footage Into Spectaculair Slow Mo InstaReel for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefront-2-pc-performance-optimization-solving-slow-launch-problems/"><u>Battlefront 2 PC Performance Optimization - Solving Slow Launch Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-2024-solution-manual-fixing-discord-latency-problems/"><u>Complete 2024 Solution Manual: Fixing Discord Latency Problems</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-g2-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo G2 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-noxplayer-from-recurrently-shutting-down-on-laptop-or-computer/"><u>How to Stop Your NoxPlayer From Recurrently Shutting Down on Laptop or Computer</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 11 Pro Max to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-iphone-13-mini-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From iPhone 13 mini If Youve Tried Everything</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-4-essential-steps-to-create-engaging-instagram-loops/"><u>In 2024, The 4 Essential Steps to Create Engaging Instagram Loops</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-or-update-nvidias-geforce-mx150-graphics-card-drivers-on-windows-machines/"><u>Install or Update Nvidia's GeForce MX150 Graphics Card Drivers on Windows Machines</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-continuous-freezing-issues-in-lost-ark-pc-version/"><u>Resolved: Fixes for Continuous Freezing Issues in Lost Ark PC Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-the-persistent-screen-flicker-problem/"><u>Resolved: Fixing the Persistent Screen Flicker Problem</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/screenshot-mastery-using-ezvid-video-makers-pro-tips-and-tricks-for-2024/"><u>Screenshot Mastery Using Ezvid Video Maker's Pro Tips and Tricks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-prevent-and-fix-pc-issues-with-cult-of-the-lamb/"><u>Step-by-Step Guide: Prevent and Fix PC Issues with Cult of the Lamb</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fix-for-outdated-driver-message-in-minecraft-step-by-step/"><u>The Ultimate Fix for 'Outdated Driver Message' In Minecraft - Step by Step</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-a24-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Samsung Galaxy A24</u></a></li>
 </ul></div>
 

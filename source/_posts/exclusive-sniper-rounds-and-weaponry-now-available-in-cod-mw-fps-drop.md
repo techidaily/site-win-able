@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Sniper Rounds and Weaponry Now Available in Cod: MW FPS Drop!"
-date: 2024-10-13T01:00:55.692Z
-updated: 2024-10-14T23:45:53.883Z
+date: 2024-10-16T18:57:26.299Z
+updated: 2024-10-20T20:16:52.962Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
@@ -59,7 +59,21 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If it’s not working, move to next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable overclocking
 
@@ -74,10 +88,10 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
@@ -115,19 +129,6 @@ OR
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Disable firewall/ antivirus software
 
  Chivalry 2 requires players to connect the server to play. If the firewall on your system blocks the way, the game crash would happen. Disable the firewall or antivirus software to see the difference.
@@ -138,13 +139,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -172,22 +166,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/fixed-failed-to-create-opengl-context-for-format-qsurfaceformat/"><u>[FIXED] Failed to Create OpenGL Context for Format QSurFaceFormat</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-gasp-and-guffaw-10-instagram-pages-where-laughter-meets-tears/"><u>[New] 2024 Approved Gasp & Guffaw 10 Instagram Pages Where Laughter Meets Tears</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-mastering-facebook-live-broadcasting-recorded-videos-for-2024/"><u>[New] Mastering Facebook Live Broadcasting Recorded Videos for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-revamping-your-tiktok-videos-a-comprehensible-guide-for-new-borders/"><u>[Updated] Revamping Your TikTok Videos A Comprehensible Guide for New Borders</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-aturbidity/"><u>Battlefield Aturbidity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/download-and-deploy-llama-2-an-easy-to-follow-manual/"><u>Download & Deploy Llama 2: An Easy-to-Follow Manual</u></a></li>
-<li><a href="https://win-able.techidaily.com/free-logitech-g-prodigy-g403-mouse-drivers-and-latest-updates-for-windows/"><u>Free Logitech G Prodigy (G403) Mouse Drivers & Latest Updates for Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-motorola-moto-g24-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Motorola Moto G24 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-first-steps-to-creating-a-successful-online-stream/"><u>In 2024, The First Steps to Creating a Successful Online Stream</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-sound-settings-resolving-zero-acoustics-in-your-twitch-livestream-setup/"><u>Mastering Sound Settings: Resolving Zero Acoustics in Your Twitch Livestream Setup</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-performance-hiccups-in-persona-4-golden-a-solution-guide/"><u>Overcoming Performance Hiccups in Persona 4 Golden: A Solution Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/pro-gamers-fbx-filming-techniques-for-2024/"><u>Pro Gamers' FBX Filming Techniques for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/rainbow-six-extraction-fixed-no-more-pc-crashes/"><u>Rainbow Six Extraction: Fixed – No More PC Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/successfully-installing-and-playing-tiny-tinas-wonderlands-on-your-pc-a-troubleshooting-guide/"><u>Successfully Installing and Playing Tiny Tina's Wonderlands on Your PC: A Troubleshooting Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-microsoft-flight-simulator-2020-fixes-for-persistent-pc-crashes/"><u>Troubleshooting Microsoft Flight Simulator 2020: Fixes for Persistent PC Crashes</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-editing-nikon-videos-a-comprehensive-guide-to-software-and-techniques-for-2024/"><u>Updated Editing Nikon Videos A Comprehensive Guide to Software and Techniques for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oneplus-nord-ce-3-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of OnePlus Nord CE 3 5G?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-s21-fe-5g-2023-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy S21 FE 5G (2023) Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/ideal-mic-matches-for-dynamic-camera-use/"><u>Ideal Mic Matches for Dynamic Camera Use</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-best-motorola-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Motorola FRP Bypass Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-a54-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-s23plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy S23+ to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-movement-advanced-transition-techniques-with-kinemaster-for-2024/"><u>Mastering Movement Advanced Transition Techniques with Kinemaster for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-tips-for-stunning-gopro-timelapse-projects/"><u>Pro Tips for Stunning GoPro Timelapse Projects</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-converting-your-vcds-into-high-quality-mp3-files/"><u>Step-by-Step Guide: Converting Your VCDs Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-instructions-on-eliminating-cover-images-in-mp3-tracks/"><u>Step-by-Step Instructions on Eliminating Cover Images in MP3 Tracks</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-mastery-how-to-extract-cherished-melodies-and-scenes-from-blizzard-game-mpq-files/"><u>Step-by-Step Mastery: How To Extract Cherished Melodies and Scenes From Blizzard Game MPQ Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-streaming-webm-videos-on-your-android-device-a-step-by-step-guide/"><u>Successfully Streaming WebM Videos on Your Android Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-buzz-around-project-gemini-what-is-its-role-in-advancing-ai/"><u>The Buzz Around Project Gemini: What Is Its Role in Advancing AI?</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-top-11-free-web-based-tools-for-converting-avi-files-into-mp4-format/"><u>The Ultimate Guide: Top 11 Free, Web-Based Tools for Converting AVI Files Into MP4 Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-4-free-avi-to-mp4-conversion-tools-for-windows-mac-and-online-platforms/"><u>Top 4 FREE AVI to MP4 Conversion Tools for Windows, Mac & Online Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-for-converting-youtube-videos-into-high-quality-webm-format-without-a-watermark/"><u>Top Strategies for Converting YouTube Videos Into High-Quality WebM Format without a Watermark</u></a></li>
 </ul></div>
 

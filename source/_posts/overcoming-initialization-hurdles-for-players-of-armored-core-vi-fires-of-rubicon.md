@@ -1,7 +1,7 @@
 ---
 title: Overcoming Initialization Hurdles for Players of Armored Core VI - Fires of Rubicon
-date: 2024-10-11T05:16:34.188Z
-updated: 2024-10-15T02:10:16.950Z
+date: 2024-10-13T17:16:53.335Z
+updated: 2024-10-20T18:45:36.554Z
 tags:
   - win11
   - win10
@@ -37,6 +37,19 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
  If you have trouble updating the game, you might just need a simple reboot.
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  You can’t expect your game to work fine if there’re files missing or broken. So first you need to**run a scan of your game folder** .
@@ -47,13 +60,6 @@ Here’s how to do it on the Epic Games client:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
 
 Now you can try again and see if Civ 6 launches.
@@ -61,10 +67,10 @@ Now you can try again and see if Civ 6 launches.
 If this doesn’t help, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -78,6 +84,13 @@ If this doesn’t help, you can take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -86,19 +99,6 @@ If this doesn’t help, you can take a look at the next fix below.
  After updating your graphics driver, restart your computer and check if Civ 6 works now.
 
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -109,10 +109,10 @@ If this doesn’t help, you can take a look at the next fix below.
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -122,13 +122,6 @@ If this doesn’t help, you can take a look at the next fix below.
  Once you’ve installed all the system updates, check if you can get Civ 6 working now.
 
 If this solution doesn’t help, you can continue to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -144,28 +137,28 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
 If a clean boot doesn’t help, you can check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Install the latest Visual C++ redistributable
@@ -183,6 +176,13 @@ If a clean boot doesn’t help, you can check out the next fix.
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -205,18 +205,24 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/fixed-grounded-crashing-on-pc-2024-tips/"><u>[Fixed] Grounded Crashing on PC – 2024 Tips</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-masterful-content-creation-with-these-top-editing-tools/"><u>[New] 2024 Approved Masterful Content Creation with These Top Editing Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-thrilling-rides-recorded-top-action-cam-gear-for-23-bikers/"><u>[New] Thrilling Rides Recorded – Top Action Cam Gear for '23 Bikers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-amusing-tones-bestringeonsite-roundup/"><u>[Updated] 2024 Approved Amusing Tones Bestringeonsite Roundup</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-top-10-most-immersive-youtube-vr-films/"><u>[Updated] 2024 Approved Top 10 Most Immersive YouTube VR Films</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cambia-de-formato-sin-problemas-convertir-m4a-a-vob-en-la-web-sin-gastos-con-movavi/"><u>Cambia De Formato Sin Problemas: Convertir M4A a VOB en La Web Sin Gastos Con Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-and-prevent-frequent-crashes-of-fuser-app-on-your-computer/"><u>Fix & Prevent Frequent Crashes of Fuser App on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-phasmophobia-freezes-and-glitches-effective-solutions/"><u>Fixing Phasmophobia Freezes & Glitches: Effective Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-qbittorrent-back-on-track-tips-to-fix-it-when-paused-or-stuck/"><u>Get Your qBittorrent Back on Track: Tips to Fix It when Paused or Stuck</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-archive-your-conversations-with-chatgpt/"><u>How to Archive Your Conversations with ChatGPT</u></a></li>
-<li><a href="https://win-able.techidaily.com/illuminate-your-gameplay-essential-techniques-to-fix-minecrafts-blackout-screens-update/"><u>Illuminate Your Gameplay: Essential Techniques to Fix Minecraft's Blackout Screens Update</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-rdr2-stability-overcoming-pc-game-crashes-with-these-fixes/"><u>Mastering RDR2 Stability: Overcoming PC Game Crashes with These Fixes</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-best-mts-video-editors-top-picks/"><u>Updated 2024 Approved Best MTS Video Editors Top Picks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-essential-elements-for-fascinating-vlog-dialogues-for-2024/"><u>[New] Essential Elements for Fascinating Vlog Dialogues for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-project-pics-blend-outside-focus-with-radial-filters-psx/"><u>[New] Project Pics Blend Outside Focus with Radial Filters PSX</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-affordable-overseas-vr-headsets-china/"><u>2024 Approved Affordable Overseas VR Headsets (China)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/advanced-techniques-for-capturing-vr-content-on-iphone-for-2024/"><u>Advanced Techniques for Capturing VR Content on iPhone for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-practices-solving-windows-11-bluetooth-connection-issues/"><u>Best Practices: Solving Windows 11 Bluetooth Connection Issues</u></a></li>
+<li><a href="https://win-best.techidaily.com/best-strategies-for-effective-thumb-drive-data-retrieval/"><u>Best Strategies for Effective Thumb Drive Data Retrieval</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-honor-x50i-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor X50i Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-solutions-fixing-the-frozen-taskbar-on-windows-11/"><u>Top Solutions: Fixing the Frozen Taskbar on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/transcoding-avi-videos-into-divx-format-on-various-operating-systems/"><u>Transcoding AVI Videos Into DivX Format on Various Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-how-to-perfectly-downsize-videos-for-instagram-without-a-watermark/"><u>Ultimate Guide: How to Perfectly Downsize Videos for Instagram Without a Watermark</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-tutorial-recording-live-videos-across-various-gadgets/"><u>Ultimate Tutorial: Recording Live Videos Across Various Gadgets</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-slow-down-the-10-best-video-players-for-smooth-playback/"><u>Updated 2024 Approved Slow Down The 10 Best Video Players for Smooth Playback</u></a></li>
+<li><a href="https://win-able.techidaily.com/win-a-free-wonderfox-dvd-video-converter-in-our-2015-summer-heat-beating-challenge/"><u>Win a Free WonderFox DVD Video Converter in Our 2015 Summer Heat-Beating Challenge!</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-10youtube/"><u>Windows 10で簡単な方法：YouTubeビデオの記録ガイド</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726027864775-windows/"><u>Windows フォトアプリ内で簡単に動画の向き変える手順</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029914762-windowsiphoneandroid/"><u>WindowsとiPhone、Androidにおすすめ! オールナイトニッポンを簡単に録音するためのベストプラクティス</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726030018051-youtube/"><u>YouTube動画フリーコンテンツダウンロードセキュア保存手順</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726026532307-mp3/"><u>ビデオ録画音声抽出MP3変換法と、お得なフリーサイト</u></a></li>
 </ul></div>
 

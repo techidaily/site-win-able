@@ -1,7 +1,7 @@
 ---
 title: "Fixes Address Framerate Issues in Cyberpunk 2077: A Comprehensive Update"
-date: 2024-10-13T03:12:57.303Z
-updated: 2024-10-15T02:54:50.299Z
+date: 2024-10-19T16:58:08.058Z
+updated: 2024-10-20T19:56:55.125Z
 tags:
   - win11
   - win10
@@ -41,6 +41,19 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
   
 ![uncheck bonus content under DLC to fix Cyberpunk 2077 download stuck ](https://images.drivereasy.com/wp-content/uploads/2020/12/click-on-Properties-on-Steam.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select the tab**DLC** . Then uncheck the box**Cyberpunk 2077 Bonus Content** . (If the DLC portion isn’t popping up for you, try restarting your computer and after that, try to log in to your Steam account.)  
   
 ![uncheck bonus content under DLC to fix Cyberpunk 2077 download stuck ](https://images.drivereasy.com/wp-content/uploads/2020/12/DLC-uncheck-install.jpg)
@@ -49,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Change Steam download server
 
  When there are so many players downloading the game, servers might be overloaded. Changing Steam download server can help you fix it. Here are the steps you can take:
@@ -63,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
  1) From your Steam Client, open the Settings panel by selecting**Steam** \>**Settings** from the top left client menu.  
   
 ![change the Steam download server location](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the Settings panel, select the**Downloads** tab. Then in the**Download Region** section, choose another download region in the drop-down menu. According to the tests, Asian servers can substantially increase your download speed. It’s probably because there’s less traffic congestion.  
   
@@ -80,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
  You can also check[Steam Download Stats](https://store.steampowered.com/stats/content/) to avoid the high traffic.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Set Steam’s priority to High
 
@@ -93,20 +99,27 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
   
 ![set Steam's priority to high](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) You’re directed to the**Details** tab and**steam.exe** will be highlighted. Right-click it and select**Set priority > High** .  
   
 ![set Steam's priority to high go to details](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-go-to-details.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once done, your game’s unpacking speed should be boosted.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update network adapter driver
 
@@ -150,10 +163,10 @@ Here’s how it works:
 ![clear download cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/12/clear-download-cache.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Select**OK** to confirm and acknowledge that you’ll need to login to Steam again.  
@@ -161,19 +174,25 @@ Here’s how it works:
 ![confirm to clear download cache](https://images.drivereasy.com/wp-content/uploads/2020/12/confirm.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Set a bandwidth limit
@@ -183,13 +202,6 @@ Here’s how it works:
  1) From your Steam Client, open the Settings panel by selecting**Steam** \>**Settings** from the top left client menu.  
   
 ![Steam go to settings](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the Settings panel, select the**Downloads** tab. Then in the**Download Restrictions** section, enter a new value to the box. Once done, simply click**APPLY** to apply the changes.  
   
@@ -216,20 +228,17 @@ Now you should be able to download your game at a faster speed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-laughter-league-twitters-best-jokes/"><u>[New] In 2024, Laughter League Twitter's Best Jokes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-experts-choice-top-10-tools-for-spotify-recordings/"><u>[Updated] The Expert's Choice Top 10 Tools for Spotify Recordings</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unveiling-the-potential-of-luminance-for-hdr-for-2024/"><u>[Updated] Unveiling the Potential of Luminance for HDR for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-navigating-social-media-comparing-igtv-and-youtube-features/"><u>2024 Approved Navigating Social Media Comparing IGTV and YouTube Features</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-chill-tips-to-overcome-freezing-issues-in-call-of-duty-black-ops-cold-war/"><u>Beat the Chill: Tips to Overcome Freezing Issues in Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-innovations-with-toms-hardware-guides/"><u>Exploring Tech Innovations with Tom's Hardware Guides</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-graphics-driver-glitch-on-oculus-devices/"><u>Fixing the Graphics Driver Glitch on Oculus Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-easily-update-corsair-audio-drivers-for-improved-sound-quality-on-windows/"><u>How to Easily Update Corsair Audio Drivers for Improved Sound Quality on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-a-recent-vac-penalty-in-dota-2/"><u>How to Overcome a Recent VAC Penalty in Dota 2</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone X</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/monster-hunter-world-troubleshooting-guide-removing-obstacles-causing-black-out-on-startup/"><u>Monster Hunter: World Troubleshooting Guide - Removing Obstacles Causing 'Black Out on Startup'</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-gaming-experience-why-i-opt-for-apple-arcade/"><u>Seamless Gaming Experience: Why I Opt for Apple Arcade</u></a></li>
-<li><a href="https://win-able.techidaily.com/speeding-up-download-speeds-on-origin-proven-tips-and-tricks-for-gamers-in-202n4/"><u>Speeding Up Download Speeds on Origin - Proven Tips and Tricks for Gamers in 202N4</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-resolving-ghost-runner-game-errors-on-windows-10-pc/"><u>Step-by-Step Guide: Resolving Ghost Runner Game Errors on Windows 10 PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-freezing-chrome-browsers-easily-on-your-windows-10-pc/"><u>Troubleshoot Freezing Chrome Browsers Easily on Your Windows 10 PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-discovering-and-dominating-unique-segments-in-youtube/"><u>[New] 2024 Approved Discovering and Dominating Unique Segments in YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-visual-quality-crusade-is-av1-ahead-in-video-coding/"><u>2024 Approved Visual Quality Crusade Is AV1 Ahead in Video Coding?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/5pya5a6m576o6yg455so/"><u>最完美選用</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-accessing-preserved-instagram-reels-youve-bookmarked/"><u>Easy Steps for Accessing Preserved Instagram Reels You've Bookmarked</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-repair-a-pc-that-fails-to-start-correctly-now-resolved/"><u>How to Successfully Repair a PC That Fails to Start Correctly - Now Resolved!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-efficiently-utilizing-discord-spoiler-features/"><u>In 2024, Efficiently Utilizing Discord Spoiler Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-ultimate-level-pc-launch-dilemma-with-our-latest-fixes-of-2024/"><u>Overcome the Ultimate Level PC Launch Dilemma with Our Latest Fixes of 202^4</u></a></li>
+<li><a href="https://win-top.techidaily.com/problemfall-winloadefi-nicht-gefunden-klone-dein-system-mit-diesen-4-strategien-plus-einem-hilfreichen-ratschlag/"><u>Problemfall Winload.efi Nicht Gefunden - Klone Dein System Mit Diesen 4 Strategien + Einem Hilfreichen Ratschlag</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-csgo-lag-and-stutter-problems-in-just-a-few-simple-steps/"><u>Solving CS:GO Lag and Stutter Problems in Just a Few Simple Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-black-ops-cold-war-overcome-the-errorcode-0xc0000005-issue-now/"><u>Troubleshooting Black Ops Cold War: Overcome the ERROR_CODE 0xC0000005 Issue Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-for-continuous-issues-in-immortals-fenyx-rising-crashes/"><u>Troubleshooting Guide for Continuous Issues in Immortals: Fenyx Rising Crashes</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-source-directory-10-websites-offering-high-definition-video-wallpapers-and-backgrounds-for-2024/"><u>Updated The Ultimate Source Directory 10 Websites Offering High-Definition Video Wallpapers and Backgrounds for 2024</u></a></li>
 </ul></div>
 

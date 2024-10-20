@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips & Tricks: Preventing Elite Dangerous Game Crashes on Windows"
-date: 2024-10-02T23:52:46.121Z
-updated: 2024-10-08T22:52:49.585Z
+date: 2024-10-18T16:28:17.480Z
+updated: 2024-10-20T18:03:43.051Z
 tags:
   - win11
   - win10
@@ -38,18 +38,18 @@ But the good news is that you can fix it. Here’re 9 fixes to try.
 8. **[Run Dota 2 in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall_Dota 2_](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  Sometimes, Dota 2 might crash or stop responding because of a temporary issue that can be fixed with a simple reboot. A restart clears off the current state of your operating system/software and helps you get rid of troublesome codes.
 
 If Dota 2 still crashes randomly, try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update the graphics driver
 
@@ -67,18 +67,18 @@ If Dota 2 still crashes randomly, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -117,13 +117,6 @@ _Dota 2_ may not be able to access certain game files on your computer under nor
 
  You can hopefully play_Dota 2_ without crashing now. If your issue still exists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Verify the integrity of game files
 
 _Dota 2_ is likely to crash when one or more game files are damaged. So you should verify the game files to make sure any corrupt files fixed and missing files installed. Follow the instructions below:
@@ -133,13 +126,6 @@ _Dota 2_ is likely to crash when one or more game files are damaged. So you shou
 **2)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Right-click **Dota 2**  and select **Properties.**
 
@@ -213,19 +199,6 @@ Follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-320.png)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click**Dota 2** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-310.png)
@@ -235,10 +208,10 @@ Follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-312.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Remove any launch options currently shown.
@@ -250,10 +223,10 @@ Follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-316.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **7)** Relaunch the game.
@@ -274,6 +247,13 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-308.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click**SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-311.png)
@@ -289,10 +269,10 @@ If Dota 2 still crashes, check the fix below.
  If your game is still unplayable, you need to**reopen the Launch Options box and clear the launch option.** Then, try the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: Run Dota 2 in compatibility mode
@@ -317,6 +297,13 @@ If Dota 2 still crashes, check the fix below.
 
  If_Dota 2_ runs smoothly now, that’s great! If not, check the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 9: Reinstall_Dota 2_
 
  If the_Dota 2_ crashing issue persists, reinstalling_Dota 2_ might be the solution for you. Follow the instructions below:
@@ -330,6 +317,13 @@ If Dota 2 still crashes, check the fix below.
 **3)**  Right-click **Dota 2**  and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-325.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click**DELETE** .
 
@@ -371,19 +365,20 @@ If Dota 2 still crashes, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-youtube-performance-consistency-in-cc-usage-for-2024/"><u>[New] Elevating YouTube Performance Consistency in CC Usage for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-removing-obstacles-a-guide-to-pristine-visual-backgrounds-in-canva/"><u>[New] In 2024, Removing Obstacles A Guide to Pristine Visual Backgrounds in Canva</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-streamline-video-editing-in-windows-10-photos-using-story-remix/"><u>[New] Streamline Video Editing in Windows 10 Photos Using Story Remix</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-leveraging-fb-media-speeds-up-strategies/"><u>2024 Approved Leveraging FB Media Speeds Up Strategies</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/backpedaling-through-imagery-an-insiders-guide-to-finding-originals-in-instagram-for-2024/"><u>Backpedaling Through Imagery An Insider's Guide to Finding Originals in Instagram for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-your-gaming-experience-by-resolving-fps-issues-within-outriders/"><u>Boosting Your Gaming Experience by Resolving FPS Issues Within Outriders</u></a></li>
-<li><a href="https://win-able.techidaily.com/destiny-2s-beyond-light-update-flawlessly-implemented-on-pc-no-more-crashes/"><u>Destiny 2'S Beyond Light Update Flawlessly Implemented on PC - No More Crashes!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-problem-of-sticky-keys-in-windows-a-step-by-step-guide/"><u>Fixing the Problem of Sticky Keys in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-overcoming-problems-with-non-responsive-outlook-application/"><u>Guide: Overcoming Problems with Non-Responsive Outlook Application</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-i-finally-managed-to-start-rocket-league-after-persistent-problems/"><u>How I Finally Managed to Start Rocket League After Persistent Problems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-lava-yuva-3-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Lava Yuva 3 Pro Phone that is Locked?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ifying-high-impact-keywords-for-effective-youtube-marketing/"><u>Identifying High-Impact Keywords for Effective YouTube Marketing</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-level-up-without-interruptions-overcoming-maplestory-crashing-problems-on-windows-10-updated-tips/"><u>Master Level-Up Without Interruptions: Overcoming MapleStory Crashing Problems on Windows 10 (Updated Tips)</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-black-ops-cold-war-error-code-0xc0000005-a-step-by-step-solution/"><u>Overcoming Black Ops Cold War Error Code 0Xc0000005 - A Step-by-Step Solution</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-innovations-in-mobile-photography-a-look-at-iphone-x/"><u>[New] Innovations in Mobile Photography A Look at iPhone X</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-leveraging-tweet-sharing-for-facebook-audience-for-2024/"><u>[New] Leveraging Tweet Sharing for Facebook Audience for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-resizing-imagery-on-iphone-without-hassle/"><u>[Updated] 2024 Approved Resizing Imagery on iPhone Without Hassle</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-the-foundation-of-motion-visualization/"><u>2024 Approved Understanding the Foundation of Motion Visualization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/archivage-des-films-sur-vhs-une-solution-digitale-passionnelle-chez-movavi/"><u>Archivage Des Films Sur VHS : Une Solution Digitale Passionnelle Chez Movavi</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/latest-fixes-to-stop-maplestory-from-crashing-on-your-pc-running-windows-10/"><u>Latest Fixes to Stop MapleStory From Crashing on Your PC Running Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/leadership-and-responsibility/"><u>Leadership and Responsibility</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-freezes-in-battlefield-2042-ultimate-fixes-for-steady-gaming-experience-on-pc/"><u>No More Freezes in Battlefield 2042 – Ultimate Fixes for Steady Gaming Experience on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-persistent-leaf-glitch-of-2022-in-apex-legends-effective-strategies/"><u>Overcoming the Persistent Leaf Glitch of 2022 in Apex Legends: Effective Strategies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/razer-book-one-evaluation-portable-powerhouse-performance-exposed/"><u>Razer Book One Evaluation: Portable Powerhouse Performance Exposed</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-discord-overlay-problems-instantly-effective-tips-and-tricks/"><u>Solve Discord Overlay Problems Instantly - Effective Tips and Tricks!</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-activating-and-setting-up-hyper-v-on-your-windows-10-system/"><u>Step-by-Step Guide: Activating and Setting Up Hyper-V on Your Windows 10 System</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-your-astro-a50-headset-is-unresponsive-in-the-command-center/"><u>Troubleshooting Steps When Your Astro A50 Headset Is Unresponsive in the Command Center</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-s23-ultra-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy S23 Ultra Phone Network-Ready</u></a></li>
 </ul></div>
 

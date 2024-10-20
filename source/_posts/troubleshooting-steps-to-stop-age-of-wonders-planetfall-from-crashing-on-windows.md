@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps to Stop Age of Wonders: Planetfall From Crashing on Windows"
-date: 2024-10-11T21:14:24.360Z
-updated: 2024-10-15T05:00:25.799Z
+date: 2024-10-13T19:14:56.235Z
+updated: 2024-10-20T19:27:09.709Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Run the troubleshooter
@@ -55,13 +55,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
@@ -71,16 +64,16 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
@@ -94,22 +87,29 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
 
@@ -157,16 +157,36 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -178,23 +198,9 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -220,18 +226,22 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-how-to-use-snap-camera-on-google-meet-for-2024/"><u>[New] How to Use Snap Camera on Google Meet for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-best-video-software-vlc-against-mx/"><u>[New] Unveiling Best Video Software VLC Against MX</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ultimate-top-11-list-excellent-audio-devices/"><u>2024 Approved Ultimate Top 11 List Excellent Audio Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/aurora-hdr-superior-or-subpar-imaging/"><u>Aurora HDR Superior or Subpar Imaging?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/celebrating-a-successful-decade-at-mondlyback/"><u>Celebrating a Successful Decade at MondlyBack</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-8-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://win-able.techidaily.com/launch-unveiled-the-dual-forces-behind-it-takes-two-success/"><u>Launch Unveiled: The Dual Forces Behind 'It Takes Two' Success</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-game-sounds-a-comprehensive-fix-for-halo-infinites-audio-problems/"><u>Mastering Game Sounds: A Comprehensive Fix for Halo Infinite's Audio Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-cold-start-ensuring-seamless-launch-of-cod-black-ops-cold-war-on-pc-systems/"><u>Mastering The Cold Start: Ensuring Seamless Launch of Cod: Black Ops Cold War on PC Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-youtube-crashes-in-their-tracks-expert-fixes-unveiled-here/"><u>Stop YouTube Crashes in Their Tracks: Expert Fixes Unveiled Here</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-choosing-the-perfect-apple-watch-band-in-2eplust-expertly-reviewed/"><u>Ultimate Guide to Choosing the Perfect Apple Watch Band in 2E+t! | Expertly Reviewed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/winx-macdvd-mp4-mpeg-flv-mp3itunes/"><u>WinX Mac版無料DVDエクストラックャー - MP4, MPEG, FLV, MP3に直接iTunes保存可能な変換ツール</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-comparison-between-sharex-and-rivals-for-2024/"><u>[New] The Ultimate Comparison Between ShareX & Rivals for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-vanguard-virtual-venture-voice/"><u>[New] Vanguard Virtual Venture Voice</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-deciphering-the-code-a-deep-dive-into-recording-whatsapp-messages-for-2024/"><u>[Updated] Deciphering the Code A Deep Dive Into Recording WhatsApp Messages for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-create-unique-audio-trailers-at-zero-expense/"><u>2024 Approved Create Unique Audio Trailers at Zero Expense</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-from-amateur-to-expert-iphones-audio-recording-journey/"><u>2024 Approved From Amateur to Expert IPhone's Audio Recording Journey</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-honor-100-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Honor 100 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhanced-stability-the-latest-patch-makes-euro-truck-simulator-2-crash-free-on-pcs/"><u>Enhanced Stability - The Latest Patch Makes Euro Truck Simulator 2 Crash-Free on PC's</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-no-more-deciphering-and-fixing-minecrafts-infamous-exit-code-0/"><u>Error No More: Deciphering and Fixing Minecraft's Infamous 'Exit Code 0'</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-non-launching-issues-with-pathfinder-wrath-of-the-righteous/"><u>Expert Tips for Resolving Non-Launching Issues with 'Pathfinder: Wrath of the Righteous'</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-correctly-troubleshoot-and-repair-star-wars-battlefront-2-black-screen-glitch/"><u>Expert Tips to Correctly Troubleshoot and Repair Star Wars Battlefront 2 Black Screen Glitch</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-ultimate-guide-to-affordable-online-photo-edits-of-the-year/"><u>In 2024, Ultimate Guide to Affordable Online Photo Edits of the Year</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mp4-file-tag-editors-top-picks-for-windows-and-mac-users/"><u>MP4 File Tag Editors Top Picks for Windows and Mac Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-lost-connectivity-with-destiny-2-servers/"><u>Resolved: How to Fix 'Lost Connectivity with Destiny 2 Servers'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-non-receipt-issues-for-your-inbox-on-yahoo-mail-platform/"><u>Resolving Non-Receipt Issues for Your Inbox on Yahoo Mail Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-preventing-forza-horizon-4-from-crashing-on-your-gaming-pc/"><u>Successfully Preventing Forza Horizon 4 From Crashing on Your Gaming PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-roblox-crashing-on-windows-fast-and-easy-fixes-updated-guide-2-2024/"><u>Troubleshoot Roblox Crashing on Windows Fast & Easy Fixes - Updated Guide (2#) 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/watch-dogs-legion-and-the-unresolved-pc-stability-issues-solutions-at-hand/"><u>Watch Dogs Legion and the Unresolved PC Stability Issues - Solutions at Hand</u></a></li>
 </ul></div>
 

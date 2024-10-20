@@ -1,7 +1,7 @@
 ---
 title: "Fixing the 'Insufficient Memory' Problem in God of War: A Step-by-Step Guide"
-date: 2024-10-09T19:32:45.306Z
-updated: 2024-10-15T05:18:04.283Z
+date: 2024-10-16T20:00:44.700Z
+updated: 2024-10-20T17:23:59.853Z
 tags:
   - win11
   - win10
@@ -59,16 +59,17 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your driver
@@ -86,30 +87,31 @@ There are mainly two ways you can update the driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the Update button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable your integrated graphics
@@ -124,13 +126,6 @@ There are mainly two ways you can update the driver:
 3. Under**Global Settings** , set the preferred graphics processor to your graphics card. Then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Disable integrated graphics through Device Manager** :
 
 1. Click the**Search** icon on the bottom of your screen.
@@ -143,10 +138,16 @@ There are mainly two ways you can update the driver:
 5. Restart the game and check if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update God of War
@@ -161,13 +162,6 @@ There are mainly two ways you can update the driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Repair system files
 
  If your PC has corrupted or missing system files, you would encounter a series of problems that may lead to the God of War memory leak or even crash. Use a repair tool to check various areas in your computer to determine the cause of your exact problem. It will deal with issues related to system errors, critical system files and find the right fit for you.
@@ -179,17 +173,17 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -219,22 +213,24 @@ There are mainly two ways you can update the driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-c-span-video-streaming-without-a-paid-subscription/"><u>[New] C-Span Video Streaming Without a Paid Subscription</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-viral-video-ventures-crafting-addictive-loops-on-ig-for-2024/"><u>[New] Viral Video Ventures Crafting Addictive Loops on IG for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1-teaspoon-salt/"><u>1 Teaspoon Salt</u></a></li>
-<li><a href="https://win-able.techidaily.com/ark-ii-on-pc-crashes-discover-these-9-fixes-for-a-smooth-gaming-experience/"><u>ARK II on PC Crashes? Discover These 9 Fixes for a Smooth Gaming Experience!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-steps-download-and-set-up-hp-photosmart-7520-drivers/"><u>Easy Steps: Download and Set Up HP Photosmart 7520 Drivers</u></a></li>
-<li><a href="https://win-able.techidaily.com/ensuring-steam-game-data-syncs-with-the-cloud-a-comprehebate-guide/"><u>Ensuring Steam Game Data Syncs with the Cloud - A Comprehebate Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-repairing-launch-issues-with-the-thaumaturge-software-on-desktop-systems/"><u>Expert Tips for Repairing Launch Issues with the Thaumaturge Software on Desktop Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/game-on-without-glitches-solving-rocket-league-crashing-issues/"><u>Game On Without Glitches: Solving 'Rocket League' Crashing Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/god-of-war-memory-crash-resolved/"><u>God of War Memory Crash: Resolved!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-persistent-connection-failed-bug-for-game-cheaters-on-eft/"><u>How to Fix the Persistent 'Connection Failed' Bug for Game Cheaters on EFT</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Motorola Moto G Stylus 5G (2023).</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-film-enhancements-15-best-luts-to-boost-gopro-cinematography/"><u>In 2024, Film Enhancements 15 Best LUTs to Boost GoPro Cinematography</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-6s-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 6s Plus iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-discover-the-best-glitch-video-editors-for-desktop-and-online-use-for-2024/"><u>New Discover the Best Glitch Video Editors for Desktop and Online Use for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-correcting-issues-with-a-corrupted-steam-game-disc-swiftly/"><u>Step-by-Step Guide: Correcting Issues with a Corrupted Steam Game Disc Swiftly</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-nintendo-switch-the-pinnacle-of-mobile-game-consoles/"><u>Ultimate Guide to Nintendo Switch: The Pinnacle of Mobile Game Consoles</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solutions-for-stable-gameplay-in-mount-and-blade-ii-bannerlord/"><u>Ultimate Solutions for Stable Gameplay in Mount & Blade II: Bannerlord</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leaders-in-next-gen-sensory-devices/"><u>[New] Leaders in Next-Gen Sensory Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-precision-at-your-fingertips-a-guide-to-screen-recording-on-apple-devices/"><u>[Updated] Precision at Your Fingertips A Guide to Screen Recording on Apple Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-stream-success-starts-here-choosing-the-right-camera-for-twitch/"><u>2024 Approved Stream Success Starts Here Choosing the Right Camera for Twitch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-basics-of-electronic-story-craftsmanship/"><u>2024 Approved The Basics of Electronic Story Craftsmanship</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-infinix-smart-7-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/banishing-the-shadows-effective-solutions-for-overwatch-launch-blackouts/"><u>Banishing the Shadows: Effective Solutions for Overwatch Launch Blackouts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvdmp4/"><u>DVDからMP4への自由移行!制限がない信頼性保証の変換ソフトをご紹介</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-pc-gaming-experience-by-eliminating-lag-and-frames-per-second-fps-dips/"><u>Enhance Your PC Gaming Experience by Eliminating Lag and Frames Per Second (FPS) Dips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-a25-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy A25 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-uninterrupted-gaming-8-remedies-for-vrchat-issues-on-desktops/"><u>Master the Art of Uninterrupted Gaming: 8 Remedies for VRChat Issues on Desktops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-fixes-ensuring-smooth-gameplay-of-forza-horizon-5-on-your-computer/"><u>Mastering Fixes: Ensuring Smooth Gameplay of Forza Horizon 5 on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-multi-fps-drop-problems-a-guide-to-enhancing-pc-gameplay/"><u>Mastering Multi-FPS Drop Problems: A Guide to Enhancing PC Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashes-expert-tips-to-stabilize-the-witcher-3-on-your-pc/"><u>No More Crashes! Expert Tips to Stabilize The Witcher 3 on Your PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/professional-gamers-guide-optimal-video-capture-tips-for-2024/"><u>Professional Gamers' Guide Optimal Video Capture Tips for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722987491146-resident-evil-village-opening-problems-heres-how-you-can-fix-it/"><u>Resident Evil Village Opening Problems? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://win-able.techidaily.com/sharpen-your-gaming-experience-solutions-for-outriders-blurry-image-issues/"><u>Sharpen Your Gaming Experience: Solutions for Outriders' Blurry Image Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-connection-issues-how-to-resolve-no-match-found-in-warzone-on-pc/"><u>Solving Connection Issues: How to Resolve No Match Found in Warzone on PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-must-have-chatgpt-plugins-to-enhance-your-visual-studio-code-experience/"><u>Top 6 Must-Have ChatGPT Plugins to Enhance Your Visual Studio Code Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/yakuza-like-a-dragon-ultimate-gaming-experience-now-flawlessly-running-on-pcs-worldwide/"><u>Yakuza: Like a Dragon – Ultimate Gaming Experience Now Flawlessly Running on PCs Worldwide</u></a></li>
 </ul></div>
 

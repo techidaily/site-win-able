@@ -1,7 +1,7 @@
 ---
 title: Lost Ark Quiet Problems? Here's What You Need To Know About Troubleshooting Sound!
-date: 2024-10-12T19:27:19.647Z
-updated: 2024-10-14T21:13:05.243Z
+date: 2024-10-17T18:12:29.402Z
+updated: 2024-10-20T16:36:15.474Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 4. [Run as Administrator](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check your device
 
  Make sure that the in-game volume isn’t disabled or too low. Then check your computer’s sound configuration and output settings. If everything is working properly, you can move to the next fix.
@@ -49,22 +42,28 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 5. Right-click on your output device and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. In the**Advanced** tab, check the**Exclusive Mode** checkboxes and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/2022-02-21_17-04-18.jpg)
 7. Back to the game and check the audio.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update Windows Media Feature pack
@@ -78,10 +77,10 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 2. Click**Apps and Features > Optional features > Add a feature** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Search or select**Media Feature Pack** in the list of available optional features.
@@ -93,23 +92,16 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/optional-features.jpg)
 2. Click**View features** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/view-features.jpg)
 3. Select the**Media Feature Pack** in the list of available optional features.
 
 4. Relaunch the game and check the audio.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
@@ -132,6 +124,13 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 
 Then, reboot your PC and relaunch the game to check.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Run as Administrator
 
  It’s a quick and easy fix that is worth trying. Run Lost Ark as Administrator so that the system won’t block its settings.
@@ -143,6 +142,13 @@ Then, reboot your PC and relaunch the game to check.
 4. Click the**Apply** \>**OK** button.
 
 5. Relaunch the game and check you have sound or not.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify game files
 
@@ -172,17 +178,20 @@ Then, reboot your PC and relaunch the game to check.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-enhancing-beauty-on-streams-via-color-grading/"><u>[New] Enhancing Beauty on Streams via Color Grading</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-capture-your-gaming-success-on-win10/"><u>[Updated] How to Capture Your Gaming Success on Win10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unleash-the-power-of-your-mi-11s-screen-recording-features-for-2024/"><u>[Updated] Unleash the Power of Your Mi 11'S Screen Recording Features for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-instagram-success-4-looping-video-strategies/"><u>2024 Approved Unlocking Instagram Success 4 Looping Video Strategies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/compatible-realtek-driver-suite-for-various-windows-versions-win11win10win7-free-downloads-available/"><u>Compatible Realtek Driver Suite for Various Windows Versions (Win11/Win10/Win7) – Free Downloads Available!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fast-fixes-how-to-speed-up-your-sluggish-chrome-browser-instantly/"><u>Fast Fixes: How to Speed Up Your Sluggish Chrome Browser Instantly!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-g54-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola G54 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6 Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/phrozen-sonic-mega-8k-styrene-reviewed-why-its-a-game-changer-for-print-farming/"><u>Phrozen Sonic Mega 8K Styrene Reviewed - Why It's a Game-Changer for Print Farming</u></a></li>
-<li><a href="https://win-able.techidaily.com/star-wars-battlefront-2-troubleshooting-fixing-the-notorious-black-screen-issue/"><u>Star Wars Battlefront 2 Troubleshooting - Fixing the Notorious Black Screen Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-fix-persistent-crashes-of-black-desert-on-your-computer/"><u>Troubleshoot & Fix: Persistent Crashes of Black Desert on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-made-easy-comprehensive-solutions-for-steam-error-n130/"><u>Troubleshooting Made Easy: Comprehensive Solutions for Steam Error N130</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ad-based-revenue-tracking-for-youtubers-success-for-2024/"><u>[New] Ad-Based Revenue Tracking for YouTubers' Success for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-twitters-visuals-on-the-social-media-giant-fb-for-2024/"><u>[New] Twitters' Visuals on the Social Media Giant FB for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-master-the-art-of-video-rotation-using-vlc-media-player/"><u>[Updated] In 2024, Master the Art of Video Rotation Using VLC Media Player</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-setting-sail-on-the-content-sea-your-youtube-account-for-2024/"><u>[Updated] Setting Sail on the Content Sea Your YouTube Account for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-meme-masterpiece-wave/"><u>2024 Approved Meme Masterpiece Wave</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024mkvtop6/"><u>2024年推薦の無料MKVプレーヤーTOP6:最高適合コンテンツで楽しむ</u></a></li>
+<li><a href="https://win-able.techidaily.com/crash-no-more-solutions-for-lego-star-wars-the-skywalker-saga-on-pc/"><u>Crash No More! Solutions for 'Lego Star Wars: The Skywalker Saga' On PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-when-the-thaumaturge-app-keeps-failing-to-open-on-windows-1011/"><u>Effective Fixes When The Thaumaturge App Keeps Failing to Open on Windows 10/11</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-techniques-to-enhance-shaders-efficiency-star-wars-battlefront-ii/"><u>Effortless Techniques to Enhance Shaders Efficiency - Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-assassins-creed-valhalla-from-crashing-proven-solutions-for-a-smooth-gaming-experience-2er-2024/"><u>How to Stop Assassin's Creed Valhalla From Crashing: Proven Solutions for a Smooth Gaming Experience, 2Er 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-starcraft-2-from-crashing-on-your-windows-computer/"><u>How to Stop StarCraft 2 From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-steps-for-setting-up-msoffice-in-win11/"><u>Quick Steps for Setting Up MSOffice in Win11</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012968925-say-goodbye-to-rogue-companys-pc-crashes-problem-solved/"><u>Say Goodbye to Rogue Company's PC Crashes - Problem Solved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-dota-2-installation-loading-halted-or-game-wont-open/"><u>Troubleshoot Your Dota 2 Installation: Loading Halted or Game Won’t Open?</u></a></li>
 </ul></div>
 

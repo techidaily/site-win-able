@@ -1,7 +1,7 @@
 ---
 title: "Fixes Found: How to Resolve Constant Freezing in Immortals Fenyx Rising"
-date: 2024-10-06T22:32:56.009Z
-updated: 2024-10-08T23:42:24.090Z
+date: 2024-10-18T20:00:23.959Z
+updated: 2024-10-20T17:59:17.414Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC specs meet the requirements
@@ -77,20 +77,14 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
@@ -129,10 +123,10 @@ If this method doesn’t help, you can take a look at the next one.
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
@@ -145,14 +139,14 @@ And here’s how you can make sure your system is the latest:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -177,24 +171,22 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-limiting-video-size-the-mac-way-to-insta-cutting/"><u>[New] In 2024, Limiting Video Size The Mac Way to Insta-Cutting</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-social-medias-highest-wave-instagrams-thousand-strong-fanbase/"><u>[New] In 2024, Mastering Social Media's Highest Wave - Instagram’s Thousand-Strong Fanbase</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-metaverse-and-omniverse-distinctions/"><u>[Updated] Exploring the Metaverse and Omniverse Distinctions</u></a></li>
-<li><a href="https://win-able.techidaily.com/cod-wwii-troubleshooting-for-persistent-black-screen-issues-in-windows-environments/"><u>COD: WWII Troubleshooting for Persistent Black Screen Issues in Windows Environments</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminating-stuttering-and-unexpected-quits-during-your-serious-sam-grope-on-pc-a-comprehensive-fix-guide/"><u>Eliminating Stuttering & Unexpected Quits During Your Serious Sam Grope on PC – A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-overcoming-black-display-glitches-in-far-cry-6/"><u>Expert Guide: Overcoming Black Display Glitches in Far Cry 6</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-implemented-cod-black-ops-cold-war-now-functional-on-windows/"><u>Fixes Implemented: Cod: Black Ops Cold War Now Functional on Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-repair-vcompdll-cannot-be-found-errors-comprehensive-fixes-for-windows-users/"><u>How to Repair 'vcomp.dll Cannot Be Found' Errors: Comprehensive Fixes for Windows Users</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-expert-guide-6-ways-to-document-your-minecraft-experiences/"><u>In 2024, Expert Guide 6 Ways to Document Your Minecraft Experiences</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-professional-content-creators-guide-studio-vs-beta-platform/"><u>In 2024, Professional Content Creator's Guide Studio Vs. Beta Platform</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-15-pro-unveiled-revolutionary-spatial-recording-capabilities-for-the-upcoming-apple-vision-pro/"><u>IPhone 15 Pro Unveiled: Revolutionary Spatial Recording Capabilities for the Upcoming Apple Vision Pro</u></a></li>
-<li><a href="https://techidaily.com/is-your-lava-yuva-2-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Lava Yuva 2 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leading-cameras-to-document-the-beat-of-2024s-music-scenes/"><u>Leading Cameras to Document the Beat of 2024'S Music Scenes</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-call-of-duty-black-ops-iv-overcoming-lag-issues-and-boosting-performance/"><u>Optimizing Call of Duty: Black Ops IV - Overcoming Lag Issues and Boosting Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solutions-to-stop-the-division-2-from-crashing-effectively/"><u>Quick Solutions to Stop The Division 2 From Crashing Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-issue-of-division-2-failure-to-start-a-step-by-step-guide/"><u>Resolving the Issue of Division 2 Failure to Start : A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-chrome-stalling-issue-in-windows-11-with-these-simple-tips/"><u>Solve Your Chrome Stalling Issue in Windows 11 with These Simple Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-a56s-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo A56s 5G Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-enhancing-utorrents-downloading-efficiency/"><u>Troubleshooting and Enhancing uTorrent's Downloading Efficiency</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mobile-innovators-guide-streamlined-channel-launch-for-entrepreneurs-and-content-makers/"><u>[New] 2024 Approved Mobile Innovators' Guide Streamlined Channel Launch for Entrepreneurs & Content Makers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-photographic-soundtracking-online/"><u>[New] Photographic Soundtracking Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-windows-10s-premier-choice-of-video-grabber-software/"><u>[New] Windows 10'S Premier Choice of Video Grabber Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-resolving-silence-in-tweeted-video-playbacks/"><u>[Updated] Resolving Silence in Tweeted Video Playbacks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-essential-guide-to-radiant-android-videos-for-2024/"><u>[Updated] The Essential Guide to Radiant Android Videos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/curing-far-cry-6s-pc-performance-glitches-a-comprehensive-guide/"><u>Curing Far Cry 6'S PC Performance Glitches: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-insider-tips-for-finding-top-windows-10-deals/"><u>Exclusive Insider Tips for Finding Top Windows 10 Deals</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-your-windows-11-spotlight-photos-when-they-stop-displaying-correctly/"><u>How to Restore Your Windows 11 Spotlight Photos When They Stop Displaying Correctly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-pin-someone-on-snapchat-all-you-need-to-know/"><u>In 2024, How to Pin Someone on Snapchat All You Need to Know</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-removing-backdrops-a-comprehensive-approach/"><u>In 2024, The Ultimate Guide to Removing Backdrops A Comprehensive Approach</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-fortnite-when-it-gets-jammed-at-the-loading-phase/"><u>Resolved: Fixing Fortnite When It Gets Jammed at the Loading Phase</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-doom-eternals-stability-problems-a-step-by-step-guide/"><u>Resolving DOOM Eternal's Stability Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-for-pathfinder-wrath-of-the-righteous-no-more-freezes-on-windows-machines/"><u>Solution Found for 'Pathfinder: Wrath of the Righteous'; No More Freezes on Windows Machines!</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-and-tricks-to-cut-down-long-waits-during-launch-of-star-wars-battlefront-ii-pc/"><u>Tips & Tricks to Cut Down Long Waits During Launch of Star Wars: Battlefront II (PC)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-13-pro-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-the-rainbow-six-siege-black-screen-issue-on-your-pc/"><u>Troubleshooting Guide: Resolving the Rainbow Six Siege Black Screen Issue on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-destiny-2s-broccoli-glitch-comprehensive-guide-to-the-2024-game-update-solution/"><u>Unraveling Destiny 2'S Broccoli Glitch: Comprehensive Guide to the 2024 Game Update Solution</u></a></li>
 </ul></div>
 

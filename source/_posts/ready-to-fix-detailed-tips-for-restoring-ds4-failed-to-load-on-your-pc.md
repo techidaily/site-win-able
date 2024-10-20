@@ -1,7 +1,7 @@
 ---
 title: Ready to Fix? Detailed Tips for Restoring 'DS4 Failed to Load' On Your PC
-date: 2024-10-08T05:13:17.094Z
-updated: 2024-10-14T18:41:31.129Z
+date: 2024-10-16T20:35:04.244Z
+updated: 2024-10-20T18:51:26.419Z
 tags:
   - win11
   - win10
@@ -37,16 +37,10 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1: Disable Discord in Task Manager
@@ -57,6 +51,14 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 2. Type**taskmgr** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14b463b359.jpg)
 3. In the**Process** tab, select any process related with**Discord** , and click**End task** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
  You’ll need to repeat this several times to end Discord task if there are more than one processes for Discord.
 
@@ -71,28 +73,22 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14e6b6694d.jpg)
 3. Your File Explorer will open a window. Right click the**discord folder** and click**Delete** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 
 5. Type_**%LocalAppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
 6. Your File Explorer will open a new window. Right click the**Discord** **folder** and click**Delete** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
-7. Restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
+7. Restart your computer.
 
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
 
@@ -120,10 +116,10 @@ OR
 3. Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
@@ -147,17 +143,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-effortless-downloads-at-zero-cost-find-the-top-20-tools-for-youtube-sound-ripping-for-2024/"><u>[Updated] Effortless Downloads at Zero Cost Find the Top 20 Tools for YouTube Sound Ripping for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-your-digital-footprint-facebook-lives-made-easy-for-2024/"><u>[Updated] Mastering Your Digital Footprint Facebook Lives Made Easy for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1-ultimate-guide-correcting-blurry-video-footage-with-proven-techniques/"><u>1. Ultimate Guide: Correcting Blurry Video Footage with Proven Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-equipment-for-cutting-edge-livestreams/"><u>2024 Approved Premier Equipment for Cutting-Edge Livestreams</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypass-incompatible-system-mark-on-windows-11/"><u>Bypass Incompatible System Mark on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-final-age-running-smoothly-on-your-computer-top-fixes-and-hacks-for-a-seamless-2024/"><u>Get 'Final Age' Running Smoothly on Your Computer: Top Fixes & Hacks for a Seamless 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-black-ops-cold-wars-troublesome-error-0xc00e0005/"><u>How to Resolve Black Ops Cold War's Troublesome Error 0XC00e0005</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y100-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y100 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oppo-a78-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Oppo A78 Data? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-connection-glitches-in-apex-legends-with-these-tips/"><u>Resolve Connection Glitches in Apex Legends with These Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-pc-issues-in-armored-core-6-navigating-the-rubicon-fire/"><u>Solving PC Issues in Armored Core 6: Navigating the Rubicon Fire</u></a></li>
-<li><a href="https://driver-error.techidaily.com/stabilized-external-hdd-controls/"><u>Stabilized External HDD Controls</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unlocking-potential-top-tactics-for-medical-ads-on-social-networks/"><u>[New] In 2024, Unlocking Potential Top Tactics for Medical Ads on Social Networks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-generating-auto-subscribe-hyperlinks-to-your-channels-yt/"><u>[Updated] 2024 Approved Generating Auto-Subscribe Hyperlinks to Your Channel's YT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bridging-scripts-with-voices-turning-xmlttml-into-srt/"><u>2024 Approved Bridging Scripts with Voices Turning XML/TTML Into SRT</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-honor-v-purse-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Honor V Purse to Roku | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-honor-80-pro-straight-screen-edition-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor 80 Pro Straight Screen Edition Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-you-submerge-your-iphone-13-without-damage/"><u>Can You Submerge Your iPhone 13 Without Damage?</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-origin-application-failure-to-start-up/"><u>Fixing Origin Application Failure to Start Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-roblox-load-issues-solutions-for-a-smooth-gameplay-experience/"><u>Fixing Roblox Load Issues: Solutions for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-your-game-library-resolve-warzone-disc-read-errors-50-31-for-pc-users/"><u>Fixing Your Game Library: Resolve Warzone Disc Read Errors [5.0, 3.1] for PC Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-repair-your-broken-hp-display-expert-advice/"><u>How to Repair Your Broken HP Display – Expert Advice</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/lost-in-digital-battlefields-reboot-your-link-with-blizzard-gaming-servers-now/"><u>Lost in Digital Battlefields? Reboot Your Link with Blizzard Gaming Servers Now</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-skyfall-solving-launch-issues-in-how-to-build-a-city-sims-3/"><u>Troubleshooting SkyFall: Solving Launch Issues in How to Build a City - Sims 3</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unboxing-and-testing-the-third-gen-apple-airpods-key-upgrades-and-performance-insights-review/"><u>Unboxing & Testing the Third-Gen Apple AirPods: Key Upgrades and Performance Insights Review</u></a></li>
 </ul></div>
 

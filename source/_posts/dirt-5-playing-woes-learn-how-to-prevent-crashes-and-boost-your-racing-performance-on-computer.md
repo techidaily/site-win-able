@@ -1,7 +1,7 @@
 ---
 title: Dirt 5 Playing Woes? Learn How to Prevent Crashes and Boost Your Racing Performance on Computer
-date: 2024-10-13T01:33:21.876Z
-updated: 2024-10-14T19:02:42.142Z
+date: 2024-10-17T16:30:15.521Z
+updated: 2024-10-20T19:49:12.349Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
@@ -67,6 +67,13 @@ The outdated or broken graphics driver often crashes the game.
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Verify the game files
 
  The game crash issue can also be caused by the corrupted game files. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -75,16 +82,22 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -95,10 +108,10 @@ The outdated or broken graphics driver often crashes the game.
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Disable Steam Overlay
@@ -111,14 +124,14 @@ The outdated or broken graphics driver often crashes the game.
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
- Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 ## Fix 5: Set launch options on Steam
 
@@ -132,13 +145,6 @@ The outdated or broken graphics driver often crashes the game.
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -170,21 +176,19 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-adapting-your-favorite-songs-from-spotify-to-youtube-music-service/"><u>[New] 2024 Approved Adapting Your Favorite Songs From Spotify to YouTube Music Service</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-social-media-savviness-mastering-4-techniques-to-record-facebook-lives/"><u>[Updated] 2024 Approved Social Media Savviness Mastering 4 Techniques to Record Facebook Lives</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/advancing-into-a-new-era-of-high-speed-internet-with-verizon-ebg/"><u>Advancing Into a New Era of High-Speed Internet with Verizon Ebg</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/amplify-igtv-audiences-5-effective-ways-for-a-larger-following/"><u>Amplify IGTV Audiences 5 Effective Ways for a Larger Following</u></a></li>
-<li><a href="https://win-studio.techidaily.com/best-alternatives-to-udemy-top-5-learning-platforms-you-must-check-out/"><u>Best Alternatives to Udemy: Top 5 Learning Platforms You Must Check Out</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-ways-to-fix-a-malfunctioning-battlenet-launcher-on-your-pc/"><u>Effective Ways to Fix a Malfunctioning Battle.net Launcher on Your PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-imagemosaic-supreme-online-blend-and-designers-choice/"><u>In 2024, ImageMosaic Supreme Online Blend & Designer's Choice</u></a></li>
-<li><a href="https://extra-support.techidaily.com/magix-acid-pro-review-and-alternatives-for-2024/"><u>Magix ACID Pro Review & Alternatives for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfect-your-online-presence-with-these-18-elite-recording-systems-for-2024/"><u>Perfect Your Online Presence with These 18 Elite Recording Systems for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resident-evil-village-opening-problems-heres-how-you-can-fix-it/"><u>Resident Evil Village Opening Problems? Here's How You Can Fix It</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-nier-automata-remastered-initialization-errors-effectively/"><u>Resolving NieR: Automata Remastered Initialization Errors Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-bgiii-start-up-woes-ready-to-begin-your-epic-journey/"><u>Solving BGIII Start-Up Woes - Ready to Begin Your Epic Journey?</u></a></li>
-<li><a href="https://win-able.techidaily.com/successful-troubleshooting-for-pathfinder-wrath-of-the-righteous-stability-issues/"><u>Successful Troubleshooting for 'Pathfinder: Wrath of the Righteous' Stability Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-complete-guide-to-eliminating-discord-lags-advanced-troubleshooting-techniques-2024-edition/"><u>The Complete Guide to Eliminating Discord Lags: Advanced Troubleshooting Techniques, 2024 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-prevent-hitman-3-from-crashing-on-your-pc-essential-tips-players/"><u>Troubleshoot and Prevent Hitman 3 From Crashing on Your PC - Essential Tips Players</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/using-dialer-in-win-11/"><u>Using Dialer in Win 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-premier-thumbnail-packs-free-pubg-montages/"><u>[New] Premier Thumbnail Packs Free PUBG Montages</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-list-of-whatsapp-secrets-and-hacks/"><u>[New] The Ultimate List of WhatsApp Secrets and Hacks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-quick-fix-repair-damaged-mp4-videos-on-mac-with-a-single-click/"><u>1. Quick Fix: Repair Damaged MP4 Videos on Mac with a Single Click</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-evolution-of-gaming-logging-beyond-fbx-limits/"><u>2024 Approved Evolution of Gaming Logging Beyond FBX Limits</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-logitechs-elite-4k-webcam-exhaustive-features-and-usability/"><u>2024 Approved Logitech’s Elite 4K Webcam Exhaustive Features & Usability</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-skip-the-struggle-tips-on-avoiding-online-edgenuity-lessons/"><u>2024 Approved Skip the Struggle Tips on Avoiding Online Edgenuity Lessons</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cambiar-archivos-de-formato-m4v-a-mov-sin-coste-guia-integral-con-movavi/"><u>Cambiar Archivos De Formato M4V a MOV Sin Coste: Guía Integral Con Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/doom-eternal-delayed-again-unveil-the-solution-for-an-immediate-start/"><u>DOOM Eternal Delayed Again? Unveil The Solution For An Immediate Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-guide-how-to-access-gpeditmsc-on-your-windows-home-pc/"><u>Fix Guide: How to Access gpedit.msc on Your Windows Home PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-your-last-epoch-game-running-again-fixes-for-pc-players/"><u>How to Get Your Last Epoch Game Running Again - Fixes for PC Players!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-action-cam-audio-winners-in-a-nutshell/"><u>In 2024, Action Cam Audio Winners in a Nutshell</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722990269353-maximize-your-mass-effect-legendary-experience-fps-gear-awaits/"><u>Maximize Your Mass Effect Legendary Experience - FPS Gear Awaits</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010972963-no-more-wow-disruptions-easy-solutions-to-game-crashing-issues/"><u>No More WoW Disruptions: Easy Solutions to Game Crashing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-overwatch-driver-glitches-a-step-by-step-fixing-process/"><u>Resolving Overwatch Driver Glitches: A Step-by-Step Fixing Process</u></a></li>
 </ul></div>
 
