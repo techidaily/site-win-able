@@ -1,7 +1,7 @@
 ---
 title: Halo Infinite Performance Problems Solved - Smooth Play Now
-date: 2024-10-19T18:32:45.086Z
-updated: 2024-10-20T16:06:56.946Z
+date: 2024-10-20T20:59:21.225Z
+updated: 2024-10-26T15:55:10.691Z
 tags:
   - win11
   - win10
@@ -31,10 +31,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Check the minimum system requirement
@@ -52,13 +52,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
  Halo Infinite supports indicates some minimum hardware specification GPUs may crash when playing intro cinematic sequences in 4k resolution.
 
 You can fix it by uninstalling the multiplayer HD texture packs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphic driver
 
@@ -79,6 +72,13 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -94,22 +94,29 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
@@ -130,13 +137,6 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -163,24 +163,18 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-uniting-upskill-utopia/"><u>[New] 2024 Approved Ultimate Uniting Upskill Utopia</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-mastering-spotify-promotion-a-comprehensive-guide/"><u>[Updated] Mastering Spotify Promotion A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-picks-cutting-edge-content-from-googloud/"><u>2024 Approved Premium Picks Cutting-Edge Content From GooGloud</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-nokia-105-classic-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Nokia 105 Classic to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/basking-in-low-light-the-art-of-dark-modes-in-paint/"><u>Basking in Low Light: The Art of Dark Modes in Paint</u></a></li>
-<li><a href="https://win-able.techidaily.com/battling-the-waiting-game-solutions-for-lengthy-launch-sequences-in-fallout-4/"><u>Battling the Waiting Game: Solutions for Lengthy Launch Sequences in Fallout 4</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-troubleshooting-resolve-league-of-legends-crashes-swiftly/"><u>Effortless Troubleshooting: Resolve League of Legends Crashes Swiftly</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminating-stuttering-glitches-while-playing-age-of-empires-4-expert-tips-and-tricks/"><u>Eliminating Stuttering Glitches While Playing Age of Empires 4: Expert Tips & Tricks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-ios-slideshow-software-for-latest-models/"><u>Essential iOS Slideshow Software for Latest Models</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-graphics-driver-crashed-bug-in-valorant-fast-track/"><u>How to Fix the 'Graphics Driver Crashed' Bug in Valorant Fast-Track</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-your-frostpunk-game-from-suddenly-closing-expert-tips-and-tricks/"><u>How to Stop Your Frostpunk Game From Suddenly Closing: Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-gaming-fluidity-expert-strategies-for-addressing-and-resolving-frame-rate-dips/"><u>Improving Gaming Fluidity: Expert Strategies for Addressing and Resolving Frame Rate Dips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-film-flashes-top-snippets-for-skilled-editors/"><u>In 2024, Film Flashes Top Snippets for Skilled Editors</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-8-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From Apple iPhone 8 If Youve Tried Everything</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-found-thick-haze-triggers-computer-crash-on-laptop/"><u>Solution Found: Thick Haze Triggers Computer Crash on Laptop</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-showdown-which-is-better-roku-or-fire-tv-stick/"><u>The Ultimate Showdown: Which Is Better, Roku or Fire TV Stick?</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-pc-issues-when-playing-no-rest-for-the-wicked/"><u>Troubleshooting PC Issues When Playing 'No Rest for the Wicked'</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-sudden-shutdowns-dealing-with-superpowered-account-issues-on-pc/"><u>Troubleshooting Sudden Shutdowns: Dealing with Superpowered Account Issues on PC</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/zero-cost-mp3-the-skype-recording-method-for-2024/"><u>Zero-Cost MP3 The Skype Recording Method for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-chart-your-course-to-youtube-success-with-these-techniques/"><u>[New] 2024 Approved Chart Your Course to YouTube Success with These Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-professional-approaches-to-preserving-ps3-games-on-screen/"><u>[Updated] In 2024, Professional Approaches to Preserving PS3 Games On Screen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-room-and-pc-readiness-for-immersive-vr-with-oculus-for-2024/"><u>[Updated] Room & PC Readiness for Immersive VR with Oculus for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/counteracting-chatgpts-memory-retention-for-private-talks/"><u>Counteracting ChatGPT’s Memory Retention for Private Talks</u></a></li>
+<li><a href="https://win-able.techidaily.com/echoes-lost-voices-found-correcting-fallout-amoanqf4-no-output-problems-on-desktop/"><u>Echoes Lost, Voices Found: Correcting Fallout Amoanqf4 No Output Problems on Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-implemented-for-seamless-play-r-type-final-2-now-stable-on-windows-machines/"><u>Fixes Implemented for Seamless Play - R-Type Final 2 Now Stable on Windows Machines</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-your-iphones-lte-back-on-track-try-these-10-fixes-first/"><u>Getting Your iPhone's LTE Back on Track? Try These 10 Fixes First</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-samsung-galaxy-a24-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Samsung Galaxy A24 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-voice-effects-explore-free-flexible-audio-transformations/"><u>Mastering Voice Effects Explore Free, Flexible Audio Transformations</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-2024s-common-fortnite-game-crashes-on-your-pc-with-these-expert-tips/"><u>Overcome 2024'S Common Fortnite Game Crashes on Your PC with These Expert Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-new-gen-game-latency-a-comprehensive-guide-for-smooth-play/"><u>Overcoming New-Gen Game Latency: A Comprehensive Guide for Smooth Play</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-comprehensive-strategy-crafting-targeted-filters-in-gmail-for-perfect-organization/"><u>The Comprehensive Strategy: Crafting Targeted Filters in Gmail for Perfect Organization</u></a></li>
+<li><a href="https://win-able.techidaily.com/vanguard-initialization-errors-addressed-a-step-by-step-resolution-for-valorant-players/"><u>Vanguard Initialization Errors Addressed: A Step-by-Step Resolution for Valorant Players</u></a></li>
 </ul></div>
 

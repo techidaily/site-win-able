@@ -1,7 +1,7 @@
 ---
 title: Successfully Installing and Playing Tiny Tina's Assault on Dragon Keepers - PC Fix Guide
-date: 2024-10-13T18:57:11.203Z
-updated: 2024-10-20T18:29:41.595Z
+date: 2024-10-20T03:57:25.402Z
+updated: 2024-10-26T13:50:18.046Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC specs meet the requirements
 
  Before you try anything more advanced, first check your PC specs. Immortals Fenyx Rising is a demanding game, both to your skills and PC hardware. A decent setup is a must if you expect a smooth gaming experience. If you find your specs don’t meet the game requirements below, then maybe it’s time for an upgrade.
@@ -60,10 +67,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
  If your rig is powerful enough for the game, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
@@ -77,13 +84,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
@@ -117,10 +117,10 @@ If this method doesn’t help, you can take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -130,16 +130,10 @@ If this method doesn’t help, you can take a look at the next one.
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
@@ -177,24 +171,19 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-ideal-strategies-for-recording-app-activity/"><u>[New] In 2024, Ideal Strategies for Recording App Activity</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-evaluating-tunefab-for-video-capture-excellence/"><u>[Updated] 2024 Approved Evaluating Tunefab for Video Capture Excellence</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1716070151943-updated-2024-approved-unlocked-mac-capture-tool-no-cost/"><u>[Updated] 2024 Approved Unlocked Mac Capture Tool - No Cost!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-drone-editors-playbook-a-comprehensive-guide/"><u>[Updated] The Drone Editor's Playbook A Comprehensive Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/androids-ultimate-guide-to-best-wildlife-games/"><u>Android's Ultimate Guide to Best Wildlife Games</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-the-new-world-connection-error-with-these-proven-fixes/"><u>Bypassing the 'New World Connection Error' With These Proven Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-fix-why-isnt-shadowplay-recording-in-windows-and-how-to-make-it-work/"><u>Complete Fix: Why Isn't Shadowplay Recording in Windows and How to Make It Work?</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723003057549-cyberpunk-2amoored-eliminating-stuttering-and-smoothing-out-lags/"><u>Cyberpunk 2Amoored: Eliminating Stuttering and Smoothing Out Lags!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/database-comeback-a-sql-cosmos-manual/"><u>Database Comeback: A SQL Cosmos Manual</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-continuous-freezing-issues-in-diablo-iii/"><u>Effective Solutions for Continuous Freezing Issues in Diablo III</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-x100-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo X100 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-graphics-tackling-the-sims-4s-video-card-malfunctions-with-ease/"><u>Mastering Graphics: Tackling The Sims 4'S Video Card Malfunctions with Ease</u></a></li>
-<li><a href="https://win-able.techidaily.com/minecraft-crash-troubles-solve-them-with-these-6-easy-fixes/"><u>Minecraft Crash Troubles? Solve Them with These 6 Easy Fixes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-challenge-getting-gta-v-to-open-correctly/"><u>Overcoming the Challenge: Getting GTA V to Open Correctly</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-a14-4g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy A14 4G Screen | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-writing-failure-on-0x-referenced-memory-address/"><u>Resolved! Writing Failure on 0X Referenced Memory Address</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/resolving-the-issue-of-missing-downloads-from-your-download-directory/"><u>Resolving the Issue of Missing Downloads From Your Download Directory</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-gameplay-overcoming-star-wars-battlefront-2s-previous-slowdown-problems/"><u>Smooth Gameplay: Overcoming Star Wars Battlefront 2'S Previous Slowdown Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-cyberpunk-2nk7s-pc-stability-issues-fixed/"><u>Ultimate Troubleshooting Tips for Cyberpunk 2Nk7's PC Stability Issues - Fixed!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-google-meet-customization-filter-and-effect-techniques/"><u>[New] In 2024, Mastering Google Meet Customization Filter & Effect Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-off-switch-for-instagrams-igtv/"><u>2024 Approved Off Switch for Instagram's IGTV</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/aerial-adventures-with-husqvarnas-x4-fpv-quadcopter/"><u>Aerial Adventures with Husqvarna's X4 FPV Quadcopter</u></a></li>
+<li><a href="https://win-able.techidaily.com/avatars-pandora-adventure-stable-gameplay-experience-on-windows-and-pc/"><u>Avatar's Pandora Adventure - Stable Gameplay Experience on Windows & PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/bhargava-a-et-al-2017-acute-human-poisoning-cases-associated-with-the-herbicide-glyphosebased-formulations-in-india-19842015-j-toxicol-clin-toxicol-63-20-28517/"><u>Bhargava A., Et Al (2017). Acute Human Poisoning Cases Associated with the Herbicide Glyphosebased Formulations in India, 1984–2015. J Toxicol Clin Toxicol, 6(3), 20-28.</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-the-code-on-ue4s-back-4-blood-gobi-fatality-fix-your-game-now/"><u>Cracking the Code on UE4's Back 4 Blood 'Gobi' Fatality - Fix Your Game Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-recurring-freezing-glitches-of-deathloop-on-computer-and-ps5-platforms/"><u>Fixing the Recurring Freezing Glitches of Deathloop on Computer & PS5 Platforms</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-comprehensive-evaluation-gecata-pro-monitoring/"><u>In 2024, Comprehensive Evaluation Gecata Pro Monitoring</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-youtube-entrance-videos-with-the-top-tools/"><u>In 2024, Crafting YouTube Entrance Videos with the Top Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-reel-it-in-proven-approaches-to-record-sporting-events-live/"><u>In 2024, Reel It In Proven Approaches to Record Sporting Events Live</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-infinix-note-30-vip-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Infinix Note 30 VIP to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-windows-11-integrating-advanced-run-command/"><u>Maximizing Windows 11: Integrating Advanced Run Command</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-left-4-dead-2-game-crash-issues/"><u>Resolved: Fixes for Left 4 Dead 2 Game Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/specific-antidotes-can-be-life-saving-and-should-be-administered-as-soon-as-possible-if-indicated/"><u>Specific Antidotes Can Be Life-Saving and Should Be Administered as Soon as Possible if Indicated.</u></a></li>
 </ul></div>
 

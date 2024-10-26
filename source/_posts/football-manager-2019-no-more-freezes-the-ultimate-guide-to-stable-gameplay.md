@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2019 No More Freezes - The Ultimate Guide to Stable Gameplay
-date: 2024-10-19T17:30:10.087Z
-updated: 2024-10-20T17:43:50.660Z
+date: 2024-10-20T21:02:38.787Z
+updated: 2024-10-26T12:41:01.847Z
 tags:
   - win11
   - win10
@@ -37,9 +37,23 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 7. [**Open the game in windowed mode**](https://tools.techidaily.com/drivereasy/download/)
 8. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1\. Check your PC specs
 
  Make sure you’re playing Football Manager 2022 in a 64-bit processor and operating system. If you’re on a 32-bit system, it’s recommended to upgrade your system and perhaps your device.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2\. Add an exception to your antivirus
 
@@ -66,20 +80,14 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/driver-easy-5.7.1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
-
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -95,22 +103,8 @@ After updating your drivers, restart your PC and test the gameplay.
 2) Go to LIBRARY, right-click on Football Manager 2022 and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Go to **LOCAL FILES** and click **Verify integrity of game files…**
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once complete, launch the game to check if your game is working again.
 
@@ -135,10 +129,10 @@ Once complete, launch the game to check if your game is working again.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select **Local Files** and then**Browse local files** .
@@ -157,26 +151,13 @@ Once complete, launch the game to check if your game is working again.
  2) In the **GENERAL** tab, uncheck **Enable the Steam Overlay while in-game** and type **\-windowed** under **LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch your Football Manager 2022 to check if your launch issues have been resolved successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8\. Repair your system files
@@ -205,22 +186,16 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -243,6 +218,13 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -301,22 +283,24 @@ Feel free to drop us a line if you have any suggestions or questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevating-your-youtube-presence-with-strategic-post-publish-video-updates/"><u>[Updated] 2024 Approved Elevating Your YouTube Presence with Strategic Post-Publish Video Updates</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-prime-video-game-editors-simplified-top-picks-for-newbies/"><u>[Updated] In 2024, Prime Video Game Editors Simplified Top Picks for Newbies</u></a></li>
-<li><a href="https://win-able.techidaily.com/mts-to-mp4-20248/"><u>「MTS to MP4自由変換ソフトウェア: 2024の最高選考8つを紹介する」</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-your-hp-laserjet-p1007-printer-drivers-step-by-step-guide/"><u>Download & Update Your HP LaserJet P1007 Printer Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-pro-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Realme 12 Pro 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-mute-problem-solved-discover-15plus-effective-methods-for-text-notification-repair/"><u>IPhone Mute Problem Solved: Discover 15+ Effective Methods for Text Notification Repair</u></a></li>
-<li><a href="https://win-able.techidaily.com/mp43mp4/"><u>MP4ファイルに圧縮しながらスクリーンを記録する究極のガイド：上位3つのMP4レコーダー</u></a></li>
-<li><a href="https://win-able.techidaily.com/preserving-clarity-in-video-edit-a-step-by-step-guide-on-converting-avchd-to-mp4-without-losing-quality/"><u>Preserving Clarity in Video Edit: A Step-by-Step Guide on Converting AVCHD to MP4 Without Losing Quality</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-and-free-techniques-to-trim-videos-on-your-windows-11-pc/"><u>Quick & Free Techniques to Trim Videos on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-guide-crafting-your-own-karaoke-hits-and-videos-free/"><u>Quick Guide: Crafting Your Own Karaoke Hits & Videos - Free!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-mystery-of-blurred-images-on-your-4k-television-step-by-step-guide/"><u>Resolving the Mystery of Blurred Images on Your 4K Television: Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-phase0exception-error-a-step-by-step-guide/"><u>Resolving the PHASE0_EXCEPTION Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/schlussel-zur-nahtlosen-installation-von-dual-boot-windows-11-und-windows-7-kombiniert/"><u>Schlüssel Zur Nahtlosen Installation Von Dual-Boot: Windows 11 Und Windows 7 Kombiniert</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/tune-in-for-free-fb-music-archive/"><u>Tune In for Free FB Music Archive</u></a></li>
-<li><a href="https://win-able.techidaily.com/iuocteocpoodnuodqplusodqeocuoocquwpjummsjrjgrpjg4tjgajjg4bjgqjg4vjg4pjgqjgizjg5hjgr3jgrpjg7pjg7vjgrnjg57jg5vnt6jjgi0i/"><u>サイマルラジオ収録:コツとテクニック「パソコン・スマホ編」</u></a></li>
-<li><a href="https://win-able.techidaily.com/ocam/"><u>ユーザーが知りたくなる「OCamスクリーンレコーダー」使用法の究極ガイド</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-effective-youtube-customization-for-powerful-endings-for-2024/"><u>[New] Effective YouTube Customization for Powerful Endings for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-elevate-your-gameplay-stream-xbox-seamlessly-to-facebook/"><u>[New] Elevate Your Gameplay Stream Xbox Seamlessly to Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-express-screen-snag-aural-elements/"><u>[Updated] 2024 Approved Express Screen Snag Aural Elements</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-downloading-facebook-gifs-pc-android-and-ios-guide-for-2024/"><u>[Updated] Downloading Facebook GIFs PC, Android & iOS Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/become-an-expert-in-real-time-streaming-on-facebook-platform/"><u>Become an Expert in Real-Time Streaming on Facebook Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-in-game-disruptions-solving-valorants-frequent-pc-shutdowns/"><u>Dealing with In-Game Disruptions: Solving Valorant's Frequent PC Shutdowns</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciphering-twitch-downtime-from-personal-connectivity-glitches-a-comprehensive-guide/"><u>Deciphering Twitch Downtime From Personal Connectivity Glitches: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-the-destiny-warzone-memory-error-xboxpc-code-0-1766-a-step-by-step-fix-guide/"><u>Defeat the Destiny Warzone Memory Error (Xbox/PC, Code 0-1766): A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-when-red-dead-online-keeps-crashing-windows/"><u>Effective Fixes For When Red Dead Online Keeps Crashing (Windows)</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-launch-errors-in-robocop-rogue-city-on-your-windows-computer/"><u>Fixing Launch Errors in 'RoboCop: Rogue City' On Your Windows Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-qbittorrent-stalling-problems-a-comprehvehicle-guide/"><u>Fixing qBittorrent Stalling Problems: A Comprehvehicle Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-copy-of-immortals-fenyx-rising-running-issue-resolved/"><u>Get Your Copy of Immortals Fenyx Rising Running - Issue Resolved</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-navigating-snapchat-pins-with-ease/"><u>In 2024, Navigating Snapchat Pins with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/interpreting-sentiments-the-rise-of-emotive-computation/"><u>Interpreting Sentiments: The Rise of Emotive Computation</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-techniques-to-stop-age-of-empires-iv-from-stuttering-and-lagging/"><u>Master the Techniques to Stop Age of Empires IV From Stuttering and Lagging</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastery-of-city-building-overcoming-the-notorious-skycities-software-glitches-expert-fixes-for-2e4/"><u>Mastery of City Building: Overcoming the Notorious SkyCities Software Glitches [Expert Fixes for 2E4]</u></a></li>
+<li><a href="https://win-able.techidaily.com/pathfinder-wrath-of-the-righteous-resolved-fixes-for-continuous-game-crashes/"><u>Pathfinder: Wrath of the Righteous - Resolved: Fixes for Continuous Game Crashes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-generate-mind-bending-glitches-online-for-free-top-picks-2023/"><u>Updated 2024 Approved Generate Mind-Bending Glitches Online for Free Top Picks 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-xs-rolling-back-latest-controller-firmware/"><u>Xbox Series X/S: Rolling Back Latest Controller Firmware</u></a></li>
 </ul></div>
 

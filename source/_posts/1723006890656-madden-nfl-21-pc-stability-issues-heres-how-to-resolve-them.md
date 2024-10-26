@@ -1,7 +1,7 @@
 ---
 title: Madden NFL 21 PC Stability Issues? Here's How to Resolve Them
-date: 2024-10-16T18:16:55.582Z
-updated: 2024-10-20T17:27:14.783Z
+date: 2024-10-23T14:17:06.881Z
+updated: 2024-10-25T17:34:53.119Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ Here’s how to do that on Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-verify-1.jpg)
 2. Select Madden NFL 21\. Then click the setting icon and select**Repair** . Wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-verify-2.jpg)
 
 Once done, launch Madden 21 and check if it crashes again.
@@ -68,15 +61,15 @@ If the fix doesn’t stop the crash, you can try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -93,19 +86,19 @@ To minimize conflicts, you also need to install all the system patches:
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -125,18 +118,31 @@ To minimize conflicts, you also need to install all the system patches:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-3.jpg)
 4. Click to change DIRECTX VERSION. Then save the changes and restart the game.  
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can check if the crash stops.
 
  If changing DirectX version doesn’t give you luck, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphical settings
 
@@ -170,24 +176,22 @@ Once done, restart your game and test the improvement.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-effortless-video-streams-youtube-loops-for-television-viewers/"><u>[New] 2024 Approved Effortless Video Streams YouTube Loops for Television Viewers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-creative-freedom-redefined-a-review-of-screenflow-on-macbook-pro/"><u>[New] In 2024, Creative Freedom Redefined A Review of ScreenFlow on MacBook Pro</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-how-to-record-with-nvidia-screen-recorder/"><u>[New] In 2024, How to Record with NVIDIA Screen Recorder</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-secrets-of-squaring-up-making-square-format-videos-with-imovie-for-instagram/"><u>[New] In 2024, The Secrets of Squaring Up Making Square-Format Videos with iMovie for Instagram</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-optimal-team-chats-secrets-to-success-4-steps/"><u>[Updated] 2024 Approved Optimal Team Chats Secrets to Success, #4 Steps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-fb-soundbanks-access-anytime-anywhere/"><u>[Updated] In 2024, FB Soundbanks Access Anytime, Anywhere</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726029306278-2024/"><u>初心者でも簡単! 「2024年のビデオから静止画への変換ガイド」</u></a></li>
-<li><a href="https://win-able.techidaily.com/twitter/"><u>今年もTwitter動画楽しむ！２０２四にぴってるおすすめのビデオ保存サイトベスト９選！</u></a></li>
-<li><a href="https://win-able.techidaily.com/wav-mp45/"><u>無料WAV MP4コンバーター:ベスト5ソフト選び方とレビュー集紹介</u></a></li>
-<li><a href="https://win-able.techidaily.com/windowsandroidiphonegif3/"><u>最適な動画変換ツール：Windows、Android、iPhone対応で一番おすすめのGIF作成アプリトップ3</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726027761551-aviutl/"><u>AviUtlを使用したスムーズなビデオの抜粋手順</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726027883227-gif/"><u>GIFアニメートをスムーズに回転させる究極のテクニック</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/global-french-speaker-trends-leading-nations-reviewed/"><u>Global French Speaker Trends: Leading Nations Reviewed</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/harness-10-tools-for-free-thumbnail-acquisition/"><u>Harness 10 Tools for FREE Thumbnail Acquisition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-copywriting-ethically-integrating-ai-techniques/"><u>The Future of Copywriting: Ethically Integrating AI Techniques</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-base-driver-errors-dm/"><u>Troubleshooting Base Driver Errors (DM)</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-refining-your-aerial-shots-using-top-tier-drone-editing-programs/"><u>Ultimate Guide: Refining Your Aerial Shots Using Top-Tier Drone Editing Programs</u></a></li>
-<li><a href="https://win-able.techidaily.com/windows-10mp4dvd/"><u>Windows 10用のMP4ファイルをDVDへ記録するための手引き</u></a></li>
-<li><a href="https://win-able.techidaily.com/wonderfoxs-new-location-discover-the-updated-url/"><u>WonderFox's New Location: Discover the Updated URL!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-instagrams-hidden-filter-tools-for-2024/"><u>[New] Unlocking Instagram's Hidden Filter Tools for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-networkvidcatcher-for-facebook-for-2024/"><u>[Updated] NetworkVidCatcher for Facebook for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-spark-20c-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Spark 20C Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-edits-top-17-software-for-photo-framing-cutout/"><u>2024 Approved Leading Edits Top 17 Software for Photo Framing Cutout</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-artisans-guide-to-blending-visuals-and-melodies-in-canvas-videos/"><u>2024 Approved The Artisan's Guide to Blending Visuals & Melodies in Canvas Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722986659885-constraint-a-utilize-old-english-lexical-choices-and-grammatical-structures-in-the-conversion/"><u>Constraint A: Utilize Old English Lexical Choices and Grammatical Structures in the Conversion.</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-stability-improved-say-goodbye-to-game-freezing/"><u>Cyberpunk 2077 Stability Improved: Say Goodbye to Game Freezing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortlessly-upgrade-with-startechs-downloadable-usb-vga-driver-software/"><u>Effortlessly Upgrade with StarTech's Downloadable USB VGA Driver Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-for-playing-fallout-3-without-crashes-on-windows-10-systems/"><u>Expert Advice for Playing Fallout 3 Without Crashes on Windows 10 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-overcoming-the-network-unreachable-hurdle-in-steam/"><u>Expert Advice on Overcoming the 'Network Unreachable' Hurdle in Steam</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-handling-memory-glitch-in-call-of-duty-modern-warfare-3-error-12707-fixed/"><u>Expert Tips for Handling Memory Glitch in Call of Duty: Modern Warfare 3 - Error 12707 Fixed</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-rogue-company-pc-version-persistent-issues-with-frequent-crashes/"><u>Fix: Rogue Company PC Version Persistent Issues with Frequent Crashes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-fixing-persistent-teardown-app-crashes/"><u>Master the Art of Fixing Persistent Teardown App Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-elden-ring-expert-strategies-for-smoothing-out-frame-rates-and-eliminating-stutters/"><u>Mastering Elden Ring: Expert Strategies for Smoothing Out Frame Rates and Eliminating Stutters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-titles-in-fcpx-a-step-by-step-guide/"><u>Mastering Titles in FCPX A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-from-beginner-to-pro-5-final-cut-pro-editing-tips-to-improve-your-skills-for-2024/"><u>Updated From Beginner to Pro 5 Final Cut Pro Editing Tips to Improve Your Skills for 2024</u></a></li>
 </ul></div>
 

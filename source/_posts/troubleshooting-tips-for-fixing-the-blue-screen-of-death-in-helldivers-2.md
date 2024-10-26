@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Fixing The Blue Screen of Death in Helldivers 2
-date: 2024-09-30T16:50:21.301Z
-updated: 2024-10-03T17:05:51.624Z
+date: 2024-10-24T03:44:36.897Z
+updated: 2024-10-26T00:53:51.249Z
 tags:
   - win11
   - win10
@@ -62,27 +62,26 @@ If you still have the issue, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay-1200x685.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Advanced** tab and turn off**Hardware Acceleration** . Your Discord will be restarted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-hardware-acceleration-1-1200x638.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 Allow FIFA 19 to run through the Firewall
 
@@ -123,10 +122,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -166,10 +165,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/force-V-Sync-On.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For AMD users:  
@@ -195,13 +194,6 @@ OR
  2) Copy & paste**sfc /scannow** into the box and hit**Enter** . This takes about 3-5 min.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scannow.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) You may receive something like the following messages after the verification.
 
@@ -258,15 +250,34 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.  
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8**Perform a clean boot to check for conflicting programs**
@@ -280,6 +291,19 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services.png)
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Startup** tab, then**Open Task Manager** .
 
@@ -299,6 +323,19 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Once you find the problematic software, you need to uninstall it to avoid running into the same issue in the future.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 9 Create TileDatalayer and Database folder
 
  Some users find creating TileDatalayer and Database folders in Appdata/Local helps solve Fifa 19 crashing issues. Here’s how you can do it by running a single command:
@@ -309,28 +346,15 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/power-shell.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re on Windows 11, it will be**Terminal (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Copy the following command and press**Enter** .
@@ -366,24 +390,18 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-expert-techniques-for-smooth-screen-casting/"><u>[New] Expert Techniques for Smooth Screen Casting</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-orchestrating-the-soundscape-finding-perfect-background-tunes/"><u>[New] Orchestrating the Soundscape Finding Perfect Background Tunes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-celebrated-colours-top-instagram-filters/"><u>[Updated] Celebrated Colours Top Instagram Filters</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-2042-solving-directx-glitches-efficiently/"><u>Battlefield 2042: Solving DirectX Glitches Efficiently</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-unreachable-steam-content-hosts/"><u>Expert Tips for Overcoming Unreachable Steam Content Hosts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-horizon-of-generative-ai-unveiling-the-next-chapter-in-chatbot-evolution/"><u>Exploring The Horizon of Generative AI: Unveiling the Next Chapter in Chatbot Evolution</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-why-some-webpages-wont-load-in-chrome/"><u>Fixing the Issue: Why Some Webpages Won't Load in Chrome</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723006729132-football-manager-2022-delayed-discover-these-quick-fixes-to-launch-it-successfully/"><u>Football Manager 2022 Delayed? Discover These Quick Fixes to Launch It Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-resolve-continuous-freezing-in-grand-theft-auto-v-gameplay/"><u>Guide: Resolve Continuous Freezing in Grand Theft Auto V Gameplay</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Tecno Spark 10 4G? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-webinar-technology-hacks-with-no-financial-cost/"><u>In 2024, Webinar Technology Hacks with No Financial Cost</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722997295788-mastering-the-quick-recovery-effortless-strategies-for-resolving-fortnite-login-difficulties-today/"><u>Mastering the Quick Recovery: Effortless Strategies for Resolving Fortnite Login Difficulties Today</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-optimized-eradicating-the-deathloop-stutter-with-expert-tips/"><u>PC Gaming Optimized: Eradicating the Deathloop Stutter with Expert Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-technique-for-gpu-powered-film-extraction/"><u>The Ultimate Technique for GPU-Powered Film Extraction</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/tiktok-food-10-most-popular-tiktok-food-trends/"><u>Tiktok Food | 10 Most Popular Tiktok Food Trends</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/tips-and-tricks-for-easy-and-effective-xbox-gameplay-capture/"><u>Tips & Tricks for Easy and Effective Xbox Gameplay Capture</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-internet-explorer-no-longer-responding-errors/"><u>Troubleshooting Steps: Resolving 'Internet Explorer No Longer Responding' Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-manor-lords-game-crashes-on-windows/"><u>Troubleshooting Tips: Resolving Manor Lords Game Crashes on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-overcome-the-red-dead-redemption-loading-screen-glitch/"><u>Troubleshooting: How to Overcome the Red Dead Redemption ^Loading Screen Glitch</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capture-every-detail-android-recording-at-zero-cost/"><u>[New] Capture Every Detail Android Recording at Zero Cost</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-low-fps-issues-in-outriders/"><u>[SOLVED] Low FPS Issues in Outriders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-traversing-the-timeline-of-facebook-narratives-mobile-plus-laptop/"><u>[Updated] 2024 Approved Traversing the Timeline of Facebook Narratives (Mobile + Laptop)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-hd-upgrade-tool-windows-mac-and-online-conversion/"><u>2024 Approved Ultimate HD Upgrade Tool Windows, Mac & Online Conversion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revolutionize-unboxing-on-instagram-a-guide-to-popularity/"><u>In 2024, Revolutionize Unboxing on Instagram A Guide to Popularity</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-elite-set-selecting-the-best-gaming-streamers-webcams/"><u>In 2024, The Elite Set Selecting the Best Gaming Streamers Webcams</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-release-fixes-and-enhancements-in-days-gone-action-packed-fps-game/"><u>PC Release: Fixes and Enhancements in 'Days Gone' Action-Packed FPS Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-optimized-solutions-to-gameplay-lag-and-freezing-problems/"><u>Red Dead Redemption 2 Optimized: Solutions to Gameplay Lag and Freezing Problems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/rejuvenated-dialogue-ideas-to-hook-listeners/"><u>Rejuvenated Dialogue Ideas to Hook Listeners</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009621197-solution-found-for-pathfinder-wrath-of-the-righteous-no-more-freezes-on-windows-machines/"><u>Solution Found for 'Pathfinder: Wrath of the Righteous'; No More Freezes on Windows Machines</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-solution-correcting-corrupted-gaming-software-data-on-your-desktop-computer/"><u>The Definitive Solution: Correcting Corrupted Gaming Software Data on Your Desktop Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-gaming-issues-fix-crashes/"><u>Troubleshooting PC Gaming Issues: Fix Crashes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-creative-potential-with-xps-movie-creation-toolkit/"><u>Unlock Creative Potential with XP’s Movie Creation Toolkit</u></a></li>
 </ul></div>
 

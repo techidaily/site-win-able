@@ -1,7 +1,7 @@
 ---
 title: How to Prevent 'Starfield' From Freezing/Crashing on Your Computer
-date: 2024-10-15T19:50:43.079Z
-updated: 2024-10-20T20:06:47.586Z
+date: 2024-10-25T01:09:11.017Z
+updated: 2024-10-26T07:18:32.078Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7 and Windows 8.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Repair the game files
 
  Corrupted and damaged game file is one of the most common causes of game crashes, so an integrity check should be your first step for troubleshooting. We’ll show you how to do this on[**Steam**](https://tools.techidaily.com/drivereasy/download/) and **[Wargaming launcher](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -53,10 +60,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After it finishes validating the game files, you can relaunch World of Warships to check if crashes are still there. If yes, proceed to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  below.
@@ -74,10 +81,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
@@ -122,10 +129,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Delete the preferences.xml file
@@ -138,16 +145,16 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
 
 See if the crashing issue goes away. If not, try the fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Launch World of Warships in safe mode
 
@@ -159,6 +166,13 @@ See if the crashing issue goes away. If not, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Do the crashes disappear now? If not, continue to the next fix.
 
 ### Fix 5 – Reinstall the game
@@ -169,23 +183,9 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
 
@@ -221,18 +221,20 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-boost-your-visibility-with-a-cutting-edge-set-of-banners/"><u>[New] Boost Your Visibility with a Cutting-Edge Set of Banners!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-snap-a-story-with-an-insightful-audio-clip/"><u>[New] Snap a Story with an Insightful Audio Clip</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-spectral-footage-innovation-in-cams/"><u>[New] Spectral Footage Innovation in Cams</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-and-solutions-for-resolving-minecrafts-world-connection-failure/"><u>Expert Tips and Solutions for Resolving Minecraft's 'World Connection Failure'</u></a></li>
-<li><a href="https://win-able.techidaily.com/final-fixes-for-google-chrome-eating-up-too-much-processor-power/"><u>Final Fixes for Google Chrome Eating Up Too Much Processor Power</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-audio-problems-restoring-voice-chat-functionality-in-among-us-pc-version/"><u>Fixing Audio Problems: Restoring Voice Chat Functionality in Among Us (PC Version)</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-fps-dropslow-fps-in-valorant-2024-tips/"><u>How to Fix FPS Drops/Low FPS in Valorant - 2024 Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashes-in-call-of-duty-mobile-warzone-20-for-pc-players/"><u>How to Fix Persistent Crashes in Call of Duty Mobile Warzone 2.0 for PC Players</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/izing-content-how-much-adsense-pays-you-per-thousand-video-hits/"><u>Monetizing Content How Much AdSense Pays You Per Thousand Video Hits?</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722998093100-overwatch-wont-launch-fixed/"><u>Overwatch Won’t Launch [FIXED]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-41-unbeatable-christmas-apple-bargains-a-comprehensive-guide/"><u>Top 41 Unbeatable Christmas Apple Bargains: A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1728463733804-windows/"><u>Windowsパソコン用バックアップツール：タイムマシンと似た機能を持つ</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-join-the-fun-best-gratuitous-meme-tools-available/"><u>[Updated] 2024 Approved Join the Fun Best Gratuitous Meme Tools Available</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-gelato-gurus-guide-step-by-step-to-sweet-screen-recording/"><u>[Updated] Gelato Guru's Guide Step-by-Step to Sweet Screen Recording</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-sparking-interest-customized-anime-style-subscribers-on-your-youtube-channel-filmora-for-2024/"><u>[Updated] Sparking Interest Customized, Anime-Style Subscribers on Your YouTube Channel (Filmora) for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-nox-player-malfunctions-expert-solutions-to-prevent-pc-disruptions/"><u>Dealing with Nox Player Malfunctions: Expert Solutions to Prevent PC Disruptions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-common-netflix-connectivity-problems-when-things-dont-work/"><u>How to Resolve Common Netflix Connectivity Problems When Things Don't Work</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-play-lego-star-wars-the-skywalker-saga-on-pc-after-the-2ebycrash-of-2024/"><u>How to Successfully Play Lego Star Wars: The Skywalker Saga on PC After the 2Ebycrash of 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-real-time-viewership-counter-systems/"><u>In 2024, Real-Time Viewership Counter Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-reveals-mobile-processors-hit-by-different-fault-distinguishing-from-desktops-defective-bugs/"><u>Intel Reveals Mobile Processors Hit by Different Fault: Distinguishing From Desktops' Defective Bugs</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-splitgate-performance-fixing-frame-rates-and-stutter-effectively/"><u>Optimize Splitgate Performance: Fixing Frame Rates & Stutter Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-gameplay-effective-tactics-for-preventing-fps-drops-on-pcs/"><u>Optimizing Gameplay: Effective Tactics for Preventing FPS Drops on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-steps-to-correctly-repair-outlook-connection-issues/"><u>Resolved: Steps to Correctly Repair Outlook Connection Issues</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/sony-w800-camera-review-quality-measured-against-cost-effectiveness/"><u>Sony W800 Camera Review - Quality Measured Against Cost-Effectiveness</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-itel-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Itel Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-battlefield-v-a-comprehensive-guide-for-launch-failures/"><u>Troubleshoot Your Battlefield V: A Comprehensive Guide for Launch Failures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-for-restoring-missing-haldll-files-in-windows-xp/"><u>Troubleshooting Techniques for Restoring Missing Hal.dll Files in Windows XP</u></a></li>
 </ul></div>
 

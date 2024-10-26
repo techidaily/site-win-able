@@ -1,7 +1,7 @@
 ---
 title: "Banishing Discord Glitches: A Step-by-Step Fix for Continual App Crashes"
-date: 2024-09-27T16:31:14.893Z
-updated: 2024-10-03T16:38:21.991Z
+date: 2024-10-24T14:55:23.331Z
+updated: 2024-10-26T00:10:21.198Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
@@ -56,15 +49,22 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Restart your computer and Steam to test your issue.
 
@@ -106,22 +106,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
 
@@ -139,13 +133,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
@@ -154,20 +141,40 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
@@ -176,13 +183,6 @@ OR
 **10)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
@@ -214,24 +214,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-unveiling-audible-tweets-within-social-media-videos/"><u>[New] In 2024, Unveiling Audible Tweets Within Social Media Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unlocking-igtv-videos-secure-downloading-techniques-for-computers/"><u>[Updated] 2024 Approved Unlocking IGTV Videos Secure Downloading Techniques for Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030454879-youtube/"><u>「無料でYouTube音楽コンテンツをダウンロードする専門プラン」</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-virtuverse-video-vault/"><u>2024 Approved VirtuVerse Video Vault</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-solutions-overcoming-technical-glitches-in-phasmophobia-for-an-optimal-vr-experience/"><u>Comprehensive Solutions: Overcoming Technical Glitches in Phasmophobia for an Optimal VR Experience</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/cookiebot-enhanced-personalization-boost-your-websites-performance/"><u>Cookiebot-Enhanced Personalization: Boost Your Website's Performance</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ct-your-favorites-best-playlist-tools-reviewed-and-rated-for-2024/"><u>Extract Your Favorites Best Playlist Tools Reviewed and Rated for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-launch-fixes-addressing-and-correcting-entry-point-errors/"><u>Fortnite Launch Fixes: Addressing and Correcting Entry Point Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/from-iphone-to-desktop-syncing-ios-calendar-with-windows-1011/"><u>From iPhone to Desktop: Syncing iOS Calendar with Windows 10/11</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-fix-non-functional-camera-on-microsoft-surface-book-pro-4-under-windows-11-operating-system/"><u>Guide to Fix Non-Functional Camera on Microsoft Surface Book (Pro 4) Under Windows 11 Operating System</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/league-of-legends-performance-tips-eliminating-latency-issues-for-smoother-gameplay/"><u>League of Legends Performance Tips: Eliminating Latency Issues for Smoother Gameplay</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-tricks-to-access-the-content-inside-rar-files-using-your-apple-computer/"><u>Quick Tricks to Access the Content Inside RAR Files Using Your Apple Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-address-and-correct-days-gone-not-starting-up-on-windowspc/"><u>Resolved! How To Address and Correct Days Gone Not Starting Up on Windows/PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-issues-with-logitech-usb-devices-and-their-desktop-configuration-apps-on-windows/"><u>Resolving Issues with Logitech USB Devices and Their Desktop Configuration Apps on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/rocket-league-stability-solutions-for-gamers-tips-to-prevent-crashes-in-cuireyear/"><u>Rocket League Stability Solutions for Gamers - Tips to Prevent Crashes in Cuire_year</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-arcadegeddon-crashes-solutions-for-a-seamless-pc-gaming-experience/"><u>Say Goodbye to Arcadegeddon Crashes: Solutions for a Seamless PC Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-repairing-issues-with-origin-server-offline-problems/"><u>Troubleshooting and Repairing Issues with Origin Server Offline Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fix-for-fortnites-ls-0013-boot-problem-learn-here/"><u>Ultimate Fix for Fortnite's LS-0013 Boot Problem - Learn Here!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-screensnap-secrets-the-ultimate-guide-to-record-your-world/"><u>[New] 2024 Approved ScreenSnap Secrets The Ultimate Guide to Record Your World</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-discussion-googles-podcast-uncovered/"><u>[New] Comprehensive Discussion Google's Podcast Uncovered</u></a></li>
+<li><a href="https://win-able.techidaily.com/battle-tested-tricks-for-a-smooth-experience-in-modern-warfare-npc-on-windows/"><u>Battle-Tested Tricks for a Smooth Experience in Modern Warfare Npc on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-lava-storm-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Lava Storm 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-infinix-note-30-5g-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Infinix Note 30 5G</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-resolved-issue-steady-frame-rates-achieved/"><u>Cyberpunk 2077: Resolved Issue - Steady Frame Rates Achieved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995347515-discord-installer-woes-heres-how-to-get-it-right-in-no-time/"><u>Discord Installer Woes? Here's How to Get It Right in No Time</u></a></li>
+<li><a href="https://win-community.techidaily.com/diy-bootable-windows-server-2022-drive-with-this-simple-tutorial/"><u>DIY Bootable Windows Server 2022 Drive with This Simple Tutorial!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-errgfxbackenderror-for-a-smoother-gameplay-experience-in-gta-v/"><u>Fixing ERR_GFX_BACKEND_ERROR for a Smoother Gameplay Experience in GTA V</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/fullguide-til-screen-capture-med-obs-videospilovervagereflektioner/"><u>Fullguide Til Screen Capture Med OBS - Videospilovervagereflektioner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v11-file-when-manual-method-fails-stellar-by-stellar-guide/"><u>How to repair corrupted PDF v1.1 file when manual method fails | Stellar</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-in-game-glitches-top-strategies-for-stable-among-us-playbacks/"><u>Overcome In-Game Glitches: Top Strategies for Stable Among Us Playbacks</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-obstacles-fixing-lost-ark-on-pcmac-2024-edition/"><u>Overcoming Launch Obstacles: Fixing Lost Ark on PC/Mac - 2024 Edition</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/pioneering-the-silent-echo-techniques-and-tools-for-gradual-audio-fading-released/"><u>Pioneering the Silent Echo Techniques and Tools for Gradual Audio Fading Released</u></a></li>
+<li><a href="https://fox-within.techidaily.com/quick-and-easy-steps-to-clear-iphone-reminders/"><u>Quick & Easy Steps to Clear iPhone Reminders</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-world-of-warships-pc-issues-with-these-five-quick-remedies-crashing/"><u>Resolving World of Warships PC Issues with These Five Quick Remedies [Crashing]</u></a></li>
+<li><a href="https://win-able.techidaily.com/unable-to-play-verify-your-installation-for-seamless-gaming-experience/"><u>Unable to Play? Verify Your Installation for Seamless Gaming Experience</u></a></li>
 </ul></div>
 

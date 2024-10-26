@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Microsoft Edge Keeps Crashing on Windows 11 and How to Fix It"
-date: 2024-10-17T16:07:46.233Z
-updated: 2024-10-20T17:39:38.412Z
+date: 2024-10-18T23:48:00.777Z
+updated: 2024-10-26T05:52:27.987Z
 tags:
   - win11
   - win10
@@ -48,16 +48,16 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Run Microsoft Edge to check the problem is resolved or not.
 
@@ -74,6 +74,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 
@@ -82,10 +89,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this method can’t fix your problem, don’t upset, you can try the next method.
@@ -93,10 +100,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
@@ -108,22 +115,8 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
@@ -139,10 +132,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
@@ -165,6 +158,19 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
@@ -181,10 +187,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
@@ -215,22 +221,20 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-timelapse-excellence-iphones-quick-guide/"><u>[New] Timelapse Excellence IPhone's Quick Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tips-for-teachers-using-youtube-in-classroom/"><u>[New] Tips for Teachers Using YouTube in Classroom</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-vibing-with-visuals-merging-music-and-imagery-on-ig-for-2024/"><u>[New] Vibing with Visuals Merging Music and Imagery on IG for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-bringing-virtuality-closer-a-tale-of-two-cardboards-and-gear-vrs/"><u>[Updated] Bringing Virtuality Closer A Tale of Two Cardboards & Gear VRs</u></a></li>
-<li><a href="https://win-able.techidaily.com/4goproshooting/"><u>「4つの最適な方法でGoPro映像のファイルサイズを小さくしまSHOOTING」</u></a></li>
-<li><a href="https://win-able.techidaily.com/5-effective-methods-for-shrinking-your-webm-files-free-online-tools/"><u>5 Effective Methods for Shrinking Your WebM Files - Free Online Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/6ieq5yuv6luk44ks5pon5l2c44gz44kl44gf44kb44gu44op44kk44k744oz44k56kab5lu277ya44od44oq44k344o86kej6kqs/"><u>自動車を操作するためのライセンス要件：ポリシー解説</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-buffering-and-frame-drops-in-obs-comprehensive-fix-guide-new-strategies/"><u>Beat Buffering and Frame Drops in OBS: Comprehensive Fix Guide - New Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/comparing-video-codecs-unpacking-mpeg-4-and-h264-distinctions/"><u>Comparing Video Codecs: Unpacking MPEG-4 and H.264 Distinctions</u></a></li>
-<li><a href="https://win-able.techidaily.com/convert-your-favorite-vimeo-videos-into-mp4-format-for-free-with-these-simple-methods/"><u>Convert Your Favorite Vimeo Videos Into MP4 Format for Free with These Simple Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/convert-your-portrait-videos-free-a-step-by-step-guide-to-landscape-transformation/"><u>Convert Your Portrait Videos Free: A Step-by-Step Guide to Landscape Transformation</u></a></li>
-<li><a href="https://win-able.techidaily.com/discover-the-best-free-avi-players-your-comprehensive-selection-for-pc-mac-and-mobile-devices-androidios/"><u>Discover the Best Free AVI Players : Your Comprehensive Selection for PC, Mac, and Mobile Devices (Android/iOS)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-xiaomi-redmi-12-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Xiaomi Redmi 12 5G</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-a2-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi A2 Phone Hassle-Free</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-for-dll-file-not-found-messages-including-msvcr71dll/"><u>Troubleshooting Techniques for 'DLL File Not Found' Messages, Including MSVCR71.dll</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-aquatic-enhancements-for-gopro-footage-for-2024/"><u>Ultimate Aquatic Enhancements for GoPro Footage for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/opmusicreactionvids-yt-celebrity-highlights-2023/"><u>[New] TopMusicReactionVids YT Celebrity Highlights, 2023</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-cross-platform-success-televisions-and-facebook-collaboration/"><u>[Updated] In 2024, Cross-Platform Success Televisions & Facebook Collaboration</u></a></li>
+<li><a href="https://win-able.techidaily.com/directx-issues-in-fortnite-warzone-correct-them-within-4-easy-stages/"><u>DirectX Issues in Fortnite Warzone? Correct Them Within 4 Easy Stages</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragons-dogma-2-optimization-guide-addressing-frames-per-second-and-stutters/"><u>Dragon's Dogma 2 Optimization Guide: Addressing Frames Per Second & Stutters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-apples-ai-revolution-essential-insights-into-new-ai-capabilities-for-ios-and-macos-devices/"><u>Exploring Apple's AI Revolution: Essential Insights Into New AI Capabilities for iOS & macOS Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-dead-by-daylight-error-8014-for-seamless-gameplay/"><u>How to Fix Dead by Daylight Error 8014 for Seamless Gameplay</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 11 Pro Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-13c-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi 13C to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-the-mindset-of-openais-creators/"><u>Inside the Mindset of OpenAI's Creators</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insights-on-the-newly-revealed-meta-quest-3-pricing-info-debut-schedule-and-tech-specs-explained/"><u>Insights on the Newly Revealed Meta Quest 3: Pricing Info, Debut Schedule, & Tech Specs Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-through-the-dark-fixes-for-nba-2k21-loading-screen-glitches/"><u>Navigating Through the Dark: Fixes for NBA 2K21 Loading Screen Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-village-how-i-overcame-the-pesky-mouse-glitches/"><u>Resident Evil Village - How I Overcame The Pesky Mouse Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-reducing-high-processor-demand-in-new-world/"><u>Step-by-Step Guide: Reducing High Processor Demand in New World</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/warum-ubertragungen-vom-iphone-auf-das-ipad-nicht-unterstutzt-werden-ein-umfassender-leitfaden/"><u>Warum Übertragungen Vom iPhone Auf Das iPad Nicht Unterstützt Werden: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011528804-why-isnt-my-amazon-prime-video-working-expert-solutions-inside/"><u>Why Isn't My Amazon Prime Video Working? Expert Solutions Inside</u></a></li>
 </ul></div>
 

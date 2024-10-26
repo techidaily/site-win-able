@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Troubleshooting Steps for Crusader Kings 3 Stalling Performance in PC"
-date: 2024-10-14T16:41:42.299Z
-updated: 2024-10-20T16:10:06.024Z
+date: 2024-10-24T19:04:05.687Z
+updated: 2024-10-26T02:54:07.225Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ Necromunda: Hired Gun
 
  If you play Necromunda: Hired Gun on a powerful PC and the game still keeps crashing, read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of this issue vary from player to player, here we’ve gathered the latest fixes for the crashing issue. Whether Necromunda: Hired Gun crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -58,10 +65,10 @@ Necromunda: Hired Gun
 6. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Verify the game files
@@ -74,14 +81,20 @@ Necromunda: Hired Gun
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
-![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 It may take some time to complete the verifying process.
 
@@ -91,16 +104,16 @@ It may take some time to complete the verifying process.
 2. Click on the **three dots** under the **Necromunda: Hired Gun** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Necromunda: Hired Gun when the verifying process completed and see if it crashes or not. If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -147,18 +160,18 @@ It may take some time to complete the verifying process.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch_Necromunda: Hired Gun_ and see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Add the game as an exception to your 3rd party antivirus software
 
@@ -167,13 +180,6 @@ It may take some time to complete the verifying process.
  You can try adding both the game and steam (or Epic Games Launcher) as an exception to your third-party antivirus application. If necessary, you can also try temporarily disabling your 3rd party antivirus software before you play the game.
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking / turbo boosting
 
@@ -203,22 +209,22 @@ It may take some time to complete the verifying process.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-expected-video-gb-for-continuous-24-hour-viewing-for-2024/"><u>[New] Expected Video GB for Continuous 24-Hour Viewing for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-masterful-outros-and-descriptions-a-guide-to-excellence/"><u>[New] Masterful Outros and Descriptions A Guide to Excellence</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-insiders-look-at-the-most-effective-instagram-tags-for-growth-for-2024/"><u>[New] The Insider's Look at the Most Effective Instagram Tags for Growth for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-advanced-tactics-for-seamless-subtitles-on-vimeo-videos/"><u>2024 Approved Advanced Tactics for Seamless Subtitles on Vimeo Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/accelerating-gameplay-tips-for-fixing-prolonged-loading-cycles-in-fallout-4/"><u>Accelerating Gameplay: Tips for Fixing Prolonged Loading Cycles in Fallout 4</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-movies-you-can-start-watching-today-based-on-lifewire-suggestions/"><u>Best Movies You Can Start Watching Today, Based on Lifewire Suggestions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/budget-friendly-multiview-cameras-for-professional-use/"><u>Budget-Friendly Multiview Cameras for Professional Use</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/capture-and-save-everything-on-your-screen/"><u>Capture & Save Everything on Your Screen</u></a></li>
-<li><a href="https://win-able.techidaily.com/clear-the-haze-techniques-for-enhancing-cod-warzone-graphics-on-desktop-systems/"><u>Clear the Haze: Techniques for Enhancing COD: Warzone Graphics on Desktop Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-issues-how-to-prevent-escape-from-tarkov-from-crashing-on-your-windows-machine/"><u>Fix Issues: How to Prevent 'Escape From Tarkov' From Crashing on Your Windows Machine</u></a></li>
-<li><a href="https://win-able.techidaily.com/genshin-impact-bug-solved-overcoming-error-4201-with-ease/"><u>Genshin Impact Bug Solved! Overcoming Error 4201 with Ease</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-check-a-games-steam-price-history/"><u>How to Check a Game's Steam Price History</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-telegrams-wonders-for-marketers-beginning-their-journey/"><u>In 2024, Telegram’s Wonders for Marketers Beginning Their Journey</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-lag-how-to-keep-your-pubg-gaming-seamless-and-responsive/"><u>Overcoming Lag: How to Keep Your PUBG Gaming Seamless and Responsive</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-integration-of-pharmacogenomics-into-clinical-trials-is-becoming-more-common-to-assess-the-safety-and-efficacy-of-new-drugs-across-different-genetic-bac525/"><u>The Integration of Pharmacogenomics Into Clinical Trials Is Becoming More Common to Assess the Safety and Efficacy of New Drugs Across Different Genetic Backgrounds</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-common-mw3-pc-game-crashes-simple-solutions/"><u>Troubleshooting Common MW3 PC Game Crashes: Simple Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/watch-dogs-legion-how-to-fix-continuous-freezing-and-crashes-on-windows/"><u>Watch Dogs: Legion - How to Fix Continuous Freezing and Crashes on Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-capture-live-camera-feed-in-vlc-media-player/"><u>[New] In 2024, Capture Live Camera Feed in VLC Media Player</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-smart-list-essential-6-fb-lite-videos-for-you/"><u>[New] In 2024, Smart List Essential 6 FB Lite Videos for You</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-a-compreeved-look-at-sharex-opinions-and-alternatives-for-2024/"><u>[Updated] A Compreeved Look at ShareX Opinions & Alternatives for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-screencapture-2023-top-techs-recommendations-for-2024/"><u>[Updated] ScreenCapture 2023 Top Tech's Recommendations for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011732097-cult-of-the-lamb-stability-hacks-no-more-pc-disruptions/"><u>Cult of the Lamb Stability Hacks - No More PC Disruptions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722989888853-god-of-war-leaps-to-life-as-a-first-person-shooter-now-playable-on-your-computer/"><u>God of War Leaps to Life as a First-Person Shooter – Now Playable on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-the-power-of-windows-11-a-guide-to-7-effective-techniques-36/"><u>Harness the Power of Windows 11: A Guide to 7 Effective Techniques (36)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-warcraft-3-reforged-issues-top-solutions-for-a-smooth-gameplay-experience-in-202/"><u>Overcoming Warcraft 3 Reforged Issues: Top Solutions for a Smooth Gameplay Experience in 202</u></a></li>
+<li><a href="https://win-able.techidaily.com/razer-synapse-troubleshooting-how-to-solve-not-opening-problem/"><u>Razer Synapse Troubleshooting: How To Solve Not Opening Problem</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/seamless-facial-smoothing-motion-blur-techniques-in-picsart-for-2024/"><u>Seamless Facial Smoothing Motion Blur Techniques in Picsart for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/simplified-fixes-for-common-javascript-glitches-on-discord-platform/"><u>Simplified Fixes for Common JavaScript Glitches on Discord Platform</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-honor-magic-6-lite-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Honor Magic 6 Lite with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-issue-nier-replicante-game-no-longer-experiences-crashes/"><u>Solved Issue: NieR: Replicante Game No Longer Experiences Crashes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/strategies-for-choosing-the-right-time-to-stop-following-on-formerly-twitter-accounts/"><u>Strategies for Choosing the Right Time to Stop Following on [Formerly Twitter] Accounts</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-solve-valheim-latency-issues-on-your-windows-gaming-pc/"><u>Ultimate Guide: Solve Valheim Latency Issues on Your Windows Gaming PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/xbox-one-users-netflix-is-now-functional-after-fixes/"><u>Xbox One Users: Netflix Is Now Functional After Fixes!</u></a></li>
 </ul></div>
 

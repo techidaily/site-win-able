@@ -1,7 +1,7 @@
 ---
 title: Ready to Fix? Detailed Tips for Restoring 'DS4 Failed to Load' On Your PC
-date: 2024-10-16T20:35:04.244Z
-updated: 2024-10-20T18:51:26.419Z
+date: 2024-10-22T09:22:56.815Z
+updated: 2024-10-26T00:52:38.342Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Disable Discord in Task Manager
 
  Before getting started, you’ll need to end tasks running Discord in your computer, so you can delete Discord’s folders in your computer in Step 2.
@@ -53,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 3. In the**Process** tab, select any process related with**Discord** , and click**End task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
@@ -65,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 4. Then close**Task Manager** .
 
  Then you’ll be able to delete Discord folders. Continue with the steps below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Delete Discord folders
 
@@ -76,19 +76,26 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Type_**%LocalAppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
 6. Your File Explorer will open a new window. Right click the**Discord** **folder** and click**Delete** .  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
 7. Restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
 
@@ -115,13 +122,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15008084c8.jpg)
 3. Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1502542d98.jpg)
 4. Restart your computer to take effect.
@@ -143,20 +143,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-unlocking-potential-top-tactics-for-medical-ads-on-social-networks/"><u>[New] In 2024, Unlocking Potential Top Tactics for Medical Ads on Social Networks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-generating-auto-subscribe-hyperlinks-to-your-channels-yt/"><u>[Updated] 2024 Approved Generating Auto-Subscribe Hyperlinks to Your Channel's YT</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-bridging-scripts-with-voices-turning-xmlttml-into-srt/"><u>2024 Approved Bridging Scripts with Voices Turning XML/TTML Into SRT</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-honor-v-purse-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Honor V Purse to Roku | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-honor-80-pro-straight-screen-edition-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor 80 Pro Straight Screen Edition Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/can-you-submerge-your-iphone-13-without-damage/"><u>Can You Submerge Your iPhone 13 Without Damage?</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-origin-application-failure-to-start-up/"><u>Fixing Origin Application Failure to Start Up</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-roblox-load-issues-solutions-for-a-smooth-gameplay-experience/"><u>Fixing Roblox Load Issues: Solutions for a Smooth Gameplay Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-your-game-library-resolve-warzone-disc-read-errors-50-31-for-pc-users/"><u>Fixing Your Game Library: Resolve Warzone Disc Read Errors [5.0, 3.1] for PC Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-repair-your-broken-hp-display-expert-advice/"><u>How to Repair Your Broken HP Display – Expert Advice</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/lost-in-digital-battlefields-reboot-your-link-with-blizzard-gaming-servers-now/"><u>Lost in Digital Battlefields? Reboot Your Link with Blizzard Gaming Servers Now</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-skyfall-solving-launch-issues-in-how-to-build-a-city-sims-3/"><u>Troubleshooting SkyFall: Solving Launch Issues in How to Build a City - Sims 3</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unboxing-and-testing-the-third-gen-apple-airpods-key-upgrades-and-performance-insights-review/"><u>Unboxing & Testing the Third-Gen Apple AirPods: Key Upgrades and Performance Insights Review</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-how-to-log-your-favorites-6-proven-methods-for-webcast-capture/"><u>[New] 2024 Approved How to Log Your Favorites 6 Proven Methods for Webcast Capture</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1725288366897-dvd-usb-type-c-surface-hubmacbook-chromebook-pixel/"><u>如何将 DVD 转移至 USB Type-C 设备，包括 Surface Hub、MacBook 和 Chromebook Pixel</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-the-annoying-bug-secrets-to-stable-fifa-nplay-on-your-computer/"><u>Defeat the Annoying Bug - Secrets to Stable FIFA Nplay on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-fixing-the-launch-error-in-stardew-valley-a-step-by-step-guide/"><u>Expert Tips: Fixing the Launch Error in Stardew Valley - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-dreaded-steam-error-code-amoled-in-no-time/"><u>Fixing the Dreaded Steam Error Code Amoled in No Time!</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hid-keyboard-user-guide-finding-and-installing-the-latest-drivers-with-ease/"><u>HID Keyboard User Guide: Finding and Installing the Latest Drivers with Ease</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-adding-youtube-captionssubtitles-made-simple-and-fast/"><u>In 2024, Adding YouTube Captions/Subtitles Made Simple and Fast</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-ark-scorched-earth-gameplay-tips-for-increasing-pc-frame-rates/"><u>Maximizing ARK: Scorched Earth Gameplay: Tips for Increasing PC Frame Rates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimizing-your-tech-life-innovative-solutions-with-toms-hardware/"><u>Optimizing Your Tech Life: Innovative Solutions with Tom's Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/skyline-gaming-unlocking-xbox-series-xs-potential/"><u>Skyline Gaming: Unlocking Xbox Series X's Potential</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-never-ending-journey-continuous-victory-for-the-black-survival-storyline/"><u>The Never-Ending Journey: Continuous Victory for the Black Survival Storyline</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-stop-dragon-age-origins-from-crashing-on-windows-11/"><u>Troubleshooting Guide: Stop Dragon Age: Origins From Crashing on Windows 11!</u></a></li>
 </ul></div>
 

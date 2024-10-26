@@ -1,7 +1,7 @@
 ---
 title: Decode the Error 6 Challenge – Tips and Fixes for Modern Warfare & Warzone Players
-date: 2024-10-18T17:39:23.941Z
-updated: 2024-10-20T17:27:42.974Z
+date: 2024-10-25T02:17:26.885Z
+updated: 2024-10-25T20:41:39.036Z
 tags:
   - win11
   - win10
@@ -32,6 +32,19 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Adjust your proxy settings
 
  In most cases, Error 130 happens when your browser fails to connect to the internet because of improper proxy configuration. To fix it, follow the instructions below:
@@ -45,22 +58,15 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the**Connections tab** , then**LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
@@ -69,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
 
@@ -129,32 +128,26 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
@@ -164,6 +157,13 @@ OR
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
@@ -178,16 +178,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
@@ -220,20 +214,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-exploring-advanced-recording-alternatives-to-fbx-frameworks-for-2024/"><u>[Updated] Exploring Advanced Recording Alternatives to FBX Frameworks for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ai-gameplay-changes-exploring-steams-new-policies/"><u>AI Gameplay Changes: Exploring Steam's New Policies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-twitchs-chat-room-puzzles-a-guide-for-newcomer-audiences/"><u>Decoding Twitch's Chat Room Puzzles: A Guide for Newcomer Audiences</u></a></li>
-<li><a href="https://win-guides.techidaily.com/fix-windows-10-missing-disk-partitions-quickly-and-easily-expert-tutorial-video/"><u>Fix Windows 10 Missing Disk Partitions Quickly & Easily - Expert Tutorial (Video)</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-overcoming-common-crashes-in-tales-of-arise/"><u>Fixes & Solutions: Overcoming Common Crashes in 'Tales of Arise'</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-cannot-reach-system-event-notification-services-error-message/"><u>How to Fix Windows Cannot Reach System Event Notification Services Error Message</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011206653-how-to-get-your-obs-to-resume-screen-recording-problem-solved/"><u>How to Get Your OBS to Resume Screen Recording: Problem Solved!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quick-correction-quest-how-to-skillfully-edit-images-on-win10/"><u>In 2024, Quick Correction Quest How to Skillfully Edit Images on WIN10</u></a></li>
-<li><a href="https://win-able.techidaily.com/insurgency-sandstorm-no-more-fixing-the-perpetual-game-breaking-glitch/"><u>Insurgency: Sandstorm No More! Fixing the Perpetual Game-Breaking Glitch</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-stability-leaf-of-legends-crash-fixes-in-minutes/"><u>Mastering Stability: Leaf of Legends Crash Fixes in Minutes!</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-simplify-your-storytelling-easy-movie-making-techniques/"><u>New In 2024, Simplify Your Storytelling Easy Movie Making Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ideal-timing-a-guide-on-how-to-opt-out-from-your-previously-followed-accounts-on-x-formerly-twitter/"><u>The Ideal Timing: A Guide on How to Opt Out From Your Previously Followed Accounts on [X Formerly Twitter]</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-getting-genshin-impact-up-and-running-again/"><u>Troubleshooting Tips: Getting Genshin Impact Up and Running Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/ubisoft-connect-troubleshooting-techniques-to-restore-connection-2nvoice-guide-2024/"><u>Ubisoft Connect Troubleshooting Techniques to Restore Connection - 2nVoice Guide 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-debugging-cities-skylines-bugs-2024-edition/"><u>Ultimate Guide to Debugging Cities: Skylines Bugs - 2024 Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-guide-altering-voices-for-a-competitive-edge-in-free-fire-for-2024/"><u>[Updated] The Ultimate Guide Altering Voices for a Competitive Edge in Free Fire for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/assessing-new-windows-editions-which-fits-you-best-home-or-pro/"><u>Assessing New Windows Editions: Which Fits You Best, Home or Pro?</u></a></li>
+<li><a href="https://win-able.techidaily.com/compression-utilize-elastic-bandages-or-compression-wraps-to-apply-gentle-pressure-around-the-injured-area-this-can-help-control-swelling-and-provide-suppor565/"><u>Compression: Utilize Elastic Bandages or Compression Wraps to Apply Gentle Pressure Around the Injured Area. This Can Help Control Swelling and Provide Support.</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-microsoft-flight-simulator-2020-update-issues-resolved/"><u>Fixing the Microsoft Flight Simulator 2020: Update Issues Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-stutter-and-crashes-in-fall-guys-on-your-computer/"><u>Guide to Fixing Stutter and Crashes in Fall Guys on Your Computer</u></a></li>
+<li><a href="https://techidaily.com/1723808221412-how-to-block-calls-on-iphone-and-android-phone-quickly-and-easily/"><u>How to Block Calls on iPhone & Android Phone | Quickly & Easily</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-cameras-for-pixel-art-animation/"><u>In 2024, Best Cameras for Pixel Art Animation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-learn-to-convert-your-vids-into-music-on-instagram-today/"><u>In 2024, Learn to Convert Your Vids Into Music on Instagram Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-why-your-current-cpu-may-not-support-vanguard-software/"><u>Optimizing Performance: Why Your Current CPU May Not Support Vanguard Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/record-ppt-for-screenplay-use/"><u>Record PPT for Screenplay Use</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-cannot-reach-live-config-servers-issue-step-by-step-fixes/"><u>Resolving 'Cannot Reach Live Config Servers' Issue - Step-by-Step Fixes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722966757772-successful-download-and-update-of-amd-vega-64-drivers-for-windows-systems-troubleshooting-guide-now-fixed/"><u>Successful Download & Update of AMD Vega 64 Drivers for Windows Systems: Troubleshooting Guide - NOW FIXED!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-launch-issues-with-civilization-vi-on-windows-10/"><u>Troubleshooting Guide: Fixing Launch Issues with Civilization VI on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-overcoming-fatal-error-ark-challenges/"><u>Troubleshooting Tips for Overcoming Fatal Error Ark Challenges</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-top-chargers-for-rechargeable-batteries-expert-picks/"><u>Unveiling the Top Chargers for Rechargeable Batteries - Expert Picks</u></a></li>
 </ul></div>
 
