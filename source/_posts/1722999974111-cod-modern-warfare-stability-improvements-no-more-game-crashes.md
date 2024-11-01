@@ -1,7 +1,7 @@
 ---
 title: "Cod: Modern Warfare Stability Improvements - No More Game Crashes"
-date: 2024-10-23T02:23:06.336Z
-updated: 2024-10-26T12:41:45.782Z
+date: 2024-10-29T03:24:44.380Z
+updated: 2024-11-01T07:31:57.898Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ Here is how to view your computer specifications:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-131.png)
@@ -66,13 +73,6 @@ Here is how to view your computer specifications:
 
  Make sure your computer meets the requirements, then move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Disable your antivirus temporarily
 
  The_Total War_ crashing is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -82,13 +82,6 @@ Here is how to view your computer specifications:
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 If your game still crashes, move on and try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: **Run your game as an administrator**
 
@@ -102,22 +95,15 @@ If your game still crashes, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Restart_Total War_ from Steam.
@@ -180,10 +166,10 @@ There are two ways you can get the right driver for your graphics card:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
@@ -225,10 +211,16 @@ There are two ways you can get the right driver for your graphics card:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-655.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Relaunch_Total War_ .
@@ -236,10 +228,10 @@ There are two ways you can get the right driver for your graphics card:
 If your issue persists, go ahead with the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: Configure your in-game graphics settings
@@ -256,13 +248,34 @@ If your issue persists, go ahead with the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-227.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Modify the graphics settings following the screenshot below, then click CONFIRM to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-656.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Relaunch your game to test your issue.
 
 If your game crashes again, try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall Steam
 
@@ -287,13 +300,6 @@ If your game crashes again, try the fix below.
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -336,18 +342,22 @@ If your game crashes again, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-instagram-video-troubleshooting-no-silence-full-sound/"><u>[New] Instagram Video Troubleshooting - No Silence, Full Sound</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-mastering-iphone-flipping-and-tilting-photos-perfectly/"><u>[Updated] Mastering iPhone Flipping & Tilting Photos Perfectly</u></a></li>
-<li><a href="https://win-able.techidaily.com/1-teaspoon-salt/"><u>1 Teaspoon Salt</u></a></li>
-<li><a href="https://win-able.techidaily.com/ark-ii-on-pc-crashes-discover-these-9-fixes-for-a-smooth-gaming-experience/"><u>ARK II on PC Crashes? Discover These 9 Fixes for a Smooth Gaming Experience!</u></a></li>
-<li><a href="https://fox-info.techidaily.com/construct-clever-caricatures-on-giphy/"><u>Construct Clever Caricatures on Giphy</u></a></li>
-<li><a href="https://win-able.techidaily.com/ensuring-steam-game-data-syncs-with-the-cloud-a-comprehebate-guide/"><u>Ensuring Steam Game Data Syncs with the Cloud - A Comprehebate Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-repairing-launch-issues-with-the-thaumaturge-software-on-desktop-systems/"><u>Expert Tips for Repairing Launch Issues with the Thaumaturge Software on Desktop Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/find-the-right-aspect-ratio-for-your-video-for-2024/"><u>Find The Right Aspect Ratio For Your Video for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/game-on-without-glitches-solving-rocket-league-crashing-issues/"><u>Game On Without Glitches: Solving 'Rocket League' Crashing Issues</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-persistent-connection-failed-bug-for-game-cheaters-on-eft/"><u>How to Fix the Persistent 'Connection Failed' Bug for Game Cheaters on EFT</u></a></li>
-<li><a href="https://win-dash.techidaily.com/dvdav-dvd/"><u>アダルトDVDの完璧なバックアップ：最新「AV DVDコピー技術」</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-complete-motion-evaluation-2023/"><u>[New] 2024 Approved Complete Motion Evaluation 2023</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-noise-free-recording-strategy/"><u>[New] In 2024, The Ultimate Noise-Free Recording Strategy</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-steam-keeps-crashing-quickly-and-easily/"><u>[SOLVED] Steam Keeps Crashing | Quickly & Easily!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-virtual-venue-video-verifier/"><u>2024 Approved Virtual Venue Video Verifier</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002993614-bioshock-2-reborn-with-fixes-a-remastered-gaming-journey-you-cant-miss/"><u>BioShock 2 Reborn with Fixes: A Remastered Gaming Journey You Can't Miss</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001127536-cracking-the-code-stop-dauntless-from-crashing-on-your-computer-now/"><u>Cracking the Code: Stop Dauntless From Crashing on Your Computer Now</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1653600-9780857011619-daoist-meditation/"><u>Daoist Meditation | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-to-fix-error-code-n-103003-in-arma-tarkov-mission/"><u>Expert Solutions to Fix 'Error Code N 103003' In Arma Tarkov Mission</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-efficiently-take-screenshots-with-your-hp-laptops-built-in-tools/"><u>How to Efficiently Take Screenshots with Your HP Laptop's Built-In Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-best-10-volume-magnifiers-for-windowsmacos/"><u>In 2024, Best 10 Volume Magnifiers for Windows/MacOS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-6-plus-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 6 Plus</u></a></li>
+<li><a href="https://win-able.techidaily.com/team-fortress-nagging-problems-heres-how-to-fix-the-game-from-not-loading/"><u>Team Fortress Nagging Problems? Here's How to Fix the Game From Not Loading</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-solve-gta-v-online-connectivity-issues/"><u>Troubleshooting Steps to Solve GTA V Online Connectivity Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-solving-wallpaper-engine-stability-errors-for-windows-users/"><u>Troubleshooting Tips: Solving Wallpaper Engine Stability Errors for Windows Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-to-simultaneously-watching-dual-youtubes-top-double-player-apps/"><u>Ultimate Guide to Simultaneously Watching Dual YouTubes - Top Double Player Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-the-15-greatest-dolby-atmos-movie-choices-for-in-home-viewing/"><u>Ultimate List of the 15 Greatest Dolby Atmos Movie Choices for In-Home Viewing</u></a></li>
+<li><a href="https://win-able.techidaily.com/untangling-directdraw-glitches-effective-solutions-for-gamers-and-developers/"><u>Untangling DirectDraw Glitches: Effective Solutions for Gamers and Developers</u></a></li>
 </ul></div>
 

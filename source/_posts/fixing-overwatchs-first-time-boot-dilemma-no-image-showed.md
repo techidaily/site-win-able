@@ -1,7 +1,7 @@
 ---
 title: Fixing Overwatch's First-Time Boot Dilemma – No Image Showed
-date: 2024-10-20T10:05:07.232Z
-updated: 2024-10-26T09:37:24.188Z
+date: 2024-10-27T10:07:48.931Z
+updated: 2024-11-01T02:58:28.366Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 4. [**Set graphics preference to High performance**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Run Warzone in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics driver
 
  In most cases, Warzone won’t work properly with your GPU when you’re using**a broken or outdated graphics driver** . So first you need to make sure you have the latest correct graphics driver. The newest driver usually helps improve compatibility and boost in-game performance.
@@ -56,20 +49,27 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-pro-3070-update-all.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your PC and test the gameplay in Warzone.
 
  If the latest GPU driver doesn’t give you luck, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Install all Windows updates
 
@@ -87,6 +87,13 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -103,20 +110,27 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, click**Manage 3D settings** . Click**CUDA – GPUs** and select your graphics card. Then click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-1.jpg)
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-2.jpg)
 4. Now start your game and check if it’s running properly.
 
- If this trick doesn’t work for you, simply move on to the next one.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If this trick doesn’t work for you, simply move on to the next one.
 
 ### Fix 4: Set graphics preference to High performance
 
@@ -129,42 +143,28 @@ Once done, restart your PC and see if Warzone is using your GPU.
 3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (By default it’s_%USERPROFILE%\\Documents\\Call of Duty Modern Warfare_ )  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings-warzone-browse.jpg)
 4. Click**Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-1.jpg)
 5. In the pop-up window, select**High performance** and click**OK** to apply the settings.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-2.jpg)
 6. You can do the same for**Modern Warfare Launcher.exe** . Once done, start Warzone and compare the GPU utilization with the gameplay.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this setting doesn’t help, take a look at the next solution below.
 
@@ -196,16 +196,22 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-complete-analysis-of-gecatas-play-recorder/"><u>[New] Complete Analysis of Gecata's Play Recorder</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-mastering-youtube-subscriber-milestones/"><u>[Updated] Mastering YouTube Subscriber Milestones</u></a></li>
-<li><a href="https://win-able.techidaily.com/a-beginners-guide-to-navigating-and-using-the-mobile-version-of-driver-easy/"><u>A Beginner's Guide to Navigating and Using the Mobile Version of Driver Easy</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-and-rectifying-simultaneous-dips-in-fps-during-pc-gaming-sessions/"><u>Diagnosing and Rectifying Simultaneous Dips in FPS During PC Gaming Sessions</u></a></li>
-<li><a href="https://win-able.techidaily.com/grand-theft-auto-v-resolved-fixes-for-gameplay-lag-issues/"><u>Grand Theft Auto V Resolved: Fixes for Gameplay Lag Issues</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-earn-big-on-youtube-strategies-for-successful-creators/"><u>In 2024, Earn Big on YouTube Strategies for Successful Creators</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-poco-x5-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Poco X5 Pro Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-contrast-of-virtual-realms-meta-vs-omni-universe/"><u>In 2024, The Contrast of Virtual Realms Meta Vs. Omni Universe</u></a></li>
-<li><a href="https://win-able.techidaily.com/minecraft-installation-woes-heres-how-you-can-get-it-running-smoothly-on-windows-11/"><u>Minecraft Installation Woes? Here's How You Can Get It Running Smoothly on Windows 11!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/premier-audio-archivers-for-teachings/"><u>Premier Audio Archivers for Teachings</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-fixes-for-football-manager-2021-pc-game-crashes/"><u>Solved: Fixes for Football Manager 2021 PC Game Crashes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-brief-sequences-lasting-impressions-time-lapse-with-samsung/"><u>[New] Brief Sequences, Lasting Impressions Time-Lapse with Samsung</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-professional-insights-into-androids-recording-features/"><u>[Updated] 2024 Approved Professional Insights Into Android's Recording Features</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-discover-the-art-of-clear-photo-edits-with-picsart-bg-removal-for-2024/"><u>[Updated] Discover the Art of Clear Photo Edits with Picsart Bg Removal for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-100-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor 100</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/boost-video-velocity-top-android-helpers/"><u>Boost Video Velocity - Top Android Helpers</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-methods-for-converting-obs-formatted-videos-from-mkv-to-mp4-on-windows-platform/"><u>Efficient Methods for Converting OBS-Formatted Videos From MKV to MP4 on Windows Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-batch-transformation-from-video-to-sound-using-vlc-media-player-step-by-step-tutorial/"><u>Effortless Batch Transformation From Video to Sound Using VLC Media Player – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-repairing-the-hey-siri-feature-on-iphones-in-17-steps/"><u>Expert Advice: Repairing the 'Hey Siri' Feature on iPhones in 17 Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-on-utilizing-flv-video-converter-factory-pro-effectively/"><u>Expert Guide on Utilizing FLV Video Converter Factory Pro Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-dvd-playback-problems-with-vlc-on-microsoft-windows-11-a-step-by-step-guide/"><u>Fixing DVD Playback Problems with VLC on Microsoft Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/flawless-conversion-how-to-turn-your-au-tracks-into-mp3s-without-hassle/"><u>Flawless Conversion: How to Turn Your AU Tracks Into MP3s Without Hassle</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-methods-for-transforming-m4v-audio-into-high-quality-wav-on-windows-systems/"><u>Free Methods for Transforming M4V Audio Into High-Quality WAV on Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-techniques-for-combining-avi-files-in-windows-11-your-step-by-step-resource/"><u>Free Techniques for Combining AVI Files in Windows 11 - Your Step-by-Step Resource</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-easily-transform-your-youtube-videos-into-midi-format-a-cost-free-guide/"><u>How to Easily Transform Your YouTube Videos Into MIDI Format: A Cost-Free Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-new-era-of-mobile-internet-with-verizons-5g-advancements/"><u>Navigating the New Era of Mobile Internet with Verizon's 5G Advancements</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-windows-8-mp4-editor-the-ultimate-video-editing-solution/"><u>Updated In 2024, Windows 8 MP4 Editor The Ultimate Video Editing Solution</u></a></li>
 </ul></div>
 

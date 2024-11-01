@@ -1,7 +1,7 @@
 ---
 title: Immortals of Fenyx Rising Game Stability Issues - Resolved
-date: 2024-09-10T14:08:12.153Z
-updated: 2024-09-11T14:08:12.153Z
+date: 2024-10-30T08:32:06.336Z
+updated: 2024-10-31T23:25:56.321Z
 tags:
   - win11
   - win10
@@ -28,19 +28,18 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Make sure your PC specs meet the requirements
 
@@ -68,19 +67,12 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Verify the integrity of game files
 
@@ -93,34 +85,14 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
@@ -152,39 +124,18 @@ If this method doesn’t help, you can take a look at the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Install all Windows updates
 
@@ -211,8 +162,6 @@ And here’s how you can make sure your system is the latest:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +169,24 @@ And here’s how you can make sure your system is the latest:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/improved-overcoming-frequent-r-type-final-2-game-crashes-on-personal-computers-a-detailed-guide/"><u>[IMPROVED] Overcoming Frequent R-Type Final #2 Game Crashes on Personal Computers - A Detailed Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/valuating-tseries-business-model-with-youtube-viewership-metrics/"><u>[New] Evaluating TSeries' Business Model with YouTube Viewership Metrics</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-superior-audio-options-for-video-makers/"><u>[Updated] Superior Audio Options for Video Makers</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999317534-constraint-b-ensure-to-maintain-the-original-documents-sentence-structure-and-punctuation-after-translation/"><u>Constraint B: Ensure to Maintain the Original Document's Sentence Structure and Punctuation After Translation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/eero-pro-router-range-review-achieving-impeccable-internet-access-throughout-your-residence/"><u>Eero Pro Router Range Review: Achieving Impeccable Internet Access Throughout Your Residence</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-errors-resolving-warno-issues-on-your-windows-pc/"><u>Fixing Persistent Errors: Resolving WARNO Issues on Your Windows PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-glitch-how-to-keep-assassins-creed-odyssey-running-smoothly-free-tips/"><u>Fixing the Glitch: How to Keep 'Assassin's Creed Odyssey' Running Smoothly - Free Tips!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-your-cyberpunk-2077-game-installation-problems-on-steam/"><u>Fixing Your Cyberpunk 2077 Game Installation Problems on Steam</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-bigger-photos-uncompromised-clarity/"><u>In 2024, Bigger Photos, Uncompromised Clarity</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-6s-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 6s Location by Number | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/prime-15-web-based-editing-platforms-reviewed-all-free/"><u>Prime 15 Web-Based Editing Platforms Reviewed, All FREE</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-ion-audio-tailgaterplus-offers-nonstop-boosted-bass-sound-with-one-click/"><u>Review: ION Audio Tailgater+ Offers Nonstop, Boosted Bass Sound with One Click</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-to-overcome-the-blue-screen-of-death-glitch-in-hell-divers-game/"><u>Solutions to Overcome the 'Blue Screen of Death' Glitch in Hell Divers Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/speed-up-your-fallout-fontm-tips-for-reducing-long-wait-times/"><u>Speed Up Your Fallout ˈFōnːtɪʉm - Tips for Reducing Long Wait Times</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-fix-voice-communication-problems-in-pubg/"><u>Troubleshooting: How to Fix Voice Communication Problems in PUBG</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-does-psychonauts-2-keep-crashing-a-step-by-step-fix-for-gamers/"><u>Why Does Psychonauts 2 Keep Crashing? A Step-by-Step Fix for Gamers</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/vss-windows-servervss/"><u>バックアップ作成を始めるための VSS: Windows ServerのVSS機能利用ガイド</u></a></li>
+</ul></div>
 

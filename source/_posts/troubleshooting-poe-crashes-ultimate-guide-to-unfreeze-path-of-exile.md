@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting POE Crashes: Ultimate Guide to Unfreeze Path of Exile"
-date: 2024-10-20T10:45:20.689Z
-updated: 2024-10-25T23:22:49.529Z
+date: 2024-10-25T21:14:45.887Z
+updated: 2024-10-31T23:33:09.853Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) **[to check for conflicting programs](https://tools.techidaily.com/drivereasy/download/)**
 9. [**Create TileDatalayer and Database folder**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 Run Origin and FIFA 19 as administrator
 
  If your FIFA 19 keeps giving you the crashing error, the first method you can try is running both Origin and FIFA 19 as Administrator, which allows you to get full access to the game files.
@@ -73,9 +66,23 @@ If you still have the issue, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-hardware-acceleration-1-1200x638.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 Allow FIFA 19 to run through the Firewall
 
@@ -84,13 +91,6 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 Update your device drivers
 
@@ -114,13 +114,6 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged driver to automatically download the correct version of this driver, and then you can manually install it (you can do this with the FREE version).
 
 OR
@@ -128,19 +121,6 @@ OR
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -178,13 +158,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/force-V-Sync-On.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For AMD users:  
 
  1) Type**Catalyst control center** in the search bar, and press Enter.  
@@ -206,10 +179,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-admin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Copy & paste**sfc /scannow** into the box and hit**Enter** . This takes about 3-5 min.
@@ -271,9 +244,23 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.  
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8**Perform a clean boot to check for conflicting programs**
 
@@ -283,13 +270,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/system-config.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services.png)
@@ -298,9 +278,23 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/open-task-manager.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/startup.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Go back to **System Configuration** , then click **OK** to save the changes.
 
@@ -322,16 +316,16 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/power-shell.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re on Windows 11, it will be**Terminal (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Copy the following command and press**Enter** .
 
@@ -366,16 +360,22 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-strategies-to-increase-views-via-thumbnails/"><u>[New] 2024 Approved Strategies to Increase Views via Thumbnails</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-dichotomy-of-digital-minis-youtubes-efficiency-versus-tiktoks-trendiness/"><u>[New] The Dichotomy of Digital Minis YouTube's Efficiency Versus TikTok's Trendiness</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchats-creative-frontier-mastering-more-than-120-stories-with-individual-flair/"><u>[Updated] Snapchat's Creative Frontier Mastering More than 120 Stories with Individual Flair</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011933688-bypassing-common-discord-overlay-glitches-easy-solutions-inside/"><u>Bypassing Common Discord Overlay Glitches - Easy Solutions Inside!</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-solutions-for-persistent-program-malfunction-fast-resolution-techniques/"><u>Effortless Solutions for Persistent Program Malfunction – Fast Resolution Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-valheim-low-fps-2024-tips/"><u>How to Fix Valheim Low FPS - 2024 Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-unreliable-are-current-ai-methods-for-identifying-duplicate-online-material/"><u>How Unreliable Are Current AI Methods for Identifying Duplicate Online Material?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-snapslowly-the-art-of-time-lapse-via-samsung/"><u>In 2024, SnapSlowly The Art of Time-Lapse via Samsung</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/reimagine-your-visuals-embrace-nixplay-iriss-cloud-features/"><u>Reimagine Your Visuals: Embrace Nixplay Iris's Cloud Features</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-your-logitech-games-app-refuses-to-start/"><u>Troubleshooting Steps When Your Logitech Games App Refuses to Start</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-im-holding-off-on-the-new-m4-mac-mini-purchase-how-apples-latest-mac-studio-innovation-could-be-game-changing/"><u>Why I'm Holding Off on the New M4 Mac Mini Purchase: How Apple's Latest Mac Studio Innovation Could Be Game-Changing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-elevate-youtube-broadcasts-select-the-right-webcam-for-2024/"><u>[New] How to Elevate YouTube Broadcasts Select the Right Webcam for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-diablo-2-resurrected-crashing/"><u>[SOLVED] Diablo 2 Resurrected Crashing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-young-entrepreneurs-guide-buying-profitable-youtube-sites/"><u>[Updated] Young Entrepreneur's Guide Buying Profitable YouTube Sites</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-visual-producer-hub/"><u>2024 Approved Visual Producer Hub</u></a></li>
+<li><a href="https://win-able.techidaily.com/disco-elysium-wont-launch-on-windows-troubleshooting-steps-inside/"><u>Disco Elysium Won't Launch on Windows – Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009050571-easily-solved-how-to-stop-your-division-2-game-from-crashing/"><u>Easily Solved: How to Stop Your Division 2 Game From Crashing</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oneplus-nord-n30-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Nord N30 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-become-the-brand-you-want-with-our-exclusive-set-of-free-graphics/"><u>In 2024, Become the Brand You Want With Our Exclusive Set of FREE Graphics!</u></a></li>
+<li><a href="https://win-able.techidaily.com/path-of-exile-connection-woes-a-step-by-step-fix-for-the-2024-edition-your-ultimate-resource/"><u>Path of Exile Connection Woes? A Step-by-Step Fix for the 2024 Edition - Your Ultimate Resource</u></a></li>
+<li><a href="https://win-able.techidaily.com/rapid-enhancements-unsticking-and-streamlining-shaders-for-star-wars-battlefront-ii/"><u>Rapid Enhancements: Unsticking and Streamlining Shaders for Star Wars Battlefront II</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-chrome-induced-system-time-missteps-windows/"><u>Rectifying Chrome-Induced System Time Missteps (Windows)</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-the-steam-game-file-access-issue/"><u>Resolved: Fixing the Steam Game File Access Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-counter-strike-2-boot-problems-for-smoother-gaming-experience/"><u>Resolving Counter-Strike 2 Boot Problems for Smoother Gaming Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamline-avi-to-gif-filmora-for-pc-and-mac-users/"><u>Streamline AVI to GIF Filmora for PC & Mac Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-thaumaturge-game-freezing-issue-on-your-pc/"><u>Troubleshooting the Thaumaturge Game Freezing Issue on Your PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-solve-your-iphone-connection-issues-with-pc/"><u>Troubleshooting: How to Solve Your iPhone Connection Issues with PC</u></a></li>
 </ul></div>
 

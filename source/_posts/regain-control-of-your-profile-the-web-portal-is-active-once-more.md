@@ -1,7 +1,7 @@
 ---
 title: "Regain Control of Your Profile: The Web Portal Is Active Once More"
-date: 2024-10-23T09:22:17.917Z
-updated: 2024-10-26T13:55:53.072Z
+date: 2024-10-25T05:38:13.650Z
+updated: 2024-11-01T05:33:47.372Z
 tags:
   - win11
   - win10
@@ -55,19 +55,19 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. You’ll need the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) to do this and you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking
 
@@ -82,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here are the system requirements for Control:
 
@@ -112,16 +119,16 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
 
@@ -130,36 +137,23 @@ Here are the system requirements for Control:
 2. View the Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Modify Intel graphics card
@@ -170,6 +164,13 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
@@ -210,10 +211,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
@@ -232,10 +233,10 @@ Here are the system requirements for Control:
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: Verify the game file
@@ -249,13 +250,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
 
@@ -304,20 +298,24 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>[New] 2024 Approved Get Going on YouTube Video Upload Tutorial in Premiere</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-navigating-cloud-data-costs-comparison-and-best-price-paths/"><u>[Updated] In 2024, Navigating Cloud Data Costs Comparison & Best Price Paths</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-seamless-video-upload-the-best-10-flv-to-youtubes-tools/"><u>[Updated] Seamless Video Upload The Best 10 Flv to YouTubes Tools</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/acer-predator-triton-300-se-review-small-laptop-big-value/"><u>Acer Predator Triton 300 SE Review: Small Laptop, Big Value</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-eta-8014-glitch-in-dead-by-daylight-a-step-by-step-guide/"><u>How to Overcome ETA 8014 Glitch in Dead by Daylight - A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-se-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone SE | Stellar</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-from-youtube-to-igtv-top-methods-unveiled/"><u>In 2024, From YouTube to IGTV Top Methods Unveiled</u></a></li>
-<li><a href="https://win-able.techidaily.com/instantly-resolve-your-fortnite-startup-woes-with-these-tricks/"><u>Instantly Resolve Your Fortnite Startup Woes with These Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-tips-optimizing-your-gameplay-enhancing-fps-on-watch-dogs-legion/"><u>Master Tips: Optimizing Your Gameplay - Enhancing FPS on Watch Dogs: Legion</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/my-frustrating-experience-with-a-major-airline-not-southwest-a-tale-of-disappointment/"><u>My Frustrating Experience with a Major Airline (Not Southwest): A Tale of Disappointment</u></a></li>
-<li><a href="https://win-able.techidaily.com/revamp-your-gaming-experience-top-7-troubleshooting-steps-to-resolve-halo-infinite-pc-stuttering-issues/"><u>Revamp Your Gaming Experience: Top 7 Troubleshooting Steps to Resolve Halo Infinite PC Stuttering Issues</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/squeezing-light-from-iphone-nocturnes/"><u>Squeezing Light From iPhone Nocturnes</u></a></li>
-<li><a href="https://win-able.techidaily.com/successfully-playing-disco-elysium-on-pc-after-previous-crashes-tips-and-tricks-to-ensure-uninterrupted-gaming/"><u>Successfully Playing Disco Elysium on PC After Previous Crashes: Tips and Tricks to Ensure Uninterrupted Gaming</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-gear-best-mac-apps-for-capturing-videos/"><u>Top Gear Best Mac Apps for Capturing Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-get-civilization-vi-working-again-on-your-windows-11-pc/"><u>Troubleshooting Steps to Get Civilization VI Working Again on Your Windows 11 PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-creating-a-viral-traction-with-6-strategic-steps-in-youtube-marketing/"><u>[New] 2024 Approved Creating a Viral Traction with 6 Strategic Steps in YouTube Marketing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-sifting-through-the-best-video-hosting-options-with-vimeo-memberships/"><u>[New] 2024 Approved Sifting Through the Best Video Hosting Options with Vimeo Memberships</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-lava-agni-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-4k-displays-with-game-changing-features/"><u>Best 4K Displays with Game-Changing Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999057156-busting-the-double-frame-rate-drop-mystery-on-pc-expert-solutions-revealed/"><u>Busting The Double Frame Rate Drop Mystery on PC – Expert Solutions Revealed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-resolving-wallpaper-engine-issues-in-windows-11-and-10/"><u>Fixes & Solutions: Resolving Wallpaper Engine Issues in Windows 11 and 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-unresponsive-pacific-drive-error-a-comprehensive-guide/"><u>Fixing the Unresponsive Pacific Drive Error - A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 12</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011783033-overcome-game-freeze-glitches-in-code-vein-expert-guidance-for-smooth-play/"><u>Overcome Game Freeze Glitches in Code Vein: Expert Guidance for Smooth Play!</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-problem-solved-unfreeze-your-fall-guys-experience-today/"><u>PC Gaming Problem Solved: Unfreeze Your Fall Guys Experience Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-nagging-not-launching-troubleshoot-and-fix-the-issue-today/"><u>Resident Evil Nagging Not Launching? Troubleshoot and Fix the Issue Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/resurrect-your-vanished-wordle-streaks-efficiently/"><u>Resurrect Your Vanished Wordle Streaks Efficiently</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revolutionize-your-iphones-wi-fi-experience-with-8-proven-strategies/"><u>Revolutionize Your iPhone's Wi-Fi Experience with 8 Proven Strategies</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/riparazione-e-recupero-della-partizione-efi-cancellata-in-windows-11-tecniche-di-risoluzione-rapida/"><u>Riparazione E Recupero Della Partizione EFI Cancellata in Windows 11 - Tecniche Di Risoluzione Rapida</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-sailing-with-bluestacks-five-trouble-free-solutions-for-system-stability/"><u>Smooth Sailing with BlueStacks: Five Trouble-Free Solutions for System Stability</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-getting-intel-driver-assistant-back-on-track-on-pc/"><u>Step-by-Step Guide: Getting Intel Driver Assistant Back on Track on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-resolving-issues-in-ituness-audio-setup/"><u>Troubleshooting: Resolving Issues in iTunes's Audio Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secret-seeing-instagram-without-being-logged-in/"><u>Unlock the Secret: Seeing Instagram without Being Logged In</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-power-of-music-in-engaging-video-content/"><u>Unlocking the Power of Music in Engaging Video Content</u></a></li>
 </ul></div>
 

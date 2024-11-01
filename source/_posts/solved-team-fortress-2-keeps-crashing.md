@@ -1,7 +1,7 @@
 ---
 title: "Solved: Team Fortress 2 Keeps Crashing"
-date: 2024-10-22T05:43:39.555Z
-updated: 2024-10-26T12:43:35.068Z
+date: 2024-10-25T22:16:03.807Z
+updated: 2024-11-01T10:17:20.394Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Update your graphics driver
 
  If you’re using the wrong graphics driver or it’s outdated, it’s very likely that Football Manager 2021 will crash and malfunction. To run FM 21 smoothly, you should always keep your graphics driver up to date.
@@ -47,6 +54,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
@@ -56,10 +70,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
@@ -75,13 +89,20 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -105,24 +126,10 @@ If this method doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
 
@@ -137,13 +144,6 @@ So does the crash go away now? If not, there is the last fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
@@ -174,24 +174,24 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-advice-on-flawless-ipad-screen-captures/"><u>[New] Expert Advice on Flawless iPad Screen Captures</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-elevate-your-lol-gameplay-on-camera-three-methods/"><u>[New] In 2024, Elevate Your LOL Gameplay on Camera - Three Methods</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-essential-tips-for-youtube-shorts-success/"><u>[Updated] Essential Tips for YouTube Shorts Success</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-screenshots-to-art-the-8-best-photo-collage-tools/"><u>2024 Approved From Screenshots to Art The 8 Best Photo Collage Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-prime-selection-top-ranked-gopro-case-models/"><u>2024 Approved The Prime Selection Top-Ranked GoPro Case Models</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/8-pioneering-online-photo-combination-suite-for-2024/"><u>8 Pioneering Online Photo Combination Suite for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/crusader-kings-iii-error-free-gameplay-solving-windows-computer-crashing-dilemmas/"><u>Crusader Kings III Error-Free Gameplay: Solving Windows Computer Crashing Dilemmas</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-starfield-not-starting-problem-for-a-smooth-gaming-experience/"><u>Fixing the 'Starfield Not Starting' Problem for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-gear-ready-resolving-playback-difficulties-with-battlefield-4-on-pc-systems/"><u>Get Your Gear Ready: Resolving Playback Difficulties with Battlefield 4 on PC Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-resolving-warzone-server-search-failures-on-desktop-gaming-systems/"><u>Guide to Resolving 'Warzone' Server Search Failures on Desktop Gaming Systems</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-15-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 15</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-watch-dogs-legion-continuous-pc-crashes-issue/"><u>How to Fix the 'Watch Dogs: Legion' Continuous PC Crashes Issue</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-narzo-n55-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-stability-6-key-tweaks-to-avoid-dreamlight-valley-glitches-on-windows/"><u>Mastering Stability: 6 Key Tweaks to Avoid Dreamlight Valley Glitches on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-itunes-identifies-an-issue-in-your-sound-setup/"><u>Resolved: ITunes Identifies an Issue in Your Sound Setup</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-minecraft-dilemma-unstick-from-the-loading-screen-once-and-for-all/"><u>Solve Your Minecraft Dilemma: Unstick From the Loading Screen Once and For All!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-when-gtfo-keeps-crashing/"><u>Troubleshooting Guide: Resolving Issues When GTFO Keeps Crashing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unified-media-exchange-android-ios/"><u>Unified Media Exchange Android-iOS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-skype-chorus-select-websites-for-rhythmic-calls/"><u>[Updated] 2024 Approved The Skype Chorus Select Websites for Rhythmic Calls</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-audiences-choice-in-drama-writings/"><u>[Updated] Audience's Choice in Drama Writings</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-6s-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone 6s Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-chatbots-set-to-replace-human-se-experts/"><u>Are Chatbots Set to Replace Human SE Experts?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/clash-of-shadows-and-lightning-black-vs-silver-for-2024/"><u>Clash of Shadows and Lightning BLACK vs SILVER for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-the-black-ops-cold-war-issue-error-887a0005-demystified/"><u>Effective Solutions for the Black Ops Cold War Issue - Error 887A0005 Demystified</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-lost-ark-experience-fixing-lag-issues-maximizing-fps-gain/"><u>Enhance Your Lost Ark Experience: Fixing Lag Issues, Maximizing FPS Gain</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-counter-strike-2-from-crashing-ultimate-guide-updated-2vew/"><u>How to Stop Counter-Strike 2 From Crashing: Ultimate Guide (Updated 2Vew)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-ranking-the-very-best-10-free-online-artists-on-youtube/"><u>In 2024, Ranking the Very Best 10 Free Online Artists on YouTube</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-honor-90-lite-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Honor 90 Lite for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/lunar-client-stability-issues-effective-strategies-for-preventing-pc-crashes/"><u>Lunar Client Stability Issues: Effective Strategies for Preventing PC Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-latency-free-performance-in-obs-broadcasts-and-video-capture-sessions/"><u>Mastering Latency-Free Performance in OBS Broadcasts and Video Capture Sessions</u></a></li>
+<li><a href="https://win-able.techidaily.com/mount-and-blade-ii-bannerlord-troubleshooting-guide-to-fix-game-crashes/"><u>Mount and Blade II: Bannerlord - Troubleshooting Guide to Fix Game Crashes</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-pc-gaming-nightmares-tips-to-stop-outriders-from-freezing-and-stuttering/"><u>Resolve PC Gaming Nightmares: Tips to Stop Outriders From Freezing and Stuttering</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-call-of-duty-black-ops-cold-war-fixing-user-interface-error-27711/"><u>Resolved: Call of Duty Black Ops Cold War - Fixing User Interface Error 27711</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-football-manager-2020-stability-issues-and-enjoy-uninterrupted-gaming-experience/"><u>Solve Football Manager 2020 Stability Issues & Enjoy Uninterrupted Gaming Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unraveling-gadgets-with-toms-hardware-experts/"><u>Unraveling Gadgets with Tom's Hardware Experts</u></a></li>
 </ul></div>
 

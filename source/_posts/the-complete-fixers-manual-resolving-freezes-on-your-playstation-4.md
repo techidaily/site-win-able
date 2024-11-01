@@ -1,7 +1,7 @@
 ---
 title: "The Complete Fixer's Manual: Resolving Freezes on Your PlayStation 4"
-date: 2024-10-20T08:57:05.633Z
-updated: 2024-10-26T09:39:04.546Z
+date: 2024-10-30T17:50:44.087Z
+updated: 2024-10-31T17:18:29.561Z
 tags:
   - win11
   - win10
@@ -66,10 +66,24 @@ There are mainly two methods for you to update the graphics driver:
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Turn off Steam Overlay
 
@@ -101,10 +115,10 @@ To optimize the graphics settings, follow the steps below:
 2. View Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
@@ -112,13 +126,6 @@ To optimize the graphics settings, follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **Manage 3D Settings** on the left, then navigate to the **Program Settings** tab. In the **Select a program to customize:**  part, add**It Takes Two** from the program list.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. In the **Specify the settings for this program** : part, modify following settings:  
 
@@ -137,27 +144,26 @@ To optimize the graphics settings, follow the steps below:
 3. Select your **AMD Radeon Settings** to open it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Lower in-game graphics settings
@@ -167,6 +173,13 @@ To optimize the graphics settings, follow the steps below:
  Normally, the in-game PFS will increase after you lower some in-game graphics settings.
 
  If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable background recording and Xbox Game Bar
 
@@ -182,22 +195,15 @@ To optimize the graphics settings, follow the steps below:
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Close other demanding apps running in the background
 
@@ -207,14 +213,14 @@ To optimize the graphics settings, follow the steps below:
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
 
- Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
 
 ## Fix 7: Set the Power Plan of your PC for Best Performance
 
@@ -252,24 +258,20 @@ Launch It Takes Two to see if you would get a better FPS.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-guide-top-10-steps-for-instructors-on-youtube-channels/"><u>[Updated] In 2024, Essential Guide Top 10 Steps for Instructors on YouTube Channels</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeating-phasmophobias-crash-bugs-top-solutions-for-gaming-enthusiasts/"><u>Defeating Phasmophobia's Crash Bugs - Top Solutions for Gaming Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/emoji-cleared-tweets-linuss-leaks-revealed-trojan-truths-told-and-chatgpt-problems-unpacked/"><u>Emoji Cleared Tweets, Linus's Leaks Revealed, Trojan Truths Told, & ChatGPT Problems Unpacked.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/filmmaking-revolution-15-essential-gopro-luts-revealed-for-2024/"><u>Filmmaking Revolution 15 Essential GoPro LUTs Revealed for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixed-guide-troubleshoot-saints-row-game-not-running-error-for-windows-users/"><u>Fixed Guide: Troubleshoot Saints Row Game Not Running Error for Windows Users</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-15-pro-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 15 Pro Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-the-color-absence-issue-on-halo-infinite-screen/"><u>How to Resolve the Color Absence Issue on Halo Infinite Screen</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-instatunes-navigating-copyright-laws/"><u>In 2024, Mastering InstaTunes Navigating Copyright Laws</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-walmartplus-the-answer-to-affordable-shopping-lets-examine/"><u>Is Walmart+ The Answer to Affordable Shopping? Let's Examine!</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-startup-obstacles-a-2022-guide-for-playing-outriders-on-windows/"><u>Overcoming Startup Obstacles: A 2022 Guide for Playing Outriders on Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prepping-zones-vr-setup-guide-with-oculus/"><u>Prepping Zones VR Setup Guide with Oculus</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-class-registration-issues-in-windows-10-a-comprehensive-guide/"><u>Resolving Class Registration Issues in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-continuous-game-crashes-during-the-finals-on-your-computer/"><u>Resolving Continuous Game Crashes During The Finals on Your Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-personalizing-windows-10-with-a-new-taskbar-tone/"><u>Step-by-Step Guide to Personalizing Windows 10 with a New Taskbar Tone</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-resolve-apex-legends-not-launching-problems-swiftly/"><u>Step-by-Step Guide: Resolve Apex Legends Not Launching Problems Swiftly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-methods-for-seamless-dvd-to-pc-transfer/"><u>Top 6 Methods for Seamless DVD to PC Transfer</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004259334-troubleshooting-and-fixing-high-cpu-use-on-google-chrome-solutions-unveiled/"><u>Troubleshooting and Fixing High CPU Use on Google Chrome - Solutions Unveiled</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-assassins-creed-mirage-launch-problems-insider-advice-for-gamers-in-2n14/"><u>Ultimate Fixes for Assassin's Creed Mirage Launch Problems - Insider Advice for Gamers in 2N14</u></a></li>
-<li><a href="https://win-able.techidaily.com/untangle-your-call-of-duty-warzone-a-four-step-guide-to-fixing-directx-errors/"><u>Untangle Your Call of Duty Warzone: A Four-Step Guide to Fixing DirectX Errors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-gearing-up-for-youtube-success-cross-platform-strategies/"><u>[New] 2024 Approved Gearing Up for YouTube Success Cross-Platform Strategies</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-the-ultimate-blueprint-for-successful-discord-live-streams/"><u>[New] 2024 Approved The Ultimate Blueprint for Successful Discord Live Streams</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-how-to-reclaim-full-volume-from-partially-muted-fb-tracks/"><u>[Updated] 2024 Approved How to Reclaim Full Volume From Partially Muted FB Tracks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-vegas-pro-21-a-comprehenive-examination-for-gamblers-and-techies-alike-for-2024/"><u>[Updated] Vegas Pro '21 A Comprehenive Examination for Gamblers and Techies Alike for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-vivacut-analysis-and-editors-blueprint-for-2024/"><u>Comprehensive VivaCut Analysis & Editor's Blueprint for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-10-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-s-best-free-video-editors-for-recording-gameplay/"><u>New In 2024, S Best Free Video Editors for Recording Gameplay</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-initialization-issues-with-windows-11-settings-expert-advice/"><u>Overcoming Initialization Issues with Windows 11 Settings: Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-utilizing-zune-video-converter-factory-at-no-cost/"><u>Step-by-Step Tutorial on Utilizing Zune Video Converter Factory at No Cost</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-master-the-art-of-avchd-file-editing-on-your-pc-using-windows-1011-tools-and-software/"><u>Step-by-Step Tutorial: Master the Art of AVCHD File Editing on Your PC Using Windows 10/11 Tools and Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/to-encode-or-not-to-encode-determining-the-role-of-adobe-media-encoder-in-your-workflows/"><u>To Encode or Not to Encode: Determining the Role of Adobe Media Encoder in Your Workflows</u></a></li>
+<li><a href="https://win-able.techidaily.com/transforming-audio-files-quick-and-simple-steps-for-switching-from-flac-to-ogg/"><u>Transforming Audio Files: Quick and Simple Steps for Switching From FLAC to Ogg</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-mastering-av1-video-playback-with-vlc-expert-tips-and-tricks/"><u>Ultimate Guide: Mastering AV1 Video Playback with VLC - Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-mastering-video-downloads-from-videa-with-ease/"><u>Ultimate Guide: Mastering Video Downloads From Videa with Ease</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-boost-visual-speakers-output-enhance-movie-and-video-audibility-for-2024/"><u>Updated Boost Visual Speakers Output Enhance Movie and Video Audibility for 2024</u></a></li>
 </ul></div>
 

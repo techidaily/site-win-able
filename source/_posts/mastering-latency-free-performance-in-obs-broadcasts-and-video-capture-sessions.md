@@ -1,7 +1,7 @@
 ---
 title: Mastering Latency-Free Performance in OBS Broadcasts and Video Capture Sessions
-date: 2024-10-19T22:49:33.945Z
-updated: 2024-10-26T10:07:31.796Z
+date: 2024-10-25T21:21:35.458Z
+updated: 2024-11-01T03:44:41.896Z
 tags:
   - win11
   - win10
@@ -37,16 +37,10 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
@@ -60,6 +54,13 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
  When you’re sure that your machine meets (or better,**way above** ) the minimum system requirements to run the games, but you’re still experiencing FPS dopping problems, please move on to the other fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Make sure your computer is not overheating
 
@@ -81,8 +82,22 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each resource-hogging application and click **End Task** to close them one by one.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then run your game again and see if the FPS dropping issue is fixed. If the problem still remains, please move on to the next fix below.
 
@@ -113,15 +128,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
@@ -133,13 +148,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
@@ -148,24 +156,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run your game again to see if the frame rate per second still drops. If the problem still persists, please move on.
 
@@ -176,13 +170,6 @@ To do so:
  Another reason why FPS drops in your games is probably outdated or incorrect drivers for your graphics and network cards. This is because outdated, incorrect, or missing drivers for your display card and network card could lead to unstable graphics rendering and slow network connection, and therefore the stuttering and the FPS dropping problems. So you should update your device drivers to see if it helps.
 
  There are mainly 2 ways you can update the drivers for your video card and network card: manually or automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics and network drivers manually
 
@@ -203,6 +190,13 @@ and your network card manufacturer:
 
  Then search for your GPU and network card models. Note that you should only download the latest driver installers that are compatible with your operating system. Once downloaded, open the installers and follow the on-screen instructions to update the drivers one by one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Update your graphics and network drivers automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -213,6 +207,13 @@ and your network card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -234,27 +235,14 @@ To change the power mode:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -286,18 +274,22 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-complete-look-into-razers-streaming-hardware/"><u>[New] 2024 Approved Complete Look Into Razer's Streaming Hardware</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hasty-methods-for-mixed-up-youtube-playback-sequence/"><u>[Updated] 2024 Approved Hasty Methods for Mixed-Up YouTube Playback Sequence</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-video-inversion-step-by-step-strategy/"><u>[Updated] In 2024, Instagram Video Inversion Step-by-Step Strategy</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-effortless-file-deletion-say-goodbye-with-iremovefile/"><u>1. Effortless File Deletion: Say Goodbye with IRemoveFile</u></a></li>
-<li><a href="https://win-able.techidaily.com/call-of-duty-vanguard-stuck-heres-how-to-get-it-running-smoothly-again/"><u>Call of Duty: Vanguard Stuck? Here's How to Get It Running Smoothly Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-your-gameplay-with-these-tips-to-resolve-low-fps-in-splitgate/"><u>Enhance Your Gameplay with These Tips to Resolve Low FPS in Splitgate</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-preventing-frequent-disruptions-while-playing-battlefield-v-on-pc/"><u>Expert Tips: Preventing Frequent Disruptions While Playing Battlefield V on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-ps4-freezing-step-by-step/"><u>How to FIX PS4 Freezing | Step by Step</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-the-mechanics-of-mobile-video-capture/"><u>In 2024, Mastering the Mechanics of Mobile Video Capture</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-xiaomi-14-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Xiaomi 14 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-restoring-dolby-atmos-functionality-on-your-windows-computer/"><u>Step-by-Step Tutorial: Restoring Dolby Atmos Functionality on Your Windows Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-non-functioning-discord-overlays-step-by-step-guide/"><u>Troubleshooting Non-Functioning Discord Overlays: Step by Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-essential-knowledge-for-instagram-success-a-guide-to-behind-the-scenes-metrics/"><u>[New] Essential Knowledge for Instagram Success A Guide to Behind-the-Scenes Metrics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-innovative-strategies-for-hosting-zero-cost-online-courses/"><u>[Updated] Innovative Strategies for Hosting Zero-Cost Online Courses</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovating-photography-the-art-of-crafting-effective-gopro-time-lapse/"><u>2024 Approved Innovating Photography The Art of Crafting Effective GoPro Time-Lapse</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-ultimate-iphoneipad-video-and-image-archive/"><u>2024 Approved The Ultimate iPhone/iPad Video & Image Archive</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-iphone-8-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About iPhone 8 Activation Lock</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-compre-cookies-guide-to-marketing-magic-with-20-terms-for-2024/"><u>A Compre Cookie's Guide to Marketing Magic with 20 Terms for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-game-crashes-now-top-6-troubleshooting-tips-for-pcs/"><u>Fix Your Game Crashes Now: Top 6 Troubleshooting Tips for PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/marvels-cosmic-heroes-triumph-fixing-guardians-of-the-galaxy-crash-issues-on-your-computer/"><u>Marvel's Cosmic Heroes Triumph - Fixing Guardians of the Galaxy Crash Issues on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-quick-repairs-stabilize-your-division-2-gaming-experience-effortlessly/"><u>Master Quick Repairs: Stabilize Your Division 2 Gaming Experience Effortlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010181315-nba-2k20-gameplay-hacked-eliminate-crashes-with-these-simple-fixes/"><u>NBA 2K20 Gameplay Hacked: Eliminate Crashes with These Simple Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/new-world-performance-tuning-strategies-to-correct-game-lags-and-connection-faults/"><u>New World Performance Tuning: Strategies to Correct Game Lags and Connection Faults</u></a></li>
+<li><a href="https://common-error.techidaily.com/pubg-construction-glitches-resolved-a-guide-to-uninterrupted-gameplay/"><u>PUBG Construction Glitches Resolved: A Guide to Uninterrupted Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-star-wars-battlefront-2-error-327-a-complete-fix-guide/"><u>Solving Star Wars Battlefront 2 Error 327: A Complete Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-troubleshooting-and-repairing-the-blue-screen-in-helldivers-2/"><u>Step-by-Step Guide: Troubleshooting and Repairing the Blue Screen in Helldivers 2</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210396183-9780593538548-the-magick-of-birthdays/"><u>The Magick of Birthdays | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722858139864-troubleshoot-and-solve-your-computers-d3dx940dll-absence-issues-easily/"><u>Troubleshoot & Solve Your Computer’s d3dx9_40.dll Absence Issues Easily!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-masterclass-eliminate-among-us-crashing-problems-in-the-new-year-2024/"><u>Troubleshooting Masterclass: Eliminate 'Among Us' Crashing Problems in the New Year, 2024</u></a></li>
 </ul></div>
 

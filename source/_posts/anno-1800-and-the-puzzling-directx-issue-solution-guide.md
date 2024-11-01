@@ -1,7 +1,7 @@
 ---
 title: Anno 1800 and the Puzzling DirectX Issue - Solution Guide
-date: 2024-09-10T14:08:14.273Z
-updated: 2024-09-11T14:08:14.273Z
+date: 2024-10-28T23:28:37.541Z
+updated: 2024-11-01T06:55:27.390Z
 tags:
   - win11
   - win10
@@ -40,26 +40,6 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -72,20 +52,6 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 2: Install the latest game patch
 
  The developers of Anno 1800, Unisoft, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **[Ubisoft official website](https://www.ubisoft.com/en-us/)**  , check for the latest patch, download and install it. Then check if it fixes the Anno 1800 game crash problem.
@@ -94,19 +60,12 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Switch DirectX versions
 
@@ -124,23 +83,16 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) Check out your **DirectX version** in the first page of the report.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) If you’re running DirectX 11 or below and Anno 1800 crashes, you can try[**updating DirectX 12**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem. If you’re running DirectX and Anno 1800 crashes, you can try[**switching to DirectX 11**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem.
 
@@ -164,41 +116,21 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
 
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type**C:\\Users\\user\\Documents\\Anno 1800\\config** and press **Enter** .
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-236.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 2) Open the engine.ini file.
 
@@ -207,20 +139,6 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
 4) Check to see if Anno 1800 DirectX error crashes problem is resolved. If not, please try**Fix 4** .
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Check if your PC meets the system requirements for Anno 1800
 
@@ -250,23 +168,16 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -285,8 +196,6 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -294,4 +203,22 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-effortlessly-manage-iphone-photos-aligning-albums-and-streamlining-icloud-storage/"><u>[Updated] Effortlessly Manage iPhone Photos Aligning Albums and Streamlining iCloud Storage</u></a></li>
+<li><a href="https://driver-install.techidaily.com/adjust-installation-to-processor/"><u>Adjust Installation to Processor</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-fixes-rapid-solutions-for-division-2-game-crashes/"><u>Efficient Fixes: Rapid Solutions for Division 2 Game Crashes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-take-portrait-photo-with-old-iphone-x8-plus7-plus-for-2024/"><u>How to Take Portrait Photo with Old iPhone X/8 Plus/7 Plus for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nubia-red-magic-9-pro-by-drfone-android-unlock-android-unlock/"><u>How to unlock Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/"><u>Investing Successfully with a Makeup Channel</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-graphics-troubleshooting-for-fifa-20-eradicating-directx-problems/"><u>Mastering Graphics Troubleshooting for FIFA 20: Eradicating DirectX Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-made-simple-resolve-disco-elysium-game-crash-issues-today/"><u>PC Gaming Made Simple: Resolve 'Disco Elysium' Game Crash Issues Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990304791-stop-blaming-luck-proven-strategies-to-keep-among-us-running-smoothly/"><u>Stop Blaming Luck: Proven Strategies to Keep 'Among Us' Running Smoothly !</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-poco-c51-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-cures-for-glitchy-playthrough-of-mass-effect-legacy-edition/"><u>Troubleshooting Cures for Glitchy Playthrough of Mass Effect Legacy Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-eliminate-sims-4-sluggishness-and-enhance-gameplay-pc-expert-strategies/"><u>Ultimate Guide: Eliminate Sims 4 Sluggishness & Enhance Gameplay (PC) – Expert Strategies</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-review-unpacking-the-features-and-benefits-of-acers-tiny-titans-the-predator-triton-ebx-300-se/"><u>Ultimate Review: Unpacking the Features and Benefits of Acer's Tiny Titans - The Predator Triton Ebx 300 SE</u></a></li>
+<li><a href="https://techidaily.com/vivo-data-recovery-recover-lost-data-from-vivo-s17-pro-by-fonelab-android-recover-data/"><u>Vivo Data Recovery – recover lost data from Vivo S17 Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v27-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V27 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

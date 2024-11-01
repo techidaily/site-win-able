@@ -1,7 +1,7 @@
 ---
 title: Overcome Madden 22'S Perpetual Startup Issue with These Simple Steps
-date: 2024-10-21T01:46:36.412Z
-updated: 2024-10-25T19:33:13.162Z
+date: 2024-10-26T10:30:47.891Z
+updated: 2024-11-01T07:33:27.715Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Check your**operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-05.jpg)
@@ -69,13 +76,6 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-09.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Make sure that your computer meets the minimum requirements, then move on to the next fix, below.
 
@@ -119,13 +119,6 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-37-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -152,9 +145,23 @@ If your game still crashes, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-25-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Relaunch your game after the process is finished.
 
  You should now be able to launch your game and actually play! If not, try the fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5:**Delete the Preferences and Caches Folder**
 
@@ -165,13 +172,6 @@ If your game still crashes, then go ahead with the next fix below.
 **2)** On your keyboard, press the**Windows logo** key and**E** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-41-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Type**C:\\Users\\** _Your Windows Username_ **\\AppData\\Local\\Sports Interactive\\Football Manager 2019** on the address bar, then press**Enter** on your keyboard.
 
@@ -202,13 +202,6 @@ If your game still crashes, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-31.jpg)
@@ -220,6 +213,19 @@ If your game still crashes, then go ahead with the next fix below.
 **6)** Type**\-renderer\_direct3D9** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-48-02.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Launch_FM19_ through Steam.
 
@@ -237,22 +243,16 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-38-40-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-31-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  Remove any launch options currently shown.
 
@@ -262,21 +262,7 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-49-22.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Try launching your game again. If your problem still exists, don’t fret. There are still 2 more fixes to try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Change the power option
 
@@ -290,13 +276,6 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Under View by, select**Large icons** , then click **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-14-19-1.jpg)
@@ -304,6 +283,13 @@ If you still have the problem, try running your game in Windowed mode.
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-40-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Restart your computer and your game.
 
@@ -342,6 +328,13 @@ If the game still crashes, try reinstalling the game launcher.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-29-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-37.jpg)
@@ -349,6 +342,13 @@ If the game still crashes, try reinstalling the game launcher.
 **4)** Under **View by** , select **Category** . Then, click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-13-14-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -389,21 +389,19 @@ If the game still crashes, try reinstalling the game launcher.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-on-the-go-video-making-essentials/"><u>[Updated] 2024 Approved On-The-Go Video Making Essentials</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-essential-phone-knowledge-for-expanded-gear-vr-experiences-for-2024/"><u>[Updated] Essential Phone Knowledge for Expanded Gear VR Experiences for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-youtube-ad-expense-calculation-guide/"><u>[Updated] In 2024, Youtube Ad Expense Calculation Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfect-your-editing-full-mastery-of-fcp/"><u>[Updated] Perfect Your Editing Full Mastery of FCP</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-ways-to-transcribe-twitter-videos-into-high-fidelity-mp3s/"><u>2024 Approved Best Ways to Transcribe Twitter Videos Into High-Fidelity MP3s</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-2020-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone SE (2020) Without iTunes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-lava-yuva-2-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-infinix-zero-30-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Infinix Zero 30 5G</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000184498-addressing-game-server-disconnection-problems-in-popular-titles-from-blizzard-inc/"><u>Addressing Game Server Disconnection Problems in Popular Titles From Blizzard Inc.</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722991004872-battlefront-ii-stability-solutions-no-more-pc-disruptions/"><u>Battlefront II Stability Solutions - No More PC Disruptions!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-the-impact-the-crucial-function-of-chatgpts-programming-interpreter/"><u>Deciphering the Impact: The Crucial Function of ChatGPT's Programming Interpreter</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-for-dealing-with-no-startup-location-on-fortnite-get-back-into-battle-asap/"><u>Expert Solutions for Dealing with No Startup Location on Fortnite - Get Back Into Battle ASAP!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012108904-expert-tips-for-a-smooth-experience-with-hearts-of-iron-4-eliminate-bugs/"><u>Expert Tips for a Smooth Experience with Hearts of Iron 4 - Eliminate Bugs</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-lost-connection-to-server-hurdle-in-escape-from-tarkov/"><u>Overcoming the Lost Connection to Server Hurdle in Escape From Tarkov</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-the-game-security-breach-alert/"><u>Resolved: Fixing the 'Game Security Breach' Alert</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-tips-to-overcome-overwatchs-unwanted-complete-blackness-upon-opening/"><u>Ultimate Tips to Overcome Overwatch's Unwanted Complete Blackness Upon Opening</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-cinematographers-journey-shooting-top-notch-youtube-content/"><u>[New] The Cinematographer's Journey Shooting Top-Notch YouTube Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comeback-alert-for-total-wireless-unveiling-cost-effective-5g-solutions/"><u>Comeback Alert for Total Wireless - Unveiling Cost-Effective 5G Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-updating-your-asrock-motherboard-drivers-where-and-how-to-get-them-online/"><u>Easy Guide to Updating Your ASRock Motherboard Drivers: Where and How to Get Them Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-smoothing-out-batman-arkham-knight-performance-hiccups-and-glitches/"><u>Expert Advice on Smoothing Out Batman: Arkham Knight Performance Hiccups & Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-pc-players-when-hitman-3-refuses-to-open/"><u>Fixes for PC Players When Hitman 3 Refuses to Open</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-corsair-h115i-compatibility-and-drivers-on-windows-8-10-and-11/"><u>Fixing Corsair H115i Compatibility and Drivers on Windows 8, 10 & 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/k850-ultrahd-samsung-2023-tech-review-for-2024/"><u>K850 UltraHD Samsung 2023 Tech Review for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-your-experience-fix-high-ping-issues-on-pc-with-bless-unleashed/"><u>Optimize Your Experience: Fix High Ping Issues on PC with Bless Unleashed</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-a-players-handbook-to-combat-lag-in-naraka-bladepoint/"><u>Optimizing Performance: A Player's Handbook to Combat Lag in Naraka Bladepoint</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009748320-overcoming-hurdles-experience-la-noire-now-on-the-personal-computers/"><u>Overcoming Hurdles? Experience L.A. Noire Now on the Personal Computers!</u></a></li>
+<li><a href="https://win-able.techidaily.com/prevent-fall-guys-from-crashing-at-launch-effective-tips-and-fixes/"><u>Prevent Fall Guys From Crashing at Launch - Effective Tips & Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-msvcr1ebdll-file-missing-on-helldivers-2-game/"><u>Troubleshooting Steps: MSVCR1eb.dll File Missing on HellDivers 2 Game</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-videos-pro-tips-for-adding-awesome-effects/"><u>Updated Elevate Your Videos Pro Tips for Adding Awesome Effects</u></a></li>
 </ul></div>
 

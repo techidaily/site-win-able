@@ -1,7 +1,7 @@
 ---
 title: "Solving Splitgate Performance Issues: Increase Your FPS & Eliminate Stutter"
-date: 2024-10-22T07:52:56.443Z
-updated: 2024-10-26T10:07:49.216Z
+date: 2024-10-30T03:04:35.510Z
+updated: 2024-11-01T01:24:53.444Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ The recent hotfix by Riot didn’t seem to fix the stuttering issue in Valorant,
 5. **[Turn on VSync](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Empty Standby Memory](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Install all Windows updates
 
  While the ubiquitous Windows update prompts might be annoying to some, keeping the system up to date is actually saving your time by avoiding tons of compatibility issues. So when you’re troubleshooting game issues, it’s always recommended to**check for system updates** first.
@@ -48,23 +55,23 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -83,6 +90,13 @@ If this fix doesn’t help you, take a look at the next one below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
@@ -123,10 +137,10 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
@@ -143,6 +157,13 @@ If the latest driver doesn’t help you, check out the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/valorant-report-rate.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this fix doesn’t give you luck, simply continue to the next one below.
 
 ### Fix 5: Turn on VSync
@@ -150,13 +171,6 @@ If the latest driver doesn’t help you, check out the next method.
  Some gamers reported that they managed to solve the stuttering by turning Vertical Sync on, so it might be a potential fix you can try. Meanwhile, if VSync doesn’t improve your game, try lowering your in-game graphics and see what happens.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/valorant-low-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Empty Standby Memory
 
@@ -168,18 +182,18 @@ This method may require a basic level of computer knowledge.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-1.jpg)
 2. In Resource Monitor, navigate to the**Memory** tab. In the**Physical Memory** section, you’ll see the current memory usage. Check if**Standby Memory** is taking up too much of your total RAM.![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. You can empty the standby memory manually.  
  First, download[**EmptyStandbyList**](https://wj32.org/wp/software/empty-standby-list) . This is a command line tool that can help you empty standby memory.
 4. Once downloaded, right click the**EmptyStandbyList** program and select**Run as an Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist.jpg)
 5. Go back to**Resource Monitor** and check if the standby memory has been cleared. Then you can check if the issue persists.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **(Optional)** You can also use**Task Scheduler** to clear the standby memory automatically. Theoretically, you can achieve the same result with a reboot, but it’ll be a different story while you’re in the middle of the game.
 
@@ -205,22 +219,8 @@ This method may require a basic level of computer knowledge.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-5.jpg)
 8. Click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-6-2.jpg)
 9. Navigate to the**Actions** tab, click**New…** .  
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-7.jpg)
 10. Browse and select the**EmptyStandbyList.exe** program. Click**OK** .  
@@ -228,19 +228,25 @@ This method may require a basic level of computer knowledge.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-8.jpg)
 11. Then navigate to the**Triggers** tab, click**New..** ..  
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Under the**Advanced settings** , set**Repeat task** to**every 10 minutes** . Set**for a duration of** to**Indefinitely** .  
  Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-9.jpg)
 12. After finishing the setup, you can select**Task Scheduler Library** in the left pane to view the pending tasks.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -263,16 +269,18 @@ This method may require a basic level of computer knowledge.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-androids-top-12-ultimate-wildlife-game-picks/"><u>[Updated] 2024 Approved Android's Top 12 Ultimate Wildlife Game Picks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-jest-in-layout-and-edit-suite/"><u>2024 Approved Best Jest in Layout & Edit Suite</u></a></li>
-<li><a href="https://win-able.techidaily.com/arise-crash-problems-a-comprehensive-guide-to-resolution/"><u>Arise Crash Problems – A Comprehensive Guide to Resolution</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/complete-guide-to-the-netgear-nighthawk-x10-ad7200-ultimate-wireless-performance-analysis/"><u>Complete Guide to the Netgear Nighthawk X10 (AD7200) – Ultimate Wireless Performance Analysis</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminating-lag-top-techniques-for-a-seamless-minecraft-experience-on-pc-2023-update/"><u>Eliminating Lag: Top Techniques for a Seamless Minecraft Experience on PC - 2023 Update</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-when-your-gpu-isnt-detected-by-cyberpunk-2077-on-windows-10/"><u>Fixing the Issue When Your GPU Isn’t Detected by Cyberpunk 2077 on Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2020-game-error-expert-guide-to-fixing-and-preventing-sudden-shutdowns/"><u>Football Manager 2020 Game Error: Expert Guide to Fixing and Preventing Sudden Shutdowns</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-address-and-prevent-game-integrity-threats-a-comprehensive-solution/"><u>How to Address & Prevent Game Integrity Threats – A Comprehensive Solution</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-step-by-step-process-of-capturing-fb-messages/"><u>In 2024, Step-by-Step Process of Capturing FB Messages</u></a></li>
-<li><a href="https://facebook.techidaily.com/mind-over-feedback-the-top-10-reasons-to-escape-facebooks-clutches/"><u>Mind Over Feedback: The Top 10 Reasons to Escape Facebook's Clutches</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/top-rated-no-cost-cloning-programs-for-windows-11-users-best-of-the-batch/"><u>Top Rated No-Cost Cloning Programs for Windows 11 Users - Best of the Batch</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-tailoring-trailers-for-virtual-broadcasts/"><u>2024 Approved Tailoring Trailers for Virtual Broadcasts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211228242-9781797228174-beaming/"><u>Beaming | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-success-harnessing-smart-bots-for-enhanced-user-engagement/"><u>Cookiebot-Driven Success: Harnessing Smart Bots for Enhanced User Engagement</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evolution-of-a-brand-a-thorough-review-and-contrast-between-the-s10plus-and-s20/"><u>Evolution of a Brand: A Thorough Review and Contrast Between the S10+ & S20</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/instagram-photography-hacked-maximizing-space-with-whole-image-fits/"><u>Instagram Photography Hacked: Maximizing Space with Whole Image Fits</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-the-issue-resolving-assassins-creed-origins-launch-errors/"><u>Overcome the Issue: Resolving 'Assassin's Creed Origins' Launch Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-roblox-error-277-on-windows-expert-tips-for-2n24/"><u>Overcome the Roblox Error 277 on Windows - Expert Tips for 2N24</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-problems-confirm-your-game-data-for-smooth-playback/"><u>Overcoming Launch Problems: Confirm Your Game Data for Smooth Playback</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/praey-for-the-overlords-pc-stability-issues-resolving-frequent-game-crashes/"><u>Praey for the Overlords PC Stability Issues - Resolving Frequent Game Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-unresponsive-user-preferences-and-settings/"><u>Resolving Issues with Unresponsive User Preferences and Settings</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-fortnites-incessant-loading-screen-error-a-comprehensive-guide/"><u>Solving Fortnite's Incessant 'Loading Screen Error': A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tips-for-playing-rainbow-six-siege-gratis-edition-2024/"><u>Top Tips for Playing Rainbow Six Siege Gratis Edition - 2024</u></a></li>
 </ul></div>
 

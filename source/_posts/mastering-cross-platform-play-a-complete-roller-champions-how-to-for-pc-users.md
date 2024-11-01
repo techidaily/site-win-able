@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Play: A Complete Roller Champions How-To for PC Users"
-date: 2024-10-24T10:54:40.011Z
-updated: 2024-10-25T17:56:18.225Z
+date: 2024-10-30T23:24:37.960Z
+updated: 2024-11-01T00:43:20.834Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 
  The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify and repair game files
 
  The first quick fix you can try is to scan and repair missing or corrupted game files. You can easily get it done via the Steam client:
@@ -58,26 +51,19 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 3. It may take a while for Steam to complete the scan. If any game files are found corrupted or missing, Steam will replace or add the new game files for you.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If verifying and repairing the game files doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Close unnecessary background programs
@@ -87,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 1. Press**Ctrl** and**Shift** and**Esc** at the same time to open the Task Manager.
 2. Under the**Processes** tab, look for the processes that are eating up the resources. Right-click the process and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  PS: there are some known**programs that may interfere with Steam games** . If you’re not sure which programs seem to have triggered the crashing issue, feel free to refer to the list below and check your PC.
 
@@ -114,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -169,14 +162,15 @@ If the crashing issue persists, try the next fix.
 1. In your Steam library, right-click Lost Ark and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties.jpg)
 2. Under the **General tab** ,**toggle off Enable the Steam Overlay while in-game** .  
-![](https://www.drivereasy.com/wp-content/uploads/2021/12/Steam-Disable-in-game-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2021/12/Steam-Disable-in-game-overlay.jpg)
 
 ### Discord
 
@@ -186,9 +180,23 @@ If the crashing issue persists, try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay.jpg)
 3. Run Lost Ark and test the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also check other common overlays that gamers like to use, such as Twitch and NVIDIA GeForce, and turn them off.
 
  If disabling the overlays doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
 
@@ -243,13 +251,6 @@ If the crashing issue persists, try the next fix.
 
  If doing a clean boot doesn’t solve your problem, you can safely assume that the Windows services and startup items aren’t responsible for the crashing issue. You can go back to your normal startup. Also, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 8: Try on a different server
 
  According to some players, the crashing issue can be solved by playing on a new server and creating a new character. If you’re running into similar problems, try playing the game on a different server to see if Lost Ark still crashes on your PC.
@@ -257,10 +258,10 @@ If the crashing issue persists, try the next fix.
  This could be triggered by corrupted character data on the server-side. Note that this bug has been existing and was acknowledged back in the beta stage, so we can expect an official patch that fixes this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 9: Repair corrupted system files
@@ -277,10 +278,16 @@ If the crashing issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -308,18 +315,24 @@ If the crashing issue persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-whatsapp-expertise-essential-tips-and-tricks-for-proficiency/"><u>[New] In 2024, WhatsApp Expertise Essential Tips and Tricks for Proficiency</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-ps5xbox-series-x-elite-console-companion-screens/"><u>[New] PS5/Xbox Series X Elite Console Companion Screens</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-masterful-content-creation-and-branding-via-top-5-youtube-strategies/"><u>[Updated] Masterful Content Creation and Branding via #Top 5 YouTube Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-eliminating-latency-a-guide-to-smooth-lol-gameplay/"><u>Expert Advice on Eliminating Latency: A Guide to Smooth LoL Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-incompatibility-issues-in-rainbow-six-extraction-top-strategies-to-get-you-playing-again/"><u>Fixing Incompatibility Issues in Rainbow Six Extraction – Top Strategies to Get You Playing Again</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-y100i-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo Y100i to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/lego-star-wars-skywalker-saga-stability-improvements-for-pc-gamers/"><u>Lego Star Wars: Skywalker Saga Stability Improvements for PC Gamers</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/movaviden-guclendirilen-zatenlestirecek-milyarderarasi-guvenlikla-ayrintili-multimedia-sunucu/"><u>Movavi'den Güçlendirilen Zatenleştirecek Milyarderarası Güvenlikla Ayrıntılı Multimedia Sunucu</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-performance-tips-to-reduce-cpu-demand-in-cyberpunk-2077/"><u>Optimizing Performance: Tips to Reduce CPU Demand in Cyberpunk 2077</u></a></li>
-<li><a href="https://win-able.techidaily.com/persistent-launch-error-with-black-flag-game-solutions-and-preventative-measures/"><u>Persistent Launch Error with Black Flag Game: Solutions & Preventative Measures</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-gpu-not-found-errors-in-msi-afterburner-software-on-windows-11-computers/"><u>Resolving 'GPU Not Found' Errors in MSI Afterburner Software on Windows 11 Computers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-12-free-and-functional-anime-extensions-for-kodi-2019-no-registration-required/"><u>Top 12 Free & Functional Anime Extensions for Kodi 20/19: No Registration Required!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-freezes-and-crashes-in-resident-evil-4-remastered/"><u>Troubleshooting Tips: Resolving Freezes and Crashes in Resident Evil 4 Remastered</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1716069459020-new-a-user-friendly-guide-to-seamless-collaboration-across-different-operating-systems-via-skype-group-chats-for-2024/"><u>[New] A User-Friendly Guide to Seamless Collaboration Across Different Operating Systems via Skype Group Chats. For 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-chart-your-course-to-adventure-the-comprehensive-guide-to-vr-tours/"><u>[Updated] In 2024, Chart Your Course to Adventure The Comprehensive Guide to VR Tours</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-seamless-youtube-video-transfer-for-ios-devices-explained/"><u>[Updated] Seamless YouTube Video Transfer for iOS Devices Explained</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-path-to-professional-looking-colors-in-gopro-editing/"><u>2024 Approved The Path to Professional-Looking Colors in GoPro Editing</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000378468-fix-chrome-lag-issues-fast-simple-solutions/"><u>Fix Chrome Lag Issues Fast: Simple Solutions!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-latest-driver-update-from-amd-radeon-x/"><u>Get the Latest Driver Update From AMD Radeon X</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-cyberpunk-2077-playability-fixing-the-infamous-frame-rate-drop/"><u>Improving Cyberpunk 2077 Playability: Fixing the Infamous Frame-Rate Drop</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-cheap-yet-superior-4k-equipment/"><u>In 2024, Cheap Yet Superior 4K Equipment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-honor-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Honor Phone that is Locked?</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-connection-issues-astro-a50-and-command-unit-sync-problems/"><u>Resolving Connection Issues: Astro A50 and Command Unit Sync Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-overwatch-driver-glitches-a-step-by-step-fixing-process/"><u>Resolving Overwatch Driver Glitches: A Step-by-Step Fixing Process</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-sailing-with-gas-station-simulator-on-pc-crash-free-strategies/"><u>Smooth Sailing with Gas Station Simulator on PC - Crash-Free Strategies!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-for-instant-repair-of-valorant-graphics-driver-error/"><u>Solution for Instant Repair of 'Valorant Graphics Driver Error'</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-issues-with-maplestory-not-starting-up/"><u>Solved! Issues with MapleStory Not Starting Up</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-to-transferring-your-amazon-kindle-bookmarks-and-annotations-into-evernote/"><u>Step-by-Step Guide to Transferring Your Amazon Kindle Bookmarks & Annotations Into Evernote</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-ue4s-deadly-bug-enhancing-your-gameplay-experience/"><u>Step-by-Step Solution for UE4's Deadly Bug - Enhancing Your Gameplay Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-mw3-from-crashing-on-your-pc-with-these-quick-fixes/"><u>Stop MW3 From Crashing on Your PC with These Quick Fixes!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-free-flv-video-editors-for-windows-and-mac/"><u>Updated 2024 Approved Top Free FLV Video Editors for Windows and Mac</u></a></li>
 </ul></div>
 

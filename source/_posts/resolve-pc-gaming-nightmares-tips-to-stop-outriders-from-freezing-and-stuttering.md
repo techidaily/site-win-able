@@ -1,7 +1,7 @@
 ---
 title: "Resolve PC Gaming Nightmares: Tips to Stop Outriders From Freezing and Stuttering"
-date: 2024-10-25T12:49:38.586Z
-updated: 2024-10-25T18:28:54.168Z
+date: 2024-10-25T23:35:57.872Z
+updated: 2024-11-01T03:11:48.627Z
 tags:
   - win11
   - win10
@@ -96,6 +96,13 @@ If your problem still persists, don’t worry. There is another try.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Switch to DX11 in your game settings
 
  This method works like a charm for many players who have the same crashing issue in Metro Exodus, so it’s worth a try when you’re using DirectX 12 for Metro Exodus.
@@ -114,13 +121,6 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-78.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart the game and see if it works this time.
 
 #### If you can’t open the game at all
@@ -131,43 +131,37 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-79.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right click on**Metro Exodus** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-80.png)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the**General** tab and click**Set Launch Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-81.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Type**_dxlevel110_** in the field, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-82.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6) Save your changes and restart your computer.
@@ -207,22 +201,19 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-network-nirvana-access-resurrected/"><u>[New] In 2024, Network Nirvana Access Resurrected</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-tier-hdr-cameras-explained-and-compared/"><u>[New] Top-Tier HDR Cameras Explained & Compared</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unveiling-ig-reels-vs-ig-stories-essential-insights-for-2024/"><u>[New] Unveiling IG Reels vs IG Stories Essential Insights for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-secure-methods-to-transfer-instagram-media-onto-iphone/"><u>2024 Approved Secure Methods to Transfer Instagram Media Onto iPhone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-process-high-dynamic-range-hdr-portraiture/"><u>2024 Approved Step-by-Step Process High Dynamic Range (HDR) Portraiture</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-frustration-effective-solutions-for-overcoming-hitman-3s-network-glitches/"><u>Beat the Frustration: Effective Solutions for Overcoming Hitman 3'S Network Glitches</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722981081639-bioshock-2-hd-edition-updated-and-enhanced-gameplay/"><u>BioShock 2 HD Edition - Updated and Enhanced Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/dying-light-lag-problem-a-comprehensive-guide-to-solutions/"><u>Dying Light Lag Problem - A Comprehensive Guide to Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-division-2-crashes-a-speedy-and-straightforward-solution/"><u>Fixing Division 2 Crashes: A Speedy and Straightforward Solution</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-payday-2-wont-start-on-pc-problems/"><u>How to Resolve 'Payday 2 Won't Start on PC' Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/immortals-fenyx-rising-freezing-up-how-to-fix-persistent-game-lag/"><u>Immortals: Fenyx Rising Freezing Up? How To Fix Persistent Game Lag</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/limit-win-10-display-extensiveness/"><u>Limit WIN 10 Display Extensiveness</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-release-hurdles-immortals-fenyx-rising-is-finally-out/"><u>Overcoming the Release Hurdles: Immortals' Fenyx Rising Is Finally Out!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-minecraft-freezing-issues-in-windowsmac-environment/"><u>Resolving Minecraft Freezing Issues in Windows/Mac Environment</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-roadmap-for-effective-education-videos-making-a-mark-on-youtube/"><u>The Roadmap for Effective Education Videos - Making a Mark on YouTube</u></a></li>
-<li><a href="https://driver-install.techidaily.com/troubleshooting-failed-driver-installs-on-windows/"><u>Troubleshooting Failed Driver Installs on Windows</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-from-soft-to-steel-teaching-yourself-a-louder-clearer-speech-with-video-editing-tools/"><u>Updated In 2024, From Soft to Steel Teaching Yourself a Louder, Clearer Speech with Video Editing Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-arc-architect-suite-for-2024/"><u>[New] Arc Architect Suite for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-unboxing-video-series-the-ultimate-2024-watchlist/"><u>[New] Best Unboxing Video Series - The Ultimate 2024 Watchlist</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-break-the-monotony-with-these-6-captivating-videos/"><u>[New] Break the Monotony with These 6 Captivating Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-full-narrative-what-the-google-podcasts-app-offers-for-2024/"><u>[New] Full Narrative What the Google Podcasts App Offers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-youtube-shorts-top-10-strategies-for-uniqueness/"><u>[Updated] In 2024, Elevate Your YouTube Shorts Top 10 Strategies for Uniqueness</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-rainbow-six-extraction-experience-by-improving-frame-rate-drops/"><u>Enhancing Rainbow Six Extraction Experience by Improving Frame Rate Drops</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-resolving-cs2-game-crash-issues-on-your-pc/"><u>Fixes & Solutions: Resolving CS2 Game Crash Issues on Your PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-plus-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-tecno-pova-5-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Tecno Pova 5 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-instability-problems-a-guide-to-fixing-gas-station-tycoons-crashes-on-desktop-computers/"><u>Solving Instability Problems: A Guide to Fixing Gas Station Tycoon's Crashes on Desktop Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-how-to-get-roblox-running-expert-strategies/"><u>Solving the Issue: How to Get Roblox Running - Expert Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-eradicate-stuttering-in-your-pc-fortnite-battles-today/"><u>Troubleshooting Guide: Eradicate Stuttering in Your PC Fortnite Battles Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-repair-error-code-0x803f8001-in-your-minecraft-launcher-windows/"><u>Troubleshooting Guide: How to Repair Error Code 0X803f8001 in Your Minecraft Launcher (Windows)</u></a></li>
 </ul></div>
 

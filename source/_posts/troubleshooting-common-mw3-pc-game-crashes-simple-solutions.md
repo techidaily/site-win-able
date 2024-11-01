@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Common MW3 PC Game Crashes: Simple Solutions"
-date: 2024-10-22T09:40:08.764Z
-updated: 2024-10-26T03:19:57.340Z
+date: 2024-10-25T08:42:03.010Z
+updated: 2024-11-01T09:59:25.491Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
@@ -75,16 +75,23 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
-![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
+
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -102,28 +109,28 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
@@ -134,13 +141,6 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `-useallavailablecores -high`
 
@@ -176,22 +176,19 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-diminishing-decibels-a-guide-to-quieter-soundscapes-in-lumafusion-for-2024/"><u>[New] Diminishing Decibels A Guide to Quieter Soundscapes in Lumafusion for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unleash-creativity-the-best-9-camera-accessories-for-vloggers-and-more/"><u>[New] Unleash Creativity The Best 9 Camera Accessories for Vloggers and More</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-iphoness-gif-apps-unveiled/"><u>[Updated] In 2024, Top iPhones's GIF Apps Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pursuit-of-perfection-zooming-into-high-quality-video/"><u>[Updated] Pursuit of Perfection Zooming Into High-Quality Video</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-innovative-features-of-dolby-atmos-dts-virtualx-explained/"><u>Discover the Innovative Features of Dolby Atmos - DTS Virtual:X Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-crusader-kings-2-error-why-it-may-fail-to-load-and-how-to-resolve-it/"><u>Fixing Crusader Kings 2 Error: Why It May Fail to Load and How to Resolve It</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-continuous-crashingfreezing-issues-on-rocket-league-platform/"><u>How to Fix Continuous Crashing/Freezing Issues on Rocket League Platform</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-pioneering-water-dynamics-video-games-roundup/"><u>In 2024, Pioneering Water Dynamics Video Games Roundup</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-scope-to-screen-partnerships-for-mcns/"><u>In 2024, Scope-to-Screen Partnerships for MCNs</u></a></li>
-<li><a href="https://win-able.techidaily.com/navigating-the-chaos-of-detroit-a-seamless-experience-on-your-computer/"><u>Navigating the Chaos of 'Detroit:' A Seamless Experience On Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-firefox-freezes-ultimate-fix-guide/"><u>No More Firefox Freezes: Ultimate Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-stability-issues-in-the-latest-version-of-resident-evil-4-fixes-for-game-crashes/"><u>Overcoming Stability Issues in the Latest Version of Resident Evil 4: Fixes for Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-guide-getting-your-multiversus-game-up-and-running-on-windows/"><u>Quick Guide: Getting Your MultiVersus Game Up and Running on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-ubisoft-connects-sluggish-download-speeds-a-step-by-step-guide/"><u>Solving Ubisoft Connect's Sluggish Download Speeds: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo S18? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-y77t-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo Y77t Android SIM Unlock APK</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-persistent-crashes-in-star-wars-squadrons-solved/"><u>Troubleshooting Tips for Persistent Crashes in Star Wars: Squadrons - Solved</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-best-bargains-on-stunning-5k-displays-8-selection/"><u>2024 Approved Best Bargains on Stunning 5K Displays - #8 Selection</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-13-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 13 Pro to Android | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-dysfunctional-automation-settings-in-office-365outlook/"><u>Addressing Dysfunctional Automation Settings in Office 365/Outlook</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-facebooks-enhanced-privacy-hub-for-safer-browsing/"><u>Decoding Facebook’s Enhanced Privacy Hub for Safer Browsing</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-modern-warfare-2-experience-overcoming-windowed-woes-steady-fps-and-smooth-action-guaranteed/"><u>Enhance Your Modern Warfare 2 Experience: Overcoming Windowed Woes – Steady FPS and Smooth Action Guaranteed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-enhanced-control-with-the-sabrent-traveling-mouse-precision-meets-convenient-cables/"><u>Experience Enhanced Control with the Sabrent Traveling Mouse - Precision Meets Convenient Cables</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-frame-drops-lag-and-stuttering-for-a-smoother-half-life-alyx-experience-on-your-computer/"><u>Fixing Frame Drops, Lag, and Stuttering for a Smoother Half-Life: Alyx Experience on Your Computer</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/guida-facilissima-per-la-conversione-di-file-mp4-in-mp3-su-windows-10-con-un-utilita-libera-e-gratuita/"><u>Guida Facilissima per La Conversione Di File MP4 in MP3 Su Windows 10 Con Un Utilità Libera E Gratuita</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-your-battles-overcoming-frame-rate-drops-and-eliminating-gameplay-stutters-in-battlefield-2042-for-pc-gamers/"><u>Maximize Your Battles: Overcoming Frame Rate Drops and Eliminating Gameplay Stutters in Battlefield 2042 for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-minecrafts-constant-crashes-with-these-six-quick-solutions/"><u>Resolve Minecraft's Constant Crashes with These Six Quick Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-fps-issues-in-fallout-76-with-easy-to-follow-fixes-players/"><u>Solve FPS Issues in Fallout 76 with Easy-to-Follow Fixes Players</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-rated-avi-editor-for-windows-8-advanced-video-editing-features/"><u>Updated Top-Rated AVI Editor for Windows 8 Advanced Video Editing Features</u></a></li>
 </ul></div>
 

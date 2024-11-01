@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for the Black Ops Cold War Issue - Error 887A0005 Demystified
-date: 2024-10-20T22:03:25.777Z
-updated: 2024-10-25T21:37:31.271Z
+date: 2024-10-31T10:23:58.011Z
+updated: 2024-10-31T20:28:10.700Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/b0e6c7278d6ccf548c998db09b6cda475848470d5
 4. [**Disable HAGs (Hardware-accelerated GPU scheduling** )](https://www.drivereasy.com/knowledge/solved-black-ops-cold-war-error-code-887a0005/#fix4)
 5. **[Disable in-game Ray Tracing](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Scan and repair game files
 
  The 887a0005 error code could indicate**an integrity issue** **with your game files** . In that case, you’ll need to scan and repair all the corrupted or missing files.
@@ -65,20 +72,27 @@ If this trick doesn’t help you, simply continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
 
  If updating the GPU driver doesn’t solve your problem, simply move on to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -98,13 +112,6 @@ And it’s fairly easy to update:
 
  If the updates don’t stop the crash, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Disable HAGs (GeForce 10 series or later/Radeon 5600 or 5700 series)
 
  In the 2004 version of Windows 10, Microsoft rolled out a new feature called **Hardware-accelerated GPU scheduling** , which will allegedly improve applications performance. To unlock this feature, you must be using the **latest 2004 version Windows** , a   **GeForce 10 series or later/Radeon 5600 or 5700 series graphics card** along with the **latest GPU driver** .
@@ -117,24 +124,24 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn off**Hardware-accelerated GPU scheduling** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
@@ -142,10 +149,10 @@ Here’s how:
  If this method doesn’t fix your issue, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable in-game Ray Tracing
@@ -158,13 +165,6 @@ Here’s how:
 2. Navigate to the**GRAPHICS** tab. Under the**RAY TRACING** section, disable all three options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-disable-ray-tracing.jpg)
 3. Restart the game and test the gameplay.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  None of these fixes can help you? Check out[this post](https://tools.techidaily.com/drivereasy/download/) for more advanced troubleshooting.
 
@@ -187,21 +187,24 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-easy-steps-for-sharing-your-xbox-playtime/"><u>[New] In 2024, Easy Steps for Sharing Your Xbox Playtime</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-masterful-multimedia-publishing-videos-on-the-worlds-most-popular-social-network/"><u>[New] Masterful Multimedia Publishing Videos on the World's Most Popular Social Network</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-10-volume-surge-controllers-for-windowsmacos/"><u>[Updated] Top 10 Volume Surge Controllers for Windows/MacOS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/7-innovative-coding-automation-platforms-that-challenge-chatgpt/"><u>7 Innovative Coding Automation Platforms That Challenge ChatGPT</u></a></li>
-<li><a href="https://win-able.techidaily.com/8-ways-to-fix-hogwarts-legacy-crashing-on-startup-pc/"><u>8 Ways To Fix Hogwarts Legacy Crashing on Startup PC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s23-tactical-edition-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy S23 Tactical Edition support AVCHD video?</u></a></li>
-<li><a href="https://win-able.techidaily.com/hogwarts-legacy-wont-start-master-these-5-tricks-to-get-your-game-running-smoothly/"><u>Hogwarts Legacy Won't Start? Master These 5 Tricks to Get Your Game Running Smoothly!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-k11-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo K11 5G FRP</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-12-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone 12</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-logitech-g29-racing-gamepad-on-windows-drivers-and-compatibility-guide-for-windows-11-10-and-7/"><u>Installing Logitech G29 Racing Gamepad on Windows: Drivers & Compatibility Guide for Windows 11, 10, and 7</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007879431-mastering-hitman-3-on-pc-avoid-crashes-and-enjoy-gaming-with-these-tips/"><u>Mastering Hitman 3 on PC - Avoid Crashes and Enjoy Gaming with These Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004178815-no-more-crashes-rapid-remedies-for-the-origin-application-issue/"><u>No More Crashes: Rapid Remedies for the 'Origin' Application Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-gaming-experience-fix-your-far-cry-cuisine-6-pc-game-crashes-now/"><u>Seamless Gaming Experience: Fix Your Far Cry Cuisine 6 PC Game Crashes Now</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-non-launching-dilemma-a-guide-to-getting-back-4-blood-up-and-running-on-windows/"><u>Solving the Non-Launching Dilemma: A Guide to Getting Back 4 Blood Up and Running on Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-common-bugs-in-phasmophobia-updates-and-fixes-for-the-new-year/"><u>Troubleshooting Common Bugs in Phasmophobia: Updates and Fixes for the New Year</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-building-an-affluent-future-with-instagram-know-how/"><u>[New] In 2024, Building an Affluent Future with Instagram Know-How</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-uncharted-territories-in-video-streamer-realm-for-2024/"><u>[New] Uncharted Territories in Video Streamer Realm for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-peak-activity-on-instagram-finding-the-perfect-moment/"><u>[Updated] 2024 Approved Peak Activity on Instagram Finding the Perfect Moment</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-elite-compilation-9-online-mic-recorders-ranked/"><u>[Updated] In 2024, The Elite Compilation 9 Online Mic Recorders Ranked</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-broadcast-battle-obs-against-wirecast/"><u>2024 Approved Broadcast Battle OBS Against Wirecast</u></a></li>
+<li><a href="https://win-able.techidaily.com/busting-the-silent-nightmare-solutions-to-get-your-resident-evil-village-running-smoothly/"><u>Busting the Silent Nightmare: Solutions to Get Your Resident Evil Village Running Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007484818-farming-simulator-22-troubleshooting-overcome-and-optimize-your-pcs-frame-rate/"><u>Farming Simulator 22 Troubleshooting – Overcome and Optimize Your PC's Frame Rate</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/free-conversion-of-vob-files-to-asf-format-using-movavi-video-converter/"><u>Free Conversion of Vob Files to Asf Format Using Movavi Video Converter</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-frame-drops-and-jittery-graphics-in-fortnite-for-pc-players/"><u>How to Overcome Frame Drops and Jittery Graphics in Fortnite for PC Players</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-building-engagement-the-role-of-youtube-shorts-template-design/"><u>In 2024, Building Engagement The Role of YouTube Shorts Template Design</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-issues-with-star-wars-squadrons-game-crashes-solutions-and-tips/"><u>Resolving Issues with STAR WARS Squadrons Game Crashes - Solutions & Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-gaming-ultimate-hacks-to-keep-wwe-2k2cu-running-smoothly-on-your-computer/"><u>Seamless Gaming: Ultimate Hacks to Keep WWE 2K2cu Running Smoothly on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201115544-solving-windows-update-failure-error-80070g-fast-and-effective-methods/"><u>Solving Windows Update Failure Error 80070^G - Fast & Effective Methods!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722984905987-state-of-decay-2-continuous-play-guide-for-2amo-players-avoid-the-2024-crashes/"><u>State of Decay 2 Continuous Play Guide for 2Amo Players: Avoid the 2024 Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-dayz-from-frequently-freezing-quick-fixes/"><u>Stop DayZ From Frequently Freezing - Quick Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-eliminating-latency-issues-and-reducing-high-ping-in-bless-unleashed-on-pc/"><u>Ultimate Guide: Eliminating Latency Issues & Reducing High Ping in Bless Unleashed on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-dive-into-ultimate-game-sound-with-a-64-discounted-speaker-system-on-amazon-discover-more/"><u>Unbeatable Deal Alert: Dive Into Ultimate Game Sound with a 64% Discounted Speaker System on Amazon - Discover More</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-maximum-performance-a-step-by-step-guide-to-resolving-modern-gamings-stuttering-and-fps-problems/"><u>Unlock Maximum Performance: A Step-by-Step Guide to Resolving Modern Gaming's Stuttering and FPS Problems</u></a></li>
 </ul></div>
 

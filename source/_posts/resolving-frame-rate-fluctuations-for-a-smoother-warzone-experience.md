@@ -1,7 +1,7 @@
 ---
 title: Resolving Frame Rate Fluctuations for a Smoother Warzone Experience
-date: 2024-09-10T14:08:10.091Z
-updated: 2024-09-11T14:08:10.091Z
+date: 2024-10-24T16:26:58.063Z
+updated: 2024-11-01T02:58:15.757Z
 tags:
   - win11
   - win10
@@ -29,19 +29,18 @@ Only got a**black screen** at startup or during the thrilling gameplay in Reside
 
 ![Resident Evil Village black screen ](https://images.drivereasy.com/wp-content/uploads/2021/05/featured-image.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 1\. Verify integrity of game files
 
@@ -51,37 +50,16 @@ Only got a**black screen** at startup or during the thrilling gameplay in Reside
   
 ![Resident Evil Village verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2) Select the**LOCAL FILES** tab. Then click**Verify integrity of game files…** .  
   
 ![Resident Evil Village verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-fiels.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Then Steam will start to verify your game files. This will take several minutes to repair or redownload any corrupted or missing game files. Wait until the process is finished.
 
@@ -131,56 +109,27 @@ If this didn’t solve your problem, try the next fix below.
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC. Then click on the PLAY button to check if you can boot up the game.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Run your game as admin
 
@@ -190,23 +139,16 @@ If this didn’t solve your problem, try the next fix below.
   
 ![Resident Evil Village disable HDR](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) Select the**LOCAL FILES** tab. Then click**Browse…** and you’ll be brought to the game’s installation directory.  
   
 ![disable HDR Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-local-file.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Find your game’s executable. Make sure to right-click it and select**Properties** .  
   
@@ -216,21 +158,14 @@ If this didn’t solve your problem, try the next fix below.
   
 ![run Resident Evil Village as an administrator ](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-an-administrator-Compatibility.png)
 
-
-
-
+ After applying the changes, launch your game and it should be running with administrative privileges.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
- After applying the changes, launch your game and it should be running with administrative privileges.
 
 ## 5\. Disable HDR
 
@@ -240,37 +175,23 @@ If this didn’t solve your problem, try the next fix below.
   
 ![Resident Evil Village disable HDR](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2) Select the**LOCAL FILES** tab. Then click**Browse…** and you’ll be brought to the game’s installation directory.  
   
 ![disable HDR Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-local-file.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Find the**config** file and open it.
 
@@ -288,8 +209,6 @@ If this didn’t solve your problem, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -297,4 +216,18 @@ If this didn’t solve your problem, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-tools-for-perfect-images/"><u>[Updated] Essential Tools for Perfect Images</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-direct-mp4-uploader-perfect-for-facebook-channels/"><u>[Updated] In 2024, Direct MP4 Uploader Perfect for Facebook Channels</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-guide-to-picture-perfect-framing-24/"><u>[Updated] The Ultimate Guide to Picture-Perfect Framing '24</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-efficient-cloud-users-price-guide/"><u>2024 Approved The Efficient Cloud User's Price Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-call-of-dutys-dark-side-your-guide-to-overcoming-warzones-black-screen-glitches/"><u>Conquer Call of Duty's Dark Side: Your Guide to Overcoming Warzone's Black Screen Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/genshin-impact-boot-up-problems-here-are-5-simple-remedies/"><u>Genshin Impact Boot-Up Problems? Here Are 5 Simple Remedies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-lenovo-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Lenovo</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-lava-blaze-pro-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Lava Blaze Pro 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/installation-concluded-without-hiccups/"><u>Installation Concluded Without Hiccups</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998397781-red-dead-redemption-2-loading-problems-heres-how-to-get-unstuck/"><u>Red Dead Redemption 2 Loading Problems? Here's How to Get Unstuck</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-when-horizon-forbidden-west-limited-edition-wont-run-smoothly-on-your-personal-computer/"><u>Ultimate Fixes for When 'Horizon Forbidden West Limited Edition' Won't Run Smoothly on Your Personal Computer</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Rainbow Six Siege Freezing 2024"
-date: 2024-09-10T14:08:14.063Z
-updated: 2024-09-11T14:08:14.063Z
+date: 2024-10-27T21:21:20.955Z
+updated: 2024-11-01T07:28:22.885Z
 tags:
   - win11
   - win10
@@ -16,20 +16,6 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 ## COD: Modern Warfare Continuous Freezing Issues Now Resolved
 
 Call of Duty: Modern Warfare players are experiencing unbearable random crashes on PC when battling their ways to the top. All kinds of Dev error codes such as**Fatal Error: Dev Error 6178** or no error codes at all. It crashes even in single-player mode. If you’re experiencing Modern Warfare crashing, here’re a few fixes you can try.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Why does Modern Warfare crash?
 
@@ -46,20 +32,6 @@ Your Modern Warfare crashing can be caused by the following issues:
 * etc.
 
  It’s hard to locate the exact cause, but you can try the following workarounds to fix it.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Fix Modern Warfare Crashing
 
@@ -78,6 +50,13 @@ Your Modern Warfare crashing can be caused by the following issues:
 ### Fix 1: Close all background Apps and repair your game
 
  Shut down all applications that are running in the background by pressing**Ctrl + Shift + Esc** , especially your antivirus software, which can be over-protective and cause Modern Warfare crashing issues.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -106,19 +85,12 @@ Your Modern Warfare crashing can be caused by the following issues:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/Driver-Easy-Scan-Now.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click the **Update**  button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
 
@@ -154,25 +126,18 @@ Play Modern Warfare again to see if the crashing issue persists.
 
  If you’re on**Blizzard Battle.net** , you can locate Modern Warfare and click**Options** \>**Scan and Repair** .
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 5: Stop Overclocking
 
  Overclocking your CPU can improve your gaming performance but may leave your game unstable, which may cause Modern Warfare to crash.
 
  If Call of Duty: Modern Warfare starts to crash after you overclock your GPU, you can try lowering it back to the default setting. This might be enough to prevent or reduce the number of Modern Warfare crashes you’re experiencing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable NVIDIA V-Sync for Modern Warfare
 
@@ -184,20 +149,6 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/NVIDIA-Control-Panel.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) On the left pane, go to**3D Settings** \>**Manage 3D settings** . Select the**Program Settings** tab and add your Call of Duty: Modern Warfare.
 
  Default Path: **C:\\Program Files (x86)\\Call of Duty Modern Warfare\\ModernWarfare.exe**
@@ -206,21 +157,21 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/turn-off-vertical-sync.jpg)
 
- Try launching your game again to check if Modern Warfare crashes persist. If this doesn’t work, you can try these settings that work fine for other players on[Reddit](https://www.reddit.com/r/modernwarfare/comments/duev1r/crash%5Ffixes%5Ffor%5Fnvidia%5Fusers%5Fon%5Fpc/) .
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+ Try launching your game again to check if Modern Warfare crashes persist. If this doesn’t work, you can try these settings that work fine for other players on[Reddit](https://www.reddit.com/r/modernwarfare/comments/duev1r/crash%5Ffixes%5Ffor%5Fnvidia%5Fusers%5Fon%5Fpc/) .
 
-
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable Discord in-game overlay
 
@@ -248,19 +199,12 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
  4) When prompted for permission to make changes, select**Change Priority** .
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 9\. Repair your system files
 
@@ -277,6 +221,13 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -288,20 +239,6 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
  3) You’ll see the summary of detected issues on your PC. Click **Start Repair** and all the issues will be fixed automatically. (You’ll need to purchase the full version which comes with full technical support. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #### Option 2 – Manually
 
@@ -315,20 +252,6 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -338,26 +261,6 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  4) You may receive something like the following messages after the verification.
 
@@ -406,8 +309,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -415,4 +316,24 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-a-new-era-of-capturing-screens-camstudio-2023-reviewed/"><u>[New] A New Era of Capturing Screens? CamStudio 2023 Reviewed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-a-quick-guide-to-firefoxs-innovative-pip-mode-for-2024/"><u>[New] A Quick Guide to Firefox's Innovative PIP Mode for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ontent-creation-conundrum-where-to-go/"><u>[New] Content Creation Conundrum Where to Go?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-streamers-financial-health-check-in-youtubers/"><u>[New] Streamer's Financial Health Check in YouTubers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209801183-9781789042351-abide-as-that/"><u>Abide As That | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-performance-effective-fixes-for-low-frame-rates-in-cs2/"><u>Boosting Performance: Effective Fixes for Low Frame Rates in CS2</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-crashing-issues-in-euro-truck-simulator-2-on-your-computer/"><u>How to Fix Crashing Issues in Euro Truck Simulator 2 on Your Computer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-13-pro-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 13 Pro Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-motorola-moto-g-stylus-5g-2023-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Motorola Moto G Stylus 5G (2023) Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996345945-origin-back-online-after-fixes-enjoy-uninterrupted-access-again/"><u>Origin Back Online After Fixes - Enjoy Uninterrupted Access Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-performance-hitches-15-methods-to-enhance-destiny-2-gaming-experience/"><u>Overcoming Performance Hitches: 15 Methods to Enhance Destiny 2 Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-without-pain-easy-ways-to-address-deathloop-crashing-problems/"><u>PC Gaming Without Pain: Easy Ways to Address Deathloop Crashing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-valorant-launch-issues-comprehensive-troubleshooting-guide/"><u>Resolving Valorant Launch Issues : Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-structuring-your-chatgpt-exchanges-using-specialized-folders/"><u>The Ultimate Guide to Structuring Your ChatGPT Exchanges Using Specialized Folders</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-the-best-ms-business-applications-on-iphoneipad-expert-picks-by-zdnet/"><u>The Ultimate Guide to the Best MS Business Applications on iPhone/iPad - Expert Picks by ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002943554-troubleshoot-call-of-duty-vanguard-n-error-code-on-pc-comprehve-solutions-revealed/"><u>Troubleshoot Call of Duty: Vanguard N Error Code on PC – Comprehve Solutions Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722986565133-ultimate-fixes-for-starcraft-2-stability-issues-on-pc-now-working/"><u>Ultimate Fixes for StarCraft 2 Stability Issues on PC – Now Working!</u></a></li>
+</ul></div>
 

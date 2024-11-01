@@ -1,7 +1,7 @@
 ---
 title: Fixing Persistent Freezing & Crashes in SnowRunner on Your Windows Laptop
-date: 2024-10-22T21:22:10.228Z
-updated: 2024-10-26T11:14:45.129Z
+date: 2024-10-30T06:48:50.099Z
+updated: 2024-10-31T17:30:12.815Z
 tags:
   - win11
   - win10
@@ -31,16 +31,16 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 * [Fix 1: Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 2: Edit Settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Official Fix
 
 Follow the steps below to fix the crashing issue.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: Check the requirements
 
@@ -54,6 +54,13 @@ Follow the steps below to fix the crashing issue.
 | **DirectX**   | Version 11                                               |
 | **Storage**   | 40 GB available space                                    |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Update your drivers
 
  Make sure your drivers are updated. You might think you’ve updated your graphic driver, but that’s not enough. **Many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.** The outdated or corrupted driver could be the culprit for crashing or black screen issues.
@@ -66,13 +73,6 @@ Follow the steps below to fix the crashing issue.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
@@ -90,12 +90,26 @@ Restart your computer for the changes to take effect.
 ![Steam game Yakuza 3 Remastered properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Go to the**BETAS** tab and enter the beta access code**yakuza6patch** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
 
 4. Relaunch the game, you’ll be in the beta.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Lower your graphics settings
 
@@ -107,10 +121,10 @@ Restart your computer for the changes to take effect.
 3. In the pop-up window, check**Override high DPI scaling behavior** , choose**Application** in the drop-down menu.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
@@ -129,22 +143,8 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-System.jpg)
 2. In the left panel, scroll down and click**About** . Find and click**Advanced system settings** on the right panel.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
@@ -153,10 +153,10 @@ Restart your computer for the changes to take effect.
 5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Select**Custom size** . The Initial size should be the**Recommended size** that under**Total paging file size for all drives** .  
@@ -170,10 +170,10 @@ Restart your computer for the changes to take effect.
 8. Restart your PC and your problem should be fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -195,20 +195,18 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-craft-engaging-trailers-that-drive-channels-sales/"><u>[New] 2024 Approved How to Craft Engaging Trailers that Drive Channels' Sales</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-mmos-in-vr-oculus-vs-htc-vive-vs-ps-vr/"><u>[New] Mastering MMOs in VR Oculus vs HTC Vive vs PS VR</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-red-dead-redemption-2-crashing-on-pc/"><u>[Solved] Red Dead Redemption 2 Crashing on PC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-ultimate-action-cam-editing-picks-for-2024/"><u>[Updated] Ultimate Action Cam Editing Picks for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-website-traffic-with-automated-personalization-powered-by-crawlerbot-technology/"><u>Boost Your Website Traffic with Automated Personalization: Powered by CrawlerBot Technology</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-the-red-dead-redemption-2-load-screen-hurdle-expert-advice-and-fixes/"><u>Bypassing the Red Dead Redemption 2 Load Screen Hurdle – Expert Advice & Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-resolve-crash-problems-with-the-outer-worlds-on-your-computer/"><u>Expert Guide: Resolve Crash Problems with 'The Outer Worlds' On Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012162014-halo-infinites-black-screen-troubleshooting-solutions-revealed/"><u>Halo Infinite's Black Screen Troubleshooting - Solutions Revealed</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-deskjet-3755-all-in-one-printer-driver-update-download-for-win11win8win7/"><u>HP DeskJet 3755 All-in-One Printer Driver Update – Download for Win11/Win8/Win7</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-y56-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo Y56 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-overcoming-wrc-10-game-crashes-for-a-smooth-rally-experience-on-your-computer/"><u>Solved! Overcoming WRC 10 Game Crashes for a Smooth Rally Experience on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-fixing-missing-sounds-in-twitch-streams/"><u>Troubleshooting Tips for Fixing Missing Sounds in Twitch Streams</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721469384103-why-is-my-iphone-slow-uncover-6-reasons-and-fix-them-easily/"><u>Why Is My iPhone Slow? Uncover 6 Reasons and Fix Them Easily!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-creating-your-own-path-on-youtube-a-course-guide-for-2024/"><u>[New] Creating Your Own Path on YouTube A Course Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-downloading-standardized-youtube-images-with-ease-and-precision-for-2024/"><u>[Updated] Downloading Standardized Youtube Images with Ease & Precision for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/99-pre-order-snap-up-the-newest-apple-watch-series-10-exclusive-at-best-buy-step-by-step-guide/"><u>$99 Pre-Order: Snap Up the Newest Apple Watch Series 10 Exclusive at Best Buy – Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-laptop-silent-mode-heres-how-you-can-get-the-sound-back/"><u>HP Laptop Silent Mode? Here's How You Can Get the Sound Back!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-and-effective-techniques-to-secure-your-favorite-audios-from-youtube/"><u>Quick & Effective Techniques to Secure Your Favorite Audios From YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/removing-cinavia-protection-enabling-hd-streaming-from-your-ps4-with-a-personal-copy/"><u>Removing Cinavia Protection: Enabling HD Streaming From Your PS4 with a Personal Copy</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-acc-to-wav-conversion-techniques-for-windows-users/"><u>Seamless ACC-to-WAV Conversion Techniques for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-converting-mp4-files-to-mov-format-both-online-and-desktop-methods/"><u>Simple Steps: Converting MP4 Files to MOV Format - Both Online and Desktop Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-adding-the-tv-chopo-extension-in-kodi-195-leia/"><u>Step-by-Step Guide to Adding the TV Chopo Extension in Kodi 19.5 Leia</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ate-mastery-a-step-by-step-to-epic-gamers-logos/"><u>Template Mastery A Step-by-Step to Epic Gamers' Logos</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-pathway-to-professionalism-elevating-your-social-media-impact-on-fb/"><u>The Pathway to Professionalism: Elevating Your Social Media Impact on FB</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nvestment-tips-from-youtube-experts/"><u>Top Investment Tips From YouTube Experts</u></a></li>
 </ul></div>
 

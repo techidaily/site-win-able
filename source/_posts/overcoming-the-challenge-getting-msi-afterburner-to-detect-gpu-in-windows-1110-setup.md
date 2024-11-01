@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Challenge: Getting MSI Afterburner to Detect GPU in Windows 11/10 Setup"
-date: 2024-09-10T14:08:14.677Z
-updated: 2024-09-11T14:08:14.677Z
+date: 2024-10-29T04:10:07.126Z
+updated: 2024-10-31T19:51:29.618Z
 tags:
   - win11
   - win10
@@ -21,20 +21,6 @@ thumbnail: https://thmb.techidaily.com/024d2dd817ee2619b245e6c5a3ccfe3c6aa8b0c6c
 
 But don’t worry, it’s usually not that hard to fix.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -47,20 +33,6 @@ But don’t worry, it’s usually not that hard to fix.
 6. [**Perform a clean boot**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Try another version of Afterburner](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 1: Check your cable connection
 
  First you need to**be sure that you have the right display port** . If you’re using the wrong port, say you have your monitor hooked up with the integrated graphics, your GPU might not show up in Afterburner since you’re not using it for display.
@@ -70,6 +42,13 @@ But don’t worry, it’s usually not that hard to fix.
 You should also rule out the possibility of faulty cables.
 
  If you’re sure you got the right port, you can continue to the troubleshooting below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Change properties of MSI Afterburner
 
@@ -81,21 +60,21 @@ You should also rule out the possibility of faulty cables.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-settings-2.jpg)
 3. Restart your PC and check the results in MSI Afterburner.
 
-If this trick doesn’t help you. take a look at the next one below.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+If this trick doesn’t help you. take a look at the next one below.
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Check if you have Vanguard
 
@@ -104,20 +83,6 @@ If this trick doesn’t help you. take a look at the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/vanguard-task-manager.jpg)
 
 If you don’t have Vanguard, simply move on to the next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Update all your drivers
 
@@ -132,39 +97,18 @@ If you don’t have Vanguard, simply move on to the next fix.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-killer-networking-rtx-2060-clean.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating all your drivers, restart your PC and check if Afterburner is working properly.
 
  If the latest drivers don’t give you luck, you can continue to the next method.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Check for Windows updates
 
@@ -189,69 +133,38 @@ If the issue lingers on, you can continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
-5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
+5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
  If Afterburner works after the clean boot, you can root out the offenders by repeating the steps and disabling only half of the services and programs.
 
@@ -273,8 +186,6 @@ If the issue persists, you can try the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -282,4 +193,21 @@ If the issue persists, you can try the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-add-timestamps-on-youtube-video-link/"><u>[Updated] How to Add Timestamps on YouTube Video Link?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/6-things-to-consider-before-buying-a-new-printer/"><u>6 Things to Consider Before Buying a New Printer</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1728491830877-usb/"><u>修好后，此电脑上无法使用的USB设备现在可连接</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-your-fifa-19-pc-issues-with-these-troubleshooting-tips/"><u>Banish Your FIFA 19 PC Issues with These Troubleshooting Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/distinguishing-between-an-ipad-and-ipad-air-a-comprehensive-guide/"><u>Distinguishing Between an iPad and iPad Air – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-battlefield-5s-startup-woes-an-easy-fix-guide-updated-for-224/"><u>Fixing Battlefield 5’S Startup Woes: An Easy Fix Guide Updated for 2#24</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-slow-loading-on-steam-for-smoother-gaming-experience/"><u>Fixing Slow Loading on Steam for Smoother Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-microsoft-edges-exe-error-and-improve-performance-on-your-pc/"><u>How to Resolve Microsoft Edge's .exe Error and Improve Performance on Your PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-redmi-12-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Redmi 12 to PC? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-f1-202-pc-malfunctions-tips-and-tricks-for-a-smoother-race/"><u>Stop F1 202# PC Malfunctions - Tips and Tricks for a Smoother Race</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-latest-top-darth-vader-voice-generators-for-all-platforms/"><u>Updated Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/valheims-startup-struggles-in-2t4-and-how-to-resolve-them/"><u>Valheim's Startup Struggles in 2T4 and How to Resolve Them</u></a></li>
+</ul></div>
 

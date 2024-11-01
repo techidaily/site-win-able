@@ -1,7 +1,7 @@
 ---
 title: "PC Players' Guide: Solving Granblue Fantasy’s Recurring Link Crashes"
-date: 2024-09-05T23:07:05.740Z
-updated: 2024-09-06T23:07:05.740Z
+date: 2024-10-29T17:13:38.128Z
+updated: 2024-10-31T19:04:31.938Z
 tags:
   - win11
   - win10
@@ -43,22 +43,10 @@ Stellaris might crash or stop responding unexpectedly for various reasons, such 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-07-52.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click**Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-07-52-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Right-click**Stellaris** , then select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-02-45.jpg)
@@ -71,22 +59,10 @@ Stellaris might crash or stop responding unexpectedly for various reasons, such 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-07-45-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **7)** Relaunch your game to test your issue.
 
 If the crashing issue continues to occur, move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  You may encounter the Stellaris crashing issue when you are using the wrong graphics driver or it’s out of date. When something goes wrong with your game, try updating your graphics driver to see if it fixes your problem. There are two ways you can do this:
@@ -101,24 +77,12 @@ If the crashing issue continues to occur, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-41-25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-42-53.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -133,12 +97,6 @@ If the crashing issue continues to occur, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Right-click**Stellaris** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-38-40-2.jpg)
@@ -159,9 +117,23 @@ If the crashing issue continues to occur, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-02-45.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Click the**Compatibility tab** , then check**Disable fullscreen optimizations** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_12-04-04-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Click**Apply** , then**OK** .
 
@@ -169,12 +141,6 @@ If the crashing issue continues to occur, move on to the fix below.
 
  Relaunch your game to see if it runs correctly now. If your issue still exists, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Check the DEP setting
 
  Data Execution Prevention is a Windows feature that monitors your programs to make sure they use system memory safely. It can shut down a program automatically when the program is identified as malicious. So, you may run into the crashing issue when DEP blocks your game.
@@ -189,15 +155,16 @@ If the crashing issue continues to occur, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-21-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click**Advanced system settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-16-53.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Under Performance, click**Settings** .
 
@@ -207,12 +174,6 @@ If the crashing issue continues to occur, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-25-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-25-13-1.jpg)
@@ -229,58 +190,29 @@ If the game is still unplayable, read on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-02-45-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-24-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Click the list box below to select **Windows 7** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-24-11-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Click **Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-24-11-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)**  Relaunch your game to check if your issue had been resolved.
 
 If your issue still exists, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7:**Check for Windows updates**
 
  Windows releases regular updates to fix bugs. If Stellaris has run previously, but is not running now, it’s probable that a recent update has stopped your game from running properly, and that a new update is required to fix it. To check if there is any update, follow the instructions below:
@@ -293,32 +225,8 @@ If your issue still exists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-08-03.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Restart your computer and your game. If your issue still exists, try the fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8:**Perform a clean reboot**
 
  Your game may crash because of interference from certain services or programs running on your computer. To see if that’s the problem for you, try performing a clean boot. Here is how:
@@ -333,32 +241,21 @@ If your issue still exists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-36-55.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Uncheck the box next to **Load startup items** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-37-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)** Click the **Services tab,** and then check the box next to **Hide all Microsoft services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-37-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-37-23.jpg)
@@ -381,12 +278,6 @@ If your issue still exists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-38-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **10)** After your computer restarts, relaunch your game to test your issue.
 
 **If your game runs correctly** , that means one of the services or programs on your PC conflicts with your game.
@@ -403,32 +294,21 @@ If your issue still exists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-02-50.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)**  Type **msconfig** . Then, on your keyboard, press the **Enter, Shift**  and **Ctrl**  keys at the same time (to run System configuration as administrator).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-02-55.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Uncheck the box next to **Load startup items** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-02-59.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Click the **Services tab,** and then check the box next to **Hide all Microsoft services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-03-04.jpg)
@@ -437,16 +317,17 @@ If your issue still exists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-03-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-03-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **7)**  Click the **Startup tab** , then click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-03-16.jpg)
@@ -473,12 +354,6 @@ If your issue still exists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-02-50-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)**  Type **msconfig**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-09-50.jpg)
@@ -487,12 +362,6 @@ If your issue still exists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-10-24.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)**  Click the **Services tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-10-33.jpg)
@@ -501,12 +370,6 @@ If your issue still exists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-10-39.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)**  Click **Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-10-44.jpg)
@@ -521,32 +384,14 @@ If your issue still exists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-12-09-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-11-41.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-11-47.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-11-53.jpg)
@@ -556,23 +401,18 @@ If your issue still exists, move on to the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-14-53.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the **Steam icon** and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-12-09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-12-18.jpg)
@@ -593,8 +433,6 @@ If your issue still exists, move on to the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -602,4 +440,20 @@ If your issue still exists, move on to the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/tep-into-song-savvy-youtube-playlist-excellence/"><u>[New] Step Into Song Savvy YouTube Playlist Excellence</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-to-ensure-smooth-launch-of-outriders-on-your-pc-updated/"><u>Effective Fixes to Ensure Smooth Launch of Outriders on Your PC (Updated )</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-dolby-atmos-sound-setup-errors-in-windows-1110-environments/"><u>Fixing Dolby Atmos Sound Setup Errors in Windows 11/10 Environments</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to use Pokemon Go Joystick on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-free-online-video-editing-software-the-top-10-contenders/"><u>New In 2024, Free Online Video Editing Software The Top 10 Contenders</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-errors-in-geforce-experience-retrieving-saved-preferences-now-fixed/"><u>Overcoming Errors in GeForce Experience - Retrieving Saved Preferences Now Fixed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-stability-issues-stop-final-fantasy-xv-from-crashing-on-your-computer/"><u>Resolving Stability Issues: Stop Final Fantasy XV From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/spellbreak-troubleshooting-guide-stop-your-game-from-crashing-on-windows/"><u>Spellbreak Troubleshooting Guide - Stop Your Game From Crashing on Windows</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-creating-your-own-custom-calendar-in-microsoft-excel/"><u>Step-by-Step Guide: Creating Your Own Custom Calendar in Microsoft Excel</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-iphone-7-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for iPhone 7 and Android Phones</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-a-smooth-madden-22-gaming-experience/"><u>Troubleshooting Tips for a Smooth Madden 22 Gaming Experience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/visionaries-tools-revealed-premium-360cameras-of-2023/"><u>Visionaries' Tools Revealed Premium 360°Cameras of 2023</u></a></li>
+<li><a href="https://win-able.techidaily.com/xbox-live-service-outage-how-to-determine-if-its-down/"><u>Xbox Live Service Outage: How To Determine If It's Down?</u></a></li>
+</ul></div>
 

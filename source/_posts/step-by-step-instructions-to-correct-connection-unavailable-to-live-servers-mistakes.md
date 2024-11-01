@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions to Correct 'Connection Unavailable to Live Servers' Mistakes
-date: 2024-10-22T10:21:38.264Z
-updated: 2024-10-26T13:43:55.129Z
+date: 2024-10-26T07:38:47.799Z
+updated: 2024-10-31T17:56:41.871Z
 tags:
   - win11
   - win10
@@ -53,13 +53,6 @@ If this doesn’t help, try the next fix.
 
  Many players have been able to solve the “cannot connect to the server” error by simply**restarting the game or Steam client** . Although it seems like a temporary workaround and you may have to try multiple times, it’s the quickest fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Repair game files
 
  Missing or corrupted game files could also solve the connection issue to the game server. You can verify the integrity of the game files on Steam:
@@ -71,6 +64,13 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-verify-game-files%E5%89%AF%E6%9C%AC.jpg)
 
 If this doesn’t solve your problem, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update the graphics driver
 
@@ -91,13 +91,6 @@ If this doesn’t solve your problem, move on to the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Reboot your PC and launch Lost Ark to see if you can connect to the server now. If this doesn’t help, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Configure your firewall settings
 
@@ -128,10 +121,10 @@ If this doesn’t solve your problem, move on to the next fix.
  This will ensure your firewall won’t block the game connection when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Check your DNS settings
@@ -153,29 +146,23 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns%E7%9A%84%E5%89%AF%E6%9C%AC.png)
 4. Your DNS cache is successfully cleared.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -190,10 +177,10 @@ Here are the steps:
 3. Right-click **the network you’re using** , then click **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
@@ -203,10 +190,10 @@ Here are the steps:
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
@@ -225,13 +212,20 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -257,24 +251,24 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/hart-new-horizons-in-branding-with-these-top-10-youtube-tools-for-2024/"><u>[New] Chart New Horizons in Branding with These Top 10 YouTube Tools for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-reimagining-ppts-with-todays-webcam-capabilities/"><u>[New] In 2024, Reimagining PPTs with Today's Webcam Capabilities</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/electing-your-channel-weighing-up-the-merits-of-igtv-and-youtube-for-2024/"><u>[New] Selecting Your Channel Weighing Up the Merits of IGTV & YouTube for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-efficient-tricks-to-scramble-youtube-playlists-pcphonetv/"><u>[Updated] In 2024, Efficient Tricks to Scramble YouTube Playlists (PC/Phone/TV)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-integrated-mac-system-screenmicrophone-recording-for-2024/"><u>[Updated] Integrated Mac System Screen/Microphone Recording for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/android-recording-at-your-fingertips-explore-our-top-8-free-choices/"><u>Android Recording at Your Fingertips – Explore Our Top 8 Free Choices</u></a></li>
-<li><a href="https://win-able.techidaily.com/chivalry-ii-troubleshooting-how-to-stop-the-game-from-crashing/"><u>Chivalry II Troubleshooting: How to Stop the Game From Crashing</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-overcoming-the-initial-failure-to-startup/"><u>Cyberpunk 2077: Overcoming the Initial Failure to Startup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-list-of-15-no-cost-windows-11-customization-skins/"><u>Discover the Ultimate List of 15 No-Cost Windows 11 Customization Skins</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ngs-engineering-crafting-a-high-yield-strategy-for-your-youtube-channel/"><u>Earnings Engineering Crafting a High Yield Strategy for Your YouTube Channel</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-call-of-duty-warzones-game-disc-error-50-and-31-on-your-computer-with-easy-steps/"><u>Fixing Call of Duty: Warzone's Game Disc Error [5.0] and [3.1] on Your Computer with Easy Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-steam-cant-update-server-files-issue-a-comprehensive-guide/"><u>Fixing the 'Steam Can't Update Server Files' Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-back-in-action-troubleshooting-guide-for-stuck-or-frozen-minecraft-on-desktop-computers/"><u>Getting Back in Action: Troubleshooting Guide for Stuck or Frozen Minecraft on Desktop Computers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harness-the-full-potential-of-your-videos-with-simple-cuts-on-windows/"><u>Harness the Full Potential of Your Videos with Simple Cuts on Windows</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-discovering-the-secrets-of-asmr-media/"><u>In 2024, Discovering the Secrets of ASMR Media</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-baldurs-gate-3-from-failing-to-open/"><u>Resolved! How to Fix Baldur's Gate 3 From Failing to Open</u></a></li>
-<li><a href="https://win-able.techidaily.com/ring-of-elysium-ultimate-guide-to-increasing-your-frame-rate/"><u>Ring of Elysium: Ultimate Guide to Increasing Your Frame Rate</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-nwstoreexe-system-crashes/"><u>Troubleshooting Steps for Resolving nw_store.exe System Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-fifa-20-game-crashing-issues-on-pc-a-step-by-step-guide/"><u>Ultimate Fixes for FIFA 20 Game Crashing Issues on PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-improving-zoom-video-quality-essential-tips/"><u>[New] Improving Zoom Video Quality Essential Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-fixing-full-screen-failure-in-obs/"><u>[New] In 2024, Fixing Full Screen Failure in Obs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-refine-your-beauty-videos-with-youtubes-palette-tweaking/"><u>[New] Refine Your Beauty Videos with Youtube's Palette Tweaking</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-enhance-workflow-the-essential-list-of-8-scheduling-apps/"><u>2024 Approved Enhance Workflow The Essential List of 8 Scheduling Apps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unmask-phony-followers-a-speedy-cost-free-approach-for-instagram/"><u>2024 Approved Unmask Phony Followers A Speedy, Cost-Free Approach for Instagram</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertis-de-facilement-un-fichier-vers-mp4-en-ligne-gratuitement-avec-movavi/"><u>Convertis De Facilement Un Fichier Vers MP4 en Ligne Gratuitement - Avec Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-call-of-duty-vanguard-pc-crashes-comprehensive-fix-guide/"><u>Dealing with Call of Duty: Vanguard PC Crashes - Comprehensive Fix Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-your-airpods-essential-steps-for-clearing-up-poor-quality-audio/"><u>How To Repair Your AirPods: Essential Steps for Clearing Up Poor Quality Audio</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-frame-rate-and-resolution-for-a-smoother-division-2-gaming-experience/"><u>Improving Frame Rate and Resolution for a Smoother Division 2 Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-troubleshooting-techniques-tackling-the-dark-side-of-warzone-2024-fresh-insights/"><u>Master Troubleshooting Techniques: Tackling the Dark Side of Warzone - 2024 Fresh Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-dungeon-keeps-freezing-learn-how-to-optimize-and-fix-your-game-on-pc/"><u>Minecraft Dungeon Keeps Freezing? Learn How to Optimize and Fix Your Game on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigate-effortlessly-with-the-updated-euro-truck-simulator-2-no-more-pc-crashing-concerns/"><u>Navigate Effortlessly with the Updated Euro Truck Simulator 2: No More PC Crashing Concerns</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-overcoming-the-dark-display-issue-on-halo-infinite-gameplay/"><u>Solutions for Overcoming the Dark Display Issue on Halo Infinite Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-your-warzone-game-textures-expert-tips-and-solutions/"><u>Troubleshooting Your Warzone Game Textures - Expert Tips & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-addressing-elevated-cpu-usage-in-modern-programs/"><u>Understanding & Addressing Elevated CPU Usage in Modern Programs</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/unlocking-the-full-potential-overcoming-windows-server-backup-challenges-and-finding-superior-solutions/"><u>Unlocking the Full Potential: Overcoming Windows Server Backup Challenges and Finding Superior Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-memory-glitch-solved-fixing-the-infamous-0-1766-error-across-xbox-and-pc-platforms/"><u>Warzone Memory Glitch Solved: Fixing the Infamous 0-1766 Error Across Xbox & PC Platforms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
 </ul></div>
 

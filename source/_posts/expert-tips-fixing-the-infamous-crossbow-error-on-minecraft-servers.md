@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Fixing the Infamous Crossbow Error on Minecraft Servers"
-date: 2024-10-20T04:24:54.107Z
-updated: 2024-10-25T16:55:38.182Z
+date: 2024-10-31T08:02:25.089Z
+updated: 2024-11-01T03:12:39.980Z
 tags:
   - win11
   - win10
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
@@ -64,6 +57,13 @@ If the issue persists, read on and try the next fix.
  See if the black screen issue appears again after adding Minecraft as an exception to your antivirus software.
 
 If the issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -81,13 +81,6 @@ If the issue remains, move on to the next fix.
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Minecraft to see if the issue is resolved.
@@ -95,10 +88,16 @@ If the issue remains, move on to the next fix.
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Set the anti-aliasing to default
@@ -112,15 +111,15 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Relaunch Minecraft to see if the problem is solved.
 
@@ -136,6 +135,13 @@ If this method doesn’t do the trick, continue to the next fix.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 Relaunch Minecraft to see if your issue is resolved.
@@ -150,13 +156,6 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
 
@@ -165,14 +164,21 @@ If not, try the next fix.
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -198,16 +204,20 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-choosing-between-vlc-and-mx-for-video-enjoyment/"><u>2024 Approved Choosing Between VLC and MX for Video Enjoyment</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-storing-solution-for-sony-a7s-ii/"><u>Best Storing Solution for Sony A7S II</u></a></li>
-<li><a href="https://win-able.techidaily.com/common-solutions-for-thunder-tier-ones-stability-issues-when-played-on-a-computer/"><u>Common Solutions for Thunder Tier One's Stability Issues When Played on a Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2019-stalling-discover-effective-solutions-now/"><u>Football Manager 2019 Stalling? Discover Effective Solutions Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-the-boot-loop-in-football-manager-202n1-troubleshooting-guide/"><u>How to Overcome the Boot Loop in Football Manager 202N1 – Troubleshooting Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/masterpiece-makers-discovering-these-6-unmatched-nft-tools/"><u>Masterpiece Makers Discovering These 6 Unmatched NFT Tools</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-in-2024-chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>New In 2024, Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/securely-downloading-youtube-audios-3-easy-and-reliable-methods-for-2024/"><u>Securely Downloading YouTube Audios 3 Easy & Reliable Methods for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-playstations-problem-the-trouble-with-starting-outriders/"><u>Solving PlayStation's Problem: The Trouble with Starting Outriders</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-call-of-duty-ww2-error-code-4128-issue/"><u>Troubleshooting Steps for Call of Duty WW2 Error Code 4128 Issue</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unveiling-the-future-with-tomtom-bandit-2023-for-2024/"><u>Unveiling the Future with TomTom Bandit 2023 for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-become-an-instagram-content-wizard-with-smart-cropping-practices/"><u>[Updated] Become an Instagram Content Wizard with Smart Cropping Practices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-6s-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 6s Plus | Stellar</u></a></li>
+<li><a href="https://win-able.techidaily.com/armored-core-6-on-windows-diagnosing-and-repairing-sudden-game-crashes-in-the-fires-of-rubicon/"><u>Armored Core 6 on Windows: Diagnosing and Repairing Sudden Game Crashes in the Fires of Rubicon</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-the-code-resolving-recurring-freeze-frames-in-new-world-gaming/"><u>Cracking The Code: Resolving Recurring Freeze Frames in New World Gaming</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/discover-where-your-minecraft-gameplay-images-are-stored-easy-guide-to-locate-and-restore/"><u>Discover Where Your Minecraft Gameplay Images Are Stored – Easy Guide to Locate and Restore!</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-overwatchs-graphic-glitches-for-a-smooth-gaming-experience/"><u>Eliminating Overwatch's Graphic Glitches for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/full-launch-of-god-of-war-action-shooter-game-on-pc-platforms-breaking-down-the-features/"><u>Full Launch of God of War Action Shooter Game on PC Platforms - Breaking Down the Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010088167-how-to-rapidly-resolve-your-slowing-down-google-chrome-issues/"><u>How to Rapidly Resolve Your Slowing Down Google Chrome Issues!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-tools-to-edit-mp4-tags-on-windows-and-mac/"><u>In 2024, Best Tools to Edit MP4 Tags on Windows and Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-discover-the-top-4k-youtube-converters-for-quality-video-downloads/"><u>In 2024, Discover the Top 4K YouTube Converters for Quality Video Downloads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mpeg-to-mp3-conversion-guide-choosing-between-web-and-software-tools/"><u>MPEG to MP3 Conversion Guide: Choosing Between Web and Software Tools</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-know-which-are-the-best-wondershare-filmora-luts-to-use-there-are-many-luts-that-you-can-download-each-with-a-different-tone-and-/"><u>New In 2024, Do You Want to Know Which Are the Best Wondershare Filmora LUTs to Use? There Are Many LUTs that You Can Download, Each with a Different Tone and Style</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/professional-animation-software-8-best-creator-for-macwindows-for-2024/"><u>Professional Animation Software 8 Best Creator for Mac/Windows for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-itel-a60s-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Itel A60s Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-resolving-madden-20-for-pc-stability-problems-fixed/"><u>Troubleshooting and Resolving Madden 20 for PC Stability Problems [FIXED]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code: Stop Dauntless From Crashing on Your Computer Now"
-date: 2024-10-24T21:19:03.447Z
-updated: 2024-10-26T08:01:24.758Z
+date: 2024-10-29T16:57:08.242Z
+updated: 2024-11-01T02:50:29.533Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 6. **[Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Run the game in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1 – Ran the game as administrator
 
  Your PC may not give**Elite Dangerous or the game launcher** the necessary permissions they need to work correctly. You might run into game issues like game crashing in this case.
@@ -59,13 +52,6 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
@@ -76,9 +62,23 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Relaunch your game to test the issue.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
 
@@ -106,13 +106,6 @@ This could take several minutes. Wait for the process to be complete.
 
  Relaunch the game to test your issue. If the crash still occurs, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
@@ -129,9 +122,23 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Restart your game to see if it runs correctly now.
 
 Your game still won’t work correctly? Read on and try Fix 5.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6 – Lower your graphics settings
 
@@ -145,19 +152,6 @@ Your game still won’t work correctly? Read on and try Fix 5.
 
 If the crashing still happens, continue with the next solution below.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 7 – Run the game in Windowed mode
 
  In some cases, Elite Dangerous crashes due to resolution or refresh issues. If that’s the problem for you, running the game in Windowed mode may help fix it.
@@ -166,16 +160,16 @@ If the crashing still happens, continue with the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Double-click**DisplaySettings.xml** to open the file.
 
@@ -204,22 +198,19 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-premium-mac-capture-software-substitutes-for-bandicam-for-2024/"><u>[New] Premium Mac Capture Software Substitutes for Bandicam for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-small-businesss-safest-video-conferencing-top-picks/"><u>[New] Small Business's Safest Video Conferencing Top Picks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-video-edits-easy-techniques-on-your-windows-pc/"><u>[Updated] The Art of Video Edits Easy Techniques on Your Windows PC</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/centrum-podpory-by-movavi-secure-and-reliable-cloud-storage-solutions/"><u>Centrum Podpory by Movavi - Secure and Reliable Cloud Storage Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/fenty-mysteries-solved-immortals-fenyx-rising-ready-to-roll-out/"><u>Fenty Mysteries Solved - Immortals Fenyx Rising Ready to Roll Out</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-s18-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo S18 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-securing-sims-legacy-proven-strategies-for-documenting-virtual-escapades/"><u>In 2024, Securing Sims' Legacy Proven Strategies for Documenting Virtual Escapades</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-a24-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy A24 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win-able.techidaily.com/nox-player-troubleshooting-guide-how-to-resolve-frequent-disruptions-and-crashing-problems-on-your-computer/"><u>Nox Player Troubleshooting Guide: How to Resolve Frequent Disruptions and Crashing Problems on Your Computer</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/simple-guide-recording-a-live-broadcast-on-your-computer/"><u>Simple Guide: Recording a Live Broadcast on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-helldivers-ii-pc-game-crash-issues-with-effective-solutions/"><u>Solving Helldivers II PC Game-Crash Issues with Effective Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/steam-cloud-update-troubles-heres-how-to-restore-synchronization-successfully/"><u>Steam Cloud Update Troubles? Here's How to Restore Synchronization Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-with-house-flipper-2-heres-how-to-resolve-pc-malfunctions-and-enjoy-gaming/"><u>Trouble with House Flipper 2? Here's How to Resolve PC Malfunctions and Enjoy Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-repair-how-to-stop-your-kodi-from-crashing-continuously/"><u>Troubleshooting and Repair: How to Stop Your Kodi From Crashing Continuously</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-unable-to-join-a-party-issue-in-fortnite-error-code-84/"><u>Troubleshooting the 'Unable to Join a Party' Issue in Fortnite (Error Code #84)</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-resolve-constant-fortnite-game-crashes-on-pc/"><u>Ultimate Guide to Resolve Constant Fortnite Game Crashes on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-4-game-changers-in-microsoft-paint-tools/"><u>Unveiling 4 Game-Changers in Microsoft Paint Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-gentle-request-for-a-greater-genuine-community/"><u>[New] 2024 Approved Gentle Request for a Greater, Genuine Community</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/70984214-updated-in-2024-permanently-quit-youtube-shorts-now/"><u>[Updated] In 2024, Permanently Quit YouTube Shorts Now!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-revolutionize-your-vlog-with-these-elite-12-cameras/"><u>[Updated] Revolutionize Your Vlog with These Elite 12 Cameras</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-smooth-and-swift-designing-your-best-thumbnails/"><u>[Updated] Smooth & Swift Designing Your Best Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-the-potential-of-your-youtube-videos-in-movie-maker/"><u>[Updated] Unlock the Potential of Your YouTube Videos in Movie Maker</u></a></li>
+<li><a href="https://techtrends.techidaily.com/customizing-and-organizing-your-macos-sonoma-menu-bar-expert-tips-and-tricks/"><u>Customizing and Organizing Your MacOS Sonoma Menu Bar - Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-eliminate-frame-drops-and-visual-hitches-in-warzone/"><u>How to Eliminate Frame Drops and Visual Hitches in Warzone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-microsoft-edge-stability-issues-in-windows-10/"><u>How to Fix Microsoft Edge Stability Issues in Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-game-stutter-and-freezes-in-no-rest-for-the-wicked-a-step-by-step-approach/"><u>How To Overcome Game Stutter and Freezes in 'No Rest for the Wicked': A Step-by-Step Approach</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 mini Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/nikon-coolpix-w100-review-a-rugged-waterproof-inexpensive-camera/"><u>Nikon Coolpix W100 Review: A Rugged, Waterproof, Inexpensive Camera</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-your-games-effective-ways-to-address-and-prevent-frames-per-second-dips-on-pc/"><u>Optimize Your Games: Effective Ways to Address and Prevent Frames Per Second Dips on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-update-your-minecraft-graphics-driver-to-resolve-outdated-notifications/"><u>Step-by-Step Guide: Update Your Minecraft Graphics Driver to Resolve 'Outdated' Notifications</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-addressing-and-repairing-acrocefexe-error-messages/"><u>The Ultimate Guide: Addressing and Repairing acroCEF.exe Error Messages</u></a></li>
 </ul></div>
 

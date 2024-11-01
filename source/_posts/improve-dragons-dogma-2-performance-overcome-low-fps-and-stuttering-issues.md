@@ -1,7 +1,7 @@
 ---
 title: "Improve Dragon's Dogma 2 Performance: Overcome Low FPS and Stuttering Issues"
-date: 2024-09-10T14:08:10.651Z
-updated: 2024-09-11T14:08:10.651Z
+date: 2024-10-28T07:27:30.934Z
+updated: 2024-10-31T18:28:25.318Z
 tags:
   - win11
   - win10
@@ -49,6 +49,14 @@ Here’s how to use Fortect to run a Windows repair:
 3. Once finished, Fortectwill generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -62,52 +70,12 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Click**Yes** when prompted to confirm.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Update your graphics driver
 
@@ -126,21 +94,21 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -164,79 +132,34 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -267,18 +190,18 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
@@ -291,21 +214,16 @@ Here are the steps:
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
-3. Wait a while for Windows to check and automatically install the updates for you.
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
+3. Wait a while for Windows to check and automatically install the updates for you.
 
 4. Restart your computer.
 
@@ -321,8 +239,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -330,4 +246,26 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-steps-for-safe-and-cost-free-vlc-downloads-on-apple-machines/"><u>[New] Steps for Safe and Cost-Free VLC Downloads on Apple Machines</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-vimeo-vs-youtube-the-differentiators-analysis/"><u>2024 Approved Vimeo V/S YouTube The Differentiator's Analysis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-long-load-times-in-fallout-4-top-solutions/"><u>Fixes for Long Load Times in Fallout 4: Top Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-honor-magic-6-lite-by-drfone-android/"><u>How to Bypass FRP on Honor Magic 6 Lite?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-edge-40-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Edge 40 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-conquering-export-errors-for-srt-in-premiere-pro/"><u>In 2024, Conquering Export Errors for SRT in Premiere Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-motorola-moto-g84-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Motorola Moto G84 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/keyboard-shortcuts-adding-rows-in-microsoft-excel-a-step-by-step-guide/"><u>Keyboard Shortcuts: Adding Rows in Microsoft Excel - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-data-arrangement-in-microsoft-excel-discover-the-7-most-effective-techniques/"><u>Mastering Data Arrangement in Microsoft Excel: Discover the 7 Most Effective Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-keyboard-shortcuts-how-to-undo-redo-and-repeat-actions-quickly-in-ms-excel/"><u>Mastering Keyboard Shortcuts: How to Undo, Redo, and Repeat Actions Quickly in MS Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-art-of-custom-borders-in-microsoft-excel/"><u>Mastering the Art of Custom Borders in Microsoft Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-art-of-making-text-fit-into-excel-cells-a-step-by-step-guide/"><u>Mastering the Art of Making Text Fit Into Excel Cells: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-use-of-ampersand-symbols-in-microsoft-excel-headerfooter-formatting/"><u>Mastering the Use of Ampersand Symbols in Microsoft Excel Header/Footer Formatting</u></a></li>
+<li><a href="https://win-able.techidaily.com/microsofts-decision-to-discontinue-currency-features-in-excel/"><u>Microsoft's Decision to Discontinue Currency Features in Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-guide-incorporating-macros-on-microsoft-offices-quick-access-toolbar/"><u>Quick Guide: Incorporating Macros on Microsoft Office's Quick Access Toolbar</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-crafting-a-personalized-pareto-diagram-using-microsoft-excel/"><u>Step-by-Step Guide: Crafting a Personalized Pareto Diagram Using Microsoft Excel</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reators-guide-to-the-top-9-affordable-video-editing-apps-for-2024/"><u>The Creator's Guide to the Top 9 Affordable Video Editing Apps for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-5-best-free-solutions-to-merge-mpeg-files-for-2024/"><u>Updated 5 Best Free Solutions to Merge MPEG Files for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/visual-filmmaking-aids-go-green-no-money/"><u>Visual Filmmaking Aids Go Green, No Money</u></a></li>
+</ul></div>
 

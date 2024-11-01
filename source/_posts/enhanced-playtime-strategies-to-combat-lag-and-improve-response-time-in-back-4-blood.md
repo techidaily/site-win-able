@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Playtime: Strategies to Combat Lag and Improve Response Time in 'Back 4 Blood'"
-date: 2024-10-23T11:39:53.860Z
-updated: 2024-10-26T13:14:12.881Z
+date: 2024-10-29T06:40:56.431Z
+updated: 2024-10-31T17:24:42.221Z
 tags:
   - win11
   - win10
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
  If you’ve checked your internet connection but the ping is still high, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Close bandwidth-hogging programs
 
  You’re more likely to experience lag spikes and get a high ping in-game when other programs are hogging your bandwidth. If your browser is running with tons of tabs open or videos loading in the background, your connection will become very slow.
@@ -72,16 +65,16 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are network-hogging. Select it then click**End task** .  
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
  If you’re still getting a high ping and game seems laggy, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Update network driver
 
@@ -96,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged network driver to automatically download the correct version of the drivers, then you can manually install them (you can do this with the FREE version).
 
@@ -131,14 +117,21 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
 4. Your DNS cache is successfully cleared.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
@@ -151,14 +144,21 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 2. Click **Change adapter options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
@@ -166,23 +166,23 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
@@ -217,21 +217,22 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-diy-instagram-videos-simple-steps-to-success-for-2024/"><u>[Updated] DIY Instagram Videos Simple Steps to Success for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-storing-session-videos-in-gh-for-2024/"><u>[Updated] Storing Session Videos in GH for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-harmonize-your-hours-synchronized-video-playback-across-platforms/"><u>2024 Approved Harmonize Your Hours Synchronized Video Playback Across Platforms</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-style-with-confidence-adding-border-artistry-to-your-instagram-posts/"><u>2024 Approved Style with Confidence Adding Border Artistry to Your Instagram Posts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-plus-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Plus Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/anthems-stuck-on-launch-solving-the-games-unending-boot-sequence-woes/"><u>Anthem's Stuck on Launch? Solving the Game’s Unending Boot Sequence Woes</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-your-horror-game-immersion-fixing-lag-issues-in-resident-evil-village-on-pc/"><u>Enhance Your Horror Game Immersion - Fixing Lag Issues in Resident Evil Village on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/experience-the-excitement-with-cod-modern-warfares-newest-fps-release/"><u>Experience the Excitement with Cod: Modern Warfare's Newest FPS Release!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-to-prevent-adobe-premiere-pro-crashing-incidents-on-windows-1110-platforms/"><u>Expert Solutions to Prevent Adobe Premiere Pro Crashing Incidents on Windows 11/10 Platforms</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-daydream-to-reality-a-short-vr-history/"><u>From Daydream to Reality A Short VR History</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-motorola-razr-40-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Motorola Razr 40 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-vr-hurdles-effective-solutions-to-fix-phasmophobia-errors/"><u>Overcoming VR Hurdles: Effective Solutions to Fix Phasmophobia Errors</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-meizu-21-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Meizu 21 Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-the-bluetooth-not-found-error-in-windows-10-step-by-step-guide/"><u>Resolve the 'Bluetooth Not Found' Error in Windows 10 - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-end-of-nightmares-fixing-and-preventing-black-screens-in-cyberpunk-2077/"><u>The End of Nightmares: Fixing and Preventing Black Screens in Cyberpunk 2077</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-strategies-for-optimizing-sims-4-speed-and-stability-on-windows-computers/"><u>Top Strategies for Optimizing Sims 4 Speed and Stability on Windows Computers</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/windows-android-sd/"><u>无敲碰地，从 Windows 和 Android 手机上重置 SD 卡 - 全程指南</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-tips-how-to-find-and-restore-deleted-mobile-numbers-in-your-address-book/"><u>Android Tips: How to Find and Restore Deleted Mobile Numbers in Your Address Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-black-ops-cold-war-no-more-crashes-optimizing-pc-performance-for-the-latest-update/"><u>Call of Duty: Black Ops Cold War - No More Crashes! Optimizing PC Performance for the Latest Update</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y100i-power-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-reviving-your-steelseries-gg-mouses-engine-when-it-wont-work-with-windows/"><u>Expert Tips: Reviving Your SteelSeries GG Mouse's Engine When It Won't Work with Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-utorrent-malfunction-a-guide-to-7-successful-techniques/"><u>Fixing Utorrent Malfunction: A Guide to 7 Successful Techniques</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/google-ar-decorations-and-their-competing-products-for-2024/"><u>Google AR Decorations & Their Competing Products for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-examination-the-dji-phantom-3-experience/"><u>In-Depth Examination The DJI Phantom 3 Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/local-steam-client-communication-fixed-resolving-the-failed-to-connect-error/"><u>Local Steam Client Communication Fixed: Resolving the ‘Failed to Connect’ Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000920376-pro-playbook-elevate-your-game-with-these-absolutely-critical-to-avoid-any-potential-negative-impact-on-the-environment-and-human-health/"><u>Pro Playbook: Elevate Your Game with These Absolutely Critical to Avoid Any Potential Negative Impact on the Environment and Human Health</u></a></li>
+<li><a href="https://win-able.techidaily.com/robocop-rogue-city-pc-launch-problems-heres-how-to-fix-them-quickly/"><u>RoboCop - Rogue City PC Launch Problems? Here's How to Fix Them Quickly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-navigating-openais-exclusive-custom-gpt-offerings-today/"><u>The Ultimate Guide to Navigating OpenAI’s Exclusive Custom GPT Offerings Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/total-war-series-warhammer-ii-game-crashes-no-more-expert-advice-and-solutions/"><u>Total War Series - Warhammer II Game Crashes No More [Expert Advice & Solutions]</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-stop-subnautica-pc-game-from-frequent-crashes/"><u>Troubleshooting Guide: How to Stop Subnautica [PC] Game From Frequent Crashes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unexplored-instagram-tricks-for-enhanced-engagement-for-2024/"><u>Unexplored Instagram Tricks for Enhanced Engagement for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/windows-best-camcorders-reviewed-and-rated-for-2024/"><u>Window's Best Camcorders Reviewed & Rated for 2024</u></a></li>
 </ul></div>
 

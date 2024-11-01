@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Games: Effective Ways to Address and Prevent Frames Per Second Dips on PC"
-date: 2024-10-21T04:53:21.265Z
-updated: 2024-10-26T06:23:03.161Z
+date: 2024-10-28T03:54:48.889Z
+updated: 2024-11-01T09:53:41.407Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/0a1a7225cf59c67660e5517795e22301d6d92dc24
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run WWE 2K20 on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  In order to fix the plethora of bugs and glitches players have bumped into, 2K keeps releasing patches. It is possible that new releases include patches for the WWE 2K20 crashing problem. So it’s recommended that you install the new patches to see if it fixes the issue.
@@ -52,33 +59,25 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click the**Compatibility** tab, tick**the box** for**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Play the game again to see if the game runs smoothly. If yes, then great! If the crashing issue still occurs, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Verify game integrity
 
@@ -89,10 +88,16 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-119.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
@@ -102,13 +107,6 @@ Here is how to do it:
  3) Launch WWE 2K20 again after you verify the integrity of the game files. If this issue persists, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -146,13 +144,6 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Run WWE 2K20 on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -169,9 +160,23 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) In the window that opens, choose**WWE2K20\_x64** , then click**Add Selected Program** .
 
@@ -180,6 +185,13 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
  5) In**Select the preferred graphics processor for this program** , select**High-performance NVIDIA processor** . Then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Launch WWE 2K20 and check to see if the crashing issue is fixed.
 
@@ -204,20 +216,22 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-10-facebook-jail-secrets-to-avoid-being-blocked-get-out-of-it-for-2024/"><u>[Updated] 10 Facebook Jail Secrets to Avoid Being Blocked / Get Out of It for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-virtual-worlds-with-more-to-offer-than-just-gta/"><u>[Updated] 2024 Approved Virtual Worlds with More to Offer than Just GTA</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-apowersoft-unpacked-in-depth-review-and-comparisons-required/"><u>[Updated] In 2024, Apowersoft Unpacked In-Depth Review & Comparisons Required</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-your-ultimate-guide-to-perfectly-recorded-lol-gaming/"><u>[Updated] In 2024, Your Ultimate Guide to Perfectly Recorded LOL Gaming</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitterscape-archive-the-ultimate-compiler-and-preserver-of-tweets-in-frames/"><u>2024 Approved Twitterscape Archive The Ultimate Compiler & Preserver of Tweets in Frames</u></a></li>
-<li><a href="https://win-able.techidaily.com/beyond-the-wire-unraveling-mysteries-of-train-accidents/"><u>Beyond the Wire: Unraveling Mysteries of Train Accidents</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dvd-copy-protectiondvd-decrypter/"><u>DVD Copy ProtectionをDVD Decrypterで解除する手順・及び解除が出来ない場合の対処</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expanding-creative-horizons-in-obs-studio-using-luts/"><u>Expanding Creative Horizons in OBS Studio Using LUTs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2016-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2016</u></a></li>
-<li><a href="https://win-able.techidaily.com/maplestory-startup-problems-resolved-how-to-get-the-game-running-smoothly-again/"><u>MapleStory Startup Problems Resolved - How To Get The Game Running Smoothly Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-boosted-eliminating-the-concurrent-2-fps-slump-now-solved/"><u>PC Gaming Boosted: Eliminating the Concurrent 2-FPS Slump - Now Solved</u></a></li>
-<li><a href="https://win-able.techidaily.com/revamped-adventure-awaits-overcoming-issues-with-avatar-in-the-frontiers-of-pandora-on-your-computer/"><u>Revamped Adventure Awaits - Overcoming Issues with Avatar in the Frontiers of Pandora on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-crashes-in-v-rising-game-on-pc-with-these-simple-steps/"><u>Solve Crashes in V-Rising Game on PC with These Simple Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-problem-overcome-the-nba-2k21-black-screen-glitch/"><u>Solve Your Problem: Overcome the NBA 2K21 Black Screen Glitch</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-freezing-problems-in-minecraft-on-pc-guide/"><u>Troubleshooting Persistent Freezing Problems in Minecraft on PC (Guide)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tips-for-seamless-integration-of-supplementary-footage/"><u>[Updated] Tips for Seamless Integration of Supplementary Footage</u></a></li>
+<li><a href="https://win-able.techidaily.com/dvd-ripper-pro-wonderfox/"><u>DVD Ripper Pro (WonderFox)をインストール済みです。使用をご提供賜り、心より感謝申し上げます。</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-conversion-tips-how-to-change-mp4-audio-to-aac-file-type-using-windows-software/"><u>Easy Conversion Tips: How to Change MP4 Audio to AAC File Type Using Windows Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-installation-instructions-for-the-tmdb-addon-in-kodi-now-supporting-nexus-platforms/"><u>Easy Installation Instructions for the TMDB Addon in Kodi, Now Supporting Nexus Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-instant-setup-top-kodi-addons-with-just-a-single-tap/"><u>Easy Instant Setup: Top Kodi Addons with Just a Single Tap</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-to-change-voc-audio-into-mp3-format-across-pcs-and-macs/"><u>Easy Steps to Change VOC Audio Into MP3 Format Across PCs & Macs</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-techniques-for-video-trimming-cutting-down-file-size-and-excising-superfluous-segments/"><u>Effective Techniques for Video Trimming: Cutting Down File Size and Excising Superfluous Segments</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortlessly-transform-your-gif-files-to-avi-with-these-2-free-converters-best-guide-for-windows-and-web-based-tools/"><u>Effortlessly Transform Your GIF Files to AVI with These 2 Free Converters – Best Guide for Windows and Web-Based Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-techniques-for-transforming-dvd-audio-tracks-into-premium-flac-format/"><u>Expert Techniques for Transforming DVD Audio Tracks Into Premium FLAC Format</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-12-mini-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 mini to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-speed-up-your-windows-11-boot-time/"><u>How to Speed Up Your Windows 11 Boot Time</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-elevating-images-premier-frame-apps-in-2e-24/"><u>In 2024, Expertly Elevating Images Premier Frame Apps in 2E '24</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-12-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 12 In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-updater-failures-0xca00a009/"><u>Mastering the Art of Fixing Updater Failures #0xCA00A009</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/optimal-performance-assured-the-apc-gaming-backup-unit-breakdown-and-review/"><u>Optimal Performance Assured: The APC Gaming Backup Unit Breakdown and Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-correcting-the-infamous-code-19-issue-on-your-computer/"><u>Step-by-Step Solution: Correcting the Infamous Code 19 Issue on Your Computer</u></a></li>
 </ul></div>
 

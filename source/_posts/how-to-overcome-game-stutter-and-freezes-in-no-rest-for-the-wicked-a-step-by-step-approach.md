@@ -1,7 +1,7 @@
 ---
 title: "How To Overcome Game Stutter and Freezes in 'No Rest for the Wicked': A Step-by-Step Approach"
-date: 2024-10-19T05:32:30.966Z
-updated: 2024-10-26T07:05:46.287Z
+date: 2024-10-29T21:21:03.026Z
+updated: 2024-10-31T16:23:29.537Z
 tags:
   - win11
   - win10
@@ -55,16 +55,16 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-38-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Type **dxdiag** , then press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-41-16.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  On the System tab, check your**OS, Processor and Memory** .
 
@@ -90,13 +90,6 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-20-41.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Double-click**Display adapters** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-23-36.jpg)
@@ -106,10 +99,16 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-28-26.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click the**Driver** tab, then click**Roll Back Driver** .
@@ -117,13 +116,6 @@ Follow the instructions below to view your computer hardware information:
  If you don’t have the Roll Back Driver option, that means you’re already using the old graphics driver,[**try updating your device drivers**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-29-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Select**My apps don’t work with this driver** , then click**Yes** .
 
@@ -147,6 +139,13 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-38.jpg)
@@ -166,6 +165,13 @@ Follow the instructions below to view your computer hardware information:
 **1)** Right-click the **Epic Games icon** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-49-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  Go to the **Compatibility tab** , check the box next to **Run this program as an administrator** .
 
@@ -197,6 +203,19 @@ If the game still freezes, then move on to the fix below.
 
 If your issue persists, check the fix below.
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: End unnecessary background programs
 
  Having multiple programs running simultaneously while playing_Borderland 3_ can consume system resources and interfere with the game’s performance. By closing unnecessary programs, you can free up system memory and CPU usage, potentially resolving game freezing issues. Here’s how to end unnecessary programs:
@@ -210,29 +229,22 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click the **Processes** tab to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-41-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Right-click the program you don’t need, and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-45.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After turning off unwanted programs, relaunch your game to test your issue. If your problem still exists, try **[Fix 6](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -255,13 +267,6 @@ If your issue persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-25.jpg)
 
  Try launching _Borderlands 3_ to see if it works properly now. If not, check the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for Windows updates
 
@@ -305,6 +310,13 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-39.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Click the button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
@@ -318,6 +330,13 @@ If your issue persists, check the fix below.
 **9)** Restart your computer and your game.
 
  You should be able to run the game without freezing now. If the issue continues to occur, don’t fret. There is still 1 more fix to try.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall the Epic Games Launcher
 
@@ -342,19 +361,6 @@ If your issue persists, check the fix below.
  If you’re prompted for permission, select **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-58.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** [**Download**](https://www.epicgames.com/unrealtournament/download) and install the Epic Games Launcher. Then, reinstall_Borderlands 3_ .
 
@@ -383,24 +389,22 @@ If your issue persists, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-weaving-digital-tapestries-with-loom/"><u>[New] 2024 Approved Weaving Digital Tapestries with Loom</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-simplify-your-tech-life-capture-and-store-youtube-streaming-effortlessly-for-2024/"><u>[Updated] Simplify Your Tech Life Capture and Store YouTube Streaming Effortlessly for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/enjoy-a-smooth-playthrough-of-far-cry-6-for-pc-users/"><u>Enjoy a Smooth Playthrough of Far Cry 6 for PC Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-fixing-persistent-crashes-in-naraka-path-of-the-warrior/"><u>Expert Tips for Fixing Persistent Crashes in Naraka: Path of the Warrior</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-easily-send-virtual-steam-surprises-a-complete-guide/"><u>How To Easily Send Virtual Steam Surprises: A Complete Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722993854485-how-to-stop-arcadegeddon-from-keeping-on-pc-solutions-inside/"><u>How to Stop Arcadegeddon From Keeping on PC – Solutions Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-your-pc-from-crashing-during-wolcen-lords-of-mayhem/"><u>How to Stop Your PC From Crashing During Wolcen: Lords of Mayhem</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-se-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone SE to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-choosing-between-obs-and-fraps-for-capture/"><u>In 2024, Choosing Between OBS and Fraps for Capture</u></a></li>
-<li><a href="https://win-able.techidaily.com/infinite-wealth-strategies-on-pc-unleashing-like-a-dragon-potential/"><u>Infinite Wealth Strategies on PC - Unleashing 'Like a Dragon' Potential</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-ie-page-rendering-issues-solutions-inside/"><u>Overcoming IE Page Rendering Issues: Solutions Inside</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/to-upgrade-or-not-to-upgrade-the-real-value-of-chatgpt-plus/"><u>To Upgrade or Not to Upgrade: The Real Value of ChatGPT Plus</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/top-10-innovative-tweets-de-followers-and-cleanup-apps-for-2024/"><u>Top 10 Innovative Tweets De-Followers & Cleanup Apps for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007352669-tower-of-fantasy-crashes-on-windows-discover-effective-fixes-here/"><u>Tower of Fantasy Crashes on Windows? Discover Effective Fixes Here!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transcending-chatgpt-the-future-of-ai-dialogues/"><u>Transcending ChatGPT: The Future of AI Dialogues</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-half-life-alyx-overcoming-stutter-and-lag-in-pc-versions/"><u>Troubleshooting Half-Life: Alyx: Overcoming Stutter and Lag in PC Versions</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-heartcrashes-in-hearthstone-on-your-windows-pc/"><u>Troubleshooting: How to Fix Heartcrashes in Hearthstone on Your Windows PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-ensure-video-perfection-before-sharing-on-instagram/"><u>[New] Ensure Video Perfection Before Sharing on Instagram</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-brighten-your-video-with-android-tricks/"><u>2024 Approved Brighten Your Video with Android Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-finding-value-in-sport-photography-cameras-for-the-price-conscious/"><u>2024 Approved Finding Value in Sport Photography – Cameras for the Price-Conscious</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-iphone-markers-choosing-the-best-image-watermarks/"><u>2024 Approved Top iPhone Markers Choosing the Best Image Watermarks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/boosting-user-interaction-mastering-hashtag-use-on-instagram/"><u>Boosting User Interaction Mastering Hashtag Use on Instagram</u></a></li>
+<li><a href="https://win-able.techidaily.com/fast-conversion-tips-transforming-webm-files-into-quality-wav-audio/"><u>Fast Conversion Tips: Transforming WebM Files Into Quality WAV Audio</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-desktop-applications-for-easy-access-to-iqiyi-movies-and-shows-how-to-download-with-best-techniques/"><u>Free Desktop Applications for Easy Access to iQiyi Movies & Shows: How-To Download with Best Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-mp3-songs-finder-using-mp3goo-downloader-for-easy-music-downloads/"><u>Free MP3 Songs Finder: Using MP3GOO Downloader for Easy Music Downloads</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-wonderfox-dvd-ripper-prize-contest-win-now/"><u>Free WonderFox DVD Ripper Prize Contest - Win Now!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-lenovo-thinkphone-screen-sharing-drfone-by-drfone-android/"><u>How To Do Lenovo ThinkPhone Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ifomp4/"><u>IFOファイルの解説とMP4への変換ガイド</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ipadmp4/"><u>IPadでMP4ファイルが正常に再生しない場合の問題点と解決法</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-dvd-playback-on-windows-8-and-81-troubleshooting-tips-for-seamless-viewing/"><u>Mastering DVD Playback on Windows 8 & 8.1 - Troubleshooting Tips for Seamless Viewing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-12-pro-5g-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Realme 12 Pro 5G support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-complete-beginners-guide-to-creating-impressive-macro-videos/"><u>The Complete Beginner's Guide to Creating Impressive Macro Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/iuodkplusodhplusocquobrumvtplusobleockuefreobjplusobmeocizrmmylplppjgajnllvpnalopomqkhjgpllpinmm7qi/"><u>ビデオの長さを短くする:時間と画面規模を変更</u></a></li>
 </ul></div>
 

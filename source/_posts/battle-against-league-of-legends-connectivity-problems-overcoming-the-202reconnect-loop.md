@@ -1,7 +1,7 @@
 ---
 title: "Battle Against League of Legends Connectivity Problems: Overcoming the 202^Reconnect Loop"
-date: 2024-09-10T14:08:11.871Z
-updated: 2024-09-11T14:08:11.871Z
+date: 2024-10-25T05:43:52.884Z
+updated: 2024-10-31T16:56:14.072Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Re-add your friend
 
  I believe you’ve already tried restarting Minecraft maybe even restart your computer. There is one more thing you can try: re-add your friend.
@@ -55,20 +62,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
  If you find you can still connect to a stranger’s world, you can remove the person as a friend then re-add him/her back. This fix has helped some players.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Reload your private world
 
@@ -81,57 +74,18 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-00-57.png)
 4. Evoke the menu and choose**Save & Quit** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-01-51.png)
 5. Back to the main menu and click the**Friends** tab.  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-02-37.png)
 6. You should be able to join your friends’ world.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Disable Windows Firewall
 
@@ -143,46 +97,8 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click**Allow an app or feature through Windows Defender Firewall** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the “javaw.exe” is checked. If not, click the Change settings button then check the “javaw.exe”. If you see more than one “javaw.exe” entries, check all of them. Ensure the Private box and the Publick box are checked too.  
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
 
@@ -190,19 +106,12 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Update the network drivers
 
@@ -218,7 +127,22 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-714.png)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Run Minecraft and check whether you can connect to the world.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -227,19 +151,12 @@ If this fix can’t help, you can move to the next.
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Change the settings
 
@@ -250,20 +167,6 @@ If this fix can’t help, you can move to the next.
 3. Find**Join multiplayer games** and make sure it’s set to**Allow** .
 4. Click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/x.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ---
 
@@ -294,19 +197,12 @@ If this fix can’t help, you can move to the next.
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Bonus tips
 
@@ -330,8 +226,6 @@ If this fix can’t help, you can move to the next.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -339,4 +233,22 @@ If this fix can’t help, you can move to the next.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevating-profits-via-celebrity-skincare-channels/"><u>[New] In 2024, Elevating Profits via Celebrity Skincare Channels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rack-your-traffic-the-straightforward-strategy-for-scrutinizing-youtube-earnings-for-2024/"><u>[New] Track Your Traffic The Straightforward Strategy for Scrutinizing YouTube Earnings for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-real-time-screen-replay-on-chrome-pcs/"><u>[Updated] Real-Time Screen Replay on Chrome PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-smooth-gaming-boosting-frames-per-second-fps-in-ring-of-elysium/"><u>Achieve Smooth Gaming - Boosting Frames Per Second (FPS) in Ring of Elysium</u></a></li>
+<li><a href="https://win-able.techidaily.com/crack-the-code-to-beat-constant-loading-problems-in-among-us-step-by-step-guide/"><u>Crack the Code to Beat Constant Loading Problems in Among Us - Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-the-past-top-10-educational-history-yt-channels-for-2024/"><u>Exploring the Past Top 10 Educational History YT Channels for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-notorious-code-12707-in-call-of-duty-modern-warfare-3/"><u>How to Overcome the Notorious Code 12707 in Call of Duty Modern Warfare 3?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-audio-in-your-minecraft-game-on-a-personal-computer/"><u>How to Restore Audio in Your Minecraft Game on a Personal Computer</u></a></li>
+<li><a href="https://fox-place.techidaily.com/managing-iis-collections-a-comprehensive-guide/"><u>Managing IIS Collections: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-quiet-twitch-streams-a-simple-fix-for-audio-problems-on-live-video/"><u>No More Quiet Twitch Streams: A Simple Fix for Audio Problems on Live Video</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openais-pinnacle-introducing-groundbreaking-gpt-4/"><u>OpenAI's Pinnacle: Introducing Groundbreaking GPT-4</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-discords-audio-issues-during-screen-shares/"><u>Troubleshooting Guide: Fixing Discord's Audio Issues During Screen Shares</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-secret-score-your-complimentary-macbook-air-m3-at-best-buy-with-these-steps-learn-more-inside/"><u>Unlock the Secret: Score Your Complimentary MacBook Air M3 at Best Buy with These Steps! Learn More Inside</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-make-memoji-talk-make-memoji-video-on-your-own/"><u>Updated 2024 Approved How to Make Memoji Talk-Make Memoji Video On Your Own</u></a></li>
+<li><a href="https://win-able.techidaily.com/upgraded-arsenal-discovering-the-improved-bullet-drop-mechanics-of-me-le/"><u>Upgraded Arsenal - Discovering the Improved Bullet Drop Mechanics of ME LE</u></a></li>
+</ul></div>
 

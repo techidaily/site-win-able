@@ -1,7 +1,7 @@
 ---
 title: Solutions for When Fall Guys Won't Open - Overcome Launch Issues Easily
-date: 2024-09-05T23:06:20.657Z
-updated: 2024-09-06T23:06:20.657Z
+date: 2024-10-25T20:53:23.846Z
+updated: 2024-10-31T20:32:57.252Z
 tags:
   - win11
   - win10
@@ -19,12 +19,6 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  But don’t worry if you happen to be one of them. In this tutorial, we’ll guide you through some working fixes and help you get back to the Hall of the Gods asap.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -33,6 +27,13 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 2. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC specs meet the requirements
 
@@ -61,11 +62,18 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
  If your rig is powerful enough for the game, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -76,12 +84,6 @@ Here’s how:
 2. Under the**Installed** section, click the picture of Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
@@ -111,14 +113,21 @@ If this method doesn’t help, you can take a look at the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -127,11 +136,12 @@ If this method doesn’t help, you can take a look at the next one.
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Install all Windows updates
 
  Microsoft releases software updates and security patches periodically to fix operating system issues. We always recommend**keeping your system up to date** , as doing so would help you avoid tons of strange errors.
@@ -143,12 +153,6 @@ And here’s how you can make sure your system is the latest:
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Immortals Fenyx Rising.
@@ -163,8 +167,6 @@ And here’s how you can make sure your system is the latest:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +174,26 @@ And here’s how you can make sure your system is the latest:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/issecting-the-narrative-in-youtube-dialogues/"><u>[New] Dissecting the Narrative in YouTube Dialogues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-no1-video-recorders-headset-display-enhanced/"><u>[New] In 2024, No.1 Video Recorders Headset Display Enhanced</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-manage-youtube-video-comments-for-enhanced-privacy/"><u>[Updated] 2024 Approved How to Manage YouTube Video Comments for Enhanced Privacy</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-hdri-advantages-over-sdr-for-enhanced-video-quality-for-2024/"><u>[Updated] HDRI Advantages Over SDR for Enhanced Video Quality for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-real-time-streaming-on-facebook-simplified-2023-for-2024/"><u>[Updated] Real-Time Streaming on Facebook, Simplified 2023 for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-shadow-surge-and-sun-sweep-encounter/"><u>2024 Approved Shadow Surge and Sun Sweep Encounter</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-pro-level-clarity-in-videos-with-easy-handheld-sharpening-tricks/"><u>Achieve Pro-Level Clarity in Videos with Easy Handheld Sharpening Tricks!</u></a></li>
+<li><a href="https://win-able.techidaily.com/advanced-youtube-format-shifter-extreme-effortlessly-convert-your-favorite-youtube-videos-to-various-video-standards/"><u>Advanced YouTube Format Shifter Extreme: Effortlessly Convert Your Favorite YouTube Videos to Various Video Standards</u></a></li>
+<li><a href="https://win-able.techidaily.com/buy-the-amazing-wonderfox-app-top-of-the-line-video-to-gif-maker/"><u>Buy the Amazing WonderFox App: Top-of-the-Line Video to GIF Maker!</u></a></li>
+<li><a href="https://win-able.techidaily.com/clear-the-blackout-troubleshooting-videos-in-windows-10-and-11-without-picture-but-sound/"><u>Clear the Blackout: Troubleshooting Videos in Windows 10 and 11 Without Picture but Sound</u></a></li>
+<li><a href="https://win-able.techidaily.com/easily-transform-videos-into-m4a-format-a-simple-guide/"><u>Easily Transform Videos Into M4A Format: A Simple Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-for-changing-audio-from-ogg-to-mp3-and-back-using-audacity-software/"><u>Easy Steps for Changing Audio From OGG to MP3 (and Back) Using Audacity Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-successfully-watching-flv-videos-on-your-iphone-or-ipad/"><u>Easy Steps: Successfully Watching FLV Videos on Your iPhone or iPad</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-conversion-tips-transforming-wavpack-audio-to-flac-for-superior-sound-quality/"><u>Effortless Conversion Tips: Transforming WavPack Audio to FLAC for Superior Sound Quality</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortlessly-trim-your-videos-with-these-5-free-windows-11-applications/"><u>Effortlessly Trim Your Videos with These 5 Free Windows 11 Applications!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elite-dangerous-stability-fixes-handling-sudden-shutdowns-on-pc/"><u>Elite Dangerous Stability Fixes: Handling Sudden Shutdowns on PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimizing-live-streams-with-onestream-a-beginners-guide/"><u>In 2024, Optimizing Live Streams with OneStream A Beginner's Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-recording-youtube-content-on-your-own-terms/"><u>Start Recording YouTube Content on Your Own Terms</u></a></li>
+</ul></div>
 

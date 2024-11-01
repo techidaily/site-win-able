@@ -1,7 +1,7 @@
 ---
 title: FIFA 22 Troubleshooting Guide - Stop Your Game From Crashing
-date: 2024-10-25T02:07:33.719Z
-updated: 2024-10-26T05:24:35.365Z
+date: 2024-10-30T21:18:03.564Z
+updated: 2024-10-31T20:40:21.479Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -60,10 +53,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If it’s not working, move to next fix.
@@ -112,20 +105,27 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<span id="1975636">
+<span id="1977032">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
@@ -140,10 +140,10 @@ OR
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
@@ -172,18 +172,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-expert-techniques-for-adding-borders-to-your-instagram-images/"><u>[New] 2024 Approved Expert Techniques for Adding Borders to Your Instagram Images</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-discover-comprehensive-mac-art-app-selection/"><u>[New] Discover Comprehensive Mac Art App Selection</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-photoslideshow-pro-on-insta/"><u>[New] In 2024, PhotoSlideshow Pro on Insta</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-peek-into-the-heart-of-youtubes-video-operations/"><u>[Updated] In 2024, A Peek Into the Heart of YouTube's Video Operations</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-expert-tips-for-penning-engaging-vlogger-scripts/"><u>2024 Approved Expert Tips for Penning Engaging Vlogger Scripts</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-launch-problems-with-days-gone-on-windowsmac/"><u>Expert Tips for Resolving Launch Problems with Days Gone on Windows/Mac</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixed-solutions-for-helldivers-2-failure-to-start-on-steam/"><u>Fixed! Solutions for Helldivers 2 Failure to Start on Steam</u></a></li>
-<li><a href="https://win-able.techidaily.com/lightsabers-onscreen-once-more-how-to-repair-the-star-wars-battlefront-ii-midnight-void-bug/"><u>Lightsabers Onscreen Once More - How to Repair the 'Star Wars Battlefront II' Midnight Void Bug</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-launch-sequence-fixes-for-back-4-blood-game-not-starting-on-different-windows-platforms/"><u>Mastering the Launch Sequence: Fixes for 'Back 4 Blood' Game Not Starting on Different Windows Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-steps-to-update-your-minecraft-graphics-card-driver/"><u>Resolved: Steps to Update Your Minecraft Graphics Card Driver</u></a></li>
-<li><a href="https://win-able.techidaily.com/restoring-audio-in-your-twitch-stream-a-comprehensive-guide-to-sound-solutions/"><u>Restoring Audio in Your Twitch Stream: A Comprehensive Guide to Sound Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safety-switch-stopping-windows-11-tasks/"><u>Safety Switch: Stopping Windows 11 Tasks</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/seamless-viewing-guide-for-avi-videos-on-modern-tv-brands-like-lg-hisense-and-tcl/"><u>Seamless Viewing Guide for AVI Videos on Modern TV Brands Like LG, Hisense & TCL</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-ranked-independent-offline-mobile-gaming-android/"><u>[New] Top-Ranked Independent Offline Mobile Gaming (Android)</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-comprehensive-guide-to-fixing-stutters-and-boosting-frames-in-dragons-dogma-n-second-edition/"><u>A Comprehensive Guide to Fixing Stutters and Boosting Frames in Dragon's Dogma N: Second Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-bug-steps-to-fix-black-ops-cold-wars-error-code-887a005/"><u>Beat the Bug: Steps to Fix Black Ops Cold War's Error Code 887A005</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/blueprints-to-hiring-creative-cinematographers-for-2024/"><u>Blueprints to Hiring Creative Cinematographers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008994181-explore-yokohama-like-never-before-with-like-a-dragon-on-your-pc/"><u>Explore Yokohama Like Never Before with 'Like a Dragon' On Your PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/imovie-rhythms-a-sound-experts-handbook/"><u>IMovie Rhythms A Sound Expert's Handbook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-how-to-craft-compelling-fb-video-covers-from-scratch/"><u>In 2024, How to Craft Compelling FB Video Covers From Scratch</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/in-depth-guide-to-correcting-google-chromes-page-load-failures/"><u>In-Depth Guide to Correcting Google Chrome's Page Load Failures</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-spark-20-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Spark 20 without backup.</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-infinix-note-30-vip-racing-edition-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Note 30 VIP Racing Edition Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

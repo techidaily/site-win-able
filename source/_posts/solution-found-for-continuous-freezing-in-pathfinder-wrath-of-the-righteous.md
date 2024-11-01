@@ -1,7 +1,7 @@
 ---
 title: "Solution Found for Continuous Freezing in Pathfinder: Wrath of the Righteous"
-date: 2024-09-10T14:08:13.426Z
-updated: 2024-09-11T14:08:13.426Z
+date: 2024-10-28T08:43:38.290Z
+updated: 2024-10-31T19:31:36.336Z
 tags:
   - win11
   - win10
@@ -17,20 +17,6 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
 Since the release of Pathfinder: Wrath of the Righteous, you can scroll through hundreds of Reddit threads that are about bug reports on the game. One of the issues plaguing many gamers is that **the game keeps freezing, especially when they click on the two classes – inquisitor and rogue** . For some, they can’t even start the game because it’s stuck at 92% after the character creation. If you’re on the same boat, don’t worry. In this post, we’ve got you covered with some methods.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -43,34 +29,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 6. **[Delete the registry key](https://tools.techidaily.com/drivereasy/download/)**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/how-to-fix-Pathfinder-Wrath-of-the-Righteous-freezing-on-PC.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 1\. Add your game as an exception to your antivirus
 
@@ -104,22 +62,16 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -128,20 +80,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ## 3\. Verify integrity of game files
 
  A variety of issues may be caused by corrupted game files, whether it’s glitched graphics or inability to launch the game. When the Pathfinder: Wrath of the Righteous freezing issue arise, you should check the integrity of the game files on Steam or GOG Galaxy:
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Verify on Steam
 
@@ -152,19 +90,12 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Verify on GOG Galaxy
 
@@ -172,45 +103,24 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 2. Click the game in your Library.
 3. Click on the**Customize button** ![](https://images.drivereasy.com/wp-content/uploads/2021/09/customization-button-GOG-Galaxy.png) (on the right side of the Play button), select**Manage installation > Verify / Repair** .  
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983582">
+<span id="1983588">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
  GOG Galaxy will now verify all of your game files, and compare them with files hosted on the game servers. If there are any discrepancies GOG Galaxy will redownload, and repair corrupted files.
 
  When it’s all done, relaunch your game. If the freezing issue persists, try the next fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Disable overlays
 
@@ -224,41 +134,20 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 5\. Launch your game from .exe file
 
  Most of the time, we just launch a program by simply clicking on the shortcut or launch a game from the gaming platform. But there is one other way you can launch your game. That is through the .exe file. Simply go to your game’s installation directory and**double-click on the executable** . Sometimes running your game directly from the executable (suggested by some players) can work like magic. So if the above methods didn’t work for you, definitely give it a shot. Players who **can’t launch the Pathfinder along with the disk write error** can also benefit from this trick.
 
 However, if it doesn’t give you any luck, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Delete the registry key
 
@@ -270,21 +159,21 @@ However, if it doesn’t give you any luck, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 3. Go to**ComputerHKEY\_CURRENT\_USERSOFTWAREowlcat** and delete the entire key.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
-
 ![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once done, restart your game and test the gameplay.
 
@@ -298,6 +187,13 @@ Once done, restart your game and test the gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
  That’s it. Feel free to drop a comment below if any fixes listed above worked for you. We also welcome alternate methods in case you’ve found one that worked for you.
@@ -308,8 +204,6 @@ Once done, restart your game and test the gameplay.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -317,4 +211,18 @@ Once done, restart your game and test the gameplay.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-mastering-the-shift-to-macos-11-big-sur/"><u>[New] Mastering the Shift to macOS 11 Big Sur</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-the-art-of-iphone-macro-and-micro-imaging-for-2024/"><u>[Updated] Mastering the Art of iPhone Macro & Micro Imaging for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamlining-creative-journey-uploading-imovie-videos-to-youtube/"><u>[Updated] Streamlining Creative Journey Uploading iMovie Videos to YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-income-mastering-short-video-markets/"><u>2024 Approved Maximizing Income Mastering Short Video Markets</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-gta-v-crashes-a-comprehensive-guide/"><u>Fixing GTA V Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-your-star-wars-battlefront-2-gaming-experience-by-cutting-down-pc-loading-delays/"><u>Improve Your Star Wars Battlefront 2 Gaming Experience by Cutting Down PC Loading Delays</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-streaming-showdown-which-superior-broadcaster-tool-are-you/"><u>In 2024, Streaming Showdown Which Superior Broadcaster Tool Are You?</u></a></li>
+<li><a href="https://win-able.techidaily.com/logitech-g403-driver-and-software-upgrade-for-pc-get-it-here/"><u>Logitech G403 Driver & Software Upgrade for PC – Get It Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-fix-ending-frontier-gaming-disruptions-on-your-personal-computer/"><u>Master the Fix: Ending 'Frontier' Gaming Disruptions on Your Personal Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-arma-3-essential-fixes-for-crash-free-gaming-in-the-enhanced-engine-update-e4/"><u>Mastering Arma 3: Essential Fixes for Crash-Free Gaming in the Enhanced Engine Update (E4)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2211475-9780007478682-the-rooster-in-2013-your-chinese-horoscope/"><u>The Rooster in 2013: Your Chinese Horoscope | Free Book</u></a></li>
+</ul></div>
 

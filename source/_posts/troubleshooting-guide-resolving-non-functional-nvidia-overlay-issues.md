@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide - Resolving Non-Functional Nvidia Overlay Issues
-date: 2024-10-20T23:44:32.639Z
-updated: 2024-10-26T01:57:39.482Z
+date: 2024-10-27T10:43:22.832Z
+updated: 2024-10-31T21:27:39.497Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap6-1.png)
@@ -65,19 +72,6 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
  6) In the pop-up window, delete the**Origin**  folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap274.png)
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Click**AppData** in the address bar.
 
@@ -90,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
  9) Delete the**Origin**  folder in the **Local** folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/007.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  10) Restart your PC and Double-click the shortcut of Origin on your desktop.
 
@@ -136,16 +123,16 @@ Or
 
 ![Driver Easy Scan Screen](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Update-graphics-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -162,9 +149,23 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Try recommended settings** to test-run program using recommended compatibility settings. Follow the on-screen instructions to see whether this troubleshooting option works or not.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-1-1-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) If it still doesn’t work, then run the Program Compatibility Troubleshooter again and**select the second option** **to choose compatibility settings based on problems you notice** .
 
@@ -178,16 +179,16 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this fix works, your Origin will open when you double-click its shortcut. If not, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 4: Add Origin as an exception to your third-party antivirus application**
 
@@ -201,13 +202,6 @@ Or
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 5: Perform a clean boot**
 
 You may need to   **perform a clean boot** if this issue persists  . The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can find out the problematic software. Once you find it out, just uninstall it, and then the this  issue will be solved. Here’s how to do it:
@@ -216,20 +210,27 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap266-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the**Services** tab, check **Hide all Microsoft services** and then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select the**Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap261-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) On the**Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .
 
@@ -249,13 +250,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 6: Install the latest Windows updates**
 
  Sometimes this issue may occur if you didn’t install the latest Windows updates on your PC. Try performing Windows Update and this issue may get resolved. Here is how to do it:
@@ -267,13 +261,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  2) Click **Check for updates** to update your Windows system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap267.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Restart your PC when the Windows update process completed.
 
@@ -296,6 +283,13 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  iii. Double-click**Origin** to uninstall it.
 
@@ -327,22 +321,18 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-superior-presentations-to-film/"><u>[New] 2024 Approved Superior Presentations to Film</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-rapidpace-timefreeze-film/"><u>[Updated] 2024 Approved RapidPace TimeFreeze Film</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-convert-your-streaming-top-free-video-to-audio-tools/"><u>[Updated] Convert Your Streaming Top Free Video to Audio Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-innovative-approaches-to-save-whatsapp-voice-calls/"><u>[Updated] In 2024, Innovative Approaches to Save WhatsApp Voice Calls</u></a></li>
-<li><a href="https://win-able.techidaily.com/adobe-launch-malfunction-solve-the-error-code-0xc0000022-problem-today/"><u>Adobe Launch Malfunction - Solve the Error Code 0xC0000022 Problem Today</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/como-realizar-la-copia-de-seguridad-e-clonacion-completa-del-disco-duro-en-windows-similar-problem-for-the-united-states-audience/"><u>Como Realizar La Copia De Seguridad E Clonación Completa Del Disco Duro en Windows # Similar Problem for the United States Audience:</u></a></li>
-<li><a href="https://win-able.techidaily.com/death-stranding-on-pc-now-running-smoothly-after-debugging-challenges/"><u>Death Stranding on PC - Now Running Smoothly After Debugging Challenges</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-speeding-up-your-steam-gameplay-experience/"><u>Expert Advice on Speeding Up Your Steam Gameplay Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-resolve-mir4-errors-on-your-windows-computer/"><u>Fixing the Issue: How to Resolve Mir4 Errors on Your Windows Computer</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-guides-on-creating-cost-free-youtube-beginnings-and-conclusions/"><u>In 2024, Guides on Creating Cost-Free YouTube Beginnings & Conclusions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-7-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 7 Plus</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-poco-x6-pro-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Poco X6 Pro Phone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-unveiling-youtube-video-mastery-through-finalcut-pro-methods/"><u>In 2024, Unveiling YouTube Video Mastery Through FinalCut Pro Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/insight-on-the-ascent-postponement-diving-deep-into-the-causes/"><u>Insight on 'The Ascent' Postponement: Diving Deep Into the Causes</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-troubles-with-battlefront-ii-heres-how-to-fix-it/"><u>PC Troubles with Battlefront II? Here's How to Fix It!</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-mount-and-blade-2-bannerlord-game-crashes-step-by-step/"><u>Ultimate Fixes for Mount & Blade 2: Bannerlord Game Crashes - Step by Step</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-fixing-sea-of-thieves-stability-issues/"><u>Ultimate Guide to Fixing Sea of Thieves Stability Issues</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-free-fire-techniques-for-shifting-your-characters-voice-effectively/"><u>[New] Free Fire Techniques for Shifting Your Character's Voice Effectively</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-to-download-movie-cast-releases/"><u>[New] Free-to-Download Movie Cast Releases</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-photo-vault-services/"><u>[New] Premium Photo Vault Services</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-optimize-space-compelling-selection-of-20-top-free-cloud-storages-up-to-1tb/"><u>[Updated] In 2024, Optimize Space Compelling Selection of 20 Top FREE Cloud Storages (Up To 1TB)</u></a></li>
+<li><a href="https://win-able.techidaily.com/bluestacks-crash-issues-solved-a-step-by-step-guide-to-stability/"><u>BlueStacks Crash Issues Solved: A Step-by-Step Guide to Stability</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/complete-guide-for-seamlessly-linking-content-into-your-tiktok-profile/"><u>Complete Guide for Seamlessly Linking Content Into Your TikTok Profile</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/effortless-captioning-of-instagram-story-and-video-content/"><u>Effortless Captioning of Instagram Story & Video Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-disruptions-effective-solutions-to-combat-modern-warfare-2-crashes-on-desktops/"><u>Eliminate Disruptions: Effective Solutions to Combat Modern Warfare 2 Crashes on Desktops</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-experiencing-double-frame-drop-in-pc-game-solved/"><u>Fixes: Experiencing Double Frame Drop in PC Game - Solved</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-skilled-pilots-choice-selecting-top-5-pro-drones/"><u>In 2024, Skilled Pilots' Choice - Selecting Top 5 Pro Drones</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-phasmophobia-game-breaks-top-patches/"><u>Solving Phasmophobia Game-Breaks: Top Patches</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-blue-enigma-whats-behind-the-symbol-on-facebook-messenger/"><u>The Blue Enigma What's Behind the Symbol on Facebook Messenger?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vr-surgical-training-and-planning-systems/"><u>VR Surgical Training and Planning Systems</u></a></li>
 </ul></div>
 

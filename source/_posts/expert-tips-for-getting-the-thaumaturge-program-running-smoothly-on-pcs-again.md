@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Getting the Thaumaturge Program Running Smoothly on PCs Again
-date: 2024-09-10T14:08:10.134Z
-updated: 2024-09-11T14:08:10.134Z
+date: 2024-10-28T00:42:58.050Z
+updated: 2024-11-01T04:48:13.623Z
 tags:
   - win11
   - win10
@@ -27,20 +27,6 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 4. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Delete the Bitraider folder](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 1: Rule out software conflicts
 
  The SWTOR not launching problem can be caused by a previous task session that didn’t end properly or the BitRaider background downloader that interferes with the game. To fix this, simply open the Task Manager and end the SWTOR Launcher task and BitRaider processes:
@@ -53,20 +39,6 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_11-51.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Running third-party programs in the background can also interfere with your game and lead to issues like this (_especially overlay programs_ ). So, if you’re running multiple programs while gaming, please close them to rule out software conflicts and free up resources for your game.
 
  If your**antivirus** is running, temporarily disable it and check if the problem persists. This is because antivirus sometimes mistakenly identifies the game login module as a security threat.
@@ -76,6 +48,13 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
  If SWTOR works properly after you disable the antivirus software, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
 
 If SWTOR still won’t start, read on and try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Run SWTOR in Admin mode
 
@@ -88,20 +67,6 @@ If SWTOR still won’t start, read on and try the next fix below.
 **3)** Click the **Compatibility** tab and check **Run this program as an administrator** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-00-12-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **4)** Relaunch your game to see if this helped.
 
@@ -123,11 +88,25 @@ If this doesn’t work for you, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-00.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -137,20 +116,6 @@ If this doesn’t work for you, then go ahead with the next fix.
 **4)** Relaunch your game to test your issue.
 
 If your game still won’t launch, then go ahead with the fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Verify the integrity of game files
 
@@ -162,41 +127,27 @@ If your game still won’t launch, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-18-57.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **STAR WARS: The Old Republic** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-56-38.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-57-39.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **5)** Relaunch the game to test your issue.
 
@@ -228,37 +179,9 @@ If SWTOR is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-10.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **5)** Select**Notepad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-56.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **6)** Find the matching section in the file and delete the 4 lines and replace them with this:
 
@@ -268,20 +191,6 @@ If SWTOR is still unplayable, move on to the next fix.
  **, “bitraider\_disable”: “true”**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-43-29.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **7)** On your keyboard, press the**Ctrl key and S** to save the changes. Then close Notepad.
 
@@ -294,6 +203,13 @@ If SWTOR is still unplayable, move on to the next fix.
 **11)** Type**appwiz.cpl** and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-48-15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **12)** Right-click**Bitraider Streaming Client** and select**Uninstall** .
 
@@ -311,8 +227,6 @@ If SWTOR is still unplayable, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -320,4 +234,21 @@ If SWTOR is still unplayable, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-quality-recording-of-your-roblox-journeys-on-mac-for-2024/"><u>[New] How-To Quality Recording of Your Roblox Journeys on Mac for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-pro-video-mastery-with-iphone-unveiling-top-8-tips-for-success/"><u>[Updated] Pro Video Mastery with iPhone Unveiling Top 8 Tips for Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013182220-cyberpunk-2077-performance-boosted-overcoming-previous-fps-drops/"><u>Cyberpunk 2077 Performance Boosted – Overcoming Previous FPS Drops.</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-steamvr-problems-in-a-flash-expert-solutions-for-immediate-relief/"><u>Fix SteamVR Problems in a Flash: Expert Solutions for Immediate Relief</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-resolving-baldurs-gate-3-pc-game-crash-issues/"><u>Fixes and Solutions: Resolving Baldur's Gate 3 PC Game Crash Issues</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-everything-about-metaverse-marketing-example-strategies-and-more/"><u>In 2024, Everything About Metaverse Marketing Example, Strategies, and More</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ios-selection-showcase-premier-psp-emulators-ranked-1-5-for-2024/"><u>IOS Selection Showcase Premier PSP Emulators Ranked #1-5 for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-w64/"><u>Movavi W64 フリーオンラインコンバータ - 使い勝手の良さを堪能せよ</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/restoring-facebooks-night-owl-a-guide-to-bringing-back-your-dark-theme/"><u>Restoring Facebook's Night Owl: A Guide to Bringing Back Your Dark Theme</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-performance-issues-in-avatar-the-legend-of-quetsiyah-addressing-pandoras-lags/"><u>Solving Performance Issues in 'Avatar: The Legend of Quetsiyah': Addressing Pandora's Lags</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-no-ping-issue-a-step-by-step-guide-to-rectifying-halo-infinite-errors/"><u>Solving the 'No Ping' Issue: A Step-by-Step Guide to Rectifying Halo Infinite Errors</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-intel-integrated-graphics-driver-on-windows-11-free-download/"><u>Update Your Intel Integrated Graphics Driver on Windows 11 - Free Download</u></a></li>
+</ul></div>
 

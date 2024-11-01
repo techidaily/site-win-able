@@ -1,7 +1,7 @@
 ---
 title: Why Does FIFA 22 Keep Crashing? Fix & Prevention Strategies for PC Users
-date: 2024-10-20T14:50:05.364Z
-updated: 2024-10-26T11:47:46.135Z
+date: 2024-10-30T20:28:07.982Z
+updated: 2024-11-01T05:51:17.350Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Game crashing issues can occur for a variety of reasons, such as a faulty graphi
 6. **[Disable automatic downloads from the server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reseat PC components](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Check your PC specs
 
@@ -77,10 +70,10 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Check your**Display Memory** here.
@@ -89,25 +82,11 @@ Follow the instructions below to view your computer hardware information:
 
  Make sure your computer meets the requirements, then read on and try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Restart your computer
 
  If you’re running multiple programs at the same time, hogging your system’s resources, that could cause your game to crash. In this case, try restarting your computer to end unwanted programs completely, then relaunch your game.
 
 If your problem still exists after the reboot, check Fix 3, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -147,6 +126,13 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Verify the integrity of your game files
 
  Damaged or missing game files might also cause your game to fail. If you’re running the game on Steam, try verifying the integrity of your game files. Here is how to do it:
@@ -157,16 +143,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -198,24 +184,24 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Type **\-dxlevel 85 -console -windowed -noborder** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable automatic downloads from the server
@@ -229,6 +215,13 @@ Follow the instructions below to stop the automatic downloads:
 **2)** Navigate to**Option** , click the**Multiplayer** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-49.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the list box under When a game server tries to download custom content to your computer, and select**Do not download any custom files** . Then click**OK** .
 
@@ -253,15 +246,22 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-57.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -348,19 +348,22 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-quick-lenovo-screen-capture-tips/"><u>[Updated] 2024 Approved Quick Lenovo Screen Capture Tips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-hurdles-during-takeoff-for-virtual-city-architect-pro-skylines-2/"><u>Fixing Hurdles During Takeoff for Virtual City Architect Pro - Skylines 2</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-to-play-solutions-for-launch-failures-of-steam-titles-on-windows-10/"><u>Get to Play: Solutions for Launch Failures of Steam Titles on Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hold-onto-your-gear-playstation-enthusiasts-pc-version-of-diablo-immortal-still-unconfirmed-for-launch/"><u>Hold Onto Your Gear, PlayStation Enthusiasts: PC Version of Diablo Immortal Still Unconfirmed for Launch</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-must-have-3d-model-systems-in-animation/"><u>In 2024, Must-Have 3D Model Systems in Animation</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-unleash-potential-transforming-vhs-photos-through-technology/"><u>In 2024, Unleash Potential Transforming VHS Photos Through Technology</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-fix-connect-and-control-games-using-your-hardware-pad-via-steam-on-windows/"><u>Mastering the Fix: Connect and Control Games Using Your Hardware Pad via Steam on Windows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-manual-to-creating-engaging-ae-heads-ups/"><u>The Ultimate Manual to Creating Engaging AE Heads-Ups</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-tech-manual-for-saving-web-streamed-television/"><u>The Ultimate Tech Manual for Saving Web-Streamed Television</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-strategies-to-launch-valorant-successfully-on-your-pc-updated-guide/"><u>Top Strategies to Launch Valorant Successfully on Your PC - Updated Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-google-pixel-10-latest-leaks-on-costs-launch-timeline-and-technical-details/"><u>Upcoming Google Pixel 10: Latest Leaks on Costs, Launch Timeline & Technical Details</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/videopad-video-editor-is-it-worth-the-investment-for-2024/"><u>Videopad Video Editor Is It Worth the Investment for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-strategies-for-uninterrupted-gaming-battle-royale-fixes-on-desktops-tech-insights-2024/"><u>Winning Strategies for Uninterrupted Gaming: Battle Royale Fixes on Desktops (Tech Insights - 2024)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-capture-every-word-in-high-fidelity-with-discord/"><u>[New] In 2024, Capture Every Word in High Fidelity with Discord</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tandout-thumbnails-start-here-20-top-font-picks-for-2024/"><u>[New] Standout Thumbnails Start Here 20 Top Font Picks for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-stay-on-top-the-essential-guide-to-fbs-latest-video-tracks/"><u>[Updated] Stay on Top The Essential Guide to FB's Latest Video Tracks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-instantly-professional-masterful-thumbnails-created-fast/"><u>2024 Approved Instantly Professional Masterful Thumbnails Created Fast</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/accessing-streaming-content-netflix-movies-downloads-for-laptops-explained/"><u>Accessing Streaming Content: Netflix Movies Downloads for Laptops Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994326110-battlefront-ii-freezes-on-pc-heres-what-you-need-to-know/"><u>Battlefront II Freezes on PC? Here's What You Need to Know</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/come-clonare-il-tuo-sistema-operativo-windows-10-o-11-su-ununita-ssdhdd/"><u>Come Clonare Il Tuo Sistema Operativo Windows 10 O 11 Su Un'unità SSD/HDD</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-immortal-stability-issues-on-pc-heres-the-ultimate-fix/"><u>Diablo Immortal Stability Issues on PC? Here's the Ultimate Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/five-no-sweat-tricks-for-seamless-gameplay-on-genshin-impact/"><u>Five No-Sweat Tricks for Seamless Gameplay on Genshin Impact</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-black-screen-issues-in-hitman-3-comprehensive-pc-troubleshooting-guide/"><u>Fixing 'Black Screen' Issues in Hitman 3: Comprehensive PC Troubleshooting Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/hacking-halted-swift-steps-to-recover-your-fb-account-for-2024/"><u>Hacking Halted Swift Steps to Recover Your FB Account for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-infinix-note-30-vip-racing-edition-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Infinix Note 30 VIP Racing Edition Is Unlocked</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-downtime-effective-fixes-for-stability-issues-in-diablo-iv-pc-ps5-and-xbox/"><u>No More Downtime: Effective Fixes for Stability Issues in Diablo IV (PC, PS5, & Xbox)</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-hurdle-unraveling-the-mystery-behind-robocop-rogue-city-startup-issues/"><u>PC Gaming Hurdle: Unraveling the Mystery Behind RoboCop: Rogue City Startup Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-underwater-gopro-accessories-for-2024/"><u>Top 5 Underwater Gopro Accessories for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-stop-back-4-blood-from-freezing-and-crashing-on-windows/"><u>Troubleshooting Steps - Stop 'Back 4 Blood' From Freezing and Crashing on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-why-is-my-thaumaturge-app-not-starting-on-windows/"><u>Troubleshooting Steps: Why Is My Thaumaturge App Not Starting on Windows?</u></a></li>
 </ul></div>
 

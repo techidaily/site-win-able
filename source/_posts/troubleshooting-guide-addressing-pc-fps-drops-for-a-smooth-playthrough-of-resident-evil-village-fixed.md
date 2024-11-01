@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Addressing PC FPS Drops for a Smooth Playthrough of Resident Evil Village [FIXED]"
-date: 2024-10-20T20:55:37.122Z
-updated: 2024-10-26T02:44:07.840Z
+date: 2024-10-30T10:43:54.610Z
+updated: 2024-10-31T22:58:43.650Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ Here are the minimum requirements for Madden NFL 22:
 
  If your computer specs are more than enough to run the game, the cause may be related to device drivers, antivirus or something else. Read on to more solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Update your device drivers
 
  The Madden 22 not working issue may be caused by the faulty or outdated device drivers on your computer. If you haven’t updated your device drivers for a long time, definitely do it now as it will guarantee you a smooth and pleasant gaming experience.
@@ -65,20 +72,13 @@ There are mainly two ways to update your drivers:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click the**Update** button to update certain driver you want.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -93,29 +93,21 @@ There are mainly two ways to update your drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 2. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 See if the issue persists. If yes, continue to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Repair the game files
@@ -131,6 +123,13 @@ See if the issue persists. If yes, continue to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
  It may take a few minutes for the process to complete. Upon completion, check whether you can play the game normally. If not, proceed to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -144,6 +143,13 @@ See if the issue persists. If yes, continue to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 
  After the process finishes, restart Madden 22 to test the issue. If it’s still not working, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Temporarily disable your antivirus
 
@@ -183,16 +189,20 @@ See if the issue persists. If yes, continue to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-optimize-video-posts-a-comprehensive-crop-and-export-method/"><u>[Updated] 2024 Approved Optimize Video Posts A Comprehensive Crop & Export Method</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-voice-adaptation-solutions-picks-for-video-makers/"><u>[Updated] 2024 Approved Voice Adaptation Solutions Picks for Video Makers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-building-impressive-pixelated-photo-combinations/"><u>[Updated] In 2024, Building Impressive Pixelated Photo Combinations</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-scouring-social-media-locating-facebook-videos-for-2024/"><u>[Updated] Scouring Social Media Locating Facebook Videos for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/baldurs-gate-3-launch-glitches-sorted-out-embark-on-the-quest-today/"><u>Baldur's Gate 3 Launch Glitches Sorted Out - Embark on the Quest Today!</u></a></li>
-<li><a href="https://win-able.techidaily.com/insights-unveiled-it-takes-two-now-available/"><u>Insights Unveiled: 'It Takes Two' Now Available</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/itunes/"><u>ITunes プレイリスト管理に困難が発生した場合の解決策：作成、編集、追加不能時の対策方法</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/navigating-office-setup-challenges-like-a-pro/"><u>Navigating Office Setup Challenges Like a Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-guide-no-more-crusader-kings-iii-computer-freezes/"><u>Solution Guide: No More Crusader Kings III Computer Freezes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unimpressively-cold-the-real-deal-on-arctic-liquid-freezer-iii-aio-efficiency/"><u>Unimpressively Cold: The Real Deal on Arctic Liquid Freezer III AIO Efficiency</u></a></li>
-<li><a href="https://win-able.techidaily.com/unstick-your-game-expert-advice-to-resolve-football-manager-2021-loading-screens-quickly/"><u>Unstick Your Game: Expert Advice to Resolve Football Manager 2021 Loading Screens Quickly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-no-money-down-best-free-video-chat-platforms/"><u>[Updated] In 2024, No Money Down? Best Free Video Chat Platforms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-narzo-n55-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-vanguard-error-code-0x00001338-n-on-pc-solved/"><u>CoD Vanguard Error Code 0X00001338 N on PC [SOLVED]</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhancing-youtube-content-via-finalcut-pro-techniques/"><u>Enhancing YouTube Content via FinalCut Pro Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-to-prevent-dreamlight-valley-from-crashing-on-windows-computers/"><u>Essential Tips to Prevent Dreamlight Valley From Crashing on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-a-perpetually-buffering-discord-live-broadcast/"><u>Fixing a Perpetually Buffering Discord Live Broadcast</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-dolby-atmos-playback-errors-in-microsofts-latest-operating-systems/"><u>Fixing Dolby Atmos Playback Errors in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-persistent-black-screen-issue-in-fortnite-on-pc/"><u>Fixing the Persistent Black Screen Issue in Fortnite on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-total-blackout-problems-with-resident-evil-village-on-a-computer-setup/"><u>How to Overcome Total Blackout Problems with Resident Evil Village on a Computer Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-the-wallpaper-engine-from-crashing-on-your-pc-windows-1110/"><u>How to Stop the Wallpaper Engine From Crashing on Your PC (Windows 11/10)</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/innovation-en-ia-comment-la-plateforme-flexicapture-dabbyy-utilise-le-machine-learning-pour-loptimisation/"><u>Innovation en IA: Comment La Plateforme FlexiCapture D'ABBYY Utilise Le Machine Learning Pour L'optimisation</u></a></li>
+<li><a href="https://facebook.techidaily.com/one-star-wave-pro-palestinian-actions-hit-facebooks-ratings-hard/"><u>One-Star Wave: Pro-Palestinian Actions Hit Facebook's Ratings Hard</u></a></li>
+<li><a href="https://extra-information.techidaily.com/real-time-photo-editing-on-the-go-cropping-techniques/"><u>Real-Time Photo Editing On-the-Go Cropping Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-digital-communities-connect-on-facebook-twitter-instagram-or-youtube/"><u>Top Digital Communities: Connect on Facebook, Twitter, Instagram, or Youtube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/understanding-the-meaning-of-facebooks-blue-emoji-for-2024/"><u>Understanding the Meaning of Facebook's Blue Emoji for 2024</u></a></li>
 </ul></div>
 

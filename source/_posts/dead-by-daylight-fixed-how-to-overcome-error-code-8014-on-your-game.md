@@ -1,7 +1,7 @@
 ---
 title: Dead by Daylight Fixed! How to Overcome Error Code 8014 on Your Game
-date: 2024-10-22T07:10:41.582Z
-updated: 2024-10-25T23:40:09.383Z
+date: 2024-10-29T22:44:35.114Z
+updated: 2024-10-31T19:17:45.415Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ Before you move on, select your gaming platform first:
 
  If you’re experiencing_Dead by Daylight_ crashing issue on your PC, check the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -68,16 +75,16 @@ Before you move on, select your gaming platform first:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 2. Check your **Operating System, Processor, Memory** and **DirectX Version** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
 3. Click the **Display** tab, and then check your graphics card’s information.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Make sure your computer meets the minimum requirements to run_DBD_ , then read on and check the fix, below.
 
@@ -98,10 +105,10 @@ Before you move on, select your gaming platform first:
 2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-57.png)
@@ -211,19 +218,6 @@ Follow the instructions below to see how to fix it:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-267.png)
 4. Relaunch your game to check if your issue had been resolved.
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your game crashes again under Windows 8 mode, repeat **steps 1 – 3** and select **Windows 7**  from the list box.
 
 If this didn’t work for you, check the fix, below.
@@ -235,6 +229,13 @@ If this didn’t work for you, check the fix, below.
 1. Right-click your Steam icon and select **Open file location** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 2. Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 3. On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .  
@@ -295,25 +296,18 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920.jpg)
 2. Select **Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
 3. Select **System** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
 4. Select **Update console.**  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-93.png)
 
@@ -326,6 +320,19 @@ If this didn’t work for you, check the fix, below.
 1. On the home screen, press the **Xbox** button to open the guide.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920.jpg)
 2. Select **Settings** .  
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
 3. Select **System** .  
@@ -350,6 +357,13 @@ If this didn’t work for you, check the fix, below.
 
 ![This image has an empty alt attribute; its file name is xbox-one-controller-2206687_1920-1024x671.jpg](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1024x671.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Select **My games & apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-95.png)
@@ -362,27 +376,20 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-175-1024x439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-108.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** After the game is uninstalled, insert **the game disc** into the drive to download and install Dead by Daylight.
 
  Hope one of the solutions here worked for you. Feel free to leave a comment below if you have any questions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### PlayStation 4
 
@@ -430,13 +437,6 @@ If this didn’t work for you, check the fix, below.
 **2)** Select **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1077-1024x217.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Select **System Software Update,** and then follow the on-screen instructions to update the system software for your PS4.
 
@@ -499,22 +499,22 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-produce-personalized-internet-chuckles/"><u>[New] 2024 Approved Produce Personalized Internet Chuckles</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-strategies-for-retrieving-private-chat-photos/"><u>[New] Strategies for Retrieving Private Chat Photos</u></a></li>
-<li><a href="https://win-able.techidaily.com/baldurs-gate-nixing-high-cpu-issues-proven-fixes-for-enhanced-gaming-performance/"><u>Baldur's Gate Nixing High CPU Issues: Proven Fixes for Enhanced Gaming Performance</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/efficient-image-capture-try-these-top-5-pc-tools-for-2024/"><u>Efficient Image Capture? Try These Top 5 PC Tools for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-starfield-glitchy-noise-fixed-stutter-and-discontinuous-audio-problems/"><u>Eliminate Starfield Glitchy Noise - Fixed Stutter and Discontinuous Audio Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-winword-application-errors-instantly-top-5-tips/"><u>Fix Your WINWORD Application Errors Instantly: Top 5 Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-endless-load-resolve-anthems-perpetual-launch-screen-issue/"><u>Fixing the Endless Load: Resolve Anthem's Perpetual Launch Screen Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-race-started-overcoming-forza-horizon-nh-endless-launch-screen-issues/"><u>Get Your Race Started: Overcoming Forza Horizon Nh Endless Launch Screen Issues</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-infinix-smart-8-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Infinix Smart 8 Pro</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-switch-to-an-ssd-as-the-boot-device-in-windows-11/"><u>How to Switch to an SSD as the Boot Device in Windows 11</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-captivating-audiences-on-a-shoestring-budget-youtube-shorts-success-tips/"><u>In 2024, Captivating Audiences on a Shoestring Budget – YouTube Shorts Success Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-a14-4g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy A14 4G Device</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/pro-vision-best-4k-dslr-mounting-systems-reviewed/"><u>Pro Vision Best 4K DSLR Mounting Systems Reviewed</u></a></li>
-<li><a href="https://win-able.techidaily.com/rust-programming-overcoming-deadlock-and-fixed-issues/"><u>Rust Programming: Overcoming Deadlock and Fixed Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-for-end-of-cycle-system-crashes-on-pcs-latest-techniques/"><u>Step-by-Step Troubleshooting for End of Cycle System Crashes on PCs - Latest Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-definitive-fix-for-nioh-nendos-stability-issues-in-the-complete-edition/"><u>The Definitive Fix for Nioh Nendo's Stability Issues in the Complete Edition</u></a></li>
-<li><a href="https://win-hot.techidaily.com/wd-schijf-1-ontdekbaar-onbekend-naar-worden-geinitialiseerd/"><u>WD-Schijf 1 Ontdekbaar - Onbekend Naar Worden Geïnitialiseerd?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-choice-10-budget-friendly-caption-tools/"><u>[New] 2024 Approved Essential Choice 10 Budget-Friendly Caption Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-your-companion-in-choosing-high-grade-hdr-cameras/"><u>[New] 2024 Approved Your Companion in Choosing High-Grade HDR Cameras</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-step-by-step-solution-to-correct-the-infamous-leaf-bug-in-apex-legends/"><u>A Step-by-Step Solution to Correct the Infamous 'Leaf' Bug in Apex Legends</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-data-loss-with-steam-image-backups/"><u>Avoid Data Loss with Steam Image Backups</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bringing-the-mac-magic-to-pcs-objectdocks-new-life-ushers-in-unprecedented-functionality-for-windows-11-users/"><u>Bringing the Mac Magic to PCs: ObjectDock's New Life Ushers in Unprecedented Functionality for Windows 11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-encountering-chilling-glitches-solutions-and-fixes/"><u>Cyberpunk 2077 Encountering Chilling Glitches: Solutions & Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-immortal-stability-fixes-and-optimizations-avoiding-crashes-in-your-2024-adventure/"><u>Diablo Immortal Stability Fixes and Optimizations: Avoiding Crashes in Your 2024 Adventure</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-overcoming-the-challenge-of-a-non-loading-minecraft-game/"><u>Expert Advice: Overcoming the Challenge of a Non-Loading Minecraft Game</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-ready-apple-maps-latest-update-promises-greater-accuracy/"><u>Get Ready: Apple Maps' Latest Update Promises Greater Accuracy</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-failed-to-connect-errors-on-path-of-exile-in-the-new-year-2024-a-complete-walkthrough/"><u>How to Overcome 'Failed To Connect' Errors on Path of Exile in the New Year 2024 - A Complete Walkthrough</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y36i-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y36i?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-12-pro-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 12 Pro Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-stalls-in-qbittorent-a-step-by-step-guide/"><u>Resolving Stalls in qBittorent: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011402149-solve-the-problem-unstuck-and-get-your-windows-pressentational-bar-working-again/"><u>Solve the Problem: Unstuck and Get Your Windows Pressentational Bar Working Again!</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-success-overcoming-launch-failures-in-dead-space-remake-insights/"><u>Unlocking Success: Overcoming Launch Failures in Dead Space Remake – Insights</u></a></li>
 </ul></div>
 

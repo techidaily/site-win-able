@@ -1,7 +1,7 @@
 ---
 title: How to Stop Diablo III From Keep Collapsing - Now Solved!
-date: 2024-10-23T06:20:00.682Z
-updated: 2024-10-25T23:44:15.084Z
+date: 2024-10-26T05:52:11.337Z
+updated: 2024-10-31T19:04:53.164Z
 tags:
   - win11
   - win10
@@ -38,20 +38,13 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-preview-obs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Turning off OBS preview should also mitigate the FPS drops while recording. But if this doesn’t help your case, have a look at the second method below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Run OBS as an administrator
@@ -67,10 +60,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
  Now OBS should be working with full access and recording your screen properly. If not so, there are a few more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Close unnecessary background programs
@@ -87,10 +80,16 @@ Many Windows users have been reporting the OBS not recording screen issue lately
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Change the graphics settings
@@ -102,10 +101,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 2. Select**System** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Select the**Display** tab on the left pane and click**Graphics** **settings** .  
@@ -120,10 +119,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
@@ -142,6 +141,13 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
 
@@ -171,20 +177,20 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-advanced-tips-for-effective-chroma-keying-in-kinemaster/"><u>[Updated] Advanced Tips for Effective Chroma Keying in KineMaster</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leveraging-virtual-collaboration-with-zoom-and-win11-tools/"><u>[Updated] Leveraging Virtual Collaboration with Zoom & Win11 Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-exploring-realms-of-patience-in-iphone-filmmaking/"><u>2024 Approved Exploring Realms of Patience in iPhone Filmmaking</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-gaming-experience-solving-stutter-issues-and-achieving-high-fps/"><u>Boost Your Gaming Experience : Solving Stutter Issues & Achieving High FPS</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-prevent-nba-2k21-from-freezing-on-your-computer-system/"><u>Expert Tips to Prevent NBA 2K21 From Freezing on Your Computer System</u></a></li>
-<li><a href="https://win-able.techidaily.com/fallout-3-running-issues-resolved-tips-and-fixes-to-prevent-freezing-on-new-windows-11-devices/"><u>Fallout 3 Running Issues Resolved: Tips and Fixes to Prevent Freezing on New Windows 11 Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-hands-on-monster-hunter-stories-2-solving-the-wings-of-ruin-not-starting-dilemma/"><u>Get Your Hands on Monster Hunter Stories 2: Solving the 'Wings of Ruin' Not Starting Dilemma</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Lava Blaze 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-resolve-outlook-365s-failing-delayed-email-feature-quickly-and-effectively/"><u>How to Resolve Outlook 365'S Failing Delayed Email Feature Quickly & Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-phasmophobias-90-launch-hurdle-tips-and-solutions/"><u>Overcome Phasmophobia's 90% Launch Hurdle: Tips and Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-your-rainbow-six-siege-latency-problems-instantly/"><u>Resolve Your Rainbow Six Siege Latency Problems Instantly!</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/step-by-step-guide-to-seamless-downscaling-of-h264-files-to-smaller-quality-retained-h265-versions/"><u>Step-by-Step Guide to Seamless Downscaling of H.2_64 Files to Smaller, Quality Retained H.265 Versions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-combat-computer-stalling-and-restore-performance/"><u>Step-by-Step Tutorial: Combat Computer Stalling and Restore Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-forza-horizon-11-overcome-launch-hurdles-with-these-powerful-2024-solutions/"><u>Unlocking Forza Horizon 11: Overcome Launch Hurdles with These Powerful 2024 Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-redmi-k70e-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi Redmi K70E? Here is How | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-exploring-your-choices-with-youtube-tv-plans/"><u>[Updated] 2024 Approved Exploring Your Choices with YouTube TV Plans</u></a></li>
+<li><a href="https://win-able.techidaily.com/acrocefexe-troubleshooting-top-solutions-to-repair-the-malfunctioning-program/"><u>acrocef.exe Troubleshooting: Top Solutions to Repair the Malfunctioning Program</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-windows-blocks-for-handbrake-success/"><u>Bypass Windows Blocks for HandBrake Success</u></a></li>
+<li><a href="https://fox-links.techidaily.com/dive-into-av1-a-simple-guide-for-neophytes/"><u>Dive Into AV1 A Simple Guide for Neophytes</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-play-experience-expert-strategies-to-tackle-pc-lag-in-the-sims-4-comprehensive-update-2024/"><u>Elevate Your Play Experience: Expert Strategies to Tackle PC Lag in The Sims 4 (Comprehensive Update 2024)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-infinix-smart-8-plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Infinix Smart 8 Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-social-screen-grabber-kit/"><u>In 2024, Social Screen Grabber Kit</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722985754292-mastering-smooth-play-how-to-stop-stuttering-during-overwatch-matches/"><u>Mastering Smooth Play: How to Stop Stuttering During Overwatch Matches!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-pc-gaming-problems-with-error-code-6-on-the-latest-call-of-duty-franchise/"><u>Resolving PC Gaming Problems with Error Code 6 on the Latest Call of Duty Franchise</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-performance-hiccups-optimizing-deathloop-stability-on-pc-systems/"><u>Solving Performance Hiccups: Optimizing Deathloop Stability on PC Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/team-fortress-2-crisis-understanding-and-correcting-repeated-system-failures/"><u>Team Fortress 2 Crisis: Understanding and Correcting Repeated System Failures</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210936373-9780717151431-the-happiness-habit/"><u>The Happiness Habit | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-a-steam-game-crash-in-windows-a-guide-to-fixing-manor-lords/"><u>Troubleshooting a Steam Game Crash in Windows: A Guide to Fixing 'Manor Lords'</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlocking-hidden-social-content-where-are-your-vids-in-2024/"><u>Unlocking Hidden Social Content Where Are Your Vids, In 2024</u></a></li>
 </ul></div>
 

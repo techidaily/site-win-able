@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Oculus Link Blackout: 6 Fast Solutions"
-date: 2024-10-21T15:09:04.203Z
-updated: 2024-10-25T18:42:07.633Z
+date: 2024-10-25T18:02:59.715Z
+updated: 2024-11-01T02:04:46.120Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ If you encounter Oculus Link black screen / not working when you’re launching 
  Before you attempt the following fixes, please make sure your PC meets the[minimum requirements for Oculus Link](https://support.oculus.com/444256562873335) . Otherwise, you’ll need to upgrade the hardware component before you can use the app normally.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Repair system files
@@ -54,32 +54,18 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  After the repair completes, test if Oculus Link is back on track. If not, move on to the second fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your device drivers
 
@@ -96,19 +82,26 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch Oculus Link to test. If the problem persists, have a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the resolution
 
@@ -125,13 +118,6 @@ There are mainly two ways you can update the driver:
 
  Check whether Oculus Link works properly with your VR rig or not. If not, proceed to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4 – Disable in-game overlay
 
  More often than not, disabling the in-game overlay feature can make your games or programs run more smoothly. So you could also give it a shot. Below we’ll show you how to do this specifically on GeForce Experience.
@@ -140,6 +126,13 @@ There are mainly two ways you can update the driver:
 2. Click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/7-1-1-1.jpg)
 3. Turn off**In-game overlay** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00-1.jpg)
 
@@ -156,16 +149,16 @@ It’s suggested you opt out of the Beta mode and here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-1.jpg)
 3. **Toggle off** the button next to Public Test Channel.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-2.jpg)
 
  Test if Oculus Link returns to the normal state. If not, continue to the next troubleshooting tips.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6 – Use the dedicated graphics card
 
@@ -179,6 +172,13 @@ It’s suggested you opt out of the Beta mode and here’s how:
 3. Go to the**Program Settings** tab. Then, select your Oculus app from the drop-down list and choose**High-performance NVIDIA processor** below.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For users who have an AMD dedicated graphics card, here is a guide on[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017) .
 
@@ -206,19 +206,24 @@ Restart Oculus Link and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-perfecting-your-audio-presence-in-video-creations/"><u>[New] Perfecting Your Audio Presence in Video Creations</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-5-ultimate-map-quests-for-precious-in-game-finds-for-2024/"><u>[Updated] 5 Ultimate Map Quests for Precious In-Game Finds for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-corsair-icue-software-malfunctions-for-windows-1011-users/"><u>Diagnosing and Repairing Corsair iCUE Software Malfunctions for Windows 10/11 Users</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/explore-creative-photos-applying-radial-blur-techniques-ps/"><u>Explore Creative Photos Applying Radial Blur Techniques PS</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-error-0x800f0922-on-windows-11-updates-step-by-step/"><u>Fixing Error 0X800F0922 on Windows 11 Updates: Step-by-Step</u></a></li>
-<li><a href="https://win-able.techidaily.com/improve-graphics-and-performance-in-horizon-zero-dawn-with-these-simple-tweaks/"><u>Improve Graphics and Performance in Horizon Zero Dawn with These Simple Tweaks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-outro-crafting-made-easy-the-best-free-guide-top-6/"><u>In 2024, Outro Crafting Made Easy - The Best Free Guide (Top 6)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-power-of-time-markings-in-your-youtube-content/"><u>In 2024, Unlock the Power of Time Markings in Your YouTube Content</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-scoop-on-future-google-pixel-chronometer-price-forecasts-arrival-window-and-rumored-specs-detailed/"><u>Inside Scoop on Future Google Pixel Chronometer: Price Forecasts, Arrival Window, and Rumored Specs Detailed</u></a></li>
-<li><a href="https://win-able.techidaily.com/rapid-results-overcoming-shader-tweaking-challenges-in-star-wars-battlefront-ii/"><u>Rapid Results: Overcoming Shader Tweaking Challenges in Star Wars Battlefront II</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/silly-fun-with-plants-vs-zombies-an-in-depth-neighborville-game-review/"><u>Silly Fun with Plants Vs. Zombies - An In-Depth Neighborville Game Review</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-6-pro-techniques-to-resolve-low-fps-issues-in-escape-from-tarkov/"><u>Top 6 Pro-Techniques to Resolve Low FPS Issues in Escape From Tarkov</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-mastered-how-to-stop-xcom-2-from-crashing-on-your-pc/"><u>Troubleshooting Mastered: How to Stop XCOM 2 From Crashing on Your PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-superior-speed-increase-windows-gaming-fps/"><u>Unleash Superior Speed: Increase Windows Gaming FPS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-tech-equality-checked-expert-analysis/"><u>[New] 2024 Approved Tech Equality Checked Expert Analysis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-turbocharged-triumphs-the-leading-10-srt-upgrades-for-os-x-and-windows/"><u>[New] 2024 Approved Turbocharged Triumphs The Leading 10 SRT Upgrades for OS X & Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-frame-it-up-right-expert-approved-photo-editing-software-2023/"><u>[New] Frame It Up Right Expert-Approved Photo Editing Software, 2023</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-troubleshooting-and-solving-left-4-dead-2-crashes/"><u>[SOLVED] Troubleshooting and Solving Left 4 Dead 2 Crashes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-engagement-co-filming-techniques/"><u>[Updated] Maximizing Engagement Co-Filming Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-seamless-heic-to-png-file-conversion-a-step-by-step-guide-with-movavi/"><u>1. Seamless HEIC to PNG File Conversion: A Step-by-Step Guide with Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/alien-fireteam-elite-on-pc-top-fixes-for-game-crashes-and-uninterrupted-gaming-experience/"><u>Alien: Fireteam Elite on PC - Top Fixes for Game Crashes and Uninterrupted Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-and-resolve-high-cpu-drain-in-zoom-video-meetings/"><u>How To Address And Resolve High CPU Drain In Zoom Video Meetings</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-problem-when-genshin-impact-wont-open-effective-tips/"><u>How to Fix the Problem When Genshin Impact Won't Open: Effective Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-stardew-valley-from-crashing-on-your-windows-or-mac/"><u>How to Stop Stardew Valley From Crashing on Your Windows or Mac</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95856051-9781620557044-occulture/"><u>Occulture | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-challenges-with-launching-evil-genius-2-game/"><u>Overcoming Challenges with Launching Evil Genius 2 Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-the-notorious-black-screen-problem/"><u>Resolved: How to Fix the Notorious 'Black Screen' Problem</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/resolvido-la-unidad-asignada-no-se-muestra-en-windows-11/"><u>Resolvido: La Unidad Asignada No Se Muestra en Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fixing-the-issue-when-your-game-wont-start-check-your-game-files/"><u>Solved: Fixing the Issue When Your Game Won't Start - Check Your Game Files</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/techniques-efficaces-pour-recuperer-votre-informations-persistantes-apres-une-attaque-malveillante-du-cybermonde-guide-pratique-et-details-essentiels/"><u>Techniques Efficaces Pour Récupérer Votre Informations Persistantes Après Une Attaque Malveillante Du Cybermonde: Guide Pratique Et Détails Essentiels</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995715565-the-moderating-role-of-raceethnicity-in-the-association-between-socioeconomic-status-and-health-outcomes/"><u>The Moderating Role of Race/Ethnicity in the Association Between Socioeconomic Status and Health Outcomes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-battlefront-ii-pc-gaming-stability-issues/"><u>Troubleshooting Steps: Battlefront II PC Gaming Stability Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-resolving-issues-when-launching-deathloop/"><u>Troubleshooting: Resolving Issues When Launching Deathloop</u></a></li>
 </ul></div>
 

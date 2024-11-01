@@ -1,7 +1,7 @@
 ---
 title: "Necromunda: Hired Gun Continuously Freezing & Crashing on PC | Solutions"
-date: 2024-10-24T20:16:12.422Z
-updated: 2024-10-25T20:16:09.256Z
+date: 2024-10-29T16:29:06.443Z
+updated: 2024-10-31T18:26:29.513Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 5. **[Run the game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  Game issues, including crashes, freezing, or lag, are often caused by outdated or corrupted graphics drivers. Keeping your graphics driver up to date is a critical step. There are two ways you can get the correct graphics driver:
@@ -63,10 +70,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
  If this didn’t resolve your issue, then go ahead with the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Steam as an administrator
@@ -83,13 +90,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-25-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart your game to see if this worked for you. If_Risk of Rain 2_ still crashes, go ahead with the fix below.
 
 ### Fix 3: Disable your antivirus temporarily
@@ -101,10 +101,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of game files
@@ -117,13 +117,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-35-42.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click**Risk of Rain 2** and select**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-01.jpg)
@@ -131,13 +124,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-19.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Steam will replace corrupted game files automatically if it detects any. Relaunch your game to see if it works correctly now. If not, try the next fix.
 
@@ -151,16 +137,16 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-49.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-55.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Click the list box below to select **Windows 7** , then click **Apply**  \> **OK** .
 
@@ -170,6 +156,13 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 If your problem still exists, go ahead with the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Steam
 
  Uninstalling and reinstalling Steam will remove and replace the files that run the game. If none of the fixes worked for you, reinstalling Steam and the game is very likely the solution to your problem. Here is how to do it:
@@ -178,9 +171,23 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the**steamapps** folder and select**Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-48-00.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
@@ -190,35 +197,22 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-53-36.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Right-click**Steam** , and then click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-52-47.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the**Steam icon** and select**Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)** Move the backup**steamapps** folder you created before to your current directory location.
 
@@ -247,18 +241,22 @@ If your problem still exists, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-whip-up-your-own-web-humor-snippet/"><u>[Updated] Whip Up Your Own Web Humor Snippet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-examination-samsungs-complete-360-camera-experience/"><u>2024 Approved Full Examination Samsung's Complete 360° Camera Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-atomic-heart-challenges-for-a-smooth-initial-boot-process/"><u>Bypassing Atomic Heart Challenges for a Smooth Initial Boot Process</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000093871-death-stranding-fixed-pc-version-stability-improvements/"><u>Death Stranding Fixed: PC Version Stability Improvements</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-online-play-issues-how-to-restore-connection-and-enjoy-with-friends/"><u>Elden Ring Online Play Issues - How to Restore Connection and Enjoy with Friends</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-user-sentiments-the-key-factors-behind-peoples-return-of-the-apple-vision-pro-reddit-edition-zdnet/"><u>Exploring User Sentiments: The Key Factors Behind People's Return of the Apple Vision Pro – Reddit Edition | ZDNET</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-the-insufficient-memory-problem-in-god-of-war-solutions-and-tips/"><u>Fix the 'Insufficient Memory' Problem in God of War - Solutions and Tips</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-thanks-for-watching-outro-templates-free-and-paid/"><u>In 2024, Thanks For Watching Outro Templates (Free & Paid)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/leveraging-cookiebot-technology-for-tailored-marketing-strategies-and-seo-optimization/"><u>Leveraging Cookiebot Technology for Tailored Marketing Strategies and SEO Optimization</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-your-pc-performance-while-playing-god-of-war/"><u>Optimizing Your PC Performance While Playing God of War</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-complete-gods-and-goddesses-of-ancient-egypt/"><u>The Complete Gods and Goddesses of Ancient Egypt</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-solve-your-minecraft-performance-issues-top-tricks-for-pc-in-2eby/"><u>Ultimate Guide: Solve Your Minecraft Performance Issues - Top Tricks for PC in 2Eby</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-screen-magnification-in-ms-teams/"><u>[New] Navigating Screen Magnification in MS Teams</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726028545015-pc/"><u>「PCで映像録画手順ガイド」</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-access-complimentary-pbs-episodes-top-two-methods-exposed/"><u>1. Access Complimentary PBS Episodes: Top Two Methods Exposed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-windows-11s-hidden-secrets-for-media-upload/"><u>2024 Approved Unveiling Windows 11'S Hidden Secrets for Media Upload</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enhanced-optimized-site-performance/"><u>Cookiebot-Enhanced: Optimized Site Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029863608-dvd-shrink/"><u>DVD Shrink製品のエラーを解消する戦略とは</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-for-when-your-wacom-tablet-fails-to-operate-properly/"><u>Expert Solutions for When Your Wacom Tablet Fails to Operate Properly</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-reels-borrow-tips-and-tricks-from-tiktok-to-go-viral/"><u>In 2024, Instagram Reels Borrow Tips & Tricks From TikTok to Go Viral</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ntaneous-viewership-metering/"><u>Instantaneous Viewership Metering</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726028414428-m4a/"><u>M4A形式音楽ファイル再生失敗の理由と解決策</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726030019253-mp3/"><u>MP3への音声変換：動画内で音声抜き取りから始めよう</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-complete-guide-to-adding-and-modifying-soundtracks-in-your-diy-video-projects-for-fee-free-options/"><u>New 2024 Approved The Complete Guide to Adding and Modifying Soundtracks in Your DIY Video Projects for Fee-Free Options</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029879365-nhk/"><u>NHKアーカイブスの映像素材ダウンロード手順詳しく解説</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029493692-shotcut/"><u>Shotcutアプリで動画回転・反転技術：簡単ガイド</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y78t-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y78t Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlocking-the-secrets-spotifys-new-feature-charges-for-song-lyrics/"><u>Unlocking the Secrets: Spotify's New Feature Charges for Song Lyrics</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726026396017-web/"><u>シームレスなオンラインミーティング: ボイスレコーダーでWeb会議を記録する方法</u></a></li>
 </ul></div>
 

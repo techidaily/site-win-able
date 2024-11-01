@@ -1,7 +1,7 @@
 ---
 title: Update Difficulties Encountered When Upgrading the Minecraft Native Launcher - Solutions Inside!
-date: 2024-10-25T03:38:11.202Z
-updated: 2024-10-26T09:15:42.430Z
+date: 2024-10-27T06:19:08.751Z
+updated: 2024-11-01T10:28:20.423Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 7. **[Use a VPN](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Do a clean install](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run the game as administrator
 
  Some programs need administrator rights to function properly. To ensure Microsoft Flight Simulator works properly, you can run the game as an administrator. Here’s how:
@@ -59,6 +66,13 @@ Check if you can get past the checking for updates screen.
 
 If the issue remains, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Scan and repair your game files
 
  If your game files are missing or corrupted, you’re likely to encounter many issues when playing Microsoft Flight Simulator. To see if that’s the case, you can scan and repair your game files via Steam or Windows. Here’s how:
@@ -69,6 +83,14 @@ If the issue remains, try the next fix.
 2. Right-click**Microsoft Flight Simulator** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/MFS-properties.jpg)
 3. Select the **Local files** tab then click the **Verify integrity of game files…** button.![](https://www.drivereasy.com/wp-content/uploads/2021/09/Microsoft-Flight-Simulator-Verify-integrity-of-game-files.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Steam will scan the installation and download missing files or remove outdated or corrupted files. This process may take several minutes.
 
 5. **Relaunch** Microsoft Flight Simulator and test if you can get past the checking for updates screen.
@@ -97,15 +119,22 @@ If this method doesn’t work for you, go ahead with the next fix.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve installed all the updates, restart your computer and Microsoft Flight Simulator to test if the game loads normally.
 
  If you still get stuck on the checking for updates screen, check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your network driver
@@ -149,10 +178,10 @@ If this method doesn’t work for you, go ahead with the next fix.
 If the problem persists, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Check your security software
@@ -174,22 +203,8 @@ on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/manage-settings.jpg)
 5. Under Exclusions, select**Add or remove exclusions** .  
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select**Microsoft Flight Simulator** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-an-exclusion.jpg)
 
@@ -200,13 +215,6 @@ on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Windows-Security.jpg)
 3. Click**Virus & threat protection** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Virus-and-threat-protection.jpg)
 4. Under**Virus & threat protection settings** , click**Manage settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-virus-and-threat-protection-settings-manage-settings.jpg)
@@ -215,20 +223,13 @@ on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-add-or-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select your game’s installation folder to exclude your game from Microsoft Defender Antivirus scans.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Add-an-exclusion.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Other antivirus programs
@@ -288,10 +289,10 @@ If this method doesn’t solve your problem, check out the last fix.
 3. Click on **Uninstall**  to confirm your choice.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator-Confirm.png)
@@ -324,20 +325,19 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagrams-hidden-pathway-extract-more-filters-for-free-effortlessly/"><u>[New] 2024 Approved Instagram’s Hidden Pathway Extract More Filters for Free Effortlessly</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-elite-zero-cost-fb-picturemovie-composer/"><u>[New] In 2024, Elite Zero-Cost FB Picture/Movie Composer</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essentials-of-excellence-superior-editing-tips-for-obs-studios/"><u>[Updated] Essentials of Excellence Superior Editing Tips for OBS Studios</u></a></li>
-<li><a href="https://techtrends.techidaily.com/2-top-dvd-ripping-software-review-explore-the-power-of-winx-dvd-ripper-platinum-for-quick-mp4-h2-64hevc-conversions/"><u>2. Top DVD Ripping Software Review: Explore the Power of WinX DVD Ripper Platinum for Quick MP4 (H.2 64/HEVC) Conversions!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-profile-pictures-download-for-free/"><u>2024 Approved Profile Pictures - Download for FREE!</u></a></li>
-<li><a href="https://win-able.techidaily.com/achieve-crystal-clear-visuals-resolving-graphic-blurriness-in-call-of-duty-warzone-for-pc/"><u>Achieve Crystal-Clear Visuals: Resolving Graphic Blurriness in Call of Duty: Warzone for PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashing-problems-in-discord-app/"><u>How To Fix Persistent Crashing Problems in Discord App</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-gt-5-240w-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme GT 5 (240W) Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-s18e-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo S18e Device</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-video-valedictions-sign-off-strategies-for-online-platforms/"><u>In 2024, Video Valedictions Sign-Off Strategies for Online Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/instantly-resolve-gamepad-issues-say-goodbye-to-constant-disconnects/"><u>Instantly Resolve Gamepad Issues - Say Goodbye to Constant Disconnects</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-game-crashing-here-are-8-proven-fixes-for-marvels-guardians-of-the-galaxy-issues/"><u>PC Game Crashing? Here Are 8 Proven Fixes for Marvel's Guardians of the Galaxy Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/rainbow-six-siege-starting-problems-heres-how-you-can-get-the-game-running-smoothly-again/"><u>Rainbow Six Siege Starting Problems? Here's How You Can Get the Game Running Smoothly Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-no-more-crashes-in-assassins-creed-odyssey-smooth-gaming-experience-for-pc/"><u>Resolved: No More Crashes in Assassin's Creed Odyssey - Smooth Gaming Experience for PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-a-speedy-recovery-from-valorants-crashing-driver-problem/"><u>Troubleshooting Tips for a Speedy Recovery From Valorant's Crashing Driver Problem</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-youtube-shorts-solutions-to-frequent-problems/"><u>2024 Approved YouTube Shorts Solutions to Frequent Problems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-motorola-moto-g84-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Motorola Moto G84 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999974111-cod-modern-warfare-stability-improvements-no-more-game-crashes/"><u>Cod: Modern Warfare Stability Improvements - No More Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/death-stranding-pc-crashes-solved-fix-your-game-now/"><u>Death Stranding PC Crashes - Solved: Fix Your Game Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-overcoming-pc-freezes-and-crashes-while-playing-call-of-duty-mw2/"><u>Expert Tips: Overcoming PC Freezes & Crashes While Playing Call of Duty: MW2</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/exploring-benefits-learn-german-now/"><u>Exploring Benefits: Learn German Now!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2610306-9781459737884-haunted-hospitals/"><u>Haunted Hospitals | Free Book</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-lenovo-thinkphone-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Lenovo ThinkPhone online without jailbreak</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-transition-turning-srt-into-sub/"><u>In 2024, Seamless Transition Turning SRT Into SUB</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-complete-playbook-for-broadcasting-spherical-content-on-youtube/"><u>In 2024, The Complete Playbook for Broadcasting Spherical Content on Youtube</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209739650-9781547574605-liderazgo-mejorar-la-comunicacion-en-los-negocios-e-influir-facilmente-en-los-miembros-del-equipo-para-lograr-el-exito/"><u>Liderazgo : Mejorar La Comunicación En Los Negocios E Influir Fácilmente En Los Miembros Del Equipo Para Lograr El Éxito | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-persistent-crashes-on-path-of-exile-solutions-and-tips/"><u>Resolving Persistent Crashes on Path of Exile – Solutions & Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-preventing-overwatch-terrific-crashes-while-playing-on-your-computer/"><u>Solutions for Preventing Overwatch Terrific Crashes While Playing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lost-connections-fixing-your-disconnect-from-the-blizzard-game-servers/"><u>Troubleshooting Lost Connections: Fixing Your Disconnect From the Blizzard Game Servers</u></a></li>
 </ul></div>
 

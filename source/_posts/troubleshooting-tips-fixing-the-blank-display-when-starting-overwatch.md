@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Fixing the Blank Display when Starting Overwatch"
-date: 2024-10-21T12:05:39.531Z
-updated: 2024-10-26T12:23:58.188Z
+date: 2024-10-26T18:17:16.734Z
+updated: 2024-11-01T10:23:15.688Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) **[to check for conflicting programs](https://tools.techidaily.com/drivereasy/download/)**
 9. [**Create TileDatalayer and Database folder**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 Run Origin and FIFA 19 as administrator
 
  If your FIFA 19 keeps giving you the crashing error, the first method you can try is running both Origin and FIFA 19 as Administrator, which allows you to get full access to the game files.
@@ -47,10 +54,10 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasyrun-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Relaunch your Origin and FIFA to check if the crashing issue still persists.
@@ -70,32 +77,26 @@ If you still have the issue, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay-1200x685.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Advanced** tab and turn off**Hardware Acceleration** . Your Discord will be restarted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-hardware-acceleration-1-1200x638.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 Allow FIFA 19 to run through the Firewall
 
@@ -106,10 +107,10 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 Update your device drivers
@@ -142,13 +143,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 4) Restart your computer for the changes to take effect.
@@ -156,19 +150,6 @@ OR
  If updating drivers fails to solve your FIFA 19 crashing issue, there might be some configuration problems. You can go on and try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 Rollback to DirectX11
 
@@ -207,6 +188,13 @@ OR
  Restart your computer and launch FIFA 19 to test the issue. If this annoying issue is still bugging you, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7**Run System File Checker** to repair corrupt files
 
@@ -289,13 +277,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/system-config.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services.png)
@@ -318,13 +299,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Once you find the problematic software, you need to uninstall it to avoid running into the same issue in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 9 Create TileDatalayer and Database folder
 
  Some users find creating TileDatalayer and Database folders in Appdata/Local helps solve Fifa 19 crashing issues. Here’s how you can do it by running a single command:
@@ -335,9 +309,29 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/power-shell.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re on Windows 11, it will be**Terminal (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Copy the following command and press**Enter** .
 
@@ -372,21 +366,20 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/ring-of-elysium-stability-tweaks-how-to-eliminate-disruptive-crashes-once-and-for-all/"><u>'Ring of Elysium' Stability Tweaks: How to Eliminate Disruptive Crashes Once and For All</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-crafting-success-the-premier-list-of-ai-namesmiths/"><u>[New] Crafting Success The Premier List of AI Namesmiths</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-creating-viral-hashtag-campaigns-on-twitter-for-2024/"><u>[Updated] Creating Viral Hashtag Campaigns on Twitter for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-crafting-professional-livestreams-on-youtube-and-twitch-using-obs/"><u>[Updated] In 2024, Crafting Professional Livestreams on YouTube and Twitch Using OBS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-masterful-motivational-webcast-maker-for-2024/"><u>[Updated] Masterful Motivational Webcast Maker for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722971564612-access-your-printing-power-download-the-hp-envy-7520-printer-drivers-now/"><u>Access Your Printing Power - Download the HP Envy 7520 Printer Drivers Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/counter-strike-2-not-opening-easy-repair-methods-inside/"><u>Counter-Strike 2 Not Opening? Easy Repair Methods Inside!</u></a></li>
-<li><a href="https://win-able.techidaily.com/cure-the-constant-breakdown-of-back-4-blood-on-pc-expert-fixing-guide/"><u>Cure the Constant Breakdown of 'Back 4 Blood' On PC - Expert Fixing Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/free-video-credits-pro-the-best-suggestions-1-6-for-2024/"><u>Free Video Credits Pro - The Best Suggestions #1-6 for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/god-of-war-pc-troubleshooting-guide-resolving-unexpected-shutdowns-and-errors/"><u>God of War PC Troubleshooting Guide: Resolving Unexpected Shutdowns and Errors</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-experience-classic-games-anywhere-with-these-top-5-game-boy-advance-console-emulators/"><u>In 2024, Experience Classic Games Anywhere with These Top 5 Game Boy Advance Console Emulators</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/is-applecare-plus-a-smart-tech-safety-net-5-perspectives/"><u>Is AppleCare Plus a Smart Tech Safety Net? 5 Perspectives</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-steam-remote-play-challenges-top-fixes-to-restore-your-gaming-fun/"><u>Overcoming Steam Remote Play Challenges: Top Fixes to Restore Your Gaming Fun</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000102083-pc-performance-optimization-solutions-to-stop-wrc-10-from-crashing-and-dive-into-the-fia-world-rally-action/"><u>PC Performance Optimization: Solutions to Stop WRC 10 From Crashing and Dive Into the FIA World Rally Action!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/solve-your-wow-ship-battles-essential-fixes-for-pc-game-crashes/"><u>Solve Your WoW Ship Battles: Essential Fixes for PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-skyline-builders-2-failed-initialization-problems/"><u>Solving Skyline Builders 2 Failed Initialization Problems</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-syncing-soundtracks-with-vimeo-video-content/"><u>[New] Syncing Soundtracks with Vimeo Video Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-secrets-revealed-effective-facebook-video-publishing-techniques/"><u>[Updated] Secrets Revealed Effective Facebook Video Publishing Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-strategies-for-posting-and-uploading-gifs-on-instagram/"><u>[Updated] Step-by-Step Strategies for Posting & Uploading GIFs on Instagram</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-enthusiasts-guide-to-freestyle2-blue-the-ultimate-mac-compatible-solution/"><u>Apple Enthusiasts' Guide to Freestyle2 Blue - The Ultimate Mac Compatible Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/customizable-generative-ai-by-nvidia-explained/"><u>Customizable Generative AI by NVIDIA Explained</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-14-pro-max-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 14 Pro Max Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-endless-loading-screen-in-minecraft-ultimate-solutions/"><u>Fixing the Endless Loading Screen in Minecraft: Ultimate Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-football-manager-2021-pc-game-crashes-and-play-smoothly/"><u>How to Fix Football Manager 2021 PC Game Crashes and Play Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-stardew-valley-not-starting-properly/"><u>How to Fix Stardew Valley Not Starting Properly</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-repair-end-of-project-error-tfla0002-in-office-applications/"><u>How to Repair End-of-Project Error (TFLA0002) in Office Applications</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-nubia-z50-ultra-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Nubia Z50 Ultra Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/mastering-incremental-file-copies-using-the-robocopy-utility/"><u>Mastering Incremental File Copies Using the Robocopy Utility</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-preventing-chrome-from-crashing-on-your-windows-10-pc/"><u>Quick Fixes for Preventing Chrome From Crashing on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-resolving-genshin-impact-stability-problems-on-personal-computers/"><u>Step-by-Step Guide: Resolving Genshin Impact Stability Problems on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-minecrafts-crossbow-problem-a-comprehensive-guide-to-fixing-error-codes/"><u>Troubleshoot Minecraft's Crossbow Problem – A Comprehensive Guide to Fixing Error Codes</u></a></li>
 </ul></div>
 

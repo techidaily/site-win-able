@@ -1,7 +1,7 @@
 ---
 title: "Fixing Phasmophobia Crashes: Essential Troubleshooting Guide for Gamers in 202#!"
-date: 2024-09-10T14:08:14.460Z
-updated: 2024-09-11T14:08:14.460Z
+date: 2024-10-24T22:47:19.249Z
+updated: 2024-11-01T06:05:48.228Z
 tags:
   - win11
   - win10
@@ -16,20 +16,6 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
 ## Fixing Phasmophobia Crashes: Essential Troubleshooting Guide for Gamers in 202#
 
 Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers have reported this problem. But the good news is, you can fix it. Here’re 9 known fixes for the Phasmophobia crashing issue. You may not need to try them all; just work your way down the list until you find the one that does the trick for you.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -49,26 +35,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 2: Verify the integrity of game files
 
  Phasmophobia crashing issues might occur when there is bad or corrupted game data. To see if this is the case for you, you can verify the game file from Steam:
@@ -82,20 +48,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 4) Restart the game after the process is complete.
 
@@ -113,27 +65,34 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -153,6 +112,13 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -167,6 +133,13 @@ If the game still crashes, try the next fix below.
 
 If the crash still occurs, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Lower your graphics settings
 
  If your computer is not powerful enough to handle Phasmophobia, you may run into performance issues from time to time. One workaround for this is lowering your in-game graphics settings.
@@ -179,19 +152,12 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 6: Launch the game with DirectX 10
 
@@ -204,20 +170,6 @@ If the crash still occurs, go ahead with the next fix.
 3) Copy**\-force-feature-level-10-1** and paste it into the**LUNCH OPTIONS** under the General tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 4) Launch the game to see if your problem has been resolved.
 
@@ -237,39 +189,11 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click**Apply > OK** .
 
  4) Relaunch the game to test your issue.
 
 If the problem still exists, try the next fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 9: Try Phasmophobia beta version
 
@@ -283,20 +207,6 @@ If the problem still exists, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
 * [game crash](https://tools.techidaily.com/drivereasy/download/)
@@ -307,8 +217,6 @@ If the problem still exists, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -316,4 +224,20 @@ If the problem still exists, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-top-10-igtv-edit-apps-maximize-your-video-content/"><u>[New] Top 10 IGTV Edit Apps Maximize Your Video Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-essential-techniques-in-macro-video-production-a-compreranary-guide/"><u>[Updated] In 2024, Essential Techniques in Macro Video Production - A Compreranary Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/your-channel-benefit-from-regular-youtube-payments-in-2024/"><u>Does Your Channel Benefit From Regular YouTube Payments, In 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-language-acquisition-with-oxford-3000-mondly-style/"><u>Quick Language Acquisition with Oxford 3000, Mondly Style</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-at-hand-resolving-discords-dark-screen-problem-when-sharing-your-display/"><u>Solution at Hand: Resolving Discord's Dark Screen Problem When Sharing Your Display</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-graphics-driver-crashed-bug-for-smoother-valorant-gameplay/"><u>Solving the 'Graphics Driver Crashed' Bug for Smoother Valorant Gameplay</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/tesla-faces-restrictions-not-all-autonomous-driving-features-approved-in-specific-us-region/"><u>Tesla Faces Restrictions: Not All Autonomous Driving Features Approved in Specific U.S. Region</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-complete-players-manual-to-dominating-roller-champions-online-play-pc-focus-year-2024/"><u>The Complete Player's Manual to Dominating Roller Champions Online Play - PC Focus (Year 2024)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-strategies-to-apply-meta-ai-in-your-instagram-marketing/"><u>Ultimate Strategies to Apply Meta AI in Your Instagram Marketing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-4k-potential-an-in-depth-look-at-dell-p2715q-for-2024/"><u>Unlocking 4K Potential An In-Depth Look at Dell P2715Q for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010099366-warzone-dev-error-5573-woes-heres-how-to-tackle-it-on-your-gaming-rig-or-console/"><u>Warzone Dev Error #5573 Woes? Here's How to Tackle It on Your Gaming Rig or Console</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-the-battle-with-steam-and-windows-11-solutions-included/"><u>Winning the Battle with Steam and Windows 11 - Solutions Included!</u></a></li>
+</ul></div>
 

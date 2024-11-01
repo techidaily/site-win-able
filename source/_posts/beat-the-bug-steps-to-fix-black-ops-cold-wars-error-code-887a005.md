@@ -1,7 +1,7 @@
 ---
 title: "Beat the Bug: Steps to Fix Black Ops Cold War's Error Code 887A005"
-date: 2024-10-23T01:47:17.863Z
-updated: 2024-10-26T00:16:12.344Z
+date: 2024-10-25T04:48:45.717Z
+updated: 2024-11-01T08:39:51.409Z
 tags:
   - win11
   - win10
@@ -33,25 +33,11 @@ If you keep getting the popup**Error Code 80070057** when playing Call of Duty: 
 * [5. Delete the Battle.net Cache folder](https://tools.techidaily.com/drivereasy/download/)
 * [6. Set English as the Windows display language](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Scan and repair
 
 The first thing, as it suggests, is to perform a scan and repair.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/fatal-error.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’s also a good idea to restart your computer and your game after that. Cliché as it is, sometimes a simple restart can solve some annoying problems.
 
@@ -62,21 +48,15 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Scan and Repair** .  
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-1.jpg)
 4. Wait for the process to complete.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch the game again to test the issue. If you see this error again, don’t worry, because there’re more fixes you can try.
 
@@ -92,13 +72,20 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![check for updates](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-battle.net_.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you already have the latest version of Call of Duty: Black Ops Cold War but the error code just shows up again, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update the graphics driver
 
@@ -118,6 +105,13 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll get full tech support and a 30-day money-back guarantee).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and launch your game to test the issue.
 
  Usually, this will fix your Call of Duty: Black Ops Cold War error code 80070057\. But if this error code persists, don’t worry. There’re a few more fixes to try.
@@ -130,18 +124,31 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 2. Select**Game Settings** .  
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/game-settings.jpg)
 3. Under**Call of Duty: Black Ops Cold War** , check the box next to**Additional command line arguments** . Then type**\-d3d11** into the box to force the game to run in DX11.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Game-settings-DX11.jpg)
 4. Click**Done** to apply the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch the game and play for a while to see if the error code 80070057 persists. If your game is working like a charm now, then congratulations. But if not, try the fix, below.
 
@@ -165,21 +172,14 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Language-settings.jpg)
 2. Makes sure you set**English** (US or UK) as the**Windows display language** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/English.jpg)
 3. If you don’t see English, click**Add a language** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/add.jpg)
@@ -209,18 +209,18 @@ Restart your computer and relaunch your game again to test the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-microcapture-screen-capture-tool-analysis/"><u>[New] In 2024, MicroCapture Screen Capture Tool Analysis</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-moneyminded-cloud-vault-capacious-cost-effective/"><u>[New] MoneyMinded Cloud Vault - Capacious, Cost-Effective</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-basic-routines-for-recording-on-youtube/"><u>[Updated] 2024 Approved Basic Routines for Recording on YouTube</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-converting-personal-memories-from-stillness-to-motion/"><u>2024 Approved Converting Personal Memories From Stillness to Motion</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-ae-scripting-tools-and-plug-ins/"><u>2024 Approved Top AE Scripting Tools & Plug-Ins</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banishing-the-dark-windows-11-display/"><u>Banishing the Dark Windows 11 Display</u></a></li>
-<li><a href="https://win-able.techidaily.com/from-stuck-to-successful-startup-overcoming-launch-issues-in-age-of-empires-iv/"><u>From Stuck to Successful Startup: Overcoming Launch Issues in Age of Empires IV</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-game-running-resolving-monster-hunter-rise-start-up-glitches/"><u>Get Your Game Running: Resolving Monster Hunter Rise Start-Up Glitches</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-iphone-11-pro-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From iPhone 11 Pro If Youve Tried Everything</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-adobe-premiere-pro-from-crashing-on-windows-10-and-11-solutions-found/"><u>How to Stop Adobe Premiere Pro From Crashing on Windows 10 and 11 – Solutions Found</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/pinning-down-content-5-superior-free-video-downloader-tools/"><u>Pinning Down Content 5 Superior Free Video Downloader Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-pc-aesthetics-with-lian-lis-strimer-plus-v2-a-comprehensive-review-of-its-dazzling-psu-cable-illumination-upgrade/"><u>Revolutionizing PC Aesthetics with Lian Li's Strimer Plus V2 - A Comprehensive Review of Its Dazzling PSU Cable Illumination Upgrade</u></a></li>
-<li><a href="https://win-able.techidaily.com/steps-to-resolve-non-launch-problem-in-farming-simulator-2022-game/"><u>Steps to Resolve Non-Launch Problem in Farming Simulator 2022 Game</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-black-hero-4-or-ghost-s-choosing-the-best-motorsport-camera/"><u>[New] 2024 Approved Black Hero 4 or Ghost-S Choosing the Best Motorsport Camera</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streaming-software-showdown-the-ultimate-guide-to-obs-vs-shadowplay-for-2024/"><u>[Updated] Streaming Software Showdown The Ultimate Guide to OBS Vs. ShadowPlay for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-perfecting-the-audio-element-in-instagram-storytelling/"><u>2024 Approved Perfecting the Audio Element in Instagram Storytelling</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-14-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 14 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480405843-extended-display-timeout-issues-with-iphones-fix-it-in-3-easy-steps/"><u>Extended Display Timeout Issues with iPhones? Fix It in 3 Easy Steps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-16-from-motorola-moto-e13-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 16 from Motorola Moto E13 to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/labor-day-deal-of-a-lifetime-save-25-on-high-tech-blink-mini-aturity-for-the-best-interest-rate-we-must-know-your-credit-score-range-eg-excellentgoodfairpoo252/"><u>Labor Day Deal of a Lifetime: Save 25% on High-Tech Blink Mini Aturity. For the Best Interest Rate, We Must Know Your Credit Score Range (E.g., Excellent/Good/Fair/Poor).</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-the-pitfalls-of-pixel-slate-a-scrutinized-chromeos-assessment/"><u>Navigating the Pitfalls of Pixel Slate: A Scrutinized ChromeOS Assessment</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-windows-10-movie-and-tv-show-volume-blankness-fixing-sound-malfunctions/"><u>Solve Your Windows 10 Movie and TV Show Volume Blankness - Fixing Sound Malfunctions</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-for-simple-recording-of-teamviewer-sessions-in-windows-1011/"><u>Step-by-Step Tutorial for Simple Recording of TeamViewer Sessions in Windows 10/11</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-capturing-spotify-tracks-for-free-on-windows-10-or-11/"><u>Step-by-Step Tutorial: Capturing Spotify Tracks for Free on Windows (10 or 11)</u></a></li>
+<li><a href="https://win-able.techidaily.com/three-no-cost-techniques-for-transforming-cd-music-into-wav-format/"><u>Three No-Cost Techniques for Transforming CD Music Into WAV Format</u></a></li>
 </ul></div>
 

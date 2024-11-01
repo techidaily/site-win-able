@@ -1,7 +1,7 @@
 ---
 title: Boost Your Race Day Visuals - Update Graphics Driver for Fix Forza Horizon
-date: 2024-10-25T12:20:50.779Z
-updated: 2024-10-26T11:26:18.926Z
+date: 2024-10-26T03:37:20.309Z
+updated: 2024-10-31T16:40:34.504Z
 tags:
   - win11
   - win10
@@ -69,6 +69,13 @@ You can use the following steps to check for Minecraft updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-1.jpg)
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
 
 ##### Java edition
@@ -78,10 +85,16 @@ You can use the following steps to check for Minecraft updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Make sure you’re on the latest Windows
@@ -89,13 +102,6 @@ You can use the following steps to check for Minecraft updates.
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -106,16 +112,10 @@ You can use the following steps to check for Minecraft updates.
 If you’re still seeing the message, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair Windows
@@ -129,11 +129,25 @@ If you’re still seeing the message, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 Once done, restart Windows and try again in Minecraft.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check your default GPU
 
@@ -147,21 +161,14 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
@@ -169,13 +176,6 @@ Here’s how you can check the preferred GPU of Minecraft:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
 
@@ -202,15 +202,17 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-detailed-syma-x8c-assessment/"><u>[Updated] Detailed Syma X8C Assessment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tier-mobile-and-desktop-player-for-avis/"><u>2024 Approved Top-Tier Mobile and Desktop Player for AVIs</u></a></li>
-<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-not-launching-solved/"><u>Assassin’s Creed Valhalla Not Launching [Solved]</u></a></li>
-<li><a href="https://win-able.techidaily.com/crack-the-case-fixes-for-previously-persistent-issues-in-death-stranding-on-pc-unveiled/"><u>Crack the Case: Fixes for Previously Persistent Issues in Death Stranding on PC Unveiled</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-7-plus-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone 7 Plus Without Apple ID Password?</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-steam-stability-solutions-to-stop-the-app-from-hanging/"><u>Mastering Steam Stability: Solutions to Stop the App From Hanging</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-common-pc-issues-in-fortnite-a-step-by-step-guide/"><u>Resolving Common PC Issues in Fortnite: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/solving-the-issue-of-undetected-virtual-audio-cables-on-apowermirror/"><u>Solving the Issue of Undetected Virtual Audio Cables on ApowerMirror</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-value-how-these-two-essential-linkedin-premium-tools-could-justify-your-membership-zdnet-insights/"><u>Unlocking Value: How These Two Essential LinkedIn Premium Tools Could Justify Your Membership | ZDNet Insights</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-starting-off-right-must-haves-for-youtube-enthusiasts/"><u>[New] Starting Off Right Must-Haves for YouTube Enthusiasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-social-space-gamers-the-ultimate-top-10-list/"><u>2024 Approved Social Space Gamers The Ultimate Top 10 List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp2avi-movavi/"><u>無限制使用的在線MP2與AVI媒體文件型式改變工具 – Movavi轉換器</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-to-capture-youtube-sounds-without-hassle/"><u>Easy Steps to Capture YouTube Sounds Without Hassle</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-downloading-audiobooks-from-youtube-two-effective-techniques/"><u>Easy Steps: Downloading Audiobooks From YouTube - Two Effective Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-transforming-bmp-images-into-gif-format-quickly/"><u>Easy Steps: Transforming BMP Images Into GIF Format Quickly</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-methods-for-swiftly-changing-webm-videos-to-mkv/"><u>Efficient Methods for Swiftly Changing WebM Videos to MKV</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-oppo-reno-11-pro-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Oppo Reno 11 Pro 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/how-to-infuse-sound-and-style-into-your-windows-10-photos-app/"><u>How to Infuse Sound and Style Into Your Windows 10 Photos App</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-best-of-the-best-top-timecode-calculators-for-iphone-android-and-web/"><u>New 2024 Approved The Best of the Best Top Timecode Calculators for iPhone, Android, and Web</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-vehicle-audio-a-guide-to-discovering-your-cars-radio-security-code/"><u>Unlocking Vehicle Audio: A Guide to Discovering Your Car's Radio Security Code</u></a></li>
 </ul></div>
 

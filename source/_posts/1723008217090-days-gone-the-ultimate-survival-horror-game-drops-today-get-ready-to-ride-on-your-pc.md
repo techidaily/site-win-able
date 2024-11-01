@@ -1,7 +1,7 @@
 ---
 title: "'Days Gone': The Ultimate Survival Horror Game Drops Today – Get Ready to Ride on Your PC!"
-date: 2024-09-10T14:08:10.113Z
-updated: 2024-09-11T14:08:10.113Z
+date: 2024-10-24T18:51:28.781Z
+updated: 2024-11-01T10:05:27.368Z
 tags:
   - win11
   - win10
@@ -28,20 +28,6 @@ The PC version of Days Gone is a solid port of a great game. But performance iss
 
 ![Days Gone FPS drops](https://images.drivereasy.com/wp-content/uploads/2021/05/Days-Gone.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Disable Steam overlay
 
  The Steam overlay allows you to surf the web and enjoy other features, but can also cause performance issues with some games. Therefore, you may want to disable Steam overlay your Days Gone and check if it can give you a boost in average FPS. To do this, follow the instructions below.
@@ -49,26 +35,6 @@ The PC version of Days Gone is a solid port of a great game. But performance iss
  1) Open your Steam client. Under LIBRARY, right-click your game title and select**Properties** .  
   
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-disable-overlay.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  2) Under the GENERAL tab, uncheck the box**Enable the Steam Overlay while in-game** .  
   
@@ -84,19 +50,12 @@ If this didn’t work, move on to the next fix.
   
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-disable-overlay.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2) Select**LOCAL FILES** . Then click**Verify integrity of game files…** . This will take several minutes to complete.  
   
@@ -111,20 +70,6 @@ However, if this didn’t help, proceed to the next fix.
  1) Launch your game and select**OPTIONS** .  
   
 ![Days Gone adjust in-game settings ](https://images.drivereasy.com/wp-content/uploads/2021/05/adjust-in-game-settings-options.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  2) Select the**DISPLAY** tab. Then adjust the following settings:
 
@@ -155,35 +100,7 @@ However, if this didn’t help, proceed to the next fix.
   
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Then save the changes and test your gameplay. If this didn’t give you any luck, try the next fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Update your graphics driver
 
@@ -200,19 +117,12 @@ However, if this didn’t help, proceed to the next fix.
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -235,20 +145,6 @@ Here’s how to update drivers with Driver Easy:
 
  After updating your drivers, restart your PC and test the gameplay. If you can’t get a performance boost, don’t worry. Below are some other methods.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 5\. Disable fullscreen optimizations
 
  Many gamers found that there are certain CPU demanding games that are particularly affected by low FPS issues when enabling fullscreen optimizations. Although Days Gone might not be one of them, you can actually attempt to disable fullscreen optimizations to check if this helps improve your gaming experience:
@@ -257,19 +153,12 @@ Here’s how to update drivers with Driver Easy:
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/properties.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2) Select the**Compatibility** tab. Check the box**Disable fullscreen optimizations** . Then click**Change high DPI settings** .  
   
@@ -279,45 +168,18 @@ Here’s how to update drivers with Driver Easy:
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/override-DPI-scaling.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Apply > OK** .  
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/click-apply-and-ok.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 If this didn’t make a difference, move on to the next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 6\. Customize graphics performance preference
 
@@ -335,61 +197,26 @@ If this didn’t make a difference, move on to the next fix.
   
 ![customize graphics performance preference](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-apps.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  4) Then open your game’s installation folder. (Usually in C:Days goneDays GoneBendGameBinariesWin64) Click on**DaysGone.exe** and click**Add** .  
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-add.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  5) Click**Options** .  
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-options.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  6) Select**High performance** and click**Save** .  
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-save.jpg)
 
 After saving the changes, launch Days Gone and check if it helped.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Disable background apps
 
@@ -401,39 +228,25 @@ After saving the changes, launch Days Gone and check if it helped.
   
 ![turn off background apps](https://images.drivereasy.com/wp-content/uploads/2021/05/privacy.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click**Background apps** . Under the section**Let apps run in the background** , toggle the button to turn it**Off** .  
   
 ![turn off background apps](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-off-background-apps.jpg)
 
-Now launch Days Gone and check it can help fix the low frame rate.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+Now launch Days Gone and check it can help fix the low frame rate.
 
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Disable Windows 10 Game Mode
 
@@ -444,6 +257,13 @@ Now launch Days Gone and check it can help fix the low frame rate.
  2) Click**Gaming** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/gaming-1200x674.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select**Game Mode** . Then click the toggle to turn Game Mode**Off** .  
   
@@ -461,8 +281,6 @@ Now launch Days Gone and check it can help fix the low frame rate.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -470,4 +288,24 @@ Now launch Days Gone and check it can help fix the low frame rate.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-digital-therapeutics-and-patient-engagement/"><u>[New] 2024 Approved Digital Therapeutics and Patient Engagement</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-game-plan-for-creating-a-hit-youtube-introduction-trailer/"><u>[New] In 2024, The Game Plan for Creating a Hit YouTube Introduction Trailer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-10-audio-disruptors-androidios-edition/"><u>[New] Top 10 Audio Disruptors Android/iOS Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-list-8-online-locations-for-free-3d-text-psdfiles/"><u>[Updated] The Ultimate List 8 Online Locations for Free 3D Text PSDFiles</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-y200e-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo Y200e 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-15-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 15 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-necromunda-bug-blues-permanent-solutions-for-pc-version-freezes-and-crashes/"><u>Beat Necromunda Bug Blues: Permanent Solutions for PC Version Freezes & Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/counter-strike-2-pc-stability-improvements-for-gaming-in-the-new-year-crash-solutions/"><u>Counter-Strike 2 PC Stability Improvements for Gaming in the New Year - Crash Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-your-outriders-playtime-by-resolving-lag-and-latency-challenges/"><u>Enhancing Your Outriders Playtime by Resolving Lag and Latency Challenges</u></a></li>
+<li><a href="https://win-able.techidaily.com/flicker-free-display-tips-eliminating-your-monitors-annoying-blink/"><u>Flicker-Free Display Tips: Eliminating Your Monitor's Annoying Blink</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-huawei-nova-y91-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Huawei Nova Y91</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-for-fixing-non-ejectable-cd-dvd-and-blu-ray-drives/"><u>Step-by-Step Guide for Fixing Non-Ejectable CD, DVD, and Blu-Ray Drives</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-rainbow-six-siege-pc-issues-overcoming-the-persistent-black-screen-problem/"><u>Troubleshooting Rainbow Six Siege PC Issues - Overcoming the Persistent Black Screen Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-eliminate-latency-issues-in-street-fighter-6-a-guide-for-smooth-gameplay/"><u>Troubleshooting Steps to Eliminate Latency Issues in Street Fighter 6: A Guide for Smooth Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-launch-problems-in-overwatch-conquering-the-ominous-black-screen/"><u>Troubleshooting Tips for Launch Problems in Overwatch - Conquering the Ominous Black Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/unstick-your-dota-2-solutions-for-launch-failures-and-endless-loads/"><u>Unstick Your Dota 2: Solutions for Launch Failures and Endless Loads</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone 15 | Dr.fone</u></a></li>
+</ul></div>
 

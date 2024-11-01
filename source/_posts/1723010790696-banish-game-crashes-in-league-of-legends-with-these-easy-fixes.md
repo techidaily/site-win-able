@@ -1,7 +1,7 @@
 ---
 title: Banish Game Crashes in League of Legends with These Easy Fixes
-date: 2024-09-10T14:08:09.689Z
-updated: 2024-09-11T14:08:09.689Z
+date: 2024-10-29T23:48:59.401Z
+updated: 2024-11-01T05:24:59.259Z
 tags:
   - win11
   - win10
@@ -29,25 +29,12 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -102,43 +89,29 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -151,26 +124,6 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -188,20 +141,6 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -210,35 +149,14 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Enable low spec mode
 
@@ -251,6 +169,13 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -269,8 +194,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -278,4 +201,21 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-budget-friendly-chinese-vr-gear/"><u>[New] Budget-Friendly Chinese VR Gear</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-trim-youtube-videos-for-2024/"><u>[New] How to Trim YouTube Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-pinnacle-of-bike-gaming-adventures/"><u>[New] The Pinnacle of Bike Gaming Adventures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-professional-shootings-optimal-lenses-for-youtube-videographers/"><u>[Updated] Professional Shootings Optimal Lenses for YouTube Videographers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-igniting-the-fires-of-engagement-with-viral-instagram-videos/"><u>2024 Approved Igniting the Fires of Engagement with Viral Instagram Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-the-art-of-subtitle-integration-on-wmp/"><u>2024 Approved Master the Art of Subtitle Integration on WMP</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-repair-steams-steamuidll-loading-error/"><u>Comprehensive Guide to Repair Steam's steamui.dll Loading Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-the-dreaded-crash-repair-strategies-for-helldivers-n-blue-screen-mishap/"><u>Defeat the Dreaded Crash: Repair Strategies for Helldivers N Blue Screen Mishap</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/digital-dollars-at-a-click-monetization-made-simple-on-fb-for-2024/"><u>Digital Dollars at a Click Monetization Made Simple on FB for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-playtime-eliminating-lag-in-the-sims-4-with-professional-techniques-top-tips-for-pc-users/"><u>Elevate Your Playtime: Eliminating Lag in The Sims 4 with Professional Techniques (Top Tips for PC Users)</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-gaming-experience-boosting-frames-per-second-in-watch-dogs-legion/"><u>Maximizing Gaming Experience: Boosting Frames Per Second in Watch Dogs: Legion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-audio-irregularities-fix-stuttering-or-distorted-sounds-on-pcs-running-windows-107-the-ultimate-troubleshooting-manual/"><u>Overcome Audio Irregularities - Fix Stuttering or Distorted Sounds on PCs Running Windows 10/7: The Ultimate Troubleshooting Manual</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-hurdles-for-football-manager-2023-expert-tips-and-fixes/"><u>Overcoming Launch Hurdles for Football Manager 2023: Expert Tips and Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-launch-problems-in-dota-2-overcoming-loading-screen-freezes-and-game-failures/"><u>Solving Launch Problems in Dota 2: Overcoming Loading Screen Freezes and Game Failures</u></a></li>
+</ul></div>
 

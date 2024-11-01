@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Apex Legends Loading Problems Instantly!
-date: 2024-09-10T14:08:10.235Z
-updated: 2024-09-11T14:08:10.235Z
+date: 2024-10-27T10:35:55.402Z
+updated: 2024-11-01T06:49:51.536Z
 tags:
   - win11
   - win10
@@ -17,20 +17,6 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
 It’s annoying when you can’t connect to the EA server or receive the error message saying**Connection to server timed out** . Is Apex Legends down again? Or it’s something wrong with your PC? Don’t worry, you’re not the only one, the methods below would help you fix the connection issue.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -40,6 +26,13 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 3. [Run as administrator](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Clear game cache](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Check the server status
 
@@ -57,19 +50,12 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 
 If it’s not the server, please move to the next method.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Method 2: Change DNS to Google
 
@@ -84,37 +70,19 @@ If it’s not the server, please move to the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-02-47.jpg)
 2. Set Control Panel**View by Category** , then click**Network and Internet** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-08.jpg)
 3. Click**Network and Sharing Center >** **Change adapter settings** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-28.jpg)
 4. Select the connection you want to configure Google Public DNS, right-click it, and select**Properties** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
@@ -132,21 +100,21 @@ Some players suggest Run as administrator could fix this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_18-35-04.jpg)
 4. Reboot the game and check.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
-
 If this method doesn’t help, please move to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Update your drivers
 
@@ -161,35 +129,8 @@ If this method doesn’t help, please move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -233,8 +174,6 @@ If this method doesn’t help, please move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -242,4 +181,24 @@ If this method doesn’t help, please move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-imovie-essentials-making-your-youtube-openers-stand-out/"><u>[New] IMovie Essentials Making Your YouTube Openers Stand Out</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-the-youtube-content-manager-toolkit-for-2024/"><u>[Updated] Exploring the YouTube Content Manager Toolkit for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-modern-warfare-3-app-crashes-how-to-fix-and-prevent-unplanned-closures/"><u>COD Modern Warfare 3 App Crashes: How To Fix & Prevent Unplanned Closures</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-steps-to-a-perfectly-installed-discord-no-failure-in-sight/"><u>Effortless Steps to a Perfectly Installed Discord - No Failure in Sight</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoy-unlimited-content-the-8-leading-free-roku-channels-of-2024/"><u>Enjoy Unlimited Content: The 8 Leading Free Roku Channels of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fixes-for-unstable-performance-ensuring-a-smooth-genshin-impact-experience-on-desktop-computers/"><u>Expert Fixes for Unstable Performance - Ensuring a Smooth Genshin Impact Experience on Desktop Computers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-techniques-for-enhanced-minecraft-zooms-for-2024/"><u>Expert Techniques for Enhanced Minecraft Zooms for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-pc-restart-issues-during-play-of-infinity-siege/"><u>Guide to Fixing PC Restart Issues During Play of 'Infinity Siege'</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-crafting-success-while-catching-up-on-all-the-latest-talks/"><u>In 2024, Crafting Success While Catching Up on All the Latest Talks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-secure-screenshots-without-intrusions/"><u>In 2024, Secure Screenshots Without Intrusions</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-gaming-frustration-quick-tips-to-prevent-outriders-crashes/"><u>Overcoming Gaming Frustration: Quick Tips to Prevent Outriders Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-modern-warfare-2-performance-issues-eliminating-frames-per-second-dips-and-freezes-on-pc/"><u>Resolved: Modern Warfare 2 Performance Issues – Eliminating Frames Per Second Dips & Freezes on PC</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/resolving-disneyplus-streaming-hiccups-comprehensive-guide-for-all-known-troubleshooting/"><u>Resolving Disney+ Streaming Hiccups: Comprehensive Guide for All Known Troubleshooting</u></a></li>
+<li><a href="https://win-able.techidaily.com/shadowplay-recording-failures-in-windows-heres-how-you-can-fix-them/"><u>Shadowplay Recording Failures in Windows? Here's How You Can Fix Them!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-android-smartphones-of-the-year-expert-picks-and-reviews-zdnet/"><u>Top-Rated Android Smartphones of the Year: Expert Picks & Reviews - ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-enhancing-your-ark-sanctuary-islands-fps-on-pc/"><u>Ultimate Guide: Enhancing Your ARK: Sanctuary Islands FPS on PC</u></a></li>
+</ul></div>
 

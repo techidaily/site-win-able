@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Repairing the Non-Working MSI Dragon Centre"
-date: 2024-10-22T10:54:33.448Z
-updated: 2024-10-25T22:40:13.483Z
+date: 2024-10-25T01:52:06.320Z
+updated: 2024-11-01T09:06:24.428Z
 tags:
   - win11
   - win10
@@ -30,18 +30,18 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 2. [Update audio driver](https://tools.techidaily.com/drivereasy/download/)
 3. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Use wire headsets
 
  Some players have found out the game need to use a 3.5mm jack to bypass the headsets audio. Therefore, use a wired input instead of USB headphones. USB headphones are not working well with Evil Genius 2.
 
 Hope it works for you, if not, try updating your audio driver.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update the audio driver
 
@@ -57,23 +57,23 @@ Hope it works for you, if not, try updating your audio driver.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install Windows updates
 
@@ -83,15 +83,15 @@ Hope it works for you, if not, try updating your audio driver.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Evil Genius 2 and check.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -114,24 +114,21 @@ Enjoy the game and have a nice day!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-quintessential-5-photo-background-changer-apps-iphone-xplus/"><u>[New] In 2024, Quintessential 5 Photo Background Changer Apps (iPhone X+)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-quick-vimeo-transformation-tips-easy-to-create-gifs/"><u>[Updated] In 2024, Quick Vimeo Transformation Tips Easy-to-Create GIFs</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-perfecting-chromes-sound-best-apps-for-online-text-to-speech-transformation/"><u>2024 Approved Perfecting Chrome's Sound Best Apps for Online Text-to-Speech Transformation</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-the-bugs-comprehensive-guide-to-overcoming-the-sims-4s-video-card-mistake/"><u>Banish the Bugs: Comprehensive Guide to Overcoming The Sims 4'S Video Card Mistake</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/expert-english-evolution-via-mondly-techniques/"><u>Expert English Evolution via Mondly Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-mortal-kombat-11-crashes-fast-and-simple-solutions/"><u>Fixing Mortal Kombat 11 Crashes: Fast and Simple Solutions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-simplifying-the-process-of-enabling-virtual-screen-on-meet/"><u>In 2024, Simplifying the Process of Enabling Virtual Screen on Meet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-a25-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy A25 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ize-your-videos-a-curated-list-of-top-flv-to-youtube-apps/"><u>Maximize Your Videos A Curated List of Top FLV-to-YouTube Apps</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-pc-performance-to-prevent-a-total-war-saga-troy-from-crashing-during-battle-scenes/"><u>Optimizing PC Performance to Prevent A Total War Saga: Troy From Crashing During Battle Scenes</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-game-halt-issues-with-fallout-n-on-modern-pcs-win-10-edition/"><u>Resolving Game Halt Issues with Fallout N on Modern PCs - Win 10 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-resolving-complete-lack-of-sound-in-roblox-for-windows-users/"><u>Solved: Resolving Complete Lack of Sound in Roblox for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/star-wars-battlefront-ii-conquering-the-darkness-of-a-persistent-black-screen-issue/"><u>Star Wars Battlefront II - Conquering the Darkness of a Persistent Black Screen Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-to-address-performance-hiccups-in-forza-horizon-5/"><u>Troubleshooting Guide to Address Performance Hiccups in Forza Horizon 5</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-slow-downloads-optimizing-your-utorrent-experience/"><u>Troubleshooting Slow Downloads: Optimizing Your uTorrent Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-to-cure-pc-specific-bugs-in-the-spellbreak-game/"><u>Ultimate Fixes to Cure PC-Specific Bugs in the Spellbreak Game</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-features-top-reviews-for-the-garmin-forerunner-265/"><u>Unveiling the Features: Top Reviews for the Garmin Forerunner 265</u></a></li>
-<li><a href="https://win-able.techidaily.com/update-resolved-issue-why-elden-ring-is-now-available/"><u>Update: Resolved Issue - Why Elden Ring Is Now Available</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-from-footage-to-film-mastering-the-art-of-cinematic-video-editing-for-2024/"><u>Updated From Footage to Film Mastering the Art of Cinematic Video Editing for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-todays-drone-usage-tomorrows-revolutionary-pathways/"><u>[Updated] 2024 Approved Today's Drone Usage, Tomorrow's Revolutionary Pathways</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-effortlessly-incorporate-images-on-instagram-for-2024/"><u>[Updated] Effortlessly Incorporate Images on Instagram for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-reverse-video-on-instagram/"><u>[Updated] In 2024, How to Reverse Video on Instagram</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-learn-to-record-mi-11s-display-effortlessly-for-2024/"><u>[Updated] Learn to Record Mi 11'S Display Effortlessly for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-valheim-experience-top-strategies-for-resolving-low-fps-2024-edition/"><u>Boost Your Valheim Experience: Top Strategies for Resolving Low FPS - 2024 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/changing-the-account-lockout-threshold-post-unsuccessful-accesses-in-windows-1011/"><u>Changing the Account Lockout Threshold Post Unsuccessful Accesses in Windows 10/11</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-for-the-persistent-black-screen-when-bootinng-up-overwatch/"><u>Expert Tips and Fixes for the Persistent Black Screen when Bootinng Up Overwatch</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-capture-perfection-4-methods-of-saving-chromebook-screenshots/"><u>In 2024, Capture Perfection 4 Methods of Saving Chromebook Screenshots</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-troubled-launch-of-persona-3-reborn-version/"><u>Mastering the Troubled Launch of Persona 3 Reborn Version</u></a></li>
+<li><a href="https://extra-information.techidaily.com/stitch-together-photographs-the-montage-masterclass/"><u>Stitch Together Photographs The Montage Masterclass</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-leading-10-online-history-educators-on-youtube-for-2024/"><u>The Leading 10 Online History Educators on Youtube for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-and-tricks-getting-the-msi-dragon-center-up-and-running-again/"><u>Tips and Tricks: Getting the MSI Dragon Center Up and Running Again</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tp-link-archer-c9-review-a-favorite-budget-router/"><u>TP-Link Archer C9 Review: A Favorite Budget Router</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-gpeditmsc-unavailability-in-windows-home-systems/"><u>Troubleshooting 'gpedit.msc' Unavailability in Windows Home Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-to-prevent-constant-crashes-of-content-warning-in-windows/"><u>Troubleshooting Techniques to Prevent Constant Crashes of 'Content Warning' In Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-frozen-ps4-a-comprehensive-easy-to-follow-tutorial/"><u>Troubleshooting the Frozen PS4: A Comprehensive, Easy-to-Follow Tutorial</u></a></li>
 </ul></div>
 

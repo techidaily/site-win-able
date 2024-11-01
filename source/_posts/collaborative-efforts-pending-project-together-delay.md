@@ -1,7 +1,7 @@
 ---
 title: "Collaborative Efforts Pending: Project 'Together' Delay"
-date: 2024-09-05T23:06:52.338Z
-updated: 2024-09-06T23:06:52.338Z
+date: 2024-10-29T08:14:28.414Z
+updated: 2024-11-01T07:53:08.539Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: "This Article Describes Collaborative Efforts Pending: Project 'Togethe
 thumbnail: https://thmb.techidaily.com/2cb7f310cfa40bade9f97a206c11fec1a7936d92f7d177b793679fa54a81c9a8.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Effective Fixes to Launch 'The Elder Scrolls Online': No More Errors
 
 If you launch the Elder Scrolls Online but get stuck on the loading screen before the character selection, don’t worry, you’re not alone. This post will show you how to fix this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -38,12 +26,6 @@ If you launch the Elder Scrolls Online but get stuck on the loading screen befor
 3. [Repair the launcher](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Add ESO into exception
 
  The Elder Scrolls Online would not work properly when the program is blocked by your firewall or antivirus software. Therefore, please add an exception for the game through your Antivirus and Windows defender firewall.
@@ -56,6 +38,13 @@ Here’s how to allow the ESO launcher through the firewall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the **Allow an app or feature through Windows Defender Firewall** from the left panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-8.png)
@@ -67,11 +56,12 @@ Here’s how to allow the ESO launcher through the firewall.
  4) Click **OK**  button to save changes. Then reboot the game to check the issue persists or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Delete the program data
 
  If the program data has corrupted, you may encounter the ESO not loading issue. In this case, we need to delete corrupted files. The launcher will redownload missing files automatically.
@@ -83,11 +73,12 @@ Here’s how to allow the ESO launcher through the firewall.
 4. Restart the ESO Launcher to check.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Repair the launcher
 
  When the game is not loading or stuck on the loading scree, you can repair the launcher to fix the issue. If any files are found to have problems, the launcher will re-download those files.
@@ -127,11 +118,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -145,8 +137,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +144,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/1723008217090-days-gone-the-ultimate-survival-horror-game-drops-today-get-ready-to-ride-on-your-pc/"><u>'Days Gone': The Ultimate Survival Horror Game Drops Today – Get Ready to Ride on Your PC!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-editing-odyssey-journey-to-photo-mastery/"><u>[New] The Editing Odyssey Journey to Photo Mastery</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-the-power-of-photography-and-videography-a-pixiz-approach/"><u>[Updated] Harnessing the Power of Photography & Videography A Pixiz Approach</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-prime-photograph-peruser-in-windows-10/"><u>[Updated] In 2024, Prime Photograph Peruser in Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-loading-errors-with-in-game-visual-elements-on-call-of-dutys-warzone/"><u>Effective Solutions for Loading Errors with In-Game Visual Elements on Call of Duty's Warzone</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-getting-the-thaumaturge-program-running-smoothly-on-pcs-again/"><u>Expert Tips for Getting the Thaumaturge Program Running Smoothly on PCs Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-and-optimize-preventing-star-citizen-from-crashing-in-windows-environments/"><u>Fix and Optimize: Preventing Star Citizen From Crashing in Windows Environments</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-7-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 7 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-x100-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo X100 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://facebook.techidaily.com/meta-unleashed-3-reasons-to-worry/"><u>Meta Unleashed: 3 Reasons to Worry</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/reinstating-windows-photo-viewer-on-windows-10-a-twin-strategy/"><u>Reinstating Windows Photo Viewer on Windows 10 A Twin Strategy</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-frame-drops-and-speech-hiccups-in-naraka-bladepoint-a-step-by-step-guide/"><u>Solving Frame Drops & Speech Hiccups in Naraka: Bladepoint - A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-guide-to-hardware/"><u>Tom's Tech Insights: Comprehensive Guide to Hardware</u></a></li>
+</ul></div>
 

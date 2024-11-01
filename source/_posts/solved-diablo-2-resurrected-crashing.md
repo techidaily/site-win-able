@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Diablo 2 Resurrected Crashing"
-date: 2024-10-25T14:51:12.409Z
-updated: 2024-10-26T13:03:40.670Z
+date: 2024-10-31T02:28:07.243Z
+updated: 2024-10-31T20:16:40.174Z
 tags:
   - win11
   - win10
@@ -48,18 +48,18 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2 – Stop overclocking
 
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
 
 If this method doesn’t help, check out your graphics driver.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -74,21 +74,14 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -105,19 +98,19 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -129,6 +122,13 @@ If this method doesn’t help, check out your graphics driver.
 3. Click**Begin Scan** to process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
@@ -142,33 +142,7 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **On GeForce Experience**
 
@@ -176,7 +150,27 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After all the overlay feature is disabled, your game should return to normal.
 
@@ -202,24 +196,24 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-capture-and-compose-best-writing-apps-for-photos-iosandroid/"><u>[New] Capture and Compose Best Writing Apps for Photos (iOS/Android)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-chasing-charm-innovative-photo-techniques-to-ignite-insta/"><u>[New] In 2024, Chasing Charm Innovative Photo Techniques to Ignite Insta</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-perfect-pictures-at-work-master-snap-camera-use/"><u>[Updated] 2024 Approved Perfect Pictures at Work Master Snap Camera Use</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-samsung-galaxy-f04-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Samsung Galaxy F04 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996961875-assassins-creed-valhalla-resolved-pc-performance-hiccups-and-smooth-playback-tips/"><u>Assassin's Creed Valhalla - Resolved PC Performance Hiccups and Smooth Playback Tips!</u></a></li>
-<li><a href="https://win-able.techidaily.com/avatars-epic-journey-mastering-the-frontiers-of-pandora-on-windows-and-mac/"><u>Avatar’s Epic Journey - Mastering the Frontiers of Pandora on Windows and Mac</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/comenzar-a-conocer-el-tiempo-en-espanol/"><u>Comenzar a Conocer El Tiempo en Español</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-guide-resolving-nioh-2-game-crashes/"><u>Complete Guide: Resolving Nioh 2 Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/crash-free-adventure-fixed-problems-leading-to-constant-disruptions-in-the-new-world-pc-version/"><u>Crash-Free Adventure: Fixed Problems Leading to Constant Disruptions in the 'New World' PC Version</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/do-users-play-a-role-in-shaping-chatgpts-intelligence/"><u>Do Users Play a Role in Shaping ChatGPT's Intelligence?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-resolving-unrecognized-peripherals-due-to-outdated-or-missing-drivers/"><u>Guide to Resolving Unrecognized Peripherals Due to Outdated or Missing Drivers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-concoct-clever-caricatures/"><u>In 2024, Concoct Clever Caricatures</u></a></li>
-<li><a href="https://win-able.techidaily.com/inside-the-postponement-of-immortals-fenyx-rising-the-untold-story/"><u>Inside the Postponement of Immortals: Fenyx Rising - The Untold Story</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-minitool-movie-maker-the-good-the-bad-and-the-best-alternatives/"><u>New In 2024, Minitool Movie Maker The Good, the Bad, and the Best Alternatives</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-dark-meetings-the-ultimate-troubleshooting-steps-to-solve-zooms-pc-display-problem/"><u>No More Dark Meetings: The Ultimate Troubleshooting Steps to Solve Zoom's PC Display Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-loading-stagnation-on-your-madden-22-game-with-these-simple-steps/"><u>Overcome 'Loading' Stagnation on Your Madden 22 Game with These Simple Steps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/photo-and-video-streaming-from-android-to-iphone-for-2024/"><u>Photo & Video Streaming From Android to iPhone for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/revitalize-your-matches-proven-techniques-to-combat-low-fps-problems-in-valorant-for-the-current-year/"><u>Revitalize Your Matches: Proven Techniques to Combat Low FPS Problems in Valorant for the Current Year</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-resolving-assassins-creed-odyssey-pc-game-crashes-effortlessly/"><u>Troubleshooting: Resolving Assassin's Creed Odyssey PC Game Crashes Effortlessly</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-digital-dexterity-fine-tuning-funny-videos-for-facebook-and-insta-laughs/"><u>[New] 2024 Approved Digital Dexterity Fine-Tuning Funny Videos for Facebook and Insta Laughs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-explore-top-7-live-streaming-iosandroid-apps-perfect-for-youtube-channel-creators/"><u>2024 Approved Explore Top 7 Live Streaming iOS/Android Apps Perfect for YouTube Channel Creators</u></a></li>
+<li><a href="https://win-able.techidaily.com/blackout-no-more-solving-cyberpunk-2077s-persistent-display-dilemma/"><u>Blackout No More: Solving Cyberpunk 2077'S Persistent Display Dilemma</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/capture-anything-you-can-scroll-through-the-ultimate-method-for-cross-device-screenshots-using-movavi-tools/"><u>Capture Anything You Can Scroll Through: The Ultimate Method for Cross-Device Screenshots Using Movavi Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/crash-no-more-solutions-for-lego-star-wars-the-skywalker-saga-on-pc/"><u>Crash No More! Solutions for 'Lego Star Wars: The Skywalker Saga' On PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-when-the-thaumaturge-app-keeps-failing-to-open-on-windows-1011/"><u>Effective Fixes When The Thaumaturge App Keeps Failing to Open on Windows 10/11</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-techniques-to-overcome-session-problems-in-palworlds-search-feature/"><u>Efficient Techniques to Overcome Session Problems in Palworld's Search Feature</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-your-visual-storytelling-with-advanced-drone-edits/"><u>Elevating Your Visual Storytelling with Advanced Drone Edits</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-free-gaming-how-to-overcome-lost-ark-network-problems/"><u>Error-Free Gaming: How To Overcome Lost Ark Network Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-performance-problems-optimize-your-resident-evil-village-game-on-pc/"><u>Fixing Performance Problems: Optimize Your Resident Evil Village Game on PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-assassins-creed-valhalla-from-crashing-proven-solutions-for-a-smooth-gaming-experience-2er-2024/"><u>How to Stop Assassin's Creed Valhalla From Crashing: Proven Solutions for a Smooth Gaming Experience, 2Er 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-honor-70-lite-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Honor 70 Lite 5G?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lamptron-st060-the-next-gen-cpu-cooler-that-comes-with-a-six-inch-lcd-display-as-big-and-clear-as-an-iphone-15s-retina-screen/"><u>Lamptron ST060: The Next-Gen CPU Cooler That Comes With a Six-Inch LCD Display as Big and Clear as an iPhone 15'S Retina Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-smart-7-hd-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Smart 7 HD to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012968925-say-goodbye-to-rogue-companys-pc-crashes-problem-solved/"><u>Say Goodbye to Rogue Company's PC Crashes - Problem Solved!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-retrieve-a-blocked-contacts-phone-number/"><u>Steps to Retrieve a Blocked Contact's Phone Number</u></a></li>
+<li><a href="https://win-online.techidaily.com/transferieren-sie-mit-diesen-einfachen-schritten-ihre-lieblingsalarmuhrklange-zwischen-iphone-und-ipad-hin-und-her/"><u>Transferieren Sie Mit Diesen Einfachen Schritten Ihre Lieblingsalarmuhrklänge Zwischen iPhone Und iPad Hin- Und Her.</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-the-google-app-ensure-that-you-have-the-latest-version-of-the-google-app-installed-on-your-device-go-to-the-play-store-search-for-google-and-update-i435/"><u>Update the Google App: Ensure that You Have the Latest Version of the Google App Installed on Your Device. Go to the Play Store, Search for Google, and Update if Necessary</u></a></li>
 </ul></div>
 

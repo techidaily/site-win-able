@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Infinite Loops Caused by 'Super People' In PC Games
-date: 2024-09-10T14:08:10.359Z
-updated: 2024-09-11T14:08:10.359Z
+date: 2024-10-30T03:50:14.889Z
+updated: 2024-11-01T02:12:45.926Z
 tags:
   - win11
   - win10
@@ -40,37 +40,9 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/keyboard.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
 
@@ -90,20 +62,6 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 3: Adjust your display settings
 
  Check your display settings if this issue persists. If you adjusted the size of text, apps, and other items, try changing it back. Here is how to check:
@@ -112,43 +70,22 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the**Scale and layout** section, make sure it is set to**100%** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 3) Run Epic Games Launcher again to see if this issue reappears.
 
  If not, congratulations! You’ve fixed this issue. If this issue persists, try the next fix to update your graphics driver.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Update your graphics driver
 
@@ -162,20 +99,6 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; **it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund** , no questions asked.
@@ -184,10 +107,24 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1072.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _You can do it for free if you like, but it’s partly manual._
 
  The Pro version of Driver Easy comes with full technical support.  
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Change Epic Games Launcher Properties
 
@@ -204,6 +141,13 @@ _You can do it for free if you like, but it’s partly manual._
  Then click**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this fix works.
 
@@ -223,20 +167,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 7: Repair Epic Games Launcher
 
  Try repairing the Epic Games Launcher in the Control Panel to see if this fix works for you. Here’s how to do it:
@@ -245,23 +175,29 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Launch Epic Games Launcher again when Windows completes the repair process.
 
@@ -277,43 +213,16 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 3) Restart your computer.
 
@@ -334,8 +243,6 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -343,4 +250,21 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-navigating-macs-best-screen-capturing-apps-and-tech-for-2024/"><u>[New] Navigating Mac's Best Screen Capturing Apps & Tech for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-zoom-audio-high-fidelity-and-unmuted-channels/"><u>[Updated] Mastering Zoom Audio High Fidelity & Unmuted Channels</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apples-let-loose-reveals-unexpected-star-affordable-ipad-for-only-349-zdnet-insights/"><u>Apple's 'Let Loose' Reveals Unexpected Star: Affordable iPad for Only $349 | ZDNET Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-frozen-seas-strategies-for-overcoming-sea-of-thieves-loading-stalls/"><u>Bypassing the Frozen Seas: Strategies for Overcoming Sea of Thieves Loading Stalls</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-getting-your-logitech-g-hub-running-again-on-windows/"><u>Expert Solutions: Getting Your Logitech G Hub Running Again on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-cyberpunk-2077-ignores-graphics-card-in-windows-11/"><u>Fix: Cyberpunk 2077 Ignores Graphics Card in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009516240-frostpunk-stability-improvements-no-more-unwanted-crashes/"><u>Frostpunk Stability Improvements - No More Unwanted Crashes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-vivo-y36-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Vivo Y36</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-endless-loading-screen-in-minecraft-and-get-back-to-gaming/"><u>How to Overcome the Endless Loading Screen in Minecraft & Get Back to Gaming</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-discover-the-instant-fame-boosting-channel-names/"><u>In 2024, Discover the Instant Fame-Boosting Channel Names</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-f25-pro-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo F25 Pro 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-xiaomi-13-ultra-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Xiaomi 13 Ultra Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-directdraw-fixes-a-step-by-nstep-approach-to-eliminating-common-mishaps/"><u>Mastering DirectDraw Fixes – A Step-by-nStep Approach to Eliminating Common Mishaps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor Magic V2? | Dr.fone</u></a></li>
+</ul></div>
 

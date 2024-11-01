@@ -1,7 +1,7 @@
 ---
 title: "Mount and Blade II: Bannerlord - Troubleshooting Guide to Fix Game Crashes"
-date: 2024-10-19T14:03:47.830Z
-updated: 2024-10-26T15:07:21.323Z
+date: 2024-10-27T18:23:07.655Z
+updated: 2024-11-01T08:33:44.386Z
 tags:
   - win11
   - win10
@@ -64,6 +64,19 @@ There are two ways you can get the latest correct graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -75,13 +88,6 @@ There are two ways you can get the latest correct graphics driver:
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Restart your computer
 
@@ -110,6 +116,13 @@ There are two ways you can get the latest correct graphics driver:
 If your game crashes again, go ahead with the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair your game files
 
@@ -144,10 +157,10 @@ If your game crashes again, go ahead with the fix below.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Reset your in-game settings
@@ -160,13 +173,6 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-683.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the **Game Settings tab** \>**Reset in-Game Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-514.png)
@@ -175,16 +181,16 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-515.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Click **Done** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-516.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try launching Diablo 3 again. If the crashing issue persists, move to the next fix, below.
 
@@ -204,6 +210,13 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Type **%ProgramData%** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-706.png)
@@ -215,6 +228,13 @@ If your game crashes again, go ahead with the fix below.
  Relaunch_Diablo 3_ to check if this worked for you. If the game is still unplayable, try the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Run your game in compatibility mode
 
@@ -228,28 +248,15 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-510.png)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the list box below to select **Windows 8** , then click **Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-511.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
@@ -280,10 +287,10 @@ If your game crashes again, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-513.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Restart the Blizzard Battle.net app to download and install _Diablo 3_ .
@@ -309,13 +316,6 @@ If your game crashes again, go ahead with the fix below.
  If you’re prompted about permission, select **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-445.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** **[Download](https://www.blizzard.com/en-us/apps/battle.net/desktop)**  and install the Blizzard Battle.net app.
 
@@ -343,18 +343,22 @@ If your game crashes again, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-grab-tiktok-videos-online-for-free/"><u>[Updated] In 2024, Grab TikTok Videos Online for FREE</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-when-your-paradox-launcher-is-malfunctioning/"><u>Effective Solutions When Your Paradox Launcher Is Malfunctioning</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experience-deep-bass-with-skullcandy-smokin-buds-xt-premium-sound-quality-without-breaking-the-bank/"><u>Experience Deep Bass with Skullcandy Smokin' Buds XT – Premium Sound Quality Without Breaking the Bank</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-battlefield-5-game-boot-issues-a-2024-players-handbook/"><u>How To Overcome Battlefield 5 Game Boot Issues: A 2024 Player's Handbook</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-strategy-in-the-shopping-experience/"><u>In 2024, Strategy in the Shopping Experience</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-best-in-class-audio-editing-software-for-professionals-top-picks/"><u>New 2024 Approved Best-in-Class Audio Editing Software for Professionals Top Picks</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quick-fixes-to-repair-microsoft-excel-2003-content-related-error-stellar-by-stellar-guide/"><u>Quick Fixes to Repair Microsoft Excel 2003 Content related error | Stellar</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-gears-5-game-crashes-a-step-by-step-troubleshooting-guide/"><u>Solving 'Gears 5' Game Crashes: A Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/the-ultimate-guide-to-free-dvd-remuxing-tools-of-2023-compatible-with-win10-systems/"><u>The Ultimate Guide to Free DVD Remuxing Tools of 2023, Compatible with Win10 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-when-stardew-valley-wont-load-up/"><u>Troubleshooting Guide: When Stardew Valley Won't Load Up</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-techniques-for-the-missing-or-damaged-msstdfmtdll-problem/"><u>Troubleshooting Techniques for the 'Missing or Damaged msstdfmt.dll' Problem</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ffortless-entertainment-looping-youtube-videos-for-tv-viewers/"><u>[New] Effortless Entertainment Looping YouTube Videos for TV Viewers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-utilizing-the-virtual-whiteboard-in-webinars-cross-platform-tips-and-tricks/"><u>[New] In 2024, Utilizing the Virtual Whiteboard in Webinars Cross-Platform Tips and Tricks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-nikon-d500-at-a-glance-the-frontiers-of-4k-hd/"><u>[Updated] Nikon D500 at a Glance The Frontiers of 4K HD</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-play-samsung-vr-classics/"><u>2024 Approved Immersive Play Samsung VR Classics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-system-gap-msvcr71-acquired/"><u>Addressing System Gap: MSVCR71 Acquired</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-deathloop-pc-problems-quickly-and-effectively-simple-steps/"><u>Fix Your Deathloop PC Problems Quickly and Effectively [Simple Steps]</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-freezing-issues-in-total-war-saga-troy-on-your-windows-computer/"><u>How to Fix Freezing Issues in Total War Saga: Troy on Your Windows Computer</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-f14-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy F14 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-12-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 12 and iPad Securely</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-motorola-g24-power-by-drfone-android/"><u>In 2024, How to Bypass FRP from Motorola G24 Power?</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-star-wars-battlefront-ii-fixes-for-persistent-error-code-327/"><u>Mastering Star Wars Battlefront II - Fixes for Persistent Error Code 327</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-visual-improvement-guide-tackling-and-resolving-image-blurriness/"><u>Outriders Visual Improvement Guide: Tackling and Resolving Image Blurriness</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-launch-hurdle-getting-destiny-2-up-and-running-on-pc/"><u>Overcome the Launch Hurdle: Getting Destiny 2 Up and Running on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-resolve-escape-from-tarkov-anticheat-errors/"><u>Step-by-Step Guide to Resolve Escape From Tarkov Anticheat Errors</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211441765--the-sacred-mushroom-3rd-ed/"><u>The Sacred Mushroom (3rd ed.) | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-techniques-to-stop-stuttering-in-halo-infinite-and-enhance-your-experience/"><u>Top Techniques to Stop Stuttering in Halo Infinite and Enhance Your Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-patched-the-issue-star-citizen-now-stable-on-windows-computers/"><u>Update Patched the Issue: Star Citizen Now Stable on Windows Computers</u></a></li>
 </ul></div>
 

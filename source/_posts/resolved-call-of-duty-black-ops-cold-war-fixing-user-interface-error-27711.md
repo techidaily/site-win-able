@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Call of Duty Black Ops Cold War - Fixing User Interface Error 27711"
-date: 2024-10-18T17:31:33.721Z
-updated: 2024-10-26T05:52:27.103Z
+date: 2024-10-28T22:30:01.431Z
+updated: 2024-11-01T08:41:28.138Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your PC
@@ -43,6 +43,19 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
  Some gamers on[Reddit](https://www.reddit.com/r/blackopscoldwar/comments/kia139/get%5Fui%5Ferror%5F27711%5Fand%5Falso%5Fsomething%5Felse/) reported that the game went back to normal after a system restart. So before you try anything more complicated,**exit your game and do a normal reboot** . You’d be surprised how often this trick works.
 
  If the error persists after a reboot, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Scan and repair your game
 
@@ -52,14 +65,14 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** . Then wait until the checking is completed.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 Now you can launch the game and see if it loads this time.
 
@@ -94,6 +107,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -112,25 +132,11 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
@@ -157,18 +163,22 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvdmacdvdrip/"><u>DVDレンタルサービスからMacへ素晴らしいDVDをダウンロードする簡単方法とおすすめRipソフトの使い方</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-resolve-stutter-and-collapse-issues-with-v-rising-on-desktop/"><u>Expert Advice: Resolve Stutter and Collapse Issues with V Rising on Desktop</u></a></li>
-<li><a href="https://win-able.techidaily.com/fifa-20-on-pc-stability-guide-top-tips-to-prevent-game-crashes/"><u>FIFA 20 on PC Stability Guide: Top Tips to Prevent Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-resident-evil-village-pc-performance-lags-complete-guide/"><u>How To Fix Resident Evil Village PC Performance Lags - Complete Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-x-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone X?</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-unravel-winerror-incorrect-file-backups-in-windows/"><u>How to Unravel WinError: Incorrect File Backups in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/improve-the-division-pressure-and-smoother-gameplay-in-the-2024-update-tips-and-tricks/"><u>Improve The Division Pressure and Smoother Gameplay in the 2024 Update - Tips & Tricks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-zte-blade-a73-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your ZTE Blade A73 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/stardew-valley-not-opening-heres-how-to-correct-that-error-smoothly/"><u>Stardew Valley Not Opening? Here's How to Correct That Error Smoothly</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-showdown-gopro-max-360-vs-hero-11-analysis/"><u>The Ultimate Showdown GoPro Max 360 VS Hero 11 Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-how-do-i-tell-if-psn-is-offline-or-its-a-local-connection-error/"><u>Troubleshooting: How Do I Tell if PSN Is Offline or It's a Local Connection Error?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-embrace-automatic-transcription-for-engaging-presentations/"><u>[Updated] How to Embrace Automatic Transcription for Engaging Presentations</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-expert-advice-fixing-iphone-lens-blur-effectively/"><u>[Updated] In 2024, Expert Advice Fixing iPhone Lens Blur Effectively</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-future-of-content-creation-profitability-on-youtube/"><u>[Updated] In 2024, The Future of Content Creation Profitability on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-window-to-world-class-video-playback/"><u>[Updated] Ultimate Window to World-Class Video Playback</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-what-to-do-if-the-facebook-message-shows-its-you-in-this-video/"><u>2024 Approved What To Do If the Facebook Message Shows It’s You in This Video?</u></a></li>
+<li><a href="https://win-able.techidaily.com/assassins-creed-unity-performance-tweaks-stop-game-crashing-in-2-the-1st-quarter-of-2024/"><u>Assassin's Creed Unity Performance Tweaks: Stop Game Crashing in 2 the 1St Quarter of 2024!</u></a></li>
+<li><a href="https://win-able.techidaily.com/division-2-not-opening-expert-advice-and-fixes-to-try/"><u>Division 2 Not Opening? Expert Advice and Fixes to Try</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aster-suite-for-2024/"><u>EditMaster Suite for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fast-fix-for-assassins-creed-odyssey-pc-version-crash-tips-and-tricks-to-play-smoothly/"><u>Fast Fix for 'Assassin's Creed Odyssey PC Version Crash': Tips and Tricks to Play Smoothly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721425749303-gpt-4-unlocked-for-all-yet-6-chatgpt-plus-advantages-remain/"><u>GPT-4: Unlocked For All, Yet 6 ChatGPT Plus Advantages Remain</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-resolve-netflix-issues-on-your-xbox-one-console/"><u>How to Troubleshoot and Resolve Netflix Issues on Your Xbox One Console</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-hurdles-in-watching-amazon-prime-videos-a-comprehensive-guide/"><u>Overcoming Hurdles in Watching Amazon Prime Videos – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-steps-for-pc-crashes-in-the-witcher-3/"><u>Resolved: Troubleshooting Steps for PC Crashes in 'The Witcher 3'</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-app-breakdowns-and-system-failures/"><u>Step-by-Step Solution for App Breakdowns and System Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/ubisoft-game-maintenance-essential-troubleshooting-tips-for-a-flawless-assassins-creed-mirage-experience/"><u>Ubisoft Game Maintenance: Essential Troubleshooting Tips for a Flawless Assassin's Creed Mirage Experience</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mp4-editor-for-mavericks-edit-mp4-in-os-x-mavericks/"><u>Updated 2024 Approved MP4 Editor for Mavericks Edit MP4 in OS X Mavericks</u></a></li>
 </ul></div>
 

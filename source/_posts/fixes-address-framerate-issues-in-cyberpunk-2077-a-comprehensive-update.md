@@ -1,7 +1,7 @@
 ---
 title: "Fixes Address Framerate Issues in Cyberpunk 2077: A Comprehensive Update"
-date: 2024-10-21T17:49:10.954Z
-updated: 2024-10-26T12:38:10.756Z
+date: 2024-10-31T06:31:34.562Z
+updated: 2024-11-01T05:00:04.683Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 5. **[Clear download cache](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Set a bandwidth limit](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Uncheck bonus content under DLC
 
  If your Cyberpunk download is stuck on 57.4 GB, it probably is extracting the game files. This happens with preloaded games on Steam. So you just need a little more patience and you’ll be in. However, if you can’t wait for any longer, disabling the DLC content download may help you.
@@ -48,9 +41,23 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
   
 ![uncheck bonus content under DLC to fix Cyberpunk 2077 download stuck ](https://images.drivereasy.com/wp-content/uploads/2020/12/click-on-Properties-on-Steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select the tab**DLC** . Then uncheck the box**Cyberpunk 2077 Bonus Content** . (If the DLC portion isn’t popping up for you, try restarting your computer and after that, try to log in to your Steam account.)  
   
 ![uncheck bonus content under DLC to fix Cyberpunk 2077 download stuck ](https://images.drivereasy.com/wp-content/uploads/2020/12/DLC-uncheck-install.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once done, you should be able to fix the game stuck at 57.4/64 GB issue. If this didn’t work for you, proceed to the next fix.
 
@@ -74,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Set Steam’s priority to High
 
  Waiting for Steam games to update or download can be vexing. And you would be quite frustrated with the slow unpacking speed. But the good news is, setting Steam’s priority to High in the Task Manager can help you. Follow the steps below to do that:
@@ -90,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-in-the-Task-Manager-to-help-with-the-unpacking-speed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the**Processes** tab, locate**Steam Client Bootstrapper** . Right-click it and select**Go to details** .  
@@ -105,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 ![set Steam's priority to high go to details](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-go-to-details.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once done, your game’s unpacking speed should be boosted.
@@ -138,19 +138,6 @@ Here’s how it works:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/update-network-adapter-driver.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and try to resume your download to check if the download progress goes fast now.
@@ -166,26 +153,26 @@ Here’s how it works:
 ![Steam go to settings](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the Settings panel, select the**Downloads** tab and you’ll find the**CLEAR DOWNLOAD CACHE** button at the bottom. Simply click on it.  
   
 ![clear download cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/12/clear-download-cache.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select**OK** to confirm and acknowledge that you’ll need to login to Steam again.  
   
 ![confirm to clear download cache](https://images.drivereasy.com/wp-content/uploads/2020/12/confirm.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -200,6 +187,13 @@ Here’s how it works:
  2) In the Settings panel, select the**Downloads** tab. Then in the**Download Restrictions** section, enter a new value to the box. Once done, simply click**APPLY** to apply the changes.  
   
 ![set Steam download speed limit](https://images.drivereasy.com/wp-content/uploads/2020/12/set-download-speed-llimit.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you should be able to download your game at a faster speed.
 
@@ -222,20 +216,18 @@ Now you should be able to download your game at a faster speed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-filter-techniques-for-a-stunning-feed/"><u>[New] Instagram Filter Techniques for a Stunning Feed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-obs-studio-vs-fraps-which-is-a-better-screen-capture-software/"><u>[New] OBS Studio vs Fraps – Which Is A Better Screen Capture Software?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-from-songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp/"><u>[Updated] 2024 Approved From Songs to Symphony Building a Cohesive YouTube Playlist on Web/App</u></a></li>
-<li><a href="https://win-able.techidaily.com/arma-3-tarkov-error-code-103003-explained-and-solved-expert-advice/"><u>Arma 3 Tarkov Error Code 103003 Explained and Solved: Expert Advice</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-your-origin-download-velocity-top-strategies-for-faster-downloads/"><u>Boosting Your Origin Download Velocity: Top Strategies for Faster Downloads</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/comment-supprimer-les-doubles-fichiers-identiques-dun-support-usb/"><u>Comment Supprimer Les Doubles Fichiers Identiques D'un Support USB?</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/guide-detaille-comment-annuler-une-suppression-de-fichiers-dans-windows-11-apprentissage-facile/"><u>Guide Détaillé : Comment Annuler Une Suppression De Fichiers Dans Windows 11 - Apprentissage Facile</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-play-8t-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor Play 8T Phone Screen?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/lava-blaze-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Lava Blaze Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-able.techidaily.com/mafia-the-final-cut-revealed-release-cancellation-clarification/"><u>Mafia: The Final Cut Revealed - Release Cancellation Clarification</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximize-warzone-performance-in-windows-11-by-unlocking-your-graphics-card-potential/"><u>Maximize Warzone Performance in Windows 11 by Unlocking Your Graphics Card Potential</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/most-efficient-power-inverters-reviewed-the-ultimate-buyers-guide/"><u>Most Efficient Power Inverters Reviewed: The Ultimate Buyer's Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-pc-hiccups-when-playing-yakuza-e-6-song-of-the-life-and-death/"><u>Overcoming PC Hiccups When Playing Yakuza E 6 – Song of the Life and Death</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-steps-for-clearing-the-black-screen-error-in-battlefront-2/"><u>Solution Steps for Clearing the Black Screen Error in Battlefront 2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synergy-in-simplicity-the-most-effective-5-ai-prompts-craftors/"><u>Synergy in Simplicity: The Most Effective 5 AI Prompts Craftors</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-youtube-mastery-how-to-add-structure-and-subdivisions-for-enhanced-content/"><u>[Updated] YouTube Mastery How to Add Structure and Subdivisions for Enhanced Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-digital-revolution-todays-vr-landscape-and-tomorrows-trials/"><u>2024 Approved The Digital Revolution Today's VR Landscape & Tomorrow's Trials</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-infinix-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Infinix?</u></a></li>
+<li><a href="https://win11.techidaily.com/designing-keybindings-for-windows-applications/"><u>Designing Keybindings for Windows Applications</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-guide-to-converting-dvd-video-files-to-mp4-proven-techniques-for-pc-and-mac-operating-systems/"><u>Easy Guide to Converting DVD Video Files to MP4: Proven Techniques for PC & Mac Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-to-combat-high-cpu-usage-in-new-world/"><u>Effective Strategies to Combat High CPU Usage in 'New World'</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-game-from-crashing-the-ultimate-guide-for-fixes-in-modern-warfare-2/"><u>How to Stop Your Game From Crashing: The Ultimate Guide for Fixes in Modern Warfare 2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-motorola-edge-40-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Motorola Edge 40 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/nba-2k21-pc-issues-resolved-no-more-crashes/"><u>NBA 2K21 PC Issues Resolved: No More Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-launching-witcher-3-wild-hunt-here-are-fixes-that-work/"><u>Trouble with Launching Witcher 3: Wild Hunt? Here Are Fixes That Work!</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-continuous-crashes-in-cities-skylines-2-on-desktop-pcs/"><u>Ultimate Fixes for Continuous Crashes in Cities: Skylines 2 on Desktop PCs</u></a></li>
 </ul></div>
 

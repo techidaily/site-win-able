@@ -1,7 +1,7 @@
 ---
 title: The Integration of Pharmacogenomics Into Clinical Trials Is Becoming More Common to Assess the Safety and Efficacy of New Drugs Across Different Genetic Backgrounds
-date: 2024-10-19T09:25:03.900Z
-updated: 2024-10-26T06:05:53.743Z
+date: 2024-10-30T23:51:02.371Z
+updated: 2024-10-31T18:34:45.932Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Released in November,**Call of Duty: Vanguard** is one of the hottest game title
 6. **[Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Make sure your system is up to date](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Repair system files
 
  If the fixes above failed to solve the crashes, it might point to a corrupt or missing game file. Many Vanguard players find restoring system files helps them get rid of random crashes. There’re two ways to repair your system files:
@@ -62,6 +55,13 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -81,6 +81,13 @@ Here’s how to use Fortect to run a Windows repair:
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  The graphics card is the heart and soul for games like CoD. If Vanguard keeps crashing on your PC, it is likely that the graphics driver on your computer is outdated or corrupt. So you should update your drivers to see if it fixes the game crashing issue.
@@ -96,15 +103,15 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
@@ -131,40 +138,19 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Scan & repair Vanguard game files
@@ -178,6 +164,13 @@ To check the specs of your PC:
 
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable overlays
 
  The overlay gives you access to features and apps without having to leave the game. However, some players report that the feature could interfere with their gameplay and even block game files.
@@ -185,13 +178,6 @@ To check the specs of your PC:
  If you have enabled the feature on GeForce Experience, Discord, Twitch, or other apps, it’s recommended that you turn them off altogether to see if it mitigates the game crashing problem.
 
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
 
@@ -204,7 +190,21 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Make sure your system is up to date
 
@@ -242,16 +242,14 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-cozy-living-areas-with-daylight/"><u>[Updated] Crafting Cozy Living Areas with Daylight</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-iphone-guide-to-achieving-stunning-hdr-photos/"><u>[Updated] IPhone Guide to Achieving Stunning HDR Photos</u></a></li>
-<li><a href="https://win-able.techidaily.com/detailed-guide-to-address-fortnite-ls-0013-rocket-error-now-fixed/"><u>Detailed Guide to Address Fortnite LS-0013 Rocket Error – Now Fixed</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-a-pure-white-display-glitch-on-persona-5-strikers-gameplay/"><u>Fixing a Pure White Display Glitch on Persona 5 Strikers Gameplay</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-honor-90-lite-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Honor 90 Lite Phone?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leveraging-cost-free-text-animation-techniques-for-2024/"><u>Leveraging Cost-Free Text Animation Techniques for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/navigating-the-market-highest-ranked-cablerouter-combinations/"><u>Navigating the Market: Highest-Ranked Cable/Router Combinations</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-resolve-overcoming-issues-with-intels-pc-software-support-tool/"><u>Quick Resolve: Overcoming Issues with Intel's PC Software Support Tool</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-pc-applications-crashing-mid-use-6-reliable-fixes-for-stray-software-issues/"><u>Stop PC Applications Crashing Mid-Use: 6 Reliable Fixes for Stray Software Issues</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-usb-sticks-ultimate-buyers-guide-2024/"><u>Top Rated USB Sticks - Ultimate Buyers Guide 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-tutorial-on-seamlessly-upgrading-your-mpg-files-to-crisp-mp4-without-quality-loss/"><u>Ultimate Tutorial on Seamlessly Upgrading Your MPG Files to Crisp MP4 Without Quality Loss</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-stealth-and-honor-find-your-favorite-games-like-tsushi/"><u>[New] Stealth and Honor Find Your Favorite Games Like Tsushi</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-keep-up-with-friends-moments-best-live-stream-tools-revealed/"><u>2024 Approved Keep Up With Friends' Moments Best Live-Stream Tools Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997092103-boosting-your-cyberpunk-2077-playthrough-overcome-past-fps-challenges-easily-now/"><u>Boosting Your Cyberpunk 2077 Playthrough: Overcome Past FPS Challenges Easily Now!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enthralling-thesis-fabricator/"><u>Enthralling Thesis Fabricator</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-overwatch-crashes-with-updated-graphics-drivers-resolved/"><u>Fix Your Overwatch Crashes with Updated Graphics Drivers - Resolved!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2526164-9780811741101-monsters-of-pennsylvania/"><u>Monsters of Pennsylvania | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcoming-login-issues-on-steam/"><u>Resolved: Overcoming Login Issues on Steam</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-gta-5-stuttering-issues-optimized-performance-fixes/"><u>Say Goodbye to GTA 5 Stuttering Issues - Optimized Performance Fixes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unveiling-best-mac-methods-for-recording-roblox-games-for-2024/"><u>Unveiling Best Mac Methods for Recording Roblox Games for 2024</u></a></li>
 </ul></div>
 

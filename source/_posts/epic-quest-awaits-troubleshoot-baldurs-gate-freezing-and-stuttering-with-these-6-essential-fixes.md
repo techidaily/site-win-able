@@ -1,7 +1,7 @@
 ---
 title: "Epic Quest Awaits: Troubleshoot Baldur's Gate Freezing & Stuttering with These 6 Essential Fixes!"
-date: 2024-10-19T09:20:24.110Z
-updated: 2024-10-25T22:30:04.872Z
+date: 2024-10-31T06:23:57.831Z
+updated: 2024-10-31T17:25:42.647Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08
 6. [**Switch to DX9**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Repair the system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Allow your game through Windows Firewall
 
  If Lost Ark fails to access the Internet on your PC, it won’t launch properly. To make sure the game works without interruption, you should manually allow it to bypass the firewall. Here are the steps:
@@ -57,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-3.jpg)
 4. Scroll down to locate Lost Ark. Then**check the boxes under the Domain, Private and Public tabs** , and click**OK** to save the settings.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-denfender-firewall-lost-ark.jpg)
 5. If you can’t find the game on the list, click**Allow another app** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-4.jpg)
@@ -66,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08
 
 Now see if you could start the game. If not, try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2 – Verify integrity of game files
 
  Missing or corrupted game file is a common reason that a game stops working smoothly. To see if that’s the case with Lost Ark, try to verify the integrity of the game files.
@@ -81,19 +74,26 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Lost Ark** and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Click the**Local Files** tab, and click**Verify integrity of game files** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/verify-game-files.jpeg)
 
  It may take a couple of minutes for the process to complete. Once done, restart the game to test the issue. If the problem persists, move on to more fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -116,13 +116,6 @@ Now see if you could start the game. If not, try the next method.
 
  A driver update should greatly improve your game experience. But if this doesn’t resolve the problem, check out the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4 – Run Lost Ark as an administrator
 
  Due to the lack of administrative rights, a program or game may not access certain files and therefore fails to launch. To avoid permission issues like this, you should run Lost Ark as an administrator as follow.
@@ -132,8 +125,22 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-2.jpg)
 3. Select the**Compatibility** tab. Tick**Disable full-screen optimizations** and**Run this program as an administrator** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try launching the game to see how things go. Still no luck? Take a look at the next method.
 
@@ -149,13 +156,6 @@ Now see if you could start the game. If not, try the next method.
 
  Restart and check the game. If it still can’t get past the loading screen, continue to Fix 6.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6 – Switch to DX9
 
  Some Lost Ark players experienced performance issues such as crashing or stuttering when running the game on DX11\. If you’re in the same situation, launching the game in DX9 may mitigate your problem.
@@ -164,26 +164,26 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Lost Ark** from the game list and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under Launch Options, type**\-force-d3d9** and close the window.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/swtich-to-dx9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now relaunch Steam and Lost Ark. Is it able to work correctly in the DX9 version? If not, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7 – Repair the system files
 
@@ -198,14 +198,21 @@ Now see if you could start the game. If not, try the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 Restart your game and check if Lost Ark goes back to the normal state.
 
@@ -231,19 +238,20 @@ Restart your game and check if Lost Ark goes back to the normal state.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-bring-back-classic-ps3-fun-with-best-tools-for-2024/"><u>[New] Bring Back Classic PS3 Fun with Best Tools for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-effortless-audio-extraction-best-youtube-to-mp3-tools-list-for-2024/"><u>[New] Effortless Audio Extraction Best YouTube to MP3 Tools List for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-instagram-to-twitter-sharing-without-retweeting/"><u>[Updated] In 2024, Instagram to Twitter Sharing without Retweeting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-online-tools-perfect-your-beats-like-a-pro-dj/"><u>2024 Approved Free Online Tools Perfect Your Beats Like a Pro DJ</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-screencaps-made-simple-with-irecorder/"><u>2024 Approved Screencaps Made Simple with iRecorder</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-setup-tutorial-getting-started-with-hyper-v-on-windows-10/"><u>Easy Setup Tutorial: Getting Started with Hyper-V on Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-error-message-in-nvidia-geforce-experience-step-by-step-solutions/"><u>Fixing the 'Error' Message in Nvidia GeForce Experience - Step by Step Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/flawless-pixel-processor-windowsmac/"><u>Flawless Pixel Processor (Windows/Mac)</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-warzone-performance-solutions-for-smoother-gameplay-and-higher-fps/"><u>Improving Warzone Performance: Solutions for Smoother Gameplay & Higher FPS</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-nightmare-proven-fixes-to-stop-dead-by-daylight-crashes-update-2024-edition/"><u>Mastering the Nightmare: Proven Fixes to Stop Dead by Daylight Crashes - Update 2024 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-0xc19t01e1-hurdle-fixing-common-windows-10-boot-issues/"><u>Overcoming the 0Xc19t01e1 Hurdle: Fixing Common Windows 10 Boot Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-what-to-do-if-you-cant-open-your-email-client-outlook/"><u>Step-by-Step Guide: What to Do If You Can't Open Your Email Client (Outlook)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-abcd-11-top-five-methods-for-touchscreen-correction/"><u>Troubleshooting Windows Abcd 11: Top Five Methods for Touchscreen Correction</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-shorts-revenue-sharing-how-much-do-creators-get-paid-for-2024/"><u>YouTube Shorts Revenue Sharing How Much Do Creators Get Paid for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channeling-success-the-personal-brand-strategy-for-youtubers/"><u>[New] 2024 Approved Channeling Success The Personal Brand Strategy for YouTubers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/everaging-wirecast-technology-for-dynamic-youtube-live-experiences-for-2024/"><u>[New] Leveraging WireCast Technology for Dynamic Youtube Live Experiences for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-online-streaming-capture-a-comprehensive-guide/"><u>[Updated] 2024 Approved Online Streaming Capture A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-expert-recommended-5-top-drones-on-market/"><u>[Updated] Expert-Recommended 5 Top Drones on Market</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-review-of-sns-hdr-vs-top-hdr-applications/"><u>[Updated] The Ultimate Review of SNS HDR Vs. Top HDR Applications</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-phasmophobias-endless-loading-scene-fixes-for-the-frustrating-90-barrier/"><u>Beat Phasmophobia's Endless Loading Scene - Fixes for the Frustrating 90% Barrier</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/guide-to-animating-scenes-with-windows-movie-maker/"><u>Guide to Animating Scenes with Windows Movie Maker</u></a></li>
+<li><a href="https://win-able.techidaily.com/halo-infinite-sound-troubles-heres-how-you-can-get-quality-audio-back/"><u>Halo Infinite Sound Troubles? Here's How You Can Get Quality Audio Back</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-how-to-edit-your-video-with-youtube-studio-editor/"><u>In 2024, How to Edit Your Video with YouTube Studio Editor</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-lag-in-street-fighter-6-top-solutions-to-combat-high-latency-for-pc-players/"><u>No More Lag in Street Fighter 6: Top Solutions to Combat High Latency for PC Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fix-for-football-manager-2021-sudden-shutdowns-and-hangs-on-personal-computers/"><u>Step-by-Step Fix for Football Manager 2021 Sudden Shutdowns and Hangs on Personal Computers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trasforma-qt-video-a-formato-flv-per-free-conversione-di-file-multimedia-con-movavi/"><u>Trasforma QT Video a Formato FLV per Free – Conversione Di File Multimedia Con Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-correcting-rust-visual-malfunctions-for-smoother-gaming/"><u>Troubleshooting & Correcting Rust Visual Malfunctions for Smoother Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-fixing-logitech-options-issues-on-windows-pcs/"><u>Troubleshooting Steps: Fixing Logitech Options Issues on Windows PCs</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Pop 7 Pro | Dr.fone</u></a></li>
 </ul></div>
 

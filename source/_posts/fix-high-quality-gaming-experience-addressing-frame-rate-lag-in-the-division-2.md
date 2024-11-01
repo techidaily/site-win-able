@@ -1,7 +1,7 @@
 ---
 title: Fix High-Quality Gaming Experience - Addressing Frame Rate Lag in The Division 2
-date: 2024-09-10T14:08:11.034Z
-updated: 2024-09-11T14:08:11.034Z
+date: 2024-10-31T03:34:21.543Z
+updated: 2024-11-01T07:36:46.011Z
 tags:
   - win11
   - win10
@@ -29,20 +29,6 @@ Only got a**black screen** at startup or during the thrilling gameplay in Reside
 
 ![Resident Evil Village black screen ](https://images.drivereasy.com/wp-content/uploads/2021/05/featured-image.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Verify integrity of game files
 
  Making sure that your game files is usually the first step to take when troubleshooting the issues you’re having with your Steam games. The feature, verifying integrity of game files allows you to achieve the goal:
@@ -67,23 +53,16 @@ If this didn’t solve your problem, try the next fix below.
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  After the reboot, try to launch your game to check if you can get into the main screen successfully.
 
@@ -95,20 +74,6 @@ If this didn’t solve your problem, try the next fix below.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Option 1: Manually update your graphics driver
 
  If you’re familiar with computer hardware, you can update your graphics driver manually by heading to the manufacturer’s driver download page:
@@ -118,26 +83,6 @@ If this didn’t solve your problem, try the next fix below.
 [Intel](https://downloadcenter.intel.com/product/80939/Graphics)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -151,14 +96,35 @@ If this didn’t solve your problem, try the next fix below.
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC. Then click on the PLAY button to check if you can boot up the game.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run your game as admin
 
@@ -168,19 +134,18 @@ If this didn’t solve your problem, try the next fix below.
   
 ![Resident Evil Village disable HDR](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2) Select the**LOCAL FILES** tab. Then click**Browse…** and you’ll be brought to the game’s installation directory.  
   
@@ -190,53 +155,18 @@ If this didn’t solve your problem, try the next fix below.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-an-administrator.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  4) Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
   
 ![run Resident Evil Village as an administrator ](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-an-administrator-Compatibility.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  After applying the changes, launch your game and it should be running with administrative privileges.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 5\. Disable HDR
 
@@ -246,37 +176,16 @@ If this didn’t solve your problem, try the next fix below.
   
 ![Resident Evil Village disable HDR](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2) Select the**LOCAL FILES** tab. Then click**Browse…** and you’ll be brought to the game’s installation directory.  
   
 ![disable HDR Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-local-file.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  3) Find the**config** file and open it.
 
@@ -294,8 +203,6 @@ If this didn’t solve your problem, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -303,4 +210,22 @@ If this didn’t solve your problem, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-screencast-maker-for-fb-chat/"><u>[New] ScreenCast Maker for FB Chat</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-fix-ring-of-elysium-crash/"><u>[SOLVED] How to Fix Ring of Elysium Crash</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-clandestine-call-collectors-discreet-voice-capture-tools-list/"><u>[Updated] 2024 Approved Clandestine Call Collectors Discreet Voice Capture Tools List</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-crafting-an-authentic-online-presence-in-the-world-of-fb/"><u>[Updated] 2024 Approved Crafting an Authentic Online Presence in the World of FB</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-how-to-watch-multiple-youtube-videos-at-one-time/"><u>[Updated] In 2024, How To Watch Multiple YouTube Videos at One Time?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-new-games-pick-your-top-vr-headset/"><u>2024 Approved Pioneering New Games? Pick Your Top VR Headset</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-game-crashes-steady-play-for-madden-21-on-windows-systems/"><u>Conquer Game Crashes: Steady Play for Madden '21 on Windows Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-tecno-pop-8-by-drfone-android/"><u>How to Bypass FRP on Tecno Pop 8?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-valorant-from-frequently-crashing-while-you-game-on-windows-1011/"><u>How to Stop 'Valorant From Frequently Crashing While You Game on Windows 10/11</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-art-of-troubleshooting-rust-not-responding-glitches/"><u>Mastering the Art of Troubleshooting Rust Not Responding Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-zoom-video-problems-with-these-5-proven-strategies/"><u>Overcome Zoom Video Problems with These 5 Proven Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/remedying-d3dx939dll-is-missing-easy-solutions-for-users/"><u>Remedying 'd3dx9_39.dll Is Missing' - Easy Solutions for Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-restore-functionality-of-corsair-icue-interface-on-windows-11/"><u>Solved: How to Restore Functionality of Corsair iCUE Interface on Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-5-affordable-drones-under-500/"><u>Top 5 Affordable Drones Under $500</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-does-fortnite-keep-freezing-find-out-here/"><u>Troubleshooting Guide: Why Does Fortnite Keep Freezing ? Find Out Here!</u></a></li>
+</ul></div>
 

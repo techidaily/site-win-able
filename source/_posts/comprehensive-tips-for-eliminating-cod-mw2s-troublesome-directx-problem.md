@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tips for Eliminating COD MW2's Troublesome DirectX Problem
-date: 2024-10-20T08:43:06.665Z
-updated: 2024-10-25T21:56:34.464Z
+date: 2024-10-25T16:45:45.564Z
+updated: 2024-11-01T02:12:58.134Z
 tags:
   - win11
   - win10
@@ -59,16 +59,16 @@ Here’s how you can do this:
 
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-3-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After resetting the resolution, open the launcher to check if it’s loading correctly. If not, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Run the launcher as an administrator
 
@@ -81,6 +81,13 @@ Here’s how you can do this:
  2) Open the launcher to see if the screen is in black. If it is, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -106,13 +113,6 @@ Here’s how you can do this:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -123,13 +123,6 @@ Here’s how you can do this:
  After updating your drivers, restart your computer for them to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Adjust compatibility mode
 
@@ -193,6 +186,13 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-11-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  11) Click**Yes, save these settings for this program** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-12.png)
@@ -200,13 +200,6 @@ Here’s how you can do this:
 12) Now, the issue is fixed.
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-13.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’ve been troubleshooting multiple times and still didn’t fix the issue, don’t worry. There are other working fixes for you.
 
@@ -219,6 +212,13 @@ Here’s how you can do this:
  1) In the**Search** box, type**firewall** . From the results, click**Firewall & network protection** .
 
 ![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Scroll down and click**Allow an app through firewall** .
 
@@ -233,13 +233,6 @@ Here’s how you can do this:
  If you’ve done all of these, and still it’s a black screen when you open the launcher. Then try the next method.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Change your DNS server to the Google Public DNS
 
@@ -256,6 +249,13 @@ Here’s how you can do this:
  3) Click**Network and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click on your**Connections** , whether it’s**Ethernet, Wifi or others** .
 
@@ -275,13 +275,6 @@ Here’s how you can do this:
  Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-DNS-server.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -305,32 +298,39 @@ To do this, simply follow the instructions below:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 9: Change high DPI settings
 
  1) Right-click on the launcher’s shortcut and select**Properties** .
 
 ![change high DPI settings Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select the**Compatibility** tab and click**Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check the box**Override high DPI scaling behavior** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -374,21 +374,21 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/rief-snippet-analysis-for-beginners-for-2024/"><u>[New] Brief Snippet Analysis for Beginners for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-curated-queries-for-spirited-conversations-in-podcasts-for-2024/"><u>[New] Curated Queries for Spirited Conversations in Podcasts for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-dj-iq-upgrade-two-drone-brands-now-offer-free-lut-sets-for-2024/"><u>[New] DJ IQ Upgrade – Two Drone Brands Now Offer FREE LUT Sets for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-acclaimed-websites-for-google-pixel-tonal-sounds/"><u>2024 Approved Acclaimed Websites for Google Pixel Tonal Sounds</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-nubia-z50-ultra-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Nubia Z50 Ultra to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/6-effective-techniques-to-reduce-video-file-size-to-under-50mb-in-windows/"><u>6 Effective Techniques to Reduce Video File Size to Under 50MB in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeating-the-bugs-a-guide-to-smooth-sounds-in-starfield-gaming/"><u>Defeating the Bugs: A Guide to Smooth Sounds in Starfield Gaming</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-tips-to-seamlessly-retrieve-youtube-srt-subtitles/"><u>Expert Tips to Seamlessly Retrieve YouTube SRT Subtitles</u></a></li>
-<li><a href="https://win-able.techidaily.com/inside-look-the-reason-behind-elden-rings-missing-launch-date/"><u>Inside Look: The Reason Behind Elden Ring's Missing Launch Date</u></a></li>
-<li><a href="https://win-able.techidaily.com/oxygen-not-included-stability-improvements-addressing-the-crash-problems/"><u>Oxygen Not Included Stability Improvements: Addressing the Crash Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-infinite-startup-issues-in-sea-of-thieves-a-step-by-step-solution/"><u>Resolving Infinite Startup Issues in Sea of Thieves - A Step-by-Step Solution</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-blue-screen-of-death-in-helldivers-2-easy-steps-for-gamers/"><u>Solving the Blue Screen of Death in HellDivers 2 - Easy Steps for Gamers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ltimate-playbook-for-youtube-growth-and-recognition-for-2024/"><u>The Ultimate Playbook for YouTube Growth and Recognition for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-60-television-offers-and-discounts-for-labor-day-weekend-september-2024-zdnets-exclusive-guide/"><u>Top 60 Television Offers and Discounts for Labor Day Weekend, September 2024 - ZDNet's Exclusive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-successful-startup-of-gta-5-game-installations/"><u>Troubleshooting Steps for Successful Startup of GTA 5 Game Installations</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-dev-error-6034-on-pc-and-xbox-modern-warfare-troubleshooting/"><u>Ultimate Guide: Resolving Dev Error 6034 on PC & Xbox - Modern Warfare Troubleshooting</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-altering-mac-screenshot-format-on-the-fly/"><u>[New] 2024 Approved Altering Mac Screenshot Format on the Fly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-boosting-your-macs-potential-with-sierra-update-steps/"><u>[Updated] Boosting Your Mac's Potential with Sierra Update Steps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-free-android-video-call-apps-compared/"><u>[Updated] In 2024, Top Free Android Video Call Apps Compared</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-streamlined-iphone-snapchat-linkage-for-photographs-and-memories/"><u>[Updated] Streamlined iPhone-Snapchat Linkage for Photographs & Memories</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-xiaomi-civi-3-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Xiaomi Civi 3.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-7-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 7?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macos-ventura-release-notes-easy-steps-for-successful-download-and-system-upgrade/"><u>MacOS Ventura Release Notes: Easy Steps for Successful Download and System Upgrade</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-voice-over-for-2024/"><u>New What Is AI Voice Over for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722990773004-sea-of-thieves-overcome-the-frustrating-loading-screen-issue/"><u>Sea of Thieves - Overcome the Frustrating Loading Screen Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-dvd-unlocking-software-options-for-windows-10-and-11-users/"><u>Top DVD Unlocking Software Options for Windows 10 & 11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/transform-your-youtube-talks-into-user-friendly-podcast-episodes-tips-and-tricks/"><u>Transform Your YouTube Talks Into User-Friendly Podcast Episodes - Tips and Tricks!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-correcting-iphone-video-sound-mismatches-efficiently/"><u>Troubleshooting and Correcting iPhone Video Sound Mismatches Efficiently</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-downloading-and-watching-youtube-clips-with-your-preferred-subtitles/"><u>Ultimate Guide: Downloading & Watching YouTube Clips with Your Preferred Subtitles</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-tutorial-on-adding-lyric-display-feature-via-plugin-in-windows-media-player/"><u>Ultimate Tutorial on Adding Lyric Display Feature via Plugin in Windows Media Player</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-tutorial-how-to-transform-your-dvd-collection-into-premium-ogg-format/"><u>Ultimate Tutorial: How to Transform Your DVD Collection Into Premium OGG Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/unveiling-the-latest-innovation-in-mobile-technology-meet-the-nokia-n8/"><u>Unveiling the Latest Innovation in Mobile Technology - Meet the Nokia N8</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to XCOM 2 Windows Crashes: A Comprehensive Solution Guide"
-date: 2024-09-10T14:08:11.967Z
-updated: 2024-09-11T14:08:11.967Z
+date: 2024-10-26T10:44:49.965Z
+updated: 2024-10-31T20:57:31.245Z
 tags:
   - win11
   - win10
@@ -18,20 +18,6 @@ thumbnail: https://thmb.techidaily.com/680c73892fadaf0cd37020955286e78a6c2698cf8
 Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/reddeadonline) as a standalone game. While enjoying the multiplayer-only mode for the game, you may be experiencing some annoying game crashes, such as Red Dead Online crashes at launch or randomly, the game exited unexpectedly, etc.
 
  In this article, you will find the most effective fixes and workarounds that have helped many other PC players.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Check your PC specs first
 
@@ -56,20 +42,6 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 | **Sound Card** | Direct X Compatible                                 |
 
 **RECOMMENDED**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -100,19 +72,18 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 * Select Red Dead Online from the list under**My installed games** on the left
 * Select**Verify Integrity** under Verify game file integrity from the options on the right
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Disable third-party software
 
@@ -120,19 +91,18 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 
  In addition, another possible cause of Red Dead Online crashing is your**antivirus software** . Disabling some of these services won’t always work. You can temporarily uninstall the software or add Red Dead Online to its exclusions.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Run Red Dead Online as admin
 
@@ -144,20 +114,6 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 3. Click**Apply** \>**OK** and now you can run this game as administrator permanently.
 
  Now launch Red Dead Online and see if the game crashes again. If running it as an administrator did not work, you can try the next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Update your graphics driver
 
@@ -197,19 +153,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)
 4. Restart your computer for the changes to take effect.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -225,33 +174,12 @@ OR
 ![program settings](https://images.drivereasy.com/wp-content/uploads/2021/01/manage-3d-settings.png)
 3. Turn on**Max FPS Limit** and set the value to**30** . This will lock the game to 30 FPS and will reduce CPU and GPU load.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 6: Install Graphics Tools
 
@@ -261,6 +189,14 @@ OR
 2. Click **Add a feature** .  
 ![add graphics tools](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-feature-1.jpg)
 3. Choose **Graphics Tools** from the results list.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-graphics-tool.jpg)
 4. Launch your game again to see if you can get rid of game crashes now.
 5. If not, you can go to**Graphics Settings** \>**Advanced Graphics** , and make sure**Graphics API** is set to**DirectX 12** .  
@@ -283,8 +219,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -292,4 +226,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-premium-app-list-androids-best-video-and-image-capture-for-2024/"><u>[New] Premium App List Android's Best Video & Image Capture for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-crown-jewels-the-most-liked-and-binge-watched-content/"><u>[New] Twitter's Crown Jewels The Most Liked & Binge-Watched Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfect-your-virtual-meeting-vibes-google-meet-background-tips-for-2024/"><u>[Updated] Perfect Your Virtual Meeting Vibes Google Meet Background Tips for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-stop-vray-software-from-unexpectedly-shutting-down-your-pc/"><u>Comprehensive Solutions: Stop Vray Software From Unexpectedly Shutting Down Your PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevating-your-instagram-experience-through-smart-archiving/"><u>Elevating Your Instagram Experience Through Smart Archiving</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2022-not-launching-solved/"><u>Football Manager 2022 Not Launching [SOLVED]</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-rapidly-resolve-persistent-control-program-errors/"><u>How To Rapidly Resolve Persistent Control Program Errors</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-pinterest-avatar-recording-resolution-frame-rate-length/"><u>In 2024, Pinterest Avatar Recording Resolution, Frame Rate, Length</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722986737651-pc-users-say-goodbye-to-endless-crashes-master-these-fixes-for-ascent-game/"><u>PC Users, Say Goodbye to Endless Crashes - Master These Fixes for Ascent Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-fifa-19-game-crashing-issues-on-windows/"><u>Resolved: Fixes for FIFA 19 Game Crashing Issues on Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tempo-tales-creating-engaging-music-infused-video-stories/"><u>Tempo Tales Creating Engaging Music-Infused Video Stories</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-guide-for-dev-error-code-6164-disrupting-your-shooter-gameplay-experience/"><u>Ultimate Fix Guide for Dev Error Code 6164 Disrupting Your Shooter Gameplay Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/veilig-en-gemakkelijk-kunt-u-mp4-videos-direct-online-in-mjpeg-format-omzetten-het-veertiende-beoefening-hierboven-getuigenisert-dekkingen-van-movavi/"><u>Veilig en Gemakkelijk Kunt U MP4 Video's Direct Online in MJPEG Format Omzetten, Het Veertiende Beoefening Hierboven Getuigenisert – Dekkingen Van Movavi</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Doesn't My GPU Run Cyberpunk 2077? Solutions for Windows 10 Users
-date: 2024-10-21T04:36:03.444Z
-updated: 2024-10-26T14:23:28.302Z
+date: 2024-10-30T20:09:51.238Z
+updated: 2024-11-01T09:32:51.325Z
 tags:
   - win11
   - win10
@@ -68,21 +68,28 @@ To do so, first visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
 
@@ -100,39 +107,26 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
- If this trick doesn’t solve your problem, you can continue to the next one.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If this trick doesn’t solve your problem, you can continue to the next one.
 
 ### Fix 4: Install all Windows updates
 
@@ -145,10 +139,10 @@ And it’s quite easy to check for updates:
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -176,16 +170,22 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-galaxy-s8-review-bringing-movies-to-life-with-4k/"><u>[New] Galaxy S8 Review - Bringing Movies to Life with 4K</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-10-screen-capture-tools-for-educators/"><u>[Updated] In 2024, Top 10 Screen Capture Tools for Educators</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-make-waves-in-youtube-essential-mobile-based-production-tips/"><u>[Updated] Make Waves in YouTube Essential Mobile-Based Production Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722999539113-bluestacks-stability-boosted-in-just-5-quick-and-easy-steps/"><u>BlueStacks Stability Boosted in Just 5 Quick and Easy Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-stop-starcraft-ii-from-crashing-on-your-computer/"><u>Fixes & Solutions: How to Stop Starcraft II From Crashing on Your Computer</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-gt-neo-5-se-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Realme GT Neo 5 SE Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Motorola Defy 2? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-ping-optimization-effective-strategies-for-minimizing-bless-unleashed-lags-on-your-computer/"><u>Mastering Ping Optimization: Effective Strategies for Minimizing Bless Unleashed Lags on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-game-lag-how-to-prevent-ready-or-not-from-crashing-on-different-operating-systems/"><u>Overcoming Game Lag: How to Prevent 'Ready Or Not' From Crashing on Different Operating Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/simple-steps-to-eliminate-cs-go-latency-problems/"><u>Simple Steps to Eliminate CS: GO Latency Problems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-rapid-reader-of-windows-photos-and-images/"><u>[Updated] Rapid Reader of Windows Photos & Images</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-transformative-video-creation-harness-the-trio-of-windows-photos-and-storyremix-for-2024/"><u>[Updated] Transformative Video Creation Harness the Trio of Windows, Photos, and StoryRemix for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029306278-2024/"><u>初心者でも簡単! 「2024年のビデオから静止画への変換ガイド」</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029536995-dvd/"><u>容易な手順でDVDのコピー複製をコピーガード無しで実行</u></a></li>
+<li><a href="https://win-able.techidaily.com/windowsandroidiphonegif3/"><u>最適な動画変換ツール：Windows、Android、iPhone対応で一番おすすめのGIF作成アプリトップ3</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726027761551-aviutl/"><u>AviUtlを使用したスムーズなビデオの抜粋手順</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-unmatched-speed-with-a-google-nest-wi-fi-the-ultimate-mesh-network-review/"><u>Experience Unmatched Speed with a Google Nest Wi-Fi - The Ultimate Mesh Network Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726027883227-gif/"><u>GIFアニメートをスムーズに回転させる究極のテクニック</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-blending-multiple-hdr-photographs-in-lightroom/"><u>In 2024, Expert Tips for Blending Multiple HDR Photographs in Lightroom</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-battlefield-fixing-no-sound-issues-on-pc-during-call-of-duty-warzone-gameplay-year-2abriel-here-are-five-new-seo-titles-that-convey-similar-me669/"><u>Mastering the Battlefield: Fixing No-Sound Issues on PC During Call of Duty Warzone Gameplay (Year 2Abriel: Here Are Five New SEO Titles that Convey Similar Meanings to [2024 Tips] How to Fix Warzone No Sound on PC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ry-in-mapping-out-your-youtube-audience/"><u>Mastery in Mapping Out Your YouTube Audience</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/terms-of-confidentiality-and-personal-information-security/"><u>Terms of Confidentiality and Personal Information Security</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-pewdiepies-annual-net-worth-for-2024/"><u>Understanding PewDiePie's Annual Net Worth for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-10-popular-cartoon-characters-that-should-top-your-list-2023-updated/"><u>Updated 10 Popular Cartoon Characters That Should Top Your List 2023 Updated</u></a></li>
+<li><a href="https://win-able.techidaily.com/wonderfoxs-new-location-discover-the-updated-url/"><u>WonderFox's New Location: Discover the Updated URL!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726030049539-pc/"><u>オーディオインターフェースをPCに接続して録音する効果的な方法</u></a></li>
+<li><a href="https://win-able.techidaily.com/44oe44kw44on44od44oi44oq44oz44kv44go44oi44os44oz44oi77ya44oa44km44oz44ot44o844oj44ox44ot44k744k544gu6kej6kqs/"><u>マグネットリンクとトレント：ダウンロードプロセスの解説</u></a></li>
 </ul></div>
 

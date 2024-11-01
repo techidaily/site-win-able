@@ -1,7 +1,7 @@
 ---
 title: "Fixes for Unexpected Shutdowns: Getting Your Modern Warfare 3 Game Running Smoothly Again"
-date: 2024-09-10T14:08:14.620Z
-updated: 2024-09-11T14:08:14.620Z
+date: 2024-10-30T21:52:29.705Z
+updated: 2024-11-01T07:43:21.984Z
 tags:
   - win11
   - win10
@@ -19,20 +19,6 @@ thumbnail: https://thmb.techidaily.com/4eb72915c915cf8500790273e3fd63ebe88ce7c63
 
 **Dark Souls 3 keeps crashing** on your computer? This is quite frustrating, but you’re not the only one. The good news is, you can fix Dark Souls 3 crashing quite easily. This post puts together the possible solutions for you.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to fix Dark Souls 3 crashing
 
  Here are solutions to fix Dark Souls 3 crashing on PC. You shouldn’t have to try them all; just work your way down the list until everything’s working again.
@@ -43,39 +29,18 @@ thumbnail: https://thmb.techidaily.com/4eb72915c915cf8500790273e3fd63ebe88ce7c63
 4. [Set game options to LOW](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Disable overlays for your game
 
  If there is any overlay software running when you play Dark Souls 3, it may cause game crashing on startup or freezing. It’s normal to use overlays for Steam games, but some games could be incompatible with overlay software.
 
 **Try disabling overlays for Dark Souls 3** and see if your game stops crashing.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Run in Windowed mode
 
@@ -93,20 +58,6 @@ thumbnail: https://thmb.techidaily.com/4eb72915c915cf8500790273e3fd63ebe88ce7c63
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad. Then change  
@@ -117,20 +68,6 @@ thumbnail: https://thmb.techidaily.com/4eb72915c915cf8500790273e3fd63ebe88ce7c63
  5) Save your change and restart your game.
 
  Your problem still persists, don’t worry. There are other solutions.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Update your video driver
 
@@ -176,19 +113,12 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Open**DarkSouls3** folder.
 
@@ -198,11 +128,25 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-711.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6) Save your file changes and restart your game.
 
 Then play your game to see if it works properly.
 
  Still no luck? Don’t give up hope. There’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
 
@@ -218,37 +162,16 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -266,8 +189,6 @@ Then play your game to see if it works properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -275,4 +196,22 @@ Then play your game to see if it works properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-ace-your-youtube-live-with-these-7-powerful-live-streaming-apps-iosandroid-os/"><u>[New] 2024 Approved Ace Your YouTube LIVE with These 7 Powerful Live Streaming Apps (iOS/Android OS)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-boosting-viewer-interest-with-optimal-video-thumbnail-sizes/"><u>[New] Boosting Viewer Interest with Optimal Video Thumbnail Sizes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-navigating-the-youtube-numbers-views-and-earnings-unpacked/"><u>[New] In 2024, Navigating the Youtube Numbers Views & Earnings Unpacked</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-advanced-recording-software-outshining-fbx-methods/"><u>2024 Approved Advanced Recording Software Outshining FBX Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-modern-warfare-2-on-pc-how-to-fix-fps-stutter-and-performance-drop-problems/"><u>Call of Duty: Modern Warfare 2 on PC - How to Fix FPS Stutter & Performance Drop Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defeat-fixed-menus-in-windows-your-ultimate-guide/"><u>Defeat Fixed Menus in Windows: Your Ultimate Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/ending-the-frustration-your-ultimate-fix-for-genshin-impact-error-4201/"><u>Ending the Frustration: Your Ultimate Fix for Genshin Impact Error 4201</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-arma-n-war-from-stuttering-advanced-user-guidelines/"><u>How to Prevent Arma N' War From Stuttering : Advanced User Guidelines</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-nubia-red-magic-9-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Nubia Red Magic 9 Pro to Another | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-privacy-protected-ios-data-duplication-with-two-proven-techniques/"><u>Mastering Privacy-Protected iOS Data Duplication with Two Proven Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026736450-pcmp3/"><u>PCおよびスマートフォンに応じた音楽ファイルをMP3へ変換する詳細ガイド</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-s21-fe-5g-2023-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy S21 FE 5G (2023) Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-sound-issues-in-halo-infinite-a-comprehensive-guide/"><u>Troubleshooting Common Sound Issues in Halo Infinite: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-helldivers-ii-solutions-for-steam-game-boot-up-issues/"><u>Troubleshooting Helldivers II: Solutions for Steam Game Boot-Up Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-on-guilty-gear-strive-release-addressing-fan-concerns-and-expectations/"><u>Update on Guilty Gear Strive Release - Addressing Fan Concerns & Expectations</u></a></li>
+</ul></div>
 

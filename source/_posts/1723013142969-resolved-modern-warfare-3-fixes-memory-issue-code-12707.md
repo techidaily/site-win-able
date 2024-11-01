@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Modern Warfare 3 Fixes Memory Issue Code 12707"
-date: 2024-10-20T16:23:38.693Z
-updated: 2024-10-25T18:58:54.103Z
+date: 2024-10-24T19:33:11.435Z
+updated: 2024-10-31T23:12:12.066Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/ac559d48bd17f3abbbc061aaa86ec644753f92e76
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-2-step-3.png)
 4. Restart Epic Games Launcher.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
  Run Fortnite again to check if you can log into the game or not. If it not, or there was no new game patch available, move on to Fix 2, below.
@@ -70,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/ac559d48bd17f3abbbc061aaa86ec644753f92e76
 
 See if you can log in or not. if not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Test your Internet connection speed
 
  If you still suffer from this issue after you reboot your network, you need to test your Internet connection speed first. Here is how to do it:
@@ -80,13 +94,6 @@ See if you can log in or not. if not, try the next fix, below.
 
  If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Reset Winsock data
 
 **Winsock** is a programming interface and supporting program in Windows operating system that defines how Windows network software should access network services. **R** **esetting Winsock data** may be helpful for dealing with some network connection issues. Here is how to do it:
@@ -95,21 +102,15 @@ See if you can log in or not. if not, try the next fix, below.
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-5-step-1.jpg)
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
 
@@ -125,18 +126,18 @@ See if you can log in or not. if not, try the next fix, below.
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### To renew your IP
 
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /release**  and press **Enter**  on your keyboard.  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![ipconfig release](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-release.jpg)
 3. Type the command line**ipconfig /renew**  and press **Enter**  on your keyboard.  
@@ -167,12 +168,26 @@ See if you can log in or not. if not, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Driver-Easy-Scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
 ![Update Broadcom 802.11.ac Network Adapter driver](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-Broadcom-802.11.ac-Network-Adapter-driver.png)
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Avoid wireless interference
 
@@ -182,6 +197,13 @@ See if you can log in or not. if not, try the next fix, below.
 2. Move wireless devices such as **cordless phones** or **microwave ovens** away from your router; or turn off those devices.
 
  Launch Fortnite again to see if you can log in or not. If the issue reappears, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Disable the proxy server
 
@@ -197,21 +219,7 @@ See if you can log in or not. if not, try the next fix, below.
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Change the DNS server
 
@@ -224,13 +232,6 @@ See if you can log in or not. if not, try the next fix, below.
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
 
@@ -240,24 +241,17 @@ See if you can log in or not. if not, try the next fix, below.
 ![Ethernet properties 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties-2.jpg)
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 See if you can log in or not. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 10: Close bandwidth hogging applications
 
@@ -292,17 +286,17 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-achieving-peak-picture-performance-without-dollars-for-2024/"><u>[Updated] Achieving Peak Picture Performance, Without Dollars for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-make-a-group-chat-on-skype-for-windows-and-mac-for-2024/"><u>[Updated] How to Make a Group Chat on Skype [For Windows and Mac] for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-quick-fixes-to-enhance-your-youtube-reach/"><u>[Updated] Quick-Fixes to Enhance Your YouTube Reach</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-setting-benchmarks-a-look-at-successful-igtv-videos/"><u>[Updated] Setting Benchmarks A Look at Successful IGTV Videos</u></a></li>
-<li><a href="https://win-updates.techidaily.com/automatic-windows-10-backup-and-restore-on-wd-my-cloud-file-system-included/"><u>Automatic Windows 10 Backup and Restore on WD My Cloud - File System Included</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-infinix-note-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Note 30 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ften-should-you-upload-videos-to-youtube-to-get-more-views-for-2024/"><u>How Often Should You Upload Videos to YouTube to Get More Views for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-find-x6-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo Find X6 Pro FRP Bypass</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-starfields-crashing-problem-a-detailed-solution-for-gamers/"><u>Overcome Starfield's Crashing Problem: A Detailed Solution for Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-the-persistent-wow-game-screen-tearing-problem/"><u>Resolved: How to Fix the Persistent Wow Game Screen Tearing Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-with-league-of-legends-heres-how-to-fix-your-online-connection-woes/"><u>Trouble with League of Legends? Here's How to Fix Your Online Connection Woes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fix-fifa-21-failure-to-start-issue/"><u>Troubleshooting Guide: Fix FIFA 21 Failure to Start Issue</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-elevate-your-lenovo-experience-with-advanced-capture-methods/"><u>[Updated] Elevate Your Lenovo Experience with Advanced Capture Methods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-strategizing-effective-movie-sneak-peeks/"><u>[Updated] In 2024, Strategizing Effective Movie Sneak Peeks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-15-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 15 Pro Max Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-6s-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 6s without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stuttering-in-dragons-dogma-2-strategies-for-boosting-frames-per-second-fps/"><u>Overcoming Stuttering in Dragon's Dogma 2: Strategies for Boosting Frames per Second (FPS)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-havit-nvana-5-in-one-portable-cooler-for-gaming-pcs-stay-chilled-with-adjustable-quad-fan-design/"><u>Review of HAVIT nVana 5-In-One Portable Cooler for Gaming PCs: Stay Chilled with Adjustable Quad Fan Design</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-relinking-issue-in-granblue-fantasy-a-comprehensive-guide/"><u>Solving the 'Relinking Issue' In Granblue Fantasy – A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/success-fix-guide-to-play-days-gone-on-windows-systems/"><u>Success! Fix Guide to Play Days Gone on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-lowering-cpu-usage-by-wmi-service/"><u>Tips for Lowering Cpu Usage by WMI Service</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-roblox-pc-error-code-277-essential-fixes-and-advice/"><u>Troubleshooting Roblox PC Error Code 277: Essential Fixes and Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-boost-your-splitgate-gameplay-with-higher-fps/"><u>Troubleshooting Tips: Boost Your Splitgate Gameplay with Higher FPS</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-fixing-the-blank-display-when-starting-overwatch/"><u>Troubleshooting Tips: Fixing the Blank Display when Starting Overwatch</u></a></li>
 </ul></div>
 

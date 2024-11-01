@@ -1,7 +1,7 @@
 ---
 title: Horizon Zero Dawn PC Version - How to Prevent and Fix the Crashing Problem
-date: 2024-10-21T08:27:24.028Z
-updated: 2024-10-26T15:41:15.927Z
+date: 2024-10-29T20:20:41.364Z
+updated: 2024-11-01T10:46:30.443Z
 tags:
   - win11
   - win10
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets the system requirements for Ashen
@@ -91,35 +91,14 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Repair the game
 
@@ -144,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Perform a Windows Update
 
  You also need to make sure that Microsoft Visual C++ Redistributable and Microsoft .NET Framework are not missing or corrupted, because if some of the system files are missing or corrupted, you may also run into the Ashen crash issue.
@@ -154,14 +140,14 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and install them on your PC.
 
@@ -180,6 +166,13 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Use a reduced settings profile for graphics related features
 
  If your PC fails to meet the recommended system requirements for Ashen, you should use a reduced settings profile for graphics related features, because higher settings will increase the workload for your PC, which may even lead to the game crash issues.
@@ -187,6 +180,13 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Optimize your graphics card settings
 
@@ -207,16 +207,23 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
@@ -236,13 +243,6 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
@@ -257,18 +257,18 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
  Run Ashen again to see if the game will crash. If not, congratulations! You’ve resolved this issue; if this issue persists, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Add Ashen as an exception to your 3rd party antivirus software
 
@@ -298,20 +298,18 @@ Select your graphics card manufacturer first:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-experience-classic-ps1-games-with-leading-emulators/"><u>[New] Experience Classic PS1 Games with Leading Emulators</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-obs-studio-excellence-the-top-5-editing-strategies/"><u>[Updated] In 2024, OBS Studio Excellence The Top 5 Editing Strategies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/elevate-hd-audiovideo-on-your-android-device-with-top-players/"><u>Elevate Hd Audio/Video on Your Android Device with Top Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/fallout-navigating-low-fps-issues-and-enhancing-gameplay-speed-tips/"><u>Fallout Navigating Low FPS Issues and Enhancing Gameplay Speed - Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-sims-4-lagging-on-pc-pro-tips-2024/"><u>How to Fix Sims 4 Lagging on PC – Pro Tips 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-keep-your-powerpoint-content-current-an-easy-update-guide/"><u>How to Keep Your PowerPoint Content Current: An Easy Update Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-top-free-sources-discovering-copyright-free-soundtracks/"><u>In 2024, The Top Free Sources Discovering Copyright-Free Soundtracks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/investigating-heat-management-issues-in-the-new-iphone-15-pro-series/"><u>Investigating Heat Management Issues in the New iPhone 15 Pro Series</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximizing-fun-overcoming-lag-and-fps-drops-in-forza-horizon-5-on-pc-setup/"><u>Maximizing Fun: Overcoming Lag and FPS Drops in Forza Horizon 5 on PC Setup</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-start-up-issues-with-pathfinder-wrath-of-the-righteous-a-comprehensive-troubleshooting-guide/"><u>Overcoming Start-Up Issues with Pathfinder: Wrath of the Righteous - A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/quality-tech-for-gamers-achieve-new-heights/"><u>Quality Tech for Gamers: Achieve New Heights</u></a></li>
-<li><a href="https://win-able.techidaily.com/sid-meiers-civ6-constant-disruptions-solved-top-tech-tweaks-and-adjustments-revealed/"><u>Sid Meier's Civ6 Constant Disruptions Solved: Top Tech Tweaks & Adjustments Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-understanding-and-resolving-two-point-decrease-in-frame-rate-on-pc-platforms/"><u>Solved: Understanding and Resolving Two-Point Decrease in Frame Rate on PC Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-lag-issues-effective-techniques-to-reduce-your-back-4-blood-gameplay-latency/"><u>Solving Lag Issues: Effective Techniques to Reduce Your 'Back 4 Blood' Gameplay Latency</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-mystique-of-aether-an-introduction-and-guide-on-becoming-an-active-member/"><u>The Mystique of Aether: An Introduction & Guide on Becoming an Active Member</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-premium-vector-graphics-the-ultimate-10-site-list/"><u>[New] Premium Vector Graphics The Ultimate 10 Site List</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-reducing-auditory-intensity-with-careful-adjustments-in-logic-pro/"><u>[Updated] 2024 Approved Reducing Auditory Intensity with Careful Adjustments in Logic Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-enhancing-viewership-with-informative-youtube-video-captions/"><u>[Updated] In 2024, Enhancing Viewership with Informative YouTube Video Captions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professional-moving-less-imagery-tips/"><u>[Updated] Professional Moving-Less Imagery Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-repair-a-non-responsive-nvidia-overlay-on-your-computer-screen/"><u>How to Repair a Non-Responsive Nvidia Overlay on Your Computer Screen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-pop-7-pro-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Pop 7 Pro</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-to-resolve-winwordexe-crashes/"><u>Quick Solutions to Resolve WINWORD.EXE Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-resolving-constant-kodi-crash-issues/"><u>Troubleshooting and Resolving Constant Kodi Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-when-scavengers-keeps-crashing-on-your-computer/"><u>Ultimate Fixes When Scavengers Keeps Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-playbook-the-complete-2024-guide-to-roller-champions-crossplay-on-pc/"><u>Ultimate Playbook: The Complete 2024 Guide to Roller Champions Crossplay on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-integration-of-xbox-live-gold-into-game-pass/"><u>Understanding the Integration of Xbox Live Gold Into Game Pass</u></a></li>
 </ul></div>
 

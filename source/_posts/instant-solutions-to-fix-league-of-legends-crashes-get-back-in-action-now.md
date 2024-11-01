@@ -1,7 +1,7 @@
 ---
 title: Instant Solutions to Fix League of Legends Crashes – Get Back in Action Now
-date: 2024-10-18T22:24:39.958Z
-updated: 2024-10-26T03:59:01.030Z
+date: 2024-10-26T02:02:14.928Z
+updated: 2024-10-31T20:37:59.049Z
 tags:
   - win11
   - win10
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
@@ -94,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -110,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -130,16 +130,10 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -163,10 +157,10 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
@@ -181,16 +175,16 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -214,18 +208,24 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-chart-toppers-unveiled-top-youtube-stars-and-their-subs/"><u>[Updated] In 2024, Chart-Toppers Unveiled Top YouTube Stars and Their Subs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-harmonic-hits-how-to-choose-the-perfect-song-for-ig-videos/"><u>[Updated] In 2024, Harmonic Hits How to Choose the Perfect Song for IG Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-nikon-1-j5-4k-camera-review/"><u>[Updated] In 2024, Nikon 1 J5 4K Camera Review</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-examining-the-tech-in-djis-phantom-3-prototype/"><u>2024 Approved Examining the Tech in DJI's Phantom 3 Prototype</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-game-glitches-eliminate-fifa-20-crashing-issues-on-pc-for-good/"><u>Conquer Game Glitches: Eliminate FIFA 20 Crashing Issues on PC for Good</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011430592-cyberpunk-n77s-solution-to-eliminate-black-screen-error-successfully/"><u>Cyberpunk N77's Solution to Eliminate Black Screen Error Successfully</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-advice-on-where-to-place-your-ps4-camera-for-the-best-experience/"><u>Expert Advice on Where to Place Your PS4 Camera for the Best Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2022-wont-start-heres-how-to-get-past-the-launch-blockade-fixed/"><u>Football Manager 2022 Won't Start? Here’s How to Get Past the Launch Blockade - Fixed</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/navigating-fb-stories-downloads-top-5-tips-for-all-devices/"><u>Navigating FB Stories Downloads Top 5 Tips for All Devices</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-nokia-g310-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Nokia G310.</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-how-to-fix-a-non-functional-discord-webcam/"><u>Troubleshooting Steps: How to Fix a Non-Functional Discord Webcam</u></a></li>
-<li><a href="https://win-able.techidaily.com/twitch-streaming-issue-overcoming-mute-challenges-successfully/"><u>Twitch Streaming Issue - Overcoming Mute Challenges Successfully</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-effortless-strategy-deleting-dislikes-from-youtube-discussions/"><u>[New] In 2024, Effortless Strategy Deleting Dislikes From YouTube Discussions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-sparking-interest-with-the-top-8-most-effective-youtube-thumbnails/"><u>[Updated] In 2024, Sparking Interest with the Top 8 Most Effective YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unlocking-google-chromes-pip-potential-on-all-platforms/"><u>[Updated] Unlocking Google Chrome's PIP Potential on All Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/aiffm4a/"><u>「一発でAIFFファイルをM4A形式へのスムーズな変換ガイド」</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-zoom-practices-for-chromebook-users/"><u>2024 Approved Advanced Zoom Practices for Chromebook Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-screen-capture-software-of-the-year-our-selection-for-mac-and-windows-users/"><u>Best Screen Capture Software of the Year: Our Selection for Mac and Windows Users!</u></a></li>
+<li><a href="https://win-able.techidaily.com/bulk-conversion-of-soundcloud-tracks-to-wav-format-a-step-by-step-guide/"><u>Bulk Conversion of SoundCloud Tracks to WAV Format: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/determining-the-optimal-speed-for-your-personal-computer/"><u>Determining the Optimal Speed for Your Personal Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/download-private-facebook-videos-legally-a-comprehensive-guide/"><u>Download Private Facebook Videos Legally : A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-conversion-tips-for-switching-from-caf-to-aacm4a-audio-files/"><u>Easy Conversion Tips for Switching From CAF to AAC/M4A Audio Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-methods-for-converting-mpgmp3-to-high-quality-h264-video/"><u>Efficient Methods for Converting MPG/MP3 to High-Quality H.264 Video</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-techniques-for-burning-cds-using-windows-media-player-in-windows-11/"><u>Efficient Techniques for Burning CDs Using Windows Media Player in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficiently-integrating-xavc-s-video-files-with-davinci-resolve-step-by-step-fixes/"><u>Efficiently Integrating XAVC S Video Files with DaVinci Resolve - Step by Step Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-downloads-mastering-the-art-of-saving-gfycat-gifs-in-just-four-steps/"><u>Effortless Downloads: Mastering the Art of Saving Gfycat GIFs in Just Four Steps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210768168-9781644616406-horoscopo-simple-y-facil/"><u>Horóscopo simple y fácil | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/impending-scarcity-of-skilled-programmers-warnings-by-top-salesforce-official-echoed-across-silicon-valley-zdnets-deep-dive/"><u>Impending Scarcity of Skilled Programmers, Warnings by Top Salesforce Official Echoed Across Silicon Valley - ZDNet's Deep Dive</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-7-best-zero-cost-web-based-film-makers/"><u>In 2024, 7 Best Zero-Cost Web-Based Film Makers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/iseebell-video-doorbell-review-a-sub-50-video-doorbell/"><u>IseeBell Video Doorbell Review: A Sub $50 Video Doorbell</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-2024-how-to-overcome-and-resolve-game-launch-failures-quickly-and-easily/"><u>PUBG 2024 - How to Overcome and Resolve Game Launch Failures Quickly & Easily</u></a></li>
 </ul></div>
 

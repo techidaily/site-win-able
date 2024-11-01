@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solutions: Eliminating Erroneous Graphics Glitches in Rust Coding"
-date: 2024-09-10T14:08:14.912Z
-updated: 2024-09-11T14:08:14.912Z
+date: 2024-10-27T09:23:31.469Z
+updated: 2024-11-01T03:03:53.642Z
 tags:
   - win11
   - win10
@@ -32,19 +32,12 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Recommended system requirements for Fortnite
 
@@ -57,19 +50,18 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **20 GB**                                                    |
 | **DirectX**          | **DirectX 11.0**                                             |
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -84,39 +76,11 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Method 1: Lower graphics settings
 
  It is possible that the black screen issue occurs because of your graphics card cannot capable the high settings in the game or the game and your graphics card are not compatible with the latest build that you’re using. So try to lower graphics settings in Fortnite to see whether it resolves this problem or not.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Method 2: Use compatibility mode
 
@@ -127,29 +91,16 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method: Update your graphics card
 
@@ -186,26 +137,6 @@ OR
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Method 4: Use your integrated graphics card
 
  If you have the latest and corrected drivers and have two graphics cards on your PC, you can try this method to fix the problem. Use your integrated graphics card to run Fortnite has reported as a useful method to deal with the Fortnite black screen problem.
@@ -221,9 +152,24 @@ OR
 1. Right-click on your desktop screen.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display.jpg)
 2. In the Display tab, find Scale and layout.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 6: Unblock the game from Windows Firewall
 
@@ -233,44 +179,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall0.jpg)
 2. Click**Allow an app through firewall** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -286,8 +207,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -295,4 +214,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-a-comparative-study-of-top-10-low-cost-video-meeting-platforms-in-the-enterpriseedu-market-for-2024/"><u>[New] A Comparative Study of Top 10 Low-Cost Video Meeting Platforms in the Enterprise/Edu Market for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-pathway-to-seamless-integration-of-voice-inputs-in-powerpoint-presentations/"><u>[Updated] In 2024, The Pathway to Seamless Integration of Voice Inputs in PowerPoint Presentations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-zooming-into-success-mastering-online-presentations/"><u>[Updated] In 2024, Zooming Into Success Mastering Online Presentations</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-phasmophobia-crashes-essential-troubleshooting-guide-for-gamers-in-202/"><u>Fixing Phasmophobia Crashes: Essential Troubleshooting Guide for Gamers in 202#!</u></a></li>
+<li><a href="https://win-able.techidaily.com/la-noire-now-available-for-pc-release-issue-resolved/"><u>L.A. Noire Now Available for PC - Release Issue Resolved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-startup-errors-in-witcher-3-wild-hunt-effective-solutions-guide/"><u>Overcoming Startup Errors in Witcher 3: Wild Hunt – Effective Solutions Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/reel-in-real-time-the-top-5-innovative-recorder-apps-for-browsers/"><u>Reel in Real-Time The Top 5 Innovative Recorder Apps for Browsers</u></a></li>
+<li><a href="https://win-able.techidaily.com/rescue-your-adventure-in-diablo-2-resurrected-a-guide-to-resolving-game-freezes-and-crashes/"><u>Rescue Your Adventure in Diablo 2 Resurrected - A Guide to Resolving Game Freezes and Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-warframe-boot-up-expert-tips-to-launch-your-adventure/"><u>Trouble with Warframe Boot-Up? Expert Tips to Launch Your Adventure</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-poco-f5-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Poco F5 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-is-my-minecraft-in-the-library-mode-solving-noise-problems-for-gamers/"><u>Why Is My Minecraft in the Library Mode? Solving Noise Problems for Gamers</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/wie-man-die-datensicherung-auf-der-buffalo-cloud-mithilfe-einer-allmahlichen-anleitung-einrichtet/"><u>Wie Man Die Datensicherung Auf Der Buffalo Cloud Mithilfe Einer Allmählichen Anleitung Einrichtet</u></a></li>
+</ul></div>
 

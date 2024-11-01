@@ -1,7 +1,7 @@
 ---
 title: Horizon Zero Dawn PC Performance Errors Fixed – No More Crashes
-date: 2024-09-10T14:08:14.601Z
-updated: 2024-09-11T14:08:14.601Z
+date: 2024-10-25T19:00:55.463Z
+updated: 2024-11-01T00:26:41.469Z
 tags:
   - win11
   - win10
@@ -52,20 +52,6 @@ thumbnail: https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a
 
  If your rigs are powerful enough for the game, you can move on to the next fix.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 2: Verify game files on Steam
 
  The constant crashes may indicate an integrity issue with your game files (It’s not a surprising problem, especially with AAA titles that take up almost 100GB of your disk). You can follow these steps to check:
@@ -74,18 +60,12 @@ thumbnail: https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hzd-verify-game-1.jpg)
 2. In the pop-up window, navigate to the**LOCAL FILES** tab and select**VERIFY INTEGRITY OF GAME FILES…** . Then wait for the checking to complete.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hzd-verify-game-2.jpg)
 
@@ -117,19 +97,6 @@ Once done, launch Horizon Zero Dawn and check if it crashes again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -138,6 +105,19 @@ Once done, launch Horizon Zero Dawn and check if it crashes again.
  Once you’ve updated your graphics driver, restart your PC and see if Horizon Zero Dawn crashes again.
 
  If updating the graphics driver didn’t stop the crash, you can continue to the next trick.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable in-game overlays
 
@@ -150,37 +130,29 @@ And here’s a quick guide to disable Steam overlay:
 2. From the left menu, select**In-Game** . Under the**Steam Overlay** section, uncheck these boxes. Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Now you can start Horizon Zero Dawn and see if it crashes again.
 
  If this method doesn’t give you luck, simply check out the next one.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Install all Windows updates
 
@@ -192,38 +164,11 @@ So here’s how to check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Then wait for Windows to download and install available updates.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  If this trick doesn’t work for you, simply move on to the next one.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 6: Change in-game display mode
 
@@ -235,21 +180,15 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hzd-display-mode-1.jpg)
 2. Navigate to the**DISPLAY** tab and set**Display mode** to**Borderless** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hzd-display-mode-2.jpg)
 3. Restart your game and test the gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this solution doesn’t help, you can continue to the next one below.
 
@@ -263,75 +202,31 @@ You can use this guide to increase your virtual memory:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Uncheck the box next to **Automatically manage paging file size for all drives** . Then select **Customize size** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/virtual-memory-03.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Reboot your PC and check if Horizon Zero Dawn crashes again.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 If the crash reoccurs, you can take a look at the next fix.
 
@@ -346,23 +241,18 @@ And here’s how to enable HAGS:
 1. In the empty area of your desktop, right-click and select**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the**Multiple displays** section, click**Graphics settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the**Default settings** section, click**Change default graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC and launch**Horizon Zero Dawn** .
@@ -377,8 +267,6 @@ And here’s how to enable HAGS:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -386,4 +274,24 @@ And here’s how to enable HAGS:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/2024-approved-expert-guide-to-android-time-lapse-video-magic/"><u>2024 Approved Expert Guide to Android Time-Lapse Video Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-ordinary-unboxings-into-viral-phenomena-on-insta/"><u>2024 Approved Transform Ordinary Unboxings Into Viral Phenomena on Insta</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-ways-to-rewind-a-twitch-live-stream/"><u>5 Ways to Rewind A Twitch Live Stream</u></a></li>
+<li><a href="https://extra-information.techidaily.com/color-perfection-interface-for-2024/"><u>Color Perfection Interface for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fixes-to-resolve-persistent-gameplay-interruptions-in-elex-ii/"><u>Comprehensive Fixes to Resolve Persistent Gameplay Interruptions in Elex II</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dji-phantom-4-pro-v-20-review-a-few-feet-from-perfection/"><u>DJI Phantom 4 Pro V. 2.0 Review: A Few Feet From Perfection</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-the-persistent-deathloop-not-opening-error-message/"><u>Effective Fixes for the Persistent 'Deathloop Not Opening' Error Message</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-mac-recording-software-for-productivity-for-2024/"><u>Essential Mac Recording Software for Productivity for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-steps-rectifying-lib4eay32dll-error-messages-and-problems/"><u>Essential Steps: Rectifying lib4eay32.dll Error Messages and Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-fall-guys-game-running-smoothly-again-overcoming-launch-problems/"><u>Get Your 'Fall Guys' Game Running Smoothly Again - Overcoming Launch Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-performance-lags-in-forza-horizon-5/"><u>How To Resolve Performance Lags In Forza Horizon 5?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-why-recuva-stands-out-as-the-premier-deleted-file-recovery-solution/"><u>In-Depth Analysis: Why Recuva Stands Out as the Premier Deleted File Recovery Solution</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-17-background-eradication-software-reviews/"><u>Prime 17 Background Eradication Software Reviews</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-you-dont-have-authorization-to-play-in-fortnite-troubleshooting-guide/"><u>Resolving 'You Don't Have Authorization to Play' In Fortnite - Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-how-to-overcome-the-cannot-reach-live-config-servers-issue/"><u>Solution Steps: How to Overcome the 'Cannot Reach Live Config Servers' Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-guide-overcoming-common-errors-with-the-apex-legends-engine/"><u>Ultimate Fix Guide: Overcoming Common Errors with the Apex Legends Engine</u></a></li>
+<li><a href="https://win-able.techidaily.com/zombie-army-4-on-pc-now-stable-after-fixing-the-infamous-game-crash/"><u>Zombie Army 4 on PC Now Stable After Fixing the Infamous Game Crash</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Low Ping & Smooth Play: A Step-by-Step CS2 Fix"
-date: 2024-10-20T01:36:34.208Z
-updated: 2024-10-26T05:20:04.539Z
+date: 2024-10-25T23:41:05.220Z
+updated: 2024-10-31T20:33:58.146Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
  After confirming your PC is good enough for Minecraft, then go ahead with the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -69,8 +62,22 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/browse.jpg)
 4. Then click**Options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Minecraft-options-1.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-3.jpg)
 
@@ -81,13 +88,6 @@ If this solution doesn’t help, continue with the next fix below.
 ## Fix 2: Update your graphics driver
 
  Minecraft is a graphics-intensive game, so your graphics card is essential for its performance. You cannot have an outdated or faulty driver on your graphics card since this is usually what causes stuttering in Minecraft. To update your graphics driver, there are two ways you can try: manually and automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -136,6 +136,21 @@ But if it doesn’t, take a look at the next fix.
 
  Sometimes the stuttering issue might occur due to a frame rate discrepancy between the monitor and GPU. But luckily you can fix it by enabling VSync in your graphics control panel.
 
+### Via NVIDIA Control Panel
+
+1. Right-click your desktop and select**NVIDIA Control Panel** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-control-panel.jpg)
+2. In the left panel, select**Manage 3D Settings** , then click the dropdown menu next to**Vertical sync** and select**On** . Click**Apply** to save changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-on-vsync.jpg)
+
 <!-- affiliate ads begin -->
 <span id="2135472">
 					<video width="864" height="1536" style="cursor:pointer"
@@ -149,12 +164,25 @@ But if it doesn’t, take a look at the next fix.
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-### Via NVIDIA Control Panel
+### Via AMD Radeon Settings
 
-1. Right-click your desktop and select**NVIDIA Control Panel** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-control-panel.jpg)
-2. In the left panel, select**Manage 3D Settings** , then click the dropdown menu next to**Vertical sync** and select**On** . Click**Apply** to save changes.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-on-vsync.jpg)
+1. Right-click your desktop and select**AMD Radeon Settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/amdradeon-settings.jpg)
+2. Click the**Gaming** Tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-gaming-1.jpg)
+3. Then click**Global Settings** .  
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-global-settings-1.jpg)
+4. Click**Wait for Vertical Refresh** , then select**Enhanced Sync** from the dropdown menu.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/enhanced-sync-1.jpg)
 
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
@@ -163,21 +191,16 @@ But if it doesn’t, take a look at the next fix.
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-### Via AMD Radeon Settings
-
-1. Right-click your desktop and select**AMD Radeon Settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/amdradeon-settings.jpg)
-2. Click the**Gaming** Tab.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-gaming-1.jpg)
-3. Then click**Global Settings** .  
-
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-global-settings-1.jpg)
-4. Click**Wait for Vertical Refresh** , then select**Enhanced Sync** from the dropdown menu.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/enhanced-sync-1.jpg)
-
  After you’ve done these, relaunch Minecraft to check if the stuttering persists.
 
 If enabling Vsync didn’t do the trick, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Turn off threaded optimization
 
@@ -187,17 +210,17 @@ If enabling Vsync didn’t do the trick, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-control-panel.jpg)
 2. In the left panel, click**Manage 3D settings** , navigate to the**Program Settings** tab, and select**Minecraft Launcher.exe** from the first dropdown menu.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step1.jpg)
 3. Scroll down to the bottom of the list and find the**Threaded optimization** , then click the dropdown menu next to it and**change the value from Auto to Off** . Click**Apply** to save changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After doing so, restart Minecraft and check if the problem is resolved.
 
@@ -211,19 +234,6 @@ If the stuttering issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Installations1.jpg)
 2. Click the**three dots** button next to Minecraft, then select**Edit** from the dropdown menu.  
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/edit.jpg)
 3. Click**MORE OPTIONS** .  
 
@@ -231,13 +241,6 @@ If the stuttering issue remains, try the next fix.
 4. Under the**JVM ARGUMENTS** section, there’s a line of text. **Change the amount of RAM that Minecraft can utilize after Xmx** (for example, Xmx4G means Minecraft is allowed to use 4GB RAM). Then click**Save** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/4g-save.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch Minecraft and see if this helps fix the stuttering.
 
@@ -248,13 +251,6 @@ If this solution doesn’t work, take a look at the next fix.
  OptiFine is a Minecraft optimization mod, which allows the game to run faster and look better. However, it consumes some resources and may cause the stuttering issue. To see if that’s the case for you, you can try uninstalling OptiFine.
 
  If the stuttering issue remains after uninstalling OptiFine, check out the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 8: Reinstall Minecraft
 
@@ -281,22 +277,20 @@ If this solution doesn’t work, take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-crafting-the-ideal-drone-lipo-energy-allies/"><u>[New] Crafting the Ideal Drone - LiPo Energy Allies</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-eye-candy-for-digital-performances/"><u>[New] Ultimate Eye Candy for Digital Performances</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-smooth-start-gradual-appearance/"><u>[Updated] Smooth Start Gradual Appearance</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/id-and-ios-leaders-in-asmr-content-for-2024/"><u>Android & iOS Leaders in ASMR Content for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/bargain-hunting-4-reasons-to-pass-on-ps5/"><u>Bargain Hunting? 4 Reasons to Pass on PS5</u></a></li>
-<li><a href="https://fox-info.techidaily.com/chat-commander-the-ultimate-guide-to-text-from-voice/"><u>Chat Commander The Ultimate Guide to Text From Voice</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-and-repairing-audacitys-code-9999-on-pcs/"><u>Diagnosing and Repairing Audacity's Code 9999 on PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-to-microsoft-edges-exe-error-problem-on-windows-devices/"><u>Expert Solutions to Microsoft Edge's .exe Error Problem on Windows Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-stop-snowrunner-from-continuously-crashing-on-your-pc/"><u>Fixes & Solutions: How to Stop SnowRunner From Continuously Crashing on Your PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-alter-another-persons-password-in-the-windows-operating-system/"><u>How To Alter Another Person’s Password in the Windows Operating System</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-solve-assassins-creed-odyssey-stuttering-issues-in-pc-gaming-2024-updates/"><u>How to Solve Assassin's Creed Odyssey Stuttering Issues in PC Gaming (2024 Updates)</u></a></li>
-<li><a href="https://win-able.techidaily.com/immediate-solutions-for-your-kernelbasedll-file-malfunctions-get-started-here/"><u>Immediate Solutions for Your KernelBase.dll File Malfunctions - Get Started Here!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-heart-of-iron-iv-malfunctioning-issues-expert-advice-and-fixes/"><u>Resolving Heart of Iron IV Malfunctioning Issues - Expert Advice & Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-cod-black-ops-cold-war-glitch-tips-for-handling-code-80070057/"><u>Solving Cod: Black Ops Cold War Glitch: Tips for Handling Code 80070057</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-principle-of-operation-involving-charging-particles-and-collecting-them-on-plates-with-an-opposite-charge/"><u>The Principle of Operation Involving Charging Particles and Collecting Them on Plates with an Opposite Charge</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-fix-fallout-3-crashes-in-windows-10/"><u>Troubleshooting Guide: How to Fix Fallout 3 Crashes in Windows 10</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/xtract-unlimited-photographic-content-from-esteemed-4-video-channels-for-2024/"><u>[New] Extract Unlimited Photographic Content From Esteemed 4 Video Channels for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-precision-in-visuals-navigating-srgb-and-rgb/"><u>[New] Precision in Visuals Navigating Srgb & Rgb</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ranking-the-best-third-place-recording-tools-for-ipad/"><u>[New] Ranking the Best Third-Place Recording Tools for iPad</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-symphony-in-softness-playback-reduction-guide/"><u>[Updated] 2024 Approved Symphony in Softness Playback Reduction Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-disappearing-playback-problem-on-sony-a6400/"><u>[Updated] 2024 Approved The Disappearing Playback Problem on Sony A6400</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-ranked-independent-offline-mobile-gaming-android/"><u>[Updated] In 2024, Top-Ranked Independent Offline Mobile Gaming (Android)</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-latency-lag-a-guide-to-fixing-v-rising-gameplay-interruptions-on-pcs/"><u>Eliminate Latency Lag: A Guide to Fixing V Rising Gameplay Interruptions on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-code-130-on-steam-heres-how-to-get-it-running-smoothly-again/"><u>Error Code 130 on Steam? Here's How to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-completed-reconnecting-to-steams-gaming-network-seamlessly/"><u>Fix Completed: Reconnecting to Steam's Gaming Network Seamlessly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-6-plus-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus with/without SIM Card</u></a></li>
+<li><a href="https://win-able.techidaily.com/start-menu-not-working-in-windows-10-solved/"><u>Start Menu Not Working in Windows 10 [Solved]</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-when-minecraft-wont-start-properly/"><u>Step-by-Step Solution for When Minecraft Won't Start Properly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-to-overcome-device-not-compatible-with-miracast-issue/"><u>Top Strategies to Overcome 'Device Not Compatible with Miracast' Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-persona-3-fe-pc-game-crashes/"><u>Troubleshooting Steps: Resolving Persona 3 FE PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-players-unable-to-open-league-of-legends/"><u>Troubleshooting Tips for Players Unable to Open League of Legends</u></a></li>
 </ul></div>
 

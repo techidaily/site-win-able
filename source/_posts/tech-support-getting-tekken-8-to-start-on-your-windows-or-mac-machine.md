@@ -1,7 +1,7 @@
 ---
 title: "Tech Support: Getting Tekken 8 to Start on Your Windows or Mac Machine"
-date: 2024-09-10T14:08:10.740Z
-updated: 2024-09-11T14:08:10.740Z
+date: 2024-10-27T08:51:31.535Z
+updated: 2024-11-01T09:32:05.431Z
 tags:
   - win11
   - win10
@@ -30,6 +30,19 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -49,39 +62,18 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 2: Verify the game files
 
@@ -91,22 +83,16 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -115,20 +101,6 @@ The outdated or broken graphics driver often crashes the game.
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 4: Disable Steam Overlay
 
@@ -139,35 +111,14 @@ The outdated or broken graphics driver often crashes the game.
 2. Uncheck**Enable Steam Overlay while in-game** .  
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 5: Set launch options on Steam
 
@@ -177,23 +128,23 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 6: Stop overclocking
 
@@ -216,8 +167,6 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -225,4 +174,18 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-boost-your-gaming-presence-with-easy-and-cost-effective-character-voice-alteration-in-free-fire/"><u>2024 Approved Boost Your Gaming Presence with Easy and Cost-Effective Character Voice Alteration in Free Fire</u></a></li>
+<li><a href="https://win-able.techidaily.com/deciphering-the-hold-up-a-closer-look-at-why-the-ascent-is-not-releasing-sooner/"><u>Deciphering The Hold-Up: A Closer Look at Why 'The Ascent' Is Not Releasing Sooner</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-for-a-smooth-fallout-3-experience-on-modern-windows-systems/"><u>Essential Tips for a Smooth Fallout 3 Experience on Modern Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fix-guide-addressing-skyline-cities-2-pc-glitches-efficiently/"><u>Expert Fix Guide: Addressing Skyline Cities 2 PC Glitches Efficiently</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-itunes-how-to-correct-errors-found-in-audio-settings/"><u>Fixing iTunes: How to Correct Errors Found in Audio Settings</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-14-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone 14 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://discover-data.techidaily.com/iphone-voice-memoes-batch-import-to-pc-iphone/"><u>IPhone Voice Memoes Batch Import to PC - 快速轻松导入iPhone预测文件</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterclass-navigating-zooms-video-broadcasting-features-for-2024/"><u>Masterclass Navigating Zoom's Video Broadcasting Features for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-ark-survival-evolved-performance-pro-tips-for-achieving-the-fastest-frame-rate-on-pc/"><u>Mastering ARK: Survival Evolved Performance - Pro Tips for Achieving the Fastest Frame Rate on PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/story-2-the-permaculture-garden-misunderstanding/"><u>Story 2: The Permaculture Garden Misunderstanding</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-for-educators-maximizing-its-classroom-potential-for-2024/"><u>YouTube for Educators Maximizing Its Classroom Potential for 2024</u></a></li>
+</ul></div>
 

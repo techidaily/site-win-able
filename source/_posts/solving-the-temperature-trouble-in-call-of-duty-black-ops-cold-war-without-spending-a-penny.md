@@ -1,7 +1,7 @@
 ---
 title: "Solving the Temperature Trouble in Call of Duty: Black Ops Cold War Without Spending a Penny"
-date: 2024-10-18T23:59:11.562Z
-updated: 2024-10-26T10:38:42.249Z
+date: 2024-10-25T04:42:02.792Z
+updated: 2024-10-31T16:12:02.643Z
 tags:
   - win11
   - win10
@@ -58,10 +58,10 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
  If you’re confident with your gaming rig, simply continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Change Display Mode
@@ -77,6 +77,13 @@ You can do it with only 2 steps:
 
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  When you’re experiencing FPS drops during gameplay, nine times out of ten you’re using a**faulty or outdated graphics driver** . That’s also why we recommend gamers to always keep their graphics driver up to date. Driver updates come with not only bug fixes but improvements of compatibility with new titles.
@@ -88,15 +95,15 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -105,10 +112,10 @@ You can do it with only 2 steps:
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
@@ -120,13 +127,6 @@ And it’s quite easy to update too:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Settings** app. Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
@@ -143,13 +143,6 @@ And it’s quite easy to update too:
 
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Change your power plan to Ultimate Performance
 
  Microsoft has added a new power plan called “**Ultimate Performance** ” to Windows 10 April 2018 Update. This plan aims to fully exploit the potential of your computer, so it might be a solution to your FPS dropping issue.
@@ -162,6 +155,13 @@ Here’s how to enable this power plan:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
@@ -190,20 +190,20 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-deep-dive-into-digital-platform-wealth-dailymotion-and-youtube-comparison/"><u>[New] In 2024, A Deep-Dive Into Digital Platform Wealth Dailymotion & YouTube Comparison</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-maximize-your-payload-top-10-drone-giants/"><u>[Updated] In 2024, Maximize Your Payload Top 10 Drone Giants</u></a></li>
-<li><a href="https://win-able.techidaily.com/eradicate-your-call-of-duty-global-offensive-lag-in-minutes/"><u>Eradicate Your Call of Duty: Global Offensive Lag in Minutes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2023-update-successfully-resolves-launch-problems/"><u>Football Manager 2023 Update Successfully Resolves Launch Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/free-logitech-g-prodigy-g403-mouse-drivers-and-latest-updates-for-windows/"><u>Free Logitech G Prodigy (G403) Mouse Drivers & Latest Updates for Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-sync-ps4-controller-easy-guide/"><u>How to Sync PS4 Controller - Easy Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-spin-the-web-advanced-tips-for-video-orientation-in-youtube/"><u>In 2024, Spin the Web Advanced Tips for Video Orientation in YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-sound-settings-resolving-zero-acoustics-in-your-twitch-livestream-setup/"><u>Mastering Sound Settings: Resolving Zero Acoustics in Your Twitch Livestream Setup</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-successfully-solving-your-fortnite-technical-problems-easily/"><u>PC Gaming Successfully: Solving Your Fortnite Technical Problems Easily</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-trouble-solving-problems-when-your-thaumaturge-software-wont-start-up-correctly/"><u>PC Trouble: Solving Problems When Your Thaumaturge Software Won't Start Up Correctly</u></a></li>
-<li><a href="https://win-special.techidaily.com/secure-your-data-with-synologys-encryption-features-a-simple-guide-using-hyper-backup/"><u>Secure Your Data with Synology's Encryption Features: A Simple Guide Using Hyper Backup</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-dota-2-crashing-for-good-expert-fix-tips-and-techniques/"><u>Stop Dota 2 Crashing for Good – Expert Fix Tips & Techniques</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-techniques-for-mending-damaged-jpeg-files-with-proven-tools/"><u>Ultimate Techniques for Mending Damaged JPEG Files with Proven Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-the-power-of-measure-app-on-android-a-comprehensive-guide/"><u>Unlock the Power of Measure App on Android - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-step-financial-forecasting-assessing-revenue-from-googles-platform-youtube-for-2024/"><u>[New] 3-Step Financial Forecasting Assessing Revenue From Google's Platform, YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevating-live-play-with-professional-gear-lists-for-2024/"><u>[New] Elevating Live Play with Professional Gear Lists for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-profit-potentials-in-producing-product-centric-youtube-clips/"><u>[Updated] Profit Potentials in Producing Product-Centric YouTube Clips</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-comprerancial-guide-to-building-an-influential-online-following/"><u>[Updated] The Comprerancial Guide to Building an Influential Online Following</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-15-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 15 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/erfolgreiches-recovery-von-geloschten-photoshop-dateien-mit-myrecover-expertenanleitung/"><u>Erfolgreiches Recovery Von Gelöschten Photoshop-Dateien Mit MyRecover - Expertenanleitung</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013870246-escape-from-tarkov-server-problems-fixing-your-connection-lost-glitch-now/"><u>Escape From Tarkov Server Problems? Fixing Your Connection Lost Glitch Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-ultra-low-download-speeds-on-utorrent-a-comprehensive-guide/"><u>Fixing Ultra-Low Download Speeds on uTorrent: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-and-prevent-scavengers-from-crashing-on-your-pc/"><u>How to Fix and Prevent 'Scavengers' From Crashing on Your PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-x-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone X? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-pro-streamers-compendium-essential-livestream-software-and-hardware-for-success/"><u>In 2024, Pro Streamer's Compendium Essential Livestream Software and Hardware for Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-interruptions-solve-your-civ-vi-crash-problem-today-with-these-tips/"><u>No More Interruptions! Solve Your Civ VI Crash Problem Today With These Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-windows-11-blockades-to-launching-steam-titles-expert-tips-included/"><u>Overcome Windows 11 Blockades to Launching Steam Titles – Expert Tips Included</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/toonhub-pro-analysis-2024-report/"><u>ToonHub Pro Analysis 2024 Report</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-pc-issues-for-a-smooth-new-world-experience/"><u>Troubleshooting Persistent PC Issues for a Smooth 'New World' Experience</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving 2024 Compatibility Issues - Successfully Starting Modern Warfare on PC
-date: 2024-10-22T00:12:15.387Z
-updated: 2024-10-26T07:24:45.838Z
+date: 2024-10-28T20:48:26.384Z
+updated: 2024-11-01T09:13:17.633Z
 tags:
   - win11
   - win10
@@ -56,13 +56,6 @@ Your Modern Warfare crashing can be caused by the following issues:
 
  Shut down all applications that are running in the background by pressing**Ctrl + Shift + Esc** , especially your antivirus software, which can be over-protective and cause Modern Warfare crashing issues.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your device drivers
 
  When it comes to video game crashing, the most possible cause is your graphics driver. A Graphics card (GPU) is the most important component to determine your gaming performance. Therefore, if the graphics driver is outdated or corrupted, it’s very likely that you will get enormous Modern Warfare crashing. Modern Warfare crashing can be caused by corrupted graphics card drivers.
@@ -90,6 +83,19 @@ Your Modern Warfare crashing can be caused by the following issues:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/Driver-Easy-Scan-Now.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
 
 **OR**
@@ -98,20 +104,13 @@ Your Modern Warfare crashing can be caused by the following issues:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/Free-Pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your PC for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Set texture quality to high or normal
@@ -126,9 +125,23 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/texture-resolution-to-normal-or-high-1200x628.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can keep everything else on the lowest settings, except Texture Filter Anisotropic on High. Also, make sure to turn off**Sync Every Frame (V-Sync)** , which is best left off within games.
 
 Play Modern Warfare again to see if the crashing issue persists.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Scan and Repair your game
 
@@ -154,13 +167,6 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/NVIDIA-Control-Panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left pane, go to**3D Settings** \>**Manage 3D settings** . Select the**Program Settings** tab and add your Call of Duty: Modern Warfare.
 
  Default Path: **C:\\Program Files (x86)\\Call of Duty Modern Warfare\\ModernWarfare.exe**
@@ -169,20 +175,20 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/turn-off-vertical-sync.jpg)
 
- Try launching your game again to check if Modern Warfare crashes persist. If this doesn’t work, you can try these settings that work fine for other players on[Reddit](https://www.reddit.com/r/modernwarfare/comments/duev1r/crash%5Ffixes%5Ffor%5Fnvidia%5Fusers%5Fon%5Fpc/) .
-
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Try launching your game again to check if Modern Warfare crashes persist. If this doesn’t work, you can try these settings that work fine for other players on[Reddit](https://www.reddit.com/r/modernwarfare/comments/duev1r/crash%5Ffixes%5Ffor%5Fnvidia%5Fusers%5Fon%5Fpc/) .
 
 ### Fix 7: Disable Discord in-game overlay
 
@@ -225,6 +231,13 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -249,13 +262,6 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -267,16 +273,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
@@ -335,19 +335,16 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-beyond-the-screen-shaping-perceptions-on-instagram-through-captions/"><u>[Updated] 2024 Approved Beyond the Screen - Shaping Perceptions on Instagram Through Captions</u></a></li>
-<li><a href="https://win-able.techidaily.com/cracking-the-code-on-steams-locked-file-conundrum-a-comprehensive-fix/"><u>Cracking the Code on Steam’s Locked File Conundrum – A Comprehensive Fix</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-devices-connectivity-with-these-bluetooth-optimization-tactics-for-windows-users/"><u>Elevate Your Device's Connectivity with These Bluetooth Optimization Tactics for Windows Users</u></a></li>
-<li><a href="https://facebook.techidaily.com/evolving-identity-online-changing-your-facebook-username/"><u>Evolving Identity Online: Changing Your Facebook Username</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-gaming-now-a-step-by-step-guide-to-solving-overwatch-2s-boot-difficulties/"><u>Get Gaming Now: A Step-by-Step Guide to Solving Overwatch 2'S Boot Difficulties</u></a></li>
-<li><a href="https://win-able.techidaily.com/grand-theft-auto-v-performance-hacks-how-to-prevent-unexpected-game-stalls-and-freezes/"><u>Grand Theft Auto V Performance Hacks: How to Prevent Unexpected Game Stalls and Freezes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iconic-highlights-from-the-2022-figure-skate-world/"><u>Iconic Highlights From the 2022 Figure Skate World</u></a></li>
-<li><a href="https://win-best.techidaily.com/les-meilleurs-logiciels-de-migration-de-donnees-sur-pc-dell-selection-et-conseils-dutilisation/"><u>Les Meilleurs Logiciels De Migration De Données Sur PC Dell - Sélection Et Conseils D'Utilisation</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-recurrent-freezing-and-closure-issues-with-microsoft-outlook/"><u>Resolving Recurrent Freezing & Closure Issues with Microsoft Outlook</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-steams-error-code-130-a-comprehensive-solution-guide/"><u>Resolving Steam's Error Code 130: A Comprehensive Solution Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-inserting-a-new-row-or-column-in-an-excel-cell/"><u>Step-by-Step Guide: Inserting a New Row or Column in an Excel Cell</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ew-wave-of-youtube-channel-titles-perfect-for-vloggers-limited-to-156-characters/"><u>The New Wave of YouTube Channel Titles Perfect for Vloggers (Limited to 156 Characters)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transform-mkv-videos-into-mp4-streaming-for-free-using-movavis-website-converter/"><u>Transform MKV Videos Into MP4 Streaming for Free Using Movavi's Website Converter</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-cant-i-start-evil-genius-2-game/"><u>Troubleshooting Guide: Why Can't I Start Evil Genius 2 Game?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-learn-the-art-of-crafting-short-youtube-videos/"><u>[Updated] In 2024, Learn the Art of Crafting Short YouTube Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoid-frustration-solve-persistent-garrys-mod-crashing/"><u>Avoid Frustration - Solve Persistent Garry's Mod Crashing !</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-productivity-during-prime-day-with-3x-vr-display-on-discounted-xr-glasses-see-how-it-works/"><u>Boost Your Productivity During Prime Day with 3X VR Display on Discounted XR Glasses – See How It Works!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exploring-biggest-fifa-footage-trends-in-graphics/"><u>In 2024, Exploring Biggest FIFA Footage Trends in Graphics</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-oxygen-a-real-time-space-colony-simulator-stability-problems/"><u>Resolving 'Oxygen: A Real-Time Space Colony Simulator' Stability Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-making-steam-acknowledge-your-controller-on-a-pc/"><u>Troubleshooting Guide: Making Steam Acknowledge Your Controller on a PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-stop-age-of-wonders-planetfall-from-crashing-on-windows/"><u>Troubleshooting Steps to Stop Age of Wonders: Planetfall From Crashing on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/turn-windows-10-screen-back-normally/"><u>Turn Windows 10 Screen Back Normally</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480789639-whatsapp-camera-woes-learn-how-to-adjust-zoom-settings-properly/"><u>WhatsApp Camera Woes? Learn How to Adjust Zoom Settings Properly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-doesnt-my-gpu-run-cyberpunk-2077-solutions-for-windows-10-users/"><u>Why Doesn't My GPU Run Cyberpunk 2077? Solutions for Windows 10 Users</u></a></li>
 </ul></div>
 

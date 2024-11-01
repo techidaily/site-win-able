@@ -1,7 +1,7 @@
 ---
 title: "Solving the Black Screen Dilemma: NBA 2K21 Troubleshooting Guide Release"
-date: 2024-10-21T09:57:20.257Z
-updated: 2024-10-25T16:15:40.179Z
+date: 2024-10-28T16:31:07.215Z
+updated: 2024-10-31T18:34:14.923Z
 tags:
   - win11
   - win10
@@ -46,6 +46,19 @@ Recommended
 
  After confirming that your PC is powerful enough to run the game, go ahead with the following fixes.
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -57,6 +70,19 @@ Recommended
 5. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Hallo Infinite](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  If there are any missing or corrupted game files, you may encounter the black screen issue in Halo Infinite. To rule out the issue, you can verify the integrity of game files via Steam. Here’s how:
@@ -66,15 +92,15 @@ Recommended
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-properties.jpg)
 3. Navigate to the**LOCAL FILE** S tab and select**Verify integrity of game files…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the process is completed, try launching the game again to see if you can get past the black screen.
 
@@ -93,46 +119,13 @@ If the issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your PC and launch Halo Infinite again to see if your problem is resolved.
 
 If the issue persists, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Check for Windows updates
 
@@ -142,20 +135,14 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your computer and launch Halo Infinite again to see if the black screen issue has gone away.
 
@@ -171,6 +158,13 @@ If the issue persists, take a look at the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**HaloInfinite.exe** from the list of apps. If not listed, click**Change settings > Allow another app…** , then locate**HaloInfinite.exe** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
@@ -190,10 +184,10 @@ If the issue persists, take a look at the next fix.
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
@@ -205,15 +199,15 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer and try launching Halo Infinite again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you won’t see a black screen again, then try enabling services one by one until you find the conflicting software. Be sure to restart your PC after enabling each service.
 
@@ -231,10 +225,10 @@ If the issue persists, take a look at the next fix.
 3. Follow the on-screen instructions to uninstall the game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Reinstall Halo Infinite.
@@ -263,22 +257,19 @@ Now you should be able to run the game without any problems.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-guide-to-simple-curvature-alteration-in-pics/"><u>[Updated] 2024 Approved Guide to Simple Curvature Alteration in Pics</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-understanding-youtubes-revenue-model-one-million-viewer-focus/"><u>[Updated] 2024 Approved Understanding YouTube's Revenue Model One Million Viewer Focus</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-how-to-share-screen-on-google-meet-desktop-and-mobile/"><u>[Updated] In 2024, How to Share Screen on Google Meet [Desktop and Mobile]</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-integrating-igtv-videos-with-your-facebook-network/"><u>[Updated] In 2024, Integrating IGTV Videos with Your Facebook Network</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-probing-deep-into-inshots-editing-capabilities/"><u>2024 Approved Probing Deep Into InShot's Editing Capabilities</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-gaming-experience-eliminate-frame-drops-in-the-division-2/"><u>Boost Your Gaming Experience: Eliminate Frame Drops in 'The Division 2'</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-life-is-strange-true-colors-game-crashing-issues-permanently/"><u>How to Fix Life Is Strange: True Colors Game Crashing Issues Permanently</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-the-dbd-error-message-code-8014-steps-and-fixes/"><u>How to Resolve the DBD Error Message: Code 8014 Steps and Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-solve-the-missing-dll-msvcr110dll-issue-on-helldivers-2/"><u>How To Solve The Missing DLL MSVCR110.dll Issue on HellDivers 2</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-the-persistent-dark-display-on-mtg-arena-solutions-revealed/"><u>How to Troubleshoot the Persistent Dark Display on MTG Arena - Solutions Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-image-clarity-solutions-for-blurred-graphics-in-cod-warzone-gaming-on-desktops/"><u>Improving Image Clarity: Solutions for Blurred Graphics in COD: Warzone Gaming on Desktops</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-smooth-streams-from-obs-to-insta/"><u>In 2024, Smooth Streams From OBS to Insta</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/innovative-notetaking-for-mobile-photographers/"><u>Innovative Notetaking for Mobile Photographers</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004670755-no-more-losing-arc-battles-due-to-pc-freezes-solutions-inside/"><u>No More Losing Arc Battles Due to PC Freezes - Solutions Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/outriders-optimization-update-sharper-graphics-and-enhanced-clarity-fix/"><u>Outriders Optimization Update: Sharper Graphics and Enhanced Clarity Fix</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/personalized-sql-link-setup-page/"><u>Personalized SQL Link Setup Page</u></a></li>
+<li><a href="https://win-able.techidaily.com/like-a-dragon-gaming-guide-tips-and-tricks-for-accumulating-infinite-wealth-on-your-personal-computer/"><u>'Like A Dragon' Gaming Guide: Tips and Tricks for Accumulating Infinite Wealth on Your Personal Computer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-epic-reddit-victories-celebrating-the-top-ten/"><u>[New] Epic Reddit Victories Celebrating the Top Ten</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-performance-in-a-package-that-pleases-your-pocket/"><u>[New] Premium Performance in a Package That Pleases Your Pocket</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-complete-guide-to-crafting-impressive-timelapse-films-on-ipad/"><u>[Updated] In 2024, The Complete Guide to Crafting Impressive Timelapse Films on iPad</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-crafting-top-tier-gopro-filming/"><u>[Updated] Unlocking the Potential Crafting Top-Tier Gopro Filming</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014705390-fixes-for-creative-pebble-audio-device-malfunction-success-stories-inside/"><u>Fixes for Creative Pebble Audio Device Malfunction - Success Stories Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-hogwarts-legacy-from-freezing-at-boot-a-step-by-step-guide/"><u>How to Stop 'Hogwarts Legacy' From Freezing at Boot: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-analysis-how-galaxy-s8-dominates-in-4k-video/"><u>In-Depth Analysis How Galaxy S8 Dominates in 4K Video</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/minimca-homes-the-ultimate-guide-for-entry-level-builders-for-2024/"><u>MiniMCA Homes The Ultimate Guide for Entry-Level Builders for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-freezing-issues-while-enjoying-fall-guys-on-windowsmac-pcs-tips-and-fixes/"><u>Overcoming Freezing Issues While Enjoying 'Fall Guys' On Windows/Mac PCs: Tips & Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-kodi-connection-issues-fixed-error-retrieving-directory-info/"><u>Resolving Kodi Connection Issues: Fixed - Error Retrieving Directory Info</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-a-step-by-step-guide-to-solve-steam-tarkov-error-code-103003/"><u>Resolving the Issue: A Step-by-Step Guide to Solve Steam Tarkov Error Code 103003</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-fixing-the-issue-when-google-chrome-wont-launch/"><u>Solution Found: Fixing the Issue When Google Chrome Won't Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-halo-infinites-persistent-display-errors/"><u>Troubleshooting Tips for Halo Infinite's Persistent Display Errors</u></a></li>
 </ul></div>
 

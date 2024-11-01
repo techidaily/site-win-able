@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Troubleshooting Guide: Stop SF6 From Crashing Your PC (Updated)"
-date: 2024-10-22T20:17:48.775Z
-updated: 2024-10-26T06:22:45.732Z
+date: 2024-10-30T03:22:36.336Z
+updated: 2024-11-01T04:23:07.605Z
 tags:
   - win11
   - win10
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 3. Select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-admin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Check if you can get past the checking for updates screen.
 
 If the issue remains, try the next fix.
@@ -77,20 +70,6 @@ If the issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/MFS-properties.jpg)
 3. Select the **Local files** tab then click the **Verify integrity of game files…** button.![](https://www.drivereasy.com/wp-content/uploads/2021/09/Microsoft-Flight-Simulator-Verify-integrity-of-game-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Steam will scan the installation and download missing files or remove outdated or corrupted files. This process may take several minutes.
 5. **Relaunch** Microsoft Flight Simulator and test if you can get past the checking for updates screen.
 
@@ -102,13 +81,6 @@ If the issue remains, try the next fix.
 3. On the page that opens, select**Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-mfs.jpg)
 4. Windows will begin to scan and repair your game files.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. After the process is completed, relaunch the game and test if you can get past the checking for updates screen.
 
@@ -128,6 +100,13 @@ If this method doesn’t work for you, go ahead with the next fix.
 
  If you still get stuck on the checking for updates screen, check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Update your network driver
 
  If you’re having trouble loading Microsoft Flight Simulator, you may encounter a connectivity issue. The connection error could be caused by a faulty or outdated network driver. To fix the issue, you need to make sure you’re using the latest network driver.
@@ -144,10 +123,10 @@ If this method doesn’t work for you, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve updated your network driver, restart your PC and Microsoft Flight Simulator to see if you can get past the checking for updates screen.
@@ -195,23 +174,17 @@ on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/manage-settings.jpg)
 5. Under Exclusions, select**Add or remove exclusions** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select**Microsoft Flight Simulator** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-an-exclusion.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-an-exclusion.jpg)
 
 on Windows 11:
 
@@ -220,14 +193,36 @@ on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Windows-Security.jpg)
 3. Click**Virus & threat protection** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Virus-and-threat-protection.jpg)
 4. Under**Virus & threat protection settings** , click**Manage settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-virus-and-threat-protection-settings-manage-settings.jpg)
 5. Under**Exclusions** , click**Add or remove exclusions** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-add-or-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select your game’s installation folder to exclude your game from Microsoft Defender Antivirus scans.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Add-an-exclusion.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Other antivirus programs
 
@@ -247,6 +242,13 @@ on Windows 11:
  Check if the game loads normally after you add it as an exception to your security software.
 
  If you still can’t get past the checking for updates screen, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Use a VPN
 
@@ -287,10 +289,10 @@ If this method doesn’t solve your problem, check out the last fix.
 3. Click on **Uninstall**  to confirm your choice.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator-Confirm.png)
@@ -323,15 +325,16 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-techniques-for-straightening-aerial-video-stability/"><u>[New] Techniques for Straightening Aerial Video Stability</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-anonymous-no-more-bringing-back-fb-sessions/"><u>[Updated] In 2024, Anonymous No More Bringing Back Fb Sessions</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-garrys-mod-crashing-woes-updated-fixes-tips-and-solutions/"><u>Banish Garry's Mod Crashing Woes: Updated Fixes, Tips, and Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-strategies-for-addressing-farming-simulator-22-startup-problems/"><u>Effective Strategies for Addressing Farming Simulator 22 Startup Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-on-overcoming-image-scanning-discrepancies/"><u>Expert Tips on Overcoming Image Scanning Discrepancies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-geforce-rtx-3080-drivers-downloaded-compatible-with-windows-10-8-and-7/"><u>Free GeForce RTX 3080 Drivers Downloaded - Compatible with Windows 10, 8 & 7</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-x90s-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo X90S? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-how-to-address-the-audio-glitches-in-dying-light/"><u>Solved: How to Address the Audio Glitches in Dying Light</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-meta-quest-model-unveiled-insights-on-costs-and-features/"><u>Upcoming Meta Quest Model Unveiled - Insights on Costs & Features</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-prime-budget-optimized-mac-audio-adjustment-software/"><u>Updated Prime Budget-Optimized Mac Audio Adjustment Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-epochs-epic-journey-best-free-mmo-games-roundup-for-2024/"><u>[New] Epoch's Epic Journey Best Free MMO Games Roundup for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001176490-solved-god-of-war-not-enough-available-memory-issue/"><u>[SOLVED] God of War “Not Enough Available Memory Issue</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-taking-your-photos-to-new-heights-mastering-ios-11s-features/"><u>2024 Approved Taking Your Photos to New Heights Mastering iOS 11'S Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-quick-and-free-jpeg-to-gif-conversion-services/"><u>2024 Approved Top 10 Quick & Free JPEG-to-GIF Conversion Services</u></a></li>
+<li><a href="https://android-frp.techidaily.com/advanced-gemini-vs-chatgpt-plus-which-delivers-superior-performance/"><u>Advanced Gemini Vs. ChatGPT Plus – Which Delivers Superior Performance?</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-water-management-ensures-that-crops-receive-adequate-moisture-with-minimal-waste-preventing-erosion-and-nutrient-runoff-which-are-essential-for-th560/"><u>Effective Water Management Ensures that Crops Receive Adequate Moisture with Minimal Waste, Preventing Erosion and Nutrient Runoff, Which Are Essential for the Sustainability of Agricultural Lands.</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004727064-fixing-steam-remote-play-issues-expert-tips-and-tricks-that-work/"><u>Fixing Steam Remote Play Issues – Expert Tips and Tricks That Work!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-rainbow-six-extraction-from-suddenly-crashing-on-pc-systems/"><u>How to Stop Rainbow Six Extraction From Suddenly Crashing on PC Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/palworld-a-complete-users-manual/"><u>PalWorld: A Complete User's Manual</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808214364-quick-fixes-to-enhance-windows-11s-efficiency-learn-the-best-strategies/"><u>Quick Fixes to Enhance Windows 11'S Efficiency - Learn the Best Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-division-2-how-to-fix-stuttering-and-increase-fps-for-optimal-gaming/"><u>The Division 2: How to Fix Stuttering and Increase FPS for Optimal Gaming</u></a></li>
 </ul></div>
 

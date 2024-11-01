@@ -1,7 +1,7 @@
 ---
 title: Resolving Escape From Tarkov's 'Anticheat Disconnect Error'
-date: 2024-10-20T10:01:21.915Z
-updated: 2024-10-26T03:46:37.205Z
+date: 2024-10-29T22:28:06.929Z
+updated: 2024-11-01T06:55:46.886Z
 tags:
   - win11
   - win10
@@ -45,16 +45,22 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -72,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Switch DirectX versions
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. Some players suggest that switching the two DirectX versions help resolve the error: if you’re running DirectX 11 or below, it’s recommended that you update it to DirectX 12 (the latest version by the time of writing), and vice versa.
@@ -86,31 +99,18 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , then copy & paste **dxdiag** into the box and click **dxdiag** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Check out your **DirectX version** in the first page of the report.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) If you’re running DirectX 11 or below and Anno 1800 crashes, you can try[**updating DirectX 12**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem. If you’re running DirectX and Anno 1800 crashes, you can try[**switching to DirectX 11**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem.
 
@@ -121,10 +121,16 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Check for updates** .
@@ -142,13 +148,6 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type**C:\\Users\\user\\Documents\\Anno 1800\\config** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-236.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Open the engine.ini file.
 
@@ -186,6 +185,19 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
@@ -216,19 +228,19 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/iral-audio-waves-top-10-bgm-for-youtube-short-videos/"><u>[New] Viral Audio Waves Top 10 BGM for YouTube Short Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premium-webcast-systems-and-applications/"><u>[Updated] 2024 Approved Premium Webcast Systems & Applications</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-top-40-twitter-visuals-the-essential-gif-hoarders-toolkit/"><u>[Updated] In 2024, Top 40 Twitter Visuals The Essential GIF Hoarder's Toolkit</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-no-cost-media-players-for-windows-1aturntype-blu-ray-divx-mp4-2021s-ultimate-guide/"><u>Best No-Cost Media Players for Windows 1Aturntype: Blu-Ray, DivX, MP4 - 2021'S Ultimate Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-the-stuck-loading-phase-of-madden-nfl-22-a-troubleshooting-guide/"><u>Bypassing the Stuck Loading Phase of Madden NFL 22: A Troubleshooting Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/effective-audio-capture-for-your-zoom-sessions/"><u>Effective Audio Capture for Your Zoom Sessions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-your-console-experience-overcoming-call-of-duty-error-code-g7t05a-b-in-black-ops-cold-war/"><u>Master Your Console Experience: Overcoming Call of Duty Error Code G7T05A-B in Black Ops Cold War</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-league-of-legends-network-connectivity-problems/"><u>Resolved: Fixing League of Legends Network Connectivity Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/screen-capture-issues-resolved-why-your-obs-is-now-recording-flawlessly/"><u>Screen Capture Issues Resolved: Why Your OBS Is Now Recording Flawlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-gta-5-crash-problems-expert-tips-and-tricks-for-stable-play/"><u>Solve Your GTA 5 Crash Problems: Expert Tips & Tricks for Stable Play</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-complete-why-fifa-21-wont-launch-solutions-inside/"><u>Troubleshooting Complete: Why FIFA 21 Won't Launch (Solutions Inside)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-techniques-to-reconstruct-damaged-windows-registry-sections/"><u>Unveiling Techniques to Reconstruct Damaged Windows Registry Sections</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720673704187-video-quality-issues-post-stellar-repair/"><u>Video Quality Issues Post-Stellar Repair</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-leading-websites-for-seamless-integration-of-text-overlays/"><u>[New] In 2024, Leading Websites for Seamless Integration of Text Overlays</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-whats-trending-on-tiktok-and-twittersphere/"><u>2024 Approved What's Trending on TikTok and Twittersphere</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1728475335558-windows-11/"><u>元に戻せ！Windows 11で右クリックメニューの初期設定へ</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertir-videos-de-alta-calidad-sin-costo-transformar-3gp-en-wmv-con-herramientas-web-gratuitas/"><u>Convertir Videos De Alta Calidad Sin Costo: Transformar 3GP en WMV Con Herramientas Web Gratuitas</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-nokia-c32-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-detailed-breakdown-visioncraft-editions-capabilities/"><u>In 2024, Detailed Breakdown VisionCraft Edition's Capabilities</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723014023468-master-the-art-of-quick-repairs-for-apex-legends-load-failures-top-techniques-inside/"><u>Master the Art of Quick Repairs for Apex Legends Load Failures - Top Techniques Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-in-the-division-2-solutions-for-increased-frame-rates-and-smoother-gameplay/"><u>Optimizing Performance in 'The Division 2' – Solutions for Increased Frame Rates and Smoother Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-unexpected-closure-errors-in-frostpunk-gameplay-a-step-by-step-guide/"><u>Overcoming Unexpected Closure Errors in Frostpunk Gameplay: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-users-explore-pandora-universe-with-an-updated-avatar-experience/"><u>PC Users, Explore Pandora Universe with an Updated Avatar Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-correcting-read-errors-in-call-of-duty-warzone-versions-50-and-31/"><u>Step-by-Step Guide to Correcting Read Errors in Call of Duty: Warzone - Versions [5.0] and [3.1]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-tecno-pop-8-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Tecno Pop 8? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-realme-gt-neo-5-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Realme GT Neo 5 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
 </ul></div>
 

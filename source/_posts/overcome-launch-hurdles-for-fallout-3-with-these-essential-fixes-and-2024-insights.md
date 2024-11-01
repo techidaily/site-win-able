@@ -1,7 +1,7 @@
 ---
 title: Overcome Launch Hurdles for Fallout 3 with These Essential Fixes & 2024 Insights
-date: 2024-10-24T17:02:53.905Z
-updated: 2024-10-25T18:05:37.083Z
+date: 2024-10-28T17:09:45.976Z
+updated: 2024-11-01T00:16:51.769Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ Although Marvel’s Guardians of the Galaxy has received generally positive revi
 7. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check the system requirements
 
  Before trying anything more complicated, you need to make sure that your PC meets the system requirements of Marvel’s Guardians of the Galaxy first. If you don’t know the system requirements of the game, just take a quick glance at the table below:
@@ -54,6 +61,19 @@ Marvel’s Guardians of the Galaxy system requirements
 
  If it keeps crashing on your powerful PC, just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If Marvel’s Guardians of the Galaxy keeps crashing on your PC, it’s likely that you have a corrupted or outdated graphic driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -71,13 +91,6 @@ Marvel’s Guardians of the Galaxy system requirements
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -93,18 +106,18 @@ Marvel’s Guardians of the Galaxy system requirements
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Marvel’s Guardians of the Galaxy after the verifying process is complete. See if it crashes again.
 
 If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Install the latest game patch
 
@@ -126,13 +139,6 @@ If this issue persists, try the next fix, below.
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Run the game and see if it crashes again. If this fix doesn’t work, try the next fix, below.
@@ -146,6 +152,19 @@ If this issue persists, try the next fix, below.
  Launch Marvel’s Guardians of the Galaxy and see if the game crashes after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Repair corrupted system files
 
@@ -164,26 +183,12 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Wait for Fortect to scan your PC. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. After the scanning process is completed, Fortect will provide you with the PC scan summary.  
 
  If there’s any issue, then click the Start Repair button on the lower-right corner, and with just one click, Fortect will start to repair the Windows OS on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)  
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Perform a clean boot
 
@@ -194,36 +199,43 @@ If this fix didn’t work, try the next fix, below.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -261,22 +273,18 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-nifty-steps-to-generate-timely-captions-and-text-for-fb-video-uploads/"><u>[New] 2024 Approved Nifty Steps to Generate Timely Captions and Text for FB Video Uploads</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-methodology-incorporating-youtube-playlists-into-a-websites-structure/"><u>[New] Methodology Incorporating YouTube Playlists Into a Website's Structure</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-optimal-methods-for-viewing-nba-games-online-for-2024/"><u>[New] Optimal Methods for Viewing NBA Games Online for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapshot-savvy-learn-to-pin-on-snapchat/"><u>[Updated] In 2024, Snapshot Savvy Learn to Pin on Snapchat</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-top-5-high-quality-android-screen-recording-solutions/"><u>2024 Approved Top 5 High-Quality Android Screen Recording Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/alan-wake-2-stability-guide-essential-troubleshooting-techniques/"><u>Alan Wake 2 Stability Guide: Essential Troubleshooting Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/battle-through-warzones-visual-disruptions-fixing-persistent-flicker-problems/"><u>Battle Through Warzone's Visual Disruptions - Fixing Persistent Flicker Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-addressing-the-graphics-state-issue-in-red-dead-redemption-2-errgfxstate/"><u>Comprehensive Guide to Addressing the Graphics State Issue in Red Dead Redemption 2 (ERR_GFX_STATE)</u></a></li>
-<li><a href="https://win-able.techidaily.com/everstop-crashes-in-everspace-2-heres-how-to-get-smooth-gameplay-on-pc/"><u>Everstop Crashes in Everspace 2? Here's How to Get Smooth Gameplay on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-for-the-pervasive-black-screen-troubles-on-magic-the-gathering-esports-app/"><u>Expert Solutions for the Pervasive Black Screen Troubles on Magic: The Gathering eSports App</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-text-to-audio-utilizing-chatgpt-for-advanced-daw-sounds-engineering/"><u>From Text to Audio: Utilizing ChatGPT for Advanced DAW Sounds Engineering</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-best-screen-capture-alternatives-for-the-cost-conscious-user/"><u>In 2024, Best Screen Capture Alternatives for the Cost-Conscious User</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-8-plus-by-phone-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 8 Plus by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-the-silence-audio-troubles-with-discords-screen-sharing-feature/"><u>Solve the Silence: Audio Troubles with Discord's Screen Sharing Feature</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-correcting-the-dark-mystery-of-hitman-solved-3-pc-error/"><u>Step-by-Step Guide: Correcting The Dark Mystery of Hitman ^ [SOLVED] 3 PC Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/unveiling-the-secret-fixes-for-cyberpunk-2077-black-screen-malfunction/"><u>Unveiling the Secret Fixes for Cyberpunk 2077 Black Screen Malfunction</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winerror-zeroed-out-mastery-over-error-0x800f0831/"><u>WinError Zeroed Out: Mastery Over Error 0X800F0831</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-discovering-and-demystifying-tiktoks-pfp-symbol-for-2024/"><u>[New] Discovering and Demystifying TikTok's PFP Symbol for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-boost-your-instagram-game-macs-automated-video-resizing/"><u>[New] In 2024, Boost Your Instagram Game Mac's Automated Video Resizing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-laughter-is-free-access-to-top-meme-creations/"><u>[New] In 2024, Laughter Is Free Access to Top Meme Creations</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unlocking-sierra-icloud-drive-integrations-and-usage-for-2024/"><u>[New] Unlocking Sierra iCloud Drive Integrations & Usage for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehve-solutions-to-eliminate-stuttering-and-increase-frame-rates-in-pc-gaming-environments/"><u>Comprehve Solutions to Eliminate Stuttering and Increase Frame Rates in PC Gaming Environments.</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficiently-combat-high-cpu-utilization-issues-in-the-elder-scrolls-online-modern-fixes-unveiled/"><u>Efficiently Combat High-CPU Utilization Issues in The Elder Scrolls Online: Modern Fixes Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010038016-elevate-your-gaming-session-strategies-for-fps-boost-and-smooth-playing-in-the-ascent/"><u>Elevate Your Gaming Session: Strategies for FPS Boost & Smooth Playing in The Ascent</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ethical-relaxation-soundscapes/"><u>Ethical Relaxation Soundscapes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-winning-editing-tool-solving-davinci-resolve-startup-problems-in-windows/"><u>Fix Your Winning Editing Tool: Solving DaVinci Resolve Startup Problems in Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/r-your-youtube-content-with-superior-webm-converters-for-2024/"><u>Master Your YouTube Content with Superior WebM Converters for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/proven-strategies-for-effective-chromebook-zooming/"><u>Proven Strategies for Effective Chromebook Zooming</u></a></li>
+<li><a href="https://win-able.techidaily.com/ubisoft-connect-issues-troubleshooting-and-fixes/"><u>Ubisoft Connect Issues : Troubleshooting and Fixes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-vegaspro-the-19-edition/"><u>Unveiling VegasPro The '19 Edition</u></a></li>
 </ul></div>
 

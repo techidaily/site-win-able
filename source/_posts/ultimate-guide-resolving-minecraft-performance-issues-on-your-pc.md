@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Minecraft Performance Issues on Your PC"
-date: 2024-10-23T04:41:14.651Z
-updated: 2024-10-25T18:57:39.973Z
+date: 2024-10-27T22:41:04.387Z
+updated: 2024-11-01T01:28:52.998Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
 | **Storage**          | 20 GB available space                                                                                          | 20 GB available space                                                                                          |
 | **Additional Notes** | a) Can run at 720p/60fps; b) It’s recommended to install the game on an SSD for a more streamlined experience. | a) Can run at 1080p/60fps; b) It’s recommended to install the game on an SSD for a more streamlined experience |
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Close background programs
 
  Naraka: Bladepoint is likely to crash when too many programs are running in the background and taking up all the resources. You can shut down the background programs via Task Manager:
@@ -88,13 +95,6 @@ If this doesn’t solve your problem, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If your game still crashes after you updated the graphics driver, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Verify your game files
 
@@ -129,15 +129,22 @@ If this doesn’t solve your problem, try the next fix.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Increase the virtual memory on your PC
 
@@ -150,22 +157,8 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the**Advanced** tab, under the Performance section, click**Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
@@ -187,15 +180,21 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If your game still crashes, try the next fix.
 
@@ -216,10 +215,10 @@ If your game still crashes, try the next fix.
 If this doesn’t solve your problem, try the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
@@ -233,6 +232,14 @@ If this doesn’t solve your problem, try the last fix.
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
 
@@ -243,13 +250,6 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
 **Here’s how to find out which one(s):**
@@ -257,6 +257,13 @@ If this doesn’t solve your problem, try the last fix.
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
@@ -272,13 +279,6 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
 
@@ -289,6 +289,13 @@ If this doesn’t solve your problem, try the last fix.
 
  Known compatibility issues from Sonic studio virtual mixer driver have been found, per the developer, and the current workaround is to disable this device. If you want to check if you have this device or want to disable it, go to**Sound Settings >> Manage sound devices** . If you have Sonic studio virtual mixer, you’ll be able to see it there and disable it if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-09-03_11-07-51.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -313,19 +320,19 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-perfect-your-focus-a-guide-to-roblox-tight-scopes-for-2024/"><u>[New] Perfect Your Focus A Guide to Roblox Tight Scopes for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversor-de-audio-gratuito-e-simples-metodo-rapido-para-transformar-arquivos-ogg-em-mp3-com-o-movavi/"><u>Conversor De Áudio Gratuito E Simples: Método Rápido Para Transformar Arquivos OGG Em MP3 Com O Movavi</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-the-nokia-71-superior-pixels-and-lens-combo-without-breaking-the-bank/"><u>Experience the Nokia 7.1: Superior Pixels & Lens Combo without Breaking the Bank</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-it-fast-how-to-stop-fifa-22-from-crashing-on-your-computer/"><u>Fix It Fast: How to Stop FIFA 22 From Crashing on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/grand-theft-auto-v-gaming-smoothed-eliminating-stutters-and-lag/"><u>Grand Theft Auto V Gaming Smoothed: Eliminating Stutters and Lag</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-itel-a70-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Itel A70 FRP</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-empowered-by-numbers-decoding-youtube-analytics/"><u>In 2024, Empowered by Numbers Decoding YouTube Analytics</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-unexplained-tilted-images-on-instagrams-video-section/"><u>In 2024, Unexplained Tilted Images on Instagram's Video Section</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-conversations-merging-siri-and-chatgpt-on-iphone/"><u>Innovative Conversations: Merging Siri & ChatGPT on iPhone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/metaverse-vs-multimeva-unveiling-their-comparative-features-for-2024/"><u>Metaverse Vs. Multimeva Unveiling Their Comparative Features for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-performance-optimization-solutions-to-stop-wrc-10-from-crashing-and-dive-into-the-fia-world-rally-action/"><u>PC Performance Optimization: Solutions to Stop WRC 10 From Crashing and Dive Into the FIA World Rally Action</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-mystery-overcoming-valorants-lag-issues/"><u>Solving the Mystery: Overcoming Valorant's Lag Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/valheim-ping-perfection-comprehensive-troubleshooting-steps-to-minimize-lag-on-pcs/"><u>Valheim Ping Perfection: Comprehensive Troubleshooting Steps to Minimize Lag on PCs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-7-inexpensive-pc-screen-recorders-ranked/"><u>[New] In 2024, Top 7 Inexpensive PC Screen Recorders Ranked</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-fix-slime-rancher-2-crashing-on-pc/"><u>[Solved] How to Fix Slime Rancher 2 Crashing on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/customize-your-chromecast-a-step-by-step-guide-to-personalizing-screensaver-images/"><u>Customize Your Chromecast: A Step-by-Step Guide to Personalizing Screensaver Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-protection-five-changes-to-the-windows-firewall/"><u>Enhance Protection: Five Changes to the Windows Firewall</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-crashes-caused-by-super-pc-entities-a-comprehensive-troubleshooting-manual/"><u>Fixing 'Crashes' Caused by Super Pc Entities: A Comprehensive Troubleshooting Manual</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-5-lag-fixes-ensuring-peak-gaming-experience-without-delays/"><u>Forza Horizon 5 Lag Fixes: Ensuring Peak Gaming Experience Without Delays</u></a></li>
+<li><a href="https://games-able.techidaily.com/fresh-start-with-new-installations-on-ps5/"><u>Fresh Start with New Installations on PS5</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/huawei-p60-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Huawei P60 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-nokia-c02-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Nokia C02 Phone Network-Ready</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-edit-like-a-pro-a-comprehensive-tutorial-on-mp4-video-editing-for-mac-and-windows/"><u>New In 2024, Edit Like a Pro A Comprehensive Tutorial on MP4 Video Editing for Mac and Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-stability-issues-for-r-type-final-2-no-more-pc-crashes/"><u>Resolving Stability Issues for R-Type Final 2 - No More PC Crashes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-pc-issues-with-armored-core-6-the-complete-guide-to-overcoming-the-fires-of-rubicon-crashes/"><u>Solving PC Issues with Armored Core 6: The Complete Guide to Overcoming the 'Fires of Rubicon' Crashes</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-tutorial-on-syncing-video-content-from-itunes-to-iphone-or-ipad/"><u>Step-by-Step Tutorial on Syncing Video Content From iTunes to iPhone or iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-7-plus-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone 7 Plus? 5 Tips You Must Know</u></a></li>
 </ul></div>
 

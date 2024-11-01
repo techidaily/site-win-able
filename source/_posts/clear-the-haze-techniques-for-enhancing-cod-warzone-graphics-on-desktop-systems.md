@@ -1,7 +1,7 @@
 ---
 title: "Clear the Haze: Techniques for Enhancing COD: Warzone Graphics on Desktop Systems"
-date: 2024-10-20T08:17:20.559Z
-updated: 2024-10-26T11:35:35.765Z
+date: 2024-10-29T01:57:09.295Z
+updated: 2024-10-31T21:36:12.504Z
 tags:
   - win11
   - win10
@@ -37,10 +37,16 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Meet the minimum system requirements
@@ -60,13 +66,6 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
  If your computer didn’t meet the**MINIMUM** requirements, the only solution would be an upgrade to your computer’s hardware.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -95,6 +94,13 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-113-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -109,6 +115,13 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 **4)** Relaunch the game to test your issue.
 
 If your problem persists, then go ahead with the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of your game files
 
@@ -148,13 +161,6 @@ If this didn’t work, try the fix, below.
 
 If not, move on and try the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Increase virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when performing an intensive task, Windows will dip into virtual memory for temporary file storage.
@@ -165,37 +171,31 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click **View advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
@@ -204,13 +204,6 @@ If not, move on and try the next solution below.
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
@@ -225,6 +218,13 @@ If not, move on and try the next solution below.
 
  If the game crashing issue still exists, then go ahead with the next solution below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Check for Windows updates
 
  If you have not already done so, you will want to make sure you have the latest updates for Windows. Here is how to do it:
@@ -237,9 +237,23 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Restart your computer after the update is complete, then try running DOOM again.
 
  Hope Doom is running correctly now. If it’s not, don’t fret. Try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall DOOM Eternal
 
@@ -257,23 +271,9 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Highlight the **DOOM Eternal folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_12-34-56-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall DOOM.
 
@@ -300,14 +300,15 @@ If not, move on and try the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-definition-ready-enabling-av1-on-youtube/"><u>[New] 2024 Approved High Definition Ready Enabling AV1 on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/levate-your-channels-a-guide-to-youtube-metrics-for-2024/"><u>[New] Elevate Your Channels A Guide to YouTube Metrics for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-skyline-scanning-smartphone-panorama-techniques/"><u>[New] Skyline Scanning Smartphone Panorama Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/copernic-edition-selection-guide-identifying-your-perfect-match-among-various-options/"><u>Copernic Edition Selection Guide: Identifying Your Perfect Match Among Various Options</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-step-in-making-the-most-of-snap-camera-in-microsoft-teams/"><u>In 2024, Step-In Making the Most of Snap Camera in Microsoft Teams</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-copernic-tips-and-tricks-for-ultimate-customization-and-peak-performance/"><u>Mastering Copernic: Tips and Tricks for Ultimate Customization & Peak Performance</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-celebrates-7-years-of-success-75-million-learners-worldwide/"><u>Mondly Celebrates 7 Years Of Success: 75 Million Learners Worldwide</u></a></li>
-<li><a href="https://win-able.techidaily.com/streamline-your-illustrator-searches-with-powerful-tips-from-copernic-expertise/"><u>Streamline Your Illustrator Searches with Powerful Tips From Copernic Expertise</u></a></li>
-<li><a href="https://win-able.techidaily.com/updating-your-current-copernic-membership-a-step-by-step-guide/"><u>Updating Your Current Copernic Membership: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-internet-explorer-cannot-display-the-webpage/"><u>[SOLVED] Internet Explorer Cannot Display the Webpage</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-9-essential-iphone-x-hacks-for-every-user-for-2024/"><u>[Updated] 9 Essential iPhone X Hacks for Every User for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-premium-6-aids-for-live-video-localization/"><u>[Updated] In 2024, Premium 6 Aids for Live Video Localization</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximum-videos-on-a-64gb-drive/"><u>[Updated] Maximum Videos on a 64GB Drive</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-simplifycast-the-ultimate-guide-to-starting-your-podcast-livestream/"><u>[Updated] SimplifyCast The Ultimate Guide to Starting Your Podcast Livestream</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-video-constructor-suite-for-2024/"><u>[Updated] Video Constructor Suite for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-htc-u23-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For HTC U23 Pro Phones</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-game-crashes-ensuring-smooth-playthroughs-of-fallout-3-on-windows-11/"><u>No More Game Crashes: Ensuring Smooth Playthroughs of Fallout 3 on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-problems-with-content-advisory-pop-ups-in-pc-browsers/"><u>Troubleshooting Persistent Problems with Content Advisory Pop-Ups in PC Browsers</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-resolving-assassins-creed-odyssey-freezes-in-pc-gaming-fixes-and-workarounds/"><u>Ultimate Guide to Resolving Assassin's Creed Odyssey Freezes in PC Gaming - Fixes & Workarounds</u></a></li>
 </ul></div>
 

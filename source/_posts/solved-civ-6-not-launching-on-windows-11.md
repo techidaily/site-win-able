@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Civ 6 Not Launching on Windows 11"
-date: 2024-10-24T12:02:17.647Z
-updated: 2024-10-25T23:10:48.348Z
+date: 2024-10-28T06:27:44.831Z
+updated: 2024-11-01T00:23:32.098Z
 tags:
   - win11
   - win10
@@ -43,13 +43,20 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### On Windows 11
@@ -58,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
@@ -80,23 +94,9 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/audio-run-the-troubleshooter.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If there are no troubleshooters showing up here, click**Additional troubleshooters** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/troubleshoot-additional-troubleshooters.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -104,20 +104,27 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/control.jpg)
 2. On the top right corner, click View by **Large icons** . Scroll down and select **Troubleshooting** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/troubleshooting.jpg)
 3. Click **Run** for **Audio**  troubleshooter.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/sound-troubleshooter.png)
 4. Follow the on-screen instructions to run the troubleshooter and apply any fix if you see it.
 
 If Windows fails to troubleshoot your issues, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Make sure you set THX Spatial Audio as your device
 
@@ -130,23 +137,16 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/set-thx-spatial-audio-as-default-playback-device.png)
 3. Then in the APPLICATION MIXER section, select**Spatial Audio** as the output.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/application-mixer.png)
 
- After you’ve done these, you should be able to enjoy the THX Spatial feature on your audio device.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After you’ve done these, you should be able to enjoy the THX Spatial feature on your audio device.
 
 ## 4\. Update your audio drivers
 
@@ -188,18 +188,25 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/turn-on-system-protection.png)
 4. Now select your System drive and click**Create…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/create-a-system-point-now.png)
 5. Type a description for your restore point that you can recognize. Then click**Create** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/type-a-descriptin.png)
 6. When it successfully created the restore point, click**Close** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/close-the-window.png)
 
@@ -212,13 +219,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 3. Once the scan is finished, you’ll see a complete overview of your system and issues. Click**Start Repair** to start the repair process and wait for Fortect to fix the problem.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their support team.
 
@@ -241,22 +241,16 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/2024-approved-from-novice-to-pro-learning-snapseed-essentials/"><u>2024 Approved From Novice to Pro Learning Snapseed Essentials</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-art-of-influential-facebook-video-marketing/"><u>2024 Approved The Art of Influential Facebook Video Marketing</u></a></li>
-<li><a href="https://win-able.techidaily.com/addressing-the-challenges-of-nwstoreexe-glitches-expert-troubleshooting-tips/"><u>Addressing the Challenges of NW_Store.exe Glitches: Expert Troubleshooting Tips</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/boost-your-brand-visibility-with-top-hashtag-strategies/"><u>Boost Your Brand Visibility with Top Hashtag Strategies</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-canon-printer-software-latest-updates-and-downloads-for-the-mp250-series/"><u>Free Canon Printer Software: Latest Updates & Downloads for the MP250 Series</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-origin-slow-download-speed-2024-tips/"><u>How to Fix Origin Slow Download Speed – 2024 Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-dead-by-daylight-from-crashing-expert-tips/"><u>How To Prevent Dead By Daylight From Crashing : Expert Tips</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-se-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone SE with/without SIM Card</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-affordable-cloud-keep-optimal-pricing-for-huge-archives/"><u>In 2024, Affordable Cloud Keep Optimal Pricing for Huge Archives</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-magic-6-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Honor Magic 6</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-stability-issues-while-running-yakuza-6-on-pc-systems/"><u>Solving Stability Issues While Running Yakuza 6 on PC Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-overcoming-persona-3-reboot-challenges-and-launch-successfully/"><u>Step-by-Step Guide to Overcoming Persona 3 Reboot Challenges and Launch Successfully</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-ultimate-blueprint-for-srt-file-excellence-for-2024/"><u>The Ultimate Blueprint for SRT File Excellence for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-low-frame-rates-expert-tips-to-enhance-your-gaming-experience-in-new-world/"><u>Troubleshooting Low Frame Rates: Expert Tips to Enhance Your Gaming Experience in New World</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-warzones-codeerror-5573-on-pc-and-consoles/"><u>Troubleshooting Steps for Resolving Warzone's Code:Error 5573 on PC and Consoles</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-successfully-navigating-through-fortnite-version-ls-0013-launch-glitches/"><u>Troubleshooting Successfully: Navigating Through Fortnite Version LS-0013 Launch Glitches</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-essential-android-apps-for-playing-old-school-ps2-titles/"><u>[New] 2024 Approved Essential Android Apps for Playing Old-School PS2 Titles</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-video-upload-your-guide-to-igtv/"><u>[Updated] 2024 Approved Mastering Video Upload Your Guide to IGTV</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-collection-top-6-apps-to-capture-on-mac/"><u>[Updated] The Ultimate Collection Top 6 Apps to Capture on Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlocking-the-treasure-chest-digging-into-fb-status-videos/"><u>2024 Approved Unlocking the Treasure Chest Digging Into FB Status Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-common-issues-in-grand-theft-auto-5-that-cause-system-failures/"><u>Fixing Common Issues in Grand Theft Auto 5 That Cause System Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/ghostrunner-breakdown-resolved-effective-strategies-to-address-critical-failures-in-windows-10-systems/"><u>Ghostrunner Breakdown Resolved: Effective Strategies to Address Critical Failures in Windows 10 Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone XS Max</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-3-lag-issues-and-frame-rate-drop-in-call-of-duty-2024-update/"><u>Modern Warfare 3 Lag Issues & Frame Rate Drop in Call of Duty: 2024 Update</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-incredible-browser-game-hacks-for-2024/"><u>Top Incredible Browser Game Hacks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-poor-performance-in-valheim-for-windows-users-fix-ping-problems/"><u>Troubleshoot Poor Performance in Valheim for Windows Users - Fix Ping Problems</u></a></li>
 </ul></div>
 

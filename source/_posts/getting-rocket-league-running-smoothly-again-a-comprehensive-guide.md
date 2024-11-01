@@ -1,7 +1,7 @@
 ---
 title: Getting Rocket League Running Smoothly Again - A Comprehensive Guide
-date: 2024-09-05T23:06:47.239Z
-updated: 2024-09-06T23:06:47.239Z
+date: 2024-10-27T18:23:08.724Z
+updated: 2024-11-01T06:03:25.018Z
 tags:
   - win11
   - win10
@@ -19,18 +19,6 @@ Connection issues can happen in every online game and bother many players. The L
 
  Before performing any troubleshooting methods, you’d better check the current status of the League of Legends servers. If the server you’re going to connect has a problem, you can simply change into another server to avoid the connection issue.
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these methods
 
  Here’re 7 fixes that prove to be useful for many LOL players. Just work your way down the list to find out the one that solves your problem!
@@ -43,6 +31,13 @@ Connection issues can happen in every online game and bother many players. The L
 6. [Disable your proxy & VPN](https://tools.techidaily.com/drivereasy/download/)
 7. [Change your DNS server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Restart your router & modem
 
  You should restart your modem and router especially if they haven’t been switched off for a long time. Just give them some time to cool off and clear up the cache. Here’s how to do it:
@@ -50,15 +45,16 @@ Connection issues can happen in every online game and bother many players. The L
 1. Unplug both your router and modem.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/device.jpg)
 2. Wait at least 30 seconds to let the two machines cool down a bit.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Plug the modem back in and wait until the indicator lights are back to their normal state.
 4. Plug the router back in this time. Likewise, wait until the indicator lights are back to their normal state.
 5. Now that your routers and modem have been restarted properly, you can launch LOL again to see if the connection issue goes away.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Switch Wi-Fi into a wired connection
 
@@ -74,28 +70,18 @@ Connection issues can happen in every online game and bother many players. The L
 1. Type “control panel” in the search box to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/control-panel.jpg)
 2. Set Control Panel view by **Large icons** then click **Windows Defender Firewall** .  
+
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click **Allow an app or feature through Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the LOL is checked. If not, click the Change settings button then check the LOL. If you see more than one LOL entries, check all of them. Ensure the Private box and the Publick box are checked too.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Run LOL to check the issue is resolved or not.
 
  If the LOL is already checked and this method doesn’t work for you, you can move on to try another method.
@@ -103,11 +89,12 @@ Connection issues can happen in every online game and bother many players. The L
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 4: Disable antivirus software
 
  Some antivirus software may block some features in LOL so that you encounter the connection issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -116,12 +103,6 @@ Connection issues can happen in every online game and bother many players. The L
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Update your device drivers
 
  Outdated network drivers may cause a connection issue. So you can try to update your network adapter driver to fix the problem.
@@ -139,16 +120,17 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-715.png)
 4. Run League of Legends to check the connection issue is resolved or not.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems using Driver Easy to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 6: Disable your proxy & VPN
 
  If you’re using a VPN or a proxy, make sure you disable them before getting started to play LOL. These are useful tools to protect your privacy online, but they can also be the causes of your high ping issue.
@@ -161,12 +143,6 @@ Connection issues can happen in every online game and bother many players. The L
 2. Click**Proxy** on the left pane. Turn off the toggles under**Automatically detect settings**  and **Use setup script** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network1.jpg)
 3. Also, don’t forget to **disconnect your VPN** if you’re using it.
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Launch LOL and check the connection issue.
 
  Don’t lose your hope if you still cannot fix the connection issue after trying all the methods above. Just read the next fix and give it a shot.
@@ -183,33 +159,37 @@ Connection issues can happen in every online game and bother many players. The L
 3. Set Control Panel view by **Category** then click **View network status and tasks** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network2.jpg)
 4. Click **Change adapter settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network3.jpg)
 5. Right-click on your network and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network4.jpg)
 6. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-630.png)
 7. In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For the Preferred DNS server, enter 8.8.8.8 to replace the primary IP address; for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-633.png)  
 **Note** : If you want to restore your DNS server addresses, simply change **Use the following DNS server addresses** to **Obtain DNS server address automatically** and then restart your network adapter.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Reboot your PC and launch LOL. Check the connection issue is resolved or not.
 
 ---
@@ -224,8 +204,6 @@ Connection issues can happen in every online game and bother many players. The L
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +211,21 @@ Connection issues can happen in every online game and bother many players. The L
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-asus-rog-phone-8-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-the-woes-of-oxygens-crashing-problem-with-these-simple-solutions/"><u>End the Woes of Oxygen's Crashing Problem with These Simple Solutions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/enhancing-clarity-for-tiny-treasures-in-minecraft/"><u>Enhancing Clarity for Tiny Treasures in Minecraft</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fifty-bucks-for-freedom-breaking-through-mobile-phone-ransomware-with-ais-help-in-our-podcast-evolution/"><u>Fifty Bucks for Freedom: Breaking Through Mobile Phone Ransomware with AI's Help in Our Podcast Evolution!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-days-gone-down-a-comprehensive-solution-for-gamers-in-2024/"><u>Fixing 'Days Gone Down': A Comprehensive Solution for Gamers in 202#4</u></a></li>
+<li><a href="https://win-able.techidaily.com/hasten-your-progress-masterful-shader-optimization-techniques-for-sw-battlefront-ii/"><u>Hasten Your Progress: Masterful Shader Optimization Techniques for SW Battlefront II</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-screen-burn-on-any-screen/"><u>How to Fix Screen Burn on Any Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-troubling-windows-11-update-issue-code-0x80240034-explained/"><u>How to Fix the Troubling Windows 11 Update Issue: Code 0X80240034 Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-hp-laserjet-eb6200-printer-driver-on-windows-11108/"><u>How to Install the Latest HP LaserJet Eb6200 Printer Driver on Windows 11/10/8</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-depth-insights-on-creating-captivating-instagram-stories-for-2024/"><u>In-Depth Insights on Creating Captivating Instagram Stories for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/most-popular-tweets-of-2023-viewership-ranked/"><u>Most Popular Tweets of 2023 - Viewership Ranked</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-fix-tales-of-arise-crashes/"><u>Troubleshooting Guide: How to Fix 'Tales of Arise' Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723208024299-windows-10-taskbar-visibility-issues-heres-how-to-solve-them/"><u>Windows 10 Taskbar Visibility Issues? Here's How to Solve Them!</u></a></li>
+</ul></div>
 

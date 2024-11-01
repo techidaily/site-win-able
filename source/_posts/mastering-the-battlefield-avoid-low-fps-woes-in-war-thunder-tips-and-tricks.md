@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Battlefield: Avoid Low FPS Woes in War Thunder (Tips & Tricks)"
-date: 2024-10-20T01:18:48.099Z
-updated: 2024-10-26T09:26:27.157Z
+date: 2024-10-29T09:49:04.081Z
+updated: 2024-10-31T22:57:53.801Z
 tags:
   - win11
   - win10
@@ -34,16 +34,10 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 6. **[Uninstall and reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Run Minecraft in compatibility mode
@@ -58,17 +52,31 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
 
@@ -94,25 +102,11 @@ If the issue remains, move on to the next fix.
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Minecraft to see if the issue is resolved.
 
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Set the anti-aliasing to default
 
@@ -125,28 +119,8 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Relaunch Minecraft to see if the problem is solved.
 
@@ -161,6 +135,13 @@ If this method doesn’t do the trick, continue to the next fix.
 1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open Task Manager.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
@@ -184,6 +165,13 @@ If not, try the next fix.
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -209,22 +197,17 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-boundless-memories-archive-instagrams-free-saves/"><u>[New] 2024 Approved Boundless Memories Archive Instagram’s Free Saves</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-bebop-unleashed-the-parrots-aerial-showcase-review-for-2024/"><u>[Updated] Bebop Unleashed The Parrot's Aerial Showcase Review for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-poco-c51-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/alan-wake-2-launch-hitches-expert-advice-to-get-it-fixed-today/"><u>Alan Wake 2 Launch Hitches – Expert Advice to Get It Fixed Today!</u></a></li>
-<li><a href="https://win-able.techidaily.com/biomutant-game-crash-solutions-comprehensive-troubleshooting-guide/"><u>Biomutant Game Crash Solutions - Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/decode-and-conquer-the-2022-leaf-bug-your-step-by-step-apex-legends-error-fix/"><u>Decode and Conquer the 2022 Leaf Bug: Your Step-by-Step Apex Legends Error Fix</u></a></li>
-<li><a href="https://win-able.techidaily.com/expertly-tested-strategies-ending-vrchat-pc-malfunctions-in-8-steps/"><u>Expertly Tested Strategies: Ending VRChat PC Malfunctions in 8 Steps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/high-quality-video-calling-solutions-top-10-best-apps-ranked/"><u>High-Quality Video Calling Solutions Top 10 Best Apps Ranked</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-overcoming-unnatural-motion-blur-in-uav-videos/"><u>In 2024, Overcoming Unnatural Motion Blur in UAV Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-stability-overcoming-frequent-pc-shutdowns-while-playing-alien-fireteam-elite/"><u>Mastering Stability: Overcoming Frequent PC Shutdowns While Playing Alien: Fireteam Elite</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010787943-modern-warfare-woes-no-more-your-ultimate-guide-to-overcoming-dev-error-6034-on-ps-xbox-and-pc/"><u>Modern Warfare Woes No More: Your Ultimate Guide to Overcoming Dev Error 6034 on PS, Xbox & PC</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/navigating-business-challenges-with-casttingos-professional-guidance/"><u>Navigating Business Challenges with Casttingo's Professional Guidance</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-lens-on-sony-s3700-blu-ray-play-reviews/"><u>New Lens on Sony S3700 Blu-Ray PLAY Reviews</u></a></li>
-<li><a href="https://win-able.techidaily.com/outlook-continuously-crashing-heres-what-you-need-to-know-to-fix-it/"><u>Outlook Continuously Crashing? Here's What You Need to Know to Fix It!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/revitalizing-your-productivity-top-iphone-shortcut-techniques/"><u>Revitalizing Your Productivity: Top iPhone Shortcut Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/rogue-company-stabilization-effective-solutions-for-windows-users/"><u>Rogue Company Stabilization: Effective Solutions for Windows Users</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-instagram-video-campaigns-strategy-and-execution/"><u>The Ultimate Guide to Instagram Video Campaigns Strategy and Execution</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-become-a-social-media-vanguard-top-10-pioneering-igtv-techniques-for-marketing-excellence/"><u>[New] Become a Social Media Vanguard Top 10 Pioneering IGTV Techniques for Marketing Excellence</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-mac-system-all-in-one-screen-and-sound-capture-tool/"><u>[Updated] In 2024, Ultimate Mac System All-in-One Screen & Sound Capture Tool</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-step-by-step-method-for-altering-youtube-style-thumbnails-on-twitter/"><u>[Updated] Step-by-Step Method for Altering YouTube-Style Thumbnails on Twitter</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-mov-file-management-on-modern-windows-10/"><u>2024 Approved Mastering .mov File Management on Modern Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-constant-stalls-in-god-of-war-for-your-computer-setup/"><u>Fixing Constant Stalls in God of War for Your Computer Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/humor-algorithms-at-play-can-tech-tickle-funny-bone/"><u>Humor Algorithms at Play: Can Tech Tickle Funny Bone?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/masterful-moment-preservation-a-gif-collectors-dream-toolkit-for-2024/"><u>Masterful Moment Preservation - A Gif Collector's Dream Toolkit for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-world-of-warships-pc-problems-5-fast-and-effective-solutions/"><u>Solving the World of Warships PC Problems: 5 Fast and Effective Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-metro-exodus-pc-game-crashes/"><u>Troubleshooting Guide: Resolving Metro Exodus PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-your-football-manager-202n1-pc-solutions-to-end-game-crashing-woes/"><u>Troubleshooting Your Football Manager 202N1 PC: Solutions to End Game Crashing Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-rocket-leagues-crash-problem-a-comprehensive-2024-solutions-list/"><u>Ultimate Fix for Rocket League's Crash Problem: A Comprehensive 2024 Solutions List</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlocking-loudness-easy-tips-to-increase-sound-levels-in-windows-10-computers/"><u>Unlocking Loudness: Easy Tips to Increase Sound Levels in Windows 10 Computers</u></a></li>
 </ul></div>
 

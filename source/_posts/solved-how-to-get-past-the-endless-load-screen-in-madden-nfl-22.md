@@ -1,7 +1,7 @@
 ---
 title: "Solved: How to Get Past the Endless Load Screen in Madden NFL 22"
-date: 2024-10-24T10:49:39.270Z
-updated: 2024-10-26T13:10:25.812Z
+date: 2024-10-27T02:42:26.663Z
+updated: 2024-11-01T01:50:43.312Z
 tags:
   - win11
   - win10
@@ -44,35 +44,42 @@ thumbnail: https://thmb.techidaily.com/e5fa00147cce37f680150801c141d35390120d592
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, you’ll find the**Launch Options** section. Then enter the following parameters to open the game in windowed mode:  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **\-windowed**  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-windowed-mode.jpg)
 4. Close the**Properties** window and launch the game.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Restart your graphics driver
 
  When you get a black screen on your Windows PC, you can try using the keyboard shortcut**Windows logo key + Ctrl + Shift + B** to restart your graphics driver. If Windows is responsive, your screen will flash and then the game should work fine. But if not, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -89,33 +96,20 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is download them one at a time and manually install them.)  
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and launch Elden Ring again to see if your problem is resolved.
 
  If updating your graphics driver doesn’t solve your problem, check the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -127,15 +121,15 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under**Windows Update** , click**Check for updates** . Windows will automatically download and install the available updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Elden Ring again and check if you still get stuck on a black screen.
 
@@ -163,22 +157,16 @@ If the issue persists, move on to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
 If the issue remains, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable Steam overlay
 
@@ -217,20 +205,22 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-how-to-convert-avi-to-gif-on-windows-and-mac-with-filmora-for-2024/"><u>[Updated] How to Convert AVI to GIF on Windows and Mac with Filmora for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/epic-game-launcher-open-error-swift-and-easy-resolution-tips-available-now/"><u>Epic Game Launcher Open Error? Swift and Easy Resolution Tips Available Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-video-editing-suite-selections-a-look-at-our-top-5-pickings/"><u>Essential Video Editing Suite Selections: A Look at Our Top 5 Pickings</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722986405609-fixing-a-sluggish-chrome-browser-fast-solutions/"><u>Fixing a Sluggish Chrome Browser: Fast Solutions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-samsung-galaxy-a05s-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Samsung Galaxy A05s</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-narzo-60-pro-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme Narzo 60 Pro 5G Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-efficient-video-storing-in-google-chat/"><u>In 2024, Efficient Video Storing in Google Chat</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-strategic-guide-gain-traction-with-podcast-seo-techniques/"><u>In 2024, Strategic Guide Gain Traction with Podcast SEO Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-and-resolving-msvbvm50dll-missing-dll-dilemma/"><u>Navigating and Resolving 'Msvbvm50.dll' - Missing DLL Dilemma</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-rockstar-games-launcher-problems-with-these-expert-tips-for-2n4/"><u>Overcome Rockstar Games Launcher Problems with These Expert Tips for 2N4</u></a></li>
-<li><a href="https://win-able.techidaily.com/rainbow-six-siege-how-to-fix-error-3-0x0001000b/"><u>Rainbow Six Siege: How to Fix Error 3-0X0001000B</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-issues-with-call-of-duty-vanguard-unfreeze-gameplay-guide/"><u>Resolving Issues with Call of Duty: Vanguard - Unfreeze Gameplay Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-creating-stunning-visuals-using-dall-e-with-gpt-4-integration/"><u>Step-by-Step Guide: Creating Stunning Visuals Using DALL-E with GPT-4 Integration</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-avatamadet-performance-hiccups-on-the-frontiers-of-pandora-fix-low-fps-and-eradicate-stuttering/"><u>Troubleshooting 'Avatamadet:' Performance Hiccups on the Frontiers of Pandora: Fix Low FPS and Eradicate Stuttering</u></a></li>
-<li><a href="https://win-able.techidaily.com/unstick-your-adventure-troubleshooting-persistent-loading-screens-in-far-cry-5/"><u>Unstick Your Adventure: Troubleshooting Persistent Loading Screens in Far Cry 5</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fifa-highlights-and-trends-charting-on-youtube/"><u>[Updated] 2024 Approved FIFA Highlights & Trends Charting on YouTube</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-leading-gamers-in-tiktok-world-for-2024/"><u>[Updated] Leading Gamers in TikTok World for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1716069619891-updated-leveraging-built-in-recorders-on-mate-1020-and-p2010-series-to-screen-capture-for-2024/"><u>[Updated] Leveraging Built-In Recorders on Mate 10/20 & P20/10 Series to Screen Capture. For 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728509464623-windows-11/"><u>外付けハードドライブにバックアップする:Windows 11ユーザー向け完全手引き</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/animtech-full-audit-24-summary/"><u>AnimTech Full Audit '24 Summary</u></a></li>
+<li><a href="https://blog-min.techidaily.com/beste-screencapture-software-fur-mac-perfektioniere-dein-bildschirmaufnahmeerlebnis/"><u>Beste Screencapture-Software Für Mac - Perfektioniere Dein Bildschirmaufnahmeerlebnis!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/detailed-ice-cream-snapshot-analysis-report-for-2024/"><u>Detailed Ice Cream Snapshot Analysis Report for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-sudden-crashes-in-windows-or-mac-systems/"><u>Diagnosing and Repairing Sudden Crashes in Windows or Mac Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009252406-ds4-device-failure-on-windows-heres-how-to-install-the-correct-driver-and-fix-it/"><u>DS4 Device Failure on Windows? Here’s How to Install the Correct Driver & Fix It</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-elite-dangerous-game-crash-issue-on-your-windows-computer/"><u>Fixing the Elite Dangerous Game Crash Issue on Your Windows Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-and-resolve-call-of-duty-warzone-from-crashing-on-your-pc-latest-solutions/"><u>How to Prevent and Resolve Call of Duty Warzone From Crashing on Your PC - Latest Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oneplus-nord-ce-3-lite-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your OnePlus Nord CE 3 Lite 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-infinix-note-30-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Infinix Note 30 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/left-4-dead-2-game-crash-solutions-now-available-for-players/"><u>Left 4 Dead 2 Game Crash Solutions Now Available for Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-pc-setup-expert-tips-for-reducing-lag-and-improving-ping-in-street-fighter-6/"><u>Optimizing Your PC Setup: Expert Tips for Reducing Lag and Improving Ping in Street Fighter 6</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-connection-hiccups-in-cod-warzone-how-to-fix-delays-finding-matches-on-pc/"><u>Overcoming Connection Hiccups in COD Warzone: How to Fix Delays Finding Matches on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-eliminating-low-frames-and-hitches-on-naraka-bladepoint/"><u>Step-by-Step Guide to Eliminating Low Frames & Hitches on Naraka: Bladepoint</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Halo Infinite Sound Troubles? Here's How You Can Get Quality Audio Back
-date: 2024-10-18T23:22:02.688Z
-updated: 2024-10-26T15:06:32.151Z
+date: 2024-10-30T19:13:59.689Z
+updated: 2024-10-31T23:44:26.516Z
 tags:
   - win11
   - win10
@@ -63,14 +63,21 @@ If this fix doesn’t solve your problem, try the next fix.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_15-19-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged drivers to automatically download their correct version, then you can manually install them (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_15-18-16.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -81,15 +88,22 @@ If this fix doesn’t solve your problem, try the next fix.
  Restart your PC for the new drivers to take effect. If the audio problem persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Configure Windows sound settings
 
  Last but not least, you can try to adjust the sound settings on your PC to see if it helps. While we’re waiting for the developers to recognize and work on the bugs, these workarounds may improve the in-game audio quality.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Configure the output device settings
 
@@ -100,20 +114,13 @@ If this fix doesn’t solve your problem, try the next fix.
 2. Make sure you select the**Stereo** audio. Hands-Free audio allows you to use your device as both the output and input device, but your audio quality will be very low.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-12-24.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Turn on loudness equalization
 
@@ -126,21 +133,7 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-28-11.jpg)
 3. Switch to the**Enhancements** tab. Tick the checkbox of**Loudness Equalization** , then click**Apply** and**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-28-36.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this doesn’t work for you or you wish to revert the change, simply repeat the steps above and uncheck the Loudness Equalization setting.
 
@@ -151,6 +144,19 @@ If this fix doesn’t solve your problem, try the next fix.
 1. Right-click the**speaker icon** on your taskbar, move your cursor to**Spatial sound** , and click**Windows Sonic for Headphones** . You may see different options here based on your output device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-27-28.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Disable the communication option
 
  When Windows detects you’re voice-chatting or video-calling on your PC, it may reduce the volume of other sounds. You can adjust this setting in the sound control panel:
@@ -159,14 +165,14 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-27-44.jpg)
 2. Go to the**Communications** tab, select**Do nothing** , then click**Apply** and**OK** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-22_10-11-57.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-22_10-11-57.jpg)
 
 ---
 
@@ -189,14 +195,24 @@ If this fix doesn’t solve your problem, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-choosing-youtube-downloader-apps-on-your-android-device-for-2024/"><u>[New] Choosing YouTube Downloader Apps on Your Android Device for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-gameplay-transformations-roguelikes-vs-roguiles/"><u>[New] In 2024, Gameplay Transformations Roguelikes Vs. Roguiles</u></a></li>
-<li><a href="https://win-able.techidaily.com/avoid-disruption-during-matches-resolving-fm2019-game-crash-errors/"><u>Avoid Disruption During Matches: Resolving FM2019 Game Crash Errors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ensuring-accurate-medical-information-strategies-to-validate-health-claims-from-ai-and-chatgpt-services/"><u>Ensuring Accurate Medical Information: Strategies to Validate Health Claims From AI and ChatGPT Services</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ring-how-youtube-picks-most-engaging-comments/"><u>Exploring How YouTube Picks Most Engaging Comments</u></a></li>
-<li><a href="https://games-able.techidaily.com/pokemon-gameplay-tips-for-iphoneipad-users/"><u>Pokémon Gameplay Tips for iPhone/iPad Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-performance-problems-how-to-fix-solved-continuous-crashes-in-the-ascent-for-windows-users/"><u>Resolving Performance Problems: How to Fix [SOLVED] Continuous Crashes in 'The Ascent' For Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-steps-for-launch-errors-in-modern-warfare-2-game/"><u>Solution Steps for Launch Errors in Modern Warfare 2 Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-mastering-roller-champions-co-op-mode/"><u>Ultimate Guide: Mastering Roller Champions Co-Op Mode</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-strengthening-your-brand-with-high-quality-fb-covers/"><u>[New] 2024 Approved Strengthening Your Brand with High-Quality FB Covers</u></a></li>
+<li><a href="https://win11.techidaily.com/approaches-to-optimize-cpu-load-from-tiworkerexe/"><u>Approaches to Optimize CPU Load From TiWorker.exe</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-call-of-duty-modern-warfare-3-performance-lags-an-in-depth-analysis-for-players-202/"><u>Dealing with Call of Duty: Modern Warfare 3 Performance Lags - An In-Depth Analysis for Players (202^)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-8-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-compatibility-update-hp-officejet-pro-6970-drivers-for-windows-users/"><u>Ensure Compatibility: Update HP OfficeJet Pro 6970 Drivers for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/eternal-reiteration-unveiled-strategies-for-enduring-in-a-cycle-of-constant-resurgence/"><u>Eternal Reiteration Unveiled: Strategies for Enduring in a Cycle of Constant Resurgence</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-silent-trouble-resolving-lack-of-audio-in-roblox-games-on-windows-11-and-10/"><u>Fixing the Silent Trouble: Resolving Lack of Audio in Roblox Games on Windows 11 & 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-world-of-warcraft-not-starting-issues-on-your-windows-computer/"><u>How to Fix World of Warcraft Not Starting Issues on Your Windows Computer</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/hyperscape-pc-stability-issues-solutions-found/"><u>HyperScape PC Stability Issues - Solutions Found!</u></a></li>
+<li><a href="https://win-able.techidaily.com/illuminate-your-gameplay-how-to-fix-fortnites-ominous-black-screen-on-pc/"><u>Illuminate Your Gameplay: How to Fix Fortnite's Ominous Black Screen on PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-zte-nubia-z60-ultra-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from ZTE Nubia Z60 Ultra to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-camera-unavailable-obstacle-on-snapchat-a-step-by-step-guide/"><u>Overcoming 'Camera Unavailable' Obstacle on Snapchat – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-gaming-finals-helpful-hints-and-tips/"><u>Overcoming Launch Errors Gaming Finals: Helpful Hints and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-framerate-drop-and-lag-problems-in-battlefield-2042-pc-version/"><u>Resolved: Fixes for Framerate Drop & Lag Problems in Battlefield 2042 PC Version</u></a></li>
+<li><a href="https://driver-error.techidaily.com/securing-seamless-connection-lenovo-on-windows-10/"><u>Securing Seamless Connection: Lenovo on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-insight-into-devhome-for-seamless-win11-experience/"><u>The Insight Into DevHome for Seamless Win11 Experience</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-urban-ecosystem-fostering-resilience-through-green-policies/"><u>The Urban Ecosystem Fostering Resilience Through Green Policies</u></a></li>
 </ul></div>
 

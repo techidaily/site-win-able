@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Football Manager 2021 Sudden Shutdowns and Hangs on Personal Computers
-date: 2024-10-19T16:10:37.697Z
-updated: 2024-10-25T23:28:42.518Z
+date: 2024-10-29T00:18:45.142Z
+updated: 2024-10-31T18:57:37.014Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 4. **[Delete the Preferences and/or Caches Folder](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  Updating your graphics driver should always be your go-to option when something goes wrong with your games or multimedia programs.
@@ -47,10 +54,10 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-00-53-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -60,10 +67,10 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-00-59-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -73,16 +80,10 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
  If your issue persists after updating your graphics driver, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of your game files
@@ -94,6 +95,13 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 **2)** Click **LIBRARY.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Right-click **Football Manager 2020**  and select **Properties** .
 
@@ -176,42 +184,48 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-22-59.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back up your game content.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-36.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** . Then, click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-51.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-24-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
 
@@ -219,23 +233,9 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-25-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **8)**  Move the backup **steamapps folder**  you created to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-25-16.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **9)**  Restart Steam and your game.
 
@@ -262,16 +262,16 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-leading-likes-best-insta-stories-filter-for-2024/"><u>[New] Leading Likes Best Insta Stories Filter for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-intellectual-property-rules-for-instagram-beats/"><u>2024 Approved Intellectual Property Rules for Instagram Beats</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-latest-update-exploring-enhancements-in-the-new-airpods-pro-genesis-a-comprehveiw-by-zdnet/"><u>Apple's Latest Update: Exploring Enhancements in the New AirPods Pro Genesis - A Comprehveiw by ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-overcoming-constant-game-interruptions-dealing-with-madden-nfl-21-pc-crashes/"><u>Effective Solutions for Overcoming Constant Game Interruptions - Dealing with Madden NFL 21 PC Crashes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-compress-or-downscale-4k-videos-to-1080p-on-windowsmac-computers/"><u>How to Compress or Downscale 4K Videos to 1080P on Windows/Mac Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-valorant-errors-corrective-guide-for-uninitialized-vanguard-problem/"><u>Mastering Valorant Errors: Corrective Guide for 'Uninitialized Vanguard' Problem</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/professional-sticker-cleansing-for-videos-for-2024/"><u>Professional Sticker Cleansing for Videos for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fix-guide-eliminate-unexpected-lol-interruptions-once-and-for-all/"><u>Quick-Fix Guide: Eliminate Unexpected LoL Interruptions Once & For All!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/snag-the-deal-before-it-ends-amazons-temporary-200-discount-on-apple-vision-pro/"><u>Snag the Deal Before It Ends! Amazon's Temporary $200 Discount on Apple Vision Pro.</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-gta-5-online-not-working-a-comprehensive-guide-to-repairing-your-gameplay/"><u>Solve 'GTA 5 Online Not Working': A Comprehensive Guide to Repairing Your Gameplay</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-to-correct-d3dx925dll-not-found-errors-on-your-system/"><u>Step-by-Step Solution to Correct 'd3dx9_25.dll' Not Found Errors on Your System</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-transform-your-drive-must-have-accessories-for-sj4000-owners/"><u>[New] 2024 Approved Transform Your Drive Must-Have Accessories for SJ4000 Owners</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-most-memorable-2022-ice-sculpture-moves/"><u>[Updated] In 2024, The Most Memorable 2022 Ice Sculpture Moves</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-timeout-issue-during-download-progress/"><u>How to Fix “Timeout” Issue During Download Progress</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-and-resolve-continuous-dota-underlord-game-crashes/"><u>How to Prevent and Resolve Continuous Dota Underlord Game Crashes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-for-educators-maximizing-its-classroom-potential/"><u>In 2024, YouTube for Educators Maximizing Its Classroom Potential</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-guide-to-converting-your-dvds-into-iphones-compatible-format/"><u>Simple Guide to Converting Your DVDs Into iPhones-Compatible Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-city-skylines-2-startup-issues/"><u>Troubleshooting City Skylines 2 Startup Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resident-evil-village-failed-to-initialize/"><u>Troubleshooting Steps: 'Resident Evil Village Failed to Initialize'</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Ultimate guide to get the meltan box pokemon go For Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upgrading-to-iphone-14-find-out-if-your-iphone-13-case-still-fits-zdnet-exclusive/"><u>Upgrading to iPhone 14? Find Out if Your iPhone 13 Case Still Fits - ZDNET Exclusive</u></a></li>
 </ul></div>
 

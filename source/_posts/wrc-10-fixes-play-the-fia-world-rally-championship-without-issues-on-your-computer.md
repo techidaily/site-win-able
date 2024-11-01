@@ -1,7 +1,7 @@
 ---
 title: "WRC 10 Fixes: Play the FIA World Rally Championship Without Issues on Your Computer"
-date: 2024-09-10T14:08:11.056Z
-updated: 2024-09-11T14:08:11.056Z
+date: 2024-10-26T07:03:43.277Z
+updated: 2024-11-01T07:10:14.246Z
 tags:
   - win11
   - win10
@@ -39,20 +39,6 @@ System requirements of WRC 10 from Steam
 
  WRC 10 still keeps crashing on your PC even though your PC meets the system requirements? Just read on and try the fixes below.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Try these fixes
 
  Although the causes of WRC 10 crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers. Whether WRC 10 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -63,25 +49,12 @@ System requirements of WRC 10 from Steam
 4. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 5. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Verify integrity of game files
 
@@ -95,49 +68,22 @@ System requirements of WRC 10 from Steam
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **To verify game files in Epic Games Launcher:**
 
 1. Launch **Epic Games Launcher** and go to your **Library** .
 2. Click on the **three dots** under the **WRC 10 FIA World Rally Championship** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch WRC 10 and check if this fix works. If the game still crashes, try the next fix, below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Update your graphics driver
 
@@ -156,42 +102,16 @@ System requirements of WRC 10 from Steam
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Install the latest game patch
 
@@ -200,6 +120,13 @@ System requirements of WRC 10 from Steam
  If a patch is available, it will be detected by Steam or Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch WRC 10 again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -211,20 +138,6 @@ System requirements of WRC 10 from Steam
 
  If the game crashing issue persists, try the next fix to perform a clean boot.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Perform a clean boot
 
  If there is a certain application conflicting with WRC 10, the game would not run properly. To find out the problematic application behind the game crashing issue, you need to perform a clean boot. Here’s how to do it:
@@ -233,48 +146,31 @@ System requirements of WRC 10 from Steam
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
-5. Go back to the **System Configuration** window and click **OK** .  
-
-
-
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
+5. Go back to the **System Configuration** window and click **OK** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch WRC 10 to check if the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -301,8 +197,6 @@ System requirements of WRC 10 from Steam
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -310,4 +204,26 @@ System requirements of WRC 10 from Steam
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-top-10-intro-maker-for-panzoid/"><u>[New] Top 10 Intro Maker for Panzoid</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-comparing-the-best-editors-for-professionals-filmora-vs-democreator/"><u>[Updated] Comparing the Best Editors for Professionals Filmora Vs. Democreator</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-crafting-visionary-art-top-10-apps-for-vector-enthusiasts/"><u>[Updated] Crafting Visionary Art Top 10 Apps for Vector Enthusiasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehhemic-approach-eliminating-the-ark-crashing-point-with-expertise/"><u>Comprehhemic Approach: Eliminating the 'Ark' Crashing Point with Expertise</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-roblox-error-277-in-windows-ultimate-troubleshooting-guide/"><u>Fix Roblox Error 277 in Windows: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-found-resolving-the-surge-2-games-frequent-crashing-issues/"><u>Fixes Found: Resolving The Surge 2 Game's Frequent Crashing Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-minecraft-lan-not-responding-easy-steps-for-players/"><u>Fixing 'Minecraft LAN Not Responding' - Easy Steps for Players</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/gofundme-campaign-imagery-tips/"><u>GoFundMe Campaign Imagery Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-7-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 7 to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-perfecting-remote-conferences-with-focused-scopes/"><u>In 2024, Perfecting Remote Conferences with Focused Scopes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-revolutionizing-virtual-meetings-hacks-for-effective-zoom-chats/"><u>In 2024, Revolutionizing Virtual Meetings Hacks for Effective Zoom Chats</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-unveiling-excellent-video-keywords-on-youtube/"><u>In 2024, Unveiling Excellent Video Keywords on YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-gamers-advice-overcoming-gameplay-interruptions-in-gta-v/"><u>Master Gamers' Advice: Overcoming Gameplay Interruptions in GTA V</u></a></li>
+<li><a href="https://win-able.techidaily.com/msi-mystic-light-malfunction-on-pc-heres-how-to-restore-its-performance-under-windows/"><u>MSI Mystic Light Malfunction on PC? Here's How to Restore Its Performance Under Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-madden-22-loading-deadlock-proven-fixes-and-tips-inside/"><u>Say Goodbye to Madden 22 Loading Deadlock: Proven Fixes & Tips Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996460176-smooth-gaming-on-your-pc-with-these-fixes-for-wrc-10-the-official-fia-world-rally-championship/"><u>Smooth Gaming on Your PC with These Fixes for WRC 10, the Official FIA World Rally Championship</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-puzzle-overcome-loading-glitch-in-madden-nfl-22/"><u>Solving the Puzzle: Overcome 'Loading' Glitch in Madden NFL 22</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-for-smooth-street-fighter-6-gameplay-with-low-latency-and-ping-issues/"><u>Ultimate Troubleshooting for Smooth Street Fighter 6 Gameplay with Low Latency & Ping Issues</u></a></li>
+</ul></div>
 

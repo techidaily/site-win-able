@@ -1,7 +1,7 @@
 ---
 title: "Bypassing DirectX Hiccups: Effective Fixes for FIFA 20 Players"
-date: 2024-10-24T00:40:48.427Z
-updated: 2024-10-26T12:53:12.175Z
+date: 2024-10-25T16:40:38.935Z
+updated: 2024-11-01T01:45:30.814Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 6. **[Disable extra peripherals at launch (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-mass-effect-legendary-edition-crashing-pc-xbox/#fix6)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify integrity of game files
@@ -57,6 +57,13 @@ You can use these steps to scan and repair your game:
 
 If this doesn’t help, check out the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  Game crashes tend to be graphics related, which means that you could be using**a broken or outdated graphics driver** . The remastered Mass Effect is graphically demanding, and having the latest graphics driver definitely gives you a leg up.
@@ -68,6 +75,13 @@ If this doesn’t help, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -76,6 +90,13 @@ If this doesn’t help, check out the next fix below.
 
  If the latest graphics driver doesn’t give you luck, you can continue to the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable hardware monitors
 
  Some gamers suggested that hardware monitoring software could be interfering with the game and hence the crashes. When troubleshooting crashing issues, we recommend closing other programs so as to minimize the risk. In other words, if you’re using hardware monitors such as**MSI Afterburner** ,**NVIDIA GeForce Experience** and**AIDA64** , make sure they’re turned off before launching Mass Effect.
@@ -83,19 +104,6 @@ If this doesn’t help, check out the next fix below.
  Also make sure you’re not overclocking your hardware using apps or BIOS settings.
 
  If you’re not running any monitors nor overclocking, simply check out the next tips below.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable all overlays
 
@@ -115,30 +123,9 @@ Here’s how to disable VSync with NVIDIA graphics card:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, select**Manage 3D settings** . In the right pane, click**Vertical sync** and select**Off** from the drop down menu. Then click**Apply** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now you can launch Mass Effect and check if it crashes again.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable extra peripherals at launch (Xbox)
 
@@ -148,6 +135,13 @@ Now you can launch Mass Effect and check if it crashes again.
 2. Launch**Mass Effect** from your dashboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-xbox-1.jpg)
 3. Enter one of the games from the launcher menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-xbox-2.jpg)
 4. Once you’re on the startup screen of your game, turn on and connect your wireless headset.
@@ -171,15 +165,19 @@ Now you can launch Mass Effect and check if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-enter-the-world-of-funimate-with-ease/"><u>[New] 2024 Approved Enter the World of Funimate with Ease</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-bio-linking-a-complete-system-on-tiktok/"><u>[Updated] Perfecting Bio Linking A Complete System on TikTok</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-expert-review-unlocking-the-potential-with-showmore-recorder/"><u>2024 Approved Expert Review Unlocking the Potential with ShowMore Recorder</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-crashes-while-playing-stray-impact-discover-6-game-saving-tweaks-for-pc/"><u>No More Crashes While Playing Stray: Impact - Discover 6 Game-Saving Tweaks for PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-network-delays-and-connectivity-errors-in-new-world-effective-solutions/"><u>Overcoming Network Delays and Connectivity Errors in 'New World': Effective Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-performance-hacks-overcoming-sons-of-the-forest-game-freezes-and-crashes/"><u>PC Performance Hacks: Overcoming Sons of the Forest Game Freezes & Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-pc-issues-how-to-stop-enshrouded-games-from-freezing/"><u>Resolving PC Issues: How to Stop Enshrouded Games From Freezing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/steering-clear-of-mistakes-with-ai-generators/"><u>Steering Clear of Mistakes with AI Generators</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-reactivating-spatial-audio-in-your-windows-10-or-11-system/"><u>Troubleshooting Guide: Reactivating Spatial Audio in Your Windows 10 or 11 System</u></a></li>
-<li><a href="https://techidaily.com/v29e-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>V29e Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-crystal-clear-captures-removing-fog-from-gopro-shots/"><u>[New] 2024 Approved Crystal Clear Captures Removing Fog From GoPro Shots</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhance-info-blocks-templates-for-youtube-titles/"><u>[Updated] 2024 Approved Enhance Info Blocks Templates for YouTube Titles</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-boosting-bank-balance-crafting-commercial-video-content/"><u>[Updated] Boosting Bank Balance Crafting Commercial Video Content</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-ensuring-legitimacy-of-your-youtube-sign-in/"><u>[Updated] Ensuring Legitimacy of Your YouTube Sign-In</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-asus-proart-pa-329q-the-pinnacle-in-high-definition-viewing/"><u>[Updated] In 2024, Asus ProArt PA 329Q The Pinnacle in High-Definition Viewing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-leading-8-affordable-open-source-platforms-for-enterprise-calls-for-2024/"><u>[Updated] Leading 8 Affordable Open-Source Platforms for Enterprise Calls for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-your-videos-hidden-potential-with-these-top-20-shortcuts/"><u>[Updated] Unlock Your Video's Hidden Potential with These Top 20 Shortcuts</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-forza-horizon-5-visuals-update-your-graphic-drivers-today/"><u>Boosting Forza Horizon 5 Visuals? Update Your Graphic Drivers Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/enabling-virtualization-a-comprehensive-tutorial-for-hyper-v-in-windows-11/"><u>Enabling Virtualization: A Comprehensive Tutorial for Hyper-V in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-winwordexe-hiccups-effortless-strategies-for-word-users/"><u>Fixing WINWORD.EXE Hiccups: Effortless Strategies for Word Users</u></a></li>
+<li><a href="https://facebook.techidaily.com/master-discretion-tailoring-social-media-presence-stealthily/"><u>Master Discretion: Tailoring Social Media Presence Stealthily</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-resolving-fifa-19s-directx-troubles-without-a-hitch/"><u>Quick Solutions: Resolving FIFA 19'S DirectX Troubles Without a Hitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-dead-by-daylight-eta-8014-issue-expert-fixes-and-tips/"><u>Solving Dead by Daylight ETA 8014 Issue: Expert Fixes & Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-stabilizing-age-of-wonders-planetfall-resolving-pc-crash-issues/"><u>Ultimate Guide to Stabilizing Age of Wonders: Planetfall - Resolving PC Crash Issues</u></a></li>
 </ul></div>
 

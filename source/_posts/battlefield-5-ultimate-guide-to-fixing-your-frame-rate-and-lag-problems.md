@@ -1,7 +1,7 @@
 ---
 title: "Battlefield 5: Ultimate Guide to Fixing Your Frame Rate and Lag Problems"
-date: 2024-09-10T14:08:13.999Z
-updated: 2024-09-11T14:08:13.999Z
+date: 2024-10-24T18:24:15.242Z
+updated: 2024-10-31T18:39:38.405Z
 tags:
   - win11
   - win10
@@ -16,20 +16,6 @@ thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c
 ## Battlefield 5 PC Stability Guide - Solve Your Game Crash Problems
 
 Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring your Battlefield 5 back to life. You may have been looking all the way for solutions but failed to solve this annoying issue. Below are all the possible fixes that have helped many other players. Try these fixes and enjoy your World War II without any crashes.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -49,20 +35,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 **Note:** Don’t use fullscreen (use borderless instead) and don’t**Alt + Tab** your game, for these two things can always cause Battlefield V crashing issues.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 1: Change Windows 10 Virtual Memory/Pagefile
 
  If the Windows 10 virtual memory isn’t set right, there is a chance of crashing and freezing issues with Battlefield V. Windows usually manages the Virtual memory automatically, but you can manually change the size of virtual memory if the default size isn’t large enough for your needs.
@@ -76,6 +48,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  2) Under the Advanced tab, click**Setting** s.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Advanced** tab and click**Change** .
 
@@ -92,6 +71,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  5) Click**Set** \>**OK** , then restart your computer for the changes to take effect.
 
  6) Launch your Battlefield V again and play for a few hours to check if the crashing issue still persists.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Turn off the in-game overlay
 
@@ -129,19 +115,12 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now-1.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click the**Update** button next to the flagged graphics card and all other devices to download the correct driver (you can do this with the FREE version), then manually install it.
 
@@ -151,23 +130,23 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/driver-easy-update-all.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 4) Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Delete settings and repair your Battlefield V
 
@@ -180,20 +159,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  3) Restart your PC when the repair is done.
 
  4) Launch your Battlefield V again to see if the crashing issue still persists.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Stop Overclocking
 
@@ -209,20 +174,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Battlefield-5-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **Note:** If you fail to see the**DX12 ENABLED** option in the Advanced Video Settings, you can revert it back to DX11 manually.  
   
  1\. Go to your**Battlefield 5** folder then the**settings** folder, right-click**PROFSAVE\_profile** and select**Edit with Notepad** .  
@@ -234,6 +185,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  3) If the crashing issue still persists, try lowering your in-game resolution (adjust the monitor’s and resolution accordingly) and restarting the game again.
 
  4) If neither of those workarounds does the trick, you may need to toggle off DXR for a smoother play experience.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Run Origin and BFV as admin
 
@@ -251,35 +209,7 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/origin-run-as-admin.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  4) Try launching your game again to see if Battlefield V crashing issue still persists.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 8: System File Checker
 
@@ -312,6 +242,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type the command:**sfc /scannow** and hit**Enter** . Note that there’s a space between**sfc** and**/** .
 
 sfc /scannow
@@ -319,20 +256,6 @@ sfc /scannow
  3) Wait for the verification process to finish. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/sfc-scannow.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  4) When the verification finishes, you may receive one of the following messages:
 
@@ -342,26 +265,6 @@ sfc /scannow
  You can perform a restart and try to relaunch the game to see if Battlefield 5 crashes are gone.
 
  If you receive neither of these messages, you can click **[Microsoft Support Page](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)**  to further fix your problem with the System File Checker tool.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 9: Perform a clean boot
 
@@ -375,41 +278,20 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/perform-a-clean-boot.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click the**Startup** tab and click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/open-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select each startup item and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-app.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 4) Restart your PC and launch your Battlefield V again to test the issue.
 
@@ -430,8 +312,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -439,4 +319,16 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-skies-with-xiaomis-4k-drone/"><u>[Updated] Mastering the Skies with Xiaomi's 4K Drone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-resolving-persistent-crashes-of-lunar-client-on-windows-pcs/"><u>Fixes and Solutions: Resolving Persistent Crashes of Lunar Client on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/god-of-war-troubleshooting-how-to-beat-the-not-enough-memory-glitch-on-pc-gaming/"><u>God of War Troubleshooting: How To Beat the 'Not Enough Memory' Glitch on PC Gaming</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994139138-minecraft-load-failures-top-strategies-to-get-your-game-running-smoothly-again/"><u>Minecraft Load Failures? Top Strategies to Get Your Game Running Smoothly Again!</u></a></li>
+<li><a href="https://facebook.techidaily.com/new-era-of-transparency-insights-from-fb-files/"><u>New Era of Transparency: Insights From FB Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-cs2-lag-issues-a-step-by-step-guide-for-gamers/"><u>Solving CS2 Lag Issues: A Step-by-Step Guide for Gamers</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-honor-100-by-fonelab-android-recover-data/"><u>Undelete lost data from Honor 100</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Infinix Hot 30i | Dr.fone</u></a></li>
+</ul></div>
 

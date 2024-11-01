@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Persistent Crashes in The King of Fighters XV and Enjoy Uninterrupted Gaming on Your Computer
-date: 2024-09-10T14:08:14.711Z
-updated: 2024-09-11T14:08:14.711Z
+date: 2024-10-29T16:14:05.060Z
+updated: 2024-11-01T04:35:01.757Z
 tags:
   - win11
   - win10
@@ -18,20 +18,6 @@ thumbnail: https://thmb.techidaily.com/9648422bd4a60544ea009a8215c8d33f0ea36e37b
 You just jumped into the stylish world of Persona but annoyed to find that Persona 5 Strikers keeps crashing. If you’re experiencing random game crashes or crashes on startup, don’t worry. You should be able to fix it by yourself in this post.
 
  Before you proceed with the fixes below, please make sure your gear meets[the minimum requirements of Persona 5 Stri](https://gamesystemrequirements.com/game/persona-5-strikers) [kers](https://gamesystemrequirements.com/game/persona-5-strikers) .
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -56,20 +42,6 @@ You just jumped into the stylish world of Persona but annoyed to find that Perso
 
  Note that some antivirus software will still keep running even when disabled. You can add your game to its exclusion list or uninstall it temporarily.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 2\. Update your graphics drivers
 
  It’s very important to keep your graphics drivers updated to the latest version, whether for Persona 5 Strikers or other games. Graphics manufacturers keep releasing new drivers to fix known bugs and make minor improvements.
@@ -84,40 +56,6 @@ There are mainly two ways for you to update your graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/clean.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Option 2: Automatically
 
  If you don’t have the time, patience, or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -130,51 +68,19 @@ There are mainly two ways for you to update your graphics driver:
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
  ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with the Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 4. Reboot your computer and launch the game to see if Persona 5 Strikers is launching properly.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 3\. Verify the game files
 
@@ -196,43 +102,31 @@ There are mainly two ways for you to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/persona-5-properties.png)
 2. Under the**LAUNCH OPTIONS** , add**\-windowed** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windowed-mode.png)
 3. Close the game’s **Properties** window and launch the game.
 
- Now you will find the game stops crashing. If this method doesn’t work for you, don’t worry. You can try the fix below.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+ Now you will find the game stops crashing. If this method doesn’t work for you, don’t worry. You can try the fix below.
 
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Run your game as an administrator
 
@@ -246,21 +140,21 @@ There are mainly two ways for you to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/compatibility.png)
 4. Click**Apply** \>**OK** .
 
- Now launch your game from there and see if this solved your crashing issue. If not, you can try the next fix below.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+ Now launch your game from there and see if this solved your crashing issue. If not, you can try the next fix below.
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Tweak some settings in NVIDIA Control Panel
 
@@ -291,8 +185,6 @@ There are mainly two ways for you to update your graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -300,4 +192,23 @@ There are mainly two ways for you to update your graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/escape-from-tarkov-repairing-anticheat-connection-breakdowns-a-comprehensive-guide/"><u>'Escape From Tarkov: Repairing Anticheat Connection Breakdowns - A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-epic-browser-recording-tools-for-the-ultimate-surfers-dream/"><u>[New] 2024 Approved Epic Browser Recording Tools for the Ultimate Surfer's Dream</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-what-to-pick-for-your-youtube-videos-ideal-formats-explored/"><u>[New] In 2024, What to Pick for Your YouTube Videos? Ideal Formats Explored</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010890998-solved-borderlands-3-crash-quickly-and-easily/"><u>[SOLVED] Borderlands 3 Crash | Quickly & Easily</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-uav-selection-in-stock/"><u>[Updated] Premium UAV Selection in Stock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-dos-and-donts-for-freelance-writers-looking-to-excel/"><u>ChatGPT Mastery: Do's & Don'ts for Freelance Writers Looking to Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-remedies-to-overcome-helldivers-2-stubborn-bluescreen-errors/"><u>Effective Remedies to Overcome 'HellDivers 2' Stubborn Bluescreen Errors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-haunting-hilarity-hub/"><u>In 2024, Haunting Hilarity Hub</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-simple-approach-to-getting-clownfish-voice-changer-on-windows/"><u>In 2024, Simple Approach to Getting Clownfish Voice Changer on Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-instagram-follower-dilemrancy-guide/"><u>In 2024, The Instagram Follower Dilemrancy Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999426194-rage-against-the-machine-crash-effective-solutions-for-seamless-play/"><u>Rage Against the Machine (Crash): Effective Solutions for Seamless Play!</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-pro-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Pro Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-persistent-crash-issue-in-dirt-5-for-personal-computers/"><u>Solving the Persistent Crash Issue in Dirt 5 for Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-valheim-lag-issues-how-to-improve-fps-on-your-windows-computer/"><u>Solving Valheim Lag Issues: How to Improve FPS on Your Windows Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/team-fortress-2-stability-overcoming-persistent-crash-issues-with-effective-fixes/"><u>Team Fortress 2 Stability: Overcoming Persistent Crash Issues with Effective Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-fixing-a-crash-in-a-total-war-saga-troy-on-windows/"><u>Troubleshooting Steps for Fixing a Crash in 'A Total War Saga: Troy' On Windows</u></a></li>
+</ul></div>
 

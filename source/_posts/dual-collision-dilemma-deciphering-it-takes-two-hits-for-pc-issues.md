@@ -1,7 +1,7 @@
 ---
 title: "Dual Collision Dilemma: Deciphering 'It Takes Two Hits' For PC Issues"
-date: 2024-10-19T18:17:42.905Z
-updated: 2024-10-26T08:08:07.991Z
+date: 2024-10-29T22:06:26.157Z
+updated: 2024-11-01T01:03:34.048Z
 tags:
   - win11
   - win10
@@ -52,21 +52,14 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 4. Delete all the files and folders in this folder **except for the LocalContent folder** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/ProgramData-Origin-folder-2.png)
 5. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![run dialog: %AppData%](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-AppData.png)
 6. In the pop-up window, delete the **Origin**  folder.  
@@ -74,23 +67,16 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 7. Click **AppData** in the address bar.  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Address-Bar.png)
 8. Double-click the **Local**  folder to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Local-folder.png)
 9. Delete the **Origin**  folder in the **Local** folder.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Local-Origin-folder.png)
 10. Restart Windows.
@@ -101,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Origin as administrator
 
  Origin sometimes may not work properly if it is not granted the administrator privilege. If Origin still keeps crashing after you cleared the Origin cache, you can try running Origin as administrator. Here is how to do it:
@@ -108,19 +101,6 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 1. On your desktop,**right-click** on**the Origin shortcut** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/run-origin-as-sdministrator.png)
 2. You’ll be prompted for permission. Click**Yes** to continue.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If Origin crashes again, try the next fix to update your graphics driver.
 
@@ -177,6 +157,20 @@ If Origin crashes again, try the next fix to update your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/windows-compatibility-troubleshooter-2.png)
 7. If Origin can load normally, then click**Next** and Select**Yes, save these settings for this program** .  
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/windows-compatibility-troubleshooter-3.png)
 8. If not, select**No, try again using different settings** . Then follow the on-screen instructions to run Program Compatibility Troubleshooter.
 9. If it still doesn’t work, then run Program Compatibility Troubleshooter again and **select the second option**   **to choose compatibility settings based on problems you notice** .  
@@ -217,6 +211,13 @@ If Origin crashes again, try the next fix to update your graphics driver.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Add Origin as an exception to your third-party antivirus application
 
  The Origin crash issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Origin.
@@ -237,18 +238,25 @@ If Origin crashes again, try the next fix to update your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
@@ -262,13 +270,6 @@ If Origin crashes again, try the next fix to update your graphics driver.
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall** it to avoid game crashing issues in the future.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Origin
 
@@ -286,16 +287,16 @@ If Origin crashes again, try the next fix to update your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  iii. Double-click**Origin** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 iv. Restart your Windows system when it is completed.
 
@@ -324,24 +325,18 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ame-on-steps-for-crafting-an-influential-online-gamers-channel-for-2024/"><u>[New] Game On Steps for Crafting an Influential Online Gamers' Channel for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-streamer-struggle-navigating-the-waters-between-obs-and-twitch-for-2024/"><u>[New] Streamer Struggle Navigating the Waters Between OBS & Twitch for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-of-the-best-photo-overlays-and-text-editors-review-for-2024/"><u>Best of the Best Photo Overlays & Text Editors Review for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/busting-bugs-how-to-keep-house-flipper-2-running-stable-on-windows-or-mac/"><u>Busting Bugs: How to Keep House Flipper 2 Running Stable on Windows or Mac</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-strategies-to-resolve-lost-arks-network-access-problem/"><u>Comprehensive Strategies to Resolve Lost Ark’s Network Access Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/destiny-2-visuals-error-troubleshooting-guide-fixed-issue/"><u>Destiny 2 Visuals Error: Troubleshooting Guide - Fixed Issue</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs/"><u>Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-crash-point-errors-a-guide-to-stable-ue4-arise-creation/"><u>Fixing Crash Point Errors: A Guide to Stable UE4 Arise Creation</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2020-update-resolving-persistent-crashing-troubles-for-a-smooth-gaming-experience/"><u>Football Manager 2020 Update: Resolving Persistent Crashing Troubles for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hazy-endings-how-to-black-out-with-pro-for-2024/"><u>Hazy Endings How to Black Out with Pro for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-13t-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi 13T Pro?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/how-to-crop-a-video-with-avidemux-for-2024/"><u>How to Crop a Video with Avidemux for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-decoding-the-appeal-what-makes-you-love-filmora-editing/"><u>In 2024, Decoding the Appeal What Makes You Love Filmora Editing?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-harmonizing-vision-and-voice-the-ultimate-guide/"><u>In 2024, Harmonizing Vision and Voice The Ultimate Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximizing-gaming-performance-enabling-gpu-usage-in-cyberpunk-2077-on-windows-10/"><u>Maximizing Gaming Performance: Enabling GPU Usage in Cyberpunk 2077 on Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-league-of-legends-network-problems/"><u>Resolved: Fixing League of Legends Network Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/successful-solutions-for-smooth-gameplay-fixing-pc-bugs-during-fifas-wrc-10-the-official-fia-world-rally-racing/"><u>Successful Solutions for Smooth Gameplay: Fixing PC Bugs During FIFA's WRC 10, The Official FIA World Rally Racing</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-directx-problems-in-call-of-duty-modern-warfare-2-a-comprehensive-walkthrough/"><u>Troubleshooting DirectX Problems in Call of Duty: Modern Warfare 2 – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-grab-and-reel-the-essential-5-apps-for-social-media-video-capture/"><u>[New] In 2024, Grab & Reel The Essential 5 Apps for Social Media Video Capture</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-legal-limits-of-capturing-youtube-video-footage/"><u>[New] In 2024, The Legal Limits of Capturing YouTube Video Footage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-free-views-on-youtube-2-easy-ways/"><u>[Updated] In 2024, How to Get Free Views on YouTube [2 Easy Ways]</u></a></li>
+<li><a href="https://win-able.techidaily.com/all-in-one-digital-content-guard-video-and-picture-watermarking-solutions/"><u>All-in-One Digital Content Guard: Video & Picture Watermarking Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-12-complimentary-video-editing-apps-on-instagram-top-picks-for-pc-online-and-mobile-use/"><u>Best 12 Complimentary Video Editing Apps on Instagram: Top Picks for PC, Online & Mobile Use</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-guide-using-top-rated-windows-1011-dvd-decode-software-to-watch-any-movie/"><u>Best Guide: Using Top-Rated Windows 10/11 DVD Decode Software to Watch Any Movie</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-effortless-techniques-for-ripping-burning-and-duplicating-dvdcd-content/"><u>Comprehensive Guide: Effortless Techniques for Ripping, Burning & Duplicating DVD/CD Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-upkeep-package-for-enhancing-your-kodi-indigo-xmb-channel-experience/"><u>Comprehensive Upkeep Package for Enhancing Your Kodi Indigo XMB Channel Experience</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/empowering-colombias-underprivileged-with-dannys-foundation/"><u>Empowering Colombia's Underprivileged with Danny's Foundation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-how-to-make-a-playlist-on-youtube/"><u>In 2024, How to Make a Playlist on YouTube</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-keyboard-wrist-rests-of-2024/"><u>The Best Keyboard Wrist Rests of 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-mac-video-editing-discover-the-best-options-beyond-vsdc/"><u>Updated In 2024, Mac Video Editing Discover the Best Options Beyond VSDC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Fix: Effective Ways to Address 'Tarkov Error Code 103003'"
-date: 2024-09-10T14:08:09.941Z
-updated: 2024-09-11T14:08:09.941Z
+date: 2024-10-26T18:36:03.036Z
+updated: 2024-11-01T05:01:49.106Z
 tags:
   - win11
   - win10
@@ -33,19 +33,18 @@ thumbnail: https://thmb.techidaily.com/8dc75739a23faa00dc51d8707591eb801ba8ab3b3
 
  Note: the screenshots below come from Windows 10, and fixes also work on Windows 8 and Windows 7.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Reinstall Fortnite in your computer
 
@@ -58,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/8dc75739a23faa00dc51d8707591eb801ba8ab3b3
  Note: Be sure to meet the **[system requirements](https://tools.techidaily.com/drivereasy/download/)**  to install and play Fortnite in your computer, as the insufficient system resources will fail to load your Fortnite.
 
  If your problem still persists, don’t worry. There are other solutions.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Set your graphics settings to Low
 
@@ -77,41 +83,14 @@ To do so, follow these steps:
    * **Show** **FPS** : On  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be91f07309c9.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Save your game settings, and restart your computer to see if your Fortnite loads properly.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Update your graphics card driver
 
@@ -135,23 +114,16 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920cf0d891.jpg)
 4. Restart your computer to take effect.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  Then launch Fortnite in your computer and see if it fixes your Fortnite not loading issues.
 
 Still no luck? Okay, there’s something else to try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Fortnite as administrator
 
@@ -161,9 +133,24 @@ Still no luck? Okay, there’s something else to try.
 2. Right click on the**Fortnite executable** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9213d5616f.jpg)
 3. Click**Yes** to verify the UAC. If you’re prompted to enter your admin account and password, enter the information.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Then you can run your Fortnite as admin.
 
 Check if your game can load properly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Configure your computer settings
 
@@ -180,56 +167,11 @@ Below lists out some PC settings you can configure:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921926a881.jpg)
 3. Click the**Boot** tab, select your**Windows system** , and click**Advanced options** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921b2b791d.jpg)
 4. Check the box next to**Number of processors** , and select the**highest number** available. In my case I have the highest number of 4, so I select**4** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921cace95b.jpg)
 5. Click**OK** to save. Then click**Apply** and**OK** to finish.  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921e101920.jpg)
 6. You’ll be prompted a dialog to ask you to restart, select**Exist without restart** because you’ll have a restart after configuring the settings below.  
@@ -243,56 +185,24 @@ Below lists out some PC settings you can configure:
 2. Click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922528c0d3.jpg)
 3. Click**Advanced system settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9228805808.jpg)
-4. The**System Properties** pane will pop up. Under the**Advanced** tab, click the**Settings** button in the**Performance** section.  
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9228805808.jpg)
+4. The**System Properties** pane will pop up. Under the**Advanced** tab, click the**Settings** button in the**Performance** section.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922bfef5f6.jpg)
 5. Click the**Advanced** tab, and make sure to select**Adjust for best performance of Programs** . Then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9237d987ca.jpg)
 6. Click**Data Execution Prevention** , and make sure to choose **Turn on DEP for essential Windows programs and services only** . Then Click**Apply** and**OK** to save.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9234f416dc.jpg)
 7. Save your changes and restart your computer.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 Launch your Fortnite and see if it will load properly.
 
@@ -309,8 +219,6 @@ Launch your Fortnite and see if it will load properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -318,4 +226,22 @@ Launch your Fortnite and see if it will load properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-10-innovative-platforms-revolutionizing-online-education-for-2024/"><u>[New] 10 Innovative Platforms Revolutionizing Online Education for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-navigating-the-complexities-of-facebook-slideshow-tools/"><u>[New] Navigating the Complexities of Facebook Slideshow Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fifa-22-crashing-on-pc/"><u>[SOLVED] FIFA 22 Crashing on PC</u></a></li>
+<li><a href="https://discover-community.techidaily.com/5asa5qey44gq44k944ov44oi44km44kn44ki44go44ki44ox44oq44kx44o844k344on44oz44gm44oh44oh44kj44ki44ov44kh44kk44or44ks44gp44gu44ki44gg44gr5yem55cg44gn44gn44kl44gl29/"><u>多様なソフトウェアとアプリケーションがメディアファイルをどのように処理できるか</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-age-of-empires-ivs-launch-glitches-tips-and-troubleshooting-steps-for-gamers/"><u>Beat Age of Empires IV’s Launch Glitches: Tips and Troubleshooting Steps for Gamers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138576033-9781440123986-beyond-reason/"><u>Beyond Reason | Free Book</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-complete-narrative-deconstructing-googles-podcast-application/"><u>In 2024, Complete Narrative Deconstructing Google's Podcast Application</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-snapchats-spotlight-system/"><u>In 2024, Mastering Snapchat's Spotlight System</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mitigating-high-bitrate-in-obs-outputs/"><u>Mitigating High-Bitrate in OBS Outputs</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-tips-avoiding-and-resolving-gzw-crashes-during-play/"><u>PC Gaming Tips: Avoiding and Resolving GZW Crashes During Play</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rectifying-inactive-icloud-settings-that-are-discolored-on-your-ios-device-effective-methods/"><u>Rectifying Inactive iCloud Settings That Are Discolored on Your iOS Device: Effective Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-acrocefexe-errors-a-step-by-step-guide/"><u>Resolving AcroCEF.exe Errors – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/silence-breakers-how-to-fix-audio-problems-in-roblox-on-both-windows-10-and-11-computers/"><u>Silence Breakers: How To Fix Audio Problems in Roblox on Both Windows 10 and 11 Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-excessive-processor-use-in-god-of-war-for-smoother-gameplay/"><u>Tackling Excessive Processor Use in God of War for Smoother Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201145030-troubleshoot-missing-bluetooth-settings-in-windows-10-quick-and-easy-methods/"><u>Troubleshoot Missing Bluetooth Settings in Windows 10 - Quick & Easy Methods</u></a></li>
+</ul></div>
 

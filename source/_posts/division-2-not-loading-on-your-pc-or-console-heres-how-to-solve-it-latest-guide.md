@@ -1,7 +1,7 @@
 ---
 title: Division 2 Not Loading on Your PC or Console? Here's How to Solve It (Latest Guide)
-date: 2024-10-23T13:20:04.092Z
-updated: 2024-10-26T11:17:13.066Z
+date: 2024-10-29T07:51:32.414Z
+updated: 2024-10-31T21:56:32.803Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 6. **[Switch the DNS server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Is Fallout 76 down?](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1:**Reset Winsock**
 
  Winsock is an application in Windows that handles the data on the computer that programs use for Internet access. So when you can’t connect Fallout 76 to its server, you can give Winsock a try. It reverts the Winsock Catalog back to its default settings, which often proves useful in network problems.
@@ -43,13 +50,6 @@ Here is how to reset Winsock data:
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -99,6 +99,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -106,13 +113,6 @@ Here is how to do it:
 5) Run Fallout 76 again and see if the**Fallout 76 disconnected from server** is resolved. If yes, then congrats and enjoy the game! If the issue persists, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Restart your network
 
@@ -123,6 +123,13 @@ Here is how to restart your network:
  1) Unplug your modem (and your wireless router, if it’s a separate device) from the power socket.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _modem_
 
@@ -149,10 +156,10 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
@@ -160,19 +167,6 @@ _wireless router_
  3) Type**the following command line** and press **Enter**  on your keyboard.**ipconfig /flushdns**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### To renew your IP
 
@@ -188,6 +182,13 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Type**the following command line** and press **Enter**  on your keyboard.
 
 **ipconfig /renew**  
@@ -199,13 +200,6 @@ _wireless router_
  Check to see if the Fallout 76 connecting issue still occurs. If it is still not fixed, please try**Fix 6** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Switch the DNS server
 
@@ -221,6 +215,13 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the pop-up window, click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
@@ -229,33 +230,19 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7) Restart your computer for the changes to take effect.
@@ -265,6 +252,13 @@ Here is how to switch the DNS server to Google Public DNS:
  Problem still not yet solved? Please try**Fix 7** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Is Fallout 76 down?
 
@@ -293,16 +287,21 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-revolutionizing-your-fpv-flight-with-optimal-blades/"><u>[New] In 2024, Revolutionizing Your FPV Flight with Optimal Blades</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-expert-tips-for-efficient-internet-use-the-7-finest-android-apps-for-2024/"><u>[Updated] Expert Tips for Efficient Internet Use The 7 Finest Android Apps for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-leveraging-instagrams-story-segmenting-system/"><u>[Updated] In 2024, Leveraging Instagram's Story Segmenting System</u></a></li>
-<li><a href="https://win-able.techidaily.com/banishing-cannot-connect-to-world-error-in-minecraft-for-ultimate-gameplay/"><u>Banishing 'Cannot Connect to World' Error in Minecraft for Ultimate Gameplay</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discover-how-hairspray-revolutionizes-your-3d-printing-projects-the-ultimate-guide/"><u>Discover How Hairspray Revolutionizes Your 3D Printing Projects: The Ultimate Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-accelerate-your-sims-4-experience-and-say-goodbye-to-lag-on-pc/"><u>Expert Advice: Accelerate Your Sims 4 Experience and Say Goodbye to Lag on PC</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-picks-most-effective-voice-to-writing-applications-of-the-year/"><u>Expert Picks: Most Effective Voice-to-Writing Applications of the Year</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/expert-techniques-for-removing-audio-disturbances-for-2024/"><u>Expert Techniques for Removing Audio Disturbances for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-pc-troubleshooting-steps-when-fuser-continuously-crashes/"><u>Fix Your PC: Troubleshooting Steps When Fuser Continuously Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-splitgate-graphics-settings-fixes-for-increasing-speed-and-reducing-stutter/"><u>Mastering Splitgate Graphics Settings: Fixes for Increasing Speed & Reducing Stutter</u></a></li>
-<li><a href="https://win-able.techidaily.com/yakuza-3-remastered-not-starting-up-troubleshooting-steps-for-pc/"><u>Yakuza 3 Remastered Not Starting Up: Troubleshooting Steps for PC</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-amplifying-audio-with-tiktok-duets/"><u>[New] 2024 Approved Amplifying Audio with TikTok Duets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-knowledge-for-youtube-short-creators/"><u>[Updated] In 2024, Essential Knowledge for YouTube Short Creators</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725288136569-dvdiphone/"><u>【必携】DVDライブ動画をiPhoneで楽しむための完全解説</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-multimedia-mastery-upgrade-your-projects-with-movavi-software/"><u>1. Multimedia Mastery: Upgrade Your Projects with Movavi Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-comprehensive-guide-to-fixing-game-crash-issues-in-football-manager-2020-expert-tips-and-tricks/"><u>A Comprehensive Guide to Fixing Game Crash Issues in Football Manager 2020: Expert Tips & Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/against-all-odds-the-remarkable-journey-from-sls-kickstarter-to-acquisition-success/"><u>Against All Odds: The Remarkable Journey From SLS Kickstarter to Acquisition Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/arma-3-troubleshooting-guide-eliminating-game-crashes-and-ensuring-smooth-running/"><u>ARMA 3 Troubleshooting Guide: Eliminating Game Crashes and Ensuring Smooth Running</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-undead-and-technical-difficulties-in-zombie-army-4-dead-war/"><u>Beat the Undead & Technical Difficulties in Zombie Army 4: Dead War</u></a></li>
+<li><a href="https://win-able.techidaily.com/crusader-kings-iii-and-pc-compatibility-woes-heres-how-you-can-keep-your-game-running-smoothly/"><u>Crusader Kings III & PC Compatibility Woes? Here's How You Can Keep Your Game Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-fixed-playstation-portable-game-yakuza-3-remake-compatibility-issues-on-pc/"><u>Fixes for [FIXED] PlayStation Portable Game: Yakuza 3 Remake Compatibility Issues on PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-oneplus-11-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on OnePlus 11 5G?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/instant-access-windows-photos-view/"><u>Instant Access Windows Photos View</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-battlefield-ebootstraps-launch-issue-guide/"><u>Mastering the Fix: Battlefield Ebootstraps Launch Issue Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frequent-glitches-optimizing-your-persona-4-golden-experience/"><u>Resolving Frequent Glitches: Optimizing Your Persona 4 Golden Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-the-grounded-game-crashes-effective-tips-and-tricks/"><u>Solve the 'Grounded' Game Crashes : Effective Tips & Tricks</u></a></li>
+<li><a href="https://win-top.techidaily.com/troubleshooting-errors-in-windows-10-resolving-issues-with-your-hard-drive/"><u>Troubleshooting Errors in Windows 10: Resolving Issues with Your Hard Drive</u></a></li>
 </ul></div>
 

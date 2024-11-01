@@ -1,7 +1,7 @@
 ---
 title: Genshin Impact Bug Solved! Overcoming Error 4201 with Ease
-date: 2024-10-22T22:37:07.426Z
-updated: 2024-10-25T19:36:55.992Z
+date: 2024-10-27T03:38:37.089Z
+updated: 2024-10-31T22:42:33.784Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics card drivers
 
  Your crashing issue with PoE may be caused by outdated or corrupt graphics card drivers. To check if that’s the root cause, you should try updating your graphics driver to a relatively new and stable version first.
@@ -87,6 +94,13 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -108,13 +122,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Right-click **Path of Exile** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-17.png)
@@ -124,10 +131,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-18.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Once complete, exit Steam and reopen it. Run PoE and wait to see if it keeps crashing.
@@ -135,13 +142,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 In case this fix didn’t help, please move on to Fix 4.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run RoE as an administrator
 
@@ -155,10 +155,10 @@ In case this fix didn’t help, please move on to Fix 4.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
@@ -166,10 +166,10 @@ In case this fix didn’t help, please move on to Fix 4.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
@@ -186,6 +186,13 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the**Graphics** tab, disable**Engine Multithreading** and**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-14.png)
@@ -195,13 +202,6 @@ Still unable to solve the problem? If yes, proceed to the next fix.
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
 
@@ -231,22 +231,20 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/gniting-the-spark-selecting-top-youtube-videos-for-channels/"><u>[New] Igniting the Spark Selecting Top YouTube Videos for Channels</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-bridging-gaps-between-vision-and-execution-in-filmora-editing/"><u>[Updated] Bridging Gaps Between Vision and Execution in Filmora Editing</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-realme-narzo-60-pro-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Realme Narzo 60 Pro 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-blackout-no-more-expert-tips-to-eliminate-display-issues/"><u>Cyberpunk 2077 Blackout No More: Expert Tips to Eliminate Display Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciphering-a-silent-startup-expert-tips-to-restore-visual-output-on-your-device/"><u>Deciphering a Silent Startup: Expert Tips to Restore Visual Output on Your Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-warzone-disc-read-error-50-and-31-on-pc/"><u>How to Fix Warzone Disc Read Error [5.0] & [3.1] on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-quickly-fix-dev-error-6634-in-call-of-duty-warzone-expert-tips-for-gamers/"><u>How to Quickly Fix Dev Error 6634 in Call of Duty Warzone: Expert Tips for Gamers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-nokia-c110-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Nokia C110 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-poco-x6-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-realme-11-proplus-frp-bypass-by-drfone-android/"><u>In 2024, About Realme 11 Pro+ FRP Bypass</u></a></li>
-<li><a href="https://win-able.techidaily.com/increasing-frame-rate-and-solving-stutters-a-guide-to-smooth-gameplay-on-the-ascent/"><u>Increasing Frame Rate & Solving Stutters: A Guide to Smooth Gameplay on 'The Ascent'</u></a></li>
-<li><a href="https://win-able.techidaily.com/lost-the-sounds-of-villainy-fix-your-silent-evil-genius-2-adventure-now/"><u>Lost the Sounds of Villainy? Fix Your Silent 'Evil Genius 2' Adventure Now</u></a></li>
-<li><a href="https://facebook.techidaily.com/meta-delays-full-encryption-adoption-until-2023-insights-revealed/"><u>Meta Delays Full Encryption Adoption Until 2023: Insights Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-bugs-successful-solutions-to-stop-dirt-5-from-freezing-on-pcs/"><u>Overcoming Bugs: Successful Solutions to Stop Dirt 5 From Freezing on PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solutions-to-overcome-fortnite-login-troubles-effortlessly/"><u>Quick Solutions to Overcome Fortnite Login Troubles Effortlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-issue-why-does-my-nvidia-control-panel-keep-crashing-or-wont-open/"><u>Solving the Issue: Why Does My NVIDIA Control Panel Keep Crashing or Won't Open?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/switching-to-virtual-white-space-in-real-time-broadcasts-on-your-phone/"><u>Switching to Virtual White Space in Real-Time Broadcasts on Your Phone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-5-economical-hd-camcorders-for-adventure-for-2024/"><u>[New] Top 5 Economical HD Camcorders for Adventure for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-from-setting-up-to-broadcasting-a-discoguide/"><u>[Updated] In 2024, From Setting Up to Broadcasting A DiscoGuide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-basic-understanding-of-animate-graphic-content/"><u>2024 Approved Basic Understanding of Animate Graphic Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/alternative-windows-filmmakers-for-2024/"><u>Alternative Windows Filmmakers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007559146-download-days-gone-for-windows-and-xbox-the-ultimate-open-world-fps-experience-begins/"><u>Download 'Days Gone' For Windows & Xbox: The Ultimate Open-World FPS Experience Begins!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-connect-and-use-a-network-drive-on-your-mac/"><u>Easy Steps to Connect and Use a Network Drive on Your Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-steamvr-issues-a-simple-and-fast-solution/"><u>Fixing SteamVR Issues: A Simple and Fast Solution</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus with/without SIM Card</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-gt-neo-5-se-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme GT Neo 5 SE Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-fps-using-your-graphics-card-with-cyberpunk-2077-on-windows-10-pcs/"><u>Maximizing FPS: Using Your Graphics Card with Cyberpunk 2077 on Windows 10 PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-troubleshooting-eliminate-lag-for-smoother-gaming-experience/"><u>Rainbow Six Siege Troubleshooting: Eliminate Lag for Smoother Gaming Experience</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-motorola-g54-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Motorola G54 5G Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-pc-crashes-in-metro-exodus-game/"><u>Troubleshooting Guide: Resolving PC Crashes in Metro Exodus Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-mastery-eliminate-steam-error-code-130-with-ease/"><u>Troubleshooting Mastery: Eliminate Steam Error Code 130 with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-on-the-guilty-gear-strive-launch-postponement-explained/"><u>Update on the Guilty Gear Strive Launch Postponement Explained</u></a></li>
 </ul></div>
 

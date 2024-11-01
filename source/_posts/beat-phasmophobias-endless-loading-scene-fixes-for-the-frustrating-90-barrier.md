@@ -1,7 +1,7 @@
 ---
 title: Beat Phasmophobia's Endless Loading Scene - Fixes for the Frustrating 90%% Barrier
-date: 2024-10-24T19:49:24.416Z
-updated: 2024-10-25T16:56:51.695Z
+date: 2024-10-31T10:43:39.577Z
+updated: 2024-10-31T23:03:13.161Z
 tags:
   - win11
   - win10
@@ -60,13 +60,6 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your graphics driver
 
  Using outdated drivers can affect performance. So we recommend checking for driver updates on a regular basis. When you encounter the issue of a loading screen stuck, updating your drivers especially your graphics driver could be the best shot you take.
@@ -78,6 +71,13 @@ There are two ways you can update your graphics driver:
 OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-phasmophobia-stuck-at-90-loading-screen/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1 – Manually update your drivers
 
@@ -97,6 +97,13 @@ OR
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -110,10 +117,10 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Verify the integrity of game files
@@ -125,22 +132,15 @@ OR
 ![verify integrity of game files Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-Properties-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select the**LOCAL FILES** tab and click the**VERIFY INTEGRITY OF GAME FILES…** button.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-1200x610.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Steam will verify the game’s files and this process may take several minutes. After it’s finished, launch your game to check if it works for you. If not, move on to the next fix.
 
@@ -156,13 +156,6 @@ OR
 
 ![delete save file Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Locate the**saveData.txt** file and delete it.
 
  4) Now relaunch your game to check if the issue is fixed.
@@ -170,6 +163,13 @@ OR
  Deleting the saved file has proven to be working for many users. But it probably would delete your progress.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Run Steam as an administrator
 
@@ -186,13 +186,6 @@ OR
  3) Select the**Compatibility**  tab and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-steam-as-an-administrator-apply-ok.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this didn’t work, move on to the next fix.
 
@@ -213,15 +206,22 @@ Here’s how you can do this:
 ![do a network reset](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Reset-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Yes** .
 
 ![reset network to fix phosmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Yes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now restart your computer and your problem should be fixed.
 
@@ -235,16 +235,16 @@ Take these steps:
 
  1) On your keyboard, press the**Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and**R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type**%appdata%LocalLowKinetic Games** and press**Enter** .
 
 ![uninstall and reinstall Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Delete everything in the**Kinetic Games folder** .
 
@@ -276,24 +276,22 @@ Take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-a-novices-pathway-to-writing-youtube-video-plans-for-2024/"><u>[New] A Novice's Pathway to Writing YouTube Video Plans for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-capturing-the-perfect-screen-time-with-snapchat/"><u>[New] In 2024, Capturing the Perfect Screen Time with Snapchat</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-master-the-art-of-organizing-group-conversations-on-skype-irrespective-of-your-systems-os/"><u>[Updated] 2024 Approved Master the Art of Organizing Group Conversations on Skype, Irrespective of Your System's OS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-essential-methods-for-livestreaming-sporting-action-successfully/"><u>2024 Approved Essential Methods for Livestreaming Sporting Action Successfully</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-art-of-tall-videos-editing-vertical-media-for-impactful-insta-feeds/"><u>2024 Approved The Art of Tall Videos Editing Vertical Media for Impactful Insta Feeds</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/iate-advancements-how-small-channels-thrive-financially/"><u>Affiliate Advancements How Small Channels Thrive Financially</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-techkey-bluetooth-driver-compatible-with-windows-1178/"><u>Download Techkey Bluetooth Driver Compatible with Windows 11/7/8</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-resolve-itel-p55plus-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Itel P55+ Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pixelpilot-photovideo-slide-show-for-macos/"><u>In 2024, PixelPilot Photovideo Slide Show for macOS</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-arrival-of-diablo-immortal-on-pc-gaming-platforms-what-gamers-need-to-know/"><u>No Arrival of Diablo Immortal on PC Gaming Platforms: What Gamers Need to Know</u></a></li>
-<li><a href="https://win-able.techidaily.com/once-your-design-is-complete-and-the-tile-is-fully-dry-may-take-up-to-24-hours-apply-a-clear-glaze-over-the-entire-surface-to-seal-in-the-colors-this-step-w605/"><u>Once Your Design Is Complete and the Tile Is Fully Dry (May Take up to 24 Hours), Apply a Clear Glaze over the Entire Surface to Seal in the Colors. This Step Will Protect Your Work During the Final Firing</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-failed-connection-restore-communication-between-your-computer-and-steam-client/"><u>Overcome 'Failed Connection' – Restore Communication Between Your Computer and Steam Client</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-your-kodi-connection-woes-fixing-directory-retrieval-errors/"><u>Resolve Your Kodi Connection Woes: Fixing Directory Retrieval Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-unfreeze-pathfinder-conquering-the-pc-version-of-wrath-of-the-righteous-with-ease/"><u>Solved! Unfreeze Pathfinder: Conquering the PC Version of Wrath of the Righteous with Ease</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-palworlds-failure-to-load-swift-solutions-unveiled/"><u>Solving PalWorld's Failure to Load: Swift Solutions Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-impact-of-google-gemini-on-making-iphones-smarter-what-you-need-to-know/"><u>The Impact of Google Gemini on Making iPhones Smarter - What You Need to Know</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723001670706-troubleshooting-genshin-impact-fix-stability-issues-and-stop-pc-crashes/"><u>Troubleshooting Genshin Impact: Fix Stability Issues and Stop PC Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-installation-issues-solving-age-of-empires-iv-download-errors/"><u>Troubleshooting Installation Issues: Solving 'Age of Empires IV' Download Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-performance-hiccups-in-guilty-gear-strive/"><u>Troubleshooting Performance Hiccups in Guilty Gear -Strive-</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/oosting-audio-quality-in-social-media-recordings/"><u>[New] Boosting Audio Quality in Social Media Recordings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-behind-the-scenes-top-tactics-for-consistent-vlogging-for-2024/"><u>[Updated] Behind the Scenes Top Tactics for Consistent Vlogging for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-crafting-an-affordable-diy-google-vr-system-at-home/"><u>[Updated] Crafting an Affordable DIY Google VR System at Home</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-new-users-on-the-road-to-zoom-room-mastery/"><u>[Updated] New Users on the Road to Zoom Room Mastery</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-7-plus-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 7 Plus? How to Fix it?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-netgear-orbi-why-it-stands-out-in-mesh-router-technology/"><u>Comprehensive Analysis of Netgear Orbi - Why It Stands Out in Mesh Router Technology</u></a></li>
+<li><a href="https://win-able.techidaily.com/crash-course-complete-eliminating-gameplay-interruptions-in-pcs-spellbreak-experience/"><u>Crash Course Complete: Eliminating Gameplay Interruptions in PC's Spellbreak Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/ensuring-smooth-gameplay-top-fixes-for-starting-warzone-20-on-your-pc-this-year/"><u>Ensuring Smooth Gameplay: Top Fixes for Starting Warzone 2.0 on Your PC This Year</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-deciding-the-best-live-streamer-vmix-against-wirecast/"><u>In 2024, Deciding the Best Live Streamer VMix Against Wirecast</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-innovating-communication-microsoft-azure-speech-to-text-explained/"><u>In 2024, Innovating Communication Microsoft Azure Speech to Text Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007730975-quick-fixes-for-fortnite-wont-load-solving-the-problems-swiftly/"><u>Quick Fixes for 'Fortnite Won't Load': Solving the Problems Swiftly</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-online-stability-issues-how-to-prevent-game-crashes-on-your-pc/"><u>Red Dead Online Stability Issues: How to Prevent Game Crashes on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-constant-pc-crashes-in-gas-station-simulator-game/"><u>Resolved: Fixes for Constant PC Crashes in Gas Station Simulator Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/risk-of-rain-2-continuous-crash-woes-heres-how-to-fix-them-once-and-for-all/"><u>Risk of Rain 2 Continuous Crash Woes? Here's How to Fix Them Once and For All</u></a></li>
+<li><a href="https://win-able.techidaily.com/roller-champions-crossplay-2024-pc-guide/"><u>Roller Champions Crossplay - 2024 PC Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010351393-solve-your-non-working-steam-remote-play-problem-with-these-helpful-fixes/"><u>Solve Your Non-Working Steam Remote Play Problem with These Helpful Fixes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-smart-guide-for-spawning-share-worthy-memes-in-9gag-for-2024/"><u>The Smart Guide for Spawning Share-Worthy Memes in 9GAG for 2024</u></a></li>
 </ul></div>
 

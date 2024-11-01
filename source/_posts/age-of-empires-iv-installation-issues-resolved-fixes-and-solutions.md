@@ -1,7 +1,7 @@
 ---
 title: Age of Empires IV Installation Issues Resolved – Fixes & Solutions
-date: 2024-10-19T08:08:58.293Z
-updated: 2024-10-26T11:36:14.554Z
+date: 2024-10-24T23:57:33.819Z
+updated: 2024-10-31T20:55:54.714Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -73,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
@@ -100,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
@@ -129,6 +129,19 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -140,10 +153,16 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
@@ -151,22 +170,15 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -208,17 +220,20 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/nitiating-your-sporty-online-presence-with-mac/"><u>[New] Initiating Your Sporty Online Presence with Mac</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-video-transit-route-tweeting-to-tumbling/"><u>[Updated] 2024 Approved Video Transit Route Tweeting to Tumbling</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-setting-up-your-phone-as-a-home-based-webcam-for-2024/"><u>[Updated] Setting Up Your Phone as a Home-Based Webcam for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-sourav-joshis-path-to-wealth-via-youtube/"><u>[Updated] Sourav Joshi's Path to Wealth via YouTube</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/affordable-tablet-picks-for-2cco2024-in-depth-analysis-and-ratings/"><u>Affordable Tablet Picks for 2Cco_2024: In-Depth Analysis and Ratings</u></a></li>
-<li><a href="https://win-able.techidaily.com/dragons-dogma-2-crashes-on-pc-solutions-to-get-you-playing-again/"><u>Dragon's Dogma 2 Crashes on PC: Solutions to Get You Playing Again</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-lenovo-laptop-130s-series-restricted-power-yet-remarkable-usability-features/"><u>Evaluating the Lenovo Laptop 130S Series: Restricted Power Yet Remarkable Usability Features</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/netflix-fixes-streaming-issues-on-xbox-one/"><u>Netflix Fixes Streaming Issues on Xbox One</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-detectability-challenges-for-astros-a50-in-command-center-setup/"><u>Overcoming Detectability Challenges for Astro’s A50 in Command Center Setup</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-installation-hurdles-minecraft-setup-woes-on-windows-11-resolved/"><u>Overcoming Installation Hurdles: Minecraft Setup Woes on Windows 11 Resolved</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-persistent-ready-or-not-game-crashes-on-windows/"><u>Troubleshooting Steps for Persistent 'Ready Or Not' Game Crashes on Windows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-a-film-enthusiasts-guide-to-mastery-with-gopro/"><u>[New] A Film Enthusiast's Guide to Mastery with GoPro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-engineer-your-fofacebook-experience-for-2024/"><u>[New] Engineer Your FOFacebook Experience for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-best-online-recording-apps-perfect-for-discord-chat-rooms/"><u>[Updated] 2024 Approved Best Online Recording Apps Perfect for Discord Chat Rooms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exclusive-list-best-online-video-to-mp3-tools-for-2024/"><u>[Updated] Exclusive List Best Online Video to Mp3 Tools for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-metaverse-memetic-mastery-tips-for-aspiring-content-creators/"><u>2024 Approved Metaverse Memetic Mastery Tips for Aspiring Content Creators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quickstart-to-flawless-nft-artistry-for-beginners/"><u>2024 Approved Quickstart to Flawless NFT Artistry for Beginners</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/correcting-obs-darkness-during-live-streams-for-2024/"><u>Correcting OBS Darkness During Live Streams for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-infinix-hot-30i-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Infinix Hot 30i Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-and-easy-instructions-for-installing-superior-m-e-t-v-plugin-on-kodi-versions-19-and-20-just-one-click-away/"><u>Quick and Easy Instructions for Installing Superior M-E-T-V Plugin on Kodi Versions 19 & 20 – Just One Click Away!</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-guide-efficiently-duplicate-your-dvd-files-on-windows-11/"><u>Quick Guide: Efficiently Duplicate Your DVD Files on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-hd-streaming-of-usb-content-on-a-sharp-aquos-tv-setup/"><u>Seamless HD Streaming of USB Content on a Sharp Aquos TV Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/shrink-your-digital-footprints-mastering-smaller-video-sizes-with-windows-movie-maker-tutorials/"><u>Shrink Your Digital Footprints: Mastering Smaller Video Sizes with Windows Movie Maker Tutorials</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-mp4-videos-playing-only-sound/"><u>Solving the Issue: MP4 Videos Playing Only Sound</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-integrating-the-watchnixtoonz-plugin-into-your-kodi-device-to-access-premier-anime-shows/"><u>Step-by-Step Tutorial: Integrating the WatchNixtoonz Plugin Into Your Kodi Device to Access Premier Anime Shows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unveiling-the-mysteries-of-digital-media-ownership-on-youtube-for-2024/"><u>Unveiling the Mysteries of Digital Media Ownership on YouTube for 2024</u></a></li>
 </ul></div>
 

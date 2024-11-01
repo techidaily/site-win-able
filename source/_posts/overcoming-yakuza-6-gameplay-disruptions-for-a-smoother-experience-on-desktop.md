@@ -1,7 +1,7 @@
 ---
 title: Overcoming Yakuza 6 Gameplay Disruptions for a Smoother Experience on Desktop
-date: 2024-09-10T14:08:12.765Z
-updated: 2024-09-11T14:08:12.765Z
+date: 2024-10-28T20:50:11.985Z
+updated: 2024-11-01T04:12:51.419Z
 tags:
   - win11
   - win10
@@ -48,29 +48,16 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
   
 ![disable apps from running automatically at startup](https://images.drivereasy.com/wp-content/uploads/2021/04/startup-disable.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you’ve done these, play The Division 2 and check if your game looks better.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Disable Windows 10 Game Mode
 
@@ -82,41 +69,20 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
 ![disable windows 10 gaming features disable game mode](https://images.drivereasy.com/wp-content/uploads/2021/01/gaming-in-the-settings.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After applying the changes, play The Division 2 to check if your issues persist. If disabling Windows 10 Game Mode didn’t do the trick, proceed to the next fix.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 3\. Disable overlays
 
@@ -132,39 +98,18 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-ubisoft-connect-overlay-1200x655.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **To disable GeForce Experience Overlay, take these steps:**
 
  1) From the GeForce Experience app, click on the**Settings icon** located on the top right corner.  
   
 ![disable GeForce Experience overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/settings-icon.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  2) In the GENERAL tab, toggle off**IN-GAME OVERLAY** and exit.  
   
@@ -174,39 +119,18 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 4\. Update your graphics driver
 
  Most video games are graphics-intensive. If you run into any performance issues such as low FPS and constant stutters during the gameplay, your outdated or faulty graphics driver can be the culprit. To pinpoint the root cause, you should try updating your graphics driver. This is essential as driver updates come with bug fixes and bring new features.
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[**automatically**](https://tools.techidaily.com/drivereasy/download/) .
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Option 1: Manually update your graphics driver
 
@@ -234,39 +158,18 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer and launch your game to check if the problem is solved. If not, then continue trying the fixes below.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 5\. Set the game’s priority to high
 
@@ -280,23 +183,29 @@ To set your game’s priority to high, you can take these steps:
   
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Under the**Processes** tab, find your game title. Right-click it and select**Go to details** and you’ll be directed to the**Details** tab.  
   
 ![set The Division 2 priority to high](https://images.drivereasy.com/wp-content/uploads/2021/04/Task-Manager-Go-to-details.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Your game should be highlighted. Make sure to right-click it and select**Set priority > High** .  
   
@@ -305,6 +214,13 @@ To set your game’s priority to high, you can take these steps:
  After applying the changes, launch The Division 2 and it should be running with high priority.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Optimize in-game settings
 
@@ -321,20 +237,6 @@ To set your game’s priority to high, you can take these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  After applying the changes, play The Division 2 and you should be able to notice the difference.
 
 ---
@@ -347,8 +249,6 @@ To set your game’s priority to high, you can take these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -356,4 +256,20 @@ To set your game’s priority to high, you can take these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-maximizing-conversations-4-key-tips-for-hangouts/"><u>[Updated] 2024 Approved Maximizing Conversations 4 Key Tips for Hangouts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-firefox-screen-recorders-and-add-ons/"><u>[Updated] In 2024, Firefox Screen Recorders and Add-Ons</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-initial-learning-executing-fade-ins-professionally/"><u>[Updated] Initial Learning Executing Fade-Ins Professionally</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/4-techniques-for-effective-android-content-capturing/"><u>4 Techniques for Effective Android Content Capturing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/decoding-the-new-apeaksoft-screenscape-expert-analysis/"><u>Decoding the New Apeaksoft Screenscape Expert Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/directx-issues-in-anno-1800-solutions-and-fixes-unveiled/"><u>DirectX Issues in Anno 1800 – Solutions and Fixes Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-game-stalling-in-pathfinder-wrath-of-the-righteous-for-windows-users/"><u>Fixing Game Stalling in 'Pathfinder: Wrath of the Righteous' For Windows Users</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/guaranteed-protection-with-aomei-builder-premium-free-windows-file-synchronization-software/"><u>Guaranteed Protection with AoMei Builder: Premium-Free Windows File Synchronization Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-graphics-issues-enable-warzone-to-use-gpu-in-windows-10-systems/"><u>Resolve Graphics Issues: Enable Warzone to Use GPU in Windows 10 Systems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/l-sites-showdown-youtubers-choice/"><u>Social Sites Showdown YouTubers' Choice</u></a></li>
+<li><a href="https://win-able.techidaily.com/speeding-up-your-downloads-solutions-for-slow-utorrent-performance/"><u>Speeding Up Your Downloads: Solutions for Slow uTorrent Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-up-your-gameplay-supercharge-horizon-zero-dawns-frame-rate-for-optimal-play/"><u>Step Up Your Gameplay: Supercharge Horizon Zero Dawn's Frame Rate for Optimal Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-10-solutions-to-resolve-stray-game-not-launching/"><u>Top 10 Solutions to Resolve Stray Game Not Launching</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Stabilizing Your Playthrough of City Skylines 2 on PC"
-date: 2024-10-21T08:57:04.802Z
-updated: 2024-10-26T09:13:16.835Z
+date: 2024-10-27T20:12:49.859Z
+updated: 2024-11-01T07:43:48.145Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 5. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Set additional launch options](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your specs meet the requirements
 
  VR games tend to be graphically demanding, not to mention this long anticipated AAA title. So before you can fully experience the well-crafted dystopia in Half Life: Alyx, first you need to make sure your gaming rig meets the minimum requirements. Because if it doesn’t, then maybe it’s time for an upgrade.
@@ -47,13 +54,6 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 
  If your specs are more than capable for the game, simply continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Change your power plan
 
  Power plan is a scheme that manages the way your PC consumes energy. The recent Windows build introduces a new power plan called Ultimate Performance, which provides a certain level of performance boost. You can start from here when troubleshooting stuttering issues.
@@ -64,33 +64,53 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After changing your power plan, launch Half Life: Alyx and test the gameplay.
 
  If this trick doesn’t give you luck, you can take a look at the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Disable overlays
 
@@ -101,13 +121,6 @@ And here’s how to turn off Steam overlays:
 After disabling all the overlays, check if Half Life: Alyx lags again.
 
  If this fix doesn’t help you, simply move on to the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -142,24 +155,10 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -177,6 +176,13 @@ To do so, follow these steps:
 2. Right click**Half Life: Alyx** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-1.jpg)
 3. Under the LAUNCH OPTIONS section, click the input area and type or paste the code below. Then close the window to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
@@ -200,18 +206,17 @@ To do so, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-cinematography-simplified-fades-made-easy-for-2024/"><u>[New] Cinematography Simplified Fades Made Easy for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-craft-your-own-cinematic-magic-making-slow-motion-video-from-photo-apps/"><u>[New] Craft Your Own Cinematic Magic Making Slow Motion Video From Photo Apps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/4k-resolution-reimagined-picking-the-right-vision-technology-for-2024/"><u>4K Resolution Reimagined Picking the Right Vision Technology for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/bluestacks-crash-woes-overcome-them-with-these-5-easy-troubleshooting-tips/"><u>BlueStacks Crash Woes? Overcome Them with These 5 Easy Troubleshooting Tips!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-restoring-server-linkage-and-stability-in-escape-from-tarkov/"><u>Expert Advice on Restoring Server Linkage and Stability in Escape From Tarkov</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-baldurs-gate-ebook-wont-start-a-step-by-step-solution/"><u>Fixing 'Baldur's Gate eBook Won't Start': A Step-by-Step Solution</u></a></li>
-<li><a href="https://extra-support.techidaily.com/maximizing-impact-with-strategic-fb-giveaway-announcements-for-2024/"><u>Maximizing Impact with Strategic FB Giveaway Announcements for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximizing-your-gameplay-enhancing-frame-rates-in-ring-of-elysium/"><u>Maximizing Your Gameplay: Enhancing Frame Rates in Ring of Elysium</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/next-gen-streaming-prosperity-for-gamers/"><u>Next-Gen Streaming Prosperity for Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-persistent-loading-issues-in-among-us/"><u>Resolved: How to Fix Persistent Loading Issues in Among Us</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-alienware-aurora-r7-insight-intense-power-meets-hefty-price-tag/"><u>The Alienware Aurora R7 Insight: Intense Power Meets Hefty Price Tag</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-manycam-alternatives-best-live-streaming-and-vr-camera-solutions/"><u>Top ManyCam Alternatives: Best Live Streaming & VR Camera Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-over-witcher-woes-strategies-to-stop-the-witcher-3-from-crashing-on-your-pc/"><u>Winning Over Witcher Woes: Strategies to Stop The Witcher 3 From Crashing on Your PC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-innovation-unpacking-the-performance-and-price-of-arcshells-ar-5-review/"><u>Affordable Innovation: Unpacking the Performance and Price of ArcShell's AR-5 Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012043952-anthem-game-fix-conquering-the-unstoppable-loading-screens-for-good/"><u>Anthem Game Fix: Conquering the Unstoppable Loading Screens for Good!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-frame-rate-how-cyberpunk-2077s-performance-issues-are-resolved/"><u>Fixing the Frame Rate: How Cyberpunk 2077'S Performance Issues Are Resolved</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-13-pro-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-13-mini-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 13 mini Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-11-proplus-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme 11 Pro+</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-to-safe-mode-in-windows-10-a-comprehensive-troubleshooting-tutorial/"><u>Navigating to Safe Mode in Windows 10: A Comprehensive Troubleshooting Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-pc-issues-while-playing-armored-core-6-fires-of-rubicon/"><u>Solving PC Issues While Playing 'Armored Core 6: Fires of Rubicon'</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-the-fixes-to-tackle-death-strandings-pc-crash-glitches/"><u>Unraveling the Fixes to Tackle Death Stranding's PC Crash Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-the-mystery-destiny-2-and-the-infamous-2024-broccoli-glitch-solution/"><u>Unraveling the Mystery: Destiny 2 and the Infamous 2024 Broccoli Glitch Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-twitters-new-security-features-the-impact-of-ax-and-checkmark-integration/"><u>Unraveling Twitter's New Security Features: The Impact of Ax & Checkmark Integration</u></a></li>
 </ul></div>
 

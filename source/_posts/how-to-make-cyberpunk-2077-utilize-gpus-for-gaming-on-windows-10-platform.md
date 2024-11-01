@@ -1,7 +1,7 @@
 ---
 title: How to Make Cyberpunk 2077 Utilize GPUs for Gaming on Windows 10 Platform
-date: 2024-09-10T14:08:14.638Z
-updated: 2024-09-11T14:08:14.638Z
+date: 2024-10-27T01:00:10.310Z
+updated: 2024-11-01T07:02:00.894Z
 tags:
   - win11
   - win10
@@ -17,20 +17,6 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
 It seems that strings of bugs come along with the release of[Cyberpunk 2077](https://www.epicgames.com/store/en-US/p/cyberpunk-2077?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=77f2b98e2cef40c8a7437518bf420e47) , as many players are reporting**a game not using GPU issue** . While this problem might seem weird, it’s not hard to fix at all. Here we’ll wake you through the fixes and get your GPU working right away.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that scores.
@@ -40,19 +26,12 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 3. [**Change Graphics performance preference**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Make sure you’re using a CPU with integrated graphics
 
@@ -62,19 +41,12 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Update your graphics driver
 
@@ -107,25 +79,18 @@ To do so, first visit the website of your graphics card manufacturer:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
 
@@ -142,21 +107,22 @@ Here’s how:
 4. Click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
-
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this trick doesn’t solve your problem, you can continue to the next one.
 
@@ -170,40 +136,7 @@ And it’s quite easy to check for updates:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
@@ -219,8 +152,6 @@ And it’s quite easy to check for updates:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +159,22 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-chucklechamber-laughter-in-a-click/"><u>[New] ChuckleChamber - Laughter in a Click</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-expert-selection-the-top-11-kid-friendly-waterproof-camcorders-for-2024/"><u>[New] Expert Selection The Top 11 Kid-Friendly, Waterproof Camcorders for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-shooting-the-best-sports-moments-iphone-burst-mode/"><u>2024 Approved Shooting the Best Sports Moments IPhone Burst Mode</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/6-metaverse-examples-to-help-you-have-a-deep-insight-about-it-for-2024/"><u>6 Metaverse Examples to Help You Have a Deep Insight About It for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-launch-errors-in-lost-ark-latest-fixes-and-tips/"><u>Defeating Launch Errors in Lost Ark - Latest Fixes and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2020-stability-fix-overcoming-the-infamous-game-crashes/"><u>Football Manager 2020 Stability Fix: Overcoming the Infamous Game Crashes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone XS Max?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/latest-windows-11-driver-for-amd-radeon-hd-6950-gpu/"><u>Latest Windows 11 Driver for AMD Radeon HD 6950 GPU</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-uninterrupted-twitch-viewing-essential-tips-for-dealing-with-load-issues-7-key-solutions/"><u>Mastering Uninterrupted Twitch Viewing: Essential Tips for Dealing With Load Issues (7 Key Solutions)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-vocal-navigator-discovering-premium-online-text-to-speech-providers/"><u>New In 2024, The Vocal Navigator Discovering Premium Online Text to Speech Providers</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-troubleshooting-addressing-and-correcting-in-game-lags-efficiently/"><u>Outriders Troubleshooting: Addressing and Correcting In-Game Lags Efficiently</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-not-loading-problems-in-the-elder-scrolls-online-adventure/"><u>Overcoming 'Not Loading' Problems in The Elder Scrolls Online Adventure</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-dead-by-daylight-disruptions-a-guide-to-seamless-gaming-performance/"><u>Say Goodbye to 'Dead by Daylight' Disruptions : A Guide to Seamless Gaming Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-overcome-discord-not-opening-issues/"><u>Step-by-Step Solutions to Overcome Discord Not Opening Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-problems-with-the-logitech-g533-headset-mic/"><u>Troubleshooting and Solving Problems with the Logitech G533 Headset Mic</u></a></li>
+</ul></div>
 

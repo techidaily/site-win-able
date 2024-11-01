@@ -1,7 +1,7 @@
 ---
 title: Minecraft Performance Issues? Here's How to Unfreeze Your Game !
-date: 2024-09-10T14:08:13.755Z
-updated: 2024-09-11T14:08:13.755Z
+date: 2024-10-26T07:19:02.975Z
+updated: 2024-11-01T04:15:16.974Z
 tags:
   - win11
   - win10
@@ -18,20 +18,6 @@ thumbnail: https://thmb.techidaily.com/bbf8dc401e219ae9c8c406079b4bb91863628883c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/header.jpg)
 
  The popular JRPG series, Tales, has dropped the latest title: Tales of Arise. But players have been experiencing constant crashes on PC. If you’re on the same boat, no worries, we have a few working fixes you can try.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes…
 
@@ -50,20 +36,6 @@ thumbnail: https://thmb.techidaily.com/bbf8dc401e219ae9c8c406079b4bb91863628883c
 [6: Reinstall the game](https://tools.techidaily.com/drivereasy/download/)
 
  Before we dive into anything advanced, make sure you’ve tried to restart Arise and your PC to see if it’s just a glitch.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## System requirement for Tales of Arise
 
@@ -89,26 +61,6 @@ thumbnail: https://thmb.techidaily.com/bbf8dc401e219ae9c8c406079b4bb91863628883c
 | **DirectX**    | Version 11                                       |
 | **Sound Card** | DirectX compatible sound card or onboard chipset |
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 1: Verify your game files
 
  If your game files are corrupt or have gone missing, it could cause Arise to crash. A quick way to fix it is to verify the integrity of your game files on Steam. Here’s how:
@@ -119,42 +71,9 @@ thumbnail: https://thmb.techidaily.com/bbf8dc401e219ae9c8c406079b4bb91863628883c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files.jpg)
 3. Steam will scan your local game files and do a repair if it detects anything wrong. It could take a while depending on the game size.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. Once the scan is complete, restart the game.
 
  If verifying your game files doesn’t solve the problem, try the next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 2: Install the latest Windows updates
 
@@ -164,24 +83,18 @@ thumbnail: https://thmb.techidaily.com/bbf8dc401e219ae9c8c406079b4bb91863628883c
  (If you don’t see the search bar, click the Start button and you’ll find it in the pop-up menu.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 If Tale of Arise still crashes on your PC, try the next fix.
 
@@ -205,24 +118,17 @@ If Tale of Arise still crashes on your PC, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If your graphics driver is up-to-date but Tales of Arise keeps crashing, try the next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 4: Turn off overlays
 
@@ -235,57 +141,30 @@ If Tale of Arise still crashes on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-07_14-56-20.jpg)
 3. Click OK to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On Steam, you can also turn off the overlay feature per game. If you only want to disable the overlay for Tales of Arise to test the issue, follow these steps:
 
 1. Find Tales of Arise in your Steam library. Right-click it then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**General** tab, **uncheck the box of_Enable the Steam Overlay while in-game_**  .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-07_14-59-03-1.jpg)
 3. Restart the game to test the issue.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
  If disabling overlays doesn’t solve your problem, try the next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 5: Perform a clean boot
 
@@ -298,24 +177,34 @@ If Tale of Arise still crashes on your PC, try the next fix.
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
 
@@ -328,19 +217,6 @@ If Tale of Arise still crashes on your PC, try the next fix.
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
@@ -356,6 +232,14 @@ If Tale of Arise still crashes on your PC, try the next fix.
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching the game.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat until you find the startup item that’s conflicting with Tales of Arise.
 5. Disable the problem program and reboot your PC.
 
@@ -378,8 +262,6 @@ If Tale of Arise still crashes on your PC, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -387,4 +269,22 @@ If Tale of Arise still crashes on your PC, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-first-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>[New] In 2024, First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-artists-guide-to-dynamic-palette-alteration/"><u>[New] The Artist's Guide to Dynamic Palette Alteration</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-optimal-choices-foremost-audio-craftsmen-for-iphones/"><u>[Updated] 2024 Approved Optimal Choices Foremost Audio Craftsmen for iPhones</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-creating-a-softer-focus-iphone-image-blurring-explained/"><u>[Updated] In 2024, Creating a Softer Focus IPhone Image Blurring Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-ethical-strategies-for-ai-in-writing-and-editing/"><u>7 Ethical Strategies for AI in Writing and Editing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/budgeting-approach-to-making-music-videos/"><u>Budgeting Approach to Making Music Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/delicious-directives-the-7-secrets-of-epic-food-vids/"><u>Delicious Directives The 7 Secrets of Epic Food Vids</u></a></li>
+<li><a href="https://fox-search.techidaily.com/five-proven-techniques-for-recovering-missing-microsoft-outlook-documents/"><u>Five Proven Techniques for Recovering Missing Microsoft Outlook Documents</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-installation-problems-a-step-by-step-guide-to-running-tiny-tinas-strikers-of-fate-on-pc-effortlessly/"><u>Fixing Installation Problems: A Step-by-Step Guide to Running Tiny Tina's Strikers of Fate on PC Effortlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-directdraw-errors-effectively-tips-and-tricks/"><u>How to Fix DirectDraw Errors Effectively - Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-team-fortress-2-from-constantly-crashing-troubleshooting-guide/"><u>How to Stop Team Fortress 2 From Constantly Crashing - Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000592828-missed-your-chance-heres-the-fix-l-a-noire-is-now-available-on-pc/"><u>Missed Your Chance? Here's the Fix - 'L. A. Noire' Is Now Available on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-for-opening-google-chrome-issues-you-may-face/"><u>Solution Steps for Opening Google Chrome Issues You May Face</u></a></li>
+<li><a href="https://win-blog.techidaily.com/valheim-gaming-issues-solved-eliminate-frame-drops-and-crashes-for-a-better-experience/"><u>Valheim Gaming Issues Solved: Eliminate Frame Drops and Crashes for a Better Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/wsappx-overview-strategies-for-minimizing-system-resource-drainage-on-your-computer/"><u>WSAPPX Overview: Strategies for Minimizing System Resource Drainage on Your Computer</u></a></li>
+</ul></div>
 

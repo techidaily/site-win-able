@@ -1,7 +1,7 @@
 ---
 title: Complete Guide to Troubleshoot and Stop FIFA 20 From Crashing on Your Computer
-date: 2024-09-10T14:08:10.722Z
-updated: 2024-09-11T14:08:10.722Z
+date: 2024-10-27T07:31:19.983Z
+updated: 2024-11-01T10:22:24.413Z
 tags:
   - win11
   - win10
@@ -38,20 +38,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 | Graphics card | 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better |
 | Storage       | 45 GB available space                                        |
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their crash problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -61,6 +47,13 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 3. [**Change your save files location**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Disable Steam Overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Disable your antivirus software
 
@@ -80,39 +73,18 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify.jpg)
 4. After the process, relaunch the game and check the crash will appear or not.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 ### Fix 3: Change your save files location
 
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
 
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Disable Steam Overlay
 
@@ -123,19 +95,12 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Update your driver
 
@@ -160,41 +125,15 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -208,8 +147,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +154,26 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-set-a-viral-song-as-your-phones-personal-melody/"><u>[New] How To Set a Viral Song as Your Phone's Personal Melody</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-pioneering-portable-vrs-google-cardboard-versus-samsungs-tech/"><u>[Updated] In 2024, Pioneering Portable VRs Google Cardboard Versus Samsung's Tech</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-assessing-the-right-level-of-luminosity-in-creative-hdr-ventures/"><u>2024 Approved Assessing the Right Level of Luminosity in Creative HDR Ventures</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024-troubleshooting-guide-connecting-to-path-of-exile-servers-without-errors/"><u>2024 Troubleshooting Guide: Connecting to Path of Exile Servers Without Errors</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-15-plus-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 15 Plus by Name | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-membership-now-unavailable-exploring-the-closure-causes-and-future-reopening-dates/"><u>ChatGPT Membership Now Unavailable: Exploring the Closure Causes & Future Reopening Dates</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-fixing-the-notorious-apex-legends-error-23/"><u>Effective Solutions for Fixing the Notorious Apex Legends Error 23</u></a></li>
+<li><a href="https://win-able.techidaily.com/five-expert-strategies-for-addressing-the-start-without-video-glitch-in-zoom/"><u>Five Expert Strategies for Addressing the 'Start Without Video' Glitch in Zoom</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-flaws-in-tales-of-arise-now-running-smoothly/"><u>Fixing the Flaws in Tales of Arise – Now Running Smoothly</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-xiaomi-redmi-13c-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Xiaomi Redmi 13C 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-superior-choice-the-premier-portable-dvd-picks/"><u>In 2024, Superior Choice The Premier Portable DVD Picks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-through-star-wars-squadrons-crash-mysteries-now-resolved/"><u>Navigating Through Star Wars Squadrons Crash Mysteries - Now Resolved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-guide-fixing-complete-edition-issues-in-horizon-forbidden-west/"><u>PC Gaming Guide: Fixing Complete Edition Issues in Horizon Forbidden West</u></a></li>
+<li><a href="https://games-able.techidaily.com/pursue-peak-performance-essential-components-list/"><u>Pursue Peak Performance: Essential Components List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/ranking-the-leading-10-pixels-for-free-access-for-2024/"><u>Ranking the Leading 10 Pixels for Free Access for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-utorrent-problems-strategies-to-improve-peer-connections-and-downloads/"><u>Solve Your uTorrent Problems: Strategies to Improve Peer Connections and Downloads</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-resolving-the-black-screen-error-when-playing-call-of-duty-wwii-on-windows/"><u>Solved: Resolving the Black Screen Error When Playing Call of Duty WWII on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/ubisoft-connect-problems-resolved-heres-how-to-get-it-running-again/"><u>Ubisoft Connect Problems Resolved? Here's How to Get It Running Again !</u></a></li>
+</ul></div>
 

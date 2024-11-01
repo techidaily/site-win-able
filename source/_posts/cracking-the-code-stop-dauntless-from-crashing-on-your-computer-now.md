@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code: Stop Dauntless From Crashing on Your Computer Now!"
-date: 2024-09-10T14:08:11.465Z
-updated: 2024-09-11T14:08:11.465Z
+date: 2024-10-29T19:08:26.852Z
+updated: 2024-11-01T00:56:09.898Z
 tags:
   - win11
   - win10
@@ -17,20 +17,6 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
 Many Elite Dangerous players have been reporting the game crashing issue. It occurs randomly, at launch or mid-game, causing extreme annoyance. In this guide, we’ll take a look at Elite Dangerous crashing fixes.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to Fix Elite Dangerous Crashing
 
  Before going any further, it’s critical that you restart your computer first. A restart can clean away the current state of the software, which includes any issues that have occurred.
@@ -45,45 +31,11 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 6. **[Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Run the game in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 1 – Ran the game as administrator
 
  Your PC may not give**Elite Dangerous or the game launcher** the necessary permissions they need to work correctly. You might run into game issues like game crashing in this case.
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 2 – Verify the integrity of game files
 
@@ -95,23 +47,29 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -119,19 +77,12 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **5)**  Relaunch your game to test the issue.
 
@@ -163,23 +114,16 @@ This could take several minutes. Wait for the process to be complete.
 
  Relaunch the game to test your issue. If the crash still occurs, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 5 – Disable unnecessary programs
 
@@ -192,20 +136,6 @@ This could take several minutes. Wait for the process to be complete.
  **Make sure you diable any software overlays (Steam, Discord, Nvidia** **Geforce Experience** ,**etc).**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **3)** Restart your game to see if it runs correctly now.
 
@@ -223,26 +153,6 @@ Your game still won’t work correctly? Read on and try Fix 5.
 
 If the crashing still happens, continue with the next solution below.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 7 – Run the game in Windowed mode
 
  In some cases, Elite Dangerous crashes due to resolution or refresh issues. If that’s the problem for you, running the game in Windowed mode may help fix it.
@@ -250,6 +160,13 @@ If the crashing still happens, continue with the next solution below.
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
@@ -273,8 +190,6 @@ If the crashing still happens, continue with the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -282,4 +197,18 @@ If the crashing still happens, continue with the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-resource-for-advanced-periscope-techniques/"><u>[New] The Ultimate Resource for Advanced Periscope Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-moto-z2s-brainpower-examined-in-detail/"><u>[Updated] Moto Z2's Brainpower Examined in Detail</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-youtube-thumbnail-design-on-macos-unveiled/"><u>2024 Approved YouTube Thumbnail Design on macOS Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-warzone-20-update-eliminates-previous-pc-stability-problems/"><u>Call of Duty: Warzone 2.0 Update Eliminates Previous PC Stability Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-to-stop-no-rest-for-the-wicked-from-crashing-on-windows/"><u>Effective Solutions to Stop 'No Rest for the Wicked' From Crashing on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-pc-issues-fixes-for-elite-dangerous-game-crashes/"><u>Eliminate PC Issues: Fixes for Elite Dangerous Game Crashes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminating-the-path-from-auto-to-4th-gen-hdr-shooting-for-2024/"><u>Illuminating the Path From Auto to 4Th Gen HDR Shooting for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-easy-steps-to-transform-iphone-7-into-a-recorder/"><u>In 2024, Easy Steps to Transform iPhone 7 Into a Recorder</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-new-world-server-lags-a-comprehensive-guide/"><u>Resolving 'New World' Server Lags: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solving-spellbreak-pc-performance-issues/"><u>Troubleshooting Guide: Solving 'Spellbreak' PC Performance Issues</u></a></li>
+</ul></div>
 

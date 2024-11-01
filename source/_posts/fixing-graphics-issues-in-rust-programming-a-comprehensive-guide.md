@@ -1,7 +1,7 @@
 ---
 title: Fixing Graphics Issues in Rust Programming - A Comprehensive Guide
-date: 2024-09-10T14:08:14.017Z
-updated: 2024-09-11T14:08:14.017Z
+date: 2024-10-30T04:34:04.002Z
+updated: 2024-10-31T16:25:24.823Z
 tags:
   - win11
   - win10
@@ -16,20 +16,6 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 ## Persistent Problem: Understanding and Fixing Crashes in StarCraft II Gaming Sessions
 
 Starcraft 2 has been played by millions of people and thousands of esports professionals globally. Many players reported that**Starcraft 2 crashing** issues can sometimes make their game unplayable…
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -46,6 +32,13 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 9. **[Run Starcraft 2 in windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 10. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest game patch
 
  Game developers always keep releasing patches to improve their games and fix existing issues, so you should manually check for updates of your game and game launcher. Keep your Starcraft 2 up to date to avoid any existing game bugs.
@@ -60,19 +53,6 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 2. Select your Starcraft 2.
 3. Click![](https://images.drivereasy.com/wp-content/uploads/2020/02/options.png) below the title of the game and select**Scan and Repair** .
 4. Click**Begin Scan** .
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 5. Wait for the repair to finish.
 
@@ -105,52 +85,18 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2020/02/scan-now-5.png)
 3. Click the Update button next to the flagged video card to automatically download the correct version of their driver (you can do this with the FREE version), then install the driver manually on your computer.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 **OR** click**_Update All_** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ , which comes with a 30-day no question asked money back guarantee.)  
 ![update your drivers by clicking Update or Update all](https://images.drivereasy.com/wp-content/uploads/2020/02/update-all-your-drivers-2-9.jpg)  
  _Note: If you experience any problems when using Driver Easy Pro, please contact our support team at_ [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4. Restart your computer and check if**Starcraft 2 crashing issue** s still persist.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Stop overclocking
 
@@ -165,20 +111,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 2. Expand the**Help** menu, and check the**Debug Mode** option.  
 ![debug-mode-nvidia](https://images.drivereasy.com/wp-content/uploads/2020/02/Debug-Mode.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  This will help you downclock any factory overclocked graphics card to Nvidia reference clock speeds. Although generally speaking, overclocking provides better performance in games and graphics-intensive applications, it can sometimes cause crashing issues and shorten the lifespan of your graphics card.
 
 ### Fix 5: Reset your Starcraft 2 in-game options
@@ -188,26 +120,20 @@ _Note: This method applies only to the_ non-reference model cards_._
 1. Open your Blizzard launcher.
 2. Click![](https://images.drivereasy.com/wp-content/uploads/2020/02/options-1.png) and select**Game settings** .
 3. Scroll down to Starcraft 2 and click the**Reset In-Game Options** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **Reset** .
 5. Click **Done** , then relaunch the game.
 
  This will revert the game video options to default and allow you to load in.
 
  If this doesn’t work, you can restore the driver settings to default by referring to **[How to Reset Video Driver Settings](https://us.battle.net/support/en/article/24142)**  .
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 6: Make an exception for Starcraft 2 in your Antivirus app
 
@@ -224,19 +150,12 @@ _Note: This method applies only to the_ non-reference model cards_._
 3. Navigate to the**Compatibility** tab.
 4. Check the**Run this program as administrator** box.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 8: Set Affinity for Starcraft 2
 
@@ -252,6 +171,13 @@ _Note: This method applies only to the_ non-reference model cards_._
 
  If this temporary method works for you, you’ll need to repeat these steps every time you start your game.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 9: Run Starcraft 2 in windowed mode
 
  Switching from the full-screen mode to windowed mode can sometimes work for many gamers.
@@ -263,20 +189,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 
  If the Starcraft 2 crashing issue still persists in windowed mode, try the next fix below.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 10: Perform a clean boot
 
  There might be other background software or services conflicting with your Starcraft 2\. To see if that’s the culprit of your Starcraft 2 crashing issue, you need to perform a clean boot to find out the problematic software.
@@ -286,18 +198,12 @@ _Note: This method applies only to the_ non-reference model cards_._
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/type_msconfig_in_the_run_box.jpg)
 3. Click the **Services** tab in the new window and check the **Hide all Microsoft services** box, then click **Disable all** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all.png)
 4. Select the **Startup** tab and click **Open Task Manager** .  
@@ -305,6 +211,14 @@ _Note: This method applies only to the_ non-reference model cards_._
 5. Under the **Startup** tab, select **each** startup item and then click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all-startups.png)
 6. Go back to **System Configuration** , then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![go back to configuration window to click OK](https://images.drivereasy.com/wp-content/uploads/2020/02/click-OK.png)
 7. Restart your PC and launch Starcraft 2 to see if the game can launch normally.
 
@@ -321,8 +235,6 @@ _Note: This method applies only to the_ non-reference model cards_._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -330,4 +242,26 @@ _Note: This method applies only to the_ non-reference model cards_._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ideo-platforms-clash-a-youtube-vs-dailymention-comparison/"><u>[New] Video Platforms Clash A YouTube Vs. DailyMention Comparison</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-google-pixel-7a-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Google Pixel 7a without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-a2-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi A2</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-lag-expert-strategies-for-optimizing-chivalry-2-performance/"><u>Beat the Lag: Expert Strategies for Optimizing Chivalry 2 Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/complete-guide-setting-up-the-fanime-add-on-in-your-kodi-media-center-nvidia-shield-compatible/"><u>Complete Guide: Setting Up the FANime Add-On in Your Kodi Media Center (Nvidia Shield Compatible)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-tp-link-archer-a6-ac1200-network-appliance-high-quality-at-low-cost/"><u>Evaluating the TP-Link Archer A6 AC1200 Network Appliance - High Quality at Low Cost</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/everything-you-need-to-know-before-upgrading-to-windows-10-for-2024/"><u>Everything You Need To Know Before Upgrading To Windows 10 for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010201364-fixing-continuous-crashes-in-resident-evil-village-on-your-pc-solutions-inside/"><u>Fixing Continuous Crashes in Resident Evil Village on Your PC - Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-a-complete-blackout-in-overwatch-at-game-launch/"><u>How to Address a Complete Blackout in Overwatch at Game Launch</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/immutable-file-storage-in-windows-operating-systems-windows-11-8-7/"><u>Immutable File Storage in Windows Operating Systems (Windows 11 / 8 / 7)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-broadcast-platform-showdown-obs-or-twitch-studio/"><u>In 2024, Broadcast Platform Showdown OBS or Twitch Studio?</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-frame-rates-pro-level-tweaks-to-speed-up-escape-from-tarkov/"><u>Mastering Frame Rates: Pro-Level Tweaks to Speed Up Escape From Tarkov</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New 2024 Approved Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-kernelbasedll-file-crash-problems-instantly-and-simplified/"><u>Resolve Your KernelBase.dll File Crash Problems Instantly and Simplified</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-performance-issues-keeping-baldurs-gate-iii-running-smoothly-on-pc-systems/"><u>Resolving Performance Issues: Keeping Baldur's Gate III Running Smoothly on PC Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-continuous-crashes-of-the-finals-on-pc-expert-advice/"><u>Troubleshooting Continuous Crashes of The Finals on PC – Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-manual-for-fixing-fallout-3-startup-errors/"><u>Ultimate Troubleshooting Manual for Fixing Fallout 3 Startup Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-windows-11-interface-elements/"><u>Understanding Windows 11 Interface Elements</u></a></li>
+<li><a href="https://win-able.techidaily.com/yakuza-like-a-dragon-ultimate-pc-gaming-experience/"><u>Yakuza: Like a Dragon - Ultimate PC Gaming Experience</u></a></li>
+</ul></div>
 

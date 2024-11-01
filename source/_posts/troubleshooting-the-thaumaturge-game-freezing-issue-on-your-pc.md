@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the Thaumaturge Game Freezing Issue on Your PC
-date: 2024-10-23T14:37:54.281Z
-updated: 2024-10-26T07:41:22.865Z
+date: 2024-10-30T01:32:33.096Z
+updated: 2024-10-31T16:41:15.317Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 8. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1:**Meet the minimum system requirements**
 
 **The minimum system requirements** are a listing of what hardware devices are required to operate your game properly.
@@ -61,6 +54,13 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
@@ -69,16 +69,22 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-131.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your computer meets the minimum requirements, read on and check the fix, below.
 
@@ -100,6 +106,13 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
@@ -116,6 +129,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Paste   **C:\\Program Files (x86)\\Steam\\steamapps\\common\\Oxygen Not Included** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-278.png)
@@ -123,13 +143,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **3)** Right-click**OxygenNotIncluded.exe** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-282.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
@@ -144,6 +157,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
  If you still get the error code in Windows 8 mode, repeat **steps 1 – 3**  and select **Windows 7**  from the drop-down list.
 
  If running your game in compatibility mode didn’t work for you, move on and try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5:**Change branches in Oxygen Not Included**
 
@@ -169,27 +189,20 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-288.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Click the**Local Files tab,** then click**VERIFY INTEGRITY OF GAME FILES** . ( Your game will be updated to the new branch, then.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-289.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)** Relaunch and play Oxygen Not Included.
 
 If the game crashing issue persists, check the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6:**Install** Microsoft Visual C++ 2015 Runtime
 
@@ -236,13 +249,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -252,13 +258,6 @@ OR
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8:**Check for Windows updates**
 
@@ -284,6 +283,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
@@ -293,16 +299,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Highlight the **Oxygen Not Included folder** , and then press the **Del** key on your keyboard to delete the folder.
@@ -334,19 +334,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-making-your-twitter-videos-dance-convert-them-into-expressive-animated-gifs/"><u>[New] 2024 Approved Making Your Twitter Videos Dance Convert Them Into Expressive Animated GIFs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-2023-how-to-find-videos-on-facebook/"><u>[New] In 2024, 2023 | How to Find Videos on Facebook?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-diy-delights-in-motion-personalized-animation-artistry/"><u>[Updated] In 2024, DIY Delights in Motion Personalized Animation Artistry</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-add-a-countdown-timer-in-obs/"><u>2024 Approved How To Add a Countdown Timer in OBS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/automated-intelligence-insight-contrasting-gpt-auto-vs-conversational-ai/"><u>Automated Intelligence Insight: Contrasting GPT Auto vs Conversational AI</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-new-world-slow-response-times-practical-steps-to-ensure-smooth-gaming/"><u>Fixing 'New World' Slow Response Times: Practical Steps to Ensure Smooth Gaming</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/o-create-an-awesome-valorant-thumbnail-for-youtube-videos-for-2024/"><u>How To Create an Awesome Valorant Thumbnail for YouTube Videos for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-xr-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone XR to Computer? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-fortnite-startup-errors-dealing-with-entry-point-not-found/"><u>Overcoming Fortnite Startup Errors: Dealing with 'Entry Point Not Found'</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-gobie-fatal-error-in-black-desert-reborn-ue4-fix-guide/"><u>Resolving GOBIE Fatal Error in Black Desert Reborn - UE4 Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-gaming-experience-tips-for-avoiding-fallout-3-freezes-when-running-windows-10/"><u>Smooth Gaming Experience: Tips for Avoiding Fallout 3 Freezes When Running Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-dolby-atmos-problems-in-windows-11-and-windows-10-systems/"><u>Troubleshooting Dolby Atmos Problems in Windows 11 and Windows 10 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-stop-rocket-league-from-continuously-crashing/"><u>Ultimate Guide to Stop Rocket League From Continuously Crashing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mov-files-saving-methods-for-windows-10-users/"><u>[New] In 2024, .mov Files Saving Methods for Windows 10 Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-internet-aid-social-story-recorder/"><u>[New] In 2024, Internet Aid Social Story Recorder</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtubes-role-in-todays-dynamic-educational-landscape/"><u>[New] In 2024, YouTube's Role in Today's Dynamic Educational Landscape</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-20-popular-tiktok-country-songs-to-take-a-relax-and-dance-to/"><u>2024 Approved 20 Popular TikTok Country Songs to Take a Relax and Dance To</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-beat-saber-from-continuously-crashing/"><u>Fixing the Issue: How to Stop Beat Saber From Continuously Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/phasmophobias-excessive-cpu-utilization-quick-troubleshooting-steps/"><u>Phasmophobia's Excessive CPU Utilization: Quick Troubleshooting Steps</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-s17t-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo S17t Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999055775-troubleshoot-non-responsive-discord-popups-with-ease/"><u>Troubleshoot Non-Responsive Discord Popups with Ease!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-black-screens-on-your-persona-nkiller-common-causes-and-solutions/"><u>Troubleshooting Persistent Black Screens on Your Persona Nkiller: Common Causes & Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-10-creators-updates-kb4103429-and-kb4013418/"><u>Windows 10 Creators Updates: KB4103429 and KB4013418</u></a></li>
 </ul></div>
 

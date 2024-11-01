@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Correcting Discord Instability Problems
-date: 2024-10-21T00:12:37.639Z
-updated: 2024-10-26T05:34:45.775Z
+date: 2024-10-26T18:26:44.255Z
+updated: 2024-10-31T21:27:21.801Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 7. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if your system meets the specifications required for The Division 2
 
@@ -82,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
  If your PC fails to meet the minimum system requirements for The Division 2, you may need to upgrade your PC hardware.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Install the latest game patch
 
  The developers of The Division 2 release regular game patches to fix bugs. It’s possible that a recent patch has triggered the game crash issue, and that a new patch is required to fix it.
@@ -112,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
@@ -133,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
  1) In Uplay, navigate to**the Games tab** and move your mouse cursor to the game tile of The Division 2\. Then click**the downward triangle** on the lower-right corner of the game tile.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-129.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select**Verify files** .
 
@@ -160,13 +160,6 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-123.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
 
 ### Fix 5: Run Windows Compatibility Troubleshooter
@@ -188,37 +181,30 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-126.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3)**Check the box** next to**Override high DPI scaling behavior** and select**Scaling performed by: Application** . Then click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-127.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4)**Tick the box** next to**Disable fullscreen optimizations** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-128.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
  Run The Division 2 to see if the this fix works. If not, try the next fix to modify your page file.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Modify the paging file size
 
@@ -232,16 +218,16 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-146.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the search box, type**advanced** and then click**View advanced system settings** in the list of search results.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-150.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Settings** … in the**Performance** section.
 
@@ -287,9 +273,23 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-159-1024x759.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7)**Turn off Local Reflection Quality** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-160-1024x762.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Set**Ambient Occlusion** to**Medium** .
 
@@ -304,10 +304,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-163-1024x772.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch the game to see if the crash issue reappears. If not, congratulations! You’ve resolved this issue.
@@ -333,24 +333,22 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-essential-hand-tracking-techniques-for-modern-devices-for-2024/"><u>[New] Essential Hand Tracking Techniques for Modern Devices for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagram-analytics-top-tools-for-enhanced-performance-insights/"><u>[Updated] 2024 Approved Mastering Instagram Analytics Top Tools for Enhanced Performance Insights</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-elite-e-learning-hubs-an-alternate-to-udemys-world/"><u>[Updated] Elite E-Learning Hubs An Alternate to Udemy's World</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/answer-hypothyroidism-can-cause-accumulation-of-mucopolysaccharides-within-the-connective-tissue-around-the-median-nerve-leading-to-compression-in-the-carpa32/"><u>Answer: Hypothyroidism Can Cause Accumulation of Mucopolysaccharides Within the Connective Tissue Around the Median Nerve, Leading to Compression in the Carpal Tunnel.</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/blending-primary-and-b-roll-for-smooth-transitions-for-2024/"><u>Blending Primary and B-Roll for Smooth Transitions for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhanced-gta-5-performance-eliminating-previous-stuttering-problems/"><u>Enhanced GTA 5 Performance: Eliminating Previous Stuttering Problems</u></a></li>
-<li><a href="https://discover-best.techidaily.com/enhanced-site-performance-with-advanced-cookiebot-technology/"><u>Enhanced Site Performance with Advanced Cookiebot Technology</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-quick-fixes-how-to-stop-titanfall-2-from-crashing-instantly/"><u>Fix Your [Quick Fixes]: How To Stop Titanfall 2 From Crashing Instantly!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-football-manager-2021-stability-problems-on-windows-pc/"><u>Fixing Football Manager 2021 Stability Problems on Windows PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/god-of-wars-first-person-shooter-adventure-hits-the-pc-scene-download-now/"><u>God of War's First Person Shooter Adventure Hits the PC Scene - Download Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-emotion-ai-interpret-human-sentiments-unveiling-the-truth-behind-artificnial-empathy/"><u>How Does Emotion AI Interpret Human Sentiments: Unveiling the Truth Behind Artificnial Empathy</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-overcome-iphone-usb-device-recognition-errors-with-easy-to-follow-mtp-driver-tips/"><u>How to Overcome iPhone USB Device Recognition Errors with Easy-to-Follow MTP Driver Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-art-of-improving-frame-rate-and-reducing-stutters-in-splitgate-essential-techniques-revealed/"><u>Master the Art of Improving Frame Rate and Reducing Stutters in Splitgate – Essential Techniques Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-battlefield-essential-fixes-for-first-person-shooter-issues-in-call-of-duty/"><u>Mastering the Battlefield: Essential Fixes for First-Person Shooter Issues in Call of Duty</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-found-why-is-my-copy-of-modern-warfare-ii-not-starting/"><u>Solution Found: Why Is My Copy of Modern Warfare II Not Starting?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-essentials-of-youtubes-cc-license-for-filmakers/"><u>The Essentials of YouTube's CC License for Filmakers</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-quick-fixes-for-modern-warfare-3-pc-game-crashes/"><u>Troubleshooting Guide: Quick Fixes for Modern Warfare 3 PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-avatar-frontiers-of-pandoras-failed-startup/"><u>Troubleshooting Guide: Resolving Issues with Avatar: Frontiers of Pandora's Failed Startup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-upgrades-in-samsungs-copilotplus-pc-how-artificial-intelligence-enhances-performance/"><u>Unveiling the Latest Upgrades in Samsung's Copilot+ PC: How Artificial Intelligence Enhances Performance</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-elevate-your-social-influence-the-six-step-guide-to-instagram-verified-status/"><u>[New] In 2024, How to Elevate Your Social Influence The Six-Step Guide to Instagram Verified Status</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-the-basics-a-comprehensive-guide-to-yt-shorts/"><u>[New] Mastering the Basics A Comprehensive Guide to YT Shorts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-ace-your-films-with-these-top-15-gopro-video-luts/"><u>[Updated] Ace Your Films with These Top 15 GoPro Video LUTs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-cant-access-video-feature-on-sony-a6400-camera/"><u>[Updated] Can't Access Video Feature on Sony A6400 Camera</u></a></li>
+<li><a href="https://win-able.techidaily.com/bioshock-n-a-seamless-gameplay-experience-with-fixes-to-previous-crashing-problems/"><u>BioShock N: A Seamless Gameplay Experience with Fixes to Previous Crashing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/definitive-fixes-for-erratic-screen-behavior-correcting-chromes-flicker-on-your-windows-machine-guide/"><u>Definitive Fixes for Erratic Screen Behavior: Correcting Chrome's Flicker on Your Windows Machine (Guide)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-get-your-madden-22-game-running-smoothly-again/"><u>Effective Solutions to Get Your Madden 22 Game Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-prevent-escape-from-tarkov-crashes-on-personal-computers/"><u>Effective Solutions to Prevent Escape From Tarkov Crashes on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-repair-your-broken-hp-display-expert-advice/"><u>How to Repair Your Broken HP Display – Expert Advice</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-windows-10-webcam-recording-the-top-10-software-options/"><u>New In 2024, Windows 10 Webcam Recording The Top 10 Software Options</u></a></li>
+<li><a href="https://facebook.techidaily.com/reassessing-your-internet-interaction-and-cutting-down-on-chats/"><u>Reassessing Your Internet Interaction and Cutting Down on Chats</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/the-ultimate-guide-top-notch-alternatives-to-audacity-that-boost-your-recording-game/"><u>The Ultimate Guide: Top-Notch Alternatives to Audacity That Boost Your Recording Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-and-solutions-for-dealing-with-unavailable-pc-support-on-rockstar-games/"><u>Tips and Solutions for Dealing with Unavailable PC Support on Rockstar Games</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-zoom-unable-to-play-videos/"><u>Top 5 Solutions for Resolving 'Zoom Unable to Play Videos'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-free-animation-software-comprehensive-guide-to-2d-and-3d-tools/"><u>Top Free Animation Software : Comprehensive Guide to 2D & 3D Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-complete-guide-how-to-stop-fifa-2021-from-crashing-on-pcs/"><u>Troubleshooting Complete Guide: How to Stop FIFA 2021 From Crashing on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/valheim-performance-optimization-2024-strategies-to-improve-low-frame-rates/"><u>Valheim Performance Optimization: 2024 Strategies to Improve Low Frame Rates</u></a></li>
 </ul></div>
 

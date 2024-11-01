@@ -1,7 +1,7 @@
 ---
 title: Disco Elysium Won't Launch on Windows – Troubleshooting Steps Inside
-date: 2024-10-22T10:32:43.853Z
-updated: 2024-10-25T19:12:48.406Z
+date: 2024-10-29T21:46:22.809Z
+updated: 2024-10-31T16:22:08.335Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 5. **[Replace game files with a fan-made patch](https://tools.techidaily.com/drivereasy/download/)**
 6. [**Check for corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Scan and repair your game files
 
  When troubleshooting game not launching issues, first you need to make sure there aren’t any corrupted or missing files.
@@ -62,20 +69,20 @@ Here’s how you can check the file integrity on Steam:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -92,13 +99,6 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
@@ -113,6 +113,19 @@ Here’s how you can check the file integrity on Steam:
 
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Replace game files with a fan-made patch
 
  Another hack without installing GFWL would be replacing certain game files of Resident Evil 5 with a fan-made patch. It appears the patch can fix some known bugs of Resident Evil 5\. You can try the patch and see if it gives you luck.
@@ -122,27 +135,21 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
 3. Open the Resident Evil 5 folder and paste the patch files.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
@@ -157,13 +164,6 @@ Here’s how you can check the file integrity on Steam:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -186,19 +186,20 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-broadcast-perfection-recommended-tech-and-apps-for-youtubers/"><u>[New] 2024 Approved Broadcast Perfection Recommended Tech and Apps for YouTubers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-get-ready-for-a-lighter-device-experience-top-48-apps-to-cut-down-video-size-on-android/"><u>[New] 2024 Approved Get Ready for a Lighter Device Experience Top 48 Apps to Cut Down Video Size on Android</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-prime-cameras-unwrapped-the-best-of-2024/"><u>[Updated] Prime Cameras Unwrapped The Best of 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-techniques-for-repairing-directx-malfunctions-in-cod-mw2/"><u>Expert Techniques for Repairing DirectX Malfunctions in CoD MW2</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-magic-v2-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Honor Magic V2 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/navigating-through-call-of-duty-wwiis-error-code-e-4128-a-step-by-step-correction-manual/"><u>Navigating Through Call of Duty WWII's Error Code E 4128: A Step-by-Step Correction Manual</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-cyberpunk-2077-stutter-techniques-and-settings-for-smooth-gaming/"><u>Overcoming Cyberpunk 2077 Stutter: Techniques and Settings for Smooth Gaming</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/streaming-and-downloading-movies-and-series-your-ultimate-guide-to-tune-video-content/"><u>Streaming and Downloading Movies & Series: Your Ultimate Guide to Tune Video Content</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-common-heart-of-iron-iv-errors-and-glitches/"><u>Troubleshooting Common Heart of Iron IV Errors & Glitches</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-reconnecting-your-fallout-76-game-on-pc/"><u>Troubleshooting Steps: Reconnecting Your Fallout 76 Game on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-preventing-and-fixing-pc-crashes-in-forza-horizon-5-gameplay/"><u>Ultimate Guide: Preventing and Fixing PC Crashes in Forza Horizon 5 Gameplay</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-time-lapses-with-iphone/"><u>[Updated] 2024 Approved The Ultimate Guide to Time-Lapses with iPhone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-guide-to-choosing-top-skype-recorder-hats/"><u>[Updated] Essential Guide to Choosing Top Skype Recorder Hats</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ticklishtones-selecting-the-best-ringtones-for-smiles/"><u>[Updated] In 2024, TicklishTones Selecting the Best Ringtones for Smiles</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-screen-recorder-features-for-pcmac-for-2024/"><u>[Updated] Ultimate Screen Recorder Features for PC/Mac for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/assassins-creed-origins-performance-problems-solved-in-2-new-year-fixes/"><u>Assassin's Creed Origins Performance Problems Solved in 2# - New Year Fixes</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/effortless-methods-to-sync-iphone-and-ipad-communications-discover-the-best-strategies/"><u>Effortless Methods to Sync iPhone and iPad Communications: Discover the Best Strategies!</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-techniques-to-enhance-shaders-efficiency-star-wars-battlefront-ii/"><u>Effortless Techniques to Enhance Shaders Efficiency - Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-installupdate-logitech-g403-gamepad-on-windows-step-by-step-guide/"><u>How to Install/Update Logitech G403 Gamepad on Windows - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-starcraft-2-from-crashing-on-your-windows-computer/"><u>How to Stop StarCraft 2 From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/location-transparency-in-fb-direct-messages/"><u>Location Transparency in FB Direct Messages</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-gamers-guide-to-exceptional-video-sessions/"><u>The Gamers' Guide to Exceptional Video Sessions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-dota-2-installation-loading-halted-or-game-wont-open/"><u>Troubleshoot Your Dota 2 Installation: Loading Halted or Game Won’t Open?</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-solutions-address-and-correct-connection-refused-by-live-config-servers-errors/"><u>Unlock Solutions: Address and Correct 'Connection Refused by Live Config Servers' Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/valheim-performance-tweaks-lowering-ping-times-on-windows-devices/"><u>Valheim Performance Tweaks: Lowering Ping Times on Windows Devices</u></a></li>
 </ul></div>
 

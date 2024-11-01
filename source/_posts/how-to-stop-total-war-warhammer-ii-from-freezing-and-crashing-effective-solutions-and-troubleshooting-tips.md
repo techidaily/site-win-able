@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips"
-date: 2024-10-20T10:31:29.895Z
-updated: 2024-10-26T13:45:07.832Z
+date: 2024-10-26T01:37:23.580Z
+updated: 2024-10-31T21:34:53.325Z
 tags:
   - win11
   - win10
@@ -42,18 +42,18 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 4. [**Lower in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Turn off unnecessary programs**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your home network
 
  A bad network connection can often cause your game to freeze, lag or even crash, so you may want to**restart your network** by turning off your modem and router for at least 20 seconds then turning them back on.
 
  If you’re using a Wi-Fi connection, try using an ethernet cable. An ethernet cable can provide a more stable internet connection. If that’s not an option, you can instead, move your computer closer to your router as the distance between your PC and the Router could also affect your Wi-Fi connection and your gaming performance.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -76,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -84,16 +91,10 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
  Relaunch the game to test your issue. If it’s still occurring, try the next fix below.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Verify Warframe cache files
@@ -108,25 +109,11 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-35-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  After the process is complete, click**Optimize** .
 
 **4)** Launch the game to test your issue.
 
 Your game still freezes? Try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Lower in-game graphics settings
 
@@ -147,6 +134,13 @@ Your game still freezes? Try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
 
 If your issue persists, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Turn off unnecessary programs
 
@@ -185,17 +179,21 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-to-youtube-keywords-for-peak-performance/"><u>[New] The Ultimate Guide to YouTube Keywords for Peak Performance</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-tips-and-tricks-optimizing-your-obs-output-on-fb-for-2024/"><u>[New] Tips and Tricks Optimizing Your OBS Output on FB for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-audio-calls-tracker-iphone-voice-memo/"><u>[Updated] Audio Calls Tracker IPhone Voice Memo</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-solving-the-issue-of-spinning-videos-on-instagram/"><u>[Updated] Solving the Issue of Spinning Videos on Instagram</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-your-guide-to-8-best-fb-movies-downloader-selection/"><u>2024 Approved Your Guide to #8 Best FB Movies Downloader Selection</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-your-battle-rank-solutions-for-higher-fps-in-valorant/"><u>Boosting Your Battle Rank: Solutions for Higher FPS in Valorant</u></a></li>
-<li><a href="https://win-able.techidaily.com/definitive-fixes-for-stuttering-issues-during-outriders-gameplay-on-pc/"><u>Definitive Fixes for Stuttering Issues During Outriders Gameplay on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-dying-light-games-persistent-performance-lags/"><u>How to Fix the Dying Light Game's Persistent Performance Lags</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigate-windows-10-like-a-pro-advanced-guide-to-file-explorer/"><u>Navigate Windows 10 Like a Pro: Advanced Guide to File Explorer</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>New The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-frustration-fixing-dauntless-pc-bugs-and-enjoying-uninterrupted-gaming/"><u>No More Frustration: Fixing Dauntless PC Bugs and Enjoying Uninterrupted Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/yakuza-like-a-dragon-seamlessly-integrated-into-pc-gaming/"><u>Yakuza - Like a Dragon Seamlessly Integrated Into PC Gaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mov-mastery-on-windows-11-discover-the-best-recording-methods-from-our-six-step-guide/"><u>[Updated] In 2024, .MOV Mastery on Windows 11 - Discover the Best Recording Methods From Our Six-Step Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-bringing-anime-characters-to-life-jujutsu-kaisen-for-tiktok/"><u>[Updated] In 2024, Bringing Anime Characters to Life Jujutsu Kaisen for TikTok</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-streamline-your-memories-with-mac-photo-slideshow-creator-add-melodies-in-minutes/"><u>1. Streamline Your Memories with Mac Photo Slideshow Creator - Add Melodies in Minutes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-syncing-soundscapes-with-visuals-in-film-teasers/"><u>2024 Approved Syncing Soundscapes with Visuals in Film Teasers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-uniting-social-spheres-from-instagram-to-tiktok-triumphs/"><u>2024 Approved Uniting Social Spheres From Instagram to TikTok Triumphs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-rely-on-chatgpts-responses-is-it-honest-and-accurate/"><u>Can You Rely on ChatGPT's Responses - Is It Honest and Accurate?</u></a></li>
+<li><a href="https://common-error.techidaily.com/ftdi-memory-corruption-issue-how-incorrect-drivers-can-compromise-data-integrity/"><u>FTDI Memory Corruption Issue - How Incorrect Drivers Can Compromise Data Integrity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-gpt-3-for-productive-task-planning/"><u>Leveraging GPT-3 for Productive Task Planning</u></a></li>
+<li><a href="https://win-able.techidaily.com/perfect-your-edits-without-compromise-mastering-high-fidelity-video-cropping-techniques/"><u>Perfect Your Edits Without Compromise: Mastering High-Fidelity Video Cropping Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-guide-to-transferring-dvd-content-to-jellyfin-seamlessly/"><u>Quick Guide to Transferring DVD Content to Jellyfin Seamlessly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/samsungs-virtual-world-enhanced-by-compatible-smartphones-2023-guide/"><u>Samsung's Virtual World Enhanced by Compatible Smartphones - 2023 Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-guide-transforming-videos-into-divx-format/"><u>Seamless Guide: Transforming Videos Into DivX Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-movie-sharing-tips-how-to-digitize-and-transfer-dvds-to-cloud-platforms/"><u>Seamless Movie Sharing Tips: How to Digitize and Transfer DVDs to Cloud Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-converting-wtv-files-into-mpeg-ts-format-using-your-windows-computer/"><u>Simple Steps: Converting WTV Files Into MPEG-TS Format Using Your Windows Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-adding-your-dvd-content-to-youtube/"><u>Step-by-Step Guide: Adding Your DVD Content to YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-capturing-gameplay-footage-of-genshin-impact-across-desktops-and-smartphones/"><u>Step-by-Step Guide: Capturing Gameplay Footage of Genshin Impact Across Desktops and Smartphones</u></a></li>
 </ul></div>
 

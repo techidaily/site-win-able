@@ -1,7 +1,7 @@
 ---
 title: L.A. Noire Now Available for PC - Release Issue Resolved!
-date: 2024-09-10T14:08:14.543Z
-updated: 2024-09-11T14:08:14.543Z
+date: 2024-10-25T17:01:16.960Z
+updated: 2024-11-01T07:15:59.095Z
 tags:
   - win11
   - win10
@@ -31,20 +31,6 @@ Many Origin users have recently experienced an error while trying to log in Orig
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 1: Restart Origin completely
 
  This is the first thing you should try when you’re experiencing the “login unavailable” error. Just restart Origin completely:
@@ -53,27 +39,21 @@ Many Origin users have recently experienced an error while trying to log in Orig
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf2edf1f0d.jpg)
 2. Open Origin and try logging in your account.
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
-
 If this fixes your Origin error, great! But if not, move on to Fix 2.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your system date and time
 
@@ -82,100 +62,51 @@ If this fixes your Origin error, great! But if not, move on to Fix 2.
 1. Press the**Windows logo key** on your keyboard, then type “control”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be56280c10bf.png)
 2. Click**Control Panel** in the results.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4181e3b56c.png)
-3. Click the**View by** drop-down menu, and then select**Category** .  
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4181e3b56c.png)
+3. Click the**View by** drop-down menu, and then select**Category** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418dd28ce6.jpg)
 4. Click**Clock and Region** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf8389e96a.jpg)
 5. Click**Set the time and date** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf89215c55.jpg)
 6. Select the**Internet Time** tab, then click**Change settings** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf91d75fb4.jpg)
 7. Click**Yes** if you’re prompted.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 8. Check**Synchronize with an Internet time server** , then click**Update now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfa9bc6cbf.png)
 9. Click**OK** .
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 10. Click**OK** .
 
@@ -200,23 +131,29 @@ or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e4fecbc8a.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Reset your Internet Explorer settings
 
@@ -230,34 +167,8 @@ or
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418dd28ce6.jpg)
 4. Click**Network and Internet** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfe11d368c.jpg)
 5. Click**Internet Options** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfea0ea859.jpg)
 6. Select the**Advanced** tab, then click the**Reset** button.  
@@ -265,27 +176,14 @@ or
 7. Click the**Reset** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebff7ed6fb9.jpg)
 
- Now restart your computer and check to see if this fixed your Origin error.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+ Now restart your computer and check to see if this fixed your Origin error.
 
 ### Fix 5: Disable your USB device
 
@@ -295,19 +193,6 @@ or
 2. Type “devmgmt.msc” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-62.png)
 3. Double click**Universal Serial Bus controller** , then right click Realtek USB 2.0 Card Reader and select Disable device.  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-72.png)
 4. Run Origin and see if the error is gone.
@@ -323,8 +208,6 @@ or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -332,4 +215,21 @@ or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-become-a-pro-at-xbox-video-recording-in-minutes/"><u>[New] In 2024, Become a Pro at Xbox Video Recording in Minutes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mac-acoustic-arena-deep-dive/"><u>[New] In 2024, Mac Acoustic Arena Deep Dive</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-tutorial-guide-to-fade-out-music-in-premiere-pro/"><u>[Updated] Tutorial Guide To Fade Out Music In Premiere Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/centipede-bug-in-destiny-2-troubleshooting-steps-for-a-smooth-gaming-experience/"><u>Centipede Bug in Destiny 2 - Troubleshooting Steps for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-resolving-audio-glitches-on-your-windows-11-system/"><u>Comprehensive Guide to Resolving Audio Glitches on Your Windows 11 System</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/diving-deep-a-detailed-analysis-of-avi-vs-mp4-video-formats/"><u>Diving Deep: A Detailed Analysis of AVI Vs. MP4 Video Formats</u></a></li>
+<li><a href="https://win-able.techidaily.com/ensure-uninterrupted-adventures-your-guide-to-solving-path-of-exile-connection-errors/"><u>Ensure Uninterrupted Adventures : Your Guide to Solving Path of Exile Connection Errors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-is-ai-revolutionizing-the-medical-field-with-chatgpts-potential/"><u>How Is AI Revolutionizing the Medical Field with ChatGPT's Potential?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stabilize-starfield-ultimate-guide-to-fixing-pc-game-crashes-effectively/"><u>How To Stabilize Starfield: Ultimate Guide to Fixing PC Game Crashes Effectively</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-narzo-60-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme Narzo 60 5G Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-techniques-for-smooth-audio-amplification-in-lumafusion/"><u>In 2024, Techniques for Smooth Audio Amplification in Lumafusion</u></a></li>
+<li><a href="https://win-able.techidaily.com/instant-fixes-for-when-fortnite-wont-load-easy-strategies-inside/"><u>Instant Fixes for When Fortnite Won’t Load - Easy Strategies Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-problems-with-deathloop-steps-to-successful-game-launch/"><u>Resolving Problems with Deathloop - Steps to Successful Game Launch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/slomo-videography-the-complete-app-analysis/"><u>SloMo Videography The Complete App Analysis</u></a></li>
+</ul></div>
 

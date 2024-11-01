@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for Mir4 Game Crashes on Windows"
-date: 2024-09-05T23:06:49.767Z
-updated: 2024-09-06T23:06:49.767Z
+date: 2024-10-31T01:48:01.667Z
+updated: 2024-10-31T16:12:18.268Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: "This Article Describes Resolved: Fixes for Mir4 Game Crashes on Window
 thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d0a71eb82ee67d6e6ce44256.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Effortless Fixes: Resolve Your LoL Crashes in No Time
 
 **League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -72,12 +60,6 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -106,9 +88,23 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -123,29 +119,18 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -156,33 +141,29 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -196,12 +177,6 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
@@ -219,8 +194,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +201,26 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/nhance-info-blocks-templates-for-youtube-titles/"><u>[New] Enhance Info Blocks Templates for YouTube Titles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-preserve-your-virtual-adventures-with-top-pc-screen-techniques/"><u>[New] In 2024, Preserve Your Virtual Adventures with Top PC Screen Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-record-iptv-screen/"><u>[Updated] In 2024, How to Record IPTV Screen</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-depth-how-vimeo-stacks-up-against-youtube-for-2024/"><u>[Updated] In-Depth How Vimeo Stacks Up Against YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-digital-darlings-facebooks-favorites/"><u>2024 Approved Digital Darlings Facebook's Favorites</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-from-live-to-recorded-your-path-to-maccam-skills/"><u>2024 Approved From Live to Recorded Your Path to MacCam Skills</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-the-fix-effective-ways-to-address-tarkov-error-code-103003/"><u>Decoding the Fix: Effective Ways to Address 'Tarkov Error Code 103003'</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-correcting-the-ryzen-chipset-driver-installation-errors/"><u>Effective Solutions for Correcting the Ryzen Chipset Driver Installation Errors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/exhilarating-freeness-of-screen-pairing-games/"><u>Exhilarating Freeness of Screen Pairing Games</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012503326-fixing-apex-legends-wont-load-issue-simple-solutions-inside/"><u>Fixing Apex Legends Won't Load Issue - Simple Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009983106-football-manager-2021-stuttering-and-hanging-discover-fixes-to-enhance-your-gaming-experience/"><u>Football Manager 2021 Stuttering & Hanging? Discover Fixes to Enhance Your Gaming Experience!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-continuous-crashing-issues-in-assassins-creed-valhalla-on-your-computer/"><u>How to Fix Continuous Crashing Issues in Assassin's Creed: Valhalla on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-stand-up-exercise-recognition-errors-on-your-apple-device/"><u>How to Resolve Stand-Up Exercise Recognition Errors on Your Apple Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-shooting-gear-top-10-cameras-without-jitters/"><u>In 2024, Best Shooting Gear Top 10 Cameras Without Jitters</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-top-ranked-audio-respeeders-mobile-desktop/"><u>In 2024, Top-Ranked Audio Respeeders (Mobile, Desktop)</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-connectivity-problems-a-comprehensive-fix-for-high-latency-in-street-fighter-n-gameplay/"><u>Overcoming Connectivity Problems: A Comprehensive Fix for High Latency in Street Fighter N Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-users-say-goodbye-to-endless-crashes-master-these-fixes-for-ascent-game/"><u>PC Users, Say Goodbye to Endless Crashes - Master These Fixes for Ascent Game!</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-7-solutions-resolve-launch-issues-with-warzone-20-on-your-pc/"><u>Top 7 Solutions: Resolve Launch Issues with Warzone 2.0 on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/what-are-some-practices-that-reduce-dependence-on-synthetic-inputs-in-agroecology/"><u>What Are some Practices that Reduce Dependence on Synthetic Inputs in Agroecology?</u></a></li>
+</ul></div>
 

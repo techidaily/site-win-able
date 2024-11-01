@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Roblox PC Error Code 277: Essential Fixes and Advice"
-date: 2024-10-21T02:55:34.401Z
-updated: 2024-10-26T10:11:49.082Z
+date: 2024-10-29T19:43:50.315Z
+updated: 2024-11-01T05:52:35.546Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 ### Fix 2: Run Discord as administrator
@@ -59,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
  1) On your desktop,**right-click** the shortcut of **Discord** and then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
@@ -77,31 +77,24 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
 
 See if this issue reappears. If not, you have fixed this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Check for software interruption
 
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
 
@@ -113,25 +106,11 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
 
@@ -147,16 +126,16 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -167,6 +146,19 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -186,9 +178,23 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
@@ -212,22 +218,22 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-discover-top-ios-video-downloads-facebook-edition-for-2024/"><u>[New] Discover Top iOS Video Downloads Facebook Edition for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-tackle-missing-thumbnails-on-youtube-shorts-for-2024/"><u>[New] How to Tackle Missing Thumbnails on YouTube Shorts for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-simplified-guide-for-iphones-voice-capture-feature/"><u>2024 Approved Simplified Guide for iPhone's Voice Capture Feature</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-virtual-lens-a-study-of-app-reviews/"><u>2024 Approved Virtual Lens A Study of App Reviews</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-htc-u23-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/busting-the-lag-myth-proven-strategies-to-enhance-connectivity-for-lol-players/"><u>Busting the Lag Myth: Proven Strategies to Enhance Connectivity for LoL Players</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dont-miss-out-discover-the-finest-prime-day-bargains-for-apple-products-exclusive-list-and-deals/"><u>Don't Miss Out! Discover the Finest Prime Day Bargains for Apple Products - Exclusive List & Deals</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/exploring-ultra-fast-connectivity-googles-collaboration-with-nokia-on-50gbps-fiber-internet-testing/"><u>Exploring Ultra-Fast Connectivity: Google's Collaboration With Nokia on 50Gbps Fiber Internet Testing</u></a></li>
-<li><a href="https://win-able.techidaily.com/fast-acting-solutions-to-overcome-lag-in-assassins-creed-valhalla/"><u>Fast-Acting Solutions to Overcome Lag in Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-when-the-witcher-3-wild-hunt-game-fails-to-load/"><u>How to Fix When The Witcher 3 Wild Hunt Game Fails to Load</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-a58-4g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo A58 4G Phones? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-correct-nvidias-geforce-error-code-0x0003/"><u>How to Troubleshoot and Correct NVIDIA's GeForce Error Code 0X0003</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-6s-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone 6s? How to Fix it?</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximizing-frame-rates-in-ark-scorched-earth-ultimate-tips-and-tricks-for-pc-players/"><u>Maximizing Frame Rates in ARK: Scorched Earth - Ultimate Tips & Tricks for PC Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-star-wars-squadrons-bugs-easily-mastered-solutions-for-players/"><u>Overcome Star Wars: Squadrons Bugs Easily - Mastered Solutions for Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-launch-failures-for-modern-warfare-2-expert-advice-and-tips/"><u>Solving Launch Failures for Modern Warfare 2: Expert Advice & Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-resolve-hogwarts-legacys-stutter-issues/"><u>Ultimate Troubleshooting Tips: Resolve Hogwarts Legacy's Stutter Issues</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-price-tag-of-a-million-viewed-youtube-video/"><u>[New] 2024 Approved The Price Tag of a Million-Viewed YouTube Video</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-effective-color-difference-filters-in-film-making/"><u>[New] In 2024, Effective Color Difference Filters in Film-Making</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-guide-to-disable-facebook-broadcasts-mobiledesktop/"><u>[Updated] In 2024, Guide to Disable Facebook Broadcasts, Mobile/Desktop</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-minecraft-survival-shelter-mastery-for-2024/"><u>[Updated] Minecraft Survival Shelter Mastery for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-complete-mobizen-users-handbook-for-screen-capturing/"><u>2024 Approved The Complete Mobizen User's Handbook for Screen Capturing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/app-market-showdown-comparing-apples-ios-app-store-with-google-play/"><u>App Market Showdown: Comparing Apple's IOS App Store with Google Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-new-world-connection-error-with-these-proven-fixes/"><u>Bypassing the 'New World Connection Error' With These Proven Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-fix-why-isnt-shadowplay-recording-in-windows-and-how-to-make-it-work/"><u>Complete Fix: Why Isn't Shadowplay Recording in Windows and How to Make It Work?</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003057549-cyberpunk-2amoored-eliminating-stuttering-and-smoothing-out-lags/"><u>Cyberpunk 2Amoored: Eliminating Stuttering and Smoothing Out Lags!</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-continuous-freezing-issues-in-diablo-iii/"><u>Effective Solutions for Continuous Freezing Issues in Diablo III</u></a></li>
+<li><a href="https://games-able.techidaily.com/engaging-screen-time-with-netflix-mobile-adventures/"><u>Engaging Screen Time with Netflix Mobile Adventures</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-modern-warfare-the-new-era-of-first-person-shooting-in-counter-strike-global-offensive/"><u>Mastering Modern Warfare: The New Era of First-Person Shooting in Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-gameplay-fluidity-2024-expert-fixes-for-frequent-fps-drops-in-valorant/"><u>Maximize Gameplay Fluidity: 2024 Expert Fixes for Frequent FPS Drops in Valorant</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-challenge-getting-gta-v-to-open-correctly/"><u>Overcoming the Challenge: Getting GTA V to Open Correctly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-integration-how-to-quickly-download-and-install-intel-nvme-drivers/"><u>Seamless Integration: How to Quickly Download and Install Intel NVMe Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gameplay-overcoming-star-wars-battlefront-2s-previous-slowdown-problems/"><u>Smooth Gameplay: Overcoming Star Wars Battlefront 2'S Previous Slowdown Problems</u></a></li>
 </ul></div>
 

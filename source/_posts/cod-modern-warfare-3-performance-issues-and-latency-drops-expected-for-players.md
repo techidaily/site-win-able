@@ -1,7 +1,7 @@
 ---
 title: "COD: Modern Warfare 3 Performance Issues & Latency Drops Expected for Players"
-date: 2024-10-24T21:38:43.069Z
-updated: 2024-10-25T19:00:00.705Z
+date: 2024-10-31T02:28:19.534Z
+updated: 2024-11-01T04:33:14.531Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 4. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Clean up resource-hungry processes**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change power plan to Ultimate Performance](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -75,20 +68,13 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -102,8 +88,22 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -112,10 +112,10 @@ You can do it with only 2 steps:
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
@@ -159,16 +159,16 @@ Here’s how to enable this power plan:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
 
@@ -191,22 +191,15 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-smooth-transition-tips-for-inshot-editors/"><u>[New] 2024 Approved Smooth Transition Tips for Inshot Editors</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-bypassing-barriers-privately-share-youtube-video-via-google/"><u>[New] Bypassing Barriers Privately Share YouTube Video via Google</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-pioneering-the-future-of-online-filmmaking-with-sony-vegas-and-youtube/"><u>[Updated] Pioneering the Future of Online Filmmaking with Sony Vegas and YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-the-failed-to-start-dilemma-on-rocket-league/"><u>Effective Solutions for the Failed To Start Dilemma on Rocket League</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012035382-ensure-your-virtual-reality-journey-starts-smoothly-addressing-non-detection-of-steam-vr-headsets/"><u>Ensure Your Virtual Reality Journey Starts Smoothly: Addressing Non-Detection of Steam VR Headsets</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/faster-vimeo-viewing-experiences-for-2024/"><u>Faster Vimeo Viewing Experiences for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-iphone-wont-connect-to-itunes-on-windows-11-solutions-guide/"><u>Fix: IPhone Won't Connect to iTunes on Windows 11 - Solutions Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-workarounds-for-minecraft-not-loading-correctly/"><u>Fixes and Workarounds for Minecraft Not Loading Correctly</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-benq-bl2711u-elevating-professional-monitors-to-new-heights-in-4k-realms/"><u>In 2024, BenQ BL2711U Elevating Professional Monitors to New Heights in 4K Realms</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-glitches-7-simple-tricks-for-a-smoother-halo-infinite-experience-on-your-desktop/"><u>No More Glitches: 7 Simple Tricks for a Smoother Halo Infinite Experience on Your Desktop</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/precision-perfected-pearsons-gsl-and-mondly-synergy/"><u>Precision Perfected - Pearson's GSL & Mondly Synergy</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-oneplus-12-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My OnePlus 12 Black and White | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010838266-rainbow-six-extraction-fixed-no-more-pc-crashes/"><u>Rainbow Six Extraction: Fixed – No More PC Crashes!</u></a></li>
-<li><a href="https://article-files.techidaily.com/simplified-techniques-for-blurring-faces-in-pictures-for-2024/"><u>Simplified Techniques for Blurring Faces in Pictures for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-truth-behind-elden-rings-delayed-launch/"><u>The Truth Behind Elden Ring's Delayed Launch</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-why-your-steam-games-wont-start-in-windows-10-and-how-to-solve-them/"><u>Troubleshooting Tips: Why Your Steam Games Won't Start in Windows 10 & How to Solve Them</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unveiling-the-secrets-of-creative-commons-licensing/"><u>Unveiling the Secrets of Creative Commons Licensing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-best-nintendo-switch-fighter-ranks-max-156-for-2024/"><u>[New] Best Nintendo Switch Fighter Ranks (Max 156) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unbeatable-summer-movie-list-10-familial-classics/"><u>[Updated] Unbeatable Summer Movie List 10 Familial Classics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-precise-ways-to-check-gpt-written-function/"><u>5 Precise Ways to Check GPT’ Written Function</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-desktop-version-is-coming-soon-want-a-great-free-alternative/"><u>ChatGPT's Desktop Version Is Coming Soon, Want a Great Free Alternative?</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fix-for-star-citizens-windows-operating-system-crashes/"><u>Comprehensive Fix for Star Citizen's Windows Operating System Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-common-problems-with-steams-remote-play-a-step-by-nstep-guide/"><u>Fixing Common Problems With Steam's Remote Play: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fps-drop-fixes-enhance-your-experience-in-cyberpunk-2077/"><u>FPS Drop Fixes Enhance Your Experience in Cyberpunk 2077</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-fixing-discords-screen-sharing-audio-issues/"><u>Troubleshooting Steps: Fixing Discord's Screen Sharing Audio Issues</u></a></li>
+<li><a href="https://fox-within.techidaily.com/trovata-la-chiave-per-riavere-indietro-le-tue-file-perduti-in-windows-11-segui-questi-passaggi/"><u>Trovata La Chiave per Riavere Indietro Le Tue File Perduti in Windows 11 - Segui Questi Passaggi!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-voyage-to-victory-secrets-from-youtube-stars/"><u>Video Voyage to Victory Secrets From YouTube Stars</u></a></li>
 </ul></div>
 
