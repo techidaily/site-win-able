@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Gobi Fatal Error in Ubisoft's Back Cu Blood: A Guide for Unreal Engine 4 Players"
-date: 2024-10-31T01:18:11.694Z
-updated: 2024-11-01T10:44:29.775Z
+date: 2024-11-02T16:46:32.561Z
+updated: 2024-11-07T01:36:02.438Z
 tags:
   - win11
   - win10
@@ -41,10 +41,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
@@ -56,19 +56,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 2) Right-click Phasmophobia and select**Properties** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
@@ -91,10 +78,10 @@ Game crashing issues might happen when your game files are corrupted.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Delete everything except these:
@@ -123,17 +110,17 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -176,6 +163,13 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 8: Disable fullscreen optimizations
 
  Disabling fullscreen optimizations fixes the crashing issue for many games running on the Unity engine. Here’s how to do it:
@@ -186,6 +180,13 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Apply > OK** .
 
  4) Relaunch the game to test your issue.
@@ -193,16 +194,10 @@ If Phasmophobia crashing issues persist, try the next fix below.
 If the problem still exists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
@@ -216,13 +211,6 @@ If the problem still exists, try the next fix below.
 3) Go to the**BETAS tab** . Under**Select the beta you would like to opt into** , select a beta version if there’re any available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
@@ -243,20 +231,22 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-disruptive-beats-curated-list-of-music-mutators-for-2024/"><u>[New] Disruptive Beats Curated List of Music Mutators for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-compilation-of-techniques-to-source-background-images-for-2024/"><u>[New] The Ultimate Compilation of Techniques to Source Background Images for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/2024windows-1011dvd/"><u>2024年対応の安心セキュリティ付きWindows 10/11用フリーDVDプレイヤー推薦</u></a></li>
-<li><a href="https://win-able.techidaily.com/2024mpeg/"><u>2024年の優れた無料MPEG変換ツールと、その使い方：ビデオ編集者に最適</u></a></li>
-<li><a href="https://win-able.techidaily.com/5yuv55s744gu5lik44gr55s75yop44ks6ywn572u44gz44kl44gf44kb44gu44k344o844og44os44k544gq44k944ov44oi44km44kn44ki44o744oe44o844or44ks44kk44oj/"><u>動画の上に画像を配置するためのシームレスなソフトウェア・ツールガイド</u></a></li>
-<li><a href="https://win-able.techidaily.com/acquire-efficient-digital-filing-solutions-with-wonderfox/"><u>Acquire Efficient Digital Filing Solutions with WonderFox</u></a></li>
-<li><a href="https://win-able.techidaily.com/adding-clear-audio-to-your-videography-without-a-watermark/"><u>Adding Clear Audio to Your Videography Without a Watermark</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-your-language-learning-journey-with-chatgpt-plus/"><u>Enhancing Your Language Learning Journey with ChatGPT Plus</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/from-simulation-to-reality-jaunt-vrs-journey/"><u>From Simulation to Reality Jaunt VR's Journey</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-academic-avenue-leading-educators-on-youtube/"><u>In 2024, Academic Avenue Leading Educators on YouTube</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-list-of-top-iphone-vr-game-hits/"><u>In 2024, Exclusive List of Top iPhone VR Game Hits</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726030158133-itunes/"><u>ITunesで動画ファイルの統合手順</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prevent-edit-mode-configure-ms-word-to-open-email-attachments-in-reading-layout/"><u>Prevent Edit Mode: Configure MS Word To Open Email Attachments In Reading Layout</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/proven-approaches-for-pristine-photos-on-the-web-for-2024/"><u>Proven Approaches for Pristine Photos on the Web for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/44k744kk44og44o844ow5yuv55s744gu5a6j5ywo44gq44oa44km44oz44ot44o844oj5oml6acg/"><u>セイムーブ動画の安全なダウンロード手順</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-zoom-brilliance-a-blueprint-for-immaculate-edges/"><u>[New] 2024 Approved Zoom Brilliance A Blueprint for Immaculate Edges</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-mastering-youtube-video-sizing-a-step-by-step-approach/"><u>[New] In 2024, Mastering YouTube Video Sizing A Step-by-Step Approach</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-best-audio-picks-high-quality-sites-compilation/"><u>[Updated] Best Audio Picks High-Quality Sites Compilation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-power-of-jump-cuts-in-engaging-videos/"><u>2024 Approved The Power of Jump Cuts in Engaging Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-playtime-interruptions-comprehensive-guide-to-resolving-constant-pc-crashes-in-watch-dogs-legion/"><u>Addressing Playtime Interruptions: Comprehensive Guide to Resolving Constant PC Crashes in Watch Dogs: Legion</u></a></li>
+<li><a href="https://win-able.techidaily.com/enabling-hyper-v-virtualization-on-your-pc-with-windows-11-instructions/"><u>Enabling Hyper-V Virtualization on Your PC with Windows 11 Instructions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-free-gaming-solving-the-steam-locked-content-dilemma/"><u>Error-Free Gaming: Solving the Steam Locked Content Dilemma</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-fixing-persistent-crashes-in-the-popular-ring-of-elysium-title/"><u>Expert Tips for Fixing Persistent Crashes in the Popular Ring of Elysium Title</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005916670-fix-your-world-of-tanks-blitz-app-stability-issues-end-the-constant-crashes-now/"><u>Fix Your World of Tanks Blitz App Stability Issues - End the Constant Crashes Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-steam-purchase-anomalies-quickly/"><u>Fixing Steam Purchase Anomalies Quickly</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/guide-detaille-pour-la-migration-pc-portable-a-ssd-sur-windows-meilleures-pratiques-et-solutions/"><u>Guide Détaillé Pour La Migration PC Portable À SSD Sur Windows : Meilleures Pratiques Et Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-ideal-modeling-software-for-animation-professionals/"><u>In 2024, Ideal Modeling Software for Animation Professionals</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-no-hassle-sending-tweeted-videos-to-whatsapp/"><u>In 2024, No Hassle Sending Tweeted Videos to WhatsApp</u></a></li>
+<li><a href="https://win-able.techidaily.com/mlb-the-show-21-online-issue-resolved-get-back-to-winning-now/"><u>MLB The Show 21 Online Issue Resolved - Get Back to Winning Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-optimization-tips-to-prevent-battlefield-amoor-from-crashing-in-game/"><u>PC Optimization Tips to Prevent Battlefield Amoor From Crashing In-Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-boost-your-gaming-performance-solutions-to-high-fps-issues-in-valorant/"><u>Ultimate Guide: Boost Your Gaming Performance - Solutions to High FPS Issues in VALORANT</u></a></li>
+<li><a href="https://win-able.techidaily.com/wwe-2k20-simple-fixes-to-stop-playstation-4-like-crashing-issues-on-pc/"><u>WWE 2K20: Simple Fixes to Stop PlayStation 4-Like Crashing Issues on PC</u></a></li>
 </ul></div>
 

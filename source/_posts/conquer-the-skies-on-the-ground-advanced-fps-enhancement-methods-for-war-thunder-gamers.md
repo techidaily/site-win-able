@@ -1,7 +1,7 @@
 ---
 title: "Conquer the Skies, On The Ground: Advanced FPS Enhancement Methods for War Thunder Gamers"
-date: 2024-09-01T08:06:57.739Z
-updated: 2024-09-02T08:06:57.739Z
+date: 2024-11-04T18:09:01.302Z
+updated: 2024-11-06T23:56:05.016Z
 tags:
   - win11
   - win10
@@ -49,11 +49,31 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
  After you successfully launched the game, it may re-enable the DirectX 12 mode automatically or it won’t. If it won’t, you can manually re-enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Re-enable DirectX 12 mode
 
  1) Go to the game’s main menu and head across to the**OPTIONS** screen. Then select**VIDEO** .  
   
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
 
@@ -63,11 +83,28 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**File > Save** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Why disabling DirectX 12 works
 
  It’s possible that DirectX 12 could offer some enhancements for your machine, using DirectX 11 should allow the software to run much more reliably and stably. Basically, while the game is running in DirectX 12 mode, it’s able to pre-cache certain shaders so that you can get much better performance in-game. But chances are, the game might not be launching as expected.
@@ -80,8 +117,6 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +124,26 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-best-tools-to-track-popular-tags-on-fb-twt-and-ig-networks/"><u>[New] In 2024, Best Tools to Track Popular Tags on FB, Twt & IG Networks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-enshrine-your-elite-playthroughs-in-galaxy-cases/"><u>[New] In 2024, Enshrine Your Elite Playthroughs in Galaxy Cases</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-monetization-the-new-rules-everyone-hates/"><u>[New] In 2024, YouTube Monetization The New Rules Everyone Hates</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-pitch-perfect-how-to-add-songs-to-your-snapchat-content/"><u>[Updated] Pitch Perfect How to Add Songs to Your Snapchat Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-selecting-your-favorite-free-game-capture-software-for-2024/"><u>[Updated] Selecting Your Favorite Free Game Capture Software for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoiding-dota-2-anti-cheat-penalties-fixes-for-2-error/"><u>Avoiding Dota 2 Anti-Cheat Penalties - Fixes for 2# Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/combat-latency-in-call-of-dutys-warzone-20-with-these-expert-tips-2er-2024/"><u>Combat Latency in Call of Duty's Warzone 2.0 with These Expert Tips - 2Er 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-guide-stabilizing-horizon-forbidden-west-full-gameplay-on-windows/"><u>Complete Guide: Stabilizing 'Horizon Forbidden West' Full Gameplay on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-use-guide-making-trackir-functional/"><u>Download & Use Guide: Making TrackIR Functional</u></a></li>
+<li><a href="https://win-able.techidaily.com/ffxiv-update-problems-how-to-ensure-successful-version-verification-processes/"><u>FFXIV Update Problems: How to Ensure Successful Version Verification Processes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-recurring-issues-how-to-stop-world-of-tanks-blitz-from-continuously-crashing/"><u>Fixing Recurring Issues: How to Stop World of Tanks Blitz From Continuously Crashing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-games-from-crashing-on-your-computer/"><u>How to Stop Games From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-frame-rate-in-rainbow-six-extraction-expert-tips-for-higher-fps/"><u>Improve Frame Rate in Rainbow Six Extraction – Expert Tips for Higher FPS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-premier-list-all-time-great-general-knowledge-shows-24/"><u>In 2024, The Premier List All-Time Great General Knowledge Shows '24</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-startup-issues-in-far-cry-5-a-step-by-step-guide/"><u>Overcoming Startup Issues in Far Cry 5: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-problems-how-to-get-resident-evil-village-game-running-smoothly/"><u>Solved Problems: How To Get Resident Evil Village Game Running Smoothly</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-ps4-controller-for-your-pcmac/"><u>The Ultimate PS4 Controller for Your PC/Mac</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/ultimate-guide-to-clearing-out-your-iphones-entire-library-of-voice-recordings/"><u>Ultimate Guide to Clearing Out Your iPhone's Entire Library of Voice Recordings</u></a></li>
+</ul></div>
 

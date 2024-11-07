@@ -1,7 +1,7 @@
 ---
 title: Sid Meier’s Civilization VI Crash Woes? Expert Fixes to Get You Back in Action
-date: 2024-10-31T05:20:54.816Z
-updated: 2024-11-01T04:36:10.095Z
+date: 2024-11-03T04:14:47.062Z
+updated: 2024-11-07T01:10:30.864Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ If**Civilization 6 keeps crashing** on your PC, don’t worry. There are solutio
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Install the latest patch
 
  Outdated versions of the software may bring buggy issues when you’re using the software, and Civilization VI is no exception. That’s why the software developers keep releasing new patches to fix bugs and improve features.
@@ -56,6 +49,19 @@ If**Civilization 6 keeps crashing** on your PC, don’t worry. There are solutio
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game crashing or freezing. In that case, you should set your CPU clock speed rate back to the default to fix your issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Update your graphics card driver
 
@@ -89,13 +95,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-238.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-239.png)
@@ -108,13 +107,6 @@ Now launch CIV 6 and see if the crashing issue has been resolved.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 4: Use Medium or Low settings for your game
 
  Settings a high graphics effect for your game may crash your computer, so it’s always a go-to option to set the graphics options to Medium or Low.
@@ -125,6 +117,13 @@ Now launch CIV 6 and see if the crashing issue has been resolved.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 5: Disable DLC for CIV 6
 
  Usually the game developers release Downloadable Content (DLC) for players, which is additional content created for an already-released video game to have better experience.
@@ -134,6 +133,13 @@ Now launch CIV 6 and see if the crashing issue has been resolved.
  If CIV 6 works properly after turning off DLC, then you should stop using DLC when playing your game, or report your issue to the game support.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 6: Turn off antivirus program for your game
 
@@ -161,16 +167,16 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-241.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right click on**Civilization VI** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-240.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the**Local Files** tab, then click**Browser Local Files** to open the file location in**File Explorer** .
 
@@ -181,10 +187,10 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-243.png)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Open**File Explorer** that you just open via Steam, and ensure to delete all the files in that game folder.
@@ -216,24 +222,15 @@ Here’s what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-implementing-exact-timestamp-features-for-youtube/"><u>[New] 2024 Approved Implementing Exact Timestamp Features for YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-beam-worthy-moments-samsung-gamers-chronicle/"><u>[New] In 2024, Beam-Worthy Moments Samsung Gamers Chronicle</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-video-excellence-text-integration-basics/"><u>[New] In 2024, Instagram Video Excellence Text Integration Basics</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-instantly-create-a-custom-youtube-feed-via-your-smartphone/"><u>[New] In 2024, Instantly Create a Custom YouTube Feed via Your Smartphone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premium-picks-a-list-of-must-play-google-cardboard-vr-games/"><u>[New] Premium Picks A List of Must-Play Google Cardboard VR Games</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-dive-into-display-dimensions-for-video-newbies/"><u>[Updated] 2024 Approved Dive Into Display Dimensions For Video Newbies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-find-the-best-videographer/"><u>[Updated] 2024 Approved How to Find the Best Videographer</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-new-visionary-record-critique-and-counterfeit-replacements/"><u>[Updated] 2024 Approved New Visionary Record Critique & Counterfeit Replacements</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-the-twin-breakdown-challenge-expert-solutions-to-pc-double-crashing-issues/"><u>Conquer the Twin-Breakdown Challenge: Expert Solutions to PC Double-Crashing Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/elevate-the-fun-with-smoother-gameplay-a-guide-to-improve-frame-rates-and-decrease-latency-issues-in-fall-guys/"><u>Elevate the Fun with Smoother Gameplay - A Guide to Improve Frame Rates and Decrease Latency Issues in Fall Guys</u></a></li>
-<li><a href="https://win-able.techidaily.com/game-patch-notes-for-the-elder-scrolls-online-tackling-blackwood-zone-delays/"><u>Game Patch Notes for The Elder Scrolls Online: Tackling Blackwood Zone Delays</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-oneplus-12r-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked OnePlus 12R Phone?</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722992696828-minecraft-wont-launch-heres-how-you-can-get-it-working-perfectly-on-windows-11/"><u>Minecraft Won't Launch? Here's How You Can Get It Working Perfectly on Windows 11!</u></a></li>
-<li><a href="https://win-able.techidaily.com/regain-control-of-your-profile-the-web-portal-is-active-once-more/"><u>Regain Control of Your Profile: The Web Portal Is Active Once More</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-how-to-get-past-the-endless-load-screen-in-madden-nfl-22/"><u>Solved: How to Get Past the Endless Load Screen in Madden NFL 22</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/charge-your-media-download-sounds-for-editing-in-2024/"><u>Supercharge Your Media Download Sounds for Editing, In 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-loading-errors-on-discord-live-streams-resolved/"><u>Troubleshooting Tips: Loading Errors on Discord Live Streams Resolved</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-stabilizing-your-playthrough-of-city-skylines-2-on-pc/"><u>Ultimate Guide: Stabilizing Your Playthrough of City Skylines 2 on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/zoom-stability-solutions-on-windows-1110-avoidance-tips-and-fixes/"><u>Zoom Stability Solutions on Windows 11/10 - Avoidance Tips and Fixes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-ultimate-guide-to-enriching-youtube-videos-with-harmonics-for-2024/"><u>[New] The Ultimate Guide to Enriching YouTube Videos with Harmonics for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-precision-recording-of-console-games-on-your-pc/"><u>[Updated] In 2024, Precision Recording of Console Games on Your PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-potential-secrets-to-successful-fb-video-ads/"><u>[Updated] Unlocking Potential Secrets to Successful FB Video Ads</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-art-of-capturing-attention-top-6-videos-to-watch/"><u>2024 Approved The Art of Capturing Attention Top 6 Videos to Watch</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-hurdles-during-takeoff-for-virtual-city-architect-pro-skylines-2/"><u>Fixing Hurdles During Takeoff for Virtual City Architect Pro - Skylines 2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/stay-on-top-of-your-game-ultimate-tips-to-resolve-war-thunders-persistent-crashing-issues-for-202er/"><u>Stay on Top of Your Game: Ultimate Tips to Resolve War Thunder's Persistent Crashing Issues for 202Er</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-launching-hogwarts-legacy-successfully-korean/"><u>Step-by-Step Solution: Launching Hogwarts Legacy Successfully (Korean)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2581666-9780008205515-the-pig-in-2017-your-chinese-horoscope/"><u>The Pig in 2017: Your Chinese Horoscope | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-strategies-for-uninterrupted-gaming-battle-royale-fixes-on-desktops-tech-insights-2024/"><u>Winning Strategies for Uninterrupted Gaming: Battle Royale Fixes on Desktops (Tech Insights - 2024)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: FIFA 22 Troubleshooting Guide - Stop Your Game From Crashing
-date: 2024-10-30T21:18:03.564Z
-updated: 2024-10-31T20:40:21.479Z
+date: 2024-10-30T19:46:39.097Z
+updated: 2024-11-07T05:00:31.830Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -51,13 +58,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 2. Click the Compatibility tab and check**Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If it’s not working, move to next fix.
 
@@ -106,26 +106,20 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
@@ -140,10 +134,10 @@ OR
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
@@ -172,16 +166,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-top-ranked-independent-offline-mobile-gaming-android/"><u>[New] Top-Ranked Independent Offline Mobile Gaming (Android)</u></a></li>
-<li><a href="https://win-able.techidaily.com/a-comprehensive-guide-to-fixing-stutters-and-boosting-frames-in-dragons-dogma-n-second-edition/"><u>A Comprehensive Guide to Fixing Stutters and Boosting Frames in Dragon's Dogma N: Second Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-bug-steps-to-fix-black-ops-cold-wars-error-code-887a005/"><u>Beat the Bug: Steps to Fix Black Ops Cold War's Error Code 887A005</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/blueprints-to-hiring-creative-cinematographers-for-2024/"><u>Blueprints to Hiring Creative Cinematographers for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008994181-explore-yokohama-like-never-before-with-like-a-dragon-on-your-pc/"><u>Explore Yokohama Like Never Before with 'Like a Dragon' On Your PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/imovie-rhythms-a-sound-experts-handbook/"><u>IMovie Rhythms A Sound Expert's Handbook</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-how-to-craft-compelling-fb-video-covers-from-scratch/"><u>In 2024, How to Craft Compelling FB Video Covers From Scratch</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/in-depth-guide-to-correcting-google-chromes-page-load-failures/"><u>In-Depth Guide to Correcting Google Chrome's Page Load Failures</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-spark-20-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Spark 20 without backup.</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-infinix-note-30-vip-racing-edition-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Note 30 VIP Racing Edition Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-digital-renaissance-spotlight-on-six-trailblazers-of-nfts/"><u>[New] In 2024, Digital Renaissance Spotlight on Six Trailblazers of NFTs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-techniques-to-perfectly-transcribe-ppts-for-2024/"><u>[New] Techniques to Perfectly Transcribe PPTs for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-guide-to-likes-strategies-for-captivating-tiktok-unboxers/"><u>[Updated] 2024 Approved The Ultimate Guide to Likes Strategies for Captivating TikTok Unboxers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-joyjingles-where-to-find-hilarious-ringtone-links/"><u>2024 Approved JoyJingles Where to Find Hilarious Ringtone Links</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-creativity-with-filmoras-best-tools/"><u>Enhancing Creativity with Filmora's Best Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-oculus-rift-a-step-by-step-approach-to-reestablish-runtime-connection/"><u>Fixing Oculus Rift: A Step-by-Step Approach to Reestablish Runtime Connection</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/future-of-fb-ads-predictions-for-2024/"><u>Future of FB Ads Predictions for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-players-rejoice-crusader-kings-iii-crash-problems-resolved/"><u>PC Players Rejoice: Crusader Kings III Crash Problems Resolved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-the-witcher-3-on-pc-when-it-keeps-crashing/"><u>Resolved: How to Fix The Witcher 3 on PC When It Keeps Crashing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/release-channeling-playlist-hits-online/"><u>Rush Release Channeling Playlist Hits Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-long-awaited-premiere-it-takes-two-now-on-screen/"><u>The Long-Awaited Premiere: 'It Takes Two' Now On Screen</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-realme-12-pro-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme 12 Pro 5G FRP</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-ultralight-laptop-perfect-for-telecommuters-a-detailed-review-by-zdnet/"><u>Top-Rated Ultralight Laptop Perfect for Telecommuters: A Detailed Review by ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-freezing-issues-in-minecraft-tips-for-uninterrupted-play-on-your-desktop/"><u>Troubleshooting Freezing Issues in Minecraft: Tips for Uninterrupted Play on Your Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-star-wars-jedi-fallen-order-pc-game-crashes/"><u>Troubleshooting Guide: Fixing 'Star Wars Jedi: Fallen Order' PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-dealing-with-persistent-black-screens-on-mtga-platform/"><u>Ultimate Solution: Dealing with Persistent Black Screens on MTGA Platform</u></a></li>
 </ul></div>
 

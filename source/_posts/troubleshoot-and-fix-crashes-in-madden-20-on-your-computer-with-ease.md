@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Fix Crashes in Madden 20 on Your Computer With Ease
-date: 2024-09-01T08:06:00.113Z
-updated: 2024-09-02T08:06:00.113Z
+date: 2024-10-30T20:41:32.848Z
+updated: 2024-11-06T16:58:39.183Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc994
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What you might concern…
 
  Before we go, check if your computer meets the requirements for running Fallout 4:
@@ -59,17 +66,18 @@ Hard disk space: 30 GB free HDD space
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Stop your background running programs
 
  Fallout 4 requires Internet access when running. While playing Fallout 4, if you have any other **programs running in background and they’re eating up Internet usage or taking up a lot of your system space** , Fallout 4 may stutter. So check to stop any other unnecessary background programs while you’re playing Fallout 4\. Then check if Fallout 4 runs smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your video driver
 
  An old, corrupted or missing video driver on your system could also cause Fallout 4 to stutter. When you’re encountering Fallout 4 stuttering, we recommend**updating your video driver** for the best gaming experience.
@@ -89,9 +97,14 @@ You can update your video driver either manually or automatically.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95d9711631c.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)
 
 Launch Fallout 4 to see if it runs smoothly.
@@ -110,9 +123,6 @@ Launch Fallout 4 to see if it runs smoothly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95db0636cd2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 2: Change the resolutions in Fallout 4 back to your monitor size
 
 1. Launch Fallout 4 on your computer.
@@ -123,6 +133,13 @@ Launch Fallout 4 to see if it runs smoothly.
  Save your settings and log in Fallout 4 to run it and see if it runs smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Change your game mode and correct the resolutions by modifying your game file
 
@@ -146,9 +163,6 @@ Run Fallout 4 to see if it goes smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Adjust the frame rate
 
 **Frame rate** refers to the number of individual images that are displayed per second in your game display. If the frame rate of Fallout 4 on your system drops, everything will**slow down** .**58 fps** is the recommended frame rate you can set. Why 58? It’s some kind of magic number as the least problems happen at this frame rate.
@@ -167,9 +181,6 @@ Run Fallout 4 to see if it goes smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Disable the V-sync feature
 
 **V-sync** (vertical sync) is the synchronization of your frame rate with the maximum refresh rat of the display being used. So being enabled, V-sync would**limits the frame rate** of your game. If the frame rates is low, everything displaying on Fallout 4 will slowdown. In this case, we recommend disabling the V-sync feature.
@@ -198,8 +209,6 @@ Run Fallout 4 to see if it goes smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +216,24 @@ Run Fallout 4 to see if it goes smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-reverse-image-scanning-on-instagram-photos/"><u>[Updated] 2024 Approved Mastering Reverse Image Scanning on Instagram Photos</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-input-latency-mastering-valorant-on-your-pc/"><u>Beat Input Latency: Mastering Valorant on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/behind-the-scenes-of-apples-developer-event-wwdc-2025-exclusives-uncovered/"><u>Behind-the-Scenes of Apple's Developer Event – WWDC 2025 Exclusives Uncovered</u></a></li>
+<li><a href="https://win-able.techidaily.com/breaking-down-the-reasons-behind-assassins-creed-unity-stuttering-at-startup/"><u>Breaking Down the Reasons Behind 'Assassin's Creed Unity Stuttering at Startup'</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-avoid-superhero-system-crashes-on-personal-computers/"><u>Expert Tips to Avoid Superhero System Crashes on Personal Computers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/exploring-the-unspoken-rules-of-instagram-mastery-for-2024/"><u>Exploring the Unspoken Rules of Instagram Mastery for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-on-pc-freezing-fix-it-with-these-2024-expert-solutions/"><u>Fortnite on PC Freezing? Fix It with These 2024 Expert Solutions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/halo-3-stability-issues-on-pc-discover-the-fix/"><u>Halo 3 Stability Issues on PC? Discover the Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-and-resolve-causes-of-spellbreak-crashing-issues-on-your-pc/"><u>How to Fix and Resolve Causes of Spellbreak Crashing Issues on Your PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-14-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 14 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-itel-a70-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Itel A70 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-debugging-eradicating-xbox-and-pcs-code-0-1766-error-in-call-of-duty-warzone/"><u>Master the Art of Debugging: Eradicating Xbox & PC's Code 0-1766 Error in Call of Duty: Warzone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ready-to-roam-tips-for-resolving-stalling-start-up-in-far-cry-5/"><u>Ready to Roam? Tips for Resolving Stalling Start-Up in Far Cry 5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-synergy-how-chatgpt-enhances-analytical-prowess/"><u>Strategic Synergy: How ChatGPT Enhances Analytical Prowess</u></a></li>
+<li><a href="https://games-able.techidaily.com/tap-into-rhythm-game-magic-with-tablets/"><u>Tap Into Rhythm Game Magic With Tablets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-film-previews-unveiled/"><u>Top Film Previews Unveiled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-ultra-hd-content-with-youtubes-advanced-video-setting-for-2024/"><u>Unlock Ultra HD Content with YouTube’s Advanced Video Setting for 2024</u></a></li>
+</ul></div>
 

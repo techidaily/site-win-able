@@ -1,7 +1,7 @@
 ---
 title: No More Quits! Tackle Persistent Crashing on Any Platform with These Diablo 4 Solutions
-date: 2024-10-27T18:38:01.348Z
-updated: 2024-11-01T04:14:54.470Z
+date: 2024-11-01T18:35:09.802Z
+updated: 2024-11-07T05:16:55.985Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ For game players, Steam is the window to the world of gaming. But there are situ
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 7. **[If your problem persists…](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your graphics driver
 
  Using outdated drivers can affect performance. So we recommend checking for driver updates on a regular basis. If you do encounter the Steam black screen issue, updating your drivers especially the video card driver is a good step in troubleshooting.
@@ -46,11 +53,25 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-fix-steam-black-screen-or-not-working/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1 – Manually update your drivers
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) and [AMD](https://www.amd.com/en/support) keep releasing driver updates. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your drivers**
 
@@ -64,22 +85,29 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and open Steam client to check if the issue is fixed. If not, try the other fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Delete web browser cache
 
@@ -91,25 +119,18 @@ Here’s how you can do this:
 
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) From the left panel, click**Web Browser** . Then click**DELETE WEB BROWSER CACHE** . Once it’s done, click**DELETE ALL BROWSER COOKIES** . After it’s finished, simply click**OK** .  
   
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-web-browser-cache-Steam.jpg)
 
- Now your Steam client should be running as normal. If the black screen issue persists, you should[delete the app cache](https://tools.techidaily.com/drivereasy/download/) .
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now your Steam client should be running as normal. If the black screen issue persists, you should[delete the app cache](https://tools.techidaily.com/drivereasy/download/) .
 
 ## Fix 3: Delete app cache
 
@@ -139,6 +160,13 @@ To participate in the Steam Client beta, follow the instructions below:
   
 ![participate in Steam Client beta](https://images.drivereasy.com/wp-content/uploads/2020/10/participate-in-Steam-Client-beta-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select the “Steam Beta Update” from the drop-down list and click “OK”.  
  You will be prompted to restart Steam, please select the “Restart Steam” button.
 
@@ -152,25 +180,11 @@ To participate in the Steam Client beta, follow the instructions below:
   
 ![Steam Propertites](https://images.drivereasy.com/wp-content/uploads/2020/10/Steam-Properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Shortcut** tab. In the**Target** section, type**\-no-cef-sandbox** at the end. Then click**Apply > OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/no-cef-sandbox.jpg)
 
 Now try opening Steam client to check if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Reinstall Steam
 
@@ -181,27 +195,20 @@ Now try opening Steam client to check if it works.
   
 ![End task Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/end-task.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **E**  at the same time to open File Explorer.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Navigate to**Windows (C:) > Program Files (×86) > Steam** to go to the Steam directory.
 
  4) Delete everything except**steamapps** ,**userdata,** and**steam.exe** **(steam Application)** .
 
  5) Double-click**Steam.exe** and let it reinstall.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## If your problem persists…
 
@@ -214,13 +221,6 @@ Now try opening Steam client to check if it works.
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -244,22 +244,21 @@ Now try opening Steam client to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-closer-look-techniques-for-microsoft-teams-for-2024/"><u>[New] Closer Look Techniques for Microsoft Teams for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-software-guide-for-video-game-shows/"><u>[New] Ultimate Software Guide for Video Game Shows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-policy-scope-and-structure/"><u>AI Policy: Scope & Structure</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/amplify-your-photography-with-these-top-notch-pixlr-tricks/"><u>Amplify Your Photography with These Top-Notch Pixlr Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-glitch-avoiding-garrys-mod-game-crashes-with-proven-solutions-22024-edition/"><u>Beat the Glitch: Avoiding Garry's Mod Game Crashes with Proven Solutions (2^2024 Edition)</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-netgear-nighthawk-x4-wi-fi-mesh-extender-outstanding-coverage-and-connectivity/"><u>Comprehensive Guide to Netgear Nighthawk X4 Wi-Fi Mesh Extender – Outstanding Coverage and Connectivity</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhancing-performance-top-tips-for-improving-frames-per-second-fps-in-ring-of-elysium/"><u>Enhancing Performance: Top Tips for Improving Frames Per Second (FPS) in Ring of Elysium</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-updates-call-of-duty-vanguard-stability-issues-resolved-on-pc/"><u>Fixes and Updates: Call of Duty Vanguard Stability Issues Resolved on PC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-new-world-lag-and-connection-issues/"><u>How to Fix New World Lag and Connection Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-illumination-to-your-faulty-corsair-board/"><u>How to Restore Illumination to Your Faulty Corsair Board</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-new-2024-software-update-for-hp-officejet-4500-printer-drivers-start-here/"><u>Install the New 2024 Software Update for HP OfficeJet 4500 Printer Drivers - Start Here</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/leading-titles-the-top-5-android-apps-for-ps2-games-for-2024/"><u>Leading Titles The Top 5 Android Apps for PS2 Games for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fix-guide-reactivating-your-malfunctioning-zoom-webcam/"><u>Quick Fix Guide: Reactivating Your Malfunctioning Zoom Webcam</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-no-more-issues-with-assassins-creed-odyssey-pc-game-crashes/"><u>Resolved: No More Issues with Assassin's Creed Odyssey PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-avatar-the-game-frontiers-of-pandora-performance-issues-boost-frame-rate-and-eliminate-lag/"><u>Solving 'Avatar: The Game - Frontiers of Pandora' Performance Issues: Boost Frame Rate & Eliminate Lag</u></a></li>
-<li><a href="https://win-able.techidaily.com/valheim-latency-troubles-top-techniques-to-reduce-lag-on-windows-systems/"><u>Valheim Latency Troubles? Top Techniques to Reduce Lag on Windows Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-uncovering-key-differences-in-panoramic-and-vr-filmmaking/"><u>[New] Uncovering Key Differences in Panoramic & VR Filmmaking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mobile-mastery-premium-iphoneandroid-tripod-matches/"><u>[Updated] Mobile Mastery Premium iPhone/Android Tripod Matches</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-thorough-examination-capturing-life-in-full-with-gear-360/"><u>[Updated] Thorough Examination Capturing Life in Full with Gear 360</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-tecno-camon-20-pro-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Tecno Camon 20 Pro 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-beginners-guide-to-navigating-and-using-the-mobile-version-of-driver-easy/"><u>A Beginner's Guide to Navigating and Using the Mobile Version of Driver Easy</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-rectifying-simultaneous-dips-in-fps-during-pc-gaming-sessions/"><u>Diagnosing and Rectifying Simultaneous Dips in FPS During PC Gaming Sessions</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-for-fixing-the-persistent-error-0x803f8001-on-your-minecraft-launcher-windows-1110/"><u>Expert Advice for Fixing the Persistent Error 0X803F8001 on Your Minecraft Launcher (Windows 11/10)</u></a></li>
+<li><a href="https://win-able.techidaily.com/grand-theft-auto-v-resolved-fixes-for-gameplay-lag-issues/"><u>Grand Theft Auto V Resolved: Fixes for Gameplay Lag Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-oneplus-ace-2v-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How OnePlus Ace 2V Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-moto-g24-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Moto G24? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-metaverse-joke-ology-building-your-own-hilarious-memes/"><u>In 2024, Metaverse Joke-Ology Building Your Own Hilarious Memes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-warframes-recurring-stalling-performance-bottlenecks/"><u>Resolving Warframe's Recurring Stalling Performance Bottlenecks</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fixes-for-football-manager-2021-pc-game-crashes/"><u>Solved: Fixes for Football Manager 2021 PC Game Crashes</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/tres-metodos-faciles-para-solucionar-acceso-negado-en-directorio-destinatario-de-windows-11/"><u>Tres Metodos Fáciles Para Solucionar Acceso Negado en Directorio Destinatario De Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-fixing-internet-explorer-error-page-wont-load/"><u>Troubleshooting: Fixing 'Internet Explorer' Error - Page Won't Load</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-excellence-in-timekeeping-a-review-of-the-strikingly-crafted-samsung-galaxy-watch/"><u>Unveiling the Excellence in Timekeeping: A Review of the Strikingly Crafted Samsung Galaxy Watch</u></a></li>
 </ul></div>
 
