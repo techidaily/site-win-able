@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Games: Effective Ways to Address and Prevent Frames Per Second Dips on PC"
-date: 2024-11-01T20:14:29.316Z
-updated: 2024-11-06T16:57:12.225Z
+date: 2024-11-13T18:05:42.268Z
+updated: 2024-11-17T05:32:16.824Z
 tags:
   - win11
   - win10
@@ -52,15 +52,22 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click the**Compatibility** tab, tick**the box** for**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-17.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Play the game again to see if the game runs smoothly. If yes, then great! If the crashing issue still occurs, please move on to**Fix 3** , below.
 
@@ -75,10 +82,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-119.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
@@ -107,18 +114,18 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Run the game again to see if the crashing issue is solved. If yes, then congrats! If it still crashes, please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
 
@@ -133,16 +140,10 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 ---
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Run WWE 2K20 on the dedicated graphics card
@@ -157,13 +158,6 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
@@ -176,16 +170,22 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-11.png)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) In**Select the preferred graphics processor for this program** , select**High-performance NVIDIA processor** . Then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-13.png)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Launch WWE 2K20 and check to see if the crashing issue is fixed.
 
@@ -210,19 +210,19 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-audit-your-channels-financial-success/"><u>[New] In 2024, Audit Your Channel's Financial Success</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-turn-fb-hd-videos-into-high-quality-mp4-free-online-method-unveiled/"><u>[New] In 2024, Turn FB HD Videos Into High-Quality MP4 – Free Online Method Unveiled</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-unlock-high-end-visuals-a-practical-guide-for-sdr-to-hdr-transition/"><u>[New] In 2024, Unlock High-End Visuals A Practical Guide for SDR to HDR Transition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-complete-playbook-for-configuring-and-evaluating-in-stream-ads-on-facebook/"><u>[Updated] In 2024, The Complete Playbook for Configuring and Evaluating In-Stream Ads on Facebook</u></a></li>
-<li><a href="https://article-helps.techidaily.com/consumer-reactions-vllo-edition/"><u>Consumer Reactions VLLO Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/dota-ns-performance-woes-resolving-frame-drops-when-running-under-windows-11/"><u>Dota N's Performance Woes: Resolving Frame Drops When Running Under Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/drone-tech-the-best-for-your-constant-presence/"><u>Drone Tech The Best for Your Constant Presence</u></a></li>
-<li><a href="https://win-able.techidaily.com/elevate-gaming-experience-with-higher-fps-mastering-tainted-grail-conquest-strategies/"><u>Elevate Gaming Experience with Higher FPS - Mastering Tainted Grail: Conquest Strategies</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-realme-10t-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Realme 10T 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-x50-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor X50 Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-entry-point-not-available-error-in-fortnite-a-comprehensive-guide/"><u>Resolving the 'Entry Point Not Available' Error in Fortnite: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008155692-unlock-your-adventure-in-maplestory-overcome-launch-errors-here/"><u>Unlock Your Adventure in MapleStory - Overcome Launch Errors Here!</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-strategies-for-fixing-new-world-constant-crashes-on-your-computer-system/"><u>Winning Strategies for Fixing 'New World' Constant Crashes on Your Computer System</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/zdsoft-in-a-nutshell-video-capture-insights-for-2024/"><u>ZDSoft in a Nutshell Video Capture Insights for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-streamlining-your-live-broadcast-ps4-recording-via-obs-studio/"><u>[Updated] 2024 Approved Streamlining Your Live Broadcast PS4 Recording via OBS Studio</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-9-powerful-methods-to-make-money-on-your-youtube-shorts/"><u>[Updated] In 2024, 9 Powerful Methods to Make Money on Your YouTube Shorts</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-4-stability-guide-top-7-troubleshooting-tips-for-pc-ps5-and-xbox-users/"><u>Diablo 4 Stability Guide: Top 7 Troubleshooting Tips for PC, PS5, and Xbox Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/download-this-flawless-updated-copy-of-football-manager-2020-say-goodbye-to-glitches/"><u>Download This Flawless, Updated Copy of Football Manager 2020 – Say Goodbye to Glitches</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-infinix-note-30-vip-racing-edition-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Infinix Note 30 VIP Racing Edition FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-11-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 11 to PC | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/logic-pro-revolutionizes-music-production-on-ipad-and-mac-with-cutting-edge-ai-assistants-apples-creative-suite-expansion-detailed-by-zdnet/"><u>Logic Pro Revolutionizes Music Production on iPad and Mac with Cutting-Edge AI Assistants | Apple's Creative Suite Expansion Detailed by ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-your-cannot-start-problem-in-resident-evil-village-game/"><u>Overcome Your 'Cannot Start' Problem in Resident Evil Village Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/rockstars-launcher-woes-expert-advice-to-get-your-game-started/"><u>Rockstar's Launcher Woes: Expert Advice to Get Your Game Started</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-adding-your-personal-touch-with-email-signatures-on-godaddy-mail/"><u>Step-by-Step Guide: Adding Your Personal Touch with Email Signatures on GoDaddy Mail</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-action-camera-for-gamers-and-sports-enthusiasts-xs-100-is-take/"><u>The Ultimate Action Camera for Gamers & Sports Enthusiasts - XS 100 I's Take</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/years-offbeat-movie-masterpieces/"><u>This Year’s Offbeat Movie Masterpieces</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-persistent-game-freezes-with-high-fps-strategies/"><u>Ultimate Fix for Persistent Game Freezes with High FPS Strategies</u></a></li>
 </ul></div>
 

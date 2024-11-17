@@ -1,7 +1,7 @@
 ---
 title: How to Fix Mass Effect Legendary Edition Crashing - PC & Xbox
-date: 2024-09-01T08:04:45.160Z
-updated: 2024-09-02T08:04:45.160Z
+date: 2024-11-13T09:17:44.964Z
+updated: 2024-11-16T18:38:53.915Z
 tags:
   - win11
   - win10
@@ -55,32 +55,33 @@ If it’s not the server, please move to the next method.
 1. Type**Control Panel** on the search bar and click to open.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-02-47.jpg)
 2. Set Control Panel**View by Category** , then click**Network and Internet** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-08.jpg)
 3. Click**Network and Sharing Center >** **Change adapter settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-28.jpg)
 4. Select the connection you want to configure Google Public DNS, right-click it, and select**Properties** .
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
 7. Click**OK** to save the change.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-8. Reboot the game and check.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+8. Reboot the game and check.
+
 ### Method 3: Run as administrator
 
 Some players suggest Run as administrator could fix this issue.
@@ -92,6 +93,13 @@ Some players suggest Run as administrator could fix this issue.
 4. Reboot the game and check.
 
 If this method doesn’t help, please move to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Update your drivers
 
@@ -105,13 +113,25 @@ If this method doesn’t help, please move to the next one.
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Clear game cache
 
@@ -153,8 +173,6 @@ If this method doesn’t help, please move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +180,22 @@ If this method doesn’t help, please move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-enhance-image-edges-with-circular-smear-technique-ps/"><u>[Updated] 2024 Approved Enhance Image Edges with Circular Smear Technique PS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-fascinating-world-of-stock-pictures-and-meme-lore/"><u>[Updated] 2024 Approved The Fascinating World of Stock Pictures & Meme Lore</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/10-best-hashtag-tracker-for-facebook-twitter-and-instagram/"><u>10 Best Hashtag Tracker for Facebook, Twitter and Instagram</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-fine-tune-your-snaps-with-mac-produced-content/"><u>2024 Approved Fine-Tune Your Snaps with Mac-Produced Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-ways-to-reduce-latency-in-counter-strike-2/"><u>Effective Ways to Reduce Latency in Counter-Strike 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-how-to-troubleshoot-and-resolve-call-of-duty-warzone-startup-issues/"><u>Fix: How to Troubleshoot and Resolve Call of Duty: Warzone Startup Issues</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-novices-navigate-for-speedy-snapchat-videos/"><u>In 2024, Novice's Navigate for Speedy Snapchat Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-deverror-solutions-fixing-critical-bugs-effectively/"><u>Modern Warfare DevError Solutions: Fixing Critical Bugs Effectively</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-innovations-in-audio-production-adding-subtle-fading-techniques-to-your-toolkit/"><u>New Innovations in Audio Production Adding Subtle Fading Techniques to Your Toolkit</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-lag-effective-solutions-to-keep-your-warframe-play-uninterrupted/"><u>Overcoming Lag: Effective Solutions to Keep Your Warframe Play Uninterrupted</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/qnap-netbackup-alternatives-para-una-copia-de-seguridad-rapida-y-facil-descarga-gratuita/"><u>QNAP NetBackup Alternatives Para Una Copia De Seguridad Rápida Y Fácil - Descarga Gratuita</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-apex-legends-network-issues-effective-strategies/"><u>Resolving Apex Legends Network Issues: Effective Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-overcoming-controller-detection-hurdles-with-steam-on-windows-computers/"><u>Solution: Overcoming Controller Detection Hurdles with Steam on Windows Computers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/streamlining-video-creation-with-windows-movie-maker-on-windows-8-for-2024/"><u>Streamlining Video Creation with Windows Movie Maker on Windows 8 for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-essentials-of-crafting-impactful-spotify-ads/"><u>The Essentials of Crafting Impactful Spotify Ads</u></a></li>
+</ul></div>
 

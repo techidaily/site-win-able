@@ -1,7 +1,7 @@
 ---
 title: "The Complete Fixer's Manual: Resolving Freezes on Your PlayStation 4"
-date: 2024-11-05T01:42:20.410Z
-updated: 2024-11-06T16:50:31.085Z
+date: 2024-11-11T23:47:08.218Z
+updated: 2024-11-17T10:56:50.193Z
 tags:
   - win11
   - win10
@@ -34,6 +34,19 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 6. **[Close other demanding apps running in the background](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Set the Power Plan of your PC for Best Performance](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Install the latest game patch
 
  The developers of It Takes Two release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -63,15 +76,15 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -88,25 +101,11 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Optimize the graphics settings
 
  Optimizing the graphics settings is another fix that may boost the in-game FPS. If you haven’t tried this fix yet, you should give it a shot.
 
 To optimize the graphics settings, follow the steps below:
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: modify your graphics settings
 
@@ -120,6 +119,13 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
@@ -146,6 +152,13 @@ To optimize the graphics settings, follow the steps below:
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Lower in-game graphics settings
 
  By defualt, It Takes Two will automatically select the graphics settings that suits your hardware. If you want to get some extra FPS and performance, you can play with the graphics settings in the game.
@@ -153,6 +166,13 @@ To optimize the graphics settings, follow the steps below:
  Normally, the in-game PFS will increase after you lower some in-game graphics settings.
 
  If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable background recording and Xbox Game Bar
 
@@ -165,32 +185,25 @@ To optimize the graphics settings, follow the steps below:
 2. **Turn off** the toggle under**Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
- Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
 
 ## Fix 6: Close other demanding apps running in the background
 
@@ -200,27 +213,7 @@ To optimize the graphics settings, follow the steps below:
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Set the Power Plan of your PC for Best Performance
 
@@ -233,6 +226,13 @@ To optimize the graphics settings, follow the steps below:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Launch It Takes Two to see if you would get a better FPS.
 
@@ -258,24 +258,24 @@ Launch It Takes Two to see if you would get a better FPS.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/cured-crusader-kings-iii-pc-crashes-easy-solutions-unveiled/"><u>[CURED] Crusader Kings III PC Crashes - Easy Solutions Unveiled</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-cinematic-wonders-with-hero5-black-a-filmmakers-companion/"><u>[New] 2024 Approved Cinematic Wonders with Hero5 Black A Filmmaker's Companion</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-historical-insights-from-youtubes-top-10-vlogs/"><u>[Updated] 2024 Approved Historical Insights From YouTube's Top 10 Vlogs</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-next-gen-spaceholders-unveiling-the-quintessential-cloud-providers/"><u>[Updated] Next-Gen Spaceholders Unveiling the Quintessential Cloud Providers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/amp-up-your-sessions-with-essential-tips-from-zooms-changer-suite-for-2024/"><u>Amp Up Your Sessions with Essential Tips From Zoom's Changer Suite for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/boosting-your-channel-a-guide-to-amassing-viewers/"><u>Boosting Your Channel A Guide to Amassing Viewers</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-error-code-crossbow-in-minecraft-with-these-simple-fixes/"><u>Eliminate Error Code: Crossbow in Minecraft with These Simple Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-complete-lack-of-audio-during-minecraft-playtime-on-desktop-computers/"><u>Fixing Complete Lack of Audio During Minecraft Playtime on Desktop Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-launching-issues-for-activisions-modern-warfare-3-a-comprehensive-troubleshooting-guide/"><u>How to Fix Launching Issues for Activision's Modern Warfare 3 - A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/how-to-keep-the-conversation-flowing-on-discord/"><u>How to Keep the Conversation Flowing on Discord</u></a></li>
-<li><a href="https://win-able.techidaily.com/masterclass-on-overcoming-bugs-in-ac-syndicate-top-fixes-and-updates-released-games/"><u>Masterclass on Overcoming Bugs in AC Syndicate - Top Fixes and Updates Released Games</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-guide-to-video-voiceover-software-for-pc/"><u>New The Ultimate Guide to Video Voiceover Software for PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/red-dead-online-no-more-expert-tips-to-stop-your-pc-from-freezing-during-play/"><u>Red Dead Online No More! Expert Tips to Stop Your PC From Freezing During Play</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-continuous-crash-issues-in-microsoft-outlook/"><u>Resolving Continuous Crash Issues in Microsoft Outlook</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-fixing-the-issue-prevents-maplestory-from-starting-up/"><u>Solved: Fixing the Issue Prevents MapleStory From Starting Up</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-premier-editor-that-works-on-every-device-you-own/"><u>The Premier Editor That Works on Every Device You Own</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-12-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 12 Pro Max Making It Possible</u></a></li>
-<li><a href="https://win-able.techidaily.com/understanding-the-root-causes-of-valheim-not-starting-correctly/"><u>Understanding the Root Causes of Valheim Not Starting Correctly</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unraveling-the-economics-of-an-amazon-prime-membership/"><u>Unraveling the Economics of an Amazon Prime Membership</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-god-of-war-not-enough-available-memory-issue/"><u>[SOLVED] God of War “Not Enough Available Memory” Issue</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-seamless-3d-cinema-at-home-best-3d-blu-ray-systems/"><u>[Updated] 2024 Approved Seamless 3D Cinema at Home Best 3D Blu-Ray Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-bluetooth-gaming-headsets-of-202carefully-crafted-to-offer-the-ultimate-wireless-experience-our-selection-includes-budget-and-premium-choices-alike-for4/"><u>Best Bluetooth Gaming Headsets of 202Carefully Crafted to Offer the Ultimate Wireless Experience, Our Selection Includes Budget and Premium Choices Alike for Gamers Seeking High-Quality Sound without Wires</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-to-addressing-wolcen-pc-stability-problems-successfully/"><u>Expert Guide to Addressing Wolcen PC Stability Problems Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-oculus-links-blackout-top-6-rapid-solutions/"><u>Fixing Oculus Link's Blackout: Top 6 Rapid Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-bypass-tools-to-bypass-lock-screen-honor-by-drfone-android-unlock-android-unlock/"><u>Honor Bypass Tools to Bypass Lock Screen(Honor)</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-smooth-out-lag-issues-for-a-seamless-experience-in-forza-horizon-5/"><u>How to Smooth Out Lag Issues for a Seamless Experience in Forza Horizon 5</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-crafting-a-submission-that-works-on-apples-platform/"><u>In 2024, Crafting a Submission that Works on Apple's Platform</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oneplus-11-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your OnePlus 11 5G Is Unlocked</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-ios-screen-capture-a-comparative-analysis/"><u>In 2024, IOS Screen Capture A Comparative Analysis</u></a></li>
+<li><a href="https://discover-help.techidaily.com/las-mejores-aplicaciones-gratuitas-para-convertir-videos-ade-4k-descubrira-los-12-mas-efectivos-para-su-computadora/"><u>Las Mejores Aplicaciones Gratuitas Para Convertir Videos A/De 4K, Descubrirá Los 12 Más Efectivos Para Su Computadora</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mac-outlook-bento/"><u>Mac Outlook 連絡先のデフォルトに変更して、バッファローとBentoでどうやったらエクスポートできますか？</u></a></li>
+<li><a href="https://win-able.techidaily.com/persistent-crashing-issues-in-metro-exodus-enhanced-edition-on-pc-how-to-fix-them/"><u>Persistent Crashing Issues in Metro Exodus Enhanced Edition on PC: How to Fix Them</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/er-edit-suites-linux-compatible-tools-for-2024/"><u>Premier Edit Suites Linux-Compatible Tools for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-nvidia-geforce-overlay-problems-for-seamless-gaming-experience/"><u>Resolving Nvidia GeForce Overlay Problems for Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-to-address-msi-afterburners-inability-to-identify-gpu-under-windows-11-environment/"><u>Solutions to Address MSI Afterburner's Inability to Identify GPU Under Windows 11 Environment</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-lost-ark-server-disconnect-error-effective-solutions-revealed/"><u>Solving Lost Ark Server Disconnect Error - Effective Solutions Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-ai-powered-pdf-tools-for-streamlining-your-workflow-with-chatgpt/"><u>Top 10 AI-Powered PDF Tools for Streamlining Your Workflow with ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-issues-with-gears-of-war-5-stuttering/"><u>Troubleshooting Tips: Resolving Issues with Gears of War 5 Stuttering</u></a></li>
 </ul></div>
 

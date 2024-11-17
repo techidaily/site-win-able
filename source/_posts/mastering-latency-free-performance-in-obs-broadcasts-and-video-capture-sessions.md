@@ -1,7 +1,7 @@
 ---
 title: Mastering Latency-Free Performance in OBS Broadcasts and Video Capture Sessions
-date: 2024-11-02T20:05:08.205Z
-updated: 2024-11-06T22:57:13.625Z
+date: 2024-11-16T01:48:24.882Z
+updated: 2024-11-17T00:39:44.503Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
@@ -56,16 +56,10 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 ---
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Make sure your computer is not overheating
@@ -90,13 +84,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then run your game again and see if the FPS dropping issue is fixed. If the problem still remains, please move on to the next fix below.
 
@@ -128,22 +115,23 @@ To do so:
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4.2 Switch to a public DNS server
 
@@ -154,34 +142,34 @@ To do so:
 2. Click**Change adapter options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -248,15 +236,15 @@ To change the power mode:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -287,22 +275,24 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-olympic-thaw-figure-skating-extravaganza/"><u>[New] Olympic Thaw Figure Skating Extravaganza</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-affiliate-allies-for-small-channels-an-easy-approach-for-2024/"><u>[Updated] Affiliate Allies for Small Channels An Easy Approach for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/access-the-newest-compatible-gigabyte-network-drivers-download-now/"><u>Access the Newest Compatible Gigabyte Network Drivers – Download Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-the-quiet-troubleshooting-skyrims-sound-malfunction/"><u>Banish the Quiet: Troubleshooting Skyrim's Sound Malfunction</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-frames-expert-strategies-for-resolving-valheims-frame-rate-issues-tip-edition/"><u>Beat the Frames: Expert Strategies for Resolving Valheim's Frame Rate Issues (Tip Edition)</u></a></li>
-<li><a href="https://win-able.techidaily.com/chromes-energy-efficiency-improved-high-cpu-usage-problem-solved/"><u>Chrome's Energy Efficiency Improved: High CPU Usage Problem Solved</u></a></li>
-<li><a href="https://win-able.techidaily.com/elite-strategies-for-eliminating-fps-issues-and-fluidity-glitches-in-new-world-adventures/"><u>Elite Strategies for Eliminating FPS Issues & Fluidity Glitches in New World Adventures</u></a></li>
-<li><a href="https://article-posts.techidaily.com/from-idea-to-airtime-crafting-compelling-content-live/"><u>From Idea to Airtime Crafting Compelling Content Live</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-infinix-note-30-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Infinix Note 30</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a25-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A25 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-outro-crafting-made-easy-the-best-free-guide-top-6/"><u>In 2024, Outro Crafting Made Easy - The Best Free Guide (Top 6)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/picture-perfect-prose-exploring-apps-for-image-text-edits/"><u>Picture Perfect Prose Exploring Apps for Image Text Edits</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-progression-strategies-for-fps-gameplay-in-dayz/"><u>Quick Progression Strategies for FPS Gameplay in DayZ</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-your-pc-gaming-woes-a-thorough-tutorial-on-how-to-overcome-steam-error-130/"><u>Resolve Your PC Gaming Woes: A Thorough Tutorial on How to Overcome Steam Error 130</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-tips-for-avoiding-game-interruptions-in-zombie-army-4/"><u>Solution Tips for Avoiding Game Interruptions in Zombie Army 4</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-logitech-c615-examined-assessing-its-quality-at-an-affordable-rate/"><u>The Logitech C615 Examined: Assessing Its Quality at an Affordable Rate</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-solving-pc-crashes-during-content-warnings/"><u>Ultimate Guide: Solving PC Crashes During Content Warnings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-to-triumph-in-spotifys-ad-marketplace/"><u>[Updated] Expert Tips to Triumph in Spotify's Ad Marketplace</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-iconic-iphone-meme-creations/"><u>[Updated] Iconic iPhone Meme Creations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-keywords-in-the-world-of-selling-monetized-youtube-channels/"><u>[Updated] Keywords in the World of Selling Monetized Youtube Channels</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-prime-list-top-rated-camcorders-reviewed/"><u>[Updated] The Prime List Top-Rated Camcorders Reviewed</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723006420059-age-of-empires-4-startup-troubles-heres-how-you-can-resolve-them/"><u>Age of Empires 4 Startup Troubles? Here's How You Can Resolve Them!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/calcineurin-inhibitors-are-an-experimental-option-for-treatment-resistant-lupus-nephritis-and-should-be-considered-based-on-clinical-evidence/"><u>Calcineurin Inhibitors Are an Experimental Option for Treatment-Resistant Lupus Nephritis and Should Be Considered Based on Clinical Evidence.</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-problems-and-solutions-when-fifa-21-refuses-to-start/"><u>Common Problems & Solutions When FIFA 21 Refuses to Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990797887-epic-games-launcher-wont-load-swift-and-simple-repair-methods/"><u>Epic Games Launcher Won't Load? Swift & Simple Repair Methods!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-top-7-substitutes-for-chatgpt-in-coding-software-automation/"><u>Exploring the Top 7 Substitutes for ChatGPT in Coding Software Automation</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-unresponsive-load-screen-in-fortnite-a-comprehensive-guide/"><u>Fixing the Unresponsive Load Screen in Fortnite: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-instantly-create-a-custom-youtube-feed-via-your-smartphone/"><u>In 2024, Instantly Create a Custom YouTube Feed via Your Smartphone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-level-gaming-unveiling-microsofts-acquisition-of-blizzards-creative-vision-exclusive-interview/"><u>Next Level Gaming: Unveiling Microsoft's Acquisition of Blizzard's Creative Vision [Exclusive Interview]</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-interruptions-repair-techniques-for-a-smoothly-running-ps4-the-complete-tutorial/"><u>No More Interruptions: Repair Techniques for a Smoothly Running PS4 – The Complete Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-loading-screen-issues-in-call-of-duty-cold-war-solutions-for-playstation-and-xbox-owners/"><u>Overcoming Loading Screen Issues in Call of Duty: Cold War - Solutions for PlayStation & Xbox Owners</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010633866-shadowplay-not-capturing-gameplay-solve-the-issue-on-windows-now/"><u>ShadowPlay Not Capturing Gameplay? Solve the Issue on Windows Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-out-your-fortnite-gameplay-tips-for-eliminating-pc-stutters-and-lags/"><u>Smooth Out Your Fortnite Gameplay: Tips for Eliminating PC Stutters and Lags</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-infinix-zero-30-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Infinix Zero 30 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-resolving-the-dark-hole-in-call-of-duty-warzone-expert-advice-for-2er4-players/"><u>Step-by-Step Solutions: Resolving the Dark Hole in Call of Duty Warzone – Expert Advice for 2Er4 Players</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gsm-mp3/"><u>가상 공간에서 원조 없이 GSM 파일을 MP3로 전환: 스타트리 가이드</u></a></li>
 </ul></div>
 

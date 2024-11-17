@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Gameplay Disruptions: Eliminating Stutters and Freezes During Fortnite Sessions on PC"
-date: 2024-10-30T18:50:23.065Z
-updated: 2024-11-07T02:38:47.038Z
+date: 2024-11-13T05:32:32.583Z
+updated: 2024-11-17T04:49:10.758Z
 tags:
   - win11
   - win10
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
@@ -61,18 +61,18 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 5) Try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -86,23 +86,9 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -124,6 +110,19 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -131,10 +130,10 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
@@ -148,15 +147,28 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
@@ -182,17 +194,24 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-images-to-go-viral-the-ultimate-step-by-step-guide-for-youtube-success/"><u>[New] Crafting Images to Go Viral The Ultimate Step-by-Step Guide for YouTube Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-add-featured-channels-on-youtube-a-complete-guide/"><u>[Updated] In 2024, How to Add Featured Channels on YouTube A Complete Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-groundbreaking-getaways-easy-builds-for-mc-beginners/"><u>2024 Approved Groundbreaking Getaways Easy Builds for MC Beginners</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-zoom-glitches-on-your-pc-with-these-pro-tips-for-windows-1110-updated-guide/"><u>Beat Zoom Glitches on Your PC with These Pro Tips for Windows 11/10 - Updated Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/clearing-up-distorted-visuals-a-guide-to-sharpening-graphics-in-call-of-duty-warzone-pc/"><u>Clearing Up Distorted Visuals: A Guide to Sharpening Graphics in Call of Duty: Warzone (PC)</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-eliminating-the-annoying-black-screen-troubles-youve-encountered/"><u>Expert Advice On Eliminating The Annoying Black Screen Troubles You've Encountered</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-solving-stability-problems-with-psychonauts-2-on-windows-computers/"><u>Guide: Solving Stability Problems with Psychonauts 2 on Windows Computers</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-collaborative-video-creation-and-growth-tips/"><u>In 2024, Collaborative Video Creation & Growth Tips</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-linkedin-image-aspect-ratios-explained/"><u>In 2024, LinkedIn Image Aspect Ratios Explained</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-filmora-watermark-how-to-delete-it-permanently/"><u>New Filmora Watermark How to Delete It Permanently</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/proven-tactics-for-unblemished-image-sourcing-for-2024/"><u>Proven Tactics for Unblemished Image Sourcing for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-stuck-dilemma-easy-fixes-for-madden-nfl-22-loading-issues/"><u>Solving the 'Stuck' Dilemma: Easy Fixes for Madden NFL 22 Loading Issues</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2023s-best-replacements-for-samsung-gear-360-for-2024/"><u>[New] 2023'S Best Replacements for Samsung Gear 360 for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-smooth-integration-of-youtube-playlists-via-web-tech/"><u>[New] In 2024, Smooth Integration of YouTube Playlists via Web Tech</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-maximize-creativity-with-top-10-cost-free-photo-editors-online/"><u>[Updated] Maximize Creativity with Top 10 Cost-Free Photo Editors Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-for-resolving-gta-5-online-malfunctions/"><u>Essential Tips for Resolving GTA 5 Online Malfunctions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-and-prevent-slime-rancher-2-from-crashing-on-windowspc-a-comprehensive-guide/"><u>How to Resolve and Prevent 'Slime Rancher 2' From Crashing on Windows/PC – A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-and-easy-online-photo-cropping-hacks/"><u>In 2024, Quick and Easy Online Photo Cropping Hacks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-facetune-experience-enthusiasts/"><u>In 2024, The Ultimate Facetune Experience Enthusiasts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-tecno-spark-10-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Tecno Spark 10 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-youtube-live-broadcasting-demystified/"><u>In 2024, YouTube Live Broadcasting Demystified</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-dearmob-applications-a-comprehensive-guide-to-securing-your-mac/"><u>Mastering DearMob Applications: A Comprehensive Guide to Securing Your Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-addressing-praey-for-the-gods-pc-performance-problems/"><u>Mastering Stability: Addressing Praey for the Gods' PC Performance Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-battlefield-resolve-epic-games-dev-error-6634-warzone-cheat-sheet/"><u>Mastering the Battlefield: Resolve Epic Games' Dev Error 지원 제외 [6634] Warzone Cheat Sheet</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-gaming-speed-expert-advice-on-overcoming-low-fps-challenges-in-valheim/"><u>Maximize Gaming Speed: Expert Advice on Overcoming LOW FPS Challenges in Valheim</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-yakuza-6-gameplay-disruptions-for-a-smoother-experience-on-desktop/"><u>Overcoming Yakuza 6 Gameplay Disruptions for a Smoother Experience on Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-guide-restoring-connection-in-fallout-nv-game-crashes/"><u>PC Guide: Restoring Connection in Fallout Nv Game Crashes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/perfect-phone-match-up-for-samsungs-virtual-reality-dreams-update-2023/"><u>Perfect Phone Match-Up for Samsung's Virtual Reality Dreams - Update 2023</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/srt-transition-the-ultimate-subcap-guide/"><u>SRT Transition The Ultimate SUBCAP Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-prevent-warzone-from-stuttering-on-your-computer/"><u>Troubleshooting Steps to Prevent Warzone From Stuttering on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-resolving-persistent-sovled-warno-pc-app-crashes/"><u>Troubleshooting Tips for Resolving Persistent [SOVLED] Warno PC App Crashes</u></a></li>
 </ul></div>
 

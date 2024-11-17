@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Stabilizing Your Playthrough of City Skylines 2 on PC"
-date: 2024-11-04T20:03:52.387Z
-updated: 2024-11-06T17:22:31.444Z
+date: 2024-11-15T00:02:21.142Z
+updated: 2024-11-17T04:58:16.573Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 5. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Set additional launch options](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your specs meet the requirements
 
  VR games tend to be graphically demanding, not to mention this long anticipated AAA title. So before you can fully experience the well-crafted dystopia in Half Life: Alyx, first you need to make sure your gaming rig meets the minimum requirements. Because if it doesn’t, then maybe it’s time for an upgrade.
@@ -47,13 +54,6 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 
  If your specs are more than capable for the game, simply continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Change your power plan
 
  Power plan is a scheme that manages the way your PC consumes energy. The recent Windows build introduces a new power plan called Ultimate Performance, which provides a certain level of performance boost. You can start from here when troubleshooting stuttering issues.
@@ -64,21 +64,15 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
@@ -101,6 +95,13 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
 
  If this fix doesn’t help you, simply move on to the next one below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  In most cases, the lag and stuttering simply means you’re using**a** **faulty or outdated graphics driver** . Manufacturers keep updating their drivers so as to deliver the best possible performance. If the last time you updated your drivers feels like ages ago, definitely do it now as it might save your day.
@@ -115,13 +116,6 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your GPU driver, restart your PC and test your gameplay.
@@ -129,10 +123,10 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
  If the latest driver doesn’t do the trick, you can continue to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
@@ -151,27 +145,20 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After installing all the updates, do a reboot and see if Half Life: Alyx lags again.
 
 If this method failed to fix the lag, you can try the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Set additional launch options
 
@@ -183,6 +170,13 @@ To do so, follow these steps:
 2. Right click**Half Life: Alyx** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-1.jpg)
 3. Under the LAUNCH OPTIONS section, click the input area and type or paste the code below. Then close the window to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
@@ -206,22 +200,20 @@ To do so, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-overcoming-missed-frames-in-real-time-streaming/"><u>[New] Overcoming Missed Frames in Real-Time Streaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/diablo-iii-crashes-cured-enjoy-uninterrupted-adventures-in-sanctuary/"><u>Diablo III Crashes Cured: Enjoy Uninterrupted Adventures in Sanctuary</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/easy-steps-to-turn-dvd-discs-into-iso-images-in-windows-version-11-10-8-or-7-and-macos/"><u>Easy Steps to Turn DVD Discs Into ISO Images in Windows (Version 11, 10, 8, or 7) and macOS</u></a></li>
-<li><a href="https://win-able.techidaily.com/fall-guys-no-longer-stutters-or-freezes-while-playing-on-your-computer/"><u>Fall Guys No Longer Stutters or Freezes While Playing on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/god-of-war-error-not-enough-available-memory-now-corrected-insider-guide/"><u>God of War Error 'Not Enough Available Memory' Now Corrected: Insider Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-diagnose-and-repair-error-0xc0000005-crashes-in-windows-environments/"><u>How to Diagnose and Repair Error 0Xc0000005 Crashes in Windows Environments</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-samsung-galaxy-a15-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Samsung Galaxy A15 5G</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-hyper-scape-from-suddenly-closing-on-your-computer/"><u>How to Stop Hyper Scape From Suddenly Closing on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-wallpaper-engine-from-crashing-on-your-pc-running-windows-11-or-10/"><u>How to Stop Wallpaper Engine From Crashing on Your PC Running Windows 11 or 10</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-chronicles-of-time-student-approved-historical-yt-content/"><u>In 2024, Chronicles of Time Student-Approved Historical YT Content</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-tecno-spark-go-2024-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Tecno Spark Go (2024) Phone?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 with IMEI Code?</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-smooth-playthroughs-of-psychonauts-2-on-pc-how-to-avoid-the-crash-bug/"><u>Mastering Smooth Playthroughs of Psychonauts 2 on PC – How to Avoid the Crash Bug</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-common-heart-of-iron-4-stability-problems-fixes-and-tips/"><u>Resolved: Common Heart of Iron 4 Stability Problems - Fixes & Tips</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshooting-guide-resolving-persistent-crashes-in-beat-saber-gameplay/"><u>Troubleshooting Guide: Resolving Persistent Crashes in Beat Saber Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-eliminating-black-screen-error-when-opening-epic-games-launcher/"><u>Ultimate Guide: Eliminating Black Screen Error When Opening Epic Games Launcher</u></a></li>
+<li><a href="https://win-able.techidaily.com/2023-tips-how-to-fix-maplestory-crashing-on-windows-11/"><u>[2023 Tips] How to Fix MapleStory Crashing on Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-optimizing-engagement-using-cards-and-annotations/"><u>[New] 2024 Approved Optimizing Engagement Using Cards and Annotations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-meme-creation-at-its-peak-10-templates-unveiled/"><u>[New] In 2024, Meme Creation at Its Peak #10 Templates Unveiled</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-best-emoji-removers-to-remove-emojis-from-pictures-onlinepcmobile/"><u>2024 Approved Best Emoji Removers to Remove Emojis From Pictures Online/PC/Mobile</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-flipping-srt-to-sub-easy-conversion-techniques/"><u>2024 Approved Flipping SRT to SUB Easy Conversion Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-initiating-engagement-start-your-live-on-instagram/"><u>2024 Approved Initiating Engagement Start Your Live on Instagram</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-fix-guide-clearing-up-your-fifa-19-game-with-a-simple-directx-solution/"><u>DIY Fix Guide: Clearing Up Your FIFA 19 Game with a Simple DirectX Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-tricks-for-solving-the-zoom-black-screen-glitch-on-windows/"><u>Expert Tips and Tricks for Solving the Zoom Black Screen Glitch on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-repairing-failed-to-load-steamuidll-and-restarting-your-steam-client-successfully/"><u>Expert Tips for Repairing 'Failed to Load steamui.dll' And Restarting Your Steam Client Successfully</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-a78-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo A78 Phones? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-core-tenets-of-narrative-construction/"><u>In 2024, Core Tenets of Narrative Construction</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-controller-connectivity-a-comprehensive-guide-to-repairing-ds4-windows-errors/"><u>Mastering Controller Connectivity: A Comprehensive Guide to Repairing DS4 Windows Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-dying-light-latency-effective-fixes-to-restore-optimal-gameplay/"><u>Overcome Dying Light Latency: Effective Fixes to Restore Optimal Gameplay</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-s23plus-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy S23+ Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-common-sound-issues-in-halo-infinite-a-step-by-step-guide/"><u>Resolving Common Sound Issues in Halo Infinite: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Addressing PC FPS Drops for a Smooth Playthrough of Resident Evil Village [FIXED]"
-date: 2024-11-01T05:04:18.414Z
-updated: 2024-11-06T17:31:48.708Z
+date: 2024-11-11T23:46:11.076Z
+updated: 2024-11-17T04:17:23.109Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ Here are the minimum requirements for Madden NFL 22:
 
  If your computer specs are more than enough to run the game, the cause may be related to device drivers, antivirus or something else. Read on to more solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Update your device drivers
 
  The Madden 22 not working issue may be caused by the faulty or outdated device drivers on your computer. If you haven’t updated your device drivers for a long time, definitely do it now as it will guarantee you a smooth and pleasant gaming experience.
@@ -64,14 +71,14 @@ There are mainly two ways to update your drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click the**Update** button to update certain driver you want.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -88,13 +95,20 @@ There are mainly two ways to update your drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 See if the issue persists. If yes, continue to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Repair the game files
@@ -106,6 +120,13 @@ See if the issue persists. If yes, continue to the next solution.
 1. Launch your Steam client and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Madden 22 from the list and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
@@ -120,36 +141,9 @@ See if the issue persists. If yes, continue to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3-1.jpg)
 2. Locate the Madden NFL 22 title and click the icon with three dots next to it. Then click**Verify** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the process finishes, restart Madden 22 to test the issue. If it’s still not working, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Temporarily disable your antivirus
 
@@ -189,17 +183,21 @@ See if the issue persists. If yes, continue to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-youtube-thumbnails-neon-borders-top-3-methods/"><u>[Updated] 2024 Approved Enhancing YouTube Thumbnails Neon Borders - Top 3 Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996576083-back-4-blood-pc-game-stability-issues-resolved-no-more-unexpected-crashes/"><u>Back 4 Blood PC Game Stability Issues Resolved: No More Unexpected Crashes</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/digital-draw-dance-windows-and-mac-cartoony-creators-guide/"><u>Digital Draw-Dance Windows & Mac Cartoony Creator's Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-speedily-correcting-issues-with-your-control-software/"><u>Expert Tips: Speedily Correcting Issues With Your Control Software</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y78plus-t1-edition-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improperly-sealed-joints/"><u>Improperly Sealed Joints:</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fusing-fun-and-functionality-top-6-engaging-video-formats/"><u>In 2024, Fusing Fun and Functionality Top 6 Engaging Video Formats</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-game-advanced-techniques-to-prevent-phasmophobia-from-crashing-in-2amo/"><u>Master the Game: Advanced Techniques to Prevent Phasmophobia From Crashing in 2Amo</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-wi-fi-troubleshooting-for-undetectable-options-on-windows-11-devices/"><u>Mastering Wi-Fi Troubleshooting for Undetectable Options on Windows 11 Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/path-of-exile-instance-connection-woes-beat-them-with-our-2024-guide-to-flawless-gameplay/"><u>Path of Exile Instance Connection Woes? Beat Them with Our 2024 Guide to Flawless Gameplay</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/secure-your-digital-life-on-a-mac-a-deep-dive-into-hdd-encryption-and-rescue-procedures/"><u>Secure Your Digital Life on a Mac - A Deep Dive Into HDD Encryption & Rescue Procedures</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-the-new-world-connection-issue/"><u>Ultimate Guide: Resolving the New World Connection Issue</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-video-text-synthesizer/"><u>[New] In 2024, Video Text Synthesizer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-command-mastery-elite-educational-sessions/"><u>AI Command Mastery: Elite Educational Sessions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-sound-in-windows-11-explained/"><u>Capturing Sound in Windows 11 Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-dauntless-pc-crashes-and-enjoy-uninterrupted-play/"><u>How To Fix Dauntless PC Crashes and Enjoy Uninterrupted Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-life-is-strange-true-colors-ultimate-guide-for-resolving-game-freezes-and-crashes/"><u>How to Fix Life Is Strange: True Colors - Ultimate Guide for Resolving Game Freezes and Crashes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-gt-neo-5-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Realme GT Neo 5 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oneplus-nord-n30-se-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to OnePlus Nord N30 SE Phones? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-your-notepad-experience-with-windows-theme-tweaks/"><u>Maximizing Your Notepad Experience with Windows Theme Tweaks</u></a></li>
+<li><a href="https://win-able.techidaily.com/msi-afterburner-and-gpu-detection-problems-solutions-for-windows-1011-users/"><u>MSI Afterburner and GPU Detection Problems: Solutions for Windows 10/11 Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-review-vn-video-editor-a-powerful-video-editing-tool-for-android-for-2024/"><u>New Review VN Video Editor - A Powerful Video Editing Tool for Android for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-your-gaming-experience-addressing-and-repairing-frame-drops-in-valorant/"><u>Optimize Your Gaming Experience: Addressing and Repairing Frame Drops in Valorant</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-issues-with-elder-scrolls-online-failing-to-load/"><u>Overcoming Issues with Elder Scrolls Online Failing to Load</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-your-games-finale-collapse-on-desktop-a-comprehensive-guide/"><u>Resolving Your Game's Finale Collapse on Desktop: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/selectie-van-het-beste-tips-voor-definieping-instagram-stories-lichaamsgroottes-en-hoekvlakken/"><u>Selectie Van Het Beste: Tips Voor Definieping Instagram Stories Lichaamsgroottes en Hoekvlakken</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-the-detected-intrusion-problem-in-gaming-software/"><u>Tackling the 'Detected Intrusion' Problem in Gaming Software</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-is-the-purpose-of-facebooks-moderation-council/"><u>What Is The Purpose Of Facebook’s Moderation Council?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Getting Elden Ring's Multiplayer Feature Up and Running Again
-date: 2024-09-01T08:02:18.253Z
-updated: 2024-09-02T08:02:18.253Z
+date: 2024-11-14T04:15:45.086Z
+updated: 2024-11-17T03:34:29.306Z
 tags:
   - win11
   - win10
@@ -55,6 +55,14 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 6. Then press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
 7. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 8. Click **Paradox Launcher v2** , then **Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-5.png)
@@ -66,8 +74,12 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Disable conflicting processes in the background
 
  If there is more than one Paradox Launcher-related service and program running in the background, Paradox Launcher itself may not work as intended, and thus with the refusing to launching problem. To see if this is your case, make sure to close all likely conflicting applications.
@@ -75,14 +87,8 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 1. Right-click the Windows taskbar and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each**Paradox Launcher** related program you see here and click**End Task** to close them one by one.  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  Then try to play your game via Paradox Launcher again and see if its launching problem is fixed. If the problem still remains, please move on to the next fix below.
 
 ---
@@ -98,9 +104,6 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
  Then try to play your game via Paradox Launcher again to see if it can launch. If the problem remains, please move on to the next fix.
 
@@ -111,8 +114,12 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
  Windows Defender, or a third-party antivirus program, could mistake your Paradox Launcher as a threat, as it usually consumes a lot of memory and CPU usage when a game is running. To make sure that your antivirus program is not the culprit to the Paradox Launcher not working problem, here are two things that you can do:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4.1 Add Steam and the game to the antivirus exception list
 
  Third-party antivirus applications hook very deep into your system, so it may interfere with Steam and Paradox Launcher. To avoid this problem, you can try   **adding both Steam and Paradox Launcher as exceptions to your third-party antivirus application** .
@@ -130,24 +137,37 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 1. On your keyboard, press the**Windows** key and type**windows security** . Then select**Windows Security** from the list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-7.png)
 2. Select**Virus & Threat protection** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-9.png)
 3. Under**Current threats** , select**Protection history** .  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-10.png)
 4. If you can see**bootstrapper-v2.exe** or other Paradox Launcher-related services and programs here, click the**Actions** button and select**Restore** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you finish the above settings, but your Paradox Launcher still doesn’t work, please move on to the other fixes.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Repair damaged system files
 
@@ -162,13 +182,24 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Bypass Paradox Launcher
 
@@ -188,8 +219,6 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +226,26 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-ice-warriors-battle-the-spectacular-winter-olympics-snowboard-showdown-for-2024/"><u>[New] Ice Warriors Battle - The Spectacular Winter Olympics Snowboard Showdown for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/oyful-jams-the-funniest-musical-mashups-for-2024/"><u>[New] Joyful Jams The Funniest Musical Mashups for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-amplifying-photos-through-acoustics-internet-based/"><u>[Updated] Amplifying Photos Through Acoustics, Internet-Based</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-discovering-androids-finest-multiplayer-battles/"><u>[Updated] Discovering Android's Finest Multiplayer Battles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-iphone-screen-capture-with-simplicity/"><u>[Updated] Mastering iPhone Screen Capture with Simplicity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-full-guide-to-perfecting-photos-with-facetune/"><u>[Updated] The Full Guide to Perfecting Photos with Facetune</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-premier-edit-suites-linux-compatible-tools/"><u>2024 Approved Premier Edit Suites Linux-Compatible Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012777769-bypassing-error-re-establish-your-destiny-grope-with-these-fixes/"><u>Bypassing Error: Re-Establish Your Destiny Grope With These Fixes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/cut-down-discords-heavy-cpu-load-advanced-troubleshooting-techniques-for-202eby/"><u>Cut Down Discord's Heavy CPU Load: Advanced Troubleshooting Techniques for 202Eby</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-final-age-running-smoothly-on-your-computer-top-fixes-and-hacks-for-a-seamless-2024/"><u>Get 'Final Age' Running Smoothly on Your Computer: Top Fixes & Hacks for a Seamless 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-black-ops-cold-wars-troublesome-error-0xc00e0005/"><u>How to Resolve Black Ops Cold War's Troublesome Error 0XC00e0005</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-15-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 with/without SIM Card</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/optimale-strategien-fur-die-erstellung-von-vmware-workstation-backups-ein-leitfaden-mit-vier-methoden/"><u>Optimale Strategien Für Die Erstellung Von VMWare Workstation Backups: Ein Leitfaden Mit Vier Methoden</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-connection-glitches-in-apex-legends-with-these-tips/"><u>Resolve Connection Glitches in Apex Legends with These Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-issues-with-the-msi-afterburner-monitoring-software/"><u>Resolving Issues with the MSI Afterburner Monitoring Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-pc-issues-in-armored-core-6-navigating-the-rubicon-fire/"><u>Solving PC Issues in Armored Core 6: Navigating the Rubicon Fire</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-fix-how-to-resolve-issues-with-tribes-of-midgard-game-crashes/"><u>Troubleshooting Fix: How to Resolve Issues with 'Tribes of Midgard' Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-issues-with-corsair-icue-on-windows-1011/"><u>Troubleshooting Steps for Resolving Issues with Corsair iCUE on Windows 10/11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visual-storytelling-support-center/"><u>Visual Storytelling Support Center</u></a></li>
+</ul></div>
 

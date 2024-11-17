@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Repairing the Non-Working MSI Dragon Centre"
-date: 2024-11-04T21:56:46.767Z
-updated: 2024-11-06T20:37:04.011Z
+date: 2024-11-15T02:22:07.381Z
+updated: 2024-11-16T18:51:37.938Z
 tags:
   - win11
   - win10
@@ -31,10 +31,10 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 3. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Use wire headsets
@@ -42,13 +42,6 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
  Some players have found out the game need to use a 3.5mm jack to bypass the headsets audio. Therefore, use a wired input instead of USB headphones. USB headphones are not working well with Evil Genius 2.
 
 Hope it works for you, if not, try updating your audio driver.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update the audio driver
 
@@ -64,20 +57,21 @@ Hope it works for you, if not, try updating your audio driver.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -90,10 +84,10 @@ Hope it works for you, if not, try updating your audio driver.
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
@@ -120,22 +114,17 @@ Enjoy the game and have a nice day!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-scouring-for-meaningful-youtube-discussions/"><u>[New] 2024 Approved Scouring for Meaningful YouTube Discussions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-enhancing-facebook-nostalgia-video-tweaks/"><u>[New] In 2024, Enhancing Facebook Nostalgia Video Tweaks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-change-your-virtual-rooms-palette-with-google-meet-for-2024/"><u>[Updated] Change Your Virtual Room's Palette with Google Meet for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-inside-the-top-10-virtual-reality-smartphone-gaming/"><u>[Updated] Inside the Top 10 Virtual Reality Smartphone Gaming</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sprint-secrets-olympic-edition-22/"><u>[Updated] Sprint Secrets - Olympic Edition '22</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-unveiling-the-secrets-of-enhancing-video-sessions-in-google-meet/"><u>[Updated] Unveiling the Secrets of Enhancing Video Sessions in Google Meet</u></a></li>
-<li><a href="https://win-able.techidaily.com/dirt-5-stability-issues-solutions-for-preventing-pc-game-crashes/"><u>Dirt 5 Stability Issues? Solutions for Preventing PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-issues-how-to-stop-dragon-age-origins-from-crashing-on-windows-11/"><u>Fixing Issues: How to Stop 'Dragon Age: Origins' From Crashing on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-age-of-empires-4-for-seamless-gaming-experience-without-stuttering/"><u>Optimizing Age of Empires 4 for Seamless Gaming Experience Without Stuttering</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-problems-with-hogwarts-legacy-expert-tips-for-2n4/"><u>Overcoming Launch Problems with Hogwarts Legacy - Expert Tips for 2N4</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722993682706-solve-dayz-frame-rate-drops-swiftly-expert-strategies-inside/"><u>Solve DayZ Frame Rate Drops Swiftly - Expert Strategies Inside!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/speech-to-text-solutions-for-engaging-ppts/"><u>Speech-to-Text Solutions for Engaging PPTs</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-a-nonfunctional-alienware-command-center/"><u>Step-by-Step Solutions for a Nonfunctional Alienware Command Center</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721480233921-troubleshooting-no-more-text-left-issue-on-iphones-easy-fixes/"><u>Troubleshooting 'No More Text Left' Issue on iPhones - Easy Fixes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixes-for-warzone-game-not-starting-up/"><u>Troubleshooting Guide: Fixes for Warzone Game Not Starting Up</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-fix-a-nonfunctional-windows-11-taskbar/"><u>Troubleshooting Steps to Fix a Nonfunctional Windows 11 Taskbar</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-mastering-compression-in-fcpx-a-step-by-step-guide/"><u>Updated Mastering Compression in FCPX A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ice-capped-inspiration-chinas-sports-spectacle/"><u>[New] Ice-Capped Inspiration China's Sports Spectacle</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-transform-your-images-basic-tips-with-lunapic/"><u>[New] In 2024, Transform Your Images Basic Tips with LunaPic</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-insight-where-streaming-meets-originality/"><u>[New] In 2024, Vimeo Insight Where Streaming Meets Originality</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unveiling-professional-techniques-for-aps-hdr-creation/"><u>[Updated] In 2024, Unveiling Professional Techniques for APS HDR Creation</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/clearing-up-visual-glitches-a-comprehensive-guide-to-fixing-directdraw-failures/"><u>Clearing Up Visual Glitches: A Comprehensive Guide to Fixing DirectDraw Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-the-shadows-defeating-black-screen-troubles-in-magic-the-gathering-online-platform/"><u>Conquering the Shadows: Defeating Black Screen Troubles in Magic: The Gathering Online Platform</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-8-free-tools-enhancing-business-video-conferencing-efficiency/"><u>Essential 8 Free Tools Enhancing Business Video Conferencing Efficiency</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-for-restoring-lost-connection-between-your-pc-and-lost-ark-servers/"><u>Essential Tips for Restoring Lost Connection Between Your PC and Lost Ark Servers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-ultimate-guide-to-memorable-anime-opens/"><u>In 2024, The Ultimate Guide to Memorable Anime Opens</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-and-your-pc-avoiding-launch-pitfalls-with-these-tips/"><u>Modern Warfare & Your PC : Avoiding Launch Pitfalls with These Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-league-of-legends-online-communication-glitches-successfully/"><u>Tackling League of Legends' Online Communication Glitches Successfully</u></a></li>
 </ul></div>
 

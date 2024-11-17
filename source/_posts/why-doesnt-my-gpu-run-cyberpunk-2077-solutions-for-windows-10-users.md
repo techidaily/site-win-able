@@ -1,7 +1,7 @@
 ---
 title: Why Doesn't My GPU Run Cyberpunk 2077? Solutions for Windows 10 Users
-date: 2024-11-02T01:46:52.363Z
-updated: 2024-11-06T22:14:36.262Z
+date: 2024-11-11T11:00:49.483Z
+updated: 2024-11-17T09:35:56.510Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 3. [**Change Graphics performance preference**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure you’re using a CPU with integrated graphics
 
  When Cyberpunk seems to not be using your GPU, first you need to make sure your**CPU has an integrated graphics card** . In the past few years, Intel rolled out the**F-series CPUs** , such as the i5-10400F and the i3-9100F, which are cheaper than the regular ones for not having integrated graphics. In addition, some**Intel Xeon E3 Processors** designed for servers might not have an integrated GPU. If you’re not sure about your CPU model, contact your supplier.
@@ -38,6 +45,13 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
  You also need to make sure that the video output comes from your dedicated graphics card. That means your monitor should be connected with your graphics card.
 
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -68,14 +82,21 @@ To do so, first visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -94,50 +115,23 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this trick doesn’t solve your problem, you can continue to the next one.
 
@@ -176,18 +170,16 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-audiovisual-excellence-zooming-into-exceptional-podcast-recordings/"><u>[New] Audiovisual Excellence Zooming Into Exceptional Podcast Recordings</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-superior-capture-software-for-mac-excluding-bandicam/"><u>[New] In 2024, Superior Capture Software for Mac, Excluding Bandicam</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722995959997-solved-steam-cant-log-in/"><u>[SOLVED] Steam Can't Log In</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-optimizing-your-video-call-zoom-and-fb-live-integration-for-2024/"><u>[Updated] Optimizing Your Video Call ZOOM & FB Live Integration for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-steam-cloud-desynchronization-problems/"><u>How to Fix Steam Cloud Desynchronization Problems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-iphone-13-by-drfone-ios/"><u>How to jailbreak iCloud locked iPhone 13</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-14-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi 14 to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/skyrocket-your-ark-game-speed-on-pc-with-effective-fps-optimization-techniques/"><u>Skyrocket Your ARK Game Speed on PC with Effective FPS Optimization Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-fixes-for-the-finals-pre-launch-glitches-key-insights-and-strategies-for-a-smooth-2024-rollout/"><u>Step-by-Step Fixes for The Finals Pre-Launch Glitches: Key Insights & Strategies for a Smooth 2024 Rollout</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unending-shutdown-method-how-to-kill-off-youtube-shorts/"><u>Unending Shutdown Method How to Kill Off Youtube Shorts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-periscope-unveiled-free-access-benefits-and-signing-up-guide-for-2024/"><u>[Updated] Periscope Unveiled Free Access, Benefits & Signing Up Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionize-online-speech-discover-the-best-chrome-extensions-for-change/"><u>2024 Approved Revolutionize Online Speech Discover the Best Chrome Extensions for Change</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-redmi-note-12-pro-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Redmi Note 12 Pro 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207391527-fix-your-microsoft-surface-pro-4-touchscreen-issues-with-these-simple-steps/"><u>Fix Your Microsoft Surface Pro #4 Touchscreen Issues with These Simple Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2022-pc-freezing-issues-comprehensive-solutions/"><u>Football Manager 2022 PC Freezing Issues - Comprehensive Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-v29-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo V29 Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/madden-nfl-21-solving-stability-problems-and-preventing-pc-game-crashes/"><u>Madden NFL 21: Solving Stability Problems and Preventing PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-hurdles-how-to-access-football-manager-2022-now-that-its-out/"><u>Overcoming the Hurdles: How To Access Football Manager 2022 Now That It's Out</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-eco-friendly-tech-practices-to-slash-energy-bills-and-go-green-insights-from-zdnet/"><u>Top 6 Eco-Friendly Tech Practices to Slash Energy Bills and Go Green: Insights From ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-overcome-the-gobi-bug-in-back-t-end-blood-for-unreal-engine-4-players/"><u>Troubleshoot and Overcome the 'Gobi' Bug in Back T End Blood for Unreal Engine 4 Players</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-your-discussions-sharing-methods-for-ai-conversations/"><u>Unlocking Your Discussions: Sharing Methods for AI Conversations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Best Practices to Stop Microsoft's Window OS From Giving You a Flickering Display with Chrome (Updated) - A Deep Dive Into the Top Solutions of 2024
-date: 2024-11-01T19:46:55.616Z
-updated: 2024-11-07T00:23:16.958Z
+date: 2024-11-10T22:40:09.090Z
+updated: 2024-11-16T20:14:56.641Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ Lately there have been many users complaining about the**flickering issue with G
 10. [**Modify your Registry**](https://tools.techidaily.com/drivereasy/download/)
 11. **[Check for system issues](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Check your display cable and passive adapter**
 
  Sometimes, the flickering just comes from your**faulty hardware** . So before you dig into any complicated troubleshooting, you can start from this easy step to check your hardware. Surely you don’t want to spend hours on troubleshooting only to find that there’s something wrong with your rig.
@@ -52,29 +59,9 @@ Display Cables (HDMI)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/dp-hdmi-adapter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Passive Adapter (DP to HDMI)
 
  If you’re confident about your cable and adapter, simply move on to the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 2: Turn off Automatically pick an accent color (Windows 10)**
 
@@ -86,17 +73,17 @@ Passive Adapter (DP to HDMI)
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/personalize-01.jpg)
 2. From the left menu, select**Colors** . Under the**Choose your accent color** section, make sure you’ve**unchecked** the box next to**Automatically pick an accent color** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-automatically-pick-an-accent-color-02.jpg)
 3. Open Google Chrome and see if it stops flickering.
 
  If this method doesn’t help your case, you can take a look at the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Make sure it’s not a web page issue**
 
@@ -117,6 +104,13 @@ Passive Adapter (DP to HDMI)
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
@@ -125,6 +119,13 @@ Passive Adapter (DP to HDMI)
  Once you’ve updated your network driver, restart your computer and check if Chrome flickers again.
 
 If the issue remains, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check if it’s scroll flickering
 
@@ -136,23 +137,16 @@ If you don’t know how, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-flags-1.jpg)
 2. In the search box, type or paste**smooth scrolling** . Set**Smooth Scrolling** to**Enabled** or**Disabled** and see which one works best for you. Remember to restart Chrome after changing the settings.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-flags-2.jpg)
 
- If this trick doesn’t give you luck, take a look at the next one below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If this trick doesn’t give you luck, take a look at the next one below.
 
 ### Fix 6: Update Chrome
 
@@ -162,6 +156,13 @@ If you don’t know how, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-more.jpg)
 2. In the resulting drop-down menu, select **Help** \> **About Google Chrome** . Opening this page will initiate the update process.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-update.jpg)
 3. Once the browser updates, click the **Relaunch** button to reopen Chrome.
 
@@ -170,13 +171,6 @@ If you don’t know how, simply follow these steps:
 ### Fix 7: Install all Windows updates
 
  Windows updates offer regular**security patches** and sometimes (twice a year) a**performance boost** . If it’s been a while since the last time you checked for system updates, you need to do it now as it might fix your problem right away.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Disable hardware acceleration
 
@@ -188,16 +182,16 @@ If you don’t know how, simply follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-hardware-acceleration-chrome.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now you can test some websites and see if Chrome flickers again.
 
 If this fix doesn’t work for you, go ahead and try the last one.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Downgrade your Chrome version
 
@@ -218,10 +212,10 @@ If this fix doesn’t work for you, go ahead and try the last one.
 4. Right click the entry and modify the value to**5** . Then reboot your PC and see if the flicker reappears.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm-4.jpg)
@@ -262,24 +256,16 @@ If the issue lingers on, you can try the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-videoworld-analysis-complete-studio-insights/"><u>[New] In 2024, Videoworld Analysis Complete Studio Insights</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-paper-playground-fun-and-effective-collage-making/"><u>[Updated] Paper Playground Fun & Effective Collage Making</u></a></li>
-<li><a href="https://win-able.techidaily.com/centipede-issue-in-destiny-2-resolved-learn-how-it-got-fixed/"><u>Centipede Issue in Destiny 2 Resolved – Learn How It Got Fixed!</u></a></li>
-<li><a href="https://win-able.techidaily.com/definitive-fix-list-to-solve-borderlands-3-is-stuck-on-startup/"><u>Definitive Fix List to Solve 'Borderlands 3 Is Stuck on Startup'</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-black-display-during-boot-up-heres-how-to-resolve-it/"><u>Elden Ring Black Display During Boot-Up? Here's How to Resolve It</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-lag-and-crashes-in-your-digital-metropolis-advanced-fixes-for-city-skylines/"><u>Eliminate Lag and Crashes in Your Digital Metropolis: Advanced Fixes for City Skylines</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-offline-audio-to-text-solutions/"><u>Expert Offline Audio to Text Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-nokia-g310-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Nokia G310 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-realme-11-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Realme 11 Pro online without jailbreak</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/identifying-creator-types-six-intriguing-youtube-categorization-tests-for-2024/"><u>Identifying Creator Types Six Intriguing YouTube Categorization Tests for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-step-up-to-stardom-10-pro-tips-for-pixlr-excellence/"><u>In 2024, Step up to Stardom 10 Pro Tips for Pixlr Excellence</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-online-seminar-title-crafter/"><u>In 2024, Ultimate Online Seminar Title Crafter</u></a></li>
-<li><a href="https://win-able.techidaily.com/microsoft-edge-crashes-on-windows-11-heres-how-you-can-fix-it/"><u>Microsoft Edge Crashes on Windows 11? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://win-able.techidaily.com/rust-development-how-to-tackle-frequent-programming-crashes-effectively/"><u>Rust Development: How to Tackle Frequent Programming Crashes Effectively</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/simple-guide-seamlessly-moving-free-songs-from-your-old-phone-to-your-new-iphone/"><u>Simple Guide: Seamlessly Moving Free Songs From Your Old Phone to Your New iPhone</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-preventing-pc-crashes-during-horizon-forbidden-west-complete-playthrough/"><u>Step-by-Step Solutions for Preventing PC Crashes During 'Horizon Forbidden West' Complete Playthrough</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-overwatch-2-continuous-pc-crashes/"><u>Troubleshooting Steps for 'Overwatch 2' Continuous PC Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-overcoming-crossbow-errors-in-minecraft-games/"><u>Troubleshooting Tips for Overcoming Crossbow Errors in Minecraft Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unveiling-the-best-mp4-saving-software/"><u>[New] 2024 Approved Unveiling the Best MP4 Saving Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/xploring-12-premium-cameras-for-professional-vloggers-for-2024/"><u>[New] Exploring 12 Premium Cameras for Professional Vloggers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-places-for-accessible-outstanding-vector-design-tools/"><u>[New] Prime Places for Accessible, Outstanding Vector Design Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-avoiding-threats-while-grabbing-gratis-vlc-player-for-apple-machines/"><u>2024 Approved Avoiding Threats While Grabbing Gratis VLC Player for Apple Machines</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-endless-entertainment-loop-youtube-content-on-tv/"><u>2024 Approved Endless Entertainment Loop YouTube Content on TV</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-clipping-key-strategies-to-overcome-hogwarts-legacy-performance-issues/"><u>Conquer Clipping: Key Strategies to Overcome Hogwarts Legacy Performance Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-resolving-the-problem-of-evil-genius-wont-launch/"><u>Expert Guide: Resolving the Problem of Evil Genius ^[Won't Launch]</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-and-solutions-how-to-stop-cs2-from-crashing-on-your-computer/"><u>Fix & Solutions: How to Stop CS2 From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-assassins-creed-odyssey-stutter-on-pc-ultimate-guide/"><u>Fixing Assassin's Creed Odyssey Stutter on PC: Ultimate Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-ongoing-team-fortress-2-stability-issues-and-prevent-crashes/"><u>How to Resolve Ongoing Team Fortress 2 Stability Issues & Prevent Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-chrome-loading-errors-a-step-by-step-guide/"><u>Overcoming Chrome Loading Errors: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

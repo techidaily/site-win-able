@@ -1,7 +1,7 @@
 ---
 title: Enable and Master Hyper-V on Windows 11 – An In-Depth Guide
-date: 2024-11-04T23:19:10.745Z
-updated: 2024-11-07T04:49:22.803Z
+date: 2024-11-11T01:14:34.470Z
+updated: 2024-11-16T19:07:38.239Z
 tags:
   - win11
   - win10
@@ -54,20 +54,13 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-volume-mixer.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’ve turned up the volume for Roblox but the audio is still missing, or Roblox doesn’t show up in your Volume mixer, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Check Roblox settings
@@ -91,11 +84,25 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-sound-settings.png)
 2. Under**Output** , make sure you choose your speaker or the device you wish to use. You can double-check by clicking**App volume and device preferences** and setting the output device and volume for Roblox.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-sound-output.png)
 
  Sometimes the devices connected to your PC could interfere with normal audio output. If you’ve adjusted the above settings but your computer speaker still doesn’t work, make sure to unplug/disconnect devices such as your headset or external speaker from your PC.
 
 If the problem persists, move on to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your audio driver
 
@@ -113,17 +120,17 @@ If the problem persists, move on to the next solution.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_12-23-23.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new drivers to take effect. Run Roblox to see if the problem persists.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Configure the audio channel of your speaker
 
@@ -134,18 +141,25 @@ If the problem persists, move on to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 3. Switch to**View by: Small icons** , then click**Sound** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-54-50.jpg)
 4. Under the**Playback** tab, select**Speakers** then click**Configure** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-56-53.jpg)
 5. Switch the audio channel to**Stereo** . Click**Test** to see if the audio works normally, then click**Next** and follow the on-screen instructions to finish the configuration.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-05-52.jpg)
 
@@ -160,18 +174,25 @@ If the problem persists, move on to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 3. Switch to**View by: Small icons** , then click**Troubleshooting** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-26-18.jpg)
 4. Click**Troubleshoot audio playback** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-28-15.jpg)
 5. Click**Next** to run the troubleshooter.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-29-12.jpg)
 6. Wait for it to detect problems. This usually takes only a few seconds.  
@@ -179,35 +200,14 @@ If the problem persists, move on to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-05.jpg)
 7. Select your speaker, then click**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-32.jpg)
 8. It would suggest you turn off the audio enhancements for better sound quality. Click**Yes, Open Audio Enhancements** if you wish to do so. If you click no, it will skip to the scan results.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-57.jpg)
 9. Under the**Advanced** tab, make sure the**Enable audio enhancements** option is unchecked. Click**Apply** then**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-31-51-1.jpg)
 10. The troubleshooter will show you the results and fix the problems if it can. You can close the troubleshooter now.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-32-31.jpg)
 
@@ -257,20 +257,24 @@ If the problem persists, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-funny-frenzy-top-10-tweets/"><u>[New] 2024 Approved Funny Frenzy Top 10 Tweets</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-dial-up-discovery-mastering-quick-search-on-social-media/"><u>[New] Dial-Up Discovery Mastering Quick Search on Social Media</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-ranking-the-best-free-passport-picture-services-worldwide/"><u>2024 Approved Ranking the Best Free Passport Picture Services Worldwide</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-saber-stability-issues-resolved-no-more-unexpected-shutdowns/"><u>Beat Saber Stability Issues Resolved – No More Unexpected Shutdowns</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-fixes-for-the-frequent-problem-of-fuser-applications-crashing-on-desktops/"><u>Expert Fixes for the Frequent Problem of Fuser Applications Crashing on Desktops</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723003879892-fix-your-quick-fixes-how-to-stop-titanfall-2-from-crashing-instantly/"><u>Fix Your [Quick Fixes]: How To Stop Titanfall 2 From Crashing Instantly</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hitman-3-analysis-the-ultimate-conclusion-of-the-trilogy/"><u>Hitman 3 Analysis: The Ultimate Conclusion of the Trilogy</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-microsoft-flight-simulator-2020-when-its-frozen-at-update-prompt/"><u>How to Fix Microsoft Flight Simulator 2020 When It's Frozen at Update Prompt</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-out-of-video-memory-error-in-fortnite-complete-solution/"><u>How to Fix the 'Out of Video Memory' Error in Fortnite - Complete Solution</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-knack-game-analysis-standing-out-with-a-singular-protagonist-amidst-generic-gameplay/"><u>In-Depth Knack Game Analysis: Standing Out with a Singular Protagonist Amidst Generic Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-issue-why-does-my-computer-keep-getting-content-warning-errors-and-how-to-stop-them/"><u>Solving the Issue: Why Does My Computer Keep Getting 'Content Warning' Errors and How to Stop Them</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-windows-pc-issues-fixes-for-crackdown-3-freezing-problems/"><u>Solving Windows PC Issues: Fixes for 'Crackdown 3' Freezing Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-winservicesexe-on-your-pc/"><u>Troubleshooting Winservices.exe on Your PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/viair-88p-portable-air-compressor-evaluation-immense-strength-accompanied-by-limitations/"><u>Viair 88P Portable Air Compressor Evaluation: Immense Strength Accompanied by Limitations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-5-ps1-games-emulators-resurrecting-console-legends-on-pc/"><u>[New] In 2024, Top 5 PS1 Games Emulators - Resurrecting Console Legends on PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-10-guides-for-crafting-stellar-music-reactions-on-youtube/"><u>[New] Top 10 Guides for Crafting Stellar Music Reactions on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unlocking-the-power-of-voice-transcription-in-whatsapp-recording/"><u>[New] Unlocking the Power of Voice Transcription in WhatsApp Recording</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-from-good-to-great-videos-the-20-essential-shortcuts-for-success/"><u>[Updated] From Good to Great Videos The 20 Essential Shortcuts for Success</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtubes-finest-ranked-by-skyrocketing-subscriber-numbers/"><u>[Updated] In 2024, YouTube's Finest Ranked by Skyrocketing Subscriber Numbers</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-stuck-on-compilers-challenge-mastering-shader-troubleshooting-for-bocw-gameplay/"><u>Beat 'Stuck on Compilers' Challenge - Mastering Shader Troubleshooting for BOCW Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-the-delay-insights-into-wolcen-lords-of-mayhem-release-setback/"><u>Decoding the Delay - Insights Into Wolcen: Lords of Mayhem Release Setback</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-guide-top-4-methods-of-governing-artificial-intelligence/"><u>Essential Guide: Top 4 Methods of Governing Artificial Intelligence</u></a></li>
+<li><a href="https://win-best.techidaily.com/guide-setting-up-an-application-password-to-get-email-notifications-from-aomei-backupper/"><u>Guide: Setting Up an Application Password to Get Email Notifications From AOMEI Backupper</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximizing-multi-display-with-ms-edges-pip-for-2024/"><u>Maximizing Multi-Display with MS Edge's PIP for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-warframes-persistent-freezing-a-comprehensive-guide/"><u>Overcoming Warframe's Persistent Freezing: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/d-screen-and-upload-to-youtube-pc-mac-online-for-2024/"><u>Record Screen and Upload to YouTube [PC, Mac, Online] for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/risk-of-rain-crash-dilemma-heres-how-you-can-repair-it/"><u>Risk of Rain ² Crash Dilemma? Here's How You Can Repair It!</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-game-crashes-solving-final-fantasy-xvs-pc-instability-woes/"><u>Say Goodbye to Game Crashes: Solving Final Fantasy XV's PC Instability Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-mystery-fixing-error-code-0x803f8001-on-minecraft-launcher-for-windows-11-and-10/"><u>Solving the Mystery: Fixing Error Code 0X803F8001 on Minecraft Launcher for Windows 11 & 10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/survive-the-horde-in-depth-review-of-zombie-haven-7-days-to-die/"><u>Survive The Horde: In-Depth Review of Zombie Haven - 7 Days to Die</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-continuous-freezing-in-sony-vegas-pro-solutions-inside/"><u>Troubleshooting Continuous Freezing in Sony Vegas Pro - Solutions Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-persistent-team-fortress-2-game-crashes/"><u>Troubleshooting Steps for Persistent Team Fortress 2 Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-activating-and-setting-up-hyper-v-virtualization-in-windows-10/"><u>Ultimate Guide: Activating & Setting Up Hyper-V Virtualization in Windows 10</u></a></li>
 </ul></div>
 

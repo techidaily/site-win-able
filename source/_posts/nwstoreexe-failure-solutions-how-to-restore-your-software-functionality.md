@@ -1,7 +1,7 @@
 ---
 title: NW_StoreExe Failure Solutions – How to Restore Your Software Functionality
-date: 2024-09-01T08:03:21.249Z
-updated: 2024-09-02T08:03:21.249Z
+date: 2024-11-11T02:57:04.822Z
+updated: 2024-11-16T18:58:48.681Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/740485eec6690d6fdabad7ecea1a58c3aaeba4095
 
 [10: Reinstall Football Manager 2022](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## System requirements for FM22
 
 | **Minimum**   |                                                                                          |
@@ -53,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/740485eec6690d6fdabad7ecea1a58c3aaeba4095
 | **Memory**    | 4 GB RAM                                                                                 |
 | **Storage**   | 7GB available space                                                                      |
 | **DirectX**   | Version 11                                                                               |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Verify the game files
 
@@ -73,8 +87,12 @@ thumbnail: https://thmb.techidaily.com/740485eec6690d6fdabad7ecea1a58c3aaeba4095
  If scanning and repairing the game files doesn’t solve the crashing issue for you, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  Football Manager 2022 crashing randomly may indicate a driver issue. The latest graphics driver is usually required for most video games for them to run smoothly.
@@ -95,9 +113,6 @@ thumbnail: https://thmb.techidaily.com/740485eec6690d6fdabad7ecea1a58c3aaeba4095
 
  Restart your PC and run FM22 to see if the game still crashes. If updating the graphics driver doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Remove custom mods
 
  Any custom add-ons like mods, graphics, or skins, may interfere and cause the game to crash. If you installed the add-ons from the Steam workshop, you can easily unsubscribe from them and test the issue. Here’s how:
@@ -105,20 +120,18 @@ thumbnail: https://thmb.techidaily.com/740485eec6690d6fdabad7ecea1a58c3aaeba4095
 1. Go to your Steam profile page, and click**Workshop items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-29_10-51-25.png)
 2. Click**(your username)’s Favorite** \>>**Select a game** \>>**Football Manager 2022** .  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-29_10-52-33.png)
 3. You can**unsubscribe** from the mods one at a time to test which item was causing the problem.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this doesn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Delete cache/preferences folders
 
  The developers suggest that you can delete your preferences and/or cache folder(s) as they may trigger random crashes. Deleting these folders won’t affect your game saves, but you’ll have to set up and apply your preference settings again.
@@ -127,14 +140,18 @@ If this doesn’t help, try the next fix.
 2. Click **View** in the header, and tick the box of **Hidden items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/hidden-items.jpg)
 3. Navigate to   **C:\\Users\\\[Your Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** .
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Delete the **Preferences** and/or **Cache** folder(s).
 
  If you want to keep the preferences and cache files, you can move these folders to the desktop. As long as they’re not in the FM22 folder, you can run the game to test the issue.
 
 If this fix doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Repair corrupted system files
 
@@ -146,16 +163,18 @@ If this fix doesn’t solve your problem, try the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Fix 6: Close unnecessary programs
 
  Unnecessary programs running in the background may interfere with game performance. Sometimes they could take up the resources required for Football Manager 2022 to run smoothly, and thus causing the crashing issue.
@@ -163,7 +182,28 @@ If this fix doesn’t solve your problem, try the next fix.
 1. Right-click your taskbar, then click **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the **Processes** tab, right-click at the process(es) that you want to shut down, and click **End task** .  
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’ve closed the unnecessary background programs but still encounter crashes, try the next fix.
 
@@ -187,19 +227,10 @@ If this fix doesn’t solve your problem, try the next fix.
 1. In the search bar next to your Start button, type **update** , then click C**heck for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for available system updates. If there are _no_  available updates, you’ll get a **You’re up to date** sign. You could also click **View all optional updates** and install them if needed.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. You will be prompted to restart your PC. Make sure you save important files in advance.
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 9: Change the game folder location
 
@@ -213,9 +244,6 @@ If this fix doesn’t solve your problem, try the next fix.
 
 If this doesn’t help, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Fix 10: Reinstall Football Manager 2022
 
  Some players were able to solve the crashing issue after they reinstalled FM22, and it’s definitely worth a try. This is most likely to work when the previous game download or installation was interrupted and thus triggered the crashes.
@@ -234,8 +262,6 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -243,4 +269,26 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-premier-football-vids-key-youtube-infographic-data/"><u>[New] Premier Football Vids Key YouTube Infographic Data</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-hero-series-advance-from-4-to-5-for-2024/"><u>[New] The Hero Series Advance From 4 to 5 for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-virtually-vivacious-top-humorous-memes-for-the-metaverse-enthusiasts-for-2024/"><u>[New] Virtually Vivacious Top Humorous Memes for the Metaverse Enthusiasts for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-auditory-capture-techniques-for-professional-note-takers/"><u>[Updated] Auditory Capture Techniques for Professional Note-Takers</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y200e-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-uninterrupted-immersion-fixing-game-hiccups-for-a-fluid-high-fps-experience-today/"><u>Achieve Uninterrupted Immersion: Fixing Game Hiccups for a Fluid, High-FPS Experience Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-errors-and-how-to-overcome-them-getting-past-the-blockage-in-persona-3-reload/"><u>Common Errors and How to Overcome Them: Getting Past the Blockage in Persona 3 Reload</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-solutions-overcoming-common-fortnite-load-failures/"><u>Effortless Solutions: Overcoming Common Fortnite Load Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-communication-feedback-with-9-simple-fixes-for-windows-users/"><u>Enhancing Communication Feedback with 9 Simple Fixes for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-overcoming-the-solved-the-ascent-game-crash-issues-on-windows/"><u>Fixes & Solutions: Overcoming the [SOLVED] 'The Ascent' Game Crash Issues on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-errors-a-guide-to-fixing-v-rising-pc-compatibility-problems/"><u>Fixing Persistent Errors: A Guide to Fixing V Rising PC Compatibility Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-remake-resolving-resident-evil-4-game-crashes/"><u>Fixing the Remake: Resolving 'Resident Evil 4' Game Crashes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-easily-get-and-set-up-the-nexiq-usb-link-2-drivers/"><u>How to Easily Get and Set Up the Nexiq USB-Link 2 Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-last-epoch-game-crashing-issue-on-pc/"><u>How to Resolve the 'Last Epoch' Game Crashing Issue on PC</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-to-transfer-synology-nas-data-to-an-exfat-formatted-external-hard-disk-in-four-steps/"><u>How to Transfer Synology NAS Data to an ExFAT-Formatted External Hard Disk in Four Steps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-comparative-review-smartphone-usage-of-the-leading-video-apps/"><u>In 2024, Comparative Review Smartphone Usage of the Leading Video Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-premiere-pro-quick-fade-magic-1m/"><u>In 2024, Premiere Pro Quick-Fade Magic (1M)</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-overcome-fps-drops-and-stutters-in-call-of-duty-modern-warfare-2-on-pc/"><u>Troubleshooting Guide: How to Overcome FPS Drops & Stutters in Call of Duty Modern Warfare 2 on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-warzones-missing-texture-problem/"><u>Troubleshooting Warzone's Missing Texture Problem</u></a></li>
+</ul></div>
 

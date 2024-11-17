@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Pathfinder: Wrath of the Righteous Continuously Fails on Launch"
-date: 2024-11-01T00:08:34.961Z
-updated: 2024-11-06T18:34:23.766Z
+date: 2024-11-14T21:48:07.433Z
+updated: 2024-11-17T08:52:59.911Z
 tags:
   - win11
   - win10
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
  If the game keeps crashing on your powerful PC, just read on and try the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -93,26 +93,12 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -122,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 
  Launch Pathfinder: Wrath of the Righteous again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Disable overlays
 
  Overlays sometimes would interfere with the game and even block the game files. You can try disabling Steam Overlay for Pathfinder: Wrath of the Righteous and see if the game crashes again:
@@ -130,24 +123,25 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -158,13 +152,6 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
  Launch Pathfinder: Wrath of the Righteous and see if the game crashes after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix to perform a clean boot.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Perform a clean boot
 
@@ -177,20 +164,20 @@ Here’s how to do it:
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
@@ -198,6 +185,13 @@ Here’s how to do it:
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -240,18 +234,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-ultimate-strategy-map-for-skyrocketing-your-fb-page-status/"><u>[Updated] 2024 Approved The Ultimate Strategy Map for Skyrocketing Your FB Page Status</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-elevate-your-vimeo-media-with-well-defined-chapters-for-2024/"><u>[Updated] Elevate Your Vimeo Media with Well-Defined Chapters for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-iosandroid-apps-for-photo-writing/"><u>2024 Approved Innovative iOS/Android Apps for Photo-Writing</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-gameplay-solving-assassins-creed-valhalla-performance-issues/"><u>Boost Your Gameplay: Solving Assassin's Creed: Valhalla Performance Issues</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-14-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi 14</u></a></li>
-<li><a href="https://win-able.techidaily.com/curing-the-stuck-launch-error-in-among-us-expert-tips-and-solutions/"><u>Curing the Stuck Launch Error in Among Us: Expert Tips & Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-a24-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy A24 Pattern Lock Screen</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-back-in-the-game-handling-madden-22s-continuous-load-screens-troubleshooting/"><u>Get Back in the Game: Handling Madden 22'S Continuous Load Screens Troubleshooting</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-restore-functionality-of-your-corsair-icue-on-latest-windows-versions/"><u>How to Restore Functionality of Your Corsair iCUE on Latest Windows Versions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximizing-velocity-in-real-time-periscope-livestreams/"><u>Maximizing Velocity in Real-Time Periscope Livestreams</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/optimize-your-streams-with-advanced-obs-techniques-android-for-2024/"><u>Optimize Your Streams with Advanced OBS Techniques, Android for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-the-far-cry-6-black-screen-glitch/"><u>Ultimate Troubleshooting Tips for the Far Cry 6 Black Screen Glitch</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-disseminating-videos-tiktok-content-for-a-wider-facebook-audience/"><u>2024 Approved Disseminating Videos TikTok Content for a Wider Facebook Audience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/discover-the-ultimate-no-cost-iphone-image-arrangement-software/"><u>Discover the Ultimate, No-Cost iPhone Image Arrangement Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-addressing-and-fixing-your-league-of-legends-slowdown/"><u>Expert Advice: Addressing and Fixing Your League of Legends Slowdown</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-disconnect-from-battlenet-services-restored/"><u>Fixing the Issue: Disconnect From Battle.net Services Restored</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010213139-fortnite-login-troubles-overcome-the-permission-error-easily/"><u>Fortnite Login Troubles? Overcome the 'Permission Error' Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-itel-a60s-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Itel A60s</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-stuck-shader-compiler-problem-in-cod-black-ops-cold-war/"><u>How to Overcome the Stuck Shader Compiler Problem in COD Black Ops Cold War</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-tech-behind-a-seamless-deathloop-adventure-on-personal-computers/"><u>Mastering the Tech Behind a Seamless Deathloop Adventure on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997047656-minecraft-update-woes-heres-how-you-can-resolve-out-of-date-drivers-easily/"><u>Minecraft Update Woes? Here's How You Can Resolve Out-of-Date Drivers Easily!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-and-overcoming-issues-with-dragon-quest-xi-stability/"><u>Resolved: Troubleshooting and Overcoming Issues with Dragon Quest XI Stability</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simplified-steps-for-instagram-collage-mastery/"><u>Simplified Steps for Instagram Collage Mastery</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-issue-destiny-2-playable-on-pc-after-patch/"><u>Solved Issue: Destiny 2 Playable on PC After Patch</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-eliminating-erroneous-graphics-glitches-in-rust-coding/"><u>Step-by-Step Solutions: Eliminating Erroneous Graphics Glitches in Rust Coding</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-3-storytelling-techniques-to-grow-your-youtube-channel-for-2024/"><u>Top 3 Storytelling Techniques to Grow Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unveiling-the-basics-your-comprehensive-guide-to-understanding-heic-file-formats/"><u>Unveiling the Basics: Your Comprehensive Guide to Understanding HEIC File Formats</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-step-by-step-guide-to-storyboard/"><u>Updated 2024 Approved Step-by-Step Guide to Storyboard</u></a></li>
 </ul></div>
 

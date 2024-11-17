@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Update Your Minecraft Graphics Driver to Resolve 'Outdated' Notifications"
-date: 2024-11-04T21:49:12.792Z
-updated: 2024-11-06T16:08:36.503Z
+date: 2024-11-14T11:24:14.336Z
+updated: 2024-11-17T09:23:39.871Z
 tags:
   - win11
   - win10
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -92,13 +92,6 @@ You can use the following steps to check for Minecraft updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all system updates, restart your PC and check if the issue persists.
@@ -118,9 +111,23 @@ If you’re still seeing the message, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 Once done, restart Windows and try again in Minecraft.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check your default GPU
 
@@ -135,20 +142,20 @@ Here’s how you can check the preferred GPU of Minecraft:
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
@@ -158,20 +165,13 @@ Here’s how you can check the preferred GPU of Minecraft:
 5. Click**High performance** and then**Save** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can restart Minecraft and check if the message is still there.
 
@@ -196,17 +196,16 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/9-effective-strategies-utilizing-chatgpt-for-improved-wellness/"><u>9 Effective Strategies: Utilizing ChatGPT for Improved Wellness</u></a></li>
-<li><a href="https://win-able.techidaily.com/common-problems-and-fixes-logitech-software-malfunctioning-on-windows-machines/"><u>Common Problems and Fixes: Logitech Software Malfunctioning on Windows Machines</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effective-tips-for-draining-water-out-of-your-iphone-audio-ports/"><u>Effective Tips for Draining Water Out of Your iPhone Audio Ports</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ore-views-with-the-best-youtube-thumbnail-ideas/"><u>Get More Views with the Best YouTube Thumbnail Ideas</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-engaging-audiences-how-tos-for-effective-youtube-logo-creation/"><u>In 2024, Engaging Audiences How-To's for Effective YouTube Logo Creation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/periscope-filming-made-easy-the-ultimate-how-to/"><u>Periscope Filming Made Easy The Ultimate How-To</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-top-6-solutions-to-eliminate-stuttering-and-lag-in-baldurs-gate/"><u>Resolved: Top 6 Solutions to Eliminate Stuttering and Lag in Baldur's Gate</u></a></li>
-<li><a href="https://win-able.techidaily.com/thaumaturge-app-crasheswont-open-solutions-for-a-smooth-gaming-experience/"><u>Thaumaturge App Crashes/Won’t Open – Solutions for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-techniques-for-resolving-frame-rate-problems-in-elden-ring-fast/"><u>Top Techniques for Resolving Frame Rate Problems in Elden Ring Fast</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-hearthstone-pc-crashes-solutions-and-tips/"><u>Troubleshooting Hearthstone PC Crashes - Solutions and Tips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-potential-of-google-nest-wi-fi-speed-ease-and-mesh-network-mastery/"><u>Unveiling the Potential of Google Nest Wi-Fi - Speed, Ease, and Mesh Network Mastery.</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-tailored-visual-representation-free-logo-base-for-personal-touches/"><u>[New] In 2024, Tailored Visual Representation Free Logo Base for Personal Touches</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-zap-extra-details-sharpen-logitech-webcam-recordings/"><u>2024 Approved Zap Extra Details - Sharpen Logitech Webcam Recordings</u></a></li>
+<li><a href="https://win-able.techidaily.com/bloodhunt-pc-trouble-fix-stutter-and-lagging-issues-with-these-steps/"><u>Bloodhunt PC Trouble? Fix Stutter and Lagging Issues with These Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-problem-addressing-and-correcting-the-detected-violation-of-game-protection-mistake/"><u>Fixing the Problem: Addressing and Correcting the 'Detected Violation of Game Protection' Mistake</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-gaming-experience-by-resolving-latency-spikes-and-frame-rate-drop-in-cod-black-ops-iv/"><u>Mastering Smooth Gaming Experience by Resolving Latency Spikes and Frame Rate Drop in COD Black Ops IV</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-apex-legends-2022-obstacles-decoding-and-correcting-the-infamous-error-code-leaf/"><u>Overcoming Apex Legends 2022 Obstacles: Decoding and Correcting the Infamous Error Code Leaf</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-anywhere-learn-everywhere-top-3-multilingual-centers/"><u>Speak Anywhere, Learn Everywhere: Top 3 Multilingual Centers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-for-implementing-the-revolution-extension-within-kodis-open-scraper-framework/"><u>Step-by-Step Tutorial for Implementing the Revolution Extension Within Kodi's Open Scraper Framework</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-issues-fixing-low-speaker-output-in-windows-10/"><u>Troubleshooting PC Audio Issues: Fixing Low Speaker Output in Windows 10</u></a></li>
 </ul></div>
 

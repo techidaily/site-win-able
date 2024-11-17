@@ -1,7 +1,7 @@
 ---
 title: "Cod: Black Ops Cold War PC Launch Fix - A Complete Guide for Gamers"
-date: 2024-11-03T00:18:29.569Z
-updated: 2024-11-06T18:53:10.256Z
+date: 2024-11-11T09:51:46.464Z
+updated: 2024-11-16T17:13:42.490Z
 tags:
   - win11
   - win10
@@ -42,26 +42,39 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
 
@@ -85,34 +98,13 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the process finishes, restart your computer. If all the drivers are up-to-date but the gameplay is still buggy, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the in-game settings
 
@@ -141,24 +133,32 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
 4. Close the window and launch Outriders.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
 
 Still no luck with DX12? Then check out the next method below.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
@@ -172,20 +172,14 @@ Still no luck with DX12? Then check out the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
-
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
 
 Once done, start Outriders and test the game.
 
@@ -212,19 +206,22 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/rime-your-vlogging-game-top-tier-mac-mp4-editors-reviewed-for-2024/"><u>[New] Prime Your Vlogging Game Top-Tier Mac MP4 Editors Reviewed for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-preserving-every-moment-of-your-switch-gaming/"><u>[Updated] 2024 Approved Preserving Every Moment of Your Switch Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquering-warzones-code-red-dev-error-5573-a-comprehensive-fix-for-playstation-and-pc-users/"><u>Conquering Warzone's Code Red (Dev Error 5573): A Comprehensive Fix for PlayStation and PC Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/experience-epic-battles-with-god-of-war-first-person-shooter-for-windows-and-pc-gamers/"><u>Experience Epic Battles with God of War First-Person Shooter for Windows and PC Gamers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-itel-s23-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Itel S23 using Video Repair Utility?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-get-msi-afterburner-to-see-your-graphics-card-under-windows-10-or-11/"><u>How to Get MSI Afterburner to See Your Graphics Card Under Windows 10 or 11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-choosing-excellence-a-buyers-guide-to-hdr-cameras/"><u>In 2024, Choosing Excellence A Buyer's Guide to HDR Cameras</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-13-mini-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone 13 mini Safe and Legal</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-accessibility-on-ig-a-comprehensive-tutorial-for-instagram-story-closed-captioning/"><u>Mastering Accessibility on IG: A Comprehensive Tutorial for Instagram Story Closed Captioning</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-common-problems-in-steams-remote-play-functionality/"><u>Overcoming Common Problems in Steam's Remote Play Functionality</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-god-of-wars-persistent-pc-freezing-problems-a-step-by-estep-guide/"><u>Overcoming God of War's Persistent PC Freezing Problems - A Step-by-eStep Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/rapid-windows-photo-examiner-for-enhanced-efficiency/"><u>Rapid Windows Photo Examiner for Enhanced Efficiency</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-chromes-glitchy-glow-a-2024-definitive-repair-manual-for-windows-enthusiasts/"><u>Say Goodbye to Chrome's Glitchy Glow: A 2024 Definitive Repair Manual for Windows Enthusiasts</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-the-fight-against-crashes-enhancing-stability-for-fallout-3-on-modern-windows-machines/"><u>Winning the Fight Against Crashes: Enhancing Stability for Fallout 3 on Modern Windows Machines</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-navigating-media-landsranking-with-magix-video-pro-x/"><u>[New] 2024 Approved Navigating Media Landsranking with Magix Video Pro X</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-beyond-staged-success-ten-truths-about-reels-on-instagram/"><u>[New] Beyond Staged Success Ten Truths About Reels on Instagram</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-steady-craft-fights-against-camera-jiggles/"><u>[New] Steady Craft Fights Against Camera Jiggles</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-discord-black-screen-when-screen-sharing/"><u>[SOLVED] Discord Black Screen when Screen Sharing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-navigating-the-world-of-fbx-for-gamers/"><u>[Updated] 2024 Approved Navigating the World of FBX for Gamers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-optimizing-media-experience-best-windows-phone-videos/"><u>2024 Approved Optimizing Media Experience Best Windows Phone Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-infamous-no-user-logon-error-in-counter-strike-global-offensive/"><u>Bypassing The Infamous No User Logon Error in Counter Strike Global Offensive</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-code-5573-cracked-in-depth-guide-to-resolve-it-in-call-of-duty-vanguard/"><u>Error Code 5573 Cracked: In-Depth Guide to Resolve It in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-game-nightmares-enabling-avatar-frontiers-of-pandora-launch/"><u>Fix Your Game Nightmares: Enabling Avatar – Frontiers of Pandora Launch</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone X to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-tricks-to-resolve-discord-crashing-problems-on-any-device/"><u>Master the Tricks to Resolve Discord Crashing Problems on Any Device</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/microsoft-rolls-out-custom-made-network-devices-tailored-for-artificnial-intelligence-data-centers-insights/"><u>Microsoft Rolls Out Custom-Made Network Devices Tailored for Artificnial Intelligence Data Centers - Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-resolving-discord-installation-has-failed-issues/"><u>Quick Fixes: Resolving 'Discord Installation Has Failed' Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-on-the-latest-gadgets/"><u>Tom's Tech Review: Comprehensive Insights on the Latest Gadgets</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-solving-pc-game-crashes-in-the-daunting-world-of-dauntless/"><u>Troubleshooting Tips: Solving PC Game Crashes in the Daunting World of Dauntless</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-cant-i-get-into-call-of-duty-warzone-solving-launch-problems/"><u>Why Can’t I Get Into Call of Duty: Warzone? Solving Launch Problems</u></a></li>
 </ul></div>
 

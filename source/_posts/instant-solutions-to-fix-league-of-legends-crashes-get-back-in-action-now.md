@@ -1,7 +1,7 @@
 ---
 title: Instant Solutions to Fix League of Legends Crashes – Get Back in Action Now
-date: 2024-11-04T20:24:36.247Z
-updated: 2024-11-07T02:59:22.060Z
+date: 2024-11-12T18:20:20.509Z
+updated: 2024-11-16T17:56:17.121Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -98,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
@@ -111,19 +118,6 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
@@ -136,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -152,20 +146,27 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -184,13 +185,6 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -214,18 +208,22 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-become-a-digital-native-in-the-metaverse-now/"><u>[New] Become a Digital Native in the Metaverse Now</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-explore-instagrams-per-video-limit-explained/"><u>[Updated] Explore Instagram's Per-Video Limit Explained</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-art-of-capture-and-storage-managing-snapshots-like-a-pro/"><u>[Updated] The Art of Capture and Storage Managing Snapshots Like a Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-enabled-prompt-engineering-understanding-its-professional-landscape/"><u>AI-Enabled Prompt Engineering: Understanding Its Professional Landscape</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-security-strategy-single-antivirus-on-windows/"><u>Efficient Security Strategy: Single Antivirus on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/error-rectified-unauthorized-access-in-gaming-alert-cleared-up/"><u>Error Rectified: Unauthorized Access in Gaming Alert Cleared Up</u></a></li>
-<li><a href="https://win-able.techidaily.com/google-meet-camera-not-working-here-are-the-proven-steps-to-restore-functionality/"><u>Google Meet Camera Not Working? Here Are the Proven Steps to Restore Functionality!</u></a></li>
-<li><a href="https://win-able.techidaily.com/guardians-of-the-galaxy-pc-game-8-troubleshooting-steps-for-a-smooth-play-experience/"><u>Guardians of the Galaxy PC Game: 8 Troubleshooting Steps for a Smooth Play Experience</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/iphone-tips-achieve-softened-images-in-4-easy-steps-for-2024/"><u>IPhone Tips Achieve Softened Images in 4 Easy Steps for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-your-oculus-link-asap-top-six-methods-to-resolve-black-screen-issues/"><u>Troubleshoot Your Oculus Link ASAP: Top Six Methods to Resolve Black Screen Issues</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1398197-9781608680368-what-happens-when-we-die/"><u>What Happens When We Die | Free Book</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1728506474655-cf/"><u>フリーソフト利用：救命節！CFカードバックアップ復元手順の詳細解説</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-leveraging-facebook-slides-a-beginners-handbook-for-visual-storytelling/"><u>[New] 2024 Approved Leveraging Facebook Slides A Beginner's Handbook for Visual Storytelling</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-making-every-game-a-masterpiece-proven-methods-to-record-and-relish-your-sims-experiences/"><u>[New] 2024 Approved Making Every Game a Masterpiece Proven Methods to Record and Relish Your Sims’ Experiences</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-master-the-making-of-spectacular-slideshows-for-your-social-circle-for-2024/"><u>[Updated] Master the Making of Spectacular Slideshows for Your Social Circle for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-swiftly-piece-together-a-stunning-google-photo-collage-for-2024/"><u>[Updated] Swiftly Piece Together a Stunning Google Photo Collage for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unlock-new-dimensions-exploring-xbox-ones-zooming-feature/"><u>[Updated] Unlock New Dimensions Exploring Xbox One's Zooming Feature</u></a></li>
+<li><a href="https://win-able.techidaily.com/deciphering-nier-abelian-storm-stutters-effective-solutions-unveiled/"><u>Deciphering NieR: Abelian Storm Stutters: Effective Solutions Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-pc-issues-fixes-for-elite-dangerous-game-crashes/"><u>Eliminate PC Issues: Fixes for Elite Dangerous Game Crashes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enjoy-24-discount-on-airpods-pro-2-the-new-earbuds-that-double-as-hearing-devices-today-only-exclusive-offer/"><u>Enjoy 24% Discount on AirPods Pro 2 - The New Earbuds that Double as Hearing Devices, Today Only! Exclusive Offer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-video-memory-problems-for-a-smooth-fortnite-experience/"><u>How to Fix Video Memory Problems for a Smooth Fortnite Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-seamlessly-transform-mod-audiovideo-into-mp4-format-preserving-full-quality-discover-our-top-7-methods/"><u>How to Seamlessly Transform MOD Audio/Video Into MP4 Format Preserving Full Quality - Discover Our Top 7 Methods</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-realme-11-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Realme 11 Pro?</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-troubleshooting-pc-failures-2024s-definitive-guide/"><u>Master the Art of Troubleshooting PC Failures: 2024'S Definitive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/prevent-dreamlight-valley-crashes-on-pc-with-these-6-easy-solutions/"><u>Prevent Dreamlight Valley Crashes on PC with These 6 Easy Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-new-world-server-lags-a-comprehensive-guide/"><u>Resolving 'New World' Server Lags: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-for-getting-your-origin-game-back-online/"><u>Solution Steps for Getting Your Origin Game Back Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-dilemma-of-nonfunctioning-davinci-resolve-software-in-windows-pcs/"><u>Solving the Dilemma of Nonfunctioning DaVinci Resolve Software in Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solving-spellbreak-pc-performance-issues/"><u>Troubleshooting Guide: Solving 'Spellbreak' PC Performance Issues</u></a></li>
 </ul></div>
 

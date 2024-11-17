@@ -1,7 +1,7 @@
 ---
 title: Resolving OBS Crashes on Modern Windows Systems - Tips and Fixes
-date: 2024-11-05T18:59:11.451Z
-updated: 2024-11-06T23:36:01.069Z
+date: 2024-11-11T03:59:41.683Z
+updated: 2024-11-17T03:43:07.635Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
  If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 
 If this method doesn’t help, check out your graphics driver.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, Diablo 2 Resurrected crashing is more likely to occur. To fix it, you should update your graphics driver to the latest.
@@ -66,19 +80,6 @@ If this method doesn’t help, check out your graphics driver.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
@@ -101,20 +102,13 @@ If this method doesn’t help, check out your graphics driver.
 4. Click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
 
@@ -127,14 +121,20 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
@@ -148,14 +148,14 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **On GeForce Experience**
 
@@ -163,14 +163,14 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After all the overlay feature is disabled, your game should return to normal.
 
@@ -196,24 +196,18 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-srt-file-conversion-simplified-with-os-support-for-2024/"><u>[New] SRT File Conversion Simplified with OS Support for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-instagram-meets-tiktok-syncing-social-media/"><u>2024 Approved Instagram Meets TikTok Syncing Social Media</u></a></li>
-<li><a href="https://win-able.techidaily.com/addressing-the-common-crash-problems-in-wot-blitz-expert-solutions/"><u>Addressing the Common Crash Problems in WoT Blitz: Expert Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/busting-bugs-how-to-keep-house-flipper-2-running-stable-on-windows-or-mac/"><u>Busting Bugs: How to Keep House Flipper 2 Running Stable on Windows or Mac</u></a></li>
-<li><a href="https://win-able.techidaily.com/dayz-players-guide-how-to-speedily-overcome-and-enhance-frame-rates/"><u>DayZ Player's Guide: How to Speedily Overcome and Enhance Frame Rates</u></a></li>
-<li><a href="https://win-able.techidaily.com/destiny-2-visuals-error-troubleshooting-guide-fixed-issue/"><u>Destiny 2 Visuals Error: Troubleshooting Guide - Fixed Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-eliminate-lag-and-improve-online-gameplay-for-street-fighter/"><u>Expert Tips to Eliminate Lag and Improve Online Gameplay for Street Fighter</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-crash-point-errors-a-guide-to-stable-ue4-arise-creation/"><u>Fixing Crash Point Errors: A Guide to Stable UE4 Arise Creation</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-the-cannot-connect-to-nvidia-problem-successfully/"><u>How to Overcome the 'Cannot Connect to NVIDIA' Problem Successfully</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-oneplus-nord-n30-se-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any OnePlus Nord N30 SE Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-boost-your-visuals-video-enhance-pro-22-guide/"><u>In 2024, Boost Your Visuals - Video Enhance Pro 2.2 Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-y78plus-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo Y78+ Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-elden-ring-launch-eradicating-the-annoying-initial-blackout-with-these-tips/"><u>Mastering Elden Ring Launch - Eradicating the Annoying Initial Blackout with These Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-iphones-roblox-resource-allocation-issue/"><u>Navigating Through iPhone's Roblox Resource Allocation Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-performance-hiccups-for-an-optimal-experience-with-avatar-on-pandoras-new-territories/"><u>Overcoming Performance Hiccups for an Optimal Experience with Avatar on Pandora’s New Territories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-gentle-art-of-reducing-audio-amplitude-in-logic-pro-for-2024/"><u>The Gentle Art of Reducing Audio Amplitude in Logic Pro for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-meme-design-props-for-2024/"><u>The Ultimate Guide to Meme Design Props for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-google-pixel-7a-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Google Pixel 7a Android SIM Unlock APK</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-from-gym-goer-to-broadcayer-set-up-a-sports-vlog-on-macos-for-2024/"><u>[Updated] From Gym Goer to Broadcayer Set Up a Sports Vlog on macOS for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-picks-for-the-ultimate-offline-game-experience-on-android/"><u>[Updated] In 2024, Top Picks for the Ultimate Offline Game Experience on Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tangoing-turquoise-toucan/"><u>2024 Approved Tangoing Turquoise Toucan</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-iphone-11-pro-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your iPhone 11 Pro for Free</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-lava-unlock-without-password-by-drfone-android/"><u>5 Solutions For Lava Unlock Without Password</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-fixes-rapid-solutions-for-division-2-game-crashes/"><u>Efficient Fixes: Rapid Solutions for Division 2 Game Crashes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/keyword-placement/"><u>Keyword Placement</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-graphics-troubleshooting-for-fifa-20-eradicating-directx-problems/"><u>Mastering Graphics Troubleshooting for FIFA 20: Eradicating DirectX Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-made-simple-resolve-disco-elysium-game-crash-issues-today/"><u>PC Gaming Made Simple: Resolve 'Disco Elysium' Game Crash Issues Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-eliminating-the-xbox-one-connection-issue/"><u>Step-by-Step Guide: Eliminating the Xbox One Connection Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990304791-stop-blaming-luck-proven-strategies-to-keep-among-us-running-smoothly/"><u>Stop Blaming Luck: Proven Strategies to Keep 'Among Us' Running Smoothly !</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-cures-for-glitchy-playthrough-of-mass-effect-legacy-edition/"><u>Troubleshooting Cures for Glitchy Playthrough of Mass Effect Legacy Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-eliminate-sims-4-sluggishness-and-enhance-gameplay-pc-expert-strategies/"><u>Ultimate Guide: Eliminate Sims 4 Sluggishness & Enhance Gameplay (PC) – Expert Strategies</u></a></li>
 </ul></div>
 

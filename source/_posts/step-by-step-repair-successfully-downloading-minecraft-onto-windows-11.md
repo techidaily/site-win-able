@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Repair: Successfully Downloading Minecraft Onto Windows 11"
-date: 2024-09-01T08:05:42.880Z
-updated: 2024-09-02T08:05:42.880Z
+date: 2024-11-13T06:18:04.744Z
+updated: 2024-11-17T07:31:22.501Z
 tags:
   - win11
   - win10
@@ -51,8 +51,12 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/firewall-and-network-protection.png)
 4. Scroll down and find**Allow an app through firewall** . Then click it.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/allow-an-app-through-firewall.png)
@@ -60,9 +64,6 @@ If that doesn’t work for you, try the fixes below.
 
  After applying the changes, try installing Minecraft and check if it’s working properly. If your problem persists, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Download & install all Windows updates
 
  Windows updates usually fix compatibility issues and come with new features. If you encounter any errors and failures when launching a program, you should consider checking for Windows updates. Follow the instructions to do this.
@@ -75,18 +76,25 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates.png)
 4. Click **Restart now**  to restart your PC or you can **Schedule the restart** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then try to double-click on the downloaded package and see if you can install Minecraft now. If you’ve still having the issue, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## 3\. Update your device drivers
 
  Therefore, you’re supposed to always make sure that your device drivers are properly updated.
@@ -103,12 +111,16 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-all-de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer. Upon the reboot, try to install Minecraft to see if you can do it successfully. If it fails, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run Windows Store troubleshooter
 
@@ -120,26 +132,18 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/troubleshoot-windows-11.png)
 3. Click**Other troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/other-troubleshooter.png)
 4. Click on the**Run** button next to**Windows Store Apps** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-apps-run-troubleshooter.png)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then wait for it to detect and troubleshoot your issues. If it fails to identify them, try the next fix below.
 
 ## 5\. Run a full scan of your PC
@@ -155,8 +159,12 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
 
  Upon the completion of the repair, try to install Minecraft and you should be able to do it successfully.
@@ -171,8 +179,6 @@ If that doesn’t work for you, try the fixes below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +186,24 @@ If that doesn’t work for you, try the fixes below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unlock-the-secrets-maximizing-your-video-content-on-zoom-and-youtube-live/"><u>[New] 2024 Approved Unlock the Secrets Maximizing Your Video Content on Zoom & YouTube Live</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-premium-video-capture-devices-for-windows-os/"><u>[Updated] In 2024, Premium Video Capture Devices for Windows OS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-iphone-lens-magic-the-ultimate-10-composition-techniques/"><u>[Updated] IPhone Lens Magic The Ultimate 10 Composition Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-5-mac-superior-bandicam-alternates/"><u>[Updated] Top 5 Mac Superior Bandicam Alternates</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-comprehensive-guide-to-overcoming-the-notorious-superpeople-bug/"><u>A Comprehensive Guide to Overcoming the Notorious 'Superpeople Bug'</u></a></li>
+<li><a href="https://win-able.techidaily.com/disco-elysium-running-smoothly-after-fixes-pc-version/"><u>Disco Elysium Running Smoothly After Fixes - PC Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-world-of-warcraft-gameplay-proven-strategies-for-achieving-higher-fps-and-enhanced-graphics/"><u>Elevate World of Warcraft Gameplay: Proven Strategies for Achieving Higher FPS and Enhanced Graphics</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-gaming-experience-in-avatar-strategies-to-address-low-fps-and-eliminate-stuttering/"><u>Enhancing Gaming Experience in 'Avatar': Strategies to Address Low FPS and Eliminate Stuttering</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-navigating-low-fps-issues-and-enhancing-gameplay-speed-tips/"><u>Fallout Navigating Low FPS Issues and Enhancing Gameplay Speed - Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hoogtepunten-van-13-mp4-versnellingsapparaten-gemakkelijke-integratie-voor-uitgebreidere-toepassingen/"><u>Hoogtepunten Van 13 MP4-Versnellingsapparaten: Gemakkelijke Integratie Voor Uitgebreidere Toepassingen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-supported-audio-device-drivers-for-microsoft-operating-systems-windows-10-7-and/"><u>Logitech Supported Audio Device Drivers for Microsoft Operating Systems (Windows 10, 7 &</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/panasonic-hc-wxf991-camcorder-review-sharp-4k-video/"><u>Panasonic HC-WXF991 Camcorder Review: Sharp 4K Video</u></a></li>
+<li><a href="https://win-able.techidaily.com/sid-meiers-civ6-constant-disruptions-solved-top-tech-tweaks-and-adjustments-revealed/"><u>Sid Meier's Civ6 Constant Disruptions Solved: Top Tech Tweaks & Adjustments Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/simple-steps-to-track-down-and-recover-your-misplaced-airpods/"><u>Simple Steps to Track Down and Recover Your Misplaced AirPods</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-understanding-and-resolving-two-point-decrease-in-frame-rate-on-pc-platforms/"><u>Solved: Understanding and Resolving Two-Point Decrease in Frame Rate on PC Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-lag-issues-effective-techniques-to-reduce-your-back-4-blood-gameplay-latency/"><u>Solving Lag Issues: Effective Techniques to Reduce Your 'Back 4 Blood' Gameplay Latency</u></a></li>
+</ul></div>
 

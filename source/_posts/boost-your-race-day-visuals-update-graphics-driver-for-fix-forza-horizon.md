@@ -1,7 +1,7 @@
 ---
 title: Boost Your Race Day Visuals - Update Graphics Driver for Fix Forza Horizon
-date: 2024-10-31T23:44:46.402Z
-updated: 2024-11-07T01:24:09.866Z
+date: 2024-11-11T21:51:29.476Z
+updated: 2024-11-17T01:51:09.636Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 3. [**Scan and repair Windows**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Check your default GPU](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure you’re using the latest drivers
 
  The message is self-explanatory: **you need to check if you’re using the latest graphics driver** . The latest video driver gives your GPU a performance boost. But unlike system updates, most of the time you need to take care of driver updates yourself.
@@ -55,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -76,6 +76,13 @@ You can use the following steps to check for Minecraft updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-1.jpg)
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
 
 ##### Java edition
@@ -85,16 +92,10 @@ You can use the following steps to check for Minecraft updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Make sure you’re on the latest Windows
@@ -122,38 +123,11 @@ If you’re still seeing the message, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 Once done, restart Windows and try again in Minecraft.
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Check your default GPU
 
@@ -167,29 +141,49 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
 4. Click **Options** .  
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can restart Minecraft and check if the message is still there.
 
@@ -214,22 +208,20 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cognitive-conclaves-educational-yt-powerhouses-for-2024/"><u>[Updated] Cognitive Conclaves Educational YT Powerhouses for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-directors-toolkit-win8-for-2024/"><u>[Updated] Director's Toolkit Win8 for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-final-cut-pro-unlocked-how-to-edit-for-free/"><u>[Updated] Final Cut Pro Unlocked How to Edit for Free</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfecting-iphone-capture-and-record-at-once/"><u>[Updated] Perfecting iPhone Capture & Record at Once</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-vidcap-quality-check-top-choices-for-capturing-action-for-2024/"><u>[Updated] VidCap Quality Check Top Choices for Capturing Action for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/deciphering-the-fix-for-rusts-unwanted-visual-distortions/"><u>Deciphering the Fix for Rust's Unwanted Visual Distortions</u></a></li>
-<li><a href="https://win-able.techidaily.com/diablo-ii-resurrected-wont-start-up-identifying-and-solving-the-problems/"><u>Diablo II Resurrected Won’t Start Up – Identifying & Solving the Problems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/direct-link-to-download-hp-photosmart-7520-printers-essential-software/"><u>Direct Link to Download HP Photosmart 7520 Printer's Essential Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723003041571-dirt-navigate-game-crashing-woes-heres-how-to-get-unstuck-and-enjoy/"><u>Dirt Navigate Game Crashing Woes? Here's How to Get Unstuck & Enjoy!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722877411666-enhance-your-samsung-tv-with-the-latest-updates-easy-tutorial-included/"><u>Enhance Your Samsung TV with the Latest Updates - Easy Tutorial Included</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-clearing-crash-dump-files-on-your-windows-10-system/"><u>How-To: Clearing Crash Dump Files on Your Windows 10 System</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-infinix-hot-40-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Infinix Hot 40</u></a></li>
-<li><a href="https://win-able.techidaily.com/navigating-through-server-disconnection-woes-in-lost-ark/"><u>Navigating Through Server Disconnection Woes in Lost Ark</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-naraka-bladepoint-play-resolving-latency-problems-for-better-voice-and-frame-rate/"><u>Optimizing Naraka: Bladepoint Play – Resolving Latency Problems for Better Voice & Frame Rate</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-borderlands-3-launch-error-proven-fix-1-11-techniques/"><u>Troubleshooting 'Borderlands 3 Launch Error': Proven Fix #1-11 Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-overwatchs-launch-blues-strategies-to-defeat-the-black-screen-glitch/"><u>Troubleshooting Overwatch's Launch Blues - Strategies to Defeat the Black Screen Glitch</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012271490-warzone-error-code-0-1766-on-consoles-and-computers-solutions-and-fixes-unveiled/"><u>Warzone Error Code 0-1766 on Consoles and Computers: Solutions and Fixes Unveiled</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-dynamic-distortion-for-images-and-videos/"><u>[New] Dynamic Distortion for Images & Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unlocking-vimeo-content-step-by-step-free-and-licensed-tools-guide/"><u>[New] In 2024, Unlocking Vimeo Content Step-by-Step Free & Licensed Tools Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-innovative-ai-pixel-perfect-editor/"><u>[Updated] Innovative AI Pixel Perfect Editor</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-photo-viewer-revival-techniques-for-enhanced-windows-11-experience/"><u>[Updated] Photo Viewer Revival Techniques for Enhanced Windows 11 Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-playtime-resolve-puzzling-stuttering-moments-steady-frame-drops-and-unpredictable-lags-in-gaming/"><u>Boost Your Playtime: Resolve Puzzling Stuttering Moments, Steady Frame Drops & Unpredictable Lags in Gaming</u></a></li>
+<li><a href="https://facebook.techidaily.com/complete-blockade-of-all-fb-push-notifications/"><u>Complete Blockade of All Fb Push Notifications</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquered-the-challenge-fixing-and-moving-past-your-computer-cannot-connect-to-local-steam-client/"><u>Conquered the Challenge: Fixing and Moving Past 'Your Computer Cannot Connect to Local Steam Client'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enabling-mobile-internet-sharing-on-your-iphone-for-wireless-connectivity/"><u>Enabling Mobile Internet Sharing on Your iPhone for Wireless Connectivity</u></a></li>
+<li><a href="https://win-able.techidaily.com/google-meet-camera-woes-heres-how-you-can-fix-it-and-join-calls-seamlessly/"><u>Google Meet Camera Woes? Here's How You Can Fix It and Join Calls Seamlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/pacific-islanders-flying-problem-in-call-of-duty-warzone-now-fixed/"><u>Pacific Islanders' Flying Problem in Call of Duty: Warzone Now Fixed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/setting-the-record-straight-diablo-immortal-will-be-released-on-windows-and-mac-os-systems/"><u>Setting the Record Straight: Diablo Immortal Will Be Released on Windows & Mac OS Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-app-crash-fixing-steamuidll-not-found-critical-failure/"><u>Steam App Crash: Fixing 'steamui.dll Not Found' Critical Failure</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-resolving-the-0x800705b4-failure-during-windows-11-updates/"><u>Troubleshooting and Resolving the 0X800705B4 Failure During Windows 11 Updates</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-pc-issues-with-rainbow-six-extraction/"><u>Troubleshooting Guide: Resolving PC Issues with Rainbow Six Extraction</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-is-mastodon-really/"><u>What Is Mastodon Really?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Best Ways to Resolve Game-Crashing Error in Hearthstone for Personal Computers
-date: 2024-11-03T03:27:39.206Z
-updated: 2024-11-06T23:32:14.107Z
+date: 2024-11-15T07:53:57.757Z
+updated: 2024-11-17T10:34:32.426Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ The PC version of Days Gone is a solid port of a great game. But performance iss
 
 If this didn’t work, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Verify integrity of game files
 
  Oftentimes, corrupted or missing game files can prevent you from being able to play your game smoothly. Therefore, you should verify your game files in order to make sure they are intact. Here’s how to do this:
@@ -66,6 +59,13 @@ If this didn’t work, move on to the next fix.
   
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 However, if this didn’t help, proceed to the next fix.
 
 ## 3\. Adjust in-game settings
@@ -75,6 +75,13 @@ However, if this didn’t help, proceed to the next fix.
  1) Launch your game and select**OPTIONS** .  
   
 ![Days Gone adjust in-game settings ](https://images.drivereasy.com/wp-content/uploads/2021/05/adjust-in-game-settings-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select the**DISPLAY** tab. Then adjust the following settings:
 
@@ -86,19 +93,6 @@ However, if this didn’t help, proceed to the next fix.
  Then click**APPLY** .
 
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/disaply-tab.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**CONFIRM** .  
   
@@ -120,11 +114,25 @@ However, if this didn’t help, proceed to the next fix.
 
  Then save the changes and test your gameplay. If this didn’t give you any luck, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Update your graphics driver
 
  Low FPS, lagging gameplay, or poor graphics aren’t always caused by an old graphics card. Sometimes, updating your graphics driver can fix performance bottlenecks and introduce improvements that make your game significantly run smoother. Moreover, updating your graphics can ensure that you always have the newest features. Therefore, if you can’t remember when was the last time you updated your drivers, do it right now as it can make a big difference.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -176,21 +184,7 @@ Here’s how to update drivers with Driver Easy:
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/click-apply-and-ok.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this didn’t make a difference, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Customize graphics performance preference
 
@@ -199,13 +193,6 @@ If this didn’t make a difference, move on to the next fix.
  1) Right-click on the empty space from your desktop and select**Display settings** .  
   
 ![customize graphics performance preference ](https://images.drivereasy.com/wp-content/uploads/2021/05/display-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Scroll down and find**Graphics settings** and click on it.  
   
@@ -219,16 +206,16 @@ If this didn’t make a difference, move on to the next fix.
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-add.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**Options** .  
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Select**High performance** and click**Save** .  
   
@@ -247,10 +234,10 @@ After saving the changes, launch Days Gone and check if it helped.
 ![turn off background apps](https://images.drivereasy.com/wp-content/uploads/2021/05/privacy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Background apps** . Under the section**Let apps run in the background** , toggle the button to turn it**Off** .  
@@ -258,13 +245,6 @@ After saving the changes, launch Days Gone and check if it helped.
 ![turn off background apps](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-off-background-apps.jpg)
 
 Now launch Days Gone and check it can help fix the low frame rate.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Disable Windows 10 Game Mode
 
@@ -276,9 +256,23 @@ Now launch Days Gone and check it can help fix the low frame rate.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/gaming-1200x674.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select**Game Mode** . Then click the toggle to turn Game Mode**Off** .  
   
 ![disable Windows 10 game mode](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-game-mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve done this, you should be able to get a noticeable improvement.
 
@@ -301,18 +295,20 @@ Now launch Days Gone and check it can help fix the low frame rate.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-tricks-of-trade-remote-recording-mastery/"><u>[Updated] 2024 Approved Tricks of Trade Remote Recording Mastery</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/7-days-to-live-game-analysis-enhancing-zombie-fun-with-innovative-sandbox-elements/"><u>7 Days to Live Game Analysis: Enhancing Zombie Fun with Innovative Sandbox Elements</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-a-seamless-social-journey-from-instaplustik-for-2024/"><u>Crafting a Seamless Social Journey From Insta+Tik for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/einfache-anleitung-fur-den-schutz-und-export-ihrer-kompletten-mails-in-ms-outlook/"><u>Einfache Anleitung Für Den Schutz Und Export Ihrer Kompletten Mails in MS Outlook</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-overcoming-problems-with-non-responsive-google-chrome-browser/"><u>Expert Advice on Overcoming Problems with Non-Responsive Google Chrome Browser</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fixing-connectivity-issues-the-ultimate-guide-to-lg-usb-driver-setup-in-windows-1087/"><u>Fixing Connectivity Issues: The Ultimate Guide to LG USB Driver Setup in Windows 10/8/7</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-oddworld-soulstorm-pc-optimization-techniques-and-crash-fixes/"><u>Mastering Oddworld: Soulstorm - PC Optimization Techniques & Crash Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-gaming-experience-overcoming-the-nba-2k21-pc-crash-challenge/"><u>Smooth Gaming Experience: Overcoming the NBA 2K21 PC Crash Challenge</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-for-farming-simulator-22-not-starting-properly/"><u>Step-by-Step Troubleshooting for Farming Simulator 22 Not Starting Properly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-expert-advice-on-hardware/"><u>Tom's Tech Insights: Expert Advice on Hardware</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722998758079-trouble-launching-civilization-vi-solve-the-problems-for-a-smooth-windows-10-experience/"><u>Trouble Launching Civilization VI? Solve the Problems for a Smooth Windows #10 Experience</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>What is the best Pokemon for pokemon pvp ranking On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-the-art-of-social-media-videos-for-maximum-reach-for-2024/"><u>[New] Mastering the Art of Social Media Videos for Maximum Reach for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-football-manager-2021-stuck-on-loading-screen/"><u>[SOLVED] Football Manager 2021 Stuck On Loading Screen</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-crafting-360-worlds-top-picks-between-samsung-and-lg/"><u>[Updated] In 2024, Crafting 360 Worlds Top Picks Between Samsung & LG</u></a></li>
+<li><a href="https://win-able.techidaily.com/discord-cam-errors-demystified-effective-fixes-to-restore-your-webcam/"><u>Discord Cam Errors Demystified: Effective Fixes to Restore Your Webcam</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-correct-not-found-error-messages-when-running-applications-in-windows/"><u>Effective Strategies to Correct 'Not Found' Error Messages When Running Applications in Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-addressing-and-preventing-sea-of-thieves-software-bugs/"><u>Expert Advice on Addressing and Preventing Sea of Thieves Software Bugs</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-correcting-the-live-server-connection-refusal-dilemma/"><u>Expert Tips: Correcting the 'Live Server Connection Refusal' Dilemma</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-launch-errors-in-pathfinder-wrath-of-the-righteous-effective-solutions-for-gamers/"><u>Fixing Launch Errors in Pathfinder: Wrath of the Righteous – Effective Solutions for Gamers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-xs-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone XS without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-v30-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo V30 Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unboxing-premium-game-devices-youtube-edition/"><u>In 2024, Unboxing Premium Game Devices YouTube Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/reviving-the-acoustic-experience-solving-minecrafts-soundless-plight-on-computer-systems/"><u>Reviving the Acoustic Experience: Solving Minecraft’s Soundless Plight on Computer Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-zte-blade-a73-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your ZTE Blade A73 5G Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-reducing-frame-drops-and-lag-in-dota-2/"><u>Ultimate Guide to Reducing Frame Drops and Lag in Dota 2</u></a></li>
 </ul></div>
 

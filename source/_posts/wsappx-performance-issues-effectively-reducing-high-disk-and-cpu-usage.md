@@ -1,7 +1,7 @@
 ---
 title: "WSAPPX Performance Issues: Effectively Reducing High Disk and CPU Usage"
-date: 2024-09-01T08:00:49.482Z
-updated: 2024-09-02T08:00:49.482Z
+date: 2024-11-12T00:23:05.300Z
+updated: 2024-11-17T01:48:45.783Z
 tags:
   - win11
   - win10
@@ -39,15 +39,19 @@ The moment-to-moment gameplay of runnin’-and-gunnin’ is super fun, but playe
 10. [Run system file checker](https://tools.techidaily.com/drivereasy/download/)
 11. [Reinstall the game](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update Epic Games Launcher
 
  Actually, many Borderlands 3 gamers find the fix as simple as updating the Epic Games Launcher. If updates need to be installed, the launcher should automatically detect them.
 
  However, sometimes it just fails to install the update. The**Restart and Update** button under**Settings** is gone now, but you can restart Epic Games a few times to see if this magically works.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify integrity of game files
 
  It’s always wise and easy to check your game files first. Corrupted game files can stop Borderlands 3 from launching successfully. To see if that’s your problem, you need to verify the game files.
@@ -64,9 +68,6 @@ The moment-to-moment gameplay of runnin’-and-gunnin’ is super fun, but playe
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Run as administrator
 
  Borderlands 3 sometimes may not be able to access certain game files on your PC under normal user mode, which could be the cause of the not launching issue. To fix it, you can try running it as an administrator.
@@ -76,15 +77,16 @@ The moment-to-moment gameplay of runnin’-and-gunnin’ is super fun, but playe
 ![open epic launcher](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1020.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click the**Compatibility** tab and check the**Run this program as an administrator** box. Then click**Apply** and**OK** .
 
 ![go to the compatibility tab](https://images.drivereasy.com/wp-content/uploads/2019/09/image-997.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Go to the directory where you installed Borderlands 3, and run the .exe file as administrator as well.
 
  4) Relaunch**Borderlands 3** from the Epic Games Launcher to test the issue.
@@ -105,14 +107,18 @@ If the problem still persists, then go ahead with the fix below.
 
 ![update Windows](https://images.drivereasy.com/wp-content/uploads/2019/09/image-970.png)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or if it says**You’re up to date** , just click**Check for updates** . Windows will start searching for available updates and automatically download and install the updates if there are any.
 
  Once you’ve updated your system, perform a complete shutdown and restart your PC, then see if the issue is fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Update device drivers
 
@@ -133,9 +139,12 @@ If the problem still persists, then go ahead with the fix below.
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2019/09/image-974.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the**Update** button to download the correct version of all the drivers that are missing or out of date on your system, and then manually install it.
 
 ![update driver](https://images.drivereasy.com/wp-content/uploads/2019/09/image-975.png)
@@ -146,9 +155,6 @@ If the problem still persists, then go ahead with the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Fix 6: Reverting back to DX11
 
  If you try to enable DX12 on Borderlands 3 and get stuck in loading forever, you can try to set it back to DX11 and it will work again.
@@ -162,18 +168,12 @@ If the problem still persists, then go ahead with the fix below.
 
 ![DX12 to DX11](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1010.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4) Restart your PC and relaunch Borderlands 3 to test the issue.
 
  The support for DX12 API is still in beta stages for the game, so the issue will likely be fixed soon with an update, but it’s up to Gearbox Software to deliver the update in a timely manner. On the bright side, players who opted to play the game in DX11 mode are all set because it works perfectly fine in DX11 mode.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Temporarily disable anti-virus software
 
  Borderlands 3 not launching is sometimes caused by your third-party antivirus application. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists.
@@ -195,8 +195,12 @@ If the problem still persists, then go ahead with the fix below.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 9: Perform a clean boot
 
  If Borderlands 3 still fails to launch, it may be caused by other software on your PC. You may need a clean boot to find out the problematic software. Here is how to do it:
@@ -210,8 +214,18 @@ If the problem still persists, then go ahead with the fix below.
 ![open microsoft services](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1002.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Select the**Startup** tab and click**Open Task Manager** .
 
 ![open Start up](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1003.png)
@@ -220,12 +234,16 @@ If the problem still persists, then go ahead with the fix below.
 
 ![disable start up services](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1019.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click**Apply** \>**OK** .
 
 ![open start up settings](https://images.drivereasy.com/wp-content/uploads/2020/09/strat-up-apps.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Restart your PC and launch Borderland 3 to see if the game can launch normally.
 
@@ -238,6 +256,13 @@ If the problem still persists, then go ahead with the fix below.
  Once you find out the problematic software, you need to uninstall it to avoid running into the same issue in the future.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 10: Run system file checker
 
@@ -278,9 +303,6 @@ sfc /scannow
 
 ![borderlands 3 not launching fix](https://images.drivereasy.com/wp-content/uploads/2019/09/image-998.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Right-click**Borderlands 3** , then click**Uninstall** .
 
  Normally, Borderlands 3 can work properly again after you reinstall it. If it still doesn’t work, you may uninstall Epic Games as well.
@@ -299,8 +321,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -308,4 +328,21 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-acknowledgments-galore-cost-effective-templates-here/"><u>[New] 2024 Approved Acknowledgments Galore Cost-Effective Templates Here</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avchdmp4/"><u>「無料・劣化なし! AVCHDフォーマットをMP4に簡単に変換するオンラインアプリ」</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/cookiebot-enabled-optimized-website-performance-and-personalization/"><u>Cookiebot-Enabled: Optimized Website Performance and Personalization</u></a></li>
+<li><a href="https://win-able.techidaily.com/ghostwire-tokyo-pc-freeze-fix-masterful-methods-to-maintain-smooth-gameplay-on-your-computer/"><u>Ghostwire: Tokyo PC Freeze Fix? Masterful Methods to Maintain Smooth Gameplay on Your Computer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-gt-neo-5-se-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme GT Neo 5 SE?</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011915706-how-to-fix-starfield-wont-launch-on-steamxbox/"><u>How to Fix Starfield Won't Launch on Steam/Xbox</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-vivo-y100i-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y100i Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-chat-sessions-restored-solving-your-discord-crash-dilemma/"><u>Seamless Chat Sessions Restored: Solving Your Discord Crash Dilemma</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003070729-tiny-tinas-wonderlands-crashing-on-pc-fixed/"><u>Tiny Tina’s Wonderlands Crashing on PC [Fixed]</u></a></li>
+<li><a href="https://fox-info.techidaily.com/top-10-essential-gratuitous-lut-downloads-of-the-year/"><u>Top 10 Essential, Gratuitous LUT Downloads of the Year</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/utilizing-shellgpt-for-interfacing-with-microsofts-chatgpt-on-your-ubuntu-machine/"><u>Utilizing ShellGPT for Interfacing with Microsoft's ChatGPT on Your Ubuntu Machine</u></a></li>
+<li><a href="https://win-able.techidaily.com/wave-off-the-screen-jitters-top-tips-for-a-stable-display-viewing-experience/"><u>Wave Off the Screen Jitters - Top Tips for a Stable Display Viewing Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-strategies-for-handling-and-fixing-steam-sign-in-challenges/"><u>Winning Strategies for Handling and Fixing Steam Sign-In Challenges</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solve Dolby Atmos Sound Failure on Windows 11/10 – Expert Tips & Fixes
-date: 2024-10-31T03:31:19.147Z
-updated: 2024-11-06T16:41:49.567Z
+date: 2024-11-12T03:28:57.621Z
+updated: 2024-11-16T21:52:27.040Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 
  If you have trouble updating the game, you might just need a simple reboot.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  You can’t expect your game to work fine if there’re files missing or broken. So first you need to**run a scan of your game folder** .
@@ -48,23 +55,37 @@ Here’s how to do it on the Epic Games client:
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now you can try again and see if Civ 6 launches.
 
 If this doesn’t help, you can take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -79,13 +100,6 @@ If this doesn’t help, you can take a look at the next fix below.
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -103,13 +117,6 @@ If this doesn’t help, you can take a look at the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, check if you can get Civ 6 working now.
@@ -117,10 +124,10 @@ If this doesn’t help, you can take a look at the next fix below.
 If this solution doesn’t help, you can continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
@@ -131,27 +138,27 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
@@ -177,13 +184,6 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
  Hopefully, you’ve fixed the issue and can get your game working as expected. If you have any problems, simply leave a comment and we’ll get back to you.
@@ -205,18 +205,20 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-recording-companion-az-tests-and-alternatives/"><u>[New] 2024 Approved Ultimate Recording Companion - AZ Tests & Alternatives</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-quick-twitterscape-snag-gifs-with-these-tips/"><u>[New] In 2024, Quick Twitterscape Snag Gifs with These Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-shared-sights-untold-histories-revealed/"><u>2024 Approved Shared Sights Untold Histories Revealed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-ultimate-list-of-untapped-facebook-meme-havens/"><u>2024 Approved The Ultimate List of Untapped Facebook Meme Havens</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-psvr-2-updates-on-availability-price-points-and-specs-breakdown/"><u>All You Need to Know About PSVR 2 – Updates on Availability, Price Points, and Specs Breakdown</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-lag-expert-fixes-for-maplestorys-latest-windows-11-issues-202eb/"><u>Beat the Lag: Expert Fixes for MapleStory's Latest Windows 11 Issues (202Eb)</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-streamrecord-lags-in-obs-step-by-step-troubleshooting-guide/"><u>Fixing Stream/Record Lags in Obs: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-resolve-discord-camera-malfunction-on-your-device/"><u>Fixing the Issue: How to Resolve 'Discord Camera Malfunction' On Your Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-fixes-for-palworlds-persistent-session-lookup-failures/"><u>Mastering Fixes for Palworld's Persistent Session Lookup Failures</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/protect-your-privacy-expert-tips-for-finding-and-deleting-spyware-on-android-phones-using-malwarefox/"><u>Protect Your Privacy: Expert Tips for Finding and Deleting Spyware on Android Phones Using MalwareFox</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-for-fixing-half-life-alyxs-latency-and-stuttering-on-personal-computers/"><u>Troubleshooting Techniques for Fixing Half-Life: Alyx's Latency & Stuttering on Personal Computers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlock-high-res-video-leading-4k-conversion-tools/"><u>Unlock High-Res Video Leading 4K Conversion Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/windows-11-startup-problems-solved-easy-fix-for-non-responsive-menus/"><u>Windows 11 Startup Problems Solved – Easy Fix for Non-Responsive Menus</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-time-hopping-through-facebook-stories-a-device-based-expedition-for-2024/"><u>[Updated] Time-Hopping Through Facebook Stories A Device-Based Expedition for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/biomeutant-pc-game-crashes-essential-troubleshooting-guide/"><u>Biomeutant PC Game Crashes : Essential Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/bug-free-gaming-awaits-overcoming-pc-crashes-in-subnautica-below-zero/"><u>Bug-Free Gaming Awaits: Overcoming PC Crashes in Subnautica: Below Zero</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-assessment-of-the-amazonbasics-7-port-usb-30-connectivity-solution/"><u>Comprehensive Assessment of the AmazonBasics 7-Port USB 3.0 Connectivity Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-design-with-chatgpts-user-persona-creation/"><u>Enhancing Design with ChatGPT's User Persona Creation</u></a></li>
+<li><a href="https://win-able.techidaily.com/escalating-frames-per-second-fps-a-guide-to-superior-play-in-tainted-grail-conquest/"><u>Escalating Frames Per Second (FPS) - A Guide to Superior Play in 'Tainted Grail: Conquest'</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-connection-issues-in-call-of-duty-warzone-for-pc-users/"><u>Fixing Connection Issues in Call of Duty: Warzone for PC Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-an-iphone-with-malfunctioning-proximity-detection-feature/"><u>How to Repair an iPhone with Malfunctioning Proximity Detection Feature</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-15-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 15 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-infinix-smart-7-hd-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Infinix Smart 7 HD to iPhone | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-an-apple-user-interested-in-adding-a-slow-mo-to-their-videos-this-article-features-an-exceptional-procedure-for-creating-slow-mo-in-imov/"><u>New In 2024, Are You an Apple User Interested in Adding a Slow-Mo to Their Videos? This Article Features an Exceptional Procedure for Creating Slow-Mo in iMovie</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-huge-capture-up-to-1500-off-lenovos-thrilling-bi-yearly-blowout-exclusive-thinkpad-deals-unveiled/"><u>Save Huge: Capture Up To $1,500 Off Lenovo's Thrilling Bi-Yearly Blowout - Exclusive ThinkPad Deals Unveiled!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-essential-dictionary-of-casual-speech/"><u>The Essential Dictionary of Casual Speech</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tricks-to-overcome-the-blackout-in-cod-warzone/"><u>Top Tricks to Overcome the Blackout in COD: Warzone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-roblox-glitches-instantly-top-6-fixes-for-pc-players-updated-guide-2024/"><u>Troubleshoot Roblox Glitches Instantly: Top 6 Fixes for PC Players - Updated Guide 2024</u></a></li>
 </ul></div>
 

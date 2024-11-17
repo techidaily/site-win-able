@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Addressing and Fixing Hearthstone Crashes on Desktop Systems"
-date: 2024-11-06T00:48:32.513Z
-updated: 2024-11-07T00:40:10.549Z
+date: 2024-11-13T17:29:14.656Z
+updated: 2024-11-16T21:31:10.761Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 3. Click![](https://images.drivereasy.com/wp-content/uploads/2020/02/options.png) below the title of the game and select**Scan and Repair** .
 4. Click**Begin Scan** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Wait for the repair to finish.
 
 ### Fix 3: Update your graphics card driver
@@ -83,32 +90,11 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2020/02/scan-now-5.png)
 3. Click the Update button next to the flagged video card to automatically download the correct version of their driver (you can do this with the FREE version), then install the driver manually on your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **OR** click**_Update All_** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ , which comes with a 30-day no question asked money back guarantee.)  
 ![update your drivers by clicking Update or Update all](https://images.drivereasy.com/wp-content/uploads/2020/02/update-all-your-drivers-2-9.jpg)  
  _Note: If you experience any problems when using Driver Easy Pro, please contact our support team at_ [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer and check if**Starcraft 2 crashing issue** s still persist.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Stop overclocking
 
@@ -124,20 +110,13 @@ _Note: This method applies only to the_ non-reference model cards_._
 
 ![debug-mode-nvidia](https://images.drivereasy.com/wp-content/uploads/2020/02/Debug-Mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will help you downclock any factory overclocked graphics card to Nvidia reference clock speeds. Although generally speaking, overclocking provides better performance in games and graphics-intensive applications, it can sometimes cause crashing issues and shorten the lifespan of your graphics card.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Reset your Starcraft 2 in-game options
@@ -149,10 +128,10 @@ _Note: This method applies only to the_ non-reference model cards_._
 3. Scroll down to Starcraft 2 and click the**Reset In-Game Options** .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click **Reset** .
@@ -162,11 +141,25 @@ _Note: This method applies only to the_ non-reference model cards_._
 
  If this doesn’t work, you can restore the driver settings to default by referring to **[How to Reset Video Driver Settings](https://us.battle.net/support/en/article/24142)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Make an exception for Starcraft 2 in your Antivirus app
 
  If you have any third-party antivirus app installed, you might need to uninstall it temporarily or you can try **adding Starcraft 2 as an exception to your third-party antivirus application** .
 
  If you don’t know how to do it, you can consult your antivirus documentation for instructions or search **How to Add Antivirus Exclusions to \[name of your antivirus app\]** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Run Starcraft 2 as administrator
 
@@ -192,10 +185,10 @@ _Note: This method applies only to the_ non-reference model cards_._
  If this temporary method works for you, you’ll need to repeat these steps every time you start your game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 9: Run Starcraft 2 in windowed mode
@@ -208,6 +201,13 @@ _Note: This method applies only to the_ non-reference model cards_._
 4. Type **\-Displaymode 0**
 
  If the Starcraft 2 crashing issue still persists in windowed mode, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 10: Perform a clean boot
 
@@ -252,20 +252,24 @@ _Note: This method applies only to the_ non-reference model cards_._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-list-top-10-live-streaming-networks-ranked/"><u>[New] Exclusive List Top 10 Live Streaming Networks Ranked</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-20-timeless-anime-themes-making-a-mark-on-tiktok/"><u>[Updated] 2024 Approved 20 Timeless Anime Themes Making a Mark on TikTok</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-superior-card-selection-for-4k-edit-workstations-for-2024/"><u>[Updated] Superior Card Selection for 4K Edit Workstations for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/diablo-2-resurrected-stability-issues-addressed-and-resolved/"><u>Diablo 2 Resurrected Stability Issues Addressed and Resolved</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723006496429-get-your-discord-overlay-back-on-a-fast-and-simple-guide/"><u>Get Your Discord Overlay Back On - A Fast and Simple Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-get-doom-eternal-running-if-it-wont-start-expert-fixes-revealed/"><u>How to Get DOOM Eternal Running if It Won’t Start - Expert Fixes Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-lag-control-top-strategies-to-address-and-fix-frame-drops-in-bless-unleashed-on-pc/"><u>Mastering Lag Control: Top Strategies to Address and Fix Frame Drops in Bless Unleashed on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-sf7-pc-errors-expert-advice-to-ensure-uninterrupted-gaming-experience/"><u>Overcome SF7 PC Errors: Expert Advice to Ensure Uninterrupted Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-roblox-loading-screen-hurdle-effective-solutions-found/"><u>Overcoming the Roblox Loading Screen Hurdle: Effective Solutions Found</u></a></li>
-<li><a href="https://win-unique.techidaily.com/pre-order-microsofts-latest-affordable-powerhouse-the-new-599-surface-laptop-go-2-techspot/"><u>Pre-Order Microsoft's Latest Affordable Powerhouse: The New $599 Surface Laptop Go 2 | TechSpot</u></a></li>
-<li><a href="https://games-able.techidaily.com/precursors-in-selecting-an-ideal-portable-gaming-system/"><u>Precursors in Selecting an Ideal Portable Gaming System</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/schritt-fur-schritt-anleitung-zum-inkrementellen-sicherung-einer-externen-festplatte/"><u>Schritt-Für-Schritt Anleitung Zum Inkrementellen Sicherung Einer Externen Festplatte</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/smoothmoves-recordwatcher-study/"><u>SmoothMoves RecordWatcher Study</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-vivo-s18e-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo S18e? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-6-tips-to-avoid-gameplay-interruptions-street-fighter/"><u>Top 6 Tips to Avoid Gameplay Interruptions - Street Fighter</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-universal-approach-how-to-record-any-youtube-stream-on-different-devices/"><u>[New] In 2024, Universal Approach How To Record Any YouTube Stream on Different Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nspire-creativity-brainstorming-for-channels-names-for-2024/"><u>[New] Inspire Creativity Brainstorming for Channels' Names for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-changing-ideas-inspiring-videos-to-enhance-creativity/"><u>[Updated] In 2024, Channel-Changing Ideas Inspiring Videos to Enhance Creativity</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-to-convert-your-best-videography-into-melodic-mp3s-insta/"><u>[Updated] In 2024, How to Convert Your Best Videography Into Melodic MP3s (Insta)</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-gaming-experience-tips-for-resolving-cs-2s-frames-per-second-fps-problems/"><u>Boost Your Gaming Experience: Tips for Resolving CS 2'S Frames Per Second (FPS) Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/deathloop-for-pc-troubleshooting-and-solutions-to-eliminate-stuttering-performance/"><u>Deathloop for PC: Troubleshooting and Solutions to Eliminate Stuttering Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012567852-effortless-solutions-for-persistent-program-malfunction-fast-resolution-techniques/"><u>Effortless Solutions for Persistent Program Malfunction – Fast Resolution Techniques!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/foobar2000-wave-router/"><u>Foobar2000 Wave Router</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuit-swf-videobestanden-in-wav-format-beheren-professioneel-konverteren-met-movavi/"><u>Gratuit SWF-Videobestanden in WAV Format Beheren: Professioneel Konverteren Met Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-6-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 6 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-ubisoft-connect-problems-easily-tips-and-fixes/"><u>Resolve Ubisoft Connect Problems Easily - Tips and Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-frozen-frames-critical-patches-bring-relief-for-gaming-enthusiasts/"><u>Say Goodbye to Frozen Frames - Critical Patches Bring Relief for Gaming Enthusiasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fixing-cyberpunk-2077s-excessive-cpu-consumption/"><u>Solved: Fixing Cyberpunk 2077'S Excessive CPU Consumption</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-mystery-of-modern-warfares-error-code-6034-a-step-by-step-guide-for-players/"><u>Solving the Mystery of Modern Warfare's Error Code 6034: A Step-by-Step Guide for Players</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-all-rounder-for-gamers-unveiling-the-potential-of-the-cost-effective-dell-g5-a-comprehensive-analysis/"><u>The All-Rounder for Gamers: Unveiling the Potential of the Cost-Effective Dell G5 ☕️💻 - A Comprehensive Analysis</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-hitman-3-solutions-for-overcoming-the-elusive-connection-issue/"><u>Troubleshooting Hitman 3 - Solutions for Overcoming the Elusive Connection Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-overcoming-delays-and-enhancing-speed-in-naraka-bladesports/"><u>Ultimate Guide: Overcoming Delays and Enhancing Speed in Naraka Bladesports</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/vlc-player/"><u>VLC Playerで簡単に再生リストを構築するための手順</u></a></li>
 </ul></div>
 

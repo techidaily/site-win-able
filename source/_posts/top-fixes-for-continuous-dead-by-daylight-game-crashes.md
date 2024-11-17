@@ -1,7 +1,7 @@
 ---
 title: Top Fixes for Continuous Dead By Daylight Game Crashes
-date: 2024-09-01T08:00:45.543Z
-updated: 2024-09-02T08:00:45.543Z
+date: 2024-11-10T09:22:37.036Z
+updated: 2024-11-16T19:32:04.181Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 
 **Try disabling overlays for Dark Souls 3** and see if your game stops crashing.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run in Windowed mode
 
  If you play Dark Souls 3 in Fullscreen mode, it may crash to your desktop. In this case, you can fix your game crashing problem by switching to**Windowed mode** .
@@ -65,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 
  Your problem still persists, don’t worry. There are other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your video driver
 
  Many players have reported that the graphics card driver may be the culprit to the crashing issue, and updating the graphics driver helps resolve the problem. So you should update your graphics card driver to the latest version.
@@ -87,17 +81,35 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-706.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ ).
 
  Note: You can do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-707.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Once your driver has been updated, restart your computer.
 
 Now launch Dark Souls 3 and see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Set game options to LOW
 
@@ -107,9 +119,6 @@ Now launch Dark Souls 3 and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If you can’t access the in-game settings, try this:
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box.
@@ -126,10 +135,6 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-711.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 6) Save your file changes and restart your game.
 
 Then play your game to see if it works properly.
@@ -137,8 +142,12 @@ Then play your game to see if it works properly.
  Still no luck? Don’t give up hope. There’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Verify Integrity of Game Files
 
  You can try verifying integrity of game files in Steam app if games crash. Here’s how to do it:
@@ -150,9 +159,12 @@ Then play your game to see if it works properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
@@ -177,8 +189,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +196,20 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-boosting-engagement-the-key-to-creating-top-facebook-covers-for-2024/"><u>[Updated] Boosting Engagement The Key to Creating Top Facebook Covers for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-ultimate-gimbal-picks-for-dslr-quality-videos/"><u>[Updated] In 2024, Ultimate Gimbal Picks for DSLR-Quality Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-step-by-step-guide-to-creating-a-peak-vr-environment/"><u>[Updated] Step-by-Step Guide to Creating a Peak VR Environment</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210087630-9781722526030-6-steps-to-total-self-healing/"><u>6 Steps to Total Self-Healing | Free Book</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-mastering-ppt-recording-essential-tips/"><u>In 2024, Mastering PPT Recording Essential Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphones-leading-selfie-aids-8-edition-for-2024/"><u>Iphone's Leading Selfie Aids - #8 Edition for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/kernelbasedll-dilemma-overcome-instant-crashing-issues-now/"><u>KernelBase.dll Dilemma? Overcome Instant Crashing Issues Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterful-maneuvers-resolving-stuck-update-problems-in-the-minecraft-native-launcher/"><u>Masterful Maneuvers: Resolving Stuck Update Problems in the Minecraft Native Launcher</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-puzzle-top-11-ways-to-get-borderlands-3-running-smoothly/"><u>Solving the Puzzle: Top 11 Ways to Get Borderlands 3 Running Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-failed-game-start-how-to-check-and-fix-your-game-files/"><u>Troubleshooting Failed Game Start: How to Check and Fix Your Game Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-gpu-activation-issues-for-call-of-duty-warzone-players-on-windows-11-systems/"><u>Troubleshooting GPU Activation Issues for Call of Duty: Warzone Players on Windows 11 Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-6-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone 6</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wmvogv-onlinetoolscom/"><u>WMV/OGV 이미지를 무료로 스트리밍하는 방법 - Onlinetools.com</u></a></li>
+</ul></div>
 

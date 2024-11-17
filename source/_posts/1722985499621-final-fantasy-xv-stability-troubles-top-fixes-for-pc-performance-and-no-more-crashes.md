@@ -1,7 +1,7 @@
 ---
 title: Final Fantasy XV Stability Troubles? Top Fixes for PC Performance and No More Crashes
-date: 2024-09-01T08:04:09.777Z
-updated: 2024-09-02T08:04:09.777Z
+date: 2024-11-11T03:28:06.073Z
+updated: 2024-11-17T00:42:44.150Z
 tags:
   - win11
   - win10
@@ -42,13 +42,17 @@ The final Fantasy series brings us a lot of fun and excitement until it crashes 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap34.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right click on your game (for example, Final Fantasy XV), and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap35.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap36.jpg)
@@ -59,9 +63,6 @@ The final Fantasy series brings us a lot of fun and excitement until it crashes 
 
  If your game stops crashing, that’s perfect. But if your problem persists, don’t worry. There are other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Roll back your graphics card driver
 
  If you’ve updated your graphics card driver right before Final Fantasy keeps crashing, your problem probably lies in your graphics card driver. In this case, you can roll back your graphics driver.
@@ -96,9 +97,6 @@ This requires time and computer skills.
 
 Now restart your PC and launch Final Fantasy to see how it works.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Modify your pagefile size
 
  Final Fantasy XV may crash if the pagefile size is set inappropriately. You can modify your pagefile settings to fix your problem.
@@ -114,33 +112,48 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap41.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Advanced system settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap42.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) When the**System Properties** pane pops up, click**Settings** under the**Performance** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap43.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click the**Advanced** tab on**Performance Options** , then click**Change** under the**Virtual memory** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap44.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  6) If the pagefile size is already set manually, you can set your pagefile size automatically. Just check the box next to**Automatically manage paging file size for all drives** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap45.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If your PC is set to automatically manage paging file size, you can manually set the pagefile size:
 
  a. Uncheck**Automatically manage paging file size for all drives** ,  
@@ -151,13 +164,24 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap50.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) After changing your pagefile size, restart Windows.
 
  Open Final Fantasy and see if it stops crashing. Still no luck? Don’t give up hope. There are other solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Disable NVIDIA Turf Effects
 
  NVIDIA Turf Effects simulates and renders large grass areas, which provides you with a best possible experience when playing Final Fantasy. However, Turf Effects may cause a memory problem and that could be a reason of your game crashing.
@@ -171,8 +195,12 @@ To resolve Final Fantasy crashing, you can disable NVIDIA Turf Effects.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap51.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) Save your changes and relaunch FFXV.
 
  If you can’t open Settings in Final Fantasy XV, you can modify the game settings file in your computer, and change**NvidiaTurf=0** . This will disable NVIDIA Turf Effects for your game.
@@ -194,8 +222,6 @@ Hopefully your game will be running up again properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +229,24 @@ Hopefully your game will be running up again properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-expert-techniques-mastering-text-additions-on-tiktok-for-2024/"><u>[New] Expert Techniques Mastering Text Additions on TikTok for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-eternal-return-black-survival-crash/"><u>[SOLVED] Eternal Return: Black Survival Crash</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-full-screen-capture-excellence-4-leading-pcmac-programs-for-2024/"><u>[Updated] Full Screen Capture Excellence 4 Leading PC/Mac Programs for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-strategies-to-maximize-mobile-income-from-youtube/"><u>2024 Approved Strategies to Maximize Mobile Income From YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-techniques-for-capturing-uac-alerts/"><u>Advanced Techniques for Capturing UAC Alerts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210500794-9781591434443-animal-wayshowers/"><u>Animal Wayshowers | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/breeze-through-fixing-javascript-hiccups-in-discord-chatbot-development/"><u>Breeze Through Fixing JavaScript Hiccups in Discord Chatbot Development</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cookiebot-technology-revolutionizing-personalized-advertising-and-analytics/"><u>Cookiebot Technology – Revolutionizing Personalized Advertising and Analytics</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-deathloop-gaming-experience-eliminating-pc-crashes-and-frame-drops/"><u>Enhance Deathloop Gaming Experience: Eliminating PC Crashes and Frame Drops</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-origin-slow-download-speed-2024-tips/"><u>How to Fix Origin Slow Download Speed – 2024 Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/navigating-lut-integration-in-adobe-ae/"><u>Navigating LUT Integration in Adobe AE</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-overcoming-persona-3-reboot-challenges-and-launch-successfully/"><u>Step-by-Step Guide to Overcoming Persona 3 Reboot Challenges and Launch Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/struggling-with-battlefield-5-boot-up-problems-discover-effortless-fixes-in-our-latest-guide/"><u>Struggling with Battlefield 5 Boot-Up Problems? Discover Effortless Fixes in Our Latest Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/to-windows-11-or-not-assessing-your-systems-compatibility/"><u>To Windows 11 or Not: Assessing Your System's Compatibility</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/transform-into-a-social-media-star-by-mimicking-yourself-on-tiktok/"><u>Transform Into a Social Media Star by Mimicking Yourself on TikTok</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-low-frame-rates-expert-tips-to-enhance-your-gaming-experience-in-new-world/"><u>Troubleshooting Low Frame Rates: Expert Tips to Enhance Your Gaming Experience in New World</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-successfully-navigating-through-fortnite-version-ls-0013-launch-glitches/"><u>Troubleshooting Successfully: Navigating Through Fortnite Version LS-0013 Launch Glitches</u></a></li>
+</ul></div>
 

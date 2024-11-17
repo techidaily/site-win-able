@@ -1,7 +1,7 @@
 ---
 title: Successfully Installing and Playing Tiny Tina's Assault on Dragon Keepers - PC Fix Guide
-date: 2024-11-04T23:23:58.010Z
-updated: 2024-11-06T16:55:10.294Z
+date: 2024-11-10T11:33:42.765Z
+updated: 2024-11-17T01:53:16.129Z
 tags:
   - win11
   - win10
@@ -33,6 +33,19 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC specs meet the requirements
 
  Before you try anything more advanced, first check your PC specs. Immortals Fenyx Rising is a demanding game, both to your skills and PC hardware. A decent setup is a must if you expect a smooth gaming experience. If you find your specs don’t meet the game requirements below, then maybe it’s time for an upgrade.
@@ -59,13 +72,6 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -77,21 +83,7 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
@@ -121,21 +113,28 @@ If this method doesn’t help, you can take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -146,6 +145,13 @@ And here’s how you can make sure your system is the latest:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -172,20 +178,21 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-discover-your-future-with-window-11s-innovative-creations-for-2024/"><u>[New] Discover Your Future with Window 11'S Innovative Creations for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-tips-for-a-smooth-transition-into-vr-worlds/"><u>[Updated] In 2024, Tips for a Smooth Transition Into VR Worlds</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-v29e-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo V29e</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-inspiring-14-animated-text-concepts/"><u>2024 Approved Inspiring 14 Animated Text Concepts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/2024s-most-exceptional-computer-sound-solutions-discover-the-leading-brands-and-models/"><u>2024'S Most Exceptional Computer Sound Solutions – Discover the Leading Brands and Models</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-stop-f1-202n-game-from-crashing-on-your-computer/"><u>Fixes and Solutions: Stop F1 202N Game From Crashing on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-past-the-stuck-launch-screen-in-updated-dota-2-version/"><u>Getting Past the Stuck Launch Screen in Updated Dota 2 Version</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo V29 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/latest-strategies-to-solve-division-2-startup-problems/"><u>Latest Strategies to Solve Division 2 Startup Problems</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ring-online-income-from-youtubes-adsense-to-direct-payments/"><u>Mastering Online Income From YouTube's AdSense to Direct Payments</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-system-interruptions-nier-replicant-crashes-now-sorted/"><u>Overcoming System Interruptions - NieR: Replicant Crashes Now Sorted</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-silence-a-guide-to-enable-spatial-audio-on-microsofts-latest-os-versions/"><u>Overcoming the Silence: A Guide to Enable Spatial Audio on Microsoft's Latest OS Versions</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-tfla0002-issue-in-final-exams-a-step-by-step-guide/"><u>Resolving the 'TFLA0002' Issue in Final Exams: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/single-frame-solution-separate-and-save-pics-from-video-in-windows-photos-for-2024/"><u>Single-Frame Solution Separate and Save Pics From Video in Windows Photos for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-definitive-fixes-to-overcome-firefox-freezing-problems-in-the-new-year/"><u>The Definitive Fixes to Overcome Firefox Freezing Problems in the New Year</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ace-trackers-our-top-five-games-for-2024/"><u>[Updated] Ace Trackers Our Top Five Games for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-v27-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-ascending-audio-the-ultimate-budget-friendly-asmr-kit-selection/"><u>2024 Approved Ascending Audio - The Ultimate Budget-Friendly ASMR Kit Selection</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-direct-confrontation-assessing-obs-versus-twitch-hubs/"><u>2024 Approved Direct Confrontation Assessing OBS versus Twitch Hubs</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029582753-mp3/"><u>無料MP3編集ツール：効率的に曲を切り貼り・ボリューム調整する方法</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726030292130-wavmp3/"><u>無料で音質保持したWAVからMP3への最適な変換手順</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-adding-the-latest-distrotv-extension-for-live-streaming-and-on-demand-content-in-kodi/"><u>Easy Steps: Adding the Latest DistroTV Extension for Live Streaming and On-Demand Content in Kodi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratis-m4v-en-wav-vervanger-online-expertise-van-movavi/"><u>Gratis M4V en WAV Vervanger Online - Expertise Van Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comparing-hero4-and-hero5-capabilities/"><u>In 2024, Comparing Hero4 and Hero5 Capabilities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unraveling-the-warped-world-of-gopro-fisheye-effects/"><u>In 2024, Unraveling The Warped World of GoPro Fisheye Effects</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/post-update-printer-problem-resolved-and-happy-again/"><u>Post-Update Printer Problem: Resolved and Happy Again!</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-transformation-guide-mastering-video-sizes-using-the-ultimate-aspect-ratio-converter-tool/"><u>Seamless Transformation Guide: Mastering Video Sizes Using the Ultimate Aspect Ratio Converter Tool</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-modifying-h265-hevc-videos-on-windows-windows-10-and-11/"><u>Step-by-Step Guide to Modifying H.265 HEVC Videos on Windows (Windows 10 & 11)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-definitive-guide-to-ankers-super-bright-rugged-flashlight-for-adventurers/"><u>The Definitive Guide to Anker's Super Bright, Rugged Flashlight for Adventurers</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726028012753-windows-movie-maker/"><u>Windows Movie Makerの手軽なセットアップ:最新バージョンをダウンロードするチュートリアル</u></a></li>
+<li><a href="https://win-able.techidaily.com/gifjpgjpeg/"><u>ベストのGIFからJPG/JPEG変換ソフトウェアリスト</u></a></li>
 </ul></div>
 

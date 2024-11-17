@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Making Steam Acknowledge Your Controller on a PC"
-date: 2024-10-30T18:28:44.569Z
-updated: 2024-11-06T18:17:43.620Z
+date: 2024-11-09T20:36:19.653Z
+updated: 2024-11-16T16:56:54.177Z
 tags:
   - win11
   - win10
@@ -34,16 +34,10 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify game integrity
@@ -58,6 +52,13 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
@@ -70,13 +71,6 @@ Here is how to verify the integrity of Dauntless:
  you can try lowering it back to the default setting. If not, or it doesn’t help with the situation, you should move on to**Fix 3** , below to see if it fixes the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -91,6 +85,13 @@ Here is how to verify the integrity of Dauntless:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -133,10 +134,10 @@ Here is how to verify the integrity of Dauntless:
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
@@ -145,29 +146,28 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -192,22 +192,20 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-infuse-personality-into-your-content-with-custom-thumbnails/"><u>[New] In 2024, Infuse Personality Into Your Content with Custom Thumbnails</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-instantly-optimize-iphone-videos-in-size-and-duration/"><u>[New] In 2024, Instantly Optimize iPhone Videos in Size and Duration</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-prime-racing-lineup-the-quintet-of-choice/"><u>[New] Prime Racing Lineup The Quintet of Choice</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-genshin-impact-error-4201/"><u>[SOLVED] Genshin Impact Error 4201</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-unveiling-the-full-potential-sony-action-camera-review/"><u>[Updated] In 2024, Unveiling the Full Potential - Sony Action Camera Review</u></a></li>
-<li><a href="https://win-able.techidaily.com/clearing-up-nvidia-geforce-experience-problem-decode-and-repair-error-0x0003/"><u>Clearing Up Nvidia Geforce Experience Problem: Decode and Repair Error 0X0003</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-ways-to-address-and-fix-days-gone-crashes-edition/"><u>Effective Ways to Address and Fix 'Days Gone' Crashes Edition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevating-academia-4-key-ai-approaches/"><u>Elevating Academia: 4 Key AI Approaches</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-the-crashing-issue-in-elite-dangerous-on-your-computer-today/"><u>Fix the Crashing Issue in Elite Dangerous on Your Computer Today</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-eliminate-your-discord-servers-desktop-and-android-tips/"><u>In 2024, Eliminate Your Discord Servers Desktop & Android Tips</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-essential-guide-to-creating-cinematic-videos-in-camtasa/"><u>In 2024, The Essential Guide to Creating Cinematic Videos in Camtasa</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210309597-9781801348553-manifesting-money-abundance-blueprint-the-law-of-attraction/"><u>Manifesting Money & Abundance Blueprint- The Law Of Attraction | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-the-ultimate-hardware-resource/"><u>Mastering Gadgets with Tom: The Ultimate Hardware Resource</u></a></li>
-<li><a href="https://win-able.techidaily.com/navigating-tarkovs-challenges-in-depth-instructions-for-fixing-error-103003/"><u>Navigating Tarkov's Challenges: In-Depth Instructions for Fixing Error 103003</u></a></li>
-<li><a href="https://win-able.techidaily.com/on-the-go-car-management-how-to-utilize-driver-easys-compact-toolkit/"><u>On-the-Go Car Management: How to Utilize Driver Easy's Compact Toolkit</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-initialization-errors-making-your-evil-genius-2-game-run-smoothly/"><u>Overcoming Initialization Errors: Making Your Evil Genius 2 Game Run Smoothly</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-stuck-screens-in-minecraft-solutions-for-pc-users/"><u>Overcoming Stuck Screens in Minecraft - Solutions for PC Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-elevating-low-light-images-on-your-iphone/"><u>[New] 2024 Approved Elevating Low-Light Images on Your iPhone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011026002-guide-to-correcting-black-ops-cold-wars-0xc000005-error-game-now-functional/"><u>Guide to Correcting Black Ops Cold War's 0Xc0000#05 Error - Game Now Functional!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-connectivity-errors-in-apex-legends-step-by-step-guide/"><u>How to Overcome Connectivity Errors in Apex Legends: Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/insta-story-magic-embedding-youtube-links-like-a-pro-for-2024/"><u>Insta Story Magic Embedding YouTube Links Like a Pro for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-connection-problems-here-are-proven-fixes-for-a-smooth-gameplay-experience/"><u>Minecraft Connection Problems? Here Are Proven Fixes for a Smooth Gameplay Experience!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-keyboard-malfunctions-expert-advice-for-wrath-of-the-rightee-pathfinders/"><u>Overcoming Keyboard Malfunctions: Expert Advice for 'Wrath of the Rightee' Pathfinders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/sonic-showcase-audio-updates/"><u>Sonic Showcase Audio Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-approach-to-resolve-the-windows-update-malfunction-error-code-0x8024401c-in-windows-1011/"><u>Step-by-Step Approach to Resolve the Windows Update Malfunction (Error Code 0X8024401C) in Windows 10/11</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-fix-frequent-vr-game-crashes-on-pc/"><u>Step-by-Step Solutions to Fix Frequent VR Game Crashes on PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-apple-watch-applications-enhancing-your-slumber-experience/"><u>Top 5 Apple Watch Applications Enhancing Your Slumber Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-exclusive-october-2024-sales-on-premium-laptops-insider-tips-and-tricks/"><u>Top Picks: Exclusive October 2024 Sales on Premium Laptops - Insider Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-decreased-frame-rates-solutions-for-dota-2-under-windows-1110/"><u>Troubleshooting Decreased Frame Rates: Solutions for Dota 2 Under Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-stable-internet-windows-edition-guide/"><u>Troubleshooting Stable Internet: Windows Edition Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-dirt-5-continuously-fails-on-your-desktop-pc/"><u>Troubleshooting Steps When Dirt 5 Continuously Fails on Your Desktop PC</u></a></li>
 </ul></div>
 

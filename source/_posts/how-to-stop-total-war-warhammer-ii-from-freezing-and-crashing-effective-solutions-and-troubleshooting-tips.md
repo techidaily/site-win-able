@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips"
-date: 2024-11-01T22:30:36.031Z
-updated: 2024-11-06T20:38:06.408Z
+date: 2024-11-12T23:10:36.535Z
+updated: 2024-11-17T06:23:48.729Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
  If you’re using a Wi-Fi connection, try using an ethernet cable. An ethernet cable can provide a more stable internet connection. If that’s not an option, you can instead, move your computer closer to your router as the distance between your PC and the Router could also affect your Wi-Fi connection and your gaming performance.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your graphics driver
 
  Outdated graphics drivers, of course, are the most common culprit to game issues. Be sure to download and install the correct driver set for your video card.
@@ -71,23 +64,17 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -97,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
  Relaunch the game to test your issue. If it’s still occurring, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Verify Warframe cache files
@@ -114,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
  This will compare your game files with those of the latest version on Warframe’s content distribution network (CDN), replaces any bad game data, and update outdated files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-35-03.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  After the process is complete, click**Optimize** .
 
@@ -138,6 +118,13 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
@@ -145,6 +132,13 @@ Your game still freezes? Try the next fix below.
 **4)** Click**Confirm** on the bottom-right corner of your screen to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If your issue persists, then move on to the next fix below.
 
@@ -185,16 +179,17 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-video-downloader-round-up-1-5-edition/"><u>[New] 2024 Approved Facebook Video Downloader Round-Up #1-5 Edition</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-insights-into-average-gain-from-each-watched-online-content/"><u>[New] Insights Into Average Gain From Each Watched Online Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-cash-flow-of-creative-content-youtubers-earnings-per-sponsored-video/"><u>[Updated] The Cash Flow of Creative Content Youtuber's Earnings per Sponsored Video?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-5-book-tt-showcases-for-readers/"><u>[Updated] The Ultimate 5 Book TT Showcases for Readers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-boosting-your-youtube-views-a-strategy-guide/"><u>2024 Approved Boosting Your YouTube Views A Strategy Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/elder-scrolls-online-update-fixes-the-notorious-blackwood-server-issues/"><u>Elder Scrolls Online Update - Fixes the Notorious Blackwood Server Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-the-persistent-launch-freeze-in-far-cry-5/"><u>Expert Tips for Resolving the Persistent Launch Freeze in Far Cry 5</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/guide-to-rapid-or-slowdown-youtubes-playback-adjustments-for-2024/"><u>Guide to Rapid or Slowdown YouTube's Playback Adjustments for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/instantly-solve-valorant-graphics-driver-crash-problems-with-these-tips/"><u>Instantly Solve 'Valorant Graphics Driver Crash' Problems with These Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/star-wars-taming-the-turbulence-of-fighter-collisions-solved-techniques-revealed/"><u>Star Wars: Taming the Turbulence of Fighter Collisions - Solved Techniques Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-game-crashes-now-expert-tips-to-enhance-mass-effect-le-on-pc-and-xbox/"><u>Stop Game Crashes Now! Expert Tips to Enhance Mass Effect LE on PC & Xbox</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-leaderboard-of-the-best-web-capture-apps/"><u>[New] 2024 Approved The Leaderboard of the Best Web Capture Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hilarity-at-a-click-discovering-15-comical-youtubers-work-for-2024/"><u>[New] Hilarity at a Click Discovering 15 Comical YouTubers' Work for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-punchy-prowess-vs-online-influence/"><u>[Updated] 2024 Approved Punchy Prowess Vs Online Influence</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-quintessential-10-virtual-brawls/"><u>[Updated] In 2024, Quintessential 10 Virtual Brawls</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-elden-ring-gaming-experience-solving-fps-drop-and-stutter-issues-in-minutes/"><u>Boost Your Elden Ring Gaming Experience: Solving FPS Drop & Stutter Issues in Minutes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-issues-why-tribes-of-midgard-may-experience-crashes/"><u>Fixing Issues: Why 'Tribes of Midgard' May Experience Crashes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-graphic-drivers-issues-in-forza-horizon-5/"><u>How to Resolve Graphic Drivers Issues in Forza Horizon 5</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-discovering-top-webinar-platforms/"><u>In 2024, Discovering Top Webinar Platforms</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-c53-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme C53 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-rainbow-six-siege-error-code-3-0x0001000b-step-by-step-solution/"><u>Ultimate Fix for Rainbow Six Siege Error Code 3-0X0001000B – Step by Step Solution</u></a></li>
 </ul></div>
 

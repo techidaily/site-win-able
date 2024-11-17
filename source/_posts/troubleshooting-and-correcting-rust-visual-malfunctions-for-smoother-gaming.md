@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting & Correcting Rust Visual Malfunctions for Smoother Gaming
-date: 2024-11-02T02:05:26.136Z
-updated: 2024-11-06T16:04:32.009Z
+date: 2024-11-11T22:02:49.380Z
+updated: 2024-11-17T08:54:15.414Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Released in November,**Call of Duty: Vanguard** is one of the hottest game title
 6. **[Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Make sure your system is up to date](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Repair system files
 
  If the fixes above failed to solve the crashes, it might point to a corrupt or missing game file. Many Vanguard players find restoring system files helps them get rid of random crashes. There’re two ways to repair your system files:
@@ -62,13 +55,6 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -83,10 +69,16 @@ Here’s how to use Fortect to run a Windows repair:
 2. Click**Yes** when prompted to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
@@ -94,21 +86,14 @@ Here’s how to use Fortect to run a Windows repair:
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -130,6 +115,13 @@ Here’s how to use Fortect to run a Windows repair:
 
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -161,6 +153,13 @@ To check the specs of your PC:
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Scan & repair Vanguard game files
 
  Call of Duty: Vanguard may crash if certain game files are missing or corrupt. To see if this is the case, you should run a scan & repair to verify its integrity. If any files are missing or found damaged, the tool will repair them for you.
@@ -169,6 +168,13 @@ To check the specs of your PC:
 2. In the left menu, choose **Call of Duty Vanguard** . Then click **Options**  \> **Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
@@ -179,6 +185,13 @@ To check the specs of your PC:
  If you have enabled the feature on GeForce Experience, Discord, Twitch, or other apps, it’s recommended that you turn them off altogether to see if it mitigates the game crashing problem.
 
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
 
@@ -191,21 +204,7 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Make sure your system is up to date
 
@@ -219,6 +218,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -243,22 +249,18 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-step-by-step-instructions-for-using-telegram-online-professionally/"><u>[New] 2024 Approved Step-By-Step Instructions For Using Telegram Online Professionally</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-customizing-your-pixels-melodic-identity/"><u>[New] Customizing Your Pixel's Melodic Identity</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-become-an-expert-in-no-time-mastering-ez-grabbers-functions/"><u>[Updated] 2024 Approved Become an Expert in No Time! Mastering EZ Grabber's Functions</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-perfecting-cinematography-for-reddit-amas-for-2024/"><u>[Updated] Perfecting Cinematography for Reddit AMAs for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-vivo-g2-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo G2 Phone When You Forget the Password</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-garrys-mod-crashing-woes-updated-fixes-tips-and-solutions/"><u>Banish Garry's Mod Crashing Woes: Updated Fixes, Tips, and Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/digital-diagnostics-vll-app-examination/"><u>Digital Diagnostics VLL App Examination</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-strategies-for-addressing-farming-simulator-22-startup-problems/"><u>Effective Strategies for Addressing Farming Simulator 22 Startup Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-on-overcoming-image-scanning-discrepancies/"><u>Expert Tips on Overcoming Image Scanning Discrepancies</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-film-frenzy-top-picks-of-free-and-paid-movies-on-iphones/"><u>In 2024, Film Frenzy Top Picks of Free & Paid Movies on iPhones</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-unlocking-potential-in-instagram-engagement-with-advanced-data-tools/"><u>In 2024, Unlocking Potential in Instagram Engagement with Advanced Data Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-fixes-navigate-past-the-new-world-connection-snag/"><u>Mastering Fixes: Navigate Past The 'New World Connection' Snag</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-flickering-screens-with-these-easy-fixes/"><u>Say Goodbye to Flickering Screens with These Easy Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-how-to-address-the-audio-glitches-in-dying-light/"><u>Solved: How to Address the Audio Glitches in Dying Light</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-ultimate-guide-to-repairing-windows-code-28-issues/"><u>Solving the Puzzle: Ultimate Guide to Repairing Windows Code 28 Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-prevent-your-game-from-crashing-8-strategies-for-hogwarts-legacy/"><u>Troubleshoot and Prevent Your Game From Crashing - 8 Strategies for Hogwarts Legacy</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-initialization-error-of-vanguard-ability-on-valorant-a-comprehensive-fix/"><u>Troubleshooting the Initialization Error of Vanguard Ability on Valorant: A Comprehensive Fix</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-professional-youtuber-backgrounds/"><u>[New] 2024 Approved Free Professional YouTuber Backgrounds</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-which-video-editor-wins-filmora-or-democreator-reviewed/"><u>[New] In 2024, Which Video Editor Wins? Filmora or Democreator Reviewed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-culinary-connoisseurs-must-watch-food-content/"><u>[Updated] 2024 Approved Culinary Connoisseurs Must-Watch Food Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-video-highlights-our-top-5-favorites-for-2024/"><u>[Updated] FB Video Highlights Our Top 5 Favorites for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-camera-selection-for-youtube-success/"><u>[Updated] The Ultimate Camera Selection for YouTube Success</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-extensive-insights-deconstructing-the-dji-inspire-1/"><u>2024 Approved Extensive Insights Deconstructing the DJI Inspire 1</u></a></li>
+<li><a href="https://article-posts.techidaily.com/a-comprehensive-list-top-rated-srt-translation-services-for-2024/"><u>A Comprehensive List Top-Rated SRT Translation Services for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-for-changing-audio-from-ogg-to-mp3-and-back-using-audacity-software/"><u>Easy Steps for Changing Audio From OGG to MP3 (and Back) Using Audacity Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-successfully-watching-flv-videos-on-your-iphone-or-ipad/"><u>Easy Steps: Successfully Watching FLV Videos on Your iPhone or iPad</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-conversion-tips-transforming-wavpack-audio-to-flac-for-superior-sound-quality/"><u>Effortless Conversion Tips: Transforming WavPack Audio to FLAC for Superior Sound Quality</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortlessly-trim-your-videos-with-these-5-free-windows-11-applications/"><u>Effortlessly Trim Your Videos with These 5 Free Windows 11 Applications!</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-on-converting-webm-videos-to-mp3-tracks-at-no-cost-tips-for-pcmac-users/"><u>Guide on Converting WebM Videos to MP3 Tracks at No Cost - Tips for PC/Mac Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone SE? | Dr.fone</u></a></li>
 </ul></div>
 

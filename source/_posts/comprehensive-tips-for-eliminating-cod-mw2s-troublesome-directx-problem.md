@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tips for Eliminating COD MW2's Troublesome DirectX Problem
-date: 2024-11-03T21:10:31.256Z
-updated: 2024-11-07T05:27:54.700Z
+date: 2024-11-16T01:27:24.477Z
+updated: 2024-11-17T07:57:47.273Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ The Epic Games Launcher is such a wonderful platform that you can play your favo
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Reset your screen resolution
 
  Your screen resolution adjusts to fit the screen but it might default to the wrong view. In this case, you can reset it.
@@ -50,13 +57,6 @@ Here’s how you can do this:
  1) Right-click on the empty space from your desktop and select**Display settings** .
 
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Scroll down to**Display resolution** and click on the**down arrow** button.
 
@@ -145,13 +145,6 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-1-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Once the window**Program Compatibility Troubleshooter** pops up, click**Try recommended settings** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-2-1.png)
@@ -159,6 +152,13 @@ Here’s how you can do this:
  4) Click**Test the program** and you’ll be directed to the launcher.
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Go back to the**Program Compatibility Troubleshooter** window and click**Next** .
 
@@ -174,13 +174,6 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-6-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  8) Check the box **Error message saying the problem needs to run in 256 colors or 8-bit color mode** . Then click**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-10.png)
@@ -193,6 +186,13 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-11-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  11) Click**Yes, save these settings for this program** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-12.png)
@@ -200,6 +200,13 @@ Here’s how you can do this:
 12) Now, the issue is fixed.
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’ve been troubleshooting multiple times and still didn’t fix the issue, don’t worry. There are other working fixes for you.
 
@@ -227,6 +234,13 @@ Here’s how you can do this:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 7: Change your DNS server to the Google Public DNS
 
  Sometimes changing the DNS server can fix many issues. So here you can also do this to fix the black screen issue.
@@ -243,19 +257,6 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-2.png)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click on your**Connections** , whether it’s**Ethernet, Wifi or others** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-3.png)
@@ -265,15 +266,22 @@ Here’s how you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Click**Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Click**Use the following DNS server addresses:** .  
  In**Preferred DNS server:** section, type**8888** .  
@@ -283,13 +291,6 @@ Here’s how you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-DNS-server.png)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 8: Flush the DNS cache
 
@@ -301,13 +302,6 @@ To do this, simply follow the instructions below:
 
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) When a prompt appears, simply click **Yes** .
 
  3) Type the command **ipconfig /flushdns** and hit **Enter** .
@@ -317,13 +311,6 @@ To do this, simply follow the instructions below:
  After successfully clearing your DNS cache, try opening your launcher again to check if it fixes the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 9: Change high DPI settings
 
@@ -362,6 +349,13 @@ Below is the VPN we would like to recommend:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * [black screen](https://tools.techidaily.com/drivereasy/download/)
 * [Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)
 
@@ -380,16 +374,24 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-illuminating-brilliance-photoshops-best-hdr-methods/"><u>[Updated] Illuminating Brilliance Photoshop's Best HDR Methods</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unmatched-video-quality-leading-windows-phones-apps-for-2024/"><u>[Updated] Unmatched Video Quality Leading Windows Phones Apps for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-spotifys-advertising-opportunities-a-roadmap/"><u>2024 Approved Unlocking Spotify’s Advertising Opportunities A Roadmap</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-the-stuck-loading-phase-in-football-manager-202n1-a-comprehensive-guide/"><u>Bypassing the Stuck Loading Phase in Football Manager 202N1 - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/hyper-scape-no-more-pc-crashing-solutions-unveiled/"><u>Hyper Scape No More PC Crashing - Solutions Unveiled</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-crossfade-sounds-using-audacity/"><u>In 2024, The Ultimate Guide to Crossfade Sounds Using Audacity</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfect-photo-framing-digital-sites-and-apps-guide-for-2024/"><u>Perfect Photo Framing Digital Sites and Apps Guide for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/save-your-money-stream-more-tips-for-getting-netflix-without-the-price-tag/"><u>Save Your Money, Stream More: Tips for Getting Netflix Without the Price Tag</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-battle-royale-memory-glitches-xbox-and-pc/"><u>Step-by-Step Solutions for Battle Royale Memory Glitches (Xbox & PC)</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-fixing-rfid-scanning-errors/"><u>Step-by-Step Solutions for Fixing RFID Scanning Errors</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-apple-iphone-11-pro-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your Apple iPhone 11 Pro Is Unlocked</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-top-8-best-kept-video-download-secrets/"><u>[New] 2024 Approved Top 8 Best-Kept Video Download Secrets</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-altered-captions-a-video-guide-for-2024/"><u>[New] Altered Captions A Video Guide for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-financial-motives-in-consumer-video-evaluations/"><u>[Updated] Financial Motives in Consumer Video Evaluations?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-best-pixel-perfect-grids-elevate-image-quality-online/"><u>[Updated] In 2024, Best Pixel Perfect Grids Elevate Image Quality Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-exceptional-7-cameras-elevating-online-educational-vlogs/"><u>[Updated] In 2024, Exceptional 7 Cameras Elevating Online Educational Vlogs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-distortion-methods-for-photography-tools/"><u>2024 Approved Advanced Distortion Methods for Photography Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-practices-for-stabilizing-obs-studio-performance-in-new-windows-os/"><u>Best Practices for Stabilizing OBS Studio Performance in New Windows OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fix-for-pc-players-stop-samurai-warriors-5-from-freezing-or-crashing-now/"><u>Comprehensive Fix for PC Players - Stop Samurai Warriors 5 From Freezing or Crashing Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010956437-experience-the-improved-bioshock-n-game-all-glitches-resolved-and-more/"><u>Experience the Improved BioShock N Game - All Glitches Resolved & More</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-glitches-and-crashing-in-guilty-gear-strive-on-your-computer/"><u>How to Fix Glitches and Crashing in Guilty Gear Strive on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-recurring-game-crashes-for-manor-lords-on-desktop-systems/"><u>How to Overcome Recurring Game Crashes for Manor Lords on Desktop Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 11 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mac-efficiency-for-academics-audio-record-of-classroom-learning/"><u>In 2024, Mac Efficiency for Academics Audio Record of Classroom Learning</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-cyberpunk-2077-an-ambitious-but-undeveloped-saga/"><u>In-Depth Look at Cyberpunk 2077: An Ambitious but Undeveloped Saga</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-dark-souls-3-freezing-problems-step-by-step-guide/"><u>Resolve Dark Souls 3 Freezing Problems: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-and-tips-for-football-manager-2021-crashes-on-windows/"><u>Resolved: Fixes and Tips for Football Manager 2021 Crashes on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-2024-solutions-to-stop-your-pc-games-from-stuttering/"><u>Top 2024 Solutions to Stop Your PC Games From Stuttering</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-resolving-stuttering-and-freezing-in-cult-of-the-lamb-on-windows-pc/"><u>Ultimate Fix: Resolving Stuttering and Freezing in Cult of the Lamb on Windows PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/watching-spider-man-no-way-home-on-demand-the-ultimate-viewing-guide-for-fans/"><u>Watching 'Spider Man: No Way Home' On Demand – The Ultimate Viewing Guide for Fans</u></a></li>
 </ul></div>
 

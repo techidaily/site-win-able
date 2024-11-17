@@ -1,7 +1,7 @@
 ---
 title: Mastery Guide to Fixing Deathloop Freezes – Enhance Performance on PC & Console
-date: 2024-09-01T07:59:35.806Z
-updated: 2024-09-02T07:59:35.806Z
+date: 2024-11-14T16:37:15.884Z
+updated: 2024-11-16T16:15:59.581Z
 tags:
   - win11
   - win10
@@ -59,18 +59,19 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 1. Find Super People CBT in your Steam library and right-click it. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Steam-right-click-Properties.jpg)
 2. Under the**Local files** tab, click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files-1.jpg)
 3. It may take a while for Steam to finish the process. When it’s done, restart the Steam client and launch the game.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 If the problem persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
  One of the most common causes of game crashing issues is a faulty or outdated graphics driver. You may want to make sure yours is up-to-date and functioning properly.
@@ -90,6 +91,13 @@ If the problem persists, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC and run Super People. If updating the graphics driver doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Check for conflicting programs
 
@@ -112,8 +120,12 @@ If the problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their free support service.
 
 ## Fix 5: Disable overlays
@@ -134,30 +146,39 @@ If the problem persists, try the next fix.
 1. In your Steam library, right-click Super People CBT and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties.jpg)
 2. Under the **General tab** , make sure **Enable the Steam Overlay while in-game is unchecked** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-07_14-59-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-07_14-59-03.jpg)
+
 #### Discord
 
 1. Launch Discord. On the bottom-left, click the **gear-shaped icon** to open the user settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-05_15-52-40.jpg)
 2. On the left panel, scroll down and find **Game Overlay** . Toggle off **Enable in-game overlay** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-05_15-53-25.jpg)
 
 If disabling in-game overlays doesn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Keep your system up-to-date
 
@@ -168,27 +189,31 @@ If disabling in-game overlays doesn’t help, try the next fix.
 1. In the search bar next to your Start button, type **update** , then click C**heck for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for available system updates. If there are _no_  available updates, you’ll get a **You’re up to date** sign. You could also click **View all optional updates** and install them if needed.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. You will be prompted to restart your PC. Make sure you save important files in advance.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 
  When Windows is writing data into the drive, it could interfere with the gameplay. So make sure Super People is not running while Windows is installing the updates in the background.  
   
  If you’ve allowed Windows to automatically install the system updates for you, make sure you double-check the Windows Update is not running in the background while you’re playing the game.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7: Restore MSVCP140\_1.dll
 
  You may see the error message “MSVCP140\_1.dll was not found” when Super People crashes on your PC. To fix this issue, you need to download the Microsoft Visual C++ Redistributable packs.
@@ -215,8 +240,6 @@ If disabling in-game overlays doesn’t help, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +247,23 @@ If disabling in-game overlays doesn’t help, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-from-novice-to-expert-elevating-screencapture-skills/"><u>[New] 2024 Approved From Novice to Expert Elevating ScreenCapture Skills</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-fresh-film-enthusiasts-primer-on-visual-quality/"><u>[New] 2024 Approved The Fresh Film Enthusiast’s Primer on Visual Quality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-metrics-top-10-instagram-tags-right-now/"><u>[Updated] 2024 Approved Mastering Metrics Top 10 Instagram Tags Right Now</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-revamp-your-social-media-presence-essential-online-image-makers-for-fb-covers/"><u>[Updated] 2024 Approved Revamp Your Social Media Presence Essential Online Image Makers for FB Covers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-step-by-step-guide-to-zoom-call-recordings/"><u>[Updated] In 2024, Step-by-Step Guide to Zoom Call Recordings</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/assessing-the-value-of-a-fitbit-charge-3-purchase-does-it-hold-up-over-time/"><u>Assessing the Value of a Fitbit Charge 3 Purchase: Does It Hold Up Over Time?</u></a></li>
+<li><a href="https://win-able.techidaily.com/batman-arkham-knight-how-to-prevent-frequent-crashes-and-errors/"><u>Batman Arkham Knight - How to Prevent Frequent Crashes and Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-crashes-effective-fixes-for-persistent-issues-with-nox-player-pc-edition/"><u>Eliminating Crashes: Effective Fixes for Persistent Issues with Nox Player PC Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/five-expert-strategies-for-addressing-the-start-without-video-glitch-in-zoom/"><u>Five Expert Strategies for Addressing the 'Start Without Video' Glitch in Zoom</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-flaws-in-tales-of-arise-now-running-smoothly/"><u>Fixing the Flaws in Tales of Arise – Now Running Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-your-valve-game-from-vanishing-tf2-solutions/"><u>How to Prevent Your Valve Game From Vanishing - TF2 Solutions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/mastering-the-art-of-content-on-tiktok-boosting-popularity-and-engagement-for-2024/"><u>Mastering the Art of Content on TikTok Boosting Popularity & Engagement for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-through-star-wars-squadrons-crash-mysteries-now-resolved/"><u>Navigating Through Star Wars Squadrons Crash Mysteries - Now Resolved!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/starting-strong-with-these-trendy-15-video-intros-for-2024/"><u>Starting Strong with These Trendy 15 Video Intros for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-persistent-discord-performance-issues/"><u>Troubleshooting Tips for Persistent Discord Performance Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/windows-11-apps-and-games-to-explore-and-download/"><u>Windows 11 Apps and Games to Explore and Download</u></a></li>
+</ul></div>
 

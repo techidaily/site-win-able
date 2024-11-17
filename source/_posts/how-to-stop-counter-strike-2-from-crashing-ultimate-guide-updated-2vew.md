@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Counter-Strike 2 From Crashing: Ultimate Guide (Updated 2Vew)"
-date: 2024-11-06T03:29:41.458Z
-updated: 2024-11-07T03:01:21.336Z
+date: 2024-11-12T19:33:16.728Z
+updated: 2024-11-16T18:51:11.231Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 7. **[Reinstall the BattlEye service](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Meet the minimum system requirements
 
  The minimum computer specs need to be met to run Arma 3 properly. Here are the minimum requirements to play _Arma 3_ :
@@ -54,6 +61,13 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
@@ -61,6 +75,13 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 **3)**  Check your **Operating System, Processor, Memory** and**DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-92.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
@@ -79,13 +100,6 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 **2)**  Right-click the **Steam icon** on your desktop and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
@@ -120,13 +134,6 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-809.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Try relaunching_Arma 3_ to see if this has resolved your issue. If this didn’t help, try **[Fix4](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
@@ -150,6 +157,13 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
  Try launching _Arma 3_  to see if it works properly now. If the crash error still happens, go ahead with the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -183,19 +197,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -216,6 +217,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
@@ -231,13 +239,6 @@ OR
  Restart your computer and_Arma 3_ to see if this worked for you. If your problem persists, try the fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 6: Launch Arma 3 with the malloc=system** command
 
@@ -260,6 +261,13 @@ OR
 **5)**  Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-374.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Type**\-malloc=system** and click **OK** .
 
@@ -287,6 +295,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-41.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Delete the**BattlEye folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-43.png)
@@ -303,10 +318,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **8)**  Right-click **Arma 3**  and select **Properties.**
@@ -316,13 +331,6 @@ OR
 **9)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-37.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for the scans to be complete, then relaunch_Arma 3_ to reinstall BattlEye. If the game still crashes, try the next fix.
 
@@ -346,13 +354,6 @@ OR
 **3)**  Right-click **Arma 3** and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-48.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click **DELETE** .
 
@@ -390,13 +391,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-365.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-366.png)
@@ -426,21 +420,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-fastforward-lingertap-recording/"><u>[New] 2024 Approved FastForward LingerTap Recording</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-pro-audio-recording-excellence-with-audacity/"><u>[New] 2024 Approved Pro Audio Recording Excellence with Audacity</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-meet-the-system-and-hardware-needs-of-big-sur-os/"><u>[New] Meet the System & Hardware Needs of Big Sur OS</u></a></li>
-<li><a href="https://win-able.techidaily.com/breaking-free-from-the-load-loop-essential-tips-to-get-past-minecrafts-stuck-boot-phase/"><u>Breaking Free From the Load Loop: Essential Tips to Get Past Minecraft's Stuck Boot Phase</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-a-step-by-step-guide-to-resolve-code-vein-freezing/"><u>Fixing the Issue: A Step-by-Step Guide to Resolve Code Vein Freezing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-gaomon-pd1560-pen-tablet-assessment-excellent-performance-and-features/"><u>In-Depth Gaomon PD1560 Pen Tablet Assessment - Excellent Performance & Features</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/optimize-website-insights-using-cookiebot-the-cutting-edge-visitor-analysis-tool/"><u>Optimize Website Insights Using Cookiebot - The Cutting-Edge Visitor Analysis Tool</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723006174195-shadowplay-recording-failures-in-windows-heres-how-you-can-fix-them/"><u>Shadowplay Recording Failures in Windows? Here's How You Can Fix Them</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-for-when-your-alienware-command-center-freezes-or-crashes/"><u>Solutions for When Your Alienware Command Center Freezes or Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012722104-team-fortress-2-wont-start-here-are-solutions-to-get-you-game-on/"><u>Team Fortress 2 Won't Start? Here Are Solutions to Get You Game On</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-resolving-halo-infinites-audio-issues-quick-fixes-and-advanced-solutions/"><u>The Ultimate Guide to Resolving Halo Infinite's Audio Issues: Quick Fixes & Advanced Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/tormented-souls-stability-fixes-say-goodbye-to-incessant-program-failures-on-pc/"><u>Tormented Souls Stability Fixes - Say Goodbye to Incessant Program Failures on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-solving-sound-issues-in-halo-infinite/"><u>Ultimate Guide: Solving Sound Issues in Halo Infinite</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/uncovering-the-best-apps-to-transform-your-speech/"><u>Uncovering the Best Apps to Transform Your Speech</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/m4v-3gp/"><u>오독방 공간에서 비용 없이 모바일 비디오를 M4V 또는 3GP로 전환</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-assessing-camera-multicam-systems-in-modern-living-spaces/"><u>[New] 2024 Approved Assessing Camera Multicam Systems in Modern Living Spaces</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-cultivating-a-loyal-viewership-base-on-youtube/"><u>[New] 2024 Approved Cultivating a Loyal Viewership Base on Youtube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-guide-to-mounting-a-tripod-for-vloggers/"><u>[New] 2024 Approved Essential Guide to Mounting a Tripod for Vloggers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discovering-where-youtube-video-management-happens/"><u>[Updated] In 2024, Discovering Where YouTube Video Management Happens</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-get-that-perfect-fit-resize-videos-to-instagram-standards-using-mac/"><u>[Updated] In 2024, Get That Perfect Fit Resize Videos to Instagram Standards Using Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-fixes-for-when-your-chrome-browser-crashes-on-windows-10/"><u>Effortless Fixes for When Your Chrome Browser Crashes on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-cortana-functionality-problems/"><u>Expert Tips for Resolving Cortana Functionality Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004326574-football-manager-2022-pc-crash-woes-heres-how-you-can-overcome-them/"><u>Football Manager 2022 PC Crash Woes? Here's How You Can Overcome Them!</u></a></li>
+<li><a href="https://win-able.techidaily.com/geforce-experience-crashes-heres-your-step-by-step-fix/"><u>GeForce Experience Crashes? Here’s Your Step-by-Step Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/granblue-fantasy-launch-problems-how-to-fix-the-relink-feature-that-wont-start/"><u>Granblue Fantasy Launch Problems: How to Fix the 'Relink' Feature That Won’t Start?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-t2-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo T2 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-crafting-content-that-captivates-a-guide-to-facebook-reels/"><u>In 2024, Crafting Content that Captivates A Guide to Facebook Reels</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-headache-solved-restoring-voice-communication-in-among-us/"><u>PC Gaming Headache Solved: Restoring Voice Communication in Among Us</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-minecraft-crash-with-exit-code-0-comprehensive-troubleshooting-guide/"><u>Resolve Minecraft Crash with Exit Code 0: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://win-studio.techidaily.com/ultimate-guide-to-restoring-defaults-on-hp-all-in-one-computers-running-windows/"><u>Ultimate Guide to Restoring Defaults on HP All-in-One Computers Running Windows</u></a></li>
 </ul></div>
 

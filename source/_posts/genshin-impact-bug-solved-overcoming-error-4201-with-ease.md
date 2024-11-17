@@ -1,7 +1,7 @@
 ---
 title: Genshin Impact Bug Solved! Overcoming Error 4201 with Ease
-date: 2024-11-04T18:57:08.060Z
-updated: 2024-11-06T23:58:17.310Z
+date: 2024-11-13T18:45:24.663Z
+updated: 2024-11-16T16:43:06.974Z
 tags:
   - win11
   - win10
@@ -95,10 +95,16 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -106,6 +112,13 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
  Check to see if PoE continues to crash. If it does, please try out the next method, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of game files
 
@@ -115,20 +128,33 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-click **Path of Exile** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-17.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** . Then wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-18.png)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Once complete, exit Steam and reopen it. Run PoE and wait to see if it keeps crashing.
 
@@ -147,15 +173,22 @@ In case this fix didn’t help, please move on to Fix 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
@@ -163,13 +196,6 @@ In case this fix didn’t help, please move on to Fix 4.
 Still unable to solve the problem? If yes, proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Change certain in-game configurations
 
@@ -179,23 +205,9 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the**Graphics** tab, disable**Engine Multithreading** and**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-14.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
 
@@ -231,24 +243,22 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-distinguishing-between-youtube-policies-and-cc-clauses/"><u>[New] 2024 Approved Distinguishing Between YouTube Policies and CC Clauses</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-selective-alarm-tones-optimal-websites-list/"><u>[New] Selective Alarm Tones Optimal Websites List</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-ideal-internet-spots-curated-custom-tones-downloads/"><u>[Updated] In 2024, Ideal Internet Spots Curated Custom Tones Downloads</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-performance-fixes-6-quick-strategies-to-eliminate-lag-and-stutters/"><u>Elden Ring Performance Fixes: 6 Quick Strategies to Eliminate Lag and Stutters</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-for-playing-fallout-3-without-crashes-on-windows-10-systems/"><u>Expert Advice for Playing Fallout 3 Without Crashes on Windows 10 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-overcoming-the-network-unreachable-hurdle-in-steam/"><u>Expert Advice on Overcoming the 'Network Unreachable' Hurdle in Steam</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-handling-memory-glitch-in-call-of-duty-modern-warfare-3-error-12707-fixed/"><u>Expert Tips for Handling Memory Glitch in Call of Duty: Modern Warfare 3 - Error 12707 Fixed</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-rogue-company-pc-version-persistent-issues-with-frequent-crashes/"><u>Fix: Rogue Company PC Version Persistent Issues with Frequent Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/free-tips-to-resolve-poe-freezing-for-a-smooth-gaming-experience/"><u>Free Tips to Resolve PoE Freezing for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-has-fortnites-season-8-impacted-player-frames-per-second-fps/"><u>How Has Fortnite's Season 8 Impacted Player Frames Per Second (FPS)?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-gt-3-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Realme GT 3</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m34-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M34 5G Phone FRP Lock</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/scrutinizing-the-value-in-a-new-apple-watch-release/"><u>Scrutinizing the Value in a New Apple Watch Release</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-excessive-cpu-consumption-while-playing-god-of-war-tips-and-tricks/"><u>Solving Excessive CPU Consumption While Playing God of War: Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-errors-solving-gas-station-simulator-pc-instability-issues/"><u>Troubleshooting Persistent Errors: Solving Gas Station Simulator PC Instability Issues</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-verdict-on-the-top-tier-smart-doorbell/"><u>Ultimate Verdict on the Top-Tier Smart Doorbell</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-tpm-chip-essential-for-windows-11-compatibility-insights-from-zdnet/"><u>Understanding the TPM Chip: Essential for Windows 11 Compatibility - Insights From ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-accelerate-keyword-acquisition-the-finest-7-free-taggification-apps-for-youtube-videos/"><u>[Updated] Accelerate Keyword Acquisition The Finest 7 Free Taggification Apps for YouTube Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-modern-warfare-2-on-pc-how-to-fix-fps-stutter-and-performance-drop-problems/"><u>Call of Duty: Modern Warfare 2 on PC - How to Fix FPS Stutter & Performance Drop Problems</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/choisissez-le-bon-outil-editions-daomei-contre-backupper-analyse/"><u>Choisissez Le Bon Outil: Editions D'AOMEI Contre Backupper Analysé</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/combat-video-errors-home-remedies-for-flawless-viewing-experience/"><u>Combat Video Errors – Home Remedies For Flawless Viewing Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-launch-errors-in-lost-ark-latest-fixes-and-tips/"><u>Defeating Launch Errors in Lost Ark - Latest Fixes and Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficient-solutions-for-the-binkw32dll-file-error-in-your-computer/"><u>Efficient Solutions for the binkw32.dll File Error in Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/ending-the-frustration-your-ultimate-fix-for-genshin-impact-error-4201/"><u>Ending the Frustration: Your Ultimate Fix for Genshin Impact Error 4201</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a38-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-a14-4gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy A14 4Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-uninterrupted-twitch-viewing-essential-tips-for-dealing-with-load-issues-7-key-solutions/"><u>Mastering Uninterrupted Twitch Viewing: Essential Tips for Dealing With Load Issues (7 Key Solutions)</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-troubleshooting-addressing-and-correcting-in-game-lags-efficiently/"><u>Outriders Troubleshooting: Addressing and Correcting In-Game Lags Efficiently</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slime-to-the-rescue-effective-methods-for-deep-cleaning-your-keyboard-at-home-digitalhealthtips/"><u>Slime to the Rescue! Effective Methods for Deep-Cleaning Your Keyboard at Home | DigitalHealthTips</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-overcome-discord-not-opening-issues/"><u>Step-by-Step Solutions to Overcome Discord Not Opening Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-sound-issues-in-halo-infinite-a-comprehensive-guide/"><u>Troubleshooting Common Sound Issues in Halo Infinite: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-helldivers-ii-solutions-for-steam-game-boot-up-issues/"><u>Troubleshooting Helldivers II: Solutions for Steam Game Boot-Up Issues</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-guide-to-rotating-videos-with-ease-for-2024/"><u>Updated The Ultimate Guide to Rotating Videos with Ease for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-xs-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone XS?</u></a></li>
 </ul></div>
 

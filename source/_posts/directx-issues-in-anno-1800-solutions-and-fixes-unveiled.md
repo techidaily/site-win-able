@@ -1,7 +1,7 @@
 ---
 title: DirectX Issues in Anno 1800 – Solutions and Fixes Unveiled
-date: 2024-09-01T08:01:15.866Z
-updated: 2024-09-02T08:01:15.866Z
+date: 2024-11-11T00:50:25.999Z
+updated: 2024-11-17T11:28:04.844Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -61,8 +68,12 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Switch DirectX versions
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. Some players suggest that switching the two DirectX versions help resolve the error: if you’re running DirectX 11 or below, it’s recommended that you update it to DirectX 12 (the latest version by the time of writing), and vice versa.
@@ -77,11 +88,22 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , then copy & paste **dxdiag** into the box and click **dxdiag** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Check out your **DirectX version** in the first page of the report.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
@@ -98,9 +120,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 
  4) Restart your computer for the change to take effect.
@@ -111,10 +130,14 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type**C:\\Users\\user\\Documents\\Anno 1800\\config** and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-236.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Open the engine.ini file.
 
@@ -152,16 +175,10 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX. You may need to upgrade the hardware of your computer if it fails to meet the system requirement of Anno 1800.
@@ -179,8 +196,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +203,20 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-macs-premier-mkv-player-picks/"><u>[New] In 2024, Mac's Premier MKV Player Picks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-image-alchemy-converting-ordinary-into-extraordinary/"><u>[Updated] Image Alchemy Converting Ordinary Into Extraordinary</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immersive-sound-listening-on-the-go-with-iphone/"><u>[Updated] Immersive Sound Listening on the Go With iPhone</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-guide-to-installing-newest-logitech-g403-mouse-drivers-on-pc/"><u>Easy Guide to Installing Newest Logitech G403 Mouse Drivers on PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-galaxy-s24-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Galaxy S24</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-htc-u23-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c22-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nokia C22 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-frame-rate-and-smoothing-gameplay-a-guide-to-resolving-stutters-in-the-ascent/"><u>Improving Frame Rate & Smoothing Gameplay: A Guide to Resolving Stutters in The Ascent</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/insta-cover-chronicles-top-tier-tech-edition-for-2024/"><u>Insta Cover Chronicles Top-Tier Tech Edition for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-out-of-video-memory-error-in-fortnite-tips-and-solutions/"><u>Overcoming the Out-of-Video-Memory Error in Fortnite: Tips & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-stop-the-endless-loop-of-content-warning-software-failures-on-windowsmac/"><u>Solution Guide: Stop the Endless Loop of 'Content Warning' Software Failures on Windows/Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-the-library-in-kodi-fixes-for-directory-information-recovery-issues/"><u>Unlocking the Library in Kodi: Fixes for Directory Information Recovery Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/whats-the-potential-of-using-chatgpt-for-generating-custom-designed-safe-and-highly-effective-exercpertise-programmes-just-for-me/"><u>What's The Potential Of Using ChatGPT For Generating Custom-Designed, Safe, And Highly Effective Exercpertise Programmes Just For Me?</u></a></li>
+</ul></div>
 

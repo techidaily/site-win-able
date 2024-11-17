@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: When You Can't Connect to Your Steam Community"
-date: 2024-09-01T08:05:28.495Z
-updated: 2024-09-02T08:05:28.495Z
+date: 2024-11-14T20:48:27.235Z
+updated: 2024-11-17T02:15:38.108Z
 tags:
   - win11
   - win10
@@ -89,16 +89,27 @@ To check your PC hardware specifications, you can follow the steps below.
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/temporarily-disable-firewall.png)
 3. Click **Turn Windows Defender Firewall on or off** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 4. Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
 
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You should also try disabling your antivirus if you’re using any. After you’ve done these, attempt to launch the game. If it still fails to launch or triggers any errors, proceed to the next fix. Prior to getting started with the troubleshooting steps below, remember to repeat the similar steps as listed above to turn on the Firewall and enable antivirus to protect your computer from the risk of malicious programs.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Close conflicting or non-essential programs
 
  Not often, but possible, certain programs on your computer are in conflict with your game title. Besides, Dead Space Remake is graphics demanding, which requires your system to allocate sufficient resources in order to function properly. If you have too many programs running in the background while launching Dead Space, however, you’re more likely to suffer from any sort of issue. To prevent this from affecting your gameplay, you should take the steps as follows to stop certain programs from running.
@@ -114,9 +125,6 @@ To check your PC hardware specifications, you can follow the steps below.
 
  Then you can attempt to open your game. If your problem persists, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run your game as an administrator
 
  Sometimes a program may not launch because it lacks the administrative rights. To rule out the cause of your issue, try to run Dead Space as an administrator. All you have to do is:
@@ -128,8 +136,12 @@ To check your PC hardware specifications, you can follow the steps below.
  Till now, launch the game to test if it works. If this method doesn’t give you any luck, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Download & install all Windows updates
 
  Windows updates are released on a regular basis to provide users with bug fixes and new features. So you should make sure they are installed in your system to get all the performance enhancements. If your issue is triggered by the incompatibilities, updating Windows is more likely to help.
@@ -143,14 +155,18 @@ To check your PC hardware specifications, you can follow the steps below.
 
  After the updates are installed, reboot your device and then try to launch your game. If you’re still having the issue, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 5\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. Unfortunately, it’s also susceptible to corruption. When that happens, your PC performance would suffer and your graphics-intensive game may fail to work properly. Therefore, it’s imperative to update your graphics driver. Additionally, when a new title comes out, some graphics card manufacturers would release game-ready drivers, which you should definitely download and install.
 
  There are mainly two ways you can update your drivers: manually and automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your drivers
 
@@ -176,20 +192,21 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer. If your game isn’t loading, don’t fret! Below are some other fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Verify your game files
 
  From time to time, game files can get corrupted and some important ones may even be missing, causing the issue of your game failing to launch as expected. To replace the corrupted files and make sure they are intact, you should try to verify them within the gaming platform.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### On Steam
 
 1. Open your Steam client. Under**LIBRARY** , right-click your game title and select**Properties** .
@@ -197,16 +214,10 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-verify-intergrity-of-game-files-on-Steam.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now Steam will start scanning your game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
 
  When the verification process is finished, close the window and check if it solves your problem. If your game still fails to launch, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### On EA
 
 1. Open the EA desktop app.
@@ -217,17 +228,18 @@ To check your PC hardware specifications, you can follow the steps below.
  Then all you have to do is wait until the repair process is complete. If this doesn’t do the trick, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### On Epic Games
 
 1. Navigate to the game in your Library. Then click on the**three dots** . Select**Manage** from the drop-down.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-Remake-repair-game-files-on-the-Epic-Games-Launcher.png)
 2. Now click on the**VERIFY** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-Remake-how-to-repair-game-files-on-the-Epic-Games-Launcher-click-on-the-VERIFY-button.png)
 
@@ -241,9 +253,14 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/11/cmd.jpg)
 2. Click **Yes**  when you receive a prompt.
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Copy and paste the following commands in Command Prompt, then press Enter.  
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
@@ -257,8 +274,12 @@ To check your PC hardware specifications, you can follow the steps below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/use-System-File-Checker-to-repair-corrupted-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  However, this tool may not help you with a 100% guarantee. Sometimes it fails to fix an underlying problem. If that’s your case, a more powerful tool will be needed. **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is the one that helps. Specializing in Windows repair, Fortect can help replace damaged or missing Windows files with healthy ones and restore your PC back to its greatness. In addition, it detects threatening apps, protects, and removes malware from your PC before it’s too late!
 
  Fixing corrupted system files with Fortect is a breeze. All you have to do is follow the simple step-by-step below.
@@ -279,8 +300,6 @@ To check your PC hardware specifications, you can follow the steps below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -288,4 +307,24 @@ To check your PC hardware specifications, you can follow the steps below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-crafting-personalized-storytelling-on-snapchat-for-2024/"><u>[New] Crafting Personalized Storytelling on Snapchat for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-pathway-to-premium-webcam-footage/"><u>[New] In 2024, The Ultimate Pathway to Premium Webcam Footage</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-navigate-like-a-pro-with-top-windows-10-hacks/"><u>2024 Approved Navigate Like a Pro with Top WINDOWS 10 Hacks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dynamic-design-tips-after-effects-best-1-written-on-type/"><u>Dynamic Design Tips After Effects' Best 1 Written on Type</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhanced-gta-5-performance-eliminating-previous-stuttering-problems/"><u>Enhanced GTA 5 Performance: Eliminating Previous Stuttering Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-quick-fixes-how-to-stop-titanfall-2-from-crashing-instantly/"><u>Fix Your [Quick Fixes]: How To Stop Titanfall 2 From Crashing Instantly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-football-manager-2021-stability-problems-on-windows-pc/"><u>Fixing Football Manager 2021 Stability Problems on Windows PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cutting-edge-cinema-10-famous-films-edited-with-final-cut-pro/"><u>In 2024, Cutting-Edge Cinema 10 Famous Films Edited with Final Cut Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-improving-frame-rate-and-reducing-stutters-in-splitgate-essential-techniques-revealed/"><u>Master the Art of Improving Frame Rate and Reducing Stutters in Splitgate – Essential Techniques Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-battlefield-essential-fixes-for-first-person-shooter-issues-in-call-of-duty/"><u>Mastering the Battlefield: Essential Fixes for First-Person Shooter Issues in Call of Duty</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/resolving-elephants-foot-problem-a-step-by-step-guide-for-3d-printing/"><u>Resolving Elephant's Foot Problem: A Step-by-Step Guide for 3D Printing</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-why-is-my-copy-of-modern-warfare-ii-not-starting/"><u>Solution Found: Why Is My Copy of Modern Warfare II Not Starting?</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-dealing-with-steamvr-error-codes-including-308/"><u>Step-by-Step Solution: Dealing with SteamVR Error Codes, Including 308</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-quick-fixes-for-modern-warfare-3-pc-game-crashes/"><u>Troubleshooting Guide: Quick Fixes for Modern Warfare 3 PC Game Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-pc-issues-resolve-constant-minecraft-dungeon-crashes/"><u>Troubleshooting PC Issues: Resolve Constant Minecraft Dungeon Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-the-12-leading-tools-for-superior-video-resolution-improvement/"><u>Ultimate Guide: The 12 Leading Tools for Superior Video Resolution Improvement</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-free-3gp-video-editing-rotate-flip-and-more-with-these-top-tools-for-2024/"><u>Updated Free 3GP Video Editing Rotate, Flip, and More with These Top Tools for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "COD: Modern Warfare 3 Performance Issues & Latency Drops Expected for Players"
-date: 2024-10-30T20:35:44.158Z
-updated: 2024-11-06T19:43:18.017Z
+date: 2024-11-12T07:12:40.652Z
+updated: 2024-11-16T23:34:50.780Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 5. [**Clean up resource-hungry processes**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change power plan to Ultimate Performance](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure your specs meet the requirements
 
  As a AAA title in 2019, Modern Warfare is challenging, both to your game skills and computer hardware. So if you’re sticking with a PC built five years ago, chances are you won’t find this “slow-motion” game enjoyable. If you notice your FPS is dropping constantly, and even worse during a shoot-out, the first thing you should do is to**check your specs and see if they meet the game requirements** . Because if they don’t, then maybe it’s time for an upgrade.
@@ -64,6 +57,13 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 
  If you’re confident with your gaming rig, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Change Display Mode
 
  Some Modern Warfare gamers reported that changing the Display Mode from**Fullscreen Borderless** to**Fullscreen** fixes their FPS dropping issue. You can give this a try as it may boost your FPS right away.
@@ -76,13 +76,6 @@ You can do it with only 2 steps:
 3. Join a game and see if your FPS gets better.
 
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -98,24 +91,18 @@ You can do it with only 2 steps:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and join a game in Modern Warfare. You can now test the gameplay and see if the driver update helps your case.
 
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -136,18 +123,18 @@ And it’s quite easy to update too:
 
  If this method doesn’t help your case, please move on to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5:**Clean up resource-hungry processes**
 
  Sometimes your game becomes laggy when you have some background tasks eating up your RAM or CPU resources. Before opening a game in Modern Warfare, first make sure you’ve exited programs like**Chrome** ,**Discord** ,**Skype** or**Windows Update** that might exhaust your computer resources.
 
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Change your power plan to Ultimate Performance
 
@@ -159,18 +146,25 @@ Here’s how to enable this power plan:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
@@ -197,20 +191,16 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-vdieo-software.techidaily.com/anonymize-your-media-10-free-face-blurring-apps-for-photos-and-videos/"><u>Anonymize Your Media 10 Free Face Blurring Apps for Photos and Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-motorola-g54-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Motorola G54 5G? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/avoiding-crashes-strategies-for-a-stable-sovled-warno-experience-on-pcs/"><u>Avoiding Crashes: Strategies for a Stable SOVLED Warno Experience on PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/consider-keeping-a-food-diary-to-monitor-what-youre-eating-and-make-sure-its-nutritionally-balanced/"><u>Consider Keeping a Food Diary to Monitor What You're Eating and Make Sure It’s Nutritionally Balanced</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011950320-crusader-kings-2-not-loading-properly-heres-what-to-do/"><u>Crusader Kings 2 Not Loading Properly? Here's What To Do</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-gear-high-performance-unmatched-style/"><u>Elite Gear High Performance, Unmatched Style</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-correctly-launch-your-adobe-software-after-fixing-the-crash-mistake-0xc0000022/"><u>How to Correctly Launch Your Adobe Software After Fixing the Crash (Mistake #0xC0000022)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-vr-movies-for-immersive-viewing/"><u>In 2024, Premier VR Movies for Immersive Viewing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/overcoming-netflix-proxy-error-m7111-1331-5059-a-comprehensive-guide/"><u>Overcoming Netflix Proxy Error M7111-1331-5059: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/revitalized-interview-questions-for-listener-involvement/"><u>Revitalized Interview Questions for Listener Involvement</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-halo-infinity-connectivity-problem-server-failed-to-respond-with-a-ping/"><u>Step-by-Step Solution for Halo Infinity Connectivity Problem: ‘Server Failed To Respond With A Ping’</u></a></li>
-<li><a href="https://win-able.techidaily.com/survive-and-thrive-proven-techniques-for-optimizing-fallout-76-gameplay-fps-on-latest-hardware/"><u>Survive and Thrive: Proven Techniques for Optimizing Fallout 76 Gameplay FPS on Latest Hardware</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722980330154-troubleshoot-and-resolve-pc-issues-in-assassins-creed-odyssey-no-sweat/"><u>Troubleshoot and Resolve PC Issues in Assassin's Creed Odyssey - No Sweat!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-1011-volume-control-fix-guide/"><u>Windows 10/11 Volume Control Fix Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/your-digital-front-door-securing-it-from-hackers/"><u>Your Digital Front Door: Securing It From Hackers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-entering-the-fullscreen-realm-choosing-a-cms/"><u>[Updated] 2024 Approved Entering the Fullscreen Realm Choosing a CMS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leading-8-linux-tools-for-seamless-editing/"><u>[Updated] Leading 8 Linux Tools for Seamless Editing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1724766862942-apk/"><u>APKダウナローダーの正しい利用法：解決・ダウンロード失敗・ウイルス防止ガイド</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-the-crowd-stand-out-with-unique-youtube-persona-for-2024/"><u>Avoiding the Crowd Stand Out with Unique YouTube Persona for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-12-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone 12 Pro Max</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-poco-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Poco</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-v30-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo V30 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-implementing-the-updated-arctic-zephyr-theme-in-kodi-version-19/"><u>Step-by-Step Guide to Implementing the Updated Arctic Zephyr Theme in Kodi Version 19</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-combine-mp4-footage-effortlessly-with-windows-11-tools/"><u>Step-by-Step Tutorial: Combine MP4 Footage Effortlessly with Windows 11 Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-3-methods-for-taking-screenshots-and-recording-your-chromebooks-screen/"><u>Top 3 Methods for Taking Screenshots and Recording Your Chromebook's Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/transform-your-animations-effortless-gif-to-video-conversion-tutorial/"><u>Transform Your Animations: Effortless GIF-to-Video Conversion Tutorial</u></a></li>
 </ul></div>
 

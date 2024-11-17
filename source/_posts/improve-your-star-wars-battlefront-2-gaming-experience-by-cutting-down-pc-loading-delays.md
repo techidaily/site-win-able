@@ -1,7 +1,7 @@
 ---
 title: Improve Your Star Wars Battlefront 2 Gaming Experience by Cutting Down PC Loading Delays
-date: 2024-09-01T08:05:47.313Z
-updated: 2024-09-02T08:05:47.313Z
+date: 2024-11-11T16:33:21.866Z
+updated: 2024-11-17T04:15:48.668Z
 tags:
   - win11
   - win10
@@ -49,11 +49,25 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
  After you successfully launched the game, it may re-enable the DirectX 12 mode automatically or it won’t. If it won’t, you can manually re-enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Re-enable DirectX 12 mode
 
  1) Go to the game’s main menu and head across to the**OPTIONS** screen. Then select**VIDEO** .  
   
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
 
@@ -63,11 +77,22 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**File > Save** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Why disabling DirectX 12 works
 
  It’s possible that DirectX 12 could offer some enhancements for your machine, using DirectX 11 should allow the software to run much more reliably and stably. Basically, while the game is running in DirectX 12 mode, it’s able to pre-cache certain shaders so that you can get much better performance in-game. But chances are, the game might not be launching as expected.
@@ -80,8 +105,6 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +112,26 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-free-youtube-thumbnails-saving-guide/"><u>[New] 2024 Approved Free YouTube Thumbnails Saving Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-innovative-approaches-in-micro-cinematography-for-2024/"><u>[New] Innovative Approaches in Micro Cinematography for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-naming-wizards-the-best-ai-tools-for-podcast-titles/"><u>[New] Naming Wizards The Best AI Tools for Podcast Titles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-essential-guide-to-choosing-top-gopro-cases/"><u>[Updated] Essential Guide to Choosing Top GoPro Cases</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fading-out-the-art-of-ebbing-audio-energy-in-fl-studio/"><u>[Updated] Fading Out The Art of Ebbing Audio Energy in FL Studio</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-broadcast-brilliance-how-to-prevent-live-video-halts-on-facebook/"><u>[Updated] In 2024, Broadcast Brilliance How to Prevent Live Video Halts on Facebook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-ensemble-dynamics-crafting-collaborative-content-for-musicians/"><u>[Updated] In 2024, Ensemble Dynamics Crafting Collaborative Content for Musicians</u></a></li>
+<li><a href="https://win-able.techidaily.com/are-you-experiencing-connectivity-issues-on-xbox-live-find-server-updates-here/"><u>Are You Experiencing Connectivity Issues on Xbox Live? Find Server Updates Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-hl-l2340dw-free-download-of-compatible-windows-printing-drivers/"><u>Brother HL-L2340DW: Free Download of Compatible Windows Printing Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/cs2-2024-edition-ultimate-troubleshooting-tips-to-prevent-game-crashes-on-pc/"><u>CS2 2024 Edition - Ultimate Troubleshooting Tips to Prevent Game Crashes on PC</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/elevate-your-site-performance-using-cookiebot-technology/"><u>Elevate Your Site Performance Using Cookiebot Technology</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-to-eliminate-the-dark-mode-dilemma-in-rainbow-six-siege-for-pc-gamers/"><u>Expert Advice to Eliminate the Dark Mode Dilemma in Rainbow Six Siege for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-ready-for-smooth-gaming-call-of-duty-modern-warfares-fps-problem-solved-in-latest-release/"><u>Get Ready for Smooth Gaming: Call of Duty: Modern Warfare's FPS Problem Solved in Latest Release</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013898465-how-to-repair-your-windows-11-start-menu-problem-solved/"><u>How to Repair Your Windows 11 Start Menu – Problem Solved!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-infinix-hot-30-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Infinix Hot 30 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/level-up-your-game-effective-methods-to-fix-battlefield-5-stuttering-and-delays/"><u>Level Up Your Game: Effective Methods to Fix Battlefield 5 Stuttering and Delays</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-performance-optimized-overcoming-deathloops-previous-frame-rate-problems/"><u>PC Performance Optimized - Overcoming Deathloop's Previous Frame Rate Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/perfect-gameplay-soundtrack-fixing-starfields-cutout-and-jitter-issues/"><u>Perfect Gameplay Soundtrack: Fixing Starfield's Cutout and Jitter Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-stop-halo-infinite-from-crashing-on-your-gaming-pc/"><u>Troubleshooting Guide: Stop Halo Infinite From Crashing on Your Gaming PC</u></a></li>
+</ul></div>
 

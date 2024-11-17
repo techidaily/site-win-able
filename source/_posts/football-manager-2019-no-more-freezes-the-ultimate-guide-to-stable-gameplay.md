@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2019 No More Freezes - The Ultimate Guide to Stable Gameplay
-date: 2024-11-04T23:38:45.955Z
-updated: 2024-11-07T04:09:38.037Z
+date: 2024-11-14T22:58:49.951Z
+updated: 2024-11-16T18:39:01.065Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
  Make sure you’re playing Football Manager 2022 in a 64-bit processor and operating system. If you’re on a 32-bit system, it’s recommended to upgrade your system and perhaps your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2\. Add an exception to your antivirus
 
  Antivirus is known to interfere with Football Manager 2022 and most of your Steam games. To make sure you can run your game, make sure you have added Football Manager 2022 as an exception to your antivirus software.
@@ -59,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 * **[McAfee](https://service.mcafee.com/?page=shell&shell=article-view&articleId=TS102056)**
 
  Or you can uninstall your antivirus temporarily (note that disabling it won’t work) and be very careful about the websites you’re visiting.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3\. Update your graphics driver
 
@@ -80,19 +80,6 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
 After updating your drivers, restart your PC and test the gameplay.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4\. Verify the integrity of game files
 
  Football Manager 2022 not launching can be caused by corrupt or missing game files. In that case, you can perform an integrity check to solve this issue. Here’s how:
@@ -102,21 +89,14 @@ After updating your drivers, restart your PC and test the gameplay.
 2) Go to LIBRARY, right-click on Football Manager 2022 and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Go to **LOCAL FILES** and click **Verify integrity of game files…**
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once complete, launch the game to check if your game is working again.
@@ -132,10 +112,10 @@ Once complete, launch the game to check if your game is working again.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-8-1200x758.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Navigate to **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** and then delete the**Caches** and**Preferences** folder.
@@ -147,6 +127,13 @@ Once complete, launch the game to check if your game is working again.
  1) Right-click **Football Manager 2021** from the game list and click **Properties** .
 
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select **Local Files** and then**Browse local files** .
 
@@ -161,21 +148,15 @@ Once complete, launch the game to check if your game is working again.
  1) Right-click on Football Manager 2021 and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the **GENERAL** tab, uncheck **Enable the Steam Overlay while in-game** and type **\-windowed** under **LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch your Football Manager 2022 to check if your launch issues have been resolved successfully.
 
@@ -205,16 +186,16 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -237,6 +218,13 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -295,21 +283,22 @@ Feel free to drop us a line if you have any suggestions or questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-complete-guide-to-pc-mac-and-phone-movie-playback-for-2024/"><u>[New] The Complete Guide to PC, Mac & Phone Movie Playback for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-thorough-investigation-dji-inspire-1-reviewed-for-2024/"><u>[Updated] Thorough Investigation DJI Inspire 1 Reviewed for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-high-cpu-load-on-god-of-war-top-tips-and-tricks/"><u>Beat High CPU Load on God of War: Top Tips and Tricks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/best-choices-essential-support-gear-for-your-gopro-camera/"><u>Best Choices Essential Support Gear for Your GoPro Camera</u></a></li>
-<li><a href="https://win-able.techidaily.com/death-stranding-stops-working-on-pc-heres-how-you-can-resolve-that-problem/"><u>Death Stranding Stops Working on PC? Here's How You Can Resolve That Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/farming-simulator-22-pc-version-suffering-from-decreased-frames-per-second-solutions-inside/"><u>Farming Simulator 22 PC Version Suffering From Decreased Frames Per Second - Solutions Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-the-errgfxd3dinit-graphics-error-in-gta-v/"><u>How to Resolve the ERR_GFX_D3D_INIT Graphics Error in GTA V</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-smart-8-plus-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Smart 8 Plus Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pcs-prime-screen-capture-software-ranked-1-5/"><u>In 2024, PC's Prime Screen Capture Software Ranked #1-#5</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-ultimate-checklist-for-perfecting-your-laptops-screen-capture-abilities/"><u>In 2024, The Ultimate Checklist for Perfecting Your Laptop's Screen Capture Abilities</u></a></li>
-<li><a href="https://win-able.techidaily.com/roblox-load-screen-issues-try-these-proven-fixes-for-a-smooth-gaming-experience/"><u>Roblox Load Screen Issues? Try These Proven Fixes for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-formatting-a-locked-sd-card-across-pcs-macs-android-devices-and-cameras/"><u>Step-by-Step Guide: Formatting a Locked SD Card Across PCs, Macs, Android Devices & Cameras</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-correcting-the-0x8024c01c-update-failure-on-windows-platforms/"><u>Troubleshooting Guide: Correcting the 0X802^4C01C Update Failure on Windows Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixed-pc-issues-with-persona-3-fes-remake/"><u>Troubleshooting Guide: Fixed PC Issues with Persona 3 FES Remake</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/visualize-freely-premium-no-cost-screen-capture-tools-for-2024/"><u>Visualize Freely Premium No-Cost Screen Capture Tools for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/wave-goodbye-to-game-crashes-expert-fixes-for-a-smooth-run-of-total-war-warhammer-iii-on-pc/"><u>Wave Goodbye to Game Crashes: Expert Fixes for a Smooth Run of TOTAL WAR: WARHAMMER III on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-10-best-web-based-tools-for-clearing-up-fuzzy-images/"><u>[Updated] 10 Best Web-Based Tools for Clearing Up Fuzzy Images</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeos-global-distribution-guide/"><u>[Updated] 2024 Approved Vimeo's Global Distribution Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-does-quick-subscribe-strategy-boost-audience-growth/"><u>[Updated] In 2024, Does Quick-Subscribe Strategy Boost Audience Growth?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-editing-in-garageband/"><u>[Updated] Mastering the Art of Editing in GarageBand</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-2042-performance-fixes-resolving-frame-rate-dips-and-smoothing-gameplay-on-pc/"><u>Battlefield 2042 Performance Fixes: Resolving Frame Rate Dips & Smoothing Gameplay on PC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cutting-edge-technology-unpacked-a-detailed-review-of-the-impressive-samsung-qn55q6f-in-4k-uhd-and-hdr/"><u>Cutting Edge Technology Unpacked: A Detailed Review of the Impressive Samsung QN55Q6F in 4K UHD and HDR</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ng-the-highlighted-online-discourse/"><u>Finding the Highlighted Online Discourse</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-cod-black-ops-cold-war-error-80070057-complete-troubleshooting-guide/"><u>Fixing Cod: Black Ops Cold War Error 80070057 – Complete Troubleshooting Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-convert-any-vimeo-video-to-a-secure-mp4-file/"><u>How To Convert Any Vimeo Video to a Secure MP4 File</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-frequent-steam-applications-from-crashing-simple-fixes/"><u>How to Stop Frequent Steam Applications From Crashing - Simple Fixes!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y56-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/reviving-audio-in-your-fallout-adventure-steps-to-restore-sounds-in-pc-version/"><u>Reviving Audio in Your Fallout Adventure: Steps to Restore Sounds in PC Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/revolutionary-solutions-stop-paladins-from-crashing-top-strategies/"><u>Revolutionary Solutions: Stop Paladins From Crashing - Top Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-overcome-dota-2-endless-load-screen-problems/"><u>Solution: Overcome Dota 2 Endless Load Screen Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-cs2-frame-rate-issues-tips-and-tricks-for-a-smooth-gaming-experience/"><u>Solving CS2 Frame Rate Issues: Tips & Tricks for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-against-errors-effective-solutions-to-fix-ds4-connection-failures-on-a-pc-with-windows-os/"><u>Winning Against Errors: Effective Solutions to Fix DS4 Connection Failures on a PC with Windows OS</u></a></li>
+<li><a href="https://howto.techidaily.com/zte-nubia-z60-ultra-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>ZTE Nubia Z60 Ultra Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

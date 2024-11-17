@@ -1,7 +1,7 @@
 ---
 title: Minecraft Won't Launch? Here's How You Can Get It Working Perfectly on Windows 11!
-date: 2024-11-03T04:07:03.675Z
-updated: 2024-11-07T05:20:14.355Z
+date: 2024-11-14T22:53:29.284Z
+updated: 2024-11-16T19:36:15.179Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
 If that doesn’t work for you, try the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -63,10 +70,10 @@ If that doesn’t work for you, try the fixes below.
  After applying the changes, try installing Minecraft and check if it’s working properly. If your problem persists, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Download & install all Windows updates
@@ -79,12 +86,33 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-windows-update.png)
 3. Click **Check for updates** . If there are any updates available, Windows will download them.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates.png)
 4. Click **Restart now**  to restart your PC or you can **Schedule the restart** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
 
  Then try to double-click on the downloaded package and see if you can install Minecraft now. If you’ve still having the issue, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update your device drivers
 
@@ -97,13 +125,6 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
@@ -124,32 +145,18 @@ If that doesn’t work for you, try the fixes below.
 3. Click**Other troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/other-troubleshooter.png)
 4. Click on the**Run** button next to**Windows Store Apps** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-apps-run-troubleshooter.png)
 
  Then wait for it to detect and troubleshoot your issues. If it fails to identify them, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run a full scan of your PC
 
@@ -162,13 +169,6 @@ If that doesn’t work for you, try the fixes below.
 3. If it detects any issues on your PC, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
 
@@ -193,20 +193,24 @@ If that doesn’t work for you, try the fixes below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-add-background-scores-via-premiere-pro-for-2024/"><u>[New] Add Background Scores via Premiere Pro for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-most-shared-moments-socials-star-vids/"><u>2024 Approved Most Shared Moments Social's Star Vids</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-skyrocketing-traffic-the-ultimate-guide-to-youtube-outros-partnerships/"><u>2024 Approved Skyrocketing Traffic The Ultimate Guide to YouTube Outros Partnerships</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-powered-search-engines-and-their-potential-to-transform-online-visibility/"><u>AI-Powered Search Engines and Their Potential to Transform Online Visibility</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-dragon-quest-xi-software-errors-troubleshooting-steps-inside/"><u>Fixing Dragon Quest XI Software Errors: Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/making-an-informed-decision-on-itops-utility-for-2024/"><u>Making an Informed Decision on ITop's Utility for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/manufacture-jokes-memes-using-adobe/"><u>Manufacture Jokes Memes Using Adobe</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-court-and-your-computer-solve-nba-2k21-pc-glitches-easily/"><u>Mastering the Court and Your Computer: Solve NBA 2K21 PC Glitches Easily!</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-search-is-over-best-sony-vegas-alternatives-for-windows-video-editors/"><u>New In 2024, The Search Is Over Best Sony Vegas Alternatives for Windows Video Editors</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-startup-obstacles-a-2022-guide-for-playing-outriders-on-windows/"><u>Overcoming Startup Obstacles: A 2022 Guide for Playing Outriders on Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/photo-editing-mastery-leveraging-photoshops-background-eraser-tool-to-perfection/"><u>Photo Editing Mastery Leveraging Photoshop's Background Eraser Tool to Perfection</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-for-fixing-utorrents-downloading-problems/"><u>Step-by-Step Guide for Fixing uTorrent's Downloading Problems</u></a></li>
-<li><a href="https://win-webster.techidaily.com/success-story-overcoming-icloud-photo-sync-challenges-with-iphone-ipad-and-desktop-computers/"><u>Success Story: Overcoming iCloud Photo Sync Challenges with iPhone, iPad & Desktop Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-assassins-creed-mirage-launch-problems-insider-advice-for-gamers-in-2n14/"><u>Ultimate Fixes for Assassin's Creed Mirage Launch Problems - Insider Advice for Gamers in 2N14</u></a></li>
-<li><a href="https://win-able.techidaily.com/untangle-your-call-of-duty-warzone-a-four-step-guide-to-fixing-directx-errors/"><u>Untangle Your Call of Duty Warzone: A Four-Step Guide to Fixing DirectX Errors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-financial-key-to-boosting-your-videos-reach-for-2024/"><u>[New] The Financial Key to Boosting Your Video's Reach for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-avoid-common-pitfalls-with-proper-use-of-youtube-tags/"><u>[Updated] Avoid Common Pitfalls with Proper Use of YouTube Tags</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-counter-strike-global-offensive-warzone-bug-6328-with-pro-hacks/"><u>Conquering Counter-Strike: Global Offensive Warzone Bug #6328 with Pro Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-mc-launcher-failure-solve-0x803f8001-error/"><u>Eliminating MC Launcher Failure: Solve 0X803F8001 Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-gaming-experience-in-call-of-duty-black-ops-4-by-eliminating-lags-and-fps-declines/"><u>Enhancing Gaming Experience in Call of Duty: Black Ops 4 by Eliminating Lags & FPS Declines</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-captioning-101-how-to-add-subtitles-to-your-videos/"><u>FCPX Captioning 101 How to Add Subtitles to Your Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010222256-fix-the-uninvited-pc-party-crasher-6-expert-hacks-to-resolve-stray-crashes-now/"><u>Fix the Uninvited PC Party Crasher: 6 Expert Hacks to Resolve Stray Crashes Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-the-msi-mystic-light-to-work-a-step-by-step-guide-for-windows-users/"><u>Getting the MSI Mystic Light to Work: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-your-minecraft-game-running-smoothly-again-on-desktop-a-comprehensive-guide/"><u>Getting Your Minecraft Game Running Smoothly Again on Desktop: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a15-4g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Samsung Galaxy A15 4G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/image-innovation-for-windows-and-mac-photo-to-cartoon-software-for-2024/"><u>Image Innovation for Windows & Mac Photo-to-Cartoon Software for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-lava-yuva-2-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Lava Yuva 2 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-tiktok-tricks-faster-video-loading/"><u>In 2024, TikTok Tricks Faster Video Loading</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-when-your-chrome-keeps-crashing-on-windows-10/"><u>Quick Fixes for When Your Chrome Keeps Crashing on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/reconnecting-to-the-destiny-2-servers-a-comprehensive-guide-fixed/"><u>Reconnecting to the Destiny 2 Servers - A Comprehensive Guide [FIXED]</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-hitches-optimizing-pc-settings-for-smooth-fall-guys-sessions/"><u>Say Goodbye to Hitches: Optimizing PC Settings for Smooth Fall Guys Sessions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/stabilizing-high-flying-camera-work-a-guide-for-2024/"><u>Stabilizing High-Flying Camera Work A Guide for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/streamlined-guide-to-fixing-persistent-freezing-problems-with-chrome-on-windows-10-systems/"><u>Streamlined Guide to Fixing Persistent Freezing Problems with Chrome on Windows 10 Systems</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-8-plus-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 8 Plus</u></a></li>
 </ul></div>
 

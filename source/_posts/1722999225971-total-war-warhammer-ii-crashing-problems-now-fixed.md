@@ -1,7 +1,7 @@
 ---
 title: "Total War: Warhammer II Crashing Problems - Now Fixed"
-date: 2024-11-02T02:55:48.562Z
-updated: 2024-11-07T01:46:18.456Z
+date: 2024-11-13T06:03:44.820Z
+updated: 2024-11-17T00:35:54.639Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Storage   | 42 GB available space                        |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -49,6 +49,13 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Disable your antivirus software](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Edit username
 
@@ -66,16 +73,23 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
  If this doesn’t work for you, then try to verify game files in Steam.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
@@ -86,13 +100,6 @@ If this fix doesn’t work, move to the next fix.
 2. Right click NieR Replicant ver.1.22474487139… and select**Properties** …  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
@@ -124,19 +131,6 @@ There are mainly two ways you can update the graphics driver:
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable your antivirus software
 
  It’s possible that your anti-virus/Windows Security is interfering with NieR Replicant. When they block part of game files, there’ll be crashes. Therefore, disable real-time protection temporarily or make an exception for the game in the antivirus software would fix the issue.
@@ -148,26 +142,26 @@ Here’s how to disable Windows Security temporarily.
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Relaunch NieR Replicant and check if it’s running properly.
 
@@ -192,24 +186,22 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-bridging-the-gap-between-dreams-and-reality-using-magix-vpx/"><u>[New] 2024 Approved Bridging the Gap Between Dreams & Reality Using Magix VPX</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-comprehensive-analysis-of-samsung-image-editor/"><u>[New] Comprehensive Analysis of Samsung Image Editor</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-crafting-vivid-instagram-profile-previews/"><u>[New] In 2024, Crafting Vivid Instagram Profile Previews</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-far-cry-6-crashing-on-pc/"><u>[SOLVED] Far Cry 6 Crashing on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-hell-let-loose-keeps-crashing-on-pc/"><u>[SOLVED] Hell Let Loose Keeps Crashing on PC</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unleash-pure-content-how-to-block-youtube-ads-effectively/"><u>[Updated] In 2024, Unleash Pure Content How to Block YouTube Ads Effectively</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-no-cost-yield-assessment-apps-for-videos/"><u>[Updated] No-Cost Yield Assessment Apps for Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-expert-techniques-for-ps4-gameplay-documentation/"><u>2024 Approved Expert Techniques for PS4 Gameplay Documentation</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722998809964-battle-ready-fix-your-titanfall-2-crashing-problems-in-minutes/"><u>Battle Ready: Fix Your Titanfall 2 Crashing Problems in Minutes!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-inspiring-interview-experiences-for-2024/"><u>Crafting Inspiring Interview Experiences for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/elevating-aerial-photography-with-gopro-karma/"><u>Elevating Aerial Photography with GoPro Karma</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminating-latency-issues-for-a-smoother-experience-in-outriders/"><u>Eliminating Latency Issues for a Smoother Experience in Outriders</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013350682-farewell-to-frustration-cyberpunk-2077-glitch-fixed/"><u>Farewell to Frustration - Cyberpunk 2077 Glitch Fixed!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-madden-22-endless-loading-screen-problems/"><u>How to Fix Madden 22 Endless Loading Screen Problems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/innovative-facial-recognition-technology-replaces-traditional-tickets-at-new-mlb-stadium-a-closer-look-into-the-system/"><u>Innovative Facial Recognition Technology Replaces Traditional Tickets at New MLB Stadium: A Closer Look Into the System</u></a></li>
-<li><a href="https://win-able.techidaily.com/problem-fixed-upgrading-oculus-graphics-drivers-for-smooth-performance/"><u>Problem Fixed: Upgrading Oculus Graphics Drivers for Smooth Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723006059782-roblox-load-time-woes-heres-what-you-can-do/"><u>Roblox Load Time Woes? Here's What You Can Do</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unraveling-the-mysteries-of-smooth-audioshifts/"><u>Unraveling the Mysteries of Smooth Audioshifts</u></a></li>
-<li><a href="https://win-able.techidaily.com/warframe-wont-start-troubleshoot-fixes-and-solutions/"><u>Warframe Won't Start? Troubleshoot Fixes and Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-advanced-tips-for-capturing-iphone-7-content-for-2024/"><u>[New] Advanced Tips for Capturing iPhone 7 Content for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-from-watchlist-to-documents-a-comprehensible-list-of-six-mac-techniques-for-screenshotting-netflix/"><u>[New] In 2024, From Watchlist to Documents - A Comprehensible List of Six Mac Techniques for Screenshotting Netflix</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-srgb-and-traditional-rgb-rendering/"><u>[Updated] In 2024, Srgb and Traditional Rgb Rendering</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-breaking-down-the-secrets-of-impactful-asmr-video-creation/"><u>2024 Approved Breaking Down the Secrets of Impactful ASMR Video Creation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-stand-out-in-the-crowd-ingenious-tips-for-top-tinder-bios/"><u>2024 Approved Stand Out in the Crowd - Ingenious Tips for Top Tinder Bios</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-vlc-media-player-review-and-alternatives/"><u>2024 Approved VLC Media Player Review and Alternatives</u></a></li>
+<li><a href="https://blog-min.techidaily.com/m4amp4top5/"><u>無料で優秀なM4AからMP4への変換ツールTOP5</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-methods-to-correct-errors-in-microsoft-word-winwordexe/"><u>Effortless Methods to Correct Errors in Microsoft Word (WINWORD.EXE)</u></a></li>
+<li><a href="https://win-able.techidaily.com/grounded-desynchronization-problems-solved-get-pc-troubleshooting-tips-for-perfect-play/"><u>Grounded Desynchronization Problems Solved? Get Pc Troubleshooting Tips for Perfect Play '</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-and-retrieve-picturesvideos-from-a-water-damaged-iphone-x-that-wont-turn-on-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix & Retrieve Pictures/Videos From a Water Damaged iPhone X That Wont Turn on | Stellar</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-lag-in-fallout-4-optimize-and-overcome-pc-performance-hurdles/"><u>No More Lag in Fallout 4: Optimize & Overcome PC Performance Hurdles</u></a></li>
+<li><a href="https://win-able.techidaily.com/power-supply-issues-for-pc-an-inadequate-or-faulty-power-supply-unit-could-cause-the-computer-not-to-start-up-correctly-and-result-in-a-black-screen-checkin376/"><u>Power Supply Issues (for PC): An Inadequate or Faulty Power Supply Unit Could Cause the Computer Not to Start up Correctly and Result in a Black Screen. Checking Your PSU for Issues May Help</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722993060502-resolved-fixing-the-notorious-black-screen-issue-in-cyberpunk-2077/"><u>Resolved: Fixing the Notorious Black Screen Issue in Cyberpunk 2077</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-persistent-issues-with-gameplay-frames-per-second/"><u>Resolving Persistent Issues with Gameplay Frames Per Second</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-nwstoreexe-program-crash-effective-troubleshooting-steps/"><u>Resolving the NW_Store.exe Program Crash: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-troubleshooting-failed-game-load-ensuring-correct-game-files/"><u>Solved! Troubleshooting Failed Game Load – Ensuring Correct Game Files</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-reno-9a-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Reno 9A FRP Bypass</u></a></li>
 </ul></div>
 

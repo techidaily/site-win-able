@@ -1,7 +1,7 @@
 ---
 title: Optimizing Cyberpunk 2077 Performance by Enabling GPU on Windows 11 Systems
-date: 2024-09-01T08:00:57.173Z
-updated: 2024-09-02T08:00:57.173Z
+date: 2024-11-12T08:58:08.250Z
+updated: 2024-11-16T18:05:26.402Z
 tags:
   - win11
   - win10
@@ -62,15 +62,17 @@ To do so, first visit the website of your graphics card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503"><img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
@@ -88,24 +90,37 @@ Here’s how:
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If this trick doesn’t solve your problem, you can continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  Windows updates include some security patches and sometimes, a performance booster. The important part is that these system updates could tackle compatibility issues, thus being a potential fix to your issue.
@@ -118,9 +133,12 @@ And it’s quite easy to check for updates:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
 ---
@@ -135,8 +153,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +160,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-fbx-recorder-essentials-for-players-for-2024/"><u>[Updated] FBX Recorder Essentials For Players for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-lightrooms-power-for-spectacular-hdr-results/"><u>2024 Approved Harnessing Lightroom's Power for Spectacular HDR Results</u></a></li>
+<li><a href="https://fox-info.techidaily.com/breakthrough-visuals-top-10-monitors-for-your-macbook-for-2024/"><u>Breakthrough Visuals Top 10 Monitors For Your MacBook for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-combat-starfield-games-excessive-cpu-consumption/"><u>Effective Solutions to Combat Starfield Game's Excessive CPU Consumption</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-cut-off-and-terminate-your-tiktok-identity/"><u>How to Cut Off and Terminate Your TikTok Identity</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-a-frozen-minecraft-game-for-smooth-playback/"><u>How to Fix a Frozen Minecraft Game for Smooth Playback</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-inside-look-magix-video-pro-x/"><u>In 2024, Inside Look Magix Video Pro X</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/professional-video-capture-techniques-mastering-movs-on-win10/"><u>Professional Video Capture Techniques Mastering MOVs on Win10</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-total-war-three-kingdoms-gameplay-interruptions-with-these-hacks/"><u>Solve Your Total War: Three Kingdoms Gameplay Interruptions with These Hacks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-installing-your-acer-aspire-laptops-drivers-on-a-windows-system/"><u>Step-by-Step Guide: Installing Your Acer Aspire Laptop's Drivers on a Windows System</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-successfully-start-team-fortress-2-after-a-glitch/"><u>Steps to Successfully Start Team Fortress 2 After a Glitch</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-3ips-precision-audio-capture-solutions/"><u>Top 3iP's Precision Audio Capture Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-modern-warfare-3-mw3-game-doesnt-open-error-fixes/"><u>Troubleshooting Steps: 'Modern Warfare 3 (MW3)' Game Doesn't Open Error Fixes</u></a></li>
+</ul></div>
 

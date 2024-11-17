@@ -1,7 +1,7 @@
 ---
 title: How to Fix Microsoft Edge Stability Issues in Windows 10
-date: 2024-10-31T19:48:29.799Z
-updated: 2024-11-07T04:24:24.640Z
+date: 2024-11-16T05:51:23.105Z
+updated: 2024-11-16T18:59:38.260Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 * Restart your PC
 * Install the latest updates
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -63,6 +56,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Repair & reset Microsoft Edge
 
  If you can’t open Microsoft Edge, it’s probably the application files are corrupted, you could repair or reset it to fix the problem.
@@ -82,15 +82,22 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
 
@@ -102,30 +109,37 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. Click**Clear history** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -160,21 +174,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -187,10 +187,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
@@ -221,24 +221,24 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/uilding-a-strong-network-how-to-form-effective-youtube-partner-relationships/"><u>[New] Building a Strong Network How to Form Effective YouTube Partner Relationships</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unleash-creativity-premium-editors-for-mobile-and-desktop-oses/"><u>[New] In 2024, Unleash Creativity Premium Editors for Mobile & Desktop OSes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-rethinking-social-media-presence-in-light-of-instagrams-new-algorithm-for-2024/"><u>[New] Rethinking Social Media Presence in Light of Instagram's New Algorithm for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-bridging-content-gap-youtube-videos-to-instagram/"><u>[Updated] Bridging Content Gap YouTube Videos to Instagram</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ary-callings-innovative-naming-for-foodie-channels-for-2024/"><u>Culinary Callings Innovative Naming for Foodie Channels for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-to-fixing-pc-disruptions-during-forza-horizon-4-gameplay/"><u>Expert Guide to Fixing PC Disruptions During Forza Horizon 4 Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/follow-your-kiln-manufacturers-instructions-for-temperature-and-timing-typically-around-cone-03-1824f-or-995c-to-cone-6-2232f-or-1222c-depending-on-the-type425/"><u>Follow Your Kiln Manufacturer's Instructions for Temperature and Timing, Typically Around Cone 03 (1824°F or 995°C) to Cone 6 (2232°F or 1222°C), Depending on the Type of Underglaze Used</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-enjoy-lag-free-fortnite-gaming-fixes-and-optimizations/"><u>How to Enjoy Lag-Free Fortnite Gaming: Fixes and Optimizations</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-mass-effect-legendary-edition-from-crashing-on-pc-or-your-gaming-console/"><u>How To Prevent Mass Effect Legendary Edition From Crashing on PC or Your Gaming Console</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-successfully-reinstall-and-rectify-errors-in-your-ryzen-master-driver-setup/"><u>How To Successfully Reinstall and Rectify Errors in Your Ryzen Master Driver Setup</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-successfully-start-mass-effect-legendary-edition-fixes-for-common-launch-issues/"><u>How to Successfully Start Mass Effect Legendary Edition - Fixes for Common Launch Issues</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-your-hardware-drivers-in-windows-11107-by-drivereasy-guide/"><u>How to use Device Manager to update your hardware drivers in Windows 11/10/7</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a05sfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A05sFRP Lock</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-amplify-animated-photo-with-acoustic-elements-via-win-1011/"><u>New Amplify Animated Photo with Acoustic Elements via Win 10/11</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-godfall-lag-ultimate-fix-for-pc-game-crashes-and-freezes/"><u>No More Godfall Lag: Ultimate Fix for PC Game Crashes and Freezes</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-status-of-wolcen-release-an-in-depth-look-at-why-its-not-yet-available/"><u>The Status of Wolcen Release: An In-Depth Look at Why It's Not Yet Available</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-nokia-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Nokia without backup.</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004210310-troubleshooting-steps-for-star-wars-battlefront-2-error-code-327-get-back-in-the-game/"><u>Troubleshooting Steps for Star Wars Battlefront 2 Error Code 327 – Get Back in the Game</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unlimited-free-image-refinement-onlinemobile/"><u>[Updated] In 2024, Unlimited Free Image Refinement Online/Mobile</u></a></li>
+<li><a href="https://win-able.techidaily.com/bluestacks-stability-solutions-a-step-by-step-guide-for-swift-fixes-in-5-steps/"><u>BlueStacks Stability Solutions: A Step-by-Step Guide for Swift Fixes in 5 Steps</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enhanced-sites-smart-and-adaptive-user-experience/"><u>Cookiebot-Enhanced Sites: Smart & Adaptive User Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-video-projects-with-stable-sony-vegas-overcoming-frequent-crashes/"><u>Enhance Your Video Projects with Stable Sony Vegas: Overcoming Frequent Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-overcoming-the-king-of-fighters-xvs-pc-performance-problems/"><u>Expert Solutions: Overcoming The King of Fighters XV's PC Performance Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997692080-fix-outlook-wont-open/"><u>Fix: Outlook Won't Open</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-silent-skies-troubleshooting-the-skyrim-audio-issue/"><u>Fixing Silent Skies: Troubleshooting the Skyrim Audio Issue</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/harnessing-voice-recognition-for-dynamic-decks/"><u>Harnessing Voice Recognition for Dynamic Decks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-your-devices-persistent-black-screen-dilemma-resolved/"><u>How to Fix Your Device's Persistent Black Screen Dilemma - Resolved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-recover-and-fix-broken-game-files-on-a-windows-machine/"><u>How to Recover and Fix Broken Game Files on a Windows Machine</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/immersive-cinematography-anchors/"><u>Immersive Cinematography Anchors</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-prime-video-stardom-top-tweets-and-peak-watchability-rankings/"><u>In 2024, Prime Video Stardom Top Tweets and Peak Watchability Rankings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/make-your-ig-stories-inclusive-a-comprehensive-tutorial-on-implementing-captions/"><u>Make Your IG Stories Inclusive: A Comprehensive Tutorial on Implementing Captions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/professional-strategies-converting-xmlssattml-to-dynamic-srts-for-2024/"><u>Professional Strategies Converting XML/SSA/TTML to Dynamic SRTs for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revived-radeon-ray-tracing-glitch/"><u>Revived Radeon Ray Tracing Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-overcoming-freezing-problems-in-chrome-on-win10-computers/"><u>Step-by-Step Guide: Overcoming Freezing Problems in Chrome on Win10 Computers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/transforming-viewership-into-income-youtubes-advertising-guide-for-2024/"><u>Transforming Viewership Into Income YouTube's Advertising Guide for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-crusader-kings-iii-stability-issues-on-pcs/"><u>Troubleshooting Tips for Crusader Kings III Stability Issues on PCs</u></a></li>
 </ul></div>
 

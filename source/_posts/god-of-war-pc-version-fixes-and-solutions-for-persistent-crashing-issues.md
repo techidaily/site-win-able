@@ -1,7 +1,7 @@
 ---
 title: "God of War PC Version: Fixes & Solutions for Persistent Crashing Issues"
-date: 2024-11-04T18:23:48.942Z
-updated: 2024-11-06T19:27:30.614Z
+date: 2024-11-10T21:56:30.538Z
+updated: 2024-11-17T03:36:42.913Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ The Outriders is finally out! However, many players encountered Outriders crashi
 4. **[Enforce DX12](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Run Outriders as an administrator
 
  When Outriders fails to obtain the necessary permissions to function properly, it will crash. In this case, you should run the game in the administrator mode. This method also works for the_Outriders-win64-shipping.exe system error_ that many players reported.
@@ -49,18 +42,18 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
 
@@ -86,22 +79,8 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -109,10 +88,10 @@ There are mainly two ways you can update the graphics driver:
  After the process finishes, restart your computer. If all the drivers are up-to-date but the gameplay is still buggy, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the in-game settings
@@ -124,19 +103,19 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/in-game-settings-1.jpg)
 3. Under the**Display** tab, set the parameters as follows:  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Windows Mode** :_Borderless_ or_Windowed_  
 **VSync** :_Off_  
 **Enable FPS Limit** :_On_  
 **FPS Limit** : Set the value to_between 30 and 60_
 
  While doing this may decrease the visual performance, it’s an effective workaround for Outriders inventory/menu crashes before the full version launches.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Enforce DX12
 
@@ -149,12 +128,26 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
 4. Close the window and launch Outriders.
 
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
 
 Still no luck with DX12? Then check out the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -168,6 +161,13 @@ Still no luck with DX12? Then check out the next method below.
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once done, start Outriders and test the game.
 
@@ -194,18 +194,18 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-3-affordable-switch-game-duplicates/"><u>[New] 2024 Approved Top 3 Affordable Switch Game Duplicates</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-checklist-for-ideal-podcast-title-creation/"><u>[New] The Ultimate Checklist for Ideal Podcast Title Creation</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bengali-breakthroughs-in-brief-sessions/"><u>Bengali Breakthroughs in Brief Sessions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-the-best-in-smart-tv-technology-with-a-detailed-review-of-the-samsung-qn55q60rafxza/"><u>Discover the Best in Smart TV Technology with a Detailed Review of the Samsung QN55Q60RAFXZA</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-big-game-watch-expert-advice-for-setting-up-an-ideal-super-bowl-entertainment-system/"><u>Enhance Your Big Game Watch: Expert Advice for Setting Up an Ideal Super Bowl Entertainment System</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-implemented-for-cod-warzones-troublesome-pacific-map-crashing/"><u>Fixes Implemented for COD: Warzone's Troublesome Pacific Map Crashing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-multimedia-iptv-networking/"><u>In 2024, Multimedia IPTV Networking</u></a></li>
-<li><a href="https://win-able.techidaily.com/netflix-fixes-streaming-issues-on-xbox-one/"><u>Netflix Fixes Streaming Issues on Xbox One</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-detectability-challenges-for-astros-a50-in-command-center-setup/"><u>Overcoming Detectability Challenges for Astro’s A50 in Command Center Setup</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-installation-hurdles-minecraft-setup-woes-on-windows-11-resolved/"><u>Overcoming Installation Hurdles: Minecraft Setup Woes on Windows 11 Resolved</u></a></li>
-<li><a href="https://windows11.techidaily.com/securely-sharing-computers-with-zero-password-access-in-win-11/"><u>Securely Sharing Computers with Zero-Password Access in Win 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-persistent-ready-or-not-game-crashes-on-windows/"><u>Troubleshooting Steps for Persistent 'Ready Or Not' Game Crashes on Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-oppo-find-x6-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Oppo Find X6 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-assessing-video-broadcast-tools-wirecasts-place/"><u>[Updated] Assessing Video Broadcast Tools WireCast's Place</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-elite-list-10-websites-with-superior-vectors/"><u>[Updated] The Elite List 10 Websites with Superior Vectors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/alexa-assistants-showdown-picking-the-perfect-partner-between-echo-pop-and-echo-dot/"><u>Alexa Assistants Showdown: Picking the Perfect Partner Between Echo Pop and Echo Dot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beginners-guide-exploring-the-world-of-ai-with-these-9-communities/"><u>Beginner's Guide: Exploring the World of AI with These 9 Communities</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/break-the-ice-with-top-10-easy-italian-salutations/"><u>Break the Ice with Top 10 Easy Italian Salutations</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-the-woes-of-oxygens-crashing-problem-with-these-simple-solutions/"><u>End the Woes of Oxygen's Crashing Problem with These Simple Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969983456-for-the-abstract-art-assembly-instructions/"><u>For the Abstract Art Assembly Instructions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-to-edit-top-10-online-video-editors-with-no-hidden-fees-or-watermarks/"><u>Free to Edit Top 10 Online Video Editors with No Hidden Fees or Watermarks</u></a></li>
+<li><a href="https://win-able.techidaily.com/midgard-chronicles-fixing-the-troublesome-tribe-conflicts-in-assassins-creed-valhalla/"><u>Midgard Chronicles: Fixing the Troublesome Tribe Conflicts in Assassin's Creed Valhalla</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/preserve-your-connections-a-guide-to-backing-up-outlook/"><u>Preserve Your Connections: A Guide to Backing Up Outlook</u></a></li>
+<li><a href="https://win-able.techidaily.com/roblox-volume-back-on-track-troubleshooting-no-sound-issues-on-windows-operating-systems/"><u>Roblox Volume Back On Track: Troubleshooting No Sound Issues on Windows Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/starcraft-2-continuous-play-made-possible-overcome-pc-freeze-and-crash-problems/"><u>Starcraft 2 Continuous Play Made Possible: Overcome PC Freeze & Crash Problems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Restoring Gaming Bliss: Repairing Damaged Video Game Data"
-date: 2024-11-03T03:24:37.976Z
-updated: 2024-11-06T17:27:47.133Z
+date: 2024-11-15T05:09:57.526Z
+updated: 2024-11-17T09:35:31.721Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3
 
  If the in-game FPS doesn’t imrpove much after you updated your graphics driver, you may need to tweak the graphics settings. Here’s how to do it:
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Tweak your graphics card settings
 
  You need to tweak your graphics card settings in Nvidia or AMD control panel.
@@ -105,6 +98,19 @@ For AMD users, follow the steps below:
 
  Launch the game to see the fps increases. If not, move on to modify Windows 10 OS graphics settings.
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Modify Windows 10 OS graphics settings
 
 Simply follow the steps below to modify Windows 10 OS graphics settings:
@@ -114,27 +120,14 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 2. In the Graphics settings window, click **Browse** to open **File Explorer** .  
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Windows 10 graphics settings](https://images.drivereasy.com/wp-content/uploads/2021/05/Windows-10-graphics-settings.jpg)
 3. Then go to **the drive where you save Resident Evil Village game files** \> **Program Files (x86)** or **Program Files** \> **Steam** \> **steamapps** \> **common** \> **Resident Evil Village** game folder, double-click **the .exe file** of Resident Evil Village to add the game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Once added, click the**Options** button under re8.exe, then select **High performance** and click **Save** .  
 ![Windows 10 graphics settings high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/Windows-10-graphics-settings-high-performance.jpg)
@@ -152,10 +145,16 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
  Restart the game to check if the Resident Evil Village fps drops again. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
@@ -174,14 +173,14 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 ![Resident Evil Village steam properties](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-steam-properties.jpg)
 2. In the**GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-![Disable the Steam Overlay for Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/Disable-the-Steam-Overlay-for-Resident-Evil-Village.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Disable the Steam Overlay for Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/Disable-the-Steam-Overlay-for-Resident-Evil-Village.jpg)
 
  Launch Resident Evil Village to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
@@ -195,6 +194,13 @@ To set Resident Evil Village to High priority:
 2. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 3. Navigate to the **Detail** tab. **Right-click** the **main process of Resident Evil Village** and select **High** .  
 ![Resident Evil Village high priority](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-high-priority.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart the game to see if the in-game FPS improves. If the FPS is still the same, try the next fix, below.
 
@@ -223,10 +229,10 @@ To set Resident Evil Village to High priority:
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Launch Resident Evil Village to check if the in-game fps improves.
@@ -240,20 +246,20 @@ Launch Resident Evil Village to check if the in-game fps improves.
 2. Under the**Advanced** tab, click the Settings… button in the**Performance** section.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Advanced Performance Settings](https://images.drivereasy.com/wp-content/uploads/2021/05/Advanced-Performance-Settings.jpg)
 3. Under the**Visual Effects** tab, select**Adjust for best performance** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Adjust Windows for best performance](https://images.drivereasy.com/wp-content/uploads/2021/05/Adjust-Windows-for-best-performance.jpg)
@@ -286,20 +292,22 @@ Launch Resident Evil Village to see if you get a better in-game fps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-diverse-vlogging-content-suggestions/"><u>[New] In 2024, Diverse Vlogging Content Suggestions</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-enhance-visual-engagement-mastering-instagram-image-posts/"><u>[Updated] In 2024, Enhance Visual Engagement Mastering Instagram Image Posts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-premier-6-platforms-for-video-localization/"><u>[Updated] In 2024, Premier 6 Platforms for Video Localization</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfected-techniques-for-high-quality-webp-to-jpg-conversion/"><u>2024 Approved Perfected Techniques for High-Quality WebP to JPG Conversion</u></a></li>
-<li><a href="https://win-able.techidaily.com/achieving-smooth-play-in-fall-guys-techniques-for-increasing-frames-per-second-fps-and-decreasing-lag/"><u>Achieving Smooth Play in Fall Guys: Techniques for Increasing Frames Per Second (FPS) and Decreasing Lag</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/expert-analysis-how-showmore-enhances-your-video-capture-techniques/"><u>Expert Analysis How ShowMore Enhances Your Video Capture Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-persistent-performance-problems-in-dying-light-how-to-solve-the-games-lags/"><u>Fixing Persistent Performance Problems in 'Dying Light': How to Solve the Game's Lags</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-edge-over-competition-fixing-street-fighter-6s-latency-and-improving-your-online-matches/"><u>Getting Edge over Competition: Fixing Street Fighter 지오 6'S Latency & Improving Your Online Matches</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/linus-torvalds-unveils-his-views-on-artificial-intelligence-and-rust-in-modern-computing-spotlighting-the-heartbeat-of-technology-the-linux-kernel-zdnet/"><u>Linus Torvalds Unveils His Views on Artificial Intelligence and Rust in Modern Computing, Spotlighting the Heartbeat of Technology - The Linux Kernel | ZDNET</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-endless-cycle-stop-fuser-from-hitting-pc-blackouts-now/"><u>Resolving the Endless Cycle: Stop Fuser From Hitting PC Blackouts Now!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/revolutionize-your-life-strategies-for-effective-transformation/"><u>Revolutionize Your Life: Strategies for Effective Transformation</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solution-why-doesnt-starfield-work-properly-on-windowsmac/"><u>Step-by-Step Solution: Why Doesn't Starfield Work Properly on Windows/Mac?</u></a></li>
-<li><a href="https://win-able.techidaily.com/tarkov-hackers-hub-fixing-error-code-103003-easy-ways/"><u>Tarkov Hackers Hub: Fixing Error Code 103003 Easy Ways</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-crafted-by-professionals-best-free-mobile-editors-for-android/"><u>[New] 2024 Approved Crafted by Professionals Best Free Mobile Editors for Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-essential-iphone-watermark-software-guide-for-2024/"><u>[New] Essential iPhone Watermark Software Guide for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-whatsapp-audio-messages-decoded/"><u>[New] In 2024, WhatsApp Audio Messages Decoded</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-core-elements-of-kinetic-visual-storytelling/"><u>2024 Approved The Core Elements of Kinetic Visual Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-top-10-4k-screens/"><u>2024 Approved The Ultimate Guide to #Top 10 4K Screens</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-utilizing-smartphones-for-effective-home-based-filming/"><u>2024 Approved Utilizing Smartphones for Effective Home-Based Filming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-hugging-face-functionality-and-uses-unveiled/"><u>A Comprehensive Guide to Hugging Face – Functionality & Uses Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/chrome-page-load-issues-solutions-and-tips/"><u>Chrome Page Load Issues: Solutions and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-step-by-step-solution-resolving-fifa-21-crashes-in-windows/"><u>Complete Step-by-Step Solution: Resolving FIFA 21 Crashes in Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-phasmophobia-crashes-essential-troubleshooting-guide-for-gamers-in-202/"><u>Fixing Phasmophobia Crashes: Essential Troubleshooting Guide for Gamers in 202#!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-airwaves-to-iphone-essential-knowledge-on-podcast-downloads/"><u>In 2024, From Airwaves to iPhone Essential Knowledge on Podcast Downloads</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leveraging-state-of-the-art-cookiebot-for-superior-seo-results/"><u>Leveraging State-of-the-Art Cookiebot for Superior SEO Results</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-startup-errors-in-witcher-3-wild-hunt-effective-solutions-guide/"><u>Overcoming Startup Errors in Witcher 3: Wild Hunt – Effective Solutions Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-hurdle-a-step-by-step-guide-to-launching-red-dead-redemption-2/"><u>Overcoming the Hurdle: A Step-by-Step Guide to Launching Red Dead Redemption 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-game-stability-solved-the-ultimate-guide-to-stop-v-rising-from-crashing-down/"><u>PC Game Stability Solved: The Ultimate Guide to Stop 'V-Rising' From Crashing Down</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011416061-red-dead-redemption-2-stuck-here-are-proven-fixes-for-incessant-loading-screens/"><u>Red Dead Redemption 2 Stuck? Here Are Proven Fixes for Incessant Loading Screens!</u></a></li>
+<li><a href="https://win-able.techidaily.com/rescue-your-adventure-in-diablo-2-resurrected-a-guide-to-resolving-game-freezes-and-crashes/"><u>Rescue Your Adventure in Diablo 2 Resurrected - A Guide to Resolving Game Freezes and Crashes</u></a></li>
 </ul></div>
 

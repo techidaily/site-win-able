@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Fixing 'Atomic Heart' Error on Launch
-date: 2024-09-01T08:04:18.718Z
-updated: 2024-09-02T08:04:18.718Z
+date: 2024-11-14T09:46:47.934Z
+updated: 2024-11-17T10:03:17.750Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ The moment-to-moment gameplay of runnin’-and-gunnin’ is super fun, but playe
 10. [Run system file checker](https://tools.techidaily.com/drivereasy/download/)
 11. [Reinstall the game](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update Epic Games Launcher
 
  Actually, many Borderlands 3 gamers find the fix as simple as updating the Epic Games Launcher. If updates need to be installed, the launcher should automatically detect them.
@@ -53,21 +60,21 @@ The moment-to-moment gameplay of runnin’-and-gunnin’ is super fun, but playe
 
 ![open library](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1027.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**Verify** and wait till the verification to complete.
 
 ![verify game files](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1026.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After verifying the game files, relaunch Borderlands 3 to see if it’s fixed. If so, then congrats! If not, don’t worry, there are a few fixes you can try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 3: Run as administrator
 
  Borderlands 3 sometimes may not be able to access certain game files on your PC under normal user mode, which could be the cause of the not launching issue. To fix it, you can try running it as an administrator.
@@ -88,9 +95,6 @@ If the problem still persists, then go ahead with the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Check for Windows updates
 
  To ensure compatibility, you can always check if you have the latest updates. If your PC is running on Windows 10, you just need to perform a Windows Update.
@@ -100,20 +104,28 @@ If the problem still persists, then go ahead with the fix below.
 ![check for updates](https://images.drivereasy.com/wp-content/uploads/2019/09/check-for-updates.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) If there are updates available, you can click**Download** , then follow the on-screen directions to finish installing.
 
 ![update Windows](https://images.drivereasy.com/wp-content/uploads/2019/09/image-970.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or if it says**You’re up to date** , just click**Check for updates** . Windows will start searching for available updates and automatically download and install the updates if there are any.
 
  Once you’ve updated your system, perform a complete shutdown and restart your PC, then see if the issue is fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Update device drivers
 
@@ -143,9 +155,6 @@ If the problem still persists, then go ahead with the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Reverting back to DX11
 
  If you try to enable DX12 on Borderlands 3 and get stuck in loading forever, you can try to set it back to DX11 and it will work again.
@@ -165,15 +174,6 @@ If the problem still persists, then go ahead with the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### Fix 7: Temporarily disable anti-virus software
 
  Borderlands 3 not launching is sometimes caused by your third-party antivirus application. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists.
@@ -206,23 +206,28 @@ If the problem still persists, then go ahead with the fix below.
 
 ![open microsoft services](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1002.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Select the**Startup** tab and click**Open Task Manager** .
 
 ![open Start up](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1003.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Under the**Startup** tab, select**each** startup item and then click**Disable** .
 
 ![disable start up services](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1019.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Click**Apply** \>**OK** .
 
 ![open start up settings](https://images.drivereasy.com/wp-content/uploads/2020/09/strat-up-apps.jpg)
@@ -240,8 +245,12 @@ If the problem still persists, then go ahead with the fix below.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 10: Run system file checker
 
  Missing or damaged system files may lead to Borderlands not launching. To fix this problem, you can use the**system file checker** tool of Windows to check for any file corruption and thereby repair it.
@@ -250,9 +259,6 @@ If the problem still persists, then go ahead with the fix below.
 
 ![borderlands won't launch open cmd](https://images.drivereasy.com/wp-content/uploads/2019/09/cmd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Click**Yes** when you are prompted for permission.
 
  3) In the Command Prompt window, type the following command (**note** that there’s a space between**sfc** and**/** ) and press**Enter** .
@@ -274,6 +280,13 @@ sfc /scannow
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 11: Reinstall the game
 
  If none of the fixes above works for you, you may need to try reinstalling the game to solve this problem.
@@ -284,9 +297,6 @@ sfc /scannow
 
 ![borderlands 3 not launching fix](https://images.drivereasy.com/wp-content/uploads/2019/09/image-998.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  3) Right-click**Borderlands 3** , then click**Uninstall** .
 
  Normally, Borderlands 3 can work properly again after you reinstall it. If it still doesn’t work, you may uninstall Epic Games as well.
@@ -305,8 +315,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -314,4 +322,21 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-channel-saving-techniques-youtube-meets-igtv-for-2024/"><u>[Updated] Channel-Saving Techniques YouTube Meets IGTV for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beyond-light-for-pc-now-stable-overcome-previous-crashes-with-latest-patch/"><u>Beyond Light for PC Now Stable – Overcome Previous Crashes with Latest Patch</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-to-overcome-the-dangerous-fatal-error-ark-issue/"><u>Comprehensive Solutions to Overcome the Dangerous 'Fatal Error Ark' Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-the-your-hardware-is-not-supported-error-0xc19001e1-in-windows-10/"><u>Effective Solutions for the 'Your Hardware Is Not Supported' Error (0xC19001E1) in Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010505543-effortlessly-enhance-your-dayz-gameplay-increased-fps-now/"><u>Effortlessly Enhance Your DayZ Gameplay – Increased FPS Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-rectifying-back-astopper-for-back-4-bloods-ue4-gobi-error-challenge/"><u>Expert Tips on Rectifying Back Astopper for Back 4 Blood's UE4-Gobi Error Challenge</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-s18-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo S18 Location | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/microsoft-edge-stability-issues-in-windows-10-fixes-and-preventative-measures/"><u>Microsoft Edge Stability Issues in Windows 10 – Fixes and Preventative Measures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/my-journey-with-diy-gun-production-via-3d-printer-debunking-the-hype/"><u>My Journey with DIY Gun Production via 3D Printer: Debunking the Hype</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-world-of-firefox-nightly-benefits-risks-and-user-recommendations/"><u>Navigating the World of Firefox Nightly: Benefits, Risks & User Recommendations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/nba-2k21-green-hack-cracked-ultimate-solution-uncovered/"><u>NBA 2K21 Green Hack Cracked: Ultimate Solution Uncovered</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-simple-steps-for-changing-windows-11-name/"><u>Unveiling the Simple Steps for Changing Windows 11 Name</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Infinix Hot 40i? | Dr.fone</u></a></li>
+</ul></div>
 

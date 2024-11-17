@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide - Resolving Non-Functional Nvidia Overlay Issues
-date: 2024-11-03T22:51:22.975Z
-updated: 2024-11-07T04:28:58.694Z
+date: 2024-11-13T23:38:00.584Z
+updated: 2024-11-16T19:19:18.379Z
 tags:
   - win11
   - win10
@@ -46,16 +46,16 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-166-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/005.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In the pop-up window, double-click the**Origin**  folder to open it.
 
@@ -90,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
  If Origin opens, you’ve resolved this issue. If not, try the next fix below to run the Program Compatibility Troubleshooter.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: update your graphics driver to the latest version**
 
@@ -129,6 +136,13 @@ Or
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 3: Run the Program Compatibility Troubleshooter**
 
@@ -174,13 +188,6 @@ Or
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 5: Perform a clean boot**
 
 You may need to   **perform a clean boot** if this issue persists  . The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can find out the problematic software. Once you find it out, just uninstall it, and then the this  issue will be solved. Here’s how to do it:
@@ -188,6 +195,19 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  1) On your keyboard, press**the** **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap266-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select the**Services** tab, check **Hide all Microsoft services** and then click **Disable all** .
 
@@ -197,44 +217,37 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap261-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) On the**Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Go back to the**System Configuration** window and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Click**Restart** to restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap263-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run Origin and check whether the problem reappears when your PC restarts. If not, you need to open the**System Configuration** window again to enable services and applications**one by one** until you find the problematic software. After enabling each service, you need to **restart** your PC to apply the changes.
 
  Once you find out the problematic software, you need to **uninstall** it in order to resolve this issue. If this fix failed to resolve this problem, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 6: Install the latest Windows updates**
 
@@ -243,13 +256,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  1) On your keyboard, press**the Windows logo key** and type **update** . In the list of results, click **Check for updates** to open **Windows Update** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap1-1-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click **Check for updates** to update your Windows system.
 
@@ -273,26 +279,26 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  iii. Double-click**Origin** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 iv. Restart your Windows system when it is completed.
@@ -321,24 +327,16 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/he-ultimate-thumbnail-blueprint-for-successful-videos/"><u>[New] The Ultimate Thumbnail Blueprint for Successful Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-trifecta-for-instagram-video-borders-for-2024/"><u>[Updated] The Ultimate Trifecta for Instagram Video Borders for 2024</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/3gpm4v-movavi/"><u>移動網路下，無成本地變更3GP影片格式到M4V - Movavi 轉換工具</u></a></li>
-<li><a href="https://win-able.techidaily.com/back-4-blood-pc-stability-issues-troubleshooting-and-fixes/"><u>Back 4 Blood PC Stability Issues: Troubleshooting and Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722063443569-clarification-needed-the-safe-to-use-chatgpt-for-windows-is-nonexistent-watch-out-for-malware-imitators/"><u>Clarification Needed: The Safe-to-Use ChatGPT for Windows Is Nonexistent – Watch Out For Malware Imitators!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-elite-audio-upgrades-the-creme-de-la-creme-sound-cards-of-the-2024-market/"><u>Discover Elite Audio Upgrades: The Crème De La Crème Sound Cards of the 2024 Market</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easy-uninstall-how-to-remove-your-systems-graphic-driver/"><u>Easy Uninstall: How To Remove Your System's Graphic Driver</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/enhancing-communication-top-4-techniques-for-fb-call-records-for-2024/"><u>Enhancing Communication Top 4 Techniques for FB Call Records for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhancing-performance-fixes-for-low-frames-per-second-fps-and-hiccups-in-splitgate/"><u>Enhancing Performance: Fixes for Low Frames Per Second (FPS) and Hiccups in Splitgate</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-performance-fix-overcoming-lag-and-enhancing-play/"><u>Fortnite Performance Fix: Overcoming Lag and Enhancing Play</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722998546024-getting-unstuck-from-fortnites-load-screen-dilemma-solutions-inside/"><u>Getting Unstuck From Fortnite's Load Screen Dilemma - Solutions Inside!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-graphics-initialization-failure-in-destiny-2-solution-steps/"><u>How To Fix 'Graphics Initialization Failure' In Destiny 2 – Solution Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-starfield-from-freezing-or-crashing-during-playtime-on-your-computer/"><u>How to Stop Starfield From Freezing or Crashing During Playtime on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/minecraft-installation-woes-heres-how-you-can-get-it-running-smoothly-on-windows-11/"><u>Minecraft Installation Woes? Here's How You Can Get It Running Smoothly on Windows 11!</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-discord-camera-failures-a-step-by-step-solution-guide/"><u>Overcoming Discord Camera Failures: A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-constant-crash-problem-for-a-smooth-run-of-diablo-3/"><u>Resolving the Constant Crash Problem for a Smooth Run of Diablo 3</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-technique-for-transforming-rmvb-video-format-to-flv-on-your-pc-or-mac-device/"><u>The Ultimate Technique for Transforming RMVB Video Format to FLV on Your PC or Mac Device</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-k70-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi K70 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-preventing-frames-gaps-for-flawless-video-captures/"><u>[New] Preventing Frames Gaps for Flawless Video Captures</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-gopro-editing-software-best-15-action-cam-video-editors-for-2024/"><u>[Updated] GoPro Editing Software Best 15 Action Cam Video Editors for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-screen-shots-on-windows-machines/"><u>[Updated] Mastering Screen Shots on Windows Machines</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/digital-masterpieces-by-rob-johnson-the-exclusive-art-of-digiarty/"><u>Digital Masterpieces by Rob Johnson - The Exclusive Art of Digiarty</u></a></li>
+<li><a href="https://win-able.techidaily.com/immortals-of-fenyx-rising-game-stability-issues-resolved/"><u>Immortals of Fenyx Rising Game Stability Issues - Resolved</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-apk-gaming-revolution-welcome-funimate-pro-android-edition/"><u>In 2024, APK Gaming Revolution Welcome Funimate Pro Android Edition</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-solution-to-starfield-wont-load-how-to-guide-for-steamxbox-users/"><u>Mastering the Solution to 'Starfield Won't Load': How-To Guide for Steam/Xbox Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-pc-stability-problems-fixing-constant-overwatch-2-crashes/"><u>Overcoming PC Stability Problems: Fixing Constant Overwatch 2 Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-for-discord-screen-share-muting-and-volume-troubles/"><u>Solution Guide for Discord Screen Share Muting and Volume Troubles</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/turn-your-photos-into-funny-cartoons-online/"><u>Turn Your Photos Into Funny Cartoons Online</u></a></li>
 </ul></div>
 

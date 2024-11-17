@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Smooth Play in Far Cry 6: Comprehensive Guide to Avoid PC Crashes"
-date: 2024-11-01T22:56:39.235Z
-updated: 2024-11-06T20:09:02.230Z
+date: 2024-11-15T18:23:11.082Z
+updated: 2024-11-17T00:21:36.564Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 * Restart your PC
 * Install the latest updates
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these methods
 
  If common methods can’t help, you can move to the below methods. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -49,22 +56,21 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Run Microsoft Edge to check the problem is resolved or not.
 
@@ -82,10 +88,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
@@ -107,27 +113,20 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
@@ -136,13 +135,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  It’s reported that the Rapport could cause Microsoft Edge crashing and many users had reported after uninstalling Trusteer Rapport/Endpoint the problem has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
 
@@ -168,13 +160,32 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -185,6 +196,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
@@ -214,24 +232,19 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-crafting-captivating-stories-on-fb-a-comprehensive-guide-to-bio-crafting-for-2024/"><u>[New] Crafting Captivating Stories on FB A Comprehensive Guide to Bio Crafting for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-expertise-in-audio-file-transformation-from-srt-to-xmlssattml-for-2024/"><u>[New] Expertise in Audio File Transformation From SRT to XML/SSA/TTML for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-gamers-choice-best-alternatives-to-official-recorder-for-2024/"><u>[New] Gamer's Choice Best Alternatives to Official Recorder for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-unlocking-chromebook-zoom-capabilities-for-2024/"><u>[Updated] Unlocking Chromebook Zoom Capabilities for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlenet-not-launching-overcome-the-challenge-with-our-expert-fixes/"><u>Battle.net Not Launching? Overcome the Challenge with Our Expert Fixes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bilingual-brain-builder/"><u>Bilingual Brain Builder</u></a></li>
-<li><a href="https://win-able.techidaily.com/chrome-page-loading-issues-demystified-strategies-to-ensure-smooth-access/"><u>Chrome Page-Loading Issues Demystified: Strategies to Ensure Smooth Access</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-evaluation-samsung-gear-360-vr-camera/"><u>Comprehensive Evaluation Samsung Gear 360 VR Camera</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-overcoming-maplestory-stutter-and-crashes-on-windows-10-updated/"><u>Expert Advice: Overcoming MapleStory Stutter and Crashes on Windows 10 (Updated )</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125145789-felicia-day-enthusiastically-welcomed-into-the-world-of-3d-printing-free-access-to-her-exclusive-model-downloads/"><u>Felicia Day Enthusiastically Welcomed Into the World of 3D Printing: Free Access to Her Exclusive Model Downloads</u></a></li>
-<li><a href="https://win-able.techidaily.com/game-developers-address-and-correct-longstanding-pc-stability-issues-for-century-age-of-ashes-players/"><u>Game Developers Address and Correct Longstanding PC Stability Issues for Century: Age of Ashes Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-enabling-recognition-of-graphics-card-by-msi-afterburner-on-windows-11/"><u>Guide: Enabling Recognition of Graphics Card by MSI Afterburner on Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-y27s-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo Y27s Phone? Unlock It Now</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-star-citizen-software-issues-fixed-for-seamless-windows-gaming/"><u>Resolved: Star Citizen Software Issues Fixed for Seamless Windows Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-metro-exodus-pc-enhanced-editions-recurring-crashes/"><u>Troubleshooting Steps for Resolving Metro Exodus PC Enhanced Edition's Recurring Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-stop-escape-from-tarkov-pc-game-crashes-efficiently/"><u>Troubleshooting Steps to Stop 'Escape From Tarkov' PC Game Crashes Efficiently</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-fixing-the-black-screen-glitch-in-fallout-4/"><u>Troubleshooting Tips: Fixing the Black Screen Glitch in Fallout #4</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-comprehensive-guide-to-watching-movies-with-fandango-on-a-fire-stick/"><u>Your Comprehensive Guide to Watching Movies with Fandango on a Fire Stick</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-cut-rate-video-upgrade-turning-fb-videos-into-mp4-hd1080p/"><u>2024 Approved Cut-Rate Video Upgrade Turning FB Videos Into MP4 HD/1080P</u></a></li>
+<li><a href="https://win-bits.techidaily.com/cannot-locate-content-http-status-code-404-error/"><u>Cannot Locate Content: HTTP Status Code 404 Error</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-one-channel-sound-issue-for-windows-bluetooth-device/"><u>Correcting One-Channel Sound Issue for Windows' Bluetooth Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-ii-resurrected-stability-enhancements-no-more-crashes/"><u>Diablo II Resurrected Stability Enhancements - No More Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-5-pc-performance-hacks-overcoming-stutter-and-sudden-freezes-for-uninterrupted-gaming/"><u>Forza Horizon 5 PC Performance Hacks: Overcoming Stutter and Sudden Freezes for Uninterrupted Gaming</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-reno-11f-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-tecno-pop-7-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-methods-from-youtube-to-mpeg-encoding/"><u>In 2024, Prime Methods From YouTube to MPEG Encoding</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-essential-guide-for-instagram-video-uploads-from-pcmac/"><u>In 2024, The Essential Guide for Instagram Video Uploads From PC/Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/quickly-resolve-your-warzone-a-simple-guide-to-correcting-directx-glitches-in-four-steps/"><u>Quickly Resolve Your Warzone: A Simple Guide to Correcting DirectX Glitches in Four Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/sea-of-thieves-stuck-on-boot-heres-how-to-dive-back-into-action/"><u>Sea of Thieves Stuck on Boot? Here's How to Dive Back Into Action!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-palworlds-eos-login-issues-discover-6-effective-solutions/"><u>Troubleshooting PalWorld's EOS Login Issues: Discover 6 Effective Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pixelated-images-a-players-handbook-to-crisp-visuals-in-cod-warzone-pc/"><u>Troubleshooting Pixelated Images: A Player's Handbook to Crisp Visuals in COD: Warzone (PC)</u></a></li>
+<li><a href="https://win-able.techidaily.com/wsappx-explained-troubleshooting-remedies-for-high-resource-use-on-your-pc/"><u>WSAPPX Explained: Troubleshooting Remedies for High Resource Use on Your PC</u></a></li>
 </ul></div>
 

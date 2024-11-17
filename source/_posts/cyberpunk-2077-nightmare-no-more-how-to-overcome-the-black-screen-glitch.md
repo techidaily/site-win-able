@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 Nightmare No More: How to Overcome the Black Screen Glitch"
-date: 2024-09-01T08:04:20.006Z
-updated: 2024-09-02T08:04:20.006Z
+date: 2024-11-14T07:04:31.207Z
+updated: 2024-11-16T23:57:10.650Z
 tags:
   - win11
   - win10
@@ -31,6 +31,19 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 6. [**Clear game cache files**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Check your computer specs first
 
  **Before moving to fixes, make sure your PC is up for running the game.** Below are the minimum and recommended system requirements for Cyberpunk 2077.
@@ -57,8 +70,12 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
  If you are sure your PC meets the system requirements for Cyberpunk 2077, you can skip to fixes directly. But if unfortunately not, then you’ll need to either update your hardware or play the game on another device that supports it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Verify integrity of game files
 
  The Cyberpunk 2077 not launching issue may occur when you have one or more game files corrupted or deleted by malware. To fix this, try verifying the integrity of game files from [**Steam**](https://tools.techidaily.com/drivereasy/download/) or **[Epic Games](https://tools.techidaily.com/drivereasy/download/)**  depending on which platform you’re on.
@@ -71,9 +88,6 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  3) Right-click **Cyberpunk 2077** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-4.jpg)
@@ -82,9 +96,6 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Relaunch your game to test your issue.
 
  If your game is still unplayable, move on to [**Fix 2**](https://tools.techidaily.com/drivereasy/download/) .
@@ -98,11 +109,22 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click **Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Relaunch your game to test the issue.
 
@@ -129,13 +151,14 @@ If the game is still unplayable, move on to the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-08_14-34-51-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If the game still won’t launch with admin privileges, then try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update the graphics driver
 
  Your graphics card driver is vital to the gaming experience. If the driver is out of date, it can cause a range of issues, even if your video hardware exceeds the game’s requirements.
@@ -171,9 +194,6 @@ If the game is still unplayable, move on to the fix below.
 
  Game issues could happen when you’re running an outdated game launcher. So if you haven’t updated the game launcher already, try updating it to see if that’s the core issue. If the issue persists, then try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Clear game cache files
 
  If your game won’t launch, then it may be due to an issue with game cache files. In this case, clearing your download cache can solve the problem.
@@ -215,10 +235,6 @@ If the game is still unplayable, move on to the fix below.
 
 If this didn’t resolve the issue, then try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 7: Check for Window updates
 
  Windows updates can address bugs related to both hardware and software. So, make sure you’ve installed all the new Windows updates to keep your game running correctly. Here is how to do it:
@@ -231,6 +247,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_16-26-41.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Restart your computer after the update is complete.
 
  Hopefully, this post helped. Feel free to leave a comment below if you have any questions or suggestions.
@@ -241,8 +264,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,4 +271,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/outubes-foe-a-guide-to-the-top-5-editing-rivals-for-2024/"><u>[New] YouTube's Foe? A Guide to the Top 5 Editing Rivals for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-dying-light-crash-quickly-and-easily/"><u>[Solved] Dying Light Crash | Quickly & Easily!</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-the-codex-defeating-cod-warzone-error-6328-with-expert-guidance/"><u>Conquer the Codex: Defeating COD Warzone Error 6328 with Expert Guidance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-homescreen-activation-in-windows-11/"><u>Guide to Homescreen Activation in Windows 11</u></a></li>
+<li><a href="https://win-bits.techidaily.com/how-generation-ai-enhances-development-efficiency-insights-from-the-latest-research-zdnet/"><u>How Generation AI Enhances Development Efficiency: Insights From the Latest Research | ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-tecno-spark-10-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Tecno Spark 10 5G FRP?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-iphone-15-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 15 Device from iCloud</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1728477421660-itunes/"><u>ITunesバックアップ用パスワードを失くした場合、復旧方法は？</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fixes-to-stop-me3-from-crashing-on-your-console-or-computer/"><u>Mastering the Fixes to Stop ME3 From Crashing on Your Console or Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-unfreeze-techniques-mozilla-firefox-tips-to-optimize-your-browsing/"><u>Mastering Unfreeze Techniques: Mozilla Firefox Tips to Optimize Your Browsing</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001048160-troubleshooting-steps-when-cortana-stops-responding-solutions-inside/"><u>Troubleshooting Steps When Cortana Stops Responding - Solutions Inside</u></a></li>
+</ul></div>
 

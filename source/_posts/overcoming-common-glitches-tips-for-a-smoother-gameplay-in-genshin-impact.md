@@ -1,7 +1,7 @@
 ---
 title: Overcoming Common Glitches - Tips for a Smoother Gameplay in Genshin Impact
-date: 2024-10-30T19:09:11.782Z
-updated: 2024-11-06T20:02:36.892Z
+date: 2024-11-16T08:10:55.914Z
+updated: 2024-11-17T08:53:20.769Z
 tags:
   - win11
   - win10
@@ -85,20 +85,34 @@ Here are the requirements for your reference:
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Then try your House Flipper 2 again to see if it still crashes. If the problem remains, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable OneDrive, DropBox, or antivirus program(s)
 
@@ -119,18 +133,18 @@ Here are the requirements for your reference:
 * **[I have an Nvidia display card](https://tools.techidaily.com/drivereasy/download/)**
 * **[I have an AMD display card](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5.1 I have an Nvidia display card
 
 1. Right-click on your desktop and select**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-13.png)
 2. Select**Manage 3D settings** on the left menu, and select**Program Settings** on the right panel. Then click the**Add** button.![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Navigate to the folder where you install House Flipper 2\. (It’ll most likely be C:\\Program Files (x86)\\Steam\\steamapps\\common\\House Flipper 2). Then select the executable file for House Flipper 2.
 
@@ -152,42 +166,16 @@ Here are the requirements for your reference:
 3. Select**Switchable Graphics** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-22.png)
 4. Click**Installed Profile Applications** if House Flipper 2 is not shown in Running Applications. Click the .exe for House Flipper 2 and select**High Performance** .  
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-23.png)
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then run House Flipper 2 again to see if the crashes remain. If so, please move on to the next fix below.
 
@@ -203,12 +191,26 @@ Here are the requirements for your reference:
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
 
  Launch your House Flipper 2 again to see if it still crashes. If the problem remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Update display card driver
 
@@ -240,13 +242,6 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -270,13 +265,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Setting Vertical sync to **Adaptive** might also be efficient, according to some players.
 
 ### **If you have an AMD display card, modify the Wait for Vertical Refresh setting:**
@@ -295,6 +283,13 @@ To do so, first visit the website of your GPU manufacturer:
  When V-sync is off, launch House Flipper 2 again to see if it still crashes. If the problem still remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Reinstall the game into a different drive (preferably to an SSD)
 
@@ -325,13 +320,6 @@ To tell which drive you have, please view the Task Manager in this way:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
 ---
@@ -355,18 +343,19 @@ To tell which drive you have, please view the Task Manager in this way:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-navigating-voice-modding-on-discord-desktop-and-mobile-edition/"><u>[Updated] 2024 Approved Navigating Voice Modding on Discord Desktop & Mobile Edition</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-artisans-path-to-enchanting-collage-compositions/"><u>[Updated] The Artisan's Path to Enchanting Collage Compositions</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-atomic-heart-challenges-for-a-smooth-initial-boot-process/"><u>Bypassing Atomic Heart Challenges for a Smooth Initial Boot Process</u></a></li>
-<li><a href="https://win-able.techidaily.com/decode-the-error-expert-advice-for-playing-far-cry-6-on-your-pc/"><u>Decode the Error: Expert Advice for Playing Far Cry 6 on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-the-insufficient-memory-problem-in-god-of-war-solutions-and-tips/"><u>Fix the 'Insufficient Memory' Problem in God of War - Solutions and Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-tecno-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Tecno lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-sidestep-and-solve-fatal-error-issues-while-playing-tales-of-arise-on-ue4/"><u>How to Sidestep and Solve Fatal Error Issues While Playing Tales of Arise on UE4</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-fixing-techniques-for-the-sea-of-thieves-crashing-woes/"><u>Step-by-Step Fixing Techniques for the Sea of Thieves Crashing Woes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-10-must-have-mobile-apps-for-your-childs-high-school-success/"><u>The Ultimate List: 10 Must-Have Mobile Apps for Your Child's High School Success</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transform-your-projects-with-these-top-10-ae-types/"><u>Transform Your Projects with These Top 10 AE Types</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-solve-your-minecraft-performance-issues-top-tricks-for-pc-in-2eby/"><u>Ultimate Guide: Solve Your Minecraft Performance Issues - Top Tricks for PC in 2Eby</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-often-feel-fascinated-to-try-hands-at-anime-character-design-to-spark-up-your-editing-skills-or-just-for-a-fun-filled-activity-/"><u>Updated 2024 Approved Do You Often Feel Fascinated to Try Hands at Anime Character Design to Spark up Your Editing Skills, or Just for a Fun-Filled Activity? Stay Here for the Best Inspirations You Can Ever Get</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-of-16-free-film-making-tools/"><u>Updated The Ultimate List of 16 Free Film Making Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-become-a-gif-artist-basic-steps/"><u>[New] Become a GIF Artist Basic Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-film-assembly-station-for-2024/"><u>[New] Film Assembly Station for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hero5-black-meets-yi-4k-the-ultimate-update-for-action-camera-fans/"><u>[New] Hero5 Black Meets Yi 4K - The Ultimate Update for Action Camera Fans</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-skyrocket-views-with-smartly-chosen-video-release-times/"><u>2024 Approved Skyrocket Views with Smartly Chosen Video Release Times</u></a></li>
+<li><a href="https://win-able.techidaily.com/advanced-strategies-to-skyrocket-fps-in-ark-stone-island-survival-edition-on-pc-best-practices-guide/"><u>Advanced Strategies to Skyrocket FPS in ARK: Stone Island Survival Edition on PC – Best Practices Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoiding-game-interruptions-fixing-cities-skylines-crash-problems-with-advanced-techniques/"><u>Avoiding Game Interruptions: Fixing Cities: Skylines Crash Problems with Advanced Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-high-input-delay-in-your-gameplay-of-cyberpunk-2dark-dreams-digital-official-site-for-cd-projekt-red-games-witcher-series-cyberpunk-2077-and-more/"><u>Fixing High Input Delay in Your Gameplay of Cyberpunk 2#Dark Dreams Digital - Official Site for CD Projekt Red Games, Witcher Series, Cyberpunk 2077, and More!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/future-virtual-frontiers-in-depth-comparison-of-meta-and-omniverse-worlds/"><u>Future Virtual Frontiers In-Depth Comparison of Meta & Omniverse Worlds</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g23-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Motorola Moto G23 Phone without Any Data Loss</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-common-pitfalls-in-internet-explorer-for-seamless-website-loading/"><u>Overcoming Common Pitfalls in Internet Explorer for Seamless Website Loading</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-the-unable-to-sync-with-steam-cloud-issue/"><u>Resolved: Fixing the 'Unable to Sync with Steam Cloud' Issue</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-transfer-guide-5-top-techniques-for-computing-files/"><u>The Ultimate Transfer Guide 5 Top Techniques for Computing Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-issues-with-halo-infinite-sound/"><u>Troubleshooting Common Issues with Halo Infinite Sound</u></a></li>
 </ul></div>
 
